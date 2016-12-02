@@ -1,0 +1,706 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok196.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok177.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok130.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok59.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok171.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok346.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok125.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok54.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok174.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok345.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok259.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok206.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok378.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok295.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok193.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
+
+searching dari query expansion
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+passage 26 score = 8.5
+sentence 1: hatta ( wakil ketua ) prof. mr. dr. soepomo ( anggota ) krt radjiman wedyodiningrat ( anggota ) r. p. soeroso ( anggota ) soetardjo kartohadikoesoemo ( anggota ) kiai abdoel wachid hasjim ( anggota ) ki bagus hadikusumo ( anggota ) otto iskandardinata ( anggota ) abdoel kadir ( anggota ) pangeran soerjohamidjojo ( anggota ) pangeran poerbojo ( anggota ) dr. mohammad amir ( anggota ) mr. abdul abbas ( anggota ) mr. mohammad hasan ( anggota ) dr. gssj ratulangi ( anggota ) andi pangerang ( anggota ) a.h. hamidan ( anggota ) i goesti ketoet poedja ( anggota ) mr. johannes latuharhary ( anggota ) drs. yap tjwan bing ( anggota ) selanjutnya tanpa sepengetahuan jepang , keanggotaan bertambah 6 yaitu : achmad soebardjo ( anggota ) sajoeti melik ( anggota ) ki hadjar dewantara ( anggota ) r.a.a. wiranatakoesoema ( anggota ) kasman singodimedjo ( anggota ) iwa koesoemasoemantri ( anggota ) persidangan tanggal 9 agustus 1945 , sebagai pimpinan ppki yang baru , soekarno , hatta dan radjiman wedyodiningrat diundang ke dalat untuk bertemu marsekal terauchi .
+sentence 2: setelah pertemuan tersebut , ppki tidak dapat bertugas karena para pemuda mendesak agar proklamasi kemerdekaan tidak dilakukan atas nama ppki , yang dianggap merupakan alat buatan jepang .
+sentence 3: bahkan rencana rapat 16 agustus 1945 tidak dapat terlaksana karena terjadi peristiwa rengasdengklok .
+sentence 4: setelah proklamasi , pada tanggal 18 agustus 1945 , ppki memutuskan antara lain : mengesahkan undang-undang dasar , memilih dan mengangkat ir .
+sentence 5: soekarno sebagai presiden dan drs. m. hatta sebagai wakil presiden ri , membentuk komite nasional untuk membantu tugas presiden sebelum dpr/mpr terbentuk .
+passage 28 score = 8.0
+sentence 1: sejalan dengan usulan kedua , maka pasal 29 pun berubah .
+sentence 2: c. peristiwa rengasdengklok peristiwa rengasdengklok adalah peristiwa dimulai dari “ penculikan ” yang dilakukan oleh sejumlah pemuda ( a.l. adam malik dan chaerul saleh dari menteng 31 terhadap soekarno dan hatta .
+sentence 3: peristiwa ini terjadi pada tanggal 16 agustus 1945 pukul 04.30 .
+sentence 4: wib , soekarno dan hatta dibawa ke rengasdengklok , karawang , untuk kemudian didesak agar mempercepat proklamasi kemerdekaan republik indonesia , sampai dengan terjadinya kesepakatan antara golongan tua yang diwakili soekarno dan hatta serta mr. achmad subardjo dengan golongan muda tentang kapan proklamasi akan dilaksanakan .
+sentence 5: menghadapi desakan tersebut , soekarno dan hatta tetap tidak berubah pendirian .
+passage 37 score = 7.5
+sentence 1: pancasila adalah landasan filosofis dari negara indonesia .
+sentence 2: pancasila terdiri dari dua kata sansekerta yang terdapat didalam kitab sutasoma karangan empu tantular pada masa kerajaan majapahit , yaitu panca artinya lima , dan sila artinya dasar .
+sentence 3: jadi , pancasila itu adalah lima prinsip dasar yang terkait dan tidak dapat terpisahkan satu sama lainnya , yaitu : ketuhanan yang maha esa kemanusiaan yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan keadilan sosial bagi seluruh rakyat indonesia .
+sentence 4: sedangkan undang-undang dasar 1945 adalah sesuatu draf yang didahului oleh preambul , undang-undang dasar 1945 terdiri dari 37 pasal , 4 peraturan peralihan dan peraturan tambahan .
+sentence 5: preambul terdiri dari empat paragraf dan mengandung kecaman terhadap penjajahan di dunia , merujuk kepada perjuangan kemerdekaan indonesia , deklarasi kemerdekaan , dan pernyataan tujuan dasar dan prinsip-prinsip .
+passage 39 score = 7.5
+sentence 1: adapun tiga undang-undang dasar itu ialah : undang-undang dasar 1945 yang memuat dalam berita republik indonesia tahun ii ( 1945 ) no. 7. , halaman 45 sampai 48 , berlaku mulai tanggal 18 agustus 1945 sampai 17 agustus 1950 ; kemudian berlaku kembali sejak 5 juli 1959 sampai sekarang .
+sentence 2: konstitusi republik indonesia serikat yang diundangkan dalam lembaran negara nomor 3 tahun 1950 , berlaku mulai tanggal 27 desember 1949 sampai 17 agustus 1950 .
+sentence 3: undang-undang dasar sementara yang diundangkan dalam lembaran negara nomor 56 tahun 1950 sebagai undang-undang nomor 7 tahun 1950 , yang berlaku mulai 17 agustus 1950 sampai 5 juli 1959 .
+sentence 4: jadi dalam sejarah konstitusi , undang-undang dasar 1945 mempunyai perkembangan yang istimewa jika dibandingkan dengan undang-undang dasar lain yang pernah berlaku di indonesia .
+sentence 5: keistimewaannya itu diantaranya : undang-undang dasar 1945 berlaku yang pertama kali setelah negara republik indonesia diproklamasikan pada tanggal 17 agustus 1945 , tepatnya berlaku sejak tanggal 18 agustus 1945 .
+passage 47 score = 7.5
+sentence 1: jadi , kesimpulan menurut kami ; idea disusunnya suatu konsep rancangan preambule hukum dasar timbul dalam rapat-rapat gabungan tanggal : 22 juni 1945 .
+sentence 2: didalam rapat gabungan itu , selanjutnya akan terbentuk panitia delapan dan panitia sembilan .
+sentence 3: 5 .
+sentence 4: proses perumusan dan pengesahan sila-sila pancasila dan uud 1945 1 .
+sentence 5: perumusan sila-sila pancasila pada awal mula perumusan ( penyusunan ) sila-sila pancasila adalah sidang pertama bpupki pada tanggal 29 mei s/d 1 juni 1945 dengan acara sidang mempersiapkan rancangan dasar negara indonesia merdeka .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 42 score = 7.5
+sentence 1: utusan itu pun menjawab “ kalau begitu pendirian saudara-saudara berdua , baiklah !
+sentence 2: dan kami pemuda-pemuda tidak dapat menanggung sesuatu , jika besok siang proklamasi belum juga diumumkan .
+sentence 3: kami pemuda-pemuda akan bertindak dan menunjukkan kesanggupan yang saudara kehendaki itu ! ”
+sentence 4: f. peristiwa rengasdengklok sekitar pukul 12.00 kedua utusan meninggalkan halaman rumah ir .
+sentence 5: sukarno dengan diliputi perasaan kesal memikirkan sikap dan perkataan sukarno-hatta .
+passage 47 score = 7.5
+sentence 1: namun dalam suatu pembicaraan berdua dengan ir .
+sentence 2: sukarno , shudanco singgih beranggapan sukarno bersedia untuk menyatakan proklamasi segera setelah kembali ke jakarta .
+sentence 3: oleh karena itulah singgih pada tengah hari itu kembali ke jakarta untuk menyampaikan rencana proklamasi kepada kawan-kawannya .
+sentence 4: sementara itu di jakarta para anggota ppki yang diundang rapat pada tanggal 16 agustus memenuhi undangannya dan berkumpul di gedung pejambon 2 .
+sentence 5: akan tetapi rapat itu tidak dapat dihadiri oleh pengundangnya sukarno-hatta yang sedang berada di rengasdengklok .
+passage 49 score = 7.5
+sentence 1: selanjutnya antara kedua tokoh golongan tua dan tokoh golongan muda itu tercapai kesepakatan bahwa proklamasi kemerdekaan harus dilaksanakan di jakarta .
+sentence 2: karena adanya kesepakatan itu , maka jusuf kunto dari golongan muda bersedia mengantarkan mr. ahmad subardjo bersama sekretarisnya , sudiro ( mbah ) ke rengasdengklok .
+sentence 3: rombongan ini tiba pada pukul 18.00 waktu jawa .
+sentence 4: selanjutnya ahmad subardjo memberikan jaminan dengan taruhan nyawa bahwa proklamasi kemerdekaan akan diumumkan pada keesokan harinya tanggal 17 agustus 1945 selambat-lambatnya pukul 12.00 .
+sentence 5: dengan adanya jaminan itu , maka komandan kompi peta rengasdengklok , cudanco subeno bersedia melepaskan ir .
+passage 45 score = 7.0
+sentence 1: rencana ini berjalan lancar karena mendapatkan dukungan perlengkapan tentara peta dari cudanco latief hendraningrat yang pada saat itu sedang menggantikan daidanco kasman singodimedjo yang sedang bertugas ke bandung .
+sentence 2: maka pada tanggal 16 agustus 1945 pukul 04.30 waktu jawa sekelompok pemuda membawa ir .
+sentence 3: sukarno dan drs. moh .
+sentence 4: hatta ke luar kota menuju rengasdengklok , sebuah kota kawedanan di pantai utara kabupaten karawang .
+sentence 5: alasan yang mereka kemukakan ialah bahwa keadaan di kota sangat genting , sehingga keamanan sukarno-hatta di dalam kota sangat dikhawatirkan .
+passage 48 score = 7.0
+sentence 1: akan tetapi rapat itu tidak dapat dihadiri oleh pengundangnya sukarno-hatta yang sedang berada di rengasdengklok .
+sentence 2: oleh karena itu mereka merasa heran .
+sentence 3: satu-satu jalan untuk mengetahui mereka adalah melalui wikana salah satu utusan yang bersitegang dengan sukarno-hatta malam harinya .
+sentence 4: oleh karena itulah mr. ahmad subardjo mendekati wikana .
+sentence 5: selanjutnya antara kedua tokoh golongan tua dan tokoh golongan muda itu tercapai kesepakatan bahwa proklamasi kemerdekaan harus dilaksanakan di jakarta .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 13 score = 8.5
+sentence 1: pada tanggal 12 agustus 1945 jendral terauchi mengucapkan selamat atas dibentuknya ppki dan menyerahkan pelaksanaan proklamasi kemerdekaan pada ppki .
+sentence 2: dengan demikian jepang sudah menyerahkan sepenuhnya pelaksanaan proklamasi kemerdekaan kepada bangsa indonesia melalui ppki .
+sentence 3: peristiwa seputar proklamasi dari rengasdengklok hingga proklamasi kemerdekaan indonesia menjelang berlangsung pelaksanaan proklamasi kemerdekaan , terjadi beberapa peristiwa yang merupakan salah satu bentuk aspirasi perjuangan baik dari golongan tua maupun golongan pemuda .
+sentence 4: meskipun demikian aspirasi-aspirasi tersebut merupakan suatu upaya agar kemerdekaan yang diperoleh merupakan hasil perjuangan bangsa indonesia , bukan pemberian dari jepang atau bangsa asing lainnya .
+sentence 5: adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada tanggal 14 agustus 1945 jepang menyerah tanpa syarat pada sekutu di kapal missaurri milik angkatan laut amerika serikat .
+passage 14 score = 8.0
+sentence 1: adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada tanggal 14 agustus 1945 jepang menyerah tanpa syarat pada sekutu di kapal missaurri milik angkatan laut amerika serikat .
+sentence 2: berita tersebut oleh jepang dirahasiakan , akan tetapi berita tersebut dapat diketahui oleh sutan syahrir melalui siaran radio gelap .
+sentence 3: kemudian sutan syahrir menyampaikan berita tersebut baik pada golongan pemuda maupun golongan tua .
+sentence 4: sehingga diantara dua golongan tersebut terjadi perbedaan pendapat mengenai proklamasi kemerdekaan indonesia , sebagai berikut : kemudian golongan pemuda mendesak ir .
+sentence 5: sukarno dan drs. mohammad hatta agar secepatnya melaksanakan proklamasi kemerdekaan , tanpa menunggu perintah dari jepang .
+passage 16 score = 7.0
+sentence 1: sukarno dan drs. mohammad hatta keluar kota jakarta .
+sentence 2: hal ini dimaksudkan agar kedua tokoh tersebut tidak mendapat pengaruh dan tekanan dari jepang .
+sentence 3: pada tanggal 16 agustus 1945 komandan peleton peta yaitu shudanco singgih memimpin para pemuda untuk mengasingkan ir .
+sentence 4: sukarno dan drs. mohammad hatta , ke daerah rengasdengklok .
+sentence 5: ikut serta dalam rombongan tersebut adalah ibu fatmawati ( istri ir .
+passage 19 score = 7.0
+sentence 1: oleh karena itu setelah yusuf kunto bertemu dengan mr. ahmad subarjo dapat mengetahui keberadaan ir soekarno dan drs. mohammad hatta segera kembali lagi ke rengasdengklok .
+sentence 2: pada para pemuda , mr. ahmad subarjo mendesak dan menjamin bahwa pada tanggal 17 agustus 1945 bung karno dan bung hatta akan segera menyatakan kemerdekaan indonesia .
+sentence 3: dengan adanya jaminan tersebut , maka para pemuda bersedia melapaskan bung karno dan bung hatta untuk kembali ke jakarta .
+sentence 4: peristiwa perumusan naskah teks proklamasi kemerdekaan indonesia setelah sampai di jakarta , ir sukarno dan drs mohammad hatta segera menemui pemimpin tentara jepang yaitu mayor jendral nisimura untuk menanyakan sikap dan pendapatnya mengenai proklamasi kemerdekaan .
+sentence 5: akan tetapi mayor jendral nisimura menyatakan bahwa pihaknya tidak bertanggung jawab dan menyerahkannya pada ir sukarno dan drs mohammad hatta .
+passage 1 score = 6.5
+sentence 1: peristiwa seputar proklamasi kemerdekaan 17 agustus 1945 - menjelang berakhirnya perang dunia ii ( 1939-1945 ) pasukan gabungan sekutu yaitu front abcd ( amerika serikat , british / inggris , china dan dutch / belanda ) berhasil mengalahkan pasukan tentara jepang dalam pertempuran di laut karang pada tanggal 7 mei 1945 .
+sentence 2: setelah itu , pasukan amerika serikat kemudian melakukan penyerbuan terhadap pusat-pusat industri , pemerintahan dan militer di jepang .
+sentence 3: sehingga akhirnya pada tanggal 6 agustus 1945 amerika serikat menjatuhkan bom atom dikota hiroshima dan pada tanggal 9 agustus 1945 amerika serikat menjatuhkan bom atom dikota nagasaki .
+sentence 4: setelah kedudukan jepang bertambah sulit baik dalam perang dunia ii maupun perang asia timur raya , maka perdana menteri jepang kaiso pada tanggal 7 september 1944 mengeluarkan janji kemerdekaan kepada bangsa indonesia kelak dikemudian hari .
+sentence 5: hal ini perlu dilakukan oleh jepang agar rakyat indonesia tidak melakukan perlawanan militer serta aksi-aksi perebutan kekuasaan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
+title : sistem mobilisasi dan kontrol pemerintah pendudukan jelang di berbagai daerah di indonesia
+passage 6 score = 6.5
+sentence 1: dengan pola ekonomi perang yang diterapkannya , maka setiap wilayah harus melaksanakan sistem autarki , yaitu setiap daerah harus memenuhi kebutuhannya sendiri serta harus dapat memenuhi kebutuhan perang .
+sentence 2: pulau jawa dibagi atas 17 autarki , sumatra 3 autarki dan 3 lingkungan dari daerah minseifu ( yang diperintah angkatan laut ) .
+sentence 3: akibat sistem ekonomi tersebut maka pada tahun 1944 , keadaan ekonomi makin parah .
+sentence 4: kekurangan sandang dan pangan terjadi di mana-mana .
+sentence 5: hal ini akhirnya disiasati dengan pengerahan barang dan menambah bahan pangan yang dilakukan oleh jawa hokokai , nagyo kumiai ( koperasi pertanian ) dan instansi-instansi pemerintah lainnya .
+passage 16 score = 6.5
+sentence 1: akan tetapi , meskipun ada dampak positif dari suatu penjajahan , tetap saja penjajahan akan lebihbanyak menimbulkan penderitaan dan kesengsaraan dibanding kesejahteraan .
+sentence 2: posisi jepang semakin terjepit akibat kekalahan-kekalahan yang dialami dalam setiap medan pertempuran melawan sekutu .
+sentence 3: oleh karena itu , untuk mempertahankan pengaruh jepang di negara-negara yang didudukinya , perdana menteri koiso mengeluarkan janji kemerdekaan pada tanggal 7 september 1944 dalam sidang parlemen jepang di tokyo .
+sentence 4: sebagai bukti dan tindak lanjut janji tersebut , pada tanggal 1 maret 1945 , letnan jenderal kumakici harada ( pemimpin militer di jawa ) mengumumkan dibentuknya dokuritsu junbi cosakai atau badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpupki ) .
+sentence 5: badan ini bertugas mempelajari dan menyelidiki hal-hal penting yang menyangkut segi politik dan ekonomi yang diperlukan bagi pembentukan negara indonesia merdeka .
+passage 1 score = 6.0
+sentence 1: sistem mobilisasi dan kontrol pemerintah pendudukan jelang di berbagai daerah di indonesia - dalam undang-undang nomor 1 tanggal 7 maret 1942 menyatakan bahwa balatentara nippon melangsungkan pemerintahan militer untuk sementara waktu di daerah yang ditempatinya , agar mendatangkan keamanan yang sentosa dan segera .
+sentence 2: undang-undang yang dikeluarkan oleh letnan jenderal hitoshi imamura , panglima tentara keenam belas itu sebenarnya melancarkan propaganda bahwa bangsa jepang adalah saudara tua bangsa indonesia .
+sentence 3: dengan mengatakan hal ini , maka kedatangan bangsa jepang disambut gembira oleh bangsa indonesia .
+sentence 4: sebab menurut mereka , bangsa jepang dapat melepaskan bangsa indonesia dari belenggu penjajahan dan segera menciptakan kemerdekaan .
+sentence 5: apa yang dijanjikan oleh jepang tersebut , ternyata hanyalah isapan jempol belaka .
+passage 17 score = 6.0
+sentence 1: badan ini bertugas mempelajari dan menyelidiki hal-hal penting yang menyangkut segi politik dan ekonomi yang diperlukan bagi pembentukan negara indonesia merdeka .
+sentence 2: tidak beberapa lama , bpupki dibubarkan dan digantikan oleh dokuritsu junbi inkai atau panitia persiapan kemerdekaan indonesia ( ppki ) .
+sentence 3: pada tanggal 7 agustus 1945 , badan ini baru diresmikan .
+sentence 4: akan tetapi , setelah mendengar berita penyerahan tanpa syarat jepang terhadap sekutu , kemerdekaan yang dicita-citakan oleh bangsa indonesia terwujud bukan atas nama ppki , melainkan atas nama bangsa indonesia itu sendiri .
+sentence 5: [ gs ]
+passage 2 score = 1.0
+sentence 1: apa yang dijanjikan oleh jepang tersebut , ternyata hanyalah isapan jempol belaka .
+sentence 2: bangsa jepang tidak berusaha untuk memberikan kemerdekaan kepada bangsa indonesia , malah lebih memeras lagi dan lebih membuat bangsa indonesia sengsara , baik secara jiwa , raga , maupun materi .
+sentence 3: eksploitasi ekonomi terjadi di mana-mana .
+sentence 4: produksi pangan makin merosot , terutama beras dan kejadian ini makin membuat rakyat indonesia makin menderita .
+sentence 5: rakyat dipaksa untuk menyerahkan sebagian besar , atau bahkan seluruh hasil sawah dan kebunnya kepada pemerintah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
+title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
+passage 11 score = 6.5
+sentence 1: berbagai jenis penemuan penting adanya penemuan teknologi baru , besar peranannya dalam proses industrialisasi sebab teknologi baru dapat mempermudah dan mempercepat kerja industri , melipatgandakan hasil , dan menghemat biaya .
+sentence 2: penemuan-penemuan yang penting , antara lain sebagai berikut .
+sentence 3: a. kumparan terbang ( flying shuttle ) cipataan john kay ( 1733 ) .
+sentence 4: dengan alat ini proses pemintalan dapat berjalan secara cepat .
+sentence 5: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
+passage 12 score = 6.5
+sentence 1: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
+sentence 2: dengan alat ini hasilnya berlipat ganda .
+sentence 3: c. mesin tenun ( merupakan penyempurnaan dari kumparan terbang ) ciptaan edmund cartwight ( 1785 ) .
+sentence 4: dengan alat ini hasilnya berlipat ganda .
+sentence 5: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
+passage 13 score = 6.5
+sentence 1: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
+sentence 2: dengan alat ini maka kebutuhan kapas bersih dalam jumlah yang besar dapat tercukupi .
+sentence 3: e. cap selinder ciptaan thomas bell ( 1785 ) .
+sentence 4: dengan alat ini kain putih dapat dilukisi pola kembang 200 kali lebih cepat jika dibandingkan dengan pola cap balok dengan tenaga manusia .
+sentence 5: f. mesin uap , ciptaan james watt ( 1769 ) .
+passage 14 score = 6.5
+sentence 1: f. mesin uap , ciptaan james watt ( 1769 ) .
+sentence 2: dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( 1804 ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang .
+sentence 3: kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( 1814 ) .
+sentence 4: mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' .
+sentence 5: penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
+passage 16 score = 6.5
+sentence 1: 2 .
+sentence 2: tahun 1802 : symington menemukan kapal kincir 3 .
+sentence 3: tahun 1807 : robert fulton membuat kapal api yang telah menggunakan baling-baling yang dapat menggerakkan kapal .
+sentence 4: kapal itu diberi nama clermont yang mengarungi lautan atlantik pertama kali .
+sentence 5: kapal ini berangkat dari paris dan berlabuh di new york .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
+title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
+passage 11 score = 5.5
+sentence 1: berbagai jenis penemuan penting adanya penemuan teknologi baru , besar peranannya dalam proses industrialisasi sebab teknologi baru dapat mempermudah dan mempercepat kerja industri , melipatgandakan hasil , dan menghemat biaya .
+sentence 2: penemuan-penemuan yang penting , antara lain sebagai berikut .
+sentence 3: a. kumparan terbang ( flying shuttle ) cipataan john kay ( 1733 ) .
+sentence 4: dengan alat ini proses pemintalan dapat berjalan secara cepat .
+sentence 5: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
+passage 12 score = 5.5
+sentence 1: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
+sentence 2: dengan alat ini hasilnya berlipat ganda .
+sentence 3: c. mesin tenun ( merupakan penyempurnaan dari kumparan terbang ) ciptaan edmund cartwight ( 1785 ) .
+sentence 4: dengan alat ini hasilnya berlipat ganda .
+sentence 5: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
+passage 13 score = 5.5
+sentence 1: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
+sentence 2: dengan alat ini maka kebutuhan kapas bersih dalam jumlah yang besar dapat tercukupi .
+sentence 3: e. cap selinder ciptaan thomas bell ( 1785 ) .
+sentence 4: dengan alat ini kain putih dapat dilukisi pola kembang 200 kali lebih cepat jika dibandingkan dengan pola cap balok dengan tenaga manusia .
+sentence 5: f. mesin uap , ciptaan james watt ( 1769 ) .
+passage 14 score = 5.5
+sentence 1: f. mesin uap , ciptaan james watt ( 1769 ) .
+sentence 2: dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( 1804 ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang .
+sentence 3: kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( 1814 ) .
+sentence 4: mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' .
+sentence 5: penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
+passage 16 score = 5.5
+sentence 1: 2 .
+sentence 2: tahun 1802 : symington menemukan kapal kincir 3 .
+sentence 3: tahun 1807 : robert fulton membuat kapal api yang telah menggunakan baling-baling yang dapat menggerakkan kapal .
+sentence 4: kapal itu diberi nama clermont yang mengarungi lautan atlantik pertama kali .
+sentence 5: kapal ini berangkat dari paris dan berlabuh di new york .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+passage 1 score = 5.5
+sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
+sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
+sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
+sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
+sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+passage 6 score = 5.0
+sentence 1: 1 .
+sentence 2: bangsa melayu tua ( proto melayu ) .
+sentence 3: bangsa melayu tua adalah orang-orang austronesia dari asia ( yunan ) yang pertama kali ke nusantara pada sekitar 1500 sm .
+sentence 4: mereka datang ke nusantara melalui dua jalan .
+sentence 5: 1 .
+passage 2 score = 0.0
+sentence 1: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+sentence 2: pendapat van heine geldern ini diperkuat dengan penemuan peralatan manusia purba berupa beliung batu yang berbentuk persegi di sumatra , jawa , kalimantan , dan sulawesi di bagian barat .
+sentence 3: beliung seperti itu juga banyak ditemukan di asia , yakni di malaysia , birma ( myanmar ) , vietnam , kampuchea , dan terutama di daerah yunan ( daerah cina selatan ) .
+sentence 4: perpindahan penduduk pada gelombang kedua terjadi sekitar 500 sm bersamaan dengan zaman perunggu .
+sentence 5: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
+passage 3 score = 0.0
+sentence 1: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
+sentence 2: pendukung kebudayaan dongson adalah orang-orang austronesia yang tinggal di pulau-pulau di benua asia dan australia .
+sentence 3: nenek moyang bangsa indonesia meninggalkan daerah yunan di sekitar hulu sungai salween dan sungai mekong yang tanahnya subur sehingga mereka pandai bercocok tanam , berlayar , dan berdagang .
+sentence 4: dalam perkembangan selanjutnya , berbagai suku bangsa yang mendiami wilayah indonesia kemudian membentuk komunitas sendiri-sendiri sehingga mereka mendapat sebutan tersendiri .
+sentence 5: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
+passage 4 score = 0.0
+sentence 1: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
+sentence 2: mereka berlayar secara berkelompok tanpa mengenal rasa takut dan selanjutnya menempati berbagai kepulauan di nusantara .
+sentence 3: hal ini memperjelas bahwa nenek moyang bangsa indonesia adalah pelaut-pelaut ulung yang memiliki jiwa kelautan yang kuat .
+sentence 4: mereka memiliki kepandaian dalam berlayar , navigasi , serta ilmu perbintangan yang penuh .
+sentence 5: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+title : soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+passage 8 score = 7.5
+sentence 1: nama sukarni sebagai tokoh pemuda mencuat setelah bersama-sama kawan-kawannya di asrama menteng 31 mendesak soekarno dan hatta untuk segera memproklamasikan kemerdekaan indonesia di masa-masa genting periode 15 hingga 17 agustus 1945 .
+sentence 2: dalam buku penerima gelar pahlawan nasional 2014 yang dikeluarkan oleh dewan gelar , tanda jasa dan tanda kehormatan republik indonesia tahun 2014 , sukarni merupakan salah satu tokoh angkatan baru indonesia yang bermarkas di menteng nomor 31 jakarta , yang kini dikenal dengan gedung juang 45 .
+sentence 3: ia bersama-sama dengan supeno , chairul saleh dan adam malik serta pemuda lainnya saat ini mendorong perjuangan kemerdekaan indonesia melalui gerakan pemuda .
+sentence 4: gerakan ini terkenal ketika mendesak soekarno dan hatta , ikon perjuangan kemerdekaan indonesia , untukmemproklamasikan kemerdekaan dan membawa kedua proklamator itu ke rengasdengklok .
+sentence 5: pada 16 agustus 1945 sore , mereka kemudian mengantarkan kembali soekarno dan hatta ke jakarta dan malam harinya terjadi perumusan naskah proklamasi di jalan imam bonjol nomor 1 , rumah laksamana maeda .
+passage 1 score = 7.0
+sentence 1: soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia - soekarni kartodiwirjo menjadi salah seorang tokoh pejuang dari jawa timur yang mendapat penghargaan gelar pahlawan nasional dari presiden joko widodo .
+sentence 2: pria kelahiran blitar ini punya peran penting di balik sejarah proses pembacaan teks proklamasi kemerdekaan ri .
+sentence 3: saat prosesnya , sukarni adalah sosok yang mewakili kelompok muda agar pasangan soekarno-hatta secepatnya memproklamasikan kemerdekaan negara pada 17 agustus 1945 .
+sentence 4: dia tidak menginginkan pasangan itu terlalu berpikir lama menyatakan kemerdekaan negara .
+sentence 5: sejarah ini yang membuat kelompok pemuda harus melakukan ‘ penculikan ’ terhadap kedua pemimpin itu ke rengasdengklok , jawa barat .
+passage 2 score = 6.5
+sentence 1: sejarah ini yang membuat kelompok pemuda harus melakukan ‘ penculikan ’ terhadap kedua pemimpin itu ke rengasdengklok , jawa barat .
+sentence 2: sosoknya sejak kecil digambarkan sebagai orang yang membenci belanda .
+sentence 3: lahir di blitar , jawa timur , 14 juli 1916 , sukarni punya catatan gemar berkelahi dengan anak-anak belanda .
+sentence 4: hal ini dilakukannya hampir setiap hari .
+sentence 5: pola pikir membenci belanda ini karena tertanam oleh gurunya yang juga tokoh pergerakan indonesia saat itu , mohammad anwar .
+passage 7 score = 5.5
+sentence 1: karena sikapnya yang berani , sukarni sempat dijebloskan ke penjara pada 1946 di madiun .
+sentence 2: dalam riwayat hidupnya , sukarni juga pernah ditunjuk sebagai duta besar indonesia untuk republik rakyat tiongkok pada 1961 .
+sentence 3: dia juga pernah ditunjuk sebagai anggota dewan pertimbangan agung pada 1967 .
+sentence 4: tokoh yang pernah mendapat penghargaan bintang mahaputra ini wafat pada tanggal 7 mei 1971 .
+sentence 5: nama sukarni sebagai tokoh pemuda mencuat setelah bersama-sama kawan-kawannya di asrama menteng 31 mendesak soekarno dan hatta untuk segera memproklamasikan kemerdekaan indonesia di masa-masa genting periode 15 hingga 17 agustus 1945 .
+passage 9 score = 5.5
+sentence 1: pada 16 agustus 1945 sore , mereka kemudian mengantarkan kembali soekarno dan hatta ke jakarta dan malam harinya terjadi perumusan naskah proklamasi di jalan imam bonjol nomor 1 , rumah laksamana maeda .
+sentence 2: sukarni kartodiwirjo lahir di blitar , jawa timur pada 14 juli 1916 .
+sentence 3: pada tahun 1930 ia bergabung dengan partai indonesia ( partindo ) sejak bersekolah di mulo blitar .
+sentence 4: ia kemudian dikirim oleh pengurus partindo untuk mengikuti pendidikan kader di bandung , soekarno kemudian menjadi mentornya .
+sentence 5: karir politik sukarni terus bergulir sebagai aktivis kemerdekaan dengan menjadi ketua umum pengurus besar indonesia muda pada 1935 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
+title : perbedaan pendapat dan penculikan
+passage 3 score = 7.5
+sentence 1: pada tanggal 16 agustus 1945 di asrama baperpi jalan cikini 74 jakarta , golongan muda mengadakan rapat yang dihadiri oleh sukarni , jusuf kunto , dr. muwardi , dan shudanco singgih dan paidan peta jakarta .
+sentence 2: rapat ini membikin keputusan untuk mengasingkan ir .
+sentence 3: soekarno dan mohammad hatta ke luar kota dengan tujuan untuk menjauhkan mereka dan segala pengaruh jepang .
+sentence 4: untuk menghindari kecurigaan dari pihak jepang , shudanco singgih memperoleh kepercayaan untuk melaksanakan rencana tersebut .
+sentence 5: rencana tersebut berlangsung lancar sebab mendapat dukungan perlengkapan tentara peta dan cudanco latief hendraningrat jadi cocok pada tanggal 16 agustus 1945 pukul 04.30 , ir.soekarno , mohammad hattaa , dan sekelompok golongan pemuda tiba di rengasdengklok .
+passage 4 score = 7.0
+sentence 1: rencana tersebut berlangsung lancar sebab mendapat dukungan perlengkapan tentara peta dan cudanco latief hendraningrat jadi cocok pada tanggal 16 agustus 1945 pukul 04.30 , ir.soekarno , mohammad hattaa , dan sekelompok golongan pemuda tiba di rengasdengklok .
+sentence 2: atasan mereka mengangkat ir .
+sentence 3: soekarno dan mohammad hatta untuk mengamankan mereka dari situasi genting yang terjadi di bunda kota .
+sentence 4: di rengasdengklok , akhirnya in .
+sentence 5: soekarno dan mohammad hatta bersedia untuk menyebutkan kemerdekaan seusai kembali ke jakarta .
+passage 5 score = 7.0
+sentence 1: soekarno dan mohammad hatta bersedia untuk menyebutkan kemerdekaan seusai kembali ke jakarta .
+sentence 2: sementara itu , di jakarta terjadi perundingan antara golongan tua dan golongan muda .
+sentence 3: golongan tua diwakili oleh ahmad subardjo , sedangkan golongan muda diwakili wikana .
+sentence 4: dan perundingan tersebut , diperoleh kesepakatan bahwa proklamasi kemerdekaan wajib dilaksanakan di jakarta .
+sentence 5: ahmad subardjo bersedia memberiikan jaminan bahwa proklamasi kemerdekaan indonesia bakal diumumkan pada keesokan harinya tanggal 17 agustus 1945 , maka komandan kompi peta rengasdengklok cudanco subeno bersedia melepaskan ir .
+passage 2 score = 6.0
+sentence 1: momen rengasdengklok dikarenakan oleh adanya perbedaan pendapat antara golongan tua dan golongan muda berkaitan dengan waktu yang cocok untuk mengumandangkan proklamasi kemerdekaan .
+sentence 2: menurut pendapat golongan tua , untuk memproklamasikan kemerdekaan , indonesia wajib menantikan waktu yang diberbagi oleh pemerintah jepang sebab mereka sudah memberbagi janji kemerdekaan , sedangkan menurut golongan muda , secepat mungkin dilaksanakan proklamasi kemerdekaan dengan mekegunaaankan kekosongan kekuasaan alias vacuum of power .
+sentence 3: dampak munculnya perbedaan pendapat tersebut , maka golongan pemuda meperbuat penculikan kepada golongan tua , yaitu ir .
+sentence 4: soekarno dan mohammad hatta yang diasingkan di rengasdengklok .
+sentence 5: pada tanggal 16 agustus 1945 di asrama baperpi jalan cikini 74 jakarta , golongan muda mengadakan rapat yang dihadiri oleh sukarni , jusuf kunto , dr. muwardi , dan shudanco singgih dan paidan peta jakarta .
+passage 6 score = 6.0
+sentence 1: ahmad subardjo bersedia memberiikan jaminan bahwa proklamasi kemerdekaan indonesia bakal diumumkan pada keesokan harinya tanggal 17 agustus 1945 , maka komandan kompi peta rengasdengklok cudanco subeno bersedia melepaskan ir .
+sentence 2: soekarno dan mohammad hatta .
+sentence 3: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
+title : yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri
+passage 9 score = 7.5
+sentence 1: esoknya , hari kamis 16 agustus 1945 tidak ada kejadian berarti , siaran berjalan seperti biasa .
+sentence 2: malam harinya ada sedikit keributan di depan kantor , ternyata sukarni datang bersama beberapa orang jepang tetapi dilarang masuk .
+sentence 3: dari dalam mobil , sukarni berteriak , “ tunggu , akan ada pengumuman penting , ” lalu ia pergi .
+sentence 4: di tempat lain , di sebuah rumah di pegangsaan 56 , tanggal 16 agustus dini hari , selepas sahur , sukarni dkk datang ke rumah bung karno .
+sentence 5: mereka berusaha meyakinkan bung karno bahwa jakarta tidak aman karena jakarta akan menjadi lautan api , sehingga mereka ingin mengamankan bung karno dan bung hatta ke rengasdengklok .
+passage 10 score = 7.0
+sentence 1: mereka berusaha meyakinkan bung karno bahwa jakarta tidak aman karena jakarta akan menjadi lautan api , sehingga mereka ingin mengamankan bung karno dan bung hatta ke rengasdengklok .
+sentence 2: kedua pemimpin tersebut setuju dan berangkatlah mereka menggunakan mobil ke rengasdengklok .
+sentence 3: hari itu tak hanya serdadu jepang yang sibuk mencari bung karno dan bung hatta , para anggota ppki ( panitia persiapan kemerdekaan indonesia ) juga mencari karena sedianya hari itu dilakukan rapat .
+sentence 4: malam harinya kedua pemimpin tersebut kembali ke jakarta dan langsung melakukan rapat perumusan naskah proklamasi di rumah laksamana tadashi mayda di jalan imam bonjol no. 1 dengan dihadiri anggota ppki dan angkatan muda .
+sentence 5: kembali ke jalan medan merdeka , hari jumat 17 agustus 1945 , radio hoso kyoku tetap melakukan siaran seperti biasa .
+passage 1 score = 5.5
+sentence 1: yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri - yusuf ronodipuro ( lahir di salatiga , jawa tengah , 30 september 1919 – meninggal di jakarta selatan , 27 januari 2008 pada umur 88 tahun ) adalah duta besar indonesia .
+sentence 2: pada awalnya ia dikenal sebagai penyiar kemerdekaan republik indonesia secara luas .
+sentence 3: selain itu ia pernah menjadi duta besar luar biasa indonesia di uruguay , argentina , dan chili .
+sentence 4: yusuf ronodipuro dianggap sebagai salah satu tokoh pahlawan indonesia karena perannya dalam menyiarkan proklamasi kemerdekaan indonesia ke seluruh dunia saat dia bekerja di radio hoso kyoku .
+sentence 5: dia juga adalah salah satu pendiri dari radio republik indonesia pada tanggal 11 september 1945 , yang berdiri sampai sekarang , dan kemudian hari jadinya diperingati setiap tanggal 11 september .
+passage 2 score = 5.5
+sentence 1: dia juga adalah salah satu pendiri dari radio republik indonesia pada tanggal 11 september 1945 , yang berdiri sampai sekarang , dan kemudian hari jadinya diperingati setiap tanggal 11 september .
+sentence 2: di negara dengan luas wilayah sebesar indonesia , tentu bukan perkara mudah mengabarkan berita proklamasi ke seluruh penjuru nusantara pada tahun 1945 .
+sentence 3: hanya radio lah yang bisa menjangkau seluruh pelosok negeri .
+sentence 4: kala itu satu-satunya stasiun radio yang ada hanyalah hoso kyoku , milik dai nippon .
+sentence 5: lalu bagaimana kabar kemerdekaan kita bisa disebarluaskan ?
+passage 14 score = 5.5
+sentence 1: “ semua studio dan ruang kontrol dijaga oleh kempetai , bahkan saat itu semua naskah siaran harus disensor dulu termasuk lagu-lagu .
+sentence 2: lalu saya teringat studio siaran luar negeri yang sejak tanggal 15 sudah ditutup , ” ujar jusuf .
+sentence 3: untunglah nasib baik berpihak kepada mereka , ternyata studio siaran luar negeri tidak dijaga .
+sentence 4: dengan berhati-hati mereka menyelinap masuk ke dalam studio .
+sentence 5: tepat pukul 7 malam , jusuf siap di depan corong radio untuk menyampaikan proklamasi kemerdekaan indonesia ke seluruh penjuru nusantara dan dunia .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 13 score = 8.5
+sentence 1: pada tanggal 12 agustus 1945 jendral terauchi mengucapkan selamat atas dibentuknya ppki dan menyerahkan pelaksanaan proklamasi kemerdekaan pada ppki .
+sentence 2: dengan demikian jepang sudah menyerahkan sepenuhnya pelaksanaan proklamasi kemerdekaan kepada bangsa indonesia melalui ppki .
+sentence 3: peristiwa seputar proklamasi dari rengasdengklok hingga proklamasi kemerdekaan indonesia menjelang berlangsung pelaksanaan proklamasi kemerdekaan , terjadi beberapa peristiwa yang merupakan salah satu bentuk aspirasi perjuangan baik dari golongan tua maupun golongan pemuda .
+sentence 4: meskipun demikian aspirasi-aspirasi tersebut merupakan suatu upaya agar kemerdekaan yang diperoleh merupakan hasil perjuangan bangsa indonesia , bukan pemberian dari jepang atau bangsa asing lainnya .
+sentence 5: adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada tanggal 14 agustus 1945 jepang menyerah tanpa syarat pada sekutu di kapal missaurri milik angkatan laut amerika serikat .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+passage 26 score = 8.5
+sentence 1: hatta ( wakil ketua ) prof. mr. dr. soepomo ( anggota ) krt radjiman wedyodiningrat ( anggota ) r. p. soeroso ( anggota ) soetardjo kartohadikoesoemo ( anggota ) kiai abdoel wachid hasjim ( anggota ) ki bagus hadikusumo ( anggota ) otto iskandardinata ( anggota ) abdoel kadir ( anggota ) pangeran soerjohamidjojo ( anggota ) pangeran poerbojo ( anggota ) dr. mohammad amir ( anggota ) mr. abdul abbas ( anggota ) mr. mohammad hasan ( anggota ) dr. gssj ratulangi ( anggota ) andi pangerang ( anggota ) a.h. hamidan ( anggota ) i goesti ketoet poedja ( anggota ) mr. johannes latuharhary ( anggota ) drs. yap tjwan bing ( anggota ) selanjutnya tanpa sepengetahuan jepang , keanggotaan bertambah 6 yaitu : achmad soebardjo ( anggota ) sajoeti melik ( anggota ) ki hadjar dewantara ( anggota ) r.a.a. wiranatakoesoema ( anggota ) kasman singodimedjo ( anggota ) iwa koesoemasoemantri ( anggota ) persidangan tanggal 9 agustus 1945 , sebagai pimpinan ppki yang baru , soekarno , hatta dan radjiman wedyodiningrat diundang ke dalat untuk bertemu marsekal terauchi .
+sentence 2: setelah pertemuan tersebut , ppki tidak dapat bertugas karena para pemuda mendesak agar proklamasi kemerdekaan tidak dilakukan atas nama ppki , yang dianggap merupakan alat buatan jepang .
+sentence 3: bahkan rencana rapat 16 agustus 1945 tidak dapat terlaksana karena terjadi peristiwa rengasdengklok .
+sentence 4: setelah proklamasi , pada tanggal 18 agustus 1945 , ppki memutuskan antara lain : mengesahkan undang-undang dasar , memilih dan mengangkat ir .
+sentence 5: soekarno sebagai presiden dan drs. m. hatta sebagai wakil presiden ri , membentuk komite nasional untuk membantu tugas presiden sebelum dpr/mpr terbentuk .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 14 score = 8.0
+sentence 1: adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada tanggal 14 agustus 1945 jepang menyerah tanpa syarat pada sekutu di kapal missaurri milik angkatan laut amerika serikat .
+sentence 2: berita tersebut oleh jepang dirahasiakan , akan tetapi berita tersebut dapat diketahui oleh sutan syahrir melalui siaran radio gelap .
+sentence 3: kemudian sutan syahrir menyampaikan berita tersebut baik pada golongan pemuda maupun golongan tua .
+sentence 4: sehingga diantara dua golongan tersebut terjadi perbedaan pendapat mengenai proklamasi kemerdekaan indonesia , sebagai berikut : kemudian golongan pemuda mendesak ir .
+sentence 5: sukarno dan drs. mohammad hatta agar secepatnya melaksanakan proklamasi kemerdekaan , tanpa menunggu perintah dari jepang .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+passage 28 score = 8.0
+sentence 1: sejalan dengan usulan kedua , maka pasal 29 pun berubah .
+sentence 2: c. peristiwa rengasdengklok peristiwa rengasdengklok adalah peristiwa dimulai dari “ penculikan ” yang dilakukan oleh sejumlah pemuda ( a.l. adam malik dan chaerul saleh dari menteng 31 terhadap soekarno dan hatta .
+sentence 3: peristiwa ini terjadi pada tanggal 16 agustus 1945 pukul 04.30 .
+sentence 4: wib , soekarno dan hatta dibawa ke rengasdengklok , karawang , untuk kemudian didesak agar mempercepat proklamasi kemerdekaan republik indonesia , sampai dengan terjadinya kesepakatan antara golongan tua yang diwakili soekarno dan hatta serta mr. achmad subardjo dengan golongan muda tentang kapan proklamasi akan dilaksanakan .
+sentence 5: menghadapi desakan tersebut , soekarno dan hatta tetap tidak berubah pendirian .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+title : soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+passage 8 score = 7.5
+sentence 1: nama sukarni sebagai tokoh pemuda mencuat setelah bersama-sama kawan-kawannya di asrama menteng 31 mendesak soekarno dan hatta untuk segera memproklamasikan kemerdekaan indonesia di masa-masa genting periode 15 hingga 17 agustus 1945 .
+sentence 2: dalam buku penerima gelar pahlawan nasional 2014 yang dikeluarkan oleh dewan gelar , tanda jasa dan tanda kehormatan republik indonesia tahun 2014 , sukarni merupakan salah satu tokoh angkatan baru indonesia yang bermarkas di menteng nomor 31 jakarta , yang kini dikenal dengan gedung juang 45 .
+sentence 3: ia bersama-sama dengan supeno , chairul saleh dan adam malik serta pemuda lainnya saat ini mendorong perjuangan kemerdekaan indonesia melalui gerakan pemuda .
+sentence 4: gerakan ini terkenal ketika mendesak soekarno dan hatta , ikon perjuangan kemerdekaan indonesia , untukmemproklamasikan kemerdekaan dan membawa kedua proklamator itu ke rengasdengklok .
+sentence 5: pada 16 agustus 1945 sore , mereka kemudian mengantarkan kembali soekarno dan hatta ke jakarta dan malam harinya terjadi perumusan naskah proklamasi di jalan imam bonjol nomor 1 , rumah laksamana maeda .
+
+
+Pencarian jawaban
+---------------------
+memproses passage 13
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 12 agustus 1945 | position = 0
+tanggal 14 agustus 1945 | position = 68
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok:
+posisi dalam passage = 25
+jarak dengan tiap kandidat jawaban:
+tanggal 12 agustus 1945 -25
+tanggal 14 agustus 1945 43
+
+posisi dalam passage = 67
+jarak dengan tiap kandidat jawaban:
+tanggal 12 agustus 1945 -67
+tanggal 14 agustus 1945 1
+
+kata kunci = jadi:
+posisi dalam passage = 34
+jarak dengan tiap kandidat jawaban:
+tanggal 12 agustus 1945 -34
+tanggal 14 agustus 1945 34
+
+memproses passage 26
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+list jawaban dan posisi dalam passage
+tanggal 9 agustus 1945 | position = 92
+16 agustus 1945 | position = 122
+tanggal 18 agustus 1945 | position = 128
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok:
+posisi dalam passage = 126
+jarak dengan tiap kandidat jawaban:
+tanggal 9 agustus 1945 -34
+16 agustus 1945 -4
+tanggal 18 agustus 1945 2
+
+kata kunci = jadi:
+posisi dalam passage = 124
+jarak dengan tiap kandidat jawaban:
+tanggal 9 agustus 1945 -32
+16 agustus 1945 -2
+tanggal 18 agustus 1945 4
+
+memproses passage 14
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 14 agustus 1945 | position = 11
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok:
+posisi dalam passage = 10
+jarak dengan tiap kandidat jawaban:
+tanggal 14 agustus 1945 1
+
+kata kunci = jadi:
+posisi dalam passage = 42
+jarak dengan tiap kandidat jawaban:
+tanggal 14 agustus 1945 -31
+
+memproses passage 28
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+list jawaban dan posisi dalam passage
+tanggal 16 agustus 1945 pukul 04.30 | position = 24
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok:
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+tanggal 16 agustus 1945 pukul 04.30 16
+
+posisi dalam passage = 10
+jarak dengan tiap kandidat jawaban:
+tanggal 16 agustus 1945 pukul 04.30 14
+
+kata kunci = jadi:
+posisi dalam passage = 23
+jarak dengan tiap kandidat jawaban:
+tanggal 16 agustus 1945 pukul 04.30 1
+
+posisi dalam passage = 37
+jarak dengan tiap kandidat jawaban:
+tanggal 16 agustus 1945 pukul 04.30 -13
+
+memproses passage 8
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+title : soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+list jawaban dan posisi dalam passage
+periode 15 17 agustus 1945 | position = 16
+tahun 2014 | position = 32
+16 agustus 1945 | position = 72
+malam harinya | position = 79
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok:
+posisi dalam passage = 71
+jarak dengan tiap kandidat jawaban:
+periode 15 17 agustus 1945 -55
+tahun 2014 -39
+16 agustus 1945 1
+malam harinya 8
+
+kata kunci = jadi:
+posisi dalam passage = 80
+jarak dengan tiap kandidat jawaban:
+periode 15 17 agustus 1945 -64
+tahun 2014 -48
+16 agustus 1945 -8
+malam harinya -1
+
+
+Pengurutan kandidat jawaban
+this.answer = tanggal 16 agustus 1945 pukul 04.30
+distance = 1
+doc rank = 1
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+document Title = bpupki-ppki dan peristiwa rengasdengklok
+
+this.answer = tanggal 14 agustus 1945
+distance = 1
+doc rank = 3
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+document Title = peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+
+this.answer = tanggal 14 agustus 1945
+distance = 1
+doc rank = 3
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+document Title = peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+
+this.answer = 16 agustus 1945
+distance = 1
+doc rank = 8
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+document Title = soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+
+this.answer = tanggal 18 agustus 1945
+distance = 2
+doc rank = 1
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+document Title = bpupki-ppki dan peristiwa rengasdengklok
+
+this.answer = tanggal 18 agustus 1945
+distance = 4
+doc rank = 1
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+document Title = bpupki-ppki dan peristiwa rengasdengklok
+
+this.answer = malam harinya
+distance = 8
+doc rank = 8
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+document Title = soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+
+this.answer = tanggal 16 agustus 1945 pukul 04.30
+distance = 14
+doc rank = 1
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+document Title = bpupki-ppki dan peristiwa rengasdengklok
+
+this.answer = tanggal 16 agustus 1945 pukul 04.30
+distance = 16
+doc rank = 1
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+document Title = bpupki-ppki dan peristiwa rengasdengklok
+
+this.answer = tanggal 14 agustus 1945
+distance = 34
+doc rank = 3
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+document Title = peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+
+this.answer = tanggal 14 agustus 1945
+distance = 43
+doc rank = 3
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+document Title = peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+
+
+
+selesai

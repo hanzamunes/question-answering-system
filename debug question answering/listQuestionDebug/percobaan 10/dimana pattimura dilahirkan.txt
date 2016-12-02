@@ -1,0 +1,930 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok5.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok76.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok4.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok75.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok108.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok37.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok387.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok147.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok153.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok289.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
+
+
+query token : 
+mana pattimura lahir 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+passage 2 score = 7.833333333333333
+sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+sentence 2: hal-hal tersebut di atas merupakan tindakan penindasan pemerintah belanda terhadap rakyat maluku .
+sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperialisme belanda .
+sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
+sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+passage 1 score = 7.333333333333333
+sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
+sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
+sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
+sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
+sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+passage 5 score = 6.0
+sentence 1: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+sentence 2: sebagai pahlawan rakyat yang tertindas oleh penjajah .
+sentence 3: tepat pada tanggal 16 desember 1817 , thomas matulessi dan kawan-kawan seperjuangannya menjalani hukuman mati di tiang gantungan .
+passage 3 score = 2.333333333333333
+sentence 1: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+sentence 2: banyak korban di pihak belanda termasuk residen belanda , van den berg ikut terbunuh dalam pertempuran .
+sentence 3: kemenangan atas pemerintah kolonial belanda memperbesar semangat perlawanan rakyat sehingga perlawanan meluas ke ambon , seram dan pulau-pulau lain .
+sentence 4: di hitu perlawanan rakyat muncul pada permulaan bulan juni 1817 di bawah pimpinan ulupaha .
+sentence 5: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
+passage 4 score = 2.333333333333333
+sentence 1: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
+sentence 2: situasi pertempuran berbalik setelah datangnya bala bantuan dari batavia di bawah pimpinan buyskes .
+sentence 3: pasukan belanda terus mengadakan penggempuran dan berhasil menguasai kembali daerah-daerah maluku .
+sentence 4: perlawanan semakin mereda setelah banyak para pemimpin tertawan , seperti thomas matulessi ( pattimura ) , anthonie rhebok , thomas pattiweal , lucas latumahina , dan johanes matulessi .
+sentence 5: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+passage 2 score = 7.833333333333333
+sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+sentence 2: hal-hal tersebut di atas merupakan tindakan penindasan pemerintah belanda terhadap rakyat maluku .
+sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperialisme belanda .
+sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
+sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+passage 1 score = 7.333333333333333
+sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
+sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
+sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
+sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
+sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+passage 5 score = 6.0
+sentence 1: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+sentence 2: sebagai pahlawan rakyat yang tertindas oleh penjajah .
+sentence 3: tepat pada tanggal 16 desember 1817 , thomas matulessi dan kawan-kawan seperjuangannya menjalani hukuman mati di tiang gantungan .
+passage 3 score = 2.333333333333333
+sentence 1: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+sentence 2: banyak korban di pihak belanda termasuk residen belanda , van den berg ikut terbunuh dalam pertempuran .
+sentence 3: kemenangan atas pemerintah kolonial belanda memperbesar semangat perlawanan rakyat sehingga perlawanan meluas ke ambon , seram dan pulau-pulau lain .
+sentence 4: di hitu perlawanan rakyat muncul pada permulaan bulan juni 1817 di bawah pimpinan ulupaha .
+sentence 5: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
+passage 4 score = 2.333333333333333
+sentence 1: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
+sentence 2: situasi pertempuran berbalik setelah datangnya bala bantuan dari batavia di bawah pimpinan buyskes .
+sentence 3: pasukan belanda terus mengadakan penggempuran dan berhasil menguasai kembali daerah-daerah maluku .
+sentence 4: perlawanan semakin mereda setelah banyak para pemimpin tertawan , seperti thomas matulessi ( pattimura ) , anthonie rhebok , thomas pattiweal , lucas latumahina , dan johanes matulessi .
+sentence 5: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
+passage 2 score = 6.5
+sentence 1: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
+sentence 2: dalam pertempuran ini pangeran hidayat berada di pihak rakyat .
+sentence 3: tokoh-tokoh lain dalam pertempuran ini , antara lain kiai demang leman , haji nasrun , haji buyasin , tumenggung suropati , dan kiai langlang .
+sentence 4: pasukan antasari menyerbu pos-pos belanda yang ada di martapura dan pangron pada akhir april 1859 .
+sentence 5: di bawah pimpinan kiai demang leman dan haji buyasin pada bulan agustus 1859 pasukan banjar berhasil merebut benteng belanda di tabanio .
+passage 3 score = 6.5
+sentence 1: di bawah pimpinan kiai demang leman dan haji buyasin pada bulan agustus 1859 pasukan banjar berhasil merebut benteng belanda di tabanio .
+sentence 2: ketika pertempuran sedang berlangsung , belanda memecat pangeran hidayat sebagai mangkubumi karena menolak untuk menghentikan perlawanan .
+sentence 3: pada tanggal 11 juni 1860 jabatan sultan kosong ( karena sultan tamjidillah diturunkan dari takhtanya oleh pihak belanda , andresen ) dan jabatan mangkubumi dihapuskan .
+sentence 4: dengan demikian , kerajaan banjar dihapuskan dan dimasukkan dalam wilayah kekuasaan belanda .
+sentence 5: pertempuran terus meluas ke berbagai daerah , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan .
+passage 4 score = 6.5
+sentence 1: pertempuran terus meluas ke berbagai daerah , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan .
+sentence 2: dalam menghadapi serangan-serangan ini , belanda mengalami kesulitan , namun setelah mendapatkan bantuan dari luar akhirnya belanda berhasil mematahkan perlawanan rakyat .
+sentence 3: pada tanggal 3 februari 1862 , pangeran hidayat tertangkap dan dibuang ke jawa .
+sentence 4: pangeran antasari yang pada tanggal 14 maret 1862 diangkat oleh rakyat sebagai pemimpin tertinggi agama islam dengan gelar panembahan amiruddin khalifahtul mukminin gugur dalam pertempuran di hulu teweh pada tanggal 11 oktober 1862 .
+sentence 5: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
+passage 1 score = 1.0
+sentence 1: sejarah perlawanan rakyat kalimantan selatan terhadap belanda ( 1859 – 1905 ) - di kalimantan selatan , belanda telah lama melakukan campur tangan dalam urusan istana banjar .
+sentence 2: puncak kebencian terhadap belanda dan akhirnya meletus menjadi perlawanan , ketika terjadi kericuan pergantian takhta kerajaan banjar setelah wafatnya sultan adam tahun 1857 .
+sentence 3: dalam hal ini belanda mengangkat pangeran tamjidillah sebagai sultan banjar .
+sentence 4: rakyat tidak mau menerima sebab pangeran hidayat yang lebih berhak dan lebih disenangi rakyat .
+sentence 5: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
+passage 5 score = 1.0
+sentence 1: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
+sentence 2: perlawanan rakyat benar-benar dapat dikatakan padam setelah gugurnya gusti matseman tahun 1905 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
+passage 2 score = 6.5
+sentence 1: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
+sentence 2: dalam pertempuran ini pangeran hidayat berada di pihak rakyat .
+sentence 3: tokoh-tokoh lain dalam pertempuran ini , antara lain kiai demang leman , haji nasrun , haji buyasin , tumenggung suropati , dan kiai langlang .
+sentence 4: pasukan antasari menyerbu pos-pos belanda yang ada di martapura dan pangron pada akhir april 1859 .
+sentence 5: di bawah pimpinan kiai demang leman dan haji buyasin pada bulan agustus 1859 pasukan banjar berhasil merebut benteng belanda di tabanio .
+passage 3 score = 6.5
+sentence 1: di bawah pimpinan kiai demang leman dan haji buyasin pada bulan agustus 1859 pasukan banjar berhasil merebut benteng belanda di tabanio .
+sentence 2: ketika pertempuran sedang berlangsung , belanda memecat pangeran hidayat sebagai mangkubumi karena menolak untuk menghentikan perlawanan .
+sentence 3: pada tanggal 11 juni 1860 jabatan sultan kosong ( karena sultan tamjidillah diturunkan dari takhtanya oleh pihak belanda , andresen ) dan jabatan mangkubumi dihapuskan .
+sentence 4: dengan demikian , kerajaan banjar dihapuskan dan dimasukkan dalam wilayah kekuasaan belanda .
+sentence 5: pertempuran terus meluas ke berbagai daerah , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan .
+passage 4 score = 6.5
+sentence 1: pertempuran terus meluas ke berbagai daerah , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan .
+sentence 2: dalam menghadapi serangan-serangan ini , belanda mengalami kesulitan , namun setelah mendapatkan bantuan dari luar akhirnya belanda berhasil mematahkan perlawanan rakyat .
+sentence 3: pada tanggal 3 februari 1862 , pangeran hidayat tertangkap dan dibuang ke jawa .
+sentence 4: pangeran antasari yang pada tanggal 14 maret 1862 diangkat oleh rakyat sebagai pemimpin tertinggi agama islam dengan gelar panembahan amiruddin khalifahtul mukminin gugur dalam pertempuran di hulu teweh pada tanggal 11 oktober 1862 .
+sentence 5: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
+passage 1 score = 1.0
+sentence 1: sejarah perlawanan rakyat kalimantan selatan terhadap belanda ( 1859 – 1905 ) - di kalimantan selatan , belanda telah lama melakukan campur tangan dalam urusan istana banjar .
+sentence 2: puncak kebencian terhadap belanda dan akhirnya meletus menjadi perlawanan , ketika terjadi kericuan pergantian takhta kerajaan banjar setelah wafatnya sultan adam tahun 1857 .
+sentence 3: dalam hal ini belanda mengangkat pangeran tamjidillah sebagai sultan banjar .
+sentence 4: rakyat tidak mau menerima sebab pangeran hidayat yang lebih berhak dan lebih disenangi rakyat .
+sentence 5: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
+passage 5 score = 1.0
+sentence 1: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
+sentence 2: perlawanan rakyat benar-benar dapat dikatakan padam setelah gugurnya gusti matseman tahun 1905 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 61 score = 7.333333333333333
+sentence 1: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
+sentence 2: sukarni mengusulkan bahwa lapangan ikada ( sekarang bagian tenggara lapangan monumen nasional ) telah dipersiapkan bagi berkumpulnya masyarakat jakarta untuk mendengar pembacaan naskah proklamasi .
+sentence 3: namun ir .
+sentence 4: sukarno menganggap lapangan ikada adalah salah satu lapangan umum yang dapat menimbulkan bentrokan antara rakyat dengan pihak militer jepang .
+sentence 5: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
+passage 50 score = 6.833333333333333
+sentence 1: dengan adanya jaminan itu , maka komandan kompi peta rengasdengklok , cudanco subeno bersedia melepaskan ir .
+sentence 2: sukarno dan drs. moh hatta kembali ke jakarta .
+sentence 3: g. perumusan teks proklamasi rombongan tiba kembali di jakarta pada pukul 23.30 waktu jawa .
+sentence 4: setelah sukarno dan hatta singgah di rumah masing-masing rombongan kemudian menuju ke rumah laksamana maeda di jalan imam bonjol no. 1 , jakarta ( sekarang perpustakaan nasional ) .
+sentence 5: hal itu juga disebabkan laksamana tadashi maeda telah menyampaikan kepada ahmad subardjo ( sebagai salah satu pekerja di kantor laksamana maeda ) bahwa ia menjamin keselamatan mereka selama berada di rumahnya .
+passage 53 score = 6.833333333333333
+sentence 1: akhirnya mereka hanya mengharapkan pihak jepang tidak menghalang-halangi pelaksanaan proklamasi yang akan dilaksanakan oleh rakyat indonesia sendiri .
+sentence 2: maka mereka kembali ke rumah laksamana maeda .
+sentence 3: sebagai tuan rumah maeda mengundurkan diri ke lantai dua .
+sentence 4: sedangkan di ruang makan , naskah proklamasi dirumuskan oleh tiga tokoh golongan tua , yaitu : ir .
+sentence 5: sukarno , drs. moh .
+passage 62 score = 6.833333333333333
+sentence 1: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
+sentence 2: h. pelaksanaan proklamasi kemerdekaan 17 agustus 1945 pada pukul 05.00 waktu jawa tanggal 17 agustus 1945 , para pemimpin indonesia dari golongan tua dan golongan muda keluar dari rumah laksamana maeda .
+sentence 3: mereka pulang ke rumah masing-masing setelah berhasil merumuskan naskah proklamasi .
+sentence 4: mereka telah sepakat untuk memproklamasikan kemerdekaan pada pukul 10.30 waktu jawa atau pukul 10.00 wib sekarang .
+sentence 5: sebelum pulang bung hatta berpesan kepada para pemuda yang bekerja di kantor berita dan pers , utamanya b.m. diah untuk memperbanyak teks proklamasi dan menyiarkannya ke seluruh dunia .
+passage 1 score = 6.5
+sentence 1: a. pembentukan bpupki pada tahun 1944 saipan jatuh ke tangan sekutu .
+sentence 2: demikian halnya dengan pasukan jepang di papua nugini , kepulauan solomon dan kepulauan marshall , dipukul mundur oleh pasukan sekutu .
+sentence 3: dengan demikian seluruh garis pertahanan jepang di pasifik sudah hancur dan bayang-bayang kekalahan jepang mulai nampak .
+sentence 4: selanjutnya jepang mengalami serangan udara di kota ambon , makasar , menado dan surabaya .
+sentence 5: bahkan pasukan sekutu telah mendarat di daerah-daerah minyak seperti tarakan dan balikpapan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
+title : kerajaan kediri
+passage 1 score = 6.333333333333333
+sentence 1: pada tahun 1019 m airlangga dinobatkan menjadi raja medang kamulan .
+sentence 2: airlangga berusaha memulihkan kembali kewibawaan medang kamulan , setelah kewibawaan kerajaan berahasil dipulihkan , airlangga memindahkan pusat pemerintahan dari medang kamulan ke kahuripan .
+sentence 3: berkat jerih payahnya , medang kamulan mencapai kejayaan dan kemakmuran .
+sentence 4: menjelang akhir hayatnya , airlangga memutuskan untuk mundur dari pemerintahan dan menjadi pertapa dengan sebutan resi gentayu .
+sentence 5: airlangga meninggal pada tahun 1049 m. pewaris tahta kerajaan medang kamulan seharusnya seorang putri yaitu sri sanggramawijaya yang lahir dari seorang permaisuri .
+passage 5 score = 5.0
+sentence 1: lancana kerajaanya adalah tengkorak yang bertaring disebut candrakapala .
+sentence 2: dalam masa pemerintahannya mpu darmaja telah mengubah kitab samaradana .
+sentence 3: dalam kitab ini sang raja di puji – puji sebagai titisan dewa kama , dan ibukotanya yang keindahannya dikagumi seluruh dunia bernama dahana .
+sentence 4: permaisurinya bernama shri kirana , yang berasal dari janggala .3 .
+sentence 5: jayabaya raja kediri ketiga yang bergelar shri maharaja shri kroncarryadipa handabhuwanapalaka parakramanindita digjayotunggadewanama shri gandra .
+passage 2 score = 1.6666666666666665
+sentence 1: airlangga meninggal pada tahun 1049 m. pewaris tahta kerajaan medang kamulan seharusnya seorang putri yaitu sri sanggramawijaya yang lahir dari seorang permaisuri .
+sentence 2: namun karena memilih menjadi pertapa , tahta beralih pada putra airlangga yang lahir dari selir .
+sentence 3: untuk menghindari perang saudara , medang kamulan dibagi menjadi dua yaitu kerajaan jenggala dengan ibu kota kahuripan , dan kerajaan kediri ( panjalu ) dengan ibu kota dhaha .
+sentence 4: tetapi upaya tersebut mengalami kegagalan .
+sentence 5: hal ini dapat terlihat hingga abad ke 12 , dimana kediri tetap menjadi kerajaan yang subur dan makmur namun tetap tidak damai sepenuhnya dikarenakan dibayang - bayangi jenggala yang berada dalam posisi yang lebih lemah .
+passage 3 score = 1.3333333333333333
+sentence 1: hal ini dapat terlihat hingga abad ke 12 , dimana kediri tetap menjadi kerajaan yang subur dan makmur namun tetap tidak damai sepenuhnya dikarenakan dibayang - bayangi jenggala yang berada dalam posisi yang lebih lemah .
+sentence 2: hal itu menjadikan suasana gelap , penuh kemunafikan dan pembunuhan berlangsung terhadap pangeran dan raja – raja antar kedua negara .
+sentence 3: namun perseteruan ini berakhir dengan kekalahan jenggala , kerajaan kembali dipersatukandi bawah kekuasaan kediri .
+sentence 4: a. sistem pemerintahan kerajaan kediri sistem pemerintahan kerajaan kediri terjadi beberapa kali pergantian kekuasaan , adapun raja – raja yang pernah berkuasa pada masa kerajaan kediri adalah :1 .
+sentence 5: shri jayawarsa digjaya shastraprabhu jayawarsa adalah raja pertama kerajaan kediri dengan prasastinya yang berangka tahun 1104 .
+passage 10 score = 0.3333333333333333
+sentence 1: prinsip kesucian prabu srengga menurut para dalang wayang dilukiskan oleh prapanca .7 .
+sentence 2: pemerintahan kertajaya raja terakhir pada masa kediri .
+sentence 3: kertajaya raja yang mulia serta sangat peduli dengan rakyat .
+sentence 4: kertajaya dikenal dengan catur marganya yang berarti empat jalan yaitu darma , arta , kama , moksa .
+sentence 5: b. runtuhnya kerajaan kediri runtuhnya kerajaan kediri dikarenakan pada masa pemerintahan kertajaya , terjadi pertentangan dengan kaum brahmana .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
+title : sejarah kerajaan ternate dan tidore
+passage 12 score = 6.833333333333333
+sentence 1: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
+sentence 2: b. kehidupan ekonomi kerajaan ternate dan tidore kehidupan rakyat maluku yang utama adalah pertanian dan perdagangan .
+sentence 3: tanah di kepulauan maluku sangat subur dengan hasil utamanya cengkih dan pala .
+sentence 4: keduanya merupakan rempah-rempah yang sangat diperlukan untuk ramuan obat-obatan dan bumbu masak karena mengandung bahan pemanas .
+sentence 5: oleh karena itu , rempah-rempah banyak diperlukan di daerah dingin , seperti di eropa .
+passage 11 score = 6.333333333333333
+sentence 1: jika melawan portugis kasultanan dan rakyat ternate yanga memegang peranan penting maka untuk melawan vocsebaliknya , kasultanan dan rakyat tidore yang memimpinnya .
+sentence 2: pada tahun 1780 rakyat tidore bangkit melawan voc di bawah pimpinan sultan nuku .
+sentence 3: selanjutnya , sultan nuku juga berhasil menyatukan ternate dengan tidore .
+sentence 4: setelah sultan nuku meninggal ( 1805 ) , tidak ada lagi perlawaan yang kuat menentang voc , maka mulailah voc memperkokoh kekuasaannya kembali di maluku .
+sentence 5: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
+passage 2 score = 5.5
+sentence 1: a. kehidupan politik kerajaan ternate dan tidore di maluku yang terletak di antara sulawesi dan papua terdapat dua kerajaan , yakni ternate dan tidore .
+sentence 2: kedua kerajaan ini terletak di sebelah barat pulau halmahera di maluku utara .
+sentence 3: kedua kerajaan itu pusatnya masing-masing di pulau ternate dan tidore , tetapi wilayah kekuasaannya mencakup sejumlah pulau di kepulauan maluku dan papua .
+sentence 4: kerajaan ternate sebagai pemimpin persekutuan uli lima , yaitu persekutuan lima bersaudara dengan wilayahnya mencakup pulau-pulau ternate , obi , bacan , seram dan ambon .
+sentence 5: kerajaan tidore sebagai pemimpin persekutuan uli siwa ( persekutuan sembilan saudara ) wilayahnya meliputi pulau-pulau makyan , jailolo atau halmahera , dan pulau-pulau di daerah itu sampai dengan papua barat .
+passage 7 score = 5.5
+sentence 1: orang-orang portugis yang menyerah tidak dibunuh , tetapi harus meninggalkan ternate .
+sentence 2: mereka pun pindah ke ambon , maluku .
+sentence 3: sultan baabullah dapat meluaskan daerah kekuasaannya di maluku .
+sentence 4: daerah kekuasaannya terbentang antara sulawesi dan papua ; ke arah timur sampai papua ; barat sampai ke pulau buton ; utara sampai ke mindanao selatan ( filipina ) ; selatan sampai ke pulau bima ( nusa tenggara ) sehingga ia mendapat julukan tuan dari tujuh pulau dua pulau .
+sentence 5: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
+passage 8 score = 5.5
+sentence 1: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
+sentence 2: belanda akhirnya berhasil menduduki benteng portugis di ambon dan dapat mengusir portugis dari maluku ( 1605 ) .
+sentence 3: belanda yang tampa ada saingan kemudian juga melakukan tindakan yang sewenang-wenang , seperti berikut ini .
+sentence 4: 1 ) melaksanakan sistem penyerahan wajib sebagian hasil bumi ( rempahrempah ) kepada voc ( contingenten ) .
+sentence 5: 2 ) adanya perintah penebangan/pemusnahan tanaman rempah-rempah jika harga rempah-rempah di pasaran turun ( hak ekstirpasi ) dan penanaman kembali secara serentak apabila harga rempah-rempah di pasaran naik/meningkat .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
+title : sejarah kerajaan ternate dan tidore
+passage 12 score = 6.833333333333333
+sentence 1: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
+sentence 2: b. kehidupan ekonomi kerajaan ternate dan tidore kehidupan rakyat maluku yang utama adalah pertanian dan perdagangan .
+sentence 3: tanah di kepulauan maluku sangat subur dengan hasil utamanya cengkih dan pala .
+sentence 4: keduanya merupakan rempah-rempah yang sangat diperlukan untuk ramuan obat-obatan dan bumbu masak karena mengandung bahan pemanas .
+sentence 5: oleh karena itu , rempah-rempah banyak diperlukan di daerah dingin , seperti di eropa .
+passage 11 score = 6.333333333333333
+sentence 1: jika melawan portugis kasultanan dan rakyat ternate yanga memegang peranan penting maka untuk melawan vocsebaliknya , kasultanan dan rakyat tidore yang memimpinnya .
+sentence 2: pada tahun 1780 rakyat tidore bangkit melawan voc di bawah pimpinan sultan nuku .
+sentence 3: selanjutnya , sultan nuku juga berhasil menyatukan ternate dengan tidore .
+sentence 4: setelah sultan nuku meninggal ( 1805 ) , tidak ada lagi perlawaan yang kuat menentang voc , maka mulailah voc memperkokoh kekuasaannya kembali di maluku .
+sentence 5: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
+passage 2 score = 5.5
+sentence 1: a. kehidupan politik kerajaan ternate dan tidore di maluku yang terletak di antara sulawesi dan papua terdapat dua kerajaan , yakni ternate dan tidore .
+sentence 2: kedua kerajaan ini terletak di sebelah barat pulau halmahera di maluku utara .
+sentence 3: kedua kerajaan itu pusatnya masing-masing di pulau ternate dan tidore , tetapi wilayah kekuasaannya mencakup sejumlah pulau di kepulauan maluku dan papua .
+sentence 4: kerajaan ternate sebagai pemimpin persekutuan uli lima , yaitu persekutuan lima bersaudara dengan wilayahnya mencakup pulau-pulau ternate , obi , bacan , seram dan ambon .
+sentence 5: kerajaan tidore sebagai pemimpin persekutuan uli siwa ( persekutuan sembilan saudara ) wilayahnya meliputi pulau-pulau makyan , jailolo atau halmahera , dan pulau-pulau di daerah itu sampai dengan papua barat .
+passage 7 score = 5.5
+sentence 1: orang-orang portugis yang menyerah tidak dibunuh , tetapi harus meninggalkan ternate .
+sentence 2: mereka pun pindah ke ambon , maluku .
+sentence 3: sultan baabullah dapat meluaskan daerah kekuasaannya di maluku .
+sentence 4: daerah kekuasaannya terbentang antara sulawesi dan papua ; ke arah timur sampai papua ; barat sampai ke pulau buton ; utara sampai ke mindanao selatan ( filipina ) ; selatan sampai ke pulau bima ( nusa tenggara ) sehingga ia mendapat julukan tuan dari tujuh pulau dua pulau .
+sentence 5: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
+passage 8 score = 5.5
+sentence 1: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
+sentence 2: belanda akhirnya berhasil menduduki benteng portugis di ambon dan dapat mengusir portugis dari maluku ( 1605 ) .
+sentence 3: belanda yang tampa ada saingan kemudian juga melakukan tindakan yang sewenang-wenang , seperti berikut ini .
+sentence 4: 1 ) melaksanakan sistem penyerahan wajib sebagian hasil bumi ( rempahrempah ) kepada voc ( contingenten ) .
+sentence 5: 2 ) adanya perintah penebangan/pemusnahan tanaman rempah-rempah jika harga rempah-rempah di pasaran turun ( hak ekstirpasi ) dan penanaman kembali secara serentak apabila harga rempah-rempah di pasaran naik/meningkat .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 3 score = 5.5
+sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
+sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
+sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
+sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
+sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
+passage 9 score = 5.5
+sentence 1: semua pemberontakan tersebut dapat dipadamkan .
+sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
+sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
+sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
+sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+passage 10 score = 5.5
+sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
+sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
+sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
+sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
+passage 22 score = 5.5
+sentence 1: setelah mengalami kemunduran , akhirnya majapahit runtuh .
+sentence 2: dalam hal ini ada dua pendapat : a ) tahun 1478 , yakni adanya serangan girindrawardana dari kediri .
+sentence 3: peristiwa tersebut diberi candrasengkala " hilang sirnakertaning bhumi " yang berarti tahun 1400 saka/1478 m. b ) tahun 1526 , yakni adanya serangan tentara dari demak di bawah pimpinan raden patah .
+sentence 4: serangan demak ini menandai berakhirnya kekuasaan hindu di jawa .
+sentence 5: pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke daerah badandea .
+passage 25 score = 5.5
+sentence 1: pemberontakan ini dapat dipadamkan oleh gajah mada .
+sentence 2: sebagai penghargaan atas jasanya , gajah mada diangkat menjadi mahapatih di majapahit oleh tribhuanatunggadewi .
+sentence 3: di hadapan raja dan para pembesar majapahit , gajah mada mengucapkan sumpah yang terkenal dengan nama sumpah palapa .
+sentence 4: isi sumpahnya , ia tidak akan amukti palapa sebelum ia dapat menundukkan nusantara , yaitu gurun , seran , panjungpura , haru , pahang , dompo , bali , sunda , palembang , dan tumasik .
+sentence 5: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 3 score = 5.5
+sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
+sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
+sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
+sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
+sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
+passage 9 score = 5.5
+sentence 1: semua pemberontakan tersebut dapat dipadamkan .
+sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
+sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
+sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
+sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+passage 10 score = 5.5
+sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
+sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
+sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
+sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
+passage 22 score = 5.5
+sentence 1: setelah mengalami kemunduran , akhirnya majapahit runtuh .
+sentence 2: dalam hal ini ada dua pendapat : a ) tahun 1478 , yakni adanya serangan girindrawardana dari kediri .
+sentence 3: peristiwa tersebut diberi candrasengkala " hilang sirnakertaning bhumi " yang berarti tahun 1400 saka/1478 m. b ) tahun 1526 , yakni adanya serangan tentara dari demak di bawah pimpinan raden patah .
+sentence 4: serangan demak ini menandai berakhirnya kekuasaan hindu di jawa .
+sentence 5: pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke daerah badandea .
+passage 25 score = 5.5
+sentence 1: pemberontakan ini dapat dipadamkan oleh gajah mada .
+sentence 2: sebagai penghargaan atas jasanya , gajah mada diangkat menjadi mahapatih di majapahit oleh tribhuanatunggadewi .
+sentence 3: di hadapan raja dan para pembesar majapahit , gajah mada mengucapkan sumpah yang terkenal dengan nama sumpah palapa .
+sentence 4: isi sumpahnya , ia tidak akan amukti palapa sebelum ia dapat menundukkan nusantara , yaitu gurun , seran , panjungpura , haru , pahang , dompo , bali , sunda , palembang , dan tumasik .
+sentence 5: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+passage 2 score = 7.833333333333333
+sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+sentence 2: hal-hal tersebut di atas merupakan tindakan penindasan pemerintah belanda terhadap rakyat maluku .
+sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperialisme belanda .
+sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
+sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+passage 2 score = 7.833333333333333
+sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+sentence 2: hal-hal tersebut di atas merupakan tindakan penindasan pemerintah belanda terhadap rakyat maluku .
+sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperialisme belanda .
+sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
+sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+passage 1 score = 7.333333333333333
+sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
+sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
+sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
+sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
+sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+passage 1 score = 7.333333333333333
+sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
+sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
+sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
+sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
+sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 61 score = 7.333333333333333
+sentence 1: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
+sentence 2: sukarni mengusulkan bahwa lapangan ikada ( sekarang bagian tenggara lapangan monumen nasional ) telah dipersiapkan bagi berkumpulnya masyarakat jakarta untuk mendengar pembacaan naskah proklamasi .
+sentence 3: namun ir .
+sentence 4: sukarno menganggap lapangan ikada adalah salah satu lapangan umum yang dapat menimbulkan bentrokan antara rakyat dengan pihak militer jepang .
+sentence 5: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
+
+
+Pencarian jawaban
+---------------------
+
+
+b. sebab psikologis , yaitu adanya pemecatan <PERSON>guru-guru sekolah</PERSON> akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke <LOCATION>batavia .</LOCATION>
+
+memproses passage 2
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+list jawaban dan posisi dalam passage
+batavia | position = 15
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+kata kunci = pattimura
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+kata kunci = lahir
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+
+
+hal-hal tersebut di atas merupakan tindakan penindasan <PERSON>pemerintah belanda</PERSON> terhadap <PERSON>rakyat maluku .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+oleh karena itu <PERSON>, rakyat</PERSON> maluku bangkit dan berjuang melawan imperialisme belanda .
+
+
+tidak ada entitas jawaban, skip
+
+
+aksi perlawanan meletus pada <TIME>tanggal 15 mei 1817</TIME> dengan menyerang benteng duurstede di <LOCATION>saparua .</LOCATION>
+
+memproses passage 2
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+list jawaban dan posisi dalam passage
+saparua | position = 7
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tanggal 15 mei 1817
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = duurstede
+tokenwithtagstemmed = saparua
+kata kunci = pattimura
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tanggal 15 mei 1817
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = duurstede
+tokenwithtagstemmed = saparua
+kata kunci = lahir
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tanggal 15 mei 1817
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = duurstede
+tokenwithtagstemmed = saparua
+
+
+setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan <PERSON>rakyat maluku</PERSON> di bawah pimpinan <PERSON>pattimura .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+b. sebab psikologis , yaitu adanya pemecatan <PERSON>guru-guru sekolah</PERSON> akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke <LOCATION>batavia .</LOCATION>
+
+memproses passage 2
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+list jawaban dan posisi dalam passage
+batavia | position = 15
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+kata kunci = pattimura
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+kata kunci = lahir
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+
+
+hal-hal tersebut di atas merupakan tindakan penindasan <PERSON>pemerintah belanda</PERSON> terhadap <PERSON>rakyat maluku .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+oleh karena itu <PERSON>, rakyat</PERSON> maluku bangkit dan berjuang melawan imperialisme belanda .
+
+
+tidak ada entitas jawaban, skip
+
+
+aksi perlawanan meletus pada <TIME>tanggal 15 mei 1817</TIME> dengan menyerang benteng duurstede di <LOCATION>saparua .</LOCATION>
+
+memproses passage 2
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+list jawaban dan posisi dalam passage
+saparua | position = 7
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tanggal 15 mei 1817
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = duurstede
+tokenwithtagstemmed = saparua
+kata kunci = pattimura
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tanggal 15 mei 1817
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = duurstede
+tokenwithtagstemmed = saparua
+kata kunci = lahir
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tanggal 15 mei 1817
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = duurstede
+tokenwithtagstemmed = saparua
+
+
+setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan <PERSON>rakyat maluku</PERSON> di bawah pimpinan <PERSON>pattimura .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+#sejarah _ kelas_11 sejarah perlawanan <PERSON>rakyat maluku</PERSON> di bawah thomas matullesi ( pattimura ) <TIME>1817</TIME> - sejak <TIME>abad ke-17</TIME> perlawanan <PERSON>rakyat maluku</PERSON> terhadap <PERSON>kompeni</PERSON> sudah terjadi , namun perlawanan yang dahsyat baru muncul pada <TIME>permulaan abad ke-19</TIME> , di bawah pimpinan <PERSON>thomas matulessi</PERSON> ( lebih dikenal dengan nama pattimura ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+latar belakang timbulnya perlawanan <PERSON>pattimura ,</PERSON> di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
+
+
+tidak ada entitas jawaban, skip
+
+
+a. sebab ekonomis , yakni adanya tindakan-tindakan <PERSON>pemerintah belanda</PERSON> yang memperberat kehidupan <PERSON>rakyat</PERSON> , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
+
+
+tidak ada entitas jawaban, skip
+
+
+selain itu , beredarnya uang kertas yang menyebabkan <PERSON>rakyat maluku</PERSON> tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
+
+
+tidak ada entitas jawaban, skip
+
+
+b. sebab psikologis , yaitu adanya pemecatan <PERSON>guru-guru sekolah</PERSON> akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke <LOCATION>batavia .</LOCATION>
+
+memproses passage 1
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+list jawaban dan posisi dalam passage
+batavia | position = 15
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+kata kunci = pattimura
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+kata kunci = lahir
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+
+
+#sejarah _ kelas_11 sejarah perlawanan <PERSON>rakyat maluku</PERSON> di bawah thomas matullesi ( pattimura ) <TIME>1817</TIME> - sejak <TIME>abad ke-17</TIME> perlawanan <PERSON>rakyat maluku</PERSON> terhadap <PERSON>kompeni</PERSON> sudah terjadi , namun perlawanan yang dahsyat baru muncul pada <TIME>permulaan abad ke-19</TIME> , di bawah pimpinan <PERSON>thomas matulessi</PERSON> ( lebih dikenal dengan nama pattimura ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+latar belakang timbulnya perlawanan <PERSON>pattimura ,</PERSON> di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
+
+
+tidak ada entitas jawaban, skip
+
+
+a. sebab ekonomis , yakni adanya tindakan-tindakan <PERSON>pemerintah belanda</PERSON> yang memperberat kehidupan <PERSON>rakyat</PERSON> , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
+
+
+tidak ada entitas jawaban, skip
+
+
+selain itu , beredarnya uang kertas yang menyebabkan <PERSON>rakyat maluku</PERSON> tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
+
+
+tidak ada entitas jawaban, skip
+
+
+b. sebab psikologis , yaitu adanya pemecatan <PERSON>guru-guru sekolah</PERSON> akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke <LOCATION>batavia .</LOCATION>
+
+memproses passage 1
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+list jawaban dan posisi dalam passage
+batavia | position = 15
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+kata kunci = pattimura
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+kata kunci = lahir
+tokenwithtagstemmed = b
+tokenwithtagstemmed = psikologis
+tokenwithtagstemmed = pecat
+tokenwithtagstemmed = guru guru sekolah
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = sekolah
+tokenwithtagstemmed = gereja
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = dinas
+tokenwithtagstemmed = militer
+tokenwithtagstemmed = batavia
+
+
+hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , <TIME>hari 17 boelan 8 tahoen ‘ 05</TIME> atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
+
+
+tidak ada entitas jawaban, skip
+
+
+sukarni mengusulkan bahwa lapangan ikada ( sekarang bagian tenggara lapangan monumen nasional ) telah dipersiapkan bagi berkumpulnya masyarakat jakarta untuk mendengar pembacaan naskah proklamasi .
+
+
+tidak ada entitas jawaban, skip
+
+
+namun ir .
+
+
+tidak ada entitas jawaban, skip
+
+
+sukarno menganggap lapangan ikada adalah salah satu lapangan umum yang dapat menimbulkan bentrokan antara rakyat dengan pihak militer jepang .
+
+
+tidak ada entitas jawaban, skip
+
+
+oleh karena itu <PERSON>bung karno</PERSON> mengusulkan agar upacara proklamasi dilaksanakan di <LOCATION>rumahnya ,</LOCATION> di jalan pegangsaan timur no. 56 dan disetujui oleh <PERSON>para hadirin .</PERSON>
+
+memproses passage 61
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+list jawaban dan posisi dalam passage
+rumahnya | position = 5
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = bung karno
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = rumah
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = gangsa
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 56
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = hadirin
+kata kunci = pattimura
+tokenwithtagstemmed = bung karno
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = rumah
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = gangsa
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 56
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = hadirin
+kata kunci = lahir
+tokenwithtagstemmed = bung karno
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = rumah
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = gangsa
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 56
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = hadirin
+
+Pengurutan kandidat jawaban
+
+
+selesai

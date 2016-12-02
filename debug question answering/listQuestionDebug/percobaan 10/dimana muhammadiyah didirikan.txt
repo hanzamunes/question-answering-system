@@ -1,0 +1,1133 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok241.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok5.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok76.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok4.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok75.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok108.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok37.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok387.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok147.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok153.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok289.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
+
+
+query token : 
+mana muhammadiyah diri 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
+title : perpaduan tradisi lokal, hindu buddha dan islam di berbagai daerah
+passage 6 score = 7.333333333333333
+sentence 1: jenis wayang , antara lain wayang kulit , wayang orang ( jawa = wong ) , wayang klithik , wayang gedhog , wayang golek , dan wayang beber .
+sentence 2: perlengkapan untuk pertunjukan wayang , antara lain dalang , warangggana ( pesinden ) , blencong ( lampu ) , kotak tempat wayang , kepyak , gamelan , rebab , dan suling .
+sentence 3: 2 .
+sentence 4: upacara penguburan adat dan tata cara penguburan di indonesia berbeda di setiap daerah sehingga banyak sekali ragamnya .
+sentence 5: hal ini wajar mengingat bangsa indonesia terdiri atas berbagai suku bangsa , agama , dan kepercayaan dengan adat istiadat yang berbeda pula .
+passage 10 score = 7.333333333333333
+sentence 1: dengan meniti tangga bambu sederhana yang disandarkan di tebing empat sampai dengan enam orang membawa peti itu merayap ke atas menuju liang kubur yang telah disiapkan .
+sentence 2: sesampainya di lubang kubur jenazah diletakkan dalam posisi berdiri dengan wajah menghadap lembah yang indah .
+sentence 3: b. pada masyarakat purba sebelum terkena pengaruh hindu – buddha maka adat dan tata cara penguburan orang meninggal sangat sederhana , yakni mayat hanya diletakkan di peti mayat atau kubur batu .
+sentence 4: untuk tokoh masyarakat atau kepala suku sebagai orang yang dihormati dan disegani dibuatkan arca atau tugu sebagai peringatan yang dikenal dengan istilah arca nenek moyang .
+sentence 5: untuk selanjutnya muncullah tradisi pemujaan terhadap roh nenek moyang .
+passage 15 score = 7.333333333333333
+sentence 1: upacara ini merupakan tradisi turun temurun sejak mataram di bawah pemerintahan panembahan senopati sampai sekarang .
+sentence 2: 4 .
+sentence 3: tradisi garebeg dan sekaten garebeg atau anggerebeg berarti pengawalan terhadap seorang pembesar yang penting , seperti seorang raja .
+sentence 4: pada upacara tersebut raja yogyakarta dan rajasurakarta menampakkan diri di sitinggil dan dikelilingi oleh pengikut-pengikutnya ( kerabat-kerabatnya ) yang berada di pagelaran untuk memberikan penghormatan kepada penguasa .
+sentence 5: upacara gerebeg dilakukan tiga kali setiap tahun oleh keraton yogayakarta dan keraton surakarta , yaitu pada hari kelahiran nabi muhammad saw .
+passage 2 score = 6.833333333333333
+sentence 1: tradisi kehidupan religius ini semula bentuknya masih sangat sederhana ( sebelum pengaruh hindu – buddha merupakan tradisi lokal ) sehingga ketika pengaruh hindu – buddha masuk ke indonesia , tradisi lokal ini tidak musnah melainkan justru makin berkembang .
+sentence 2: hal ini dikerenakan pengaruh hindu – buddha juga menyesuaikan dengan kehidupan masyarakat setempat , hanya saja cara-cara dan upacara religusnya bersumberkan pada ajaran hindu – buddha .
+sentence 3: demikian juga ketika pengaruh islam masuk juga ikut mewarnai kehidupan tradisi-tradisi yang ada di indonesia .
+sentence 4: segala aktivitas kehidupan masyarakat yang menganut agama islam , bersumber pada ajaran agama islam .
+sentence 5: dengan demikian dari masa purba sampai dengan masuknya pengaruh islam , kehidupan tradisi-tradisi tersebut masih tetap berlangsung dan mendapat tempat sendiri-sendiri di kalangan masyarakat sesuai dengan kondisi daerah dan tingkat kepercayaan masyarakat yang bersangkutan .
+passage 1 score = 6.5
+sentence 1: perpaduan tradisi lokal , hindu buddha dan islam di berbagai daerah - sebelum datangnya pengaruh hindu – buddha dan islam masuk ke indonesia , masyarakat indonesia telah mengenal kehidupan religius yang dijadikan pedoman untuk bersikap dan berperilaku dalam kehidupan .
+sentence 2: setelah masuknya pengaruh hindu , buddha dan islam , terjadilah interaksi dan memengaruhi kehidupan masyarakat di indonesia .
+sentence 3: hampir setiap kegiatan selalu dilandasi dengan upacara religius , baik dalam kegiatan mata pencaharian , adat istiadat perkawinan , tata cara penguburan , selamatan-selamatan ( jawa = slametan ) , maupun dalam kehidupan lainnya .
+sentence 4: mereka patuh menjalankan pranata-pranata yang berbau religius dan magis tersebut karena mereka beranggapan bahwa apabila terjadi pelanggaran akan mendapatkan kutukan dari arwah nenek moyang yang dampaknya akan mendatangkan bencana terhadap warga masyarakatnya .
+sentence 5: tradisi kehidupan religius ini semula bentuknya masih sangat sederhana ( sebelum pengaruh hindu – buddha merupakan tradisi lokal ) sehingga ketika pengaruh hindu – buddha masuk ke indonesia , tradisi lokal ini tidak musnah melainkan justru makin berkembang .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
+title : perpaduan tradisi lokal, hindu buddha dan islam di berbagai daerah
+passage 6 score = 7.333333333333333
+sentence 1: jenis wayang , antara lain wayang kulit , wayang orang ( jawa = wong ) , wayang klithik , wayang gedhog , wayang golek , dan wayang beber .
+sentence 2: perlengkapan untuk pertunjukan wayang , antara lain dalang , warangggana ( pesinden ) , blencong ( lampu ) , kotak tempat wayang , kepyak , gamelan , rebab , dan suling .
+sentence 3: 2 .
+sentence 4: upacara penguburan adat dan tata cara penguburan di indonesia berbeda di setiap daerah sehingga banyak sekali ragamnya .
+sentence 5: hal ini wajar mengingat bangsa indonesia terdiri atas berbagai suku bangsa , agama , dan kepercayaan dengan adat istiadat yang berbeda pula .
+passage 10 score = 7.333333333333333
+sentence 1: dengan meniti tangga bambu sederhana yang disandarkan di tebing empat sampai dengan enam orang membawa peti itu merayap ke atas menuju liang kubur yang telah disiapkan .
+sentence 2: sesampainya di lubang kubur jenazah diletakkan dalam posisi berdiri dengan wajah menghadap lembah yang indah .
+sentence 3: b. pada masyarakat purba sebelum terkena pengaruh hindu – buddha maka adat dan tata cara penguburan orang meninggal sangat sederhana , yakni mayat hanya diletakkan di peti mayat atau kubur batu .
+sentence 4: untuk tokoh masyarakat atau kepala suku sebagai orang yang dihormati dan disegani dibuatkan arca atau tugu sebagai peringatan yang dikenal dengan istilah arca nenek moyang .
+sentence 5: untuk selanjutnya muncullah tradisi pemujaan terhadap roh nenek moyang .
+passage 15 score = 7.333333333333333
+sentence 1: upacara ini merupakan tradisi turun temurun sejak mataram di bawah pemerintahan panembahan senopati sampai sekarang .
+sentence 2: 4 .
+sentence 3: tradisi garebeg dan sekaten garebeg atau anggerebeg berarti pengawalan terhadap seorang pembesar yang penting , seperti seorang raja .
+sentence 4: pada upacara tersebut raja yogyakarta dan rajasurakarta menampakkan diri di sitinggil dan dikelilingi oleh pengikut-pengikutnya ( kerabat-kerabatnya ) yang berada di pagelaran untuk memberikan penghormatan kepada penguasa .
+sentence 5: upacara gerebeg dilakukan tiga kali setiap tahun oleh keraton yogayakarta dan keraton surakarta , yaitu pada hari kelahiran nabi muhammad saw .
+passage 2 score = 6.833333333333333
+sentence 1: tradisi kehidupan religius ini semula bentuknya masih sangat sederhana ( sebelum pengaruh hindu – buddha merupakan tradisi lokal ) sehingga ketika pengaruh hindu – buddha masuk ke indonesia , tradisi lokal ini tidak musnah melainkan justru makin berkembang .
+sentence 2: hal ini dikerenakan pengaruh hindu – buddha juga menyesuaikan dengan kehidupan masyarakat setempat , hanya saja cara-cara dan upacara religusnya bersumberkan pada ajaran hindu – buddha .
+sentence 3: demikian juga ketika pengaruh islam masuk juga ikut mewarnai kehidupan tradisi-tradisi yang ada di indonesia .
+sentence 4: segala aktivitas kehidupan masyarakat yang menganut agama islam , bersumber pada ajaran agama islam .
+sentence 5: dengan demikian dari masa purba sampai dengan masuknya pengaruh islam , kehidupan tradisi-tradisi tersebut masih tetap berlangsung dan mendapat tempat sendiri-sendiri di kalangan masyarakat sesuai dengan kondisi daerah dan tingkat kepercayaan masyarakat yang bersangkutan .
+passage 1 score = 6.5
+sentence 1: perpaduan tradisi lokal , hindu buddha dan islam di berbagai daerah - sebelum datangnya pengaruh hindu – buddha dan islam masuk ke indonesia , masyarakat indonesia telah mengenal kehidupan religius yang dijadikan pedoman untuk bersikap dan berperilaku dalam kehidupan .
+sentence 2: setelah masuknya pengaruh hindu , buddha dan islam , terjadilah interaksi dan memengaruhi kehidupan masyarakat di indonesia .
+sentence 3: hampir setiap kegiatan selalu dilandasi dengan upacara religius , baik dalam kegiatan mata pencaharian , adat istiadat perkawinan , tata cara penguburan , selamatan-selamatan ( jawa = slametan ) , maupun dalam kehidupan lainnya .
+sentence 4: mereka patuh menjalankan pranata-pranata yang berbau religius dan magis tersebut karena mereka beranggapan bahwa apabila terjadi pelanggaran akan mendapatkan kutukan dari arwah nenek moyang yang dampaknya akan mendatangkan bencana terhadap warga masyarakatnya .
+sentence 5: tradisi kehidupan religius ini semula bentuknya masih sangat sederhana ( sebelum pengaruh hindu – buddha merupakan tradisi lokal ) sehingga ketika pengaruh hindu – buddha masuk ke indonesia , tradisi lokal ini tidak musnah melainkan justru makin berkembang .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 20 score = 8.166666666666668
+sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
+sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
+sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+passage 21 score = 8.166666666666668
+sentence 1: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+sentence 2: 5 .
+sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh golongan tua ( kaum priayi dan pegawai negeri ) sehingga para pemuda kecewa dan keluar dari organisasi tersebut .
+sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
+sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
+passage 2 score = 7.833333333333333
+sentence 1: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
+sentence 2: tujuan budi utomo adalah memajukan pengajaran dan kebudayaan .
+sentence 3: tujuan tersebut ingin dicapai dengan usaha-usaha sebagai berikut : 1 ) memajukan pengajaran ; 2 ) memajukan pertanian , peternakan dan perdagangan ; 3 ) memajukan teknik dan industri 4 ) menghidupkan kembali kebudayaan .
+sentence 4: dr sutomo dilihat dari tujuannya , budi utomo bukan merupakan organisasi politik melainkan merupakan organisasi pelajar dengan pelajar stovia sebagai intinya .
+sentence 5: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
+passage 3 score = 7.833333333333333
+sentence 1: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
+sentence 2: untuk mengonsolidasi diri ( dengan dihadiri 7 cabangnya ) , budi utomo mengadakan kongres yang pertama di yogyakarta pada tanggal 3-5 oktober 1908 .
+sentence 3: kongres memutuskan hal-hal sebagai berikut .
+sentence 4: 1 ) budi utomo tidak ikut dalam mengadakan kegiatan politik .
+sentence 5: 2 ) kegiatan budi utomo terutama ditujukan pada bidang pendidikan dan kebudayaan .
+passage 24 score = 7.833333333333333
+sentence 1: sejalan dengan munculnya jong java , pemuda-pemuda di daerah lain juga membentuk organisasi-organisasi , seperti jong sumatra bond , pasundan , jong minahasa , jong ambon , jong selebes , jong batak , pemuda kaum betawi , sekar rukun , timorees verbond , dan lain-lain .
+sentence 2: pada dasarnya semua organisasi itu masih bersifat kedaerahan , tetapi semuanya mempunyai cita-cita ke arah kemajuan indonesia , khususnya memajukan budaya dan daerah masing-masing .
+sentence 3: 6 .
+sentence 4: taman siswa sekembalinya dari tanah pengasingannya di negeri belanda ( 1919 ) , suwardi suryaningrat menfokuskan perjuangannya dalam bidang pendidikan .
+sentence 5: pada tanggal 3 juli 1922 suwardi suryaningrat ( lebih dikenal dengan nama ki hajar dewantara ) berhasil mendirikan perguruan taman siswa di yogyakarta .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 20 score = 8.166666666666668
+sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
+sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
+sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+passage 21 score = 8.166666666666668
+sentence 1: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+sentence 2: 5 .
+sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh golongan tua ( kaum priayi dan pegawai negeri ) sehingga para pemuda kecewa dan keluar dari organisasi tersebut .
+sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
+sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
+passage 2 score = 7.833333333333333
+sentence 1: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
+sentence 2: tujuan budi utomo adalah memajukan pengajaran dan kebudayaan .
+sentence 3: tujuan tersebut ingin dicapai dengan usaha-usaha sebagai berikut : 1 ) memajukan pengajaran ; 2 ) memajukan pertanian , peternakan dan perdagangan ; 3 ) memajukan teknik dan industri 4 ) menghidupkan kembali kebudayaan .
+sentence 4: dr sutomo dilihat dari tujuannya , budi utomo bukan merupakan organisasi politik melainkan merupakan organisasi pelajar dengan pelajar stovia sebagai intinya .
+sentence 5: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
+passage 3 score = 7.833333333333333
+sentence 1: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
+sentence 2: untuk mengonsolidasi diri ( dengan dihadiri 7 cabangnya ) , budi utomo mengadakan kongres yang pertama di yogyakarta pada tanggal 3-5 oktober 1908 .
+sentence 3: kongres memutuskan hal-hal sebagai berikut .
+sentence 4: 1 ) budi utomo tidak ikut dalam mengadakan kegiatan politik .
+sentence 5: 2 ) kegiatan budi utomo terutama ditujukan pada bidang pendidikan dan kebudayaan .
+passage 24 score = 7.833333333333333
+sentence 1: sejalan dengan munculnya jong java , pemuda-pemuda di daerah lain juga membentuk organisasi-organisasi , seperti jong sumatra bond , pasundan , jong minahasa , jong ambon , jong selebes , jong batak , pemuda kaum betawi , sekar rukun , timorees verbond , dan lain-lain .
+sentence 2: pada dasarnya semua organisasi itu masih bersifat kedaerahan , tetapi semuanya mempunyai cita-cita ke arah kemajuan indonesia , khususnya memajukan budaya dan daerah masing-masing .
+sentence 3: 6 .
+sentence 4: taman siswa sekembalinya dari tanah pengasingannya di negeri belanda ( 1919 ) , suwardi suryaningrat menfokuskan perjuangannya dalam bidang pendidikan .
+sentence 5: pada tanggal 3 juli 1922 suwardi suryaningrat ( lebih dikenal dengan nama ki hajar dewantara ) berhasil mendirikan perguruan taman siswa di yogyakarta .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok241.txt
+title : latief hendraningrat pengibar bendera pusaka sewaktu proklamasi
+passage 1 score = 7.833333333333333
+sentence 1: latief hendraningrat pengibar bendera pusaka sewaktu proklamasi - lahir di jakarta , 15 februari 1911 – meninggal di jakarta , 14 maret 1983 pada umur 72 tahun ) adalah seorang prajurit peta berpangkat sudanco pengerek bendera sang saka merah putih tanggal 17 agustus 1945 di jalan pegangsaan timur 56 .
+sentence 2: beliau mengenyam pendidikan di sekolah tinggi hukum .
+sentence 3: saat menjadi mahasiswa itu ia sekaligus mengajar bahasa inggris di beberapa sekolah menengah swasta , seperti yang dikelola oleh muhammadiyah dan perguruan rakyat .
+sentence 4: ia pernah dikirim oleh pemerintah hindia belanda ke world fair ) di new york , sebagai ketua rombongan tari .
+sentence 5: dalam masa pendudukan jepang ia giat dalam pusat latihan pemuda ( seinen kunrenshoo ) , kemudian menjadi anggota pasukan pembela tanah air ( peta ) .
+passage 3 score = 6.5
+sentence 1: setelah penyerahan kedaulatan , beliau mula-mula ditugaskan di markas besar angkatan darat , kemudian ditunjuk sebagai atase militer rl untuk filipina ( 1952 ) , lalu dipindahkan ke washington hingga tahun 1956 .
+sentence 2: sekembalinya di indonesia beliau ditugaskan memimpin sekolah staf dan komando angkatan darat ( sskad , yang kini menjadi seskoad ) .
+sentence 3: jabatannya setelah itu antara lain rektor ikip negeri jakarta ( 1964-1965 ) .
+sentence 4: pada tahun 1967 hendraningrat memasuki masa pensiun dengan pangkat brigadir jenderal .
+sentence 5: sejak itu beliau menjadi seorang wiraswastawan dan aktif di yayasan perguruan rakyat , organisasi indonesia muda dan asita ( association of the indonesian tours and travel agencies ) .
+passage 2 score = 6.0
+sentence 1: dalam masa pendudukan jepang ia giat dalam pusat latihan pemuda ( seinen kunrenshoo ) , kemudian menjadi anggota pasukan pembela tanah air ( peta ) .
+sentence 2: dalam masa setelah proklamasi kemerdekaan , beliau terlibat dalam berbagai pertempuran .
+sentence 3: kemudian menjabat komandan komando kota ketika belanda menyerbu yogyakarta ( 1948 ) .
+sentence 4: setelah berhasil keluar dari yogyakarta yang sudah terkepung , beliau melakukan gerilya .
+sentence 5: setelah penyerahan kedaulatan , beliau mula-mula ditugaskan di markas besar angkatan darat , kemudian ditunjuk sebagai atase militer rl untuk filipina ( 1952 ) , lalu dipindahkan ke washington hingga tahun 1956 .
+passage 4 score = 1.0
+sentence 1: sejak itu beliau menjadi seorang wiraswastawan dan aktif di yayasan perguruan rakyat , organisasi indonesia muda dan asita ( association of the indonesian tours and travel agencies ) .
+sentence 2: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+title : sejarah kerajaan banjar (kesultanan banjarmasin)
+passage 28 score = 6.833333333333333
+sentence 1: akibatnya , pada tahun 1595 terjadi perang saudara yang berakhir dengan kemenangan di pihak pangeran samudera .
+sentence 2: keberhasilan pangeran samudera tidak terlepas dari dukungan umat islam di wilayah banjar serta dukungan patih masih dengan prajurit kerajaan demak .
+sentence 3: setelah masuk islam , pangeran samudera berganti nama menjadi pangeran suriansyah .
+sentence 4: kemudian ia memindahkan pusat pemerintahan ke suatu tempat yang diberi nama bandar masih , sekarang banjarmasin .
+sentence 5: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
+passage 29 score = 6.833333333333333
+sentence 1: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
+sentence 2: perpindahan pusat pemerintahan kesultanan banjar juga terjadi pada masa pemerintahan sultan-sultan berikutnya .
+sentence 3: pada akhir masa pemerintahan sultan hidayatullah ( 1650 ) , pusat pemerintahan dipindahkan ke batang mangapan , yang sekarang bernama muara tambangan , dekat martapura .
+sentence 4: pada masa pemerintahan sultan tamjidillah ( 1745-1778 ) pusat pemerintahan dipindahkan ke martapura pada tahun 1766 , pada masa pemerintahan sultan sulaiman ( 1808-1825 ) dipindahkan ke karang intan , dan pada pemerintahan sultan adam al-wasi ’ billah ( 1825-1857 ) dipindahkan kembali ke martapura .
+sentence 5: islam yang telah dianut oleh tokoh dan pembesar-pembesar kesultanan ini , berkembang terus di kalimantan .
+passage 1 score = 5.5
+sentence 1: sejarah kerajaan banjar ( kesultanan banjarmasin ) - kerajaan banjar merupakan kerajaan islam yang terletak di pulau kalimantan , tepatnya di kalimantan selatan .
+sentence 2: kerajaan banjar disebut jug kesultanan banjarmasin .
+sentence 3: kata banjarmasin merupakan paduan dari dua kata , yaitu bandar dan masih .
+sentence 4: nama bandar masih diambil dari nama patih masih , seorang perdana menteri kerajaan banjar yang cakap dan berwibawa .
+sentence 5: berikut beberapa sultan yang pernah memerintah kesultanan banjarmasin .
+passage 4 score = 5.5
+sentence 1: pemerintahannya dibantu mangkubumi aria taranggana .
+sentence 2: makamnya di kompleks makam sultan suriansyah dengan gelar anumerta panembahan batu putih .
+sentence 3: ( 1570-1595 ) sultan sultan hidayatullah i bin rahmatullah .
+sentence 4: pemerintahannya dibantu mangkubumi kiai anggadipa .
+sentence 5: makamnya di kompleks makam sultan suriansyah dengan gelar anumerta panembahan batu irang .
+passage 7 score = 5.5
+sentence 1: trah keturunannya menjadi raja-raja kotawaringin , tanah bumbu dan bangkalaan .
+sentence 2: ( 1638-1645 ) sultan inayatullah bin mustainbillah .
+sentence 3: pemerintahannya dibantu adiknya pangeran di darat sebagai mangkubumi .
+sentence 4: gelar lain ratu agung/ratu lama dimakamkan di kampung keraton , martapura .
+sentence 5: adiknya pangeran dipati anta kasuma diangkat menjadi raja muda di wilayah sebelah barat yang disebut kerajaan kotawaringin ( 1645-1660 ) sultan saidullah bin sultan inayatullah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+title : sejarah kerajaan banjar (kesultanan banjarmasin)
+passage 28 score = 6.833333333333333
+sentence 1: akibatnya , pada tahun 1595 terjadi perang saudara yang berakhir dengan kemenangan di pihak pangeran samudera .
+sentence 2: keberhasilan pangeran samudera tidak terlepas dari dukungan umat islam di wilayah banjar serta dukungan patih masih dengan prajurit kerajaan demak .
+sentence 3: setelah masuk islam , pangeran samudera berganti nama menjadi pangeran suriansyah .
+sentence 4: kemudian ia memindahkan pusat pemerintahan ke suatu tempat yang diberi nama bandar masih , sekarang banjarmasin .
+sentence 5: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
+passage 29 score = 6.833333333333333
+sentence 1: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
+sentence 2: perpindahan pusat pemerintahan kesultanan banjar juga terjadi pada masa pemerintahan sultan-sultan berikutnya .
+sentence 3: pada akhir masa pemerintahan sultan hidayatullah ( 1650 ) , pusat pemerintahan dipindahkan ke batang mangapan , yang sekarang bernama muara tambangan , dekat martapura .
+sentence 4: pada masa pemerintahan sultan tamjidillah ( 1745-1778 ) pusat pemerintahan dipindahkan ke martapura pada tahun 1766 , pada masa pemerintahan sultan sulaiman ( 1808-1825 ) dipindahkan ke karang intan , dan pada pemerintahan sultan adam al-wasi ’ billah ( 1825-1857 ) dipindahkan kembali ke martapura .
+sentence 5: islam yang telah dianut oleh tokoh dan pembesar-pembesar kesultanan ini , berkembang terus di kalimantan .
+passage 1 score = 5.5
+sentence 1: sejarah kerajaan banjar ( kesultanan banjarmasin ) - kerajaan banjar merupakan kerajaan islam yang terletak di pulau kalimantan , tepatnya di kalimantan selatan .
+sentence 2: kerajaan banjar disebut jug kesultanan banjarmasin .
+sentence 3: kata banjarmasin merupakan paduan dari dua kata , yaitu bandar dan masih .
+sentence 4: nama bandar masih diambil dari nama patih masih , seorang perdana menteri kerajaan banjar yang cakap dan berwibawa .
+sentence 5: berikut beberapa sultan yang pernah memerintah kesultanan banjarmasin .
+passage 4 score = 5.5
+sentence 1: pemerintahannya dibantu mangkubumi aria taranggana .
+sentence 2: makamnya di kompleks makam sultan suriansyah dengan gelar anumerta panembahan batu putih .
+sentence 3: ( 1570-1595 ) sultan sultan hidayatullah i bin rahmatullah .
+sentence 4: pemerintahannya dibantu mangkubumi kiai anggadipa .
+sentence 5: makamnya di kompleks makam sultan suriansyah dengan gelar anumerta panembahan batu irang .
+passage 7 score = 5.5
+sentence 1: trah keturunannya menjadi raja-raja kotawaringin , tanah bumbu dan bangkalaan .
+sentence 2: ( 1638-1645 ) sultan inayatullah bin mustainbillah .
+sentence 3: pemerintahannya dibantu adiknya pangeran di darat sebagai mangkubumi .
+sentence 4: gelar lain ratu agung/ratu lama dimakamkan di kampung keraton , martapura .
+sentence 5: adiknya pangeran dipati anta kasuma diangkat menjadi raja muda di wilayah sebelah barat yang disebut kerajaan kotawaringin ( 1645-1660 ) sultan saidullah bin sultan inayatullah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+title : sejarah organisasi dalam bidang politik pada masa pergerakan
+passage 28 score = 7.166666666666667
+sentence 1: tokoh lainnya , antara lain : raden dewi sartika ( 1884-1947 ) melalui sekolah kaoetamaan istri , budi utomo melalui putri mardika ( 1912 ) , dan beberapa perkumpulan perempuan ( kerajinan anai setia di padang ( 1914 ) , pawiyatan perempuan ( 1915 ) di magelang , percintaan ibu kepada anak temurunannya ( pikat ) tahun 1917 , purborini ( 1917 ) di tegal , aisiyah di yogyakarta , dan perempuan sosilo di pemalang .
+sentence 2: muhammadiyah merupakan organisasi islam yang berdiri di yogyakarta pada tanggal 18 november 1918 .
+sentence 3: organisasi ini didirikan oleh k.h. ahmad dahlan dengan tujuan untuk memperbaharui pola pikir umat islam dan adat istiadat masyarakat agar sesuai dengan al-qur an dan hadis nabi .
+sentence 4: dalam pergerakannya , muhammadiyah lebih banyak bergerak dalam bidang budaya ( pendidikan ) dan sosial .
+sentence 5: kegiatan yang dibidanginya antara lain pendirian rumah sakit , rumah yatim piatu , balai pengobatan , sekolah-sekolah , dan lain sebagainya .
+passage 29 score = 6.666666666666667
+sentence 1: kegiatan yang dibidanginya antara lain pendirian rumah sakit , rumah yatim piatu , balai pengobatan , sekolah-sekolah , dan lain sebagainya .
+sentence 2: perkembangan selanjutnya organisasi muhammadiyah ini berkembang pesat ke luar wilayah yogyakarta .
+sentence 3: organisasi taman siswa didirikan oleh suwardi suryaningrat pada tahun 1922 .
+sentence 4: perguruan ini berkeinginan untuk memajukan pendidikan dan kebudayaan masyarakat indonesia .
+sentence 5: dalam mencapai tujuannya itu taman siswa banyak mendirikan sekolah-sekolah .
+passage 1 score = 6.333333333333333
+sentence 1: sejarah organisasi dalam bidang politik pada masa pergerakan – pada kesempatan ini admin pengertian sejarah akan berbagi informasi mengenai sejarah organisasi dalam bidang politik pada masa pergerakan .
+sentence 2: ok langsung saja kita simak bersama penjelasan lengkapnya .
+sentence 3: pada tanggal 12 desember 1912 , indische partij didirikan di bandung oleh yaitu dr. e.f.e. douwes dekker , suwardi suryaningrat , dan dr. cipto mangunkusumo ( ketiga tokoh ini dikenal dengan sebutan tiga serangkai ) .
+sentence 4: tiga tokoh tersebut terkenal dengan tokoh radikal , douwes dekker terkenal dengan kritikan-kritikan terhadap pemerintah kolonial belanda lewat surat kabar yang dipimpinnya yaitu de express .
+sentence 5: suwardi suryaningrat dan cipto mangunkusumo adalah mantan anggota budi utomo yang keluar karena budi utomo dikuasai oleh para priyayi yang loyal pada pemerintah belanda .
+passage 3 score = 6.333333333333333
+sentence 1: pembubaran organisasi ini dipicu oleh tulisan indische partij yang mengkritik perayaan kemerdekaan belanda dari spanyol di negeri jajahan yang belum merdeka , yaitu indonesia .
+sentence 2: perhimpunan indonesia pada awalnya merupakan organisasi yang pada mulanya bernama indische vereeniging yang didirikan oleh mahasiswa indonesia di jakarta pada tanggal 22 desember 1908 .
+sentence 3: kemudian pada tahun 1923 indische vereeniging mengeluarkan semacam keterangan asas yaitu indonesia merdeka yang lepas dari penjajahan .
+sentence 4: untuk mempersiapkannya harus ada usaha untuk membangun tenaga nasional .
+sentence 5: dalam membangun tenaga nasional itu , rakyat indonesia tidak boleh bekerja sama dengan pemerintah belanda .
+passage 12 score = 6.333333333333333
+sentence 1: partai nasional indonesia ( pni ) didirikan oleh ir .
+sentence 2: soekarno pada tanggal 4 juli 1927 di bandung .
+sentence 3: sebagai dampak dari gagalnya pemberontakan yang dilakukan oleh pki , maka para pemimpin pni sangat berhati-hati dalam melangkah dan bersikap , demi keamanan organisasi yang baru berdiri ini .
+sentence 4: partai nasional indonesia didirikan dengan asas selfhelp , nonkooperatif , dan marhaenisme .
+sentence 5: beberapa point tujuan pni adalah sebagai berikut : 1 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
+title : kerajaan kediri
+passage 5 score = 6.333333333333333
+sentence 1: lancana kerajaanya adalah tengkorak yang bertaring disebut candrakapala .
+sentence 2: dalam masa pemerintahannya mpu darmaja telah mengubah kitab samaradana .
+sentence 3: dalam kitab ini sang raja di puji – puji sebagai titisan dewa kama , dan ibukotanya yang keindahannya dikagumi seluruh dunia bernama dahana .
+sentence 4: permaisurinya bernama shri kirana , yang berasal dari janggala .3 .
+sentence 5: jayabaya raja kediri ketiga yang bergelar shri maharaja shri kroncarryadipa handabhuwanapalaka parakramanindita digjayotunggadewanama shri gandra .
+passage 1 score = 5.0
+sentence 1: pada tahun 1019 m airlangga dinobatkan menjadi raja medang kamulan .
+sentence 2: airlangga berusaha memulihkan kembali kewibawaan medang kamulan , setelah kewibawaan kerajaan berahasil dipulihkan , airlangga memindahkan pusat pemerintahan dari medang kamulan ke kahuripan .
+sentence 3: berkat jerih payahnya , medang kamulan mencapai kejayaan dan kemakmuran .
+sentence 4: menjelang akhir hayatnya , airlangga memutuskan untuk mundur dari pemerintahan dan menjadi pertapa dengan sebutan resi gentayu .
+sentence 5: airlangga meninggal pada tahun 1049 m. pewaris tahta kerajaan medang kamulan seharusnya seorang putri yaitu sri sanggramawijaya yang lahir dari seorang permaisuri .
+passage 2 score = 1.6666666666666665
+sentence 1: airlangga meninggal pada tahun 1049 m. pewaris tahta kerajaan medang kamulan seharusnya seorang putri yaitu sri sanggramawijaya yang lahir dari seorang permaisuri .
+sentence 2: namun karena memilih menjadi pertapa , tahta beralih pada putra airlangga yang lahir dari selir .
+sentence 3: untuk menghindari perang saudara , medang kamulan dibagi menjadi dua yaitu kerajaan jenggala dengan ibu kota kahuripan , dan kerajaan kediri ( panjalu ) dengan ibu kota dhaha .
+sentence 4: tetapi upaya tersebut mengalami kegagalan .
+sentence 5: hal ini dapat terlihat hingga abad ke 12 , dimana kediri tetap menjadi kerajaan yang subur dan makmur namun tetap tidak damai sepenuhnya dikarenakan dibayang - bayangi jenggala yang berada dalam posisi yang lebih lemah .
+passage 3 score = 1.6666666666666665
+sentence 1: hal ini dapat terlihat hingga abad ke 12 , dimana kediri tetap menjadi kerajaan yang subur dan makmur namun tetap tidak damai sepenuhnya dikarenakan dibayang - bayangi jenggala yang berada dalam posisi yang lebih lemah .
+sentence 2: hal itu menjadikan suasana gelap , penuh kemunafikan dan pembunuhan berlangsung terhadap pangeran dan raja – raja antar kedua negara .
+sentence 3: namun perseteruan ini berakhir dengan kekalahan jenggala , kerajaan kembali dipersatukandi bawah kekuasaan kediri .
+sentence 4: a. sistem pemerintahan kerajaan kediri sistem pemerintahan kerajaan kediri terjadi beberapa kali pergantian kekuasaan , adapun raja – raja yang pernah berkuasa pada masa kerajaan kediri adalah :1 .
+sentence 5: shri jayawarsa digjaya shastraprabhu jayawarsa adalah raja pertama kerajaan kediri dengan prasastinya yang berangka tahun 1104 .
+passage 10 score = 1.6666666666666665
+sentence 1: prinsip kesucian prabu srengga menurut para dalang wayang dilukiskan oleh prapanca .7 .
+sentence 2: pemerintahan kertajaya raja terakhir pada masa kediri .
+sentence 3: kertajaya raja yang mulia serta sangat peduli dengan rakyat .
+sentence 4: kertajaya dikenal dengan catur marganya yang berarti empat jalan yaitu darma , arta , kama , moksa .
+sentence 5: b. runtuhnya kerajaan kediri runtuhnya kerajaan kediri dikarenakan pada masa pemerintahan kertajaya , terjadi pertentangan dengan kaum brahmana .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+passage 94 score = 7.166666666666667
+sentence 1: dalam kongres muhammadiyah yang berlangsung dari tanggal 12 - 17 maret 1925 di yogyakarta , diperbincangkan masalah-masalah yang berkaitan dengan pengajaran islam , mass media islam , dan buku-buku tentang islam yang berbahasa jawa .
+sentence 2: di samping muhammadiyah , gerakan keagamaan lain yang memiliki andil bagi kemajuan bangsa antara lain , berikut ini .
+sentence 3: a. jong islamienten bond , berdiri tanggal 1 januari 1925 di jakarta .
+sentence 4: b. nahdlatul ulama ( nu ) , berdiri pada tanggal 31 januari 1926 di surabaya , jawa timur .
+sentence 5: c. nahdlatul wathan , berdiri tahun 1932 di pacor , lombok timur .
+passage 100 score = 7.166666666666667
+sentence 1: perkumpulan wanita yang didirikan sebelum tahun 1920 antara lain putri mardika yang didirikan atas bantuan budi utomo .
+sentence 2: perkumpulan ini bertujuan untuk memajukan pengajaran terhadap anak-anak perempuan dengan cara memberi penerangan dan bantuan dana , mempertinggi sikap yang merdeka , dan melenyapkan tindakan malu-malu yang melampaui batas .
+sentence 3: perkumpulan kautamaan istri didirikan pada tahun 1913 di tasikmalaya , lalu pada tahun 1916 di sumedang , cianjur , dan tahun 1917 di ciamis , menyusul di cicurug tahun 1918 .
+sentence 4: tokoh kautamaan istri yang terkenal adalah raden dewi sartika , seorang pengajar kautamaan istri di tanah pasundan .
+sentence 5: di yogyakarta pada tahun 1912 didirikan perkumpulan wanita yang benafaskan islam dengan nama sopa tresna , yang kemudian pada tahun 1914 menjadi bagian wanita dari muhammadiyah dengan nama aisyah .
+passage 101 score = 7.166666666666667
+sentence 1: di yogyakarta pada tahun 1912 didirikan perkumpulan wanita yang benafaskan islam dengan nama sopa tresna , yang kemudian pada tahun 1914 menjadi bagian wanita dari muhammadiyah dengan nama aisyah .
+sentence 2: di yogyakarta selain aisyah juga ada perkumpulan wanita yang bernama wanito utomo , yang mulai memasukkan perempuan ke dalam kegiatan dasar pekerjaan ke arah emansipasi .
+sentence 3: di samping r.a.kartini dan dewi sartika , masih terdapat seorang tokoh wanita yaitu ibu maria walanda maramis dari minahasa .
+sentence 4: beliau mendirikan perkumpulan yang bernama percintaan ibu kepada anak temurunnya ( pikat ) pada tahun 1917 .
+sentence 5: pikat dalam kegiatannya mendirikan sekolah kepandaian putri .
+passage 9 score = 6.833333333333333
+sentence 1: keduanya diselenggarakan untuk tingkat menengah ke atas .
+sentence 2: berikut ini contoh-contoh sekolah yang didirikan pada zaman kolonial belanda d .
+sentence 3: pengaruh perkembangan pendidikan islam di indonesia perkembangan pendidikan di indonesia juga banyak diwarnai oleh pendidikan yang dikelola umat islam .
+sentence 4: ada tiga macam jenis pendidikan islam di indonesia yaitu pendidikan di surau atau langgar , pesantren , dan madrasah .
+sentence 5: walaupun dasar pendidikan dan pengajarannya berlandaskan ilmu pengetahuan agama islam , mata pelajaran umum lainnya juga mulai disentuh .
+passage 44 score = 6.833333333333333
+sentence 1: 3 .
+sentence 2: indische partij ( ip ) ip didirikan pada tanggal 25 desember 1912 di bandung oleh tokoh tiga serangkai , yaitu e.f.e douwes dekker , dr. cipto mangunkusumo , dan suwardi suryaningrat .
+sentence 3: pendirian ip ini dimaksudkan untuk mengganti indische bond yang merupakan organisasi orang-orang indo dan eropa di indonesia .
+sentence 4: hal ini disebabkan adanya keganjilan-keganjilan yang terjadi ( diskriminasi ) khususnya antara keturunan belanda totok dengan orang belanda campuran ( indo ) .
+sentence 5: ip sebagai organisasi campuran menginginkan adanya kerja sama orang indo dan bumi putera .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 20 score = 8.166666666666668
+sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
+sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
+sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 21 score = 8.166666666666668
+sentence 1: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+sentence 2: 5 .
+sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh golongan tua ( kaum priayi dan pegawai negeri ) sehingga para pemuda kecewa dan keluar dari organisasi tersebut .
+sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
+sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 20 score = 8.166666666666668
+sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
+sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
+sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 21 score = 8.166666666666668
+sentence 1: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+sentence 2: 5 .
+sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh golongan tua ( kaum priayi dan pegawai negeri ) sehingga para pemuda kecewa dan keluar dari organisasi tersebut .
+sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
+sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 2 score = 7.833333333333333
+sentence 1: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
+sentence 2: tujuan budi utomo adalah memajukan pengajaran dan kebudayaan .
+sentence 3: tujuan tersebut ingin dicapai dengan usaha-usaha sebagai berikut : 1 ) memajukan pengajaran ; 2 ) memajukan pertanian , peternakan dan perdagangan ; 3 ) memajukan teknik dan industri 4 ) menghidupkan kembali kebudayaan .
+sentence 4: dr sutomo dilihat dari tujuannya , budi utomo bukan merupakan organisasi politik melainkan merupakan organisasi pelajar dengan pelajar stovia sebagai intinya .
+sentence 5: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
+
+
+Pencarian jawaban
+---------------------
+
+
+itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+
+
+tidak ada entitas jawaban, skip
+
+
+kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+sejak berdiri di <LOCATION>yogyakarta</LOCATION> ( <TIME>1912</TIME> ) muhammadiyah terus mengalami perkembangan yang pesat .
+
+memproses passage 20
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+yogyakarta | position = 1
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = 1912
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = pesat
+kata kunci = muhammadiyah
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = 1912
+tokenwithtagstemmed = muhammadiyah
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+yogyakarta -2
+
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = pesat
+kata kunci = diri
+tokenwithtagstemmed = diri
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+yogyakarta 1
+
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = 1912
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = pesat
+
+
+sampai <TIME>tahun 1913</TIME> <PERSON>, muhammadiyah</PERSON> telah memiliki 267 cabang yang tersebar di <LOCATION>pulau jawa .</LOCATION>
+
+memproses passage 20
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+pulau jawa | position = 6
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = 267
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+kata kunci = muhammadiyah
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = muhammadiyah
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+pulau jawa 5
+
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = 267
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+kata kunci = diri
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = 267
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+
+
+pada <TIME>tahun 1935</TIME> <PERSON>, muhammadiyah</PERSON> sudah mempunyai 710 cabang yang tersebar di <LOCATION>pulau jawa</LOCATION> , sumatra , kalimantan dan sulawesi .
+
+memproses passage 20
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+pulau jawa | position = 6
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+kata kunci = muhammadiyah
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+pulau jawa 5
+
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+kata kunci = diri
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+
+
+pada <TIME>tahun 1935</TIME> <PERSON>, muhammadiyah</PERSON> sudah mempunyai 710 cabang yang tersebar di <LOCATION>pulau jawa</LOCATION> , sumatra , kalimantan dan sulawesi .
+
+memproses passage 21
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+pulau jawa | position = 6
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+kata kunci = muhammadiyah
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+pulau jawa 5
+
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+kata kunci = diri
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+
+
+5 .
+
+
+tidak ada entitas jawaban, skip
+
+
+gerakan pemuda gerakan <PERSON>pemuda indonesia ,</PERSON> sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh <PERSON>golongan tua ( kaum priayi dan pegawai negeri )</PERSON> sehingga <PERSON>para pemuda</PERSON> kecewa dan keluar dari organisasi tersebut .
+
+
+tidak ada entitas jawaban, skip
+
+
+baru beberapa tahun kemudian , tepatnya pada <TIME>tanggal 7 maret 1915</TIME> di <LOCATION>batavia berdiri trikoro</LOCATION> dharmo oleh <PERSON>r. satiman wiryosanjoyo , kadarman</PERSON> , dan sunardi .
+
+memproses passage 21
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+batavia berdiri trikoro | position = 4
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = tepat
+tokenwithtagstemmed = tanggal 7 maret 1915
+tokenwithtagstemmed = batavia diri trikoro
+tokenwithtagstemmed = dharmo
+tokenwithtagstemmed = r satiman wiryosanjoyo kadarman
+tokenwithtagstemmed = sunardi
+kata kunci = muhammadiyah
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = tepat
+tokenwithtagstemmed = tanggal 7 maret 1915
+tokenwithtagstemmed = batavia diri trikoro
+tokenwithtagstemmed = dharmo
+tokenwithtagstemmed = r satiman wiryosanjoyo kadarman
+tokenwithtagstemmed = sunardi
+kata kunci = diri
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = tepat
+tokenwithtagstemmed = tanggal 7 maret 1915
+tokenwithtagstemmed = batavia diri trikoro
+tokenwithtagstemmed = dharmo
+tokenwithtagstemmed = r satiman wiryosanjoyo kadarman
+tokenwithtagstemmed = sunardi
+
+
+trikoro dharmo yang diketui oleh <PERSON>r. satiman wiryosanjoyo</PERSON> merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas <PERSON>para siswa sekolah menengah</PERSON> berasal dari jawa dan madura .
+
+
+tidak ada entitas jawaban, skip
+
+
+itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+
+
+tidak ada entitas jawaban, skip
+
+
+kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+sejak berdiri di <LOCATION>yogyakarta</LOCATION> ( <TIME>1912</TIME> ) muhammadiyah terus mengalami perkembangan yang pesat .
+
+memproses passage 20
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+yogyakarta | position = 1
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = 1912
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = pesat
+kata kunci = muhammadiyah
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = 1912
+tokenwithtagstemmed = muhammadiyah
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+yogyakarta -2
+
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = pesat
+kata kunci = diri
+tokenwithtagstemmed = diri
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+yogyakarta 1
+
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = 1912
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = pesat
+
+
+sampai <TIME>tahun 1913</TIME> <PERSON>, muhammadiyah</PERSON> telah memiliki 267 cabang yang tersebar di <LOCATION>pulau jawa .</LOCATION>
+
+memproses passage 20
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+pulau jawa | position = 6
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = 267
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+kata kunci = muhammadiyah
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = muhammadiyah
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+pulau jawa 5
+
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = 267
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+kata kunci = diri
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = 267
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+
+
+pada <TIME>tahun 1935</TIME> <PERSON>, muhammadiyah</PERSON> sudah mempunyai 710 cabang yang tersebar di <LOCATION>pulau jawa</LOCATION> , sumatra , kalimantan dan sulawesi .
+
+memproses passage 20
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+pulau jawa | position = 6
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+kata kunci = muhammadiyah
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+pulau jawa 5
+
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+kata kunci = diri
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+
+
+pada <TIME>tahun 1935</TIME> <PERSON>, muhammadiyah</PERSON> sudah mempunyai 710 cabang yang tersebar di <LOCATION>pulau jawa</LOCATION> , sumatra , kalimantan dan sulawesi .
+
+memproses passage 21
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+pulau jawa | position = 6
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+kata kunci = muhammadiyah
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+pulau jawa 5
+
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+kata kunci = diri
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = 710
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = sulawesi
+
+
+5 .
+
+
+tidak ada entitas jawaban, skip
+
+
+gerakan pemuda gerakan <PERSON>pemuda indonesia ,</PERSON> sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh <PERSON>golongan tua ( kaum priayi dan pegawai negeri )</PERSON> sehingga <PERSON>para pemuda</PERSON> kecewa dan keluar dari organisasi tersebut .
+
+
+tidak ada entitas jawaban, skip
+
+
+baru beberapa tahun kemudian , tepatnya pada <TIME>tanggal 7 maret 1915</TIME> di <LOCATION>batavia berdiri trikoro</LOCATION> dharmo oleh <PERSON>r. satiman wiryosanjoyo , kadarman</PERSON> , dan sunardi .
+
+memproses passage 21
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+batavia berdiri trikoro | position = 4
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = tepat
+tokenwithtagstemmed = tanggal 7 maret 1915
+tokenwithtagstemmed = batavia diri trikoro
+tokenwithtagstemmed = dharmo
+tokenwithtagstemmed = r satiman wiryosanjoyo kadarman
+tokenwithtagstemmed = sunardi
+kata kunci = muhammadiyah
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = tepat
+tokenwithtagstemmed = tanggal 7 maret 1915
+tokenwithtagstemmed = batavia diri trikoro
+tokenwithtagstemmed = dharmo
+tokenwithtagstemmed = r satiman wiryosanjoyo kadarman
+tokenwithtagstemmed = sunardi
+kata kunci = diri
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = tepat
+tokenwithtagstemmed = tanggal 7 maret 1915
+tokenwithtagstemmed = batavia diri trikoro
+tokenwithtagstemmed = dharmo
+tokenwithtagstemmed = r satiman wiryosanjoyo kadarman
+tokenwithtagstemmed = sunardi
+
+
+trikoro dharmo yang diketui oleh <PERSON>r. satiman wiryosanjoyo</PERSON> merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas <PERSON>para siswa sekolah menengah</PERSON> berasal dari jawa dan madura .
+
+
+tidak ada entitas jawaban, skip
+
+
+gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
+
+
+tidak ada entitas jawaban, skip
+
+
+tujuan budi utomo adalah memajukan pengajaran dan kebudayaan .
+
+
+tidak ada entitas jawaban, skip
+
+
+tujuan tersebut ingin dicapai dengan usaha-usaha sebagai berikut : 1 ) memajukan pengajaran ; 2 ) memajukan pertanian , peternakan dan perdagangan ; 3 ) memajukan teknik dan industri 4 ) menghidupkan kembali kebudayaan .
+
+
+tidak ada entitas jawaban, skip
+
+
+dr sutomo dilihat dari tujuannya , budi utomo bukan merupakan organisasi politik melainkan merupakan organisasi pelajar dengan pelajar stovia sebagai intinya .
+
+
+tidak ada entitas jawaban, skip
+
+
+sampai menjelang kongresnya yang pertama di <LOCATION>yogyakarta</LOCATION> telah berdiri tujuh cabang budi utomo , yakni di <LOCATION>batavia ,</LOCATION> bogor , bandung , magelang , yogyakarta , surabaya , dan <PERSON>ponorogo .</PERSON>
+
+memproses passage 2
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+yogyakarta | position = 3
+batavia | position = 9
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = jelang
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = batavia
+tokenwithtagstemmed = bogor
+tokenwithtagstemmed = bandung
+tokenwithtagstemmed = magelang
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = surabaya
+tokenwithtagstemmed = ponorogo
+kata kunci = muhammadiyah
+tokenwithtagstemmed = jelang
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = batavia
+tokenwithtagstemmed = bogor
+tokenwithtagstemmed = bandung
+tokenwithtagstemmed = magelang
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = surabaya
+tokenwithtagstemmed = ponorogo
+kata kunci = diri
+tokenwithtagstemmed = jelang
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = diri
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+yogyakarta -1
+batavia 5
+
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = batavia
+tokenwithtagstemmed = bogor
+tokenwithtagstemmed = bandung
+tokenwithtagstemmed = magelang
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = surabaya
+tokenwithtagstemmed = ponorogo
+
+Pengurutan kandidat jawaban
+this.answer = yogyakarta
+passage rank = 1
+distance = 1
+doc rank = 3
+total Score = 5
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = yogyakarta
+passage rank = 3
+distance = 1
+doc rank = 4
+total Score = 8
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = pulau jawa
+passage rank = 1
+distance = 5
+doc rank = 3
+total Score = 9
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = pulau jawa
+passage rank = 1
+distance = 5
+doc rank = 3
+total Score = 9
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = pulau jawa
+passage rank = 2
+distance = 5
+doc rank = 3
+total Score = 10
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = batavia
+passage rank = 5
+distance = 5
+doc rank = 3
+total Score = 13
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = pulau jawa
+passage rank = 3
+distance = 5
+doc rank = 4
+total Score = 12
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = pulau jawa
+passage rank = 3
+distance = 5
+doc rank = 4
+total Score = 12
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = pulau jawa
+passage rank = 4
+distance = 5
+doc rank = 4
+total Score = 13
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+
+
+selesai

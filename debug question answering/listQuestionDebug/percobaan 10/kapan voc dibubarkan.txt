@@ -1,0 +1,995 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok136.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok65.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok28.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok99.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok359.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok191.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok326.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok381.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok194.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok206.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok226.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok320.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok321.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok380.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok295.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok193.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok196.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok177.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
+
+
+query token : 
+voc bubar 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+passage 1 score = 6.5
+sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
+sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
+sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
+sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
+sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+passage 6 score = 6.0
+sentence 1: 1 .
+sentence 2: bangsa melayu tua ( proto melayu ) .
+sentence 3: bangsa melayu tua adalah orang-orang austronesia dari asia ( yunan ) yang pertama kali ke nusantara pada sekitar 1500 sm .
+sentence 4: mereka datang ke nusantara melalui dua jalan .
+sentence 5: 1 .
+passage 2 score = 1.0
+sentence 1: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+sentence 2: pendapat van heine geldern ini diperkuat dengan penemuan peralatan manusia purba berupa beliung batu yang berbentuk persegi di sumatra , jawa , kalimantan , dan sulawesi di bagian barat .
+sentence 3: beliung seperti itu juga banyak ditemukan di asia , yakni di malaysia , birma ( myanmar ) , vietnam , kampuchea , dan terutama di daerah yunan ( daerah cina selatan ) .
+sentence 4: perpindahan penduduk pada gelombang kedua terjadi sekitar 500 sm bersamaan dengan zaman perunggu .
+sentence 5: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
+passage 3 score = 1.0
+sentence 1: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
+sentence 2: pendukung kebudayaan dongson adalah orang-orang austronesia yang tinggal di pulau-pulau di benua asia dan australia .
+sentence 3: nenek moyang bangsa indonesia meninggalkan daerah yunan di sekitar hulu sungai salween dan sungai mekong yang tanahnya subur sehingga mereka pandai bercocok tanam , berlayar , dan berdagang .
+sentence 4: dalam perkembangan selanjutnya , berbagai suku bangsa yang mendiami wilayah indonesia kemudian membentuk komunitas sendiri-sendiri sehingga mereka mendapat sebutan tersendiri .
+sentence 5: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
+passage 4 score = 1.0
+sentence 1: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
+sentence 2: mereka berlayar secara berkelompok tanpa mengenal rasa takut dan selanjutnya menempati berbagai kepulauan di nusantara .
+sentence 3: hal ini memperjelas bahwa nenek moyang bangsa indonesia adalah pelaut-pelaut ulung yang memiliki jiwa kelautan yang kuat .
+sentence 4: mereka memiliki kepandaian dalam berlayar , navigasi , serta ilmu perbintangan yang penuh .
+sentence 5: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok132.txt
+title : perluasan kolonialisme dan imperialisme di indonesia
+passage 1 score = 7.5
+sentence 1: perluasan kolonialisme dan imperialisme di indonesia - voc yang didirikan pada tahun 1602 , oleh pemerintah kerajaan belanda diberikan octrooi ( hak istimewa ) sebagai berikut .
+sentence 2: a. hak monopoli perdagangan .
+sentence 3: b. hak untuk memiliki tentara .
+sentence 4: c. hak untuk melakukan ekspansi ke asia , afrika dan australia .
+sentence 5: d. hak untuk melakukan peperangan , membuat perdamaian , dan mengadakan perjanjian dengan raja-raja yang dikuasainya .
+passage 2 score = 7.5
+sentence 1: d. hak untuk melakukan peperangan , membuat perdamaian , dan mengadakan perjanjian dengan raja-raja yang dikuasainya .
+sentence 2: e. hak untuk mencetak uang .
+sentence 3: dengan hak-hak istimewa tersebut , voc bukan saja sebagai kongsi dagang , tetapi juga merupakan pemerintahan semiresmi .
+sentence 4: pada tahun 1605 , voc di bawah pimpinan steven van der haagen berhasil merebut benteng portugis di ambon .
+sentence 5: untuk memperkuat kedudukannya maka voc mengangkat seorang pimpinan yang berpangkat gubernur jenderal .
+passage 4 score = 7.5
+sentence 1: perhatian voc ditujukan ke jayakarta , kota pelabuhan kerajaan banten .
+sentence 2: di bawah pimpinan gubernur jenderal jan pieterzoon coen ( j.p. coen ) pada tahun 1619 , voc berhasil merebut jayakarta dan dijadikan sebagai markas besar voc .
+sentence 3: j.p. coen kemudian mengganti nama jayakarta menjadi batavia sesuai dengan nama salah satu suku di negeri belanda , yakni suku batavir .
+sentence 4: selanjutnya , batavia dijadikan markas besar voc sebagi tempat kedudukan gubernur jenderal dan menjadi pangkalan imperialisme belanda di indonesia .
+sentence 5: dengan batavia sebagai markas besar voc maka kedudukannya semakin kuat .
+passage 3 score = 2.5
+sentence 1: untuk memperkuat kedudukannya maka voc mengangkat seorang pimpinan yang berpangkat gubernur jenderal .
+sentence 2: untuk membantu gubernur jenderal di daerah-daerah penting diangkatkan seorang gubernur .
+sentence 3: gubernur jenderal voc yang pertama ialah pieter both dan berkedudukan di ambon dengan alasana ambon merupakan pangkalan dagang voc yang paling kuat dan strategis .
+sentence 4: dalam perkembangannya , ambon dinilai tidak strategis lagi .
+sentence 5: perhatian voc ditujukan ke jayakarta , kota pelabuhan kerajaan banten .
+passage 5 score = 2.5
+sentence 1: dengan batavia sebagai markas besar voc maka kedudukannya semakin kuat .
+sentence 2: voc terus mengadakan perluasan wilayah kekuasaannya .
+sentence 3: untuk mendapatkan keuntungan sebesar-besarnya melalui perdagangan , voc melaksanakan sistem monopoli .
+sentence 4: pelaksanaan sistem monopoli voc lebih keras daripada bangsa portugis , terutama di maluku .
+sentence 5: untuk mencegah terjadinya pelanggaran terhadap peraturan monopolinya , voc melakukan pelayaran hongi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok61.txt
+title : perluasan kolonialisme dan imperialisme di indonesia
+passage 1 score = 7.5
+sentence 1: perluasan kolonialisme dan imperialisme di indonesia - voc yang didirikan pada tahun 1602 , oleh pemerintah kerajaan belanda diberikan octrooi ( hak istimewa ) sebagai berikut .
+sentence 2: a. hak monopoli perdagangan .
+sentence 3: b. hak untuk memiliki tentara .
+sentence 4: c. hak untuk melakukan ekspansi ke asia , afrika dan australia .
+sentence 5: d. hak untuk melakukan peperangan , membuat perdamaian , dan mengadakan perjanjian dengan raja-raja yang dikuasainya .
+passage 2 score = 7.5
+sentence 1: d. hak untuk melakukan peperangan , membuat perdamaian , dan mengadakan perjanjian dengan raja-raja yang dikuasainya .
+sentence 2: e. hak untuk mencetak uang .
+sentence 3: dengan hak-hak istimewa tersebut , voc bukan saja sebagai kongsi dagang , tetapi juga merupakan pemerintahan semiresmi .
+sentence 4: pada tahun 1605 , voc di bawah pimpinan steven van der haagen berhasil merebut benteng portugis di ambon .
+sentence 5: untuk memperkuat kedudukannya maka voc mengangkat seorang pimpinan yang berpangkat gubernur jenderal .
+passage 4 score = 7.5
+sentence 1: perhatian voc ditujukan ke jayakarta , kota pelabuhan kerajaan banten .
+sentence 2: di bawah pimpinan gubernur jenderal jan pieterzoon coen ( j.p. coen ) pada tahun 1619 , voc berhasil merebut jayakarta dan dijadikan sebagai markas besar voc .
+sentence 3: j.p. coen kemudian mengganti nama jayakarta menjadi batavia sesuai dengan nama salah satu suku di negeri belanda , yakni suku batavir .
+sentence 4: selanjutnya , batavia dijadikan markas besar voc sebagi tempat kedudukan gubernur jenderal dan menjadi pangkalan imperialisme belanda di indonesia .
+sentence 5: dengan batavia sebagai markas besar voc maka kedudukannya semakin kuat .
+passage 3 score = 2.5
+sentence 1: untuk memperkuat kedudukannya maka voc mengangkat seorang pimpinan yang berpangkat gubernur jenderal .
+sentence 2: untuk membantu gubernur jenderal di daerah-daerah penting diangkatkan seorang gubernur .
+sentence 3: gubernur jenderal voc yang pertama ialah pieter both dan berkedudukan di ambon dengan alasana ambon merupakan pangkalan dagang voc yang paling kuat dan strategis .
+sentence 4: dalam perkembangannya , ambon dinilai tidak strategis lagi .
+sentence 5: perhatian voc ditujukan ke jayakarta , kota pelabuhan kerajaan banten .
+passage 5 score = 2.5
+sentence 1: dengan batavia sebagai markas besar voc maka kedudukannya semakin kuat .
+sentence 2: voc terus mengadakan perluasan wilayah kekuasaannya .
+sentence 3: untuk mendapatkan keuntungan sebesar-besarnya melalui perdagangan , voc melaksanakan sistem monopoli .
+sentence 4: pelaksanaan sistem monopoli voc lebih keras daripada bangsa portugis , terutama di maluku .
+sentence 5: untuk mencegah terjadinya pelanggaran terhadap peraturan monopolinya , voc melakukan pelayaran hongi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 12 score = 8.0
+sentence 1: pada tahun 1674 pecahlah perang trunajaya yang didukung para ulama dan bangsawan , bahkan termasuk putra mahkota sendiri .
+sentence 2: ibukota kerta jatuh dan amangkurat i ( bersama putra mahkota yang akhirnya berbalik memihak ayahnya ) melarikan diri untuk mencari bantuan voc .
+sentence 3: akan tetapi sampai di tegalarum , ( dekat tegal , jawa tengah ) amangkurat i jatuh sakit dan akhirnya wafat .
+sentence 4: ia digantikan oleh putra mahkota yang bergelar amangkurat ii atau dikenal juga dengan sebutan sunan amral .
+sentence 5: sunan amangkurat ii bertahta pada tahun 1677-1703 .
+passage 13 score = 8.0
+sentence 1: sunan amangkurat ii bertahta pada tahun 1677-1703 .
+sentence 2: ia sangat tunduk kepada voc demi mempertahankan tahtanya .
+sentence 3: pada akhirnya trunajaya berhasil dibunuh oleh amangkurat ii dengan bantuan voc , dan sebagai konpensasinya voc menghendaki perjanjian yang berisi : mataram harus menggadaikan pelabuhan semarang dan mataram harus mengganti kerugian akibat perang .
+sentence 4: oleh karena kraton kerta telah rusak , ia memindahkan kratonnya ke kartasura ( 1681 ) .
+sentence 5: kraton dilindungi oleh benteng tentara voc .
+passage 15 score = 8.0
+sentence 1: hubungan amangkurat ii dengan voc menjadi tegang dan semakin memuncak setelah amangkurat ii mangkat ( 1703 ) dan digantikan oleh putranya , sunan mas ( amangkurat iii ) .
+sentence 2: ia juga menentang voc .
+sentence 3: pihak voc yang mengetahui rasa permusuhan yang ditunjukkan raja baru tersebut , maka voc tidak setuju dengan penobatannya .
+sentence 4: pihak voc lantas mengakui pangeran puger sebagai raja mataram dengan gelar paku buwana i. hal ini menyebabkan terjadinya perang saudara atau dikenal dengan sebutan perang perebutan mahkota i ( 1704-1708 ) .
+sentence 5: akhirnya amangkurat iii menyerah dan ia dibuang ke sailan oleh voc .
+passage 16 score = 8.0
+sentence 1: akhirnya amangkurat iii menyerah dan ia dibuang ke sailan oleh voc .
+sentence 2: namun paku buwana i harus membayar ongkos perang dengan menyerahkan priangan , cirebon , dan madura bagian timur kepada voc .
+sentence 3: paku buwana i meninggal tahun 1719 dan digantikan oleh amangkurat iv ( 1719-1727 ) atau dikenal dengan sebutan sunan prabu , dalam pemerintahannya dipenuhi dengan pemberontakan para bangsawan yang menentangnya , dan seperti biasa voc turut andil pada konflik ini , sehinggga konflik membesar dan terjadilah perang perebutan mahkota ii ( 1719-1723 ) .
+sentence 4: voc berpihak pada sunan prabu sehingga para pemberontak berhasil ditaklukkan dan dibuang voc ke sri langka dan afrika selatan .
+sentence 5: sunan prabu meninggal tahun 1727 dan diganti oleh paku buwana ii ( 1727-1749 ) .
+passage 17 score = 8.0
+sentence 1: sunan prabu meninggal tahun 1727 dan diganti oleh paku buwana ii ( 1727-1749 ) .
+sentence 2: pada masa pemerintahannya terjadi pemberontakan china terhadap voc .
+sentence 3: paku buwana ii memihak china dan turut membantu menghancurkan benteng voc di kartasura .
+sentence 4: voc yang mendapat bantuan panembahan cakraningrat dari madura berhasil menaklukan pemberontak china .
+sentence 5: hal ini membuat paku buwana ii merasa ketakutan dan berganti berpihak kepada voc .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+title : sejarah kerajaan mataram islam
+passage 5 score = 8.0
+sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+sentence 2: sultan agung bercita-cita mempersatukan seluruh jawa di bawah kekuasaan mataram dan mengusir kompeni ( voc ) dari batavia .
+sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas dua periode , yaitu masa penyatuan kerajaan dan masa pembangunan .
+sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
+sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
+passage 7 score = 8.0
+sentence 1: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
+sentence 2: batavia dikepung dari darat dan laut selama dua bulan , namun tidak mau menyera , h bahkan sebaliknya tentara mataram dipukul mundur .
+sentence 3: dipersiapkan serangan yang kedua lebih matang dengan membuat pusat-pusat perbekalan makanan di tegal , cirebon , dan krawang .
+sentence 4: serangan kedua dilancarkan bulan september 1629 di bawah pimpinan bupati sura agul-agul , mandurarejo , dan uposonto .
+sentence 5: namun , voc telah mengetahui lebih dahulu rencana tersebut .
+passage 10 score = 8.0
+sentence 1: trunojoyo adalah pangeran dari madura yang tidak senang terhadap tindakan amangkurat i sehingga menghimpun kekuatan untuk menyerang mataram .
+sentence 2: pada tahun 1677 pasukan trunojoyo berhasil menduduki plered , ibu kota mataram .
+sentence 3: amangkuat i bermaksud minta bantuan voc ke batavia , namun baru sampai di tegalarum meninggal sehingga dimakamkan di tempat itu juga .
+sentence 4: oleh karena itu , amangkurat i dikenal juga sebagai sultan tegalarum .
+sentence 5: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+passage 11 score = 8.0
+sentence 1: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+sentence 2: untuk menghadapi trunojoyo , amangkurat ii meminta bantuan voc di semarang .
+sentence 3: pimpinan voc , speelman menyetujui permintan amangkurat ii dengan suatu perjanjian ( 1670 ) yang isinya sebagai berikut .
+sentence 4: 1 ) voc mengakui amangkurat ii sebagai raja mataram .
+sentence 5: 2 ) voc mendapatkan monopoli di mataram .
+passage 13 score = 8.0
+sentence 1: pada saat itu tronojoyo telah berhasil mendirikan istana di kediri dengan gelar prabu maduretno .
+sentence 2: tentara voc di bantu oleh tentara aru palaka dari makasar dan kapten jonker dari ambon bersama tentara mataram akhirnya menyerang kediri .
+sentence 3: tronojoyo tidak mampu menghadapi gempuran tentara mataram dan voc , terus terdesak ke daerah pegunungan dan bertahan di gunung wilis .
+sentence 4: trunojoyo menyerah pada tanggal 25 desember 1679 dan akhirnya gugur ditikam keris oleh amangkurat ii pada tanggal 2 januari 1680 .
+sentence 5: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+title : sejarah kerajaan mataram islam
+passage 5 score = 7.0
+sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+sentence 2: sultan agung bercita-cita mempersatukan seluruh jawa di bawah kekuasaan mataram dan mengusir kompeni ( voc ) dari batavia .
+sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas dua periode , yaitu masa penyatuan kerajaan dan masa pembangunan .
+sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
+sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
+passage 7 score = 7.0
+sentence 1: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
+sentence 2: batavia dikepung dari darat dan laut selama dua bulan , namun tidak mau menyera , h bahkan sebaliknya tentara mataram dipukul mundur .
+sentence 3: dipersiapkan serangan yang kedua lebih matang dengan membuat pusat-pusat perbekalan makanan di tegal , cirebon , dan krawang .
+sentence 4: serangan kedua dilancarkan bulan september 1629 di bawah pimpinan bupati sura agul-agul , mandurarejo , dan uposonto .
+sentence 5: namun , voc telah mengetahui lebih dahulu rencana tersebut .
+passage 10 score = 7.0
+sentence 1: trunojoyo adalah pangeran dari madura yang tidak senang terhadap tindakan amangkurat i sehingga menghimpun kekuatan untuk menyerang mataram .
+sentence 2: pada tahun 1677 pasukan trunojoyo berhasil menduduki plered , ibu kota mataram .
+sentence 3: amangkuat i bermaksud minta bantuan voc ke batavia , namun baru sampai di tegalarum meninggal sehingga dimakamkan di tempat itu juga .
+sentence 4: oleh karena itu , amangkurat i dikenal juga sebagai sultan tegalarum .
+sentence 5: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+passage 11 score = 7.0
+sentence 1: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+sentence 2: untuk menghadapi trunojoyo , amangkurat ii meminta bantuan voc di semarang .
+sentence 3: pimpinan voc , speelman menyetujui permintan amangkurat ii dengan suatu perjanjian ( 1670 ) yang isinya sebagai berikut .
+sentence 4: 1 ) voc mengakui amangkurat ii sebagai raja mataram .
+sentence 5: 2 ) voc mendapatkan monopoli di mataram .
+passage 13 score = 7.0
+sentence 1: pada saat itu tronojoyo telah berhasil mendirikan istana di kediri dengan gelar prabu maduretno .
+sentence 2: tentara voc di bantu oleh tentara aru palaka dari makasar dan kapten jonker dari ambon bersama tentara mataram akhirnya menyerang kediri .
+sentence 3: tronojoyo tidak mampu menghadapi gempuran tentara mataram dan voc , terus terdesak ke daerah pegunungan dan bertahan di gunung wilis .
+sentence 4: trunojoyo menyerah pada tanggal 25 desember 1679 dan akhirnya gugur ditikam keris oleh amangkurat ii pada tanggal 2 januari 1680 .
+sentence 5: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 4 score = 7.0
+sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
+sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
+sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
+sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+passage 5 score = 7.0
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+passage 7 score = 6.5
+sentence 1: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+sentence 2: 4 ) semua benteng harus dihancurkan , kecuali satu yakni benteng ujung pandang yang kemudian namanya diganti menjadi benteng rotterdam .
+sentence 3: 5 ) makassar harus mengganti kerugian perang sebesar 250 ribu ringgit .
+sentence 4: walaupun sultan hasanuddin telah menandatangani perjanjian tersebut , perlawanan terhadap voc muncul lagi ( 1667 – 1669 ) .
+sentence 5: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+passage 2 score = 5.5
+sentence 1: 1 ) terletak di tepi sungai .
+sentence 2: 2 ) letak makasar yang sangat strategis dalam lalu lintas perdagangan malaka – maluku .
+sentence 3: 3 ) jatuhnya malaka ke tangan portugis 1511 .
+sentence 4: 4 ) beralihnya sistem pemerintahan di jawa tengah ke corak agraris .
+sentence 5: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+passage 3 score = 5.5
+sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
+sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
+sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
+sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 4 score = 7.0
+sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
+sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
+sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
+sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+passage 5 score = 7.0
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+passage 7 score = 6.5
+sentence 1: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+sentence 2: 4 ) semua benteng harus dihancurkan , kecuali satu yakni benteng ujung pandang yang kemudian namanya diganti menjadi benteng rotterdam .
+sentence 3: 5 ) makassar harus mengganti kerugian perang sebesar 250 ribu ringgit .
+sentence 4: walaupun sultan hasanuddin telah menandatangani perjanjian tersebut , perlawanan terhadap voc muncul lagi ( 1667 – 1669 ) .
+sentence 5: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+passage 2 score = 5.5
+sentence 1: 1 ) terletak di tepi sungai .
+sentence 2: 2 ) letak makasar yang sangat strategis dalam lalu lintas perdagangan malaka – maluku .
+sentence 3: 3 ) jatuhnya malaka ke tangan portugis 1511 .
+sentence 4: 4 ) beralihnya sistem pemerintahan di jawa tengah ke corak agraris .
+sentence 5: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+passage 3 score = 5.5
+sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
+sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
+sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
+sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+passage 1 score = 7.0
+sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
+sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
+sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
+sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
+sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+passage 2 score = 5.0
+sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+sentence 2: hal-hal tersebut di atas merupakan tindakan penindasan pemerintah belanda terhadap rakyat maluku .
+sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperialisme belanda .
+sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
+sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+passage 3 score = 5.0
+sentence 1: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+sentence 2: banyak korban di pihak belanda termasuk residen belanda , van den berg ikut terbunuh dalam pertempuran .
+sentence 3: kemenangan atas pemerintah kolonial belanda memperbesar semangat perlawanan rakyat sehingga perlawanan meluas ke ambon , seram dan pulau-pulau lain .
+sentence 4: di hitu perlawanan rakyat muncul pada permulaan bulan juni 1817 di bawah pimpinan ulupaha .
+sentence 5: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
+passage 5 score = 5.0
+sentence 1: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+sentence 2: sebagai pahlawan rakyat yang tertindas oleh penjajah .
+sentence 3: tepat pada tanggal 16 desember 1817 , thomas matulessi dan kawan-kawan seperjuangannya menjalani hukuman mati di tiang gantungan .
+passage 4 score = 0.0
+sentence 1: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
+sentence 2: situasi pertempuran berbalik setelah datangnya bala bantuan dari batavia di bawah pimpinan buyskes .
+sentence 3: pasukan belanda terus mengadakan penggempuran dan berhasil menguasai kembali daerah-daerah maluku .
+sentence 4: perlawanan semakin mereda setelah banyak para pemimpin tertawan , seperti thomas matulessi ( pattimura ) , anthonie rhebok , thomas pattiweal , lucas latumahina , dan johanes matulessi .
+sentence 5: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
+passage 1 score = 7.0
+sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
+sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
+sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
+sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
+sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+passage 2 score = 5.0
+sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
+sentence 2: hal-hal tersebut di atas merupakan tindakan penindasan pemerintah belanda terhadap rakyat maluku .
+sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperialisme belanda .
+sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
+sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+passage 3 score = 5.0
+sentence 1: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
+sentence 2: banyak korban di pihak belanda termasuk residen belanda , van den berg ikut terbunuh dalam pertempuran .
+sentence 3: kemenangan atas pemerintah kolonial belanda memperbesar semangat perlawanan rakyat sehingga perlawanan meluas ke ambon , seram dan pulau-pulau lain .
+sentence 4: di hitu perlawanan rakyat muncul pada permulaan bulan juni 1817 di bawah pimpinan ulupaha .
+sentence 5: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
+passage 5 score = 5.0
+sentence 1: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+sentence 2: sebagai pahlawan rakyat yang tertindas oleh penjajah .
+sentence 3: tepat pada tanggal 16 desember 1817 , thomas matulessi dan kawan-kawan seperjuangannya menjalani hukuman mati di tiang gantungan .
+passage 4 score = 0.0
+sentence 1: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
+sentence 2: situasi pertempuran berbalik setelah datangnya bala bantuan dari batavia di bawah pimpinan buyskes .
+sentence 3: pasukan belanda terus mengadakan penggempuran dan berhasil menguasai kembali daerah-daerah maluku .
+sentence 4: perlawanan semakin mereda setelah banyak para pemimpin tertawan , seperti thomas matulessi ( pattimura ) , anthonie rhebok , thomas pattiweal , lucas latumahina , dan johanes matulessi .
+sentence 5: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 12 score = 8.0
+sentence 1: pada tahun 1674 pecahlah perang trunajaya yang didukung para ulama dan bangsawan , bahkan termasuk putra mahkota sendiri .
+sentence 2: ibukota kerta jatuh dan amangkurat i ( bersama putra mahkota yang akhirnya berbalik memihak ayahnya ) melarikan diri untuk mencari bantuan voc .
+sentence 3: akan tetapi sampai di tegalarum , ( dekat tegal , jawa tengah ) amangkurat i jatuh sakit dan akhirnya wafat .
+sentence 4: ia digantikan oleh putra mahkota yang bergelar amangkurat ii atau dikenal juga dengan sebutan sunan amral .
+sentence 5: sunan amangkurat ii bertahta pada tahun 1677-1703 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 13 score = 8.0
+sentence 1: sunan amangkurat ii bertahta pada tahun 1677-1703 .
+sentence 2: ia sangat tunduk kepada voc demi mempertahankan tahtanya .
+sentence 3: pada akhirnya trunajaya berhasil dibunuh oleh amangkurat ii dengan bantuan voc , dan sebagai konpensasinya voc menghendaki perjanjian yang berisi : mataram harus menggadaikan pelabuhan semarang dan mataram harus mengganti kerugian akibat perang .
+sentence 4: oleh karena kraton kerta telah rusak , ia memindahkan kratonnya ke kartasura ( 1681 ) .
+sentence 5: kraton dilindungi oleh benteng tentara voc .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 15 score = 8.0
+sentence 1: hubungan amangkurat ii dengan voc menjadi tegang dan semakin memuncak setelah amangkurat ii mangkat ( 1703 ) dan digantikan oleh putranya , sunan mas ( amangkurat iii ) .
+sentence 2: ia juga menentang voc .
+sentence 3: pihak voc yang mengetahui rasa permusuhan yang ditunjukkan raja baru tersebut , maka voc tidak setuju dengan penobatannya .
+sentence 4: pihak voc lantas mengakui pangeran puger sebagai raja mataram dengan gelar paku buwana i. hal ini menyebabkan terjadinya perang saudara atau dikenal dengan sebutan perang perebutan mahkota i ( 1704-1708 ) .
+sentence 5: akhirnya amangkurat iii menyerah dan ia dibuang ke sailan oleh voc .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 16 score = 8.0
+sentence 1: akhirnya amangkurat iii menyerah dan ia dibuang ke sailan oleh voc .
+sentence 2: namun paku buwana i harus membayar ongkos perang dengan menyerahkan priangan , cirebon , dan madura bagian timur kepada voc .
+sentence 3: paku buwana i meninggal tahun 1719 dan digantikan oleh amangkurat iv ( 1719-1727 ) atau dikenal dengan sebutan sunan prabu , dalam pemerintahannya dipenuhi dengan pemberontakan para bangsawan yang menentangnya , dan seperti biasa voc turut andil pada konflik ini , sehinggga konflik membesar dan terjadilah perang perebutan mahkota ii ( 1719-1723 ) .
+sentence 4: voc berpihak pada sunan prabu sehingga para pemberontak berhasil ditaklukkan dan dibuang voc ke sri langka dan afrika selatan .
+sentence 5: sunan prabu meninggal tahun 1727 dan diganti oleh paku buwana ii ( 1727-1749 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 17 score = 8.0
+sentence 1: sunan prabu meninggal tahun 1727 dan diganti oleh paku buwana ii ( 1727-1749 ) .
+sentence 2: pada masa pemerintahannya terjadi pemberontakan china terhadap voc .
+sentence 3: paku buwana ii memihak china dan turut membantu menghancurkan benteng voc di kartasura .
+sentence 4: voc yang mendapat bantuan panembahan cakraningrat dari madura berhasil menaklukan pemberontak china .
+sentence 5: hal ini membuat paku buwana ii merasa ketakutan dan berganti berpihak kepada voc .
+
+
+Pencarian jawaban
+---------------------
+
+
+pada <TIME>tahun 1674</TIME> pecahlah perang trunajaya yang didukung <PERSON>para ulama</PERSON> dan bangsawan , bahkan termasuk putra mahkota sendiri .
+
+memproses passage 12
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1674 | position = 0
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = tahun 1674
+tokenwithtagstemmed = pecah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = trunajaya
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+kata kunci = bubar
+tokenwithtagstemmed = tahun 1674
+tokenwithtagstemmed = pecah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = trunajaya
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+
+
+ibukota kerta jatuh dan amangkurat i ( bersama putra mahkota yang akhirnya berbalik memihak ayahnya ) melarikan diri untuk mencari bantuan voc .
+
+
+tidak ada entitas jawaban, skip
+
+
+akan tetapi sampai di <LOCATION>tegalarum ,</LOCATION> ( dekat tegal , jawa tengah ) amangkurat i jatuh sakit dan akhirnya wafat .
+
+
+tidak ada entitas jawaban, skip
+
+
+ia digantikan oleh putra mahkota yang bergelar amangkurat ii atau dikenal juga dengan sebutan sunan amral .
+
+
+tidak ada entitas jawaban, skip
+
+
+sunan amangkurat ii bertahta pada <TIME>tahun 1677-1703 .</TIME>
+
+memproses passage 12
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1677 1703 | position = 4
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = tahun 1677 1703
+kata kunci = bubar
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = tahun 1677 1703
+
+
+sunan amangkurat ii bertahta pada <TIME>tahun 1677-1703 .</TIME>
+
+memproses passage 13
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1677 1703 | position = 4
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = tahun 1677 1703
+kata kunci = bubar
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = tahun 1677 1703
+
+
+ia sangat tunduk kepada voc demi mempertahankan tahtanya .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada akhirnya trunajaya berhasil dibunuh oleh amangkurat ii dengan bantuan voc , dan sebagai konpensasinya voc menghendaki perjanjian yang berisi : mataram harus menggadaikan pelabuhan semarang dan mataram harus mengganti kerugian akibat perang .
+
+
+tidak ada entitas jawaban, skip
+
+
+oleh karena kraton kerta telah rusak , ia memindahkan kratonnya ke kartasura ( <TIME>1681</TIME> ) .
+
+memproses passage 13
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1681 | position = 6
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = kraton
+tokenwithtagstemmed = kerta
+tokenwithtagstemmed = rusak
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = kratonnya
+tokenwithtagstemmed = kartasura
+tokenwithtagstemmed = 1681
+kata kunci = bubar
+tokenwithtagstemmed = kraton
+tokenwithtagstemmed = kerta
+tokenwithtagstemmed = rusak
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = kratonnya
+tokenwithtagstemmed = kartasura
+tokenwithtagstemmed = 1681
+
+
+kraton dilindungi oleh benteng tentara voc .
+
+
+tidak ada entitas jawaban, skip
+
+
+hubungan amangkurat ii dengan voc menjadi tegang dan semakin memuncak setelah amangkurat ii mangkat ( <TIME>1703</TIME> ) dan digantikan oleh putranya , sunan mas ( amangkurat iii ) .
+
+memproses passage 15
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1703 | position = 10
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = voc
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+1703 7
+
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tegang
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = mangkat
+tokenwithtagstemmed = 1703
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = mas
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = iii
+kata kunci = bubar
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tegang
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = mangkat
+tokenwithtagstemmed = 1703
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = mas
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = iii
+
+
+ia juga menentang voc .
+
+
+tidak ada entitas jawaban, skip
+
+
+pihak voc yang mengetahui rasa permusuhan yang ditunjukkan raja baru tersebut , maka voc tidak setuju dengan penobatannya .
+
+
+tidak ada entitas jawaban, skip
+
+
+pihak voc lantas mengakui pangeran puger sebagai raja mataram dengan gelar paku buwana i. hal ini menyebabkan terjadinya perang saudara atau dikenal dengan sebutan perang perebutan mahkota i ( <TIME>1704-1708</TIME> ) .
+
+memproses passage 15
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1704 1708 | position = 22
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = pihak
+tokenwithtagstemmed = voc
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+1704 1708 21
+
+tokenwithtagstemmed = lantas
+tokenwithtagstemmed = aku
+tokenwithtagstemmed = pangeran
+tokenwithtagstemmed = puger
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = i
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = saudara
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = i
+tokenwithtagstemmed = 1704 1708
+kata kunci = bubar
+tokenwithtagstemmed = pihak
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = lantas
+tokenwithtagstemmed = aku
+tokenwithtagstemmed = pangeran
+tokenwithtagstemmed = puger
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = i
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = saudara
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = i
+tokenwithtagstemmed = 1704 1708
+
+
+akhirnya amangkurat iii menyerah dan ia dibuang ke sailan oleh <PERSON>voc .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+akhirnya amangkurat iii menyerah dan ia dibuang ke sailan oleh <PERSON>voc .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+namun paku buwana i harus membayar ongkos perang dengan menyerahkan priangan , cirebon , dan madura bagian timur kepada <PERSON>voc .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+paku buwana i meninggal <TIME>tahun 1719</TIME> dan digantikan oleh amangkurat iv ( <TIME>1719-1727</TIME> ) atau dikenal dengan sebutan <PERSON>sunan prabu</PERSON> , dalam pemerintahannya dipenuhi dengan pemberontakan <PERSON>para bangsawan</PERSON> yang menentangnya , dan seperti biasa voc turut andil pada konflik ini , sehinggga konflik membesar dan terjadilah perang perebutan mahkota ii ( <TIME>1719-1723</TIME> ) .
+
+memproses passage 16
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1719 | position = 4
+1719 1727 | position = 8
+1719 1723 | position = 29
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1719
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = 1719 1727
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sunan prabu
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = penuh
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = voc
+posisi dalam passage = 17
+jarak dengan tiap kandidat jawaban:
+tahun 1719 -13
+1719 1727 -9
+1719 1723 12
+
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = andil
+tokenwithtagstemmed = konflik
+tokenwithtagstemmed = sehinggga
+tokenwithtagstemmed = konflik
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = 1719 1723
+kata kunci = bubar
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1719
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = 1719 1727
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sunan prabu
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = penuh
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = andil
+tokenwithtagstemmed = konflik
+tokenwithtagstemmed = sehinggga
+tokenwithtagstemmed = konflik
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = 1719 1723
+
+
+voc berpihak pada sunan prabu sehingga para pemberontak berhasil ditaklukkan dan dibuang voc ke <LOCATION>sri langka</LOCATION> dan afrika selatan .
+
+
+tidak ada entitas jawaban, skip
+
+
+sunan prabu meninggal <TIME>tahun 1727</TIME> dan diganti oleh paku buwana ii ( <TIME>1727-1749</TIME> ) .
+
+memproses passage 16
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1727 | position = 3
+1727 1749 | position = 8
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = prabu
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1727
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = 1727 1749
+kata kunci = bubar
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = prabu
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1727
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = 1727 1749
+
+
+sunan prabu meninggal <TIME>tahun 1727</TIME> dan diganti oleh paku buwana ii ( <TIME>1727-1749</TIME> ) .
+
+memproses passage 17
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1727 | position = 3
+1727 1749 | position = 8
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = prabu
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1727
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = 1727 1749
+kata kunci = bubar
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = prabu
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1727
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = 1727 1749
+
+
+pada masa pemerintahannya terjadi pemberontakan china terhadap voc .
+
+
+tidak ada entitas jawaban, skip
+
+
+paku buwana ii memihak china dan turut membantu menghancurkan benteng voc di <LOCATION>kartasura .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+voc yang mendapat bantuan panembahan cakraningrat dari madura berhasil menaklukan pemberontak china .
+
+
+tidak ada entitas jawaban, skip
+
+
+hal ini membuat paku buwana ii merasa ketakutan dan berganti berpihak kepada voc .
+
+
+tidak ada entitas jawaban, skip
+
+Pengurutan kandidat jawaban
+this.answer = 1703
+passage rank = 3
+distance = 7
+doc rank = 4
+total Score = 14
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+document Title = kerajaan mataram islam
+
+this.answer = 1719 1723
+passage rank = 4
+distance = 12
+doc rank = 4
+total Score = 20
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+document Title = kerajaan mataram islam
+
+this.answer = 1704 1708
+passage rank = 3
+distance = 21
+doc rank = 4
+total Score = 28
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+document Title = kerajaan mataram islam
+
+
+
+selesai

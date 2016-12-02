@@ -1,0 +1,11 @@
+rank,document,verdict
+1,dok15.txt,WA
+2,dok269.txt,WA
+3,dok11.txt,WA
+4,dok82.txt,WA
+5,dok159.txt,WA
+6,dok353.txt,WA
+7,dok128.txt,WA
+8,dok57.txt,WA
+9,dok127.txt,AC
+10,dok56.txt,AC

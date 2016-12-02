@@ -1,0 +1,10 @@
+<add>
+<DOC>
+<field name="DOCID">KOMPAS-HL2001-020101-TERN11</field>
+<field name="TITLE"> ternate guncang gempa  </field>
+<field name="TEXT">
+gempa bumi tektonik kuat 6,3 pada skala richter (sr), senin (1/1) sekitar pukul 15.57, guncang kota ternate dan sekitarnya. kepala stasiun badan meteorologi dan geofisika (bmg) ternate ariyo fauzi -sebagaimana kutip  antara- menjelaskan, gempa tektonik di maluku utara itu pusat pada 8,84 lintang utara dan 127,02 bujur timur di dalam 100 kilometer.   adapun pusat gempa ada di laut, yakni sekitar 627 kilometer arah utara bitung, sulawesi utara. selain rasa di maluku utara, gempa sebut juga dapat rasa oleh warga kota manado.  hingga jauh ini belum ada lapor sangkut rusak maupun korban jiwa manusia akibat jadi gempa tersebut. ariyo mengatakan, kawasan maluku utara dan beberapa daerah di pulau sula, camat sanana, memang nilai rawan gempa. "sejak januari hingga desember 2000, di maluku utara sudah jadi 12 kali gempa tektonik, masuk gempa kuat 6,3 sr yang jadi saat ini," katanya.  tanggap kondisi cuaca di maluku utara, ariyo mengatakan, turut perkiraan, desember 2000 hingga januari 2001 nanti air maluku utara cukup rawan, karena akan jadi ubah angin  muson  arah barat. untuk itu, para usaha layar lokal maupun nasional, masuk nelayan tradisional, imbau agar waspada ketika lintas air maluku utara.  tengah desember juga pernah jadi angin ribut dengan cepat 30-35 knot, atau 55-65 kilometer per jam. "namun, peristiwa alam yang jadi di air maluku utara itu rupa imbas dari badai tropis yang landa filipina selatan beberapa waktu lalu," katanya. 
+
+</field>
+</DOC>
+</add>

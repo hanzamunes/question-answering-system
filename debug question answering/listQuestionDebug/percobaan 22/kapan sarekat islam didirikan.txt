@@ -1,0 +1,3461 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok383.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok304.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok363.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok117.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok46.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok239.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok193.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok170.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok212.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok356.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok13.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok84.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok161.txt
+
+searching dari query expansion
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
+
+query token : 
+sarekat islam diri 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+passage 24 score = 8.5
+sentence 1: gerakan turki muda memberikan pengaruh politis bagi pergerakan bangsa indonesia sebab mengarah pada pembaruan-pembaruan dan modernisasi .
+sentence 2: b. perkembangan pergerakan nasional masa pergerakan nasional di indonesia ditandai dengan berdirinya organisasi-organisasi pergerakan .
+sentence 3: masa pergerakan nasional ( 1908 - 1942 ) , dibagi dalam tiga tahap berikut .
+sentence 4: 1 .
+sentence 5: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
+passage 25 score = 8.5
+sentence 1: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
+sentence 2: 2 .
+sentence 3: masa radikal/nonkooperasi ( 1920 - 1930 ) , berdiri organisasi seperti partai komunis indonesia ( pki ) , perhimpunan indonesia ( pi ) , dan partai nasional indonesia ( pni ) .
+sentence 4: 3 .
+sentence 5: masa moderat/kooperasi ( 1930 - 1942 ) , berdiri organisasi seperti parindra , partindo , dan gapi .
+passage 36 score = 8.5
+sentence 1: sejalan dengan kemerosotan aktivitas dan dukungan pribumi pada budi utomo , maka pada tahun 1935 budi utomo mengadakan fusi ke dalam partai indonesia raya ( parindra ) .
+sentence 2: sejak itu bu terus mengalami kemerosotan dan mundur dari arena politik .
+sentence 3: 2 .
+sentence 4: sarekat islam ( si ) pada mulanya sarekat islam adalah sebuah perkumpulan para pedagang yang bernama sarekat dagang islam ( sdi ) .
+sentence 5: pada tahun 1911 , sdi didirikan di kota solo oleh h. samanhudi sebagai suatu koperasi pedagang batik jawa .
+passage 37 score = 8.5
+sentence 1: pada tahun 1911 , sdi didirikan di kota solo oleh h. samanhudi sebagai suatu koperasi pedagang batik jawa .
+sentence 2: garis yang diambil oleh sdi adalah kooperasi , dengan tujuan memajukan perdagangan indonesia di bawah panji-panji islam .
+sentence 3: keanggotaan sdi masih terbatas pada ruang lingkup pedagang , maka tidak memiliki anggota yang cukup banyak .
+sentence 4: oleh karena itu agar memiliki anggota yang banyak dan luas ruang lingkupnya , maka pada tanggal 18 september 1912 , sdi diubah menjadi si ( sarekat islam ) .
+sentence 5: organisasi sarekat islam ( si ) didirikan oleh beberapa tokoh sdi seperti h.o.s cokroaminoto , abdul muis , dan h. agus salim .
+passage 39 score = 8.166666666666668
+sentence 1: kecepatan tumbuhnya si bagaikan meteor dan meluas secara horizontal .
+sentence 2: si merupakan organisasi massa pertama di indonesia .
+sentence 3: antara tahun 1917 sampai dengan 1920 sangat terasa pengaruhnya di dalam politik indonesia .
+sentence 4: untuk menyebarkan propaganda perjuangannya , sarekat islam menerbitkan surat kabar yang bernama utusan hindia .
+sentence 5: pada tanggal 29 maret 1913 , para pemimpin si mengadakan pertemuan dengan gubernur jenderal idenburg untuk memperjuangkan si berbadan hukum .
+passage 93 score = 8.166666666666668
+sentence 1: mereka melihat muhammadiyah begitu terbuka terhadap kebudayaan barat sehingga khawatir kemurnian islam akan dirusakkan .
+sentence 2: oleh karena itu para ulama mendirikan nahdlatul ulama pada tahun 1926 .
+sentence 3: gerakan nu dipelopori oleh k.h. hasyim asy’ari .
+sentence 4: gerakan muhammadiyah banyak mendapat simpati termasuk pemerintah kolonial belanda karena perjuangannya tidak bersifat konfrontatif ( menentang ) .
+sentence 5: dalam kongres muhammadiyah yang berlangsung dari tanggal 12 - 17 maret 1925 di yogyakarta , diperbincangkan masalah-masalah yang berkaitan dengan pengajaran islam , mass media islam , dan buku-buku tentang islam yang berbahasa jawa .
+passage 94 score = 8.166666666666668
+sentence 1: dalam kongres muhammadiyah yang berlangsung dari tanggal 12 - 17 maret 1925 di yogyakarta , diperbincangkan masalah-masalah yang berkaitan dengan pengajaran islam , mass media islam , dan buku-buku tentang islam yang berbahasa jawa .
+sentence 2: di samping muhammadiyah , gerakan keagamaan lain yang memiliki andil bagi kemajuan bangsa antara lain , berikut ini .
+sentence 3: a. jong islamienten bond , berdiri tanggal 1 januari 1925 di jakarta .
+sentence 4: b. nahdlatul ulama ( nu ) , berdiri pada tanggal 31 januari 1926 di surabaya , jawa timur .
+sentence 5: c. nahdlatul wathan , berdiri tahun 1932 di pacor , lombok timur .
+passage 100 score = 8.166666666666668
+sentence 1: perkumpulan wanita yang didirikan sebelum tahun 1920 antara lain putri mardika yang didirikan atas bantuan budi utomo .
+sentence 2: perkumpulan ini bertujuan untuk memajukan pengajaran terhadap anak-anak perempuan dengan cara memberi penerangan dan bantuan dana , mempertinggi sikap yang merdeka , dan melenyapkan tindakan malu-malu yang melampaui batas .
+sentence 3: perkumpulan kautamaan istri didirikan pada tahun 1913 di tasikmalaya , lalu pada tahun 1916 di sumedang , cianjur , dan tahun 1917 di ciamis , menyusul di cicurug tahun 1918 .
+sentence 4: tokoh kautamaan istri yang terkenal adalah raden dewi sartika , seorang pengajar kautamaan istri di tanah pasundan .
+sentence 5: di yogyakarta pada tahun 1912 didirikan perkumpulan wanita yang benafaskan islam dengan nama sopa tresna , yang kemudian pada tahun 1914 menjadi bagian wanita dari muhammadiyah dengan nama aisyah .
+passage 101 score = 8.166666666666668
+sentence 1: di yogyakarta pada tahun 1912 didirikan perkumpulan wanita yang benafaskan islam dengan nama sopa tresna , yang kemudian pada tahun 1914 menjadi bagian wanita dari muhammadiyah dengan nama aisyah .
+sentence 2: di yogyakarta selain aisyah juga ada perkumpulan wanita yang bernama wanito utomo , yang mulai memasukkan perempuan ke dalam kegiatan dasar pekerjaan ke arah emansipasi .
+sentence 3: di samping r.a.kartini dan dewi sartika , masih terdapat seorang tokoh wanita yaitu ibu maria walanda maramis dari minahasa .
+sentence 4: beliau mendirikan perkumpulan yang bernama percintaan ibu kepada anak temurunnya ( pikat ) pada tahun 1917 .
+sentence 5: pikat dalam kegiatannya mendirikan sekolah kepandaian putri .
+passage 20 score = 7.833333333333333
+sentence 1: dalam perjalanan sejarah filipina muncul sosok tokoh yang bernama jose rizal yang merintis pergerakan nasional dengan mendirikan liga filipina .
+sentence 2: pada tahun 1892 jose rizal melakukan perlawanan bawah tanah terhadap penindasan spanyol .
+sentence 3: tujuan yang ingin dicapai adalah bagaimana membangkitkan nasionalisme filipina dalam menghadapi penjajahan spanyol .
+sentence 4: dalam perjuangannya jose rizal dihukum mati pada tanggal 30 desember 1896 , setelah gagal dalam pemberontakan katipunan .
+sentence 5: sikap patriotisme dan nasionalisme yang ditunjukkan jose rizal membangkitkan semangat rela berkorban dan cinta tanah air bagi para cendekiawan di indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
+title : akulturasi kebudayaan indonesia dengan kebudayaan islam dalam aksara dan seni sastra
+passage 1 score = 7.666666666666667
+sentence 1: akulturasi kebudayaan indonesia dengan kebudayaan islam dalam aksara dan seni sastra – dalam perkembangan islam , kesusastraan jawa umumnya berbentuk tembang , sedangkan di sumatra dan semenanjung malaka berbentuk tembang dan gancaran .
+sentence 2: hikayat yang digubah dalam tembang disebut syair .
+sentence 3: syair yang tertua tertulis tahun 1380 terpahat pada batu nisan makam seorang raja puteri pasai ( di minye tujoh ) , terdiri atas dua bait yang setiap bait terdiri atas empat baris .
+sentence 4: tulisan yang dipakai dalam kesusastraan jawa adalah jawa kuno , sedangkan kesusastraan di sumatra umumnya ditulis dengan huruf arab .
+sentence 5: hasil karya sastra yang bernapaskan islam , antara lain buku tasawuf yang ditulis oleh hamzah fansyuri , nur al-din al-raniri ( nuruddin ar - raniri ) , abdul al-rauf , dan sunan bonang ; buku suluk primbon , pengantar fikih dan tafsir alquran yang ditulis oleh abdul al-rauf .
+passage 2 score = 7.666666666666667
+sentence 1: hasil karya sastra yang bernapaskan islam , antara lain buku tasawuf yang ditulis oleh hamzah fansyuri , nur al-din al-raniri ( nuruddin ar - raniri ) , abdul al-rauf , dan sunan bonang ; buku suluk primbon , pengantar fikih dan tafsir alquran yang ditulis oleh abdul al-rauf .
+sentence 2: bersamaan dengan berkembangnya ajaran tasawuf , muncullah tarekat-tarekat , antara lain tarekat qadariyah , naqsyabandiah , sammaniah , syattariah , dan rifa’i .
+sentence 3: tarekat ialah jalan atau cara yang ditempuh oleh kaum sufi untuk mendekatkan diri kepada tuhan .
+sentence 4: karya sastra lain yang dihasilkan pada masa islam , antara lain babad tanah jawi , babad cirebon , sejarah melayu , bustanus salatin , dan gurindam dua belas .
+sentence 5: dilihat dari corak dan isinya , kesusastraan yang berkembang sejak kedatangan islam di indonesia ( zaman madya ) dapat dibedakan sebagai berikut .
+passage 8 score = 2.6666666666666665
+sentence 1: sebelum kebudayaan islam memasuki wilayah indonesia , sistem pemerintahan pada kerajaan di indonesia mendapat pengaruh budaya hindu-buddha .
+sentence 2: setelah agama islam beserta kebudayaannya masuk dan berkembang di indonesia , lambat laun berpengaruh terhadap sistem pemerintahan .
+sentence 3: pada saat kedatangan islam , di indonesia sudah berkembang bandar-bandar perdagangan .
+sentence 4: agama islam mengalami perkembangan yang cepat melalui cara perdagangan sehingga terbentuk masyarakat islam .
+sentence 5: semakin pesatnya pusat-pusat perdagangan dengan masyarakatnya yang beragama islam , berdirilah kerajaan-kerajaan yang bercorak islam .
+passage 9 score = 2.6666666666666665
+sentence 1: semakin pesatnya pusat-pusat perdagangan dengan masyarakatnya yang beragama islam , berdirilah kerajaan-kerajaan yang bercorak islam .
+sentence 2: [ ps ]
+passage 3 score = 2.333333333333333
+sentence 1: dilihat dari corak dan isinya , kesusastraan yang berkembang sejak kedatangan islam di indonesia ( zaman madya ) dapat dibedakan sebagai berikut .
+sentence 2: 1 .
+sentence 3: hikayat hikayat adalah cerita atau dongeng yang berisi berbagai macam peristiwa sejarah .
+sentence 4: keajaiban dan peristiwa yang tidak masuk akal bahkan menjadi bagian terpenting walaupun sering berpangkal pada seorang tokoh sejarah ataupun berkisar pada peristiwa sejarah .
+sentence 5: misalnya , panji inu kertapati , hikayat amir hamzah , hikayat bayan budiman , hikayat si miskin , hikayat bahtiar , dan hikayat hang tuah .
+passage 6 score = 2.333333333333333
+sentence 1: suluk merupakan hasil kesusastraan tertua dari zaman madya yang berasal dari atau berhubungan erat dengan para wali .
+sentence 2: pada zaman madya , muncul kepandaian pahat memahat menjadi terbatas pada seni ukir hias .
+sentence 3: untuk seni hias , orang mengambil pola berupa daun-daunan , bunga-bungaan ( teratai ) , bukit-bukit karang , pemandangan dan garis geometri .
+sentence 4: sering juga terdapat pada kalamakara dan kalamarga ( yaitu kijang menjadi pengganti makara ) .
+sentence 5: hal itu sebenarnya kurang sesuai dengan peraturan islam , namun dapat juga diterima karena tidak dirasakan sebagai pelanggaran .
+passage 7 score = 2.333333333333333
+sentence 1: hal itu sebenarnya kurang sesuai dengan peraturan islam , namun dapat juga diterima karena tidak dirasakan sebagai pelanggaran .
+sentence 2: begitu juga dengan gambar-gambar ular naga yang terdapat di sana-sini .
+sentence 3: kedatangan islam menambah lagi satu pola , yaitu huruf-huruf arab .
+sentence 4: pola itu seringkali digunakan untuk menyamarkan lukisan makhluk hidup , biasanya binatang dan bahkan juga untuk gambar wayang .
+sentence 5: sebelum kebudayaan islam memasuki wilayah indonesia , sistem pemerintahan pada kerajaan di indonesia mendapat pengaruh budaya hindu-buddha .
+passage 4 score = 1.0
+sentence 1: misalnya , panji inu kertapati , hikayat amir hamzah , hikayat bayan budiman , hikayat si miskin , hikayat bahtiar , dan hikayat hang tuah .
+sentence 2: 2 .
+sentence 3: babad babad ialah cerita sejarah yang biasanya lebih berupa cerita daripada uraian sejarah walaupun yang menjadi pola memang peristiwa sejarah .
+sentence 4: di daerah melayu , babad dikenal dengan nama sejarah , silsilah ( salasilah ) , dan tambo .
+sentence 5: beberapa kitab babad diberi judul hikayat , misalnya hikayat raja-raja pasai , hikayat salasilah perak , sejarah melayu , babad giyanti , babad tanah jawi , dan sejarah negeri kedah .
+passage 5 score = 1.0
+sentence 1: beberapa kitab babad diberi judul hikayat , misalnya hikayat raja-raja pasai , hikayat salasilah perak , sejarah melayu , babad giyanti , babad tanah jawi , dan sejarah negeri kedah .
+sentence 2: 3 .
+sentence 3: suluk suluk adalah kitab yang membentangkan soal tasawuf .
+sentence 4: sifatnya panteis ( manusia bersatu dengan tuhan atau masyarakat jawa mengenal sebagai manunggaling kawula gusti ) .
+sentence 5: suluk merupakan hasil kesusastraan tertua dari zaman madya yang berasal dari atau berhubungan erat dengan para wali .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 7 score = 8.5
+sentence 1: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
+sentence 2: 2 .
+sentence 3: sarekat islam ( si ) tiga tahun setelah berdirinya budi utomo , yakni tahun 1911 berdirilah sarekat dagang islam ( sdi ) di solo oleh h. samanhudi , seorang pedagang batik dari laweyan solo .
+sentence 4: organisasi sarekat dagang islam berdasar pada dua hal berikut ini .
+sentence 5: a. agama islam .
+passage 10 score = 8.5
+sentence 1: sarekat islam merupakan gerakan nasionalis , demokratis dan ekonomis , serta berasaskan islam dengan haluan kooperatif .
+sentence 2: mengingat perkembangan sarekat islam yang begitu pesat maka timbullah kekhawatiran dari pihak gubernur jenderal indenberg sehingga permohonan sarekat islam sebagai organisasi nasional yang berbadan hukum ditolak dan hanya diperbolehkan berdiri secara lokal .
+sentence 3: pada tahun 1914 telah berdiri 56 sarekat islam lokal yang diakui sebagai badan hukum .
+sentence 4: pada tahun 1915 berdirilah central sarekat islam ( csi ) yang berkedudukan di surabaya .
+sentence 5: tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
+passage 6 score = 8.166666666666668
+sentence 1: strategi perjuangan bu pada dasarnya bersifat kooperatif .
+sentence 2: mulai tahun 1912 dengan tampilnya notodirjo sebagai ketua menggantikan r.t. notokusumo , budi utomo ingin mengejar ketinggalannya .
+sentence 3: akan tetapi , hasilnya tidak begitu besar karena pada saat itu telah muncul organisasi-organisasi nasional lainnya , seperti sarekat islam ( si ) dan indiche partij ( ip ) .
+sentence 4: namun demikian , budi utomo tetap mempunyai andil dan jasa yang besar dalam sejarah pergerakan nasional , yakni telah membuka jalan dan memelopori gerakan kebangsaan indonesia .
+sentence 5: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
+passage 20 score = 8.166666666666668
+sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
+sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
+sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+passage 1 score = 8.0
+sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
+sentence 2: budi utomo organisasi budi utomo ( bu ) didirikan pada tanggal 20 mei 1908 oleh para mahasiswa stovia di batavia dengan sutomo sebagai ketuanya .
+sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo yang sebelumnya telah berkeliling jawa untuk menawarkan idenya membentuk studiefounds .
+sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
+sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
+passage 8 score = 8.0
+sentence 1: a. agama islam .
+sentence 2: b. ekonomi , yakni untuk memperkuat diri dari pedagang cina yang berperan sebagai leveransir ( seperti kain putih , malam , dan sebagainya ) .
+sentence 3: atas prakarsa h.o.s. cokroaminoto , nama sarekat dagang islam kemudian diubah menjadi sarekat islam ( si ) , dengan tujuan untuk memperluas anggota sehingga tidak hanya terbatas pada pedagang saja .
+sentence 4: berdasarkan akte notaris pada tanggal 10 september 1912 , ditetapkan tujuan sarekat islam sebagai berikut : 1 ) memajukan perdagangan ; 2 ) membantu para anggotanya yang mengalami kesulitan dalam bidang usaha ( permodalan ) ; 3 ) memajukan kepentingan rohani dan jasmani penduduk asli ; 4 ) memajukan kehidupan agama islam .
+sentence 5: melihat tujuannya tidak tampak adanya kegiatan politik .
+passage 12 score = 8.0
+sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
+sentence 2: 1 ) kelompok nasionalis religius ( nasionalis keagamaan ) yang dikenal dengan sarekat islam putih dengan asas perjuangan islam di bawah pimpinan h.o.s. cokroaminoto .
+sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam merah dengan haluan sosialis kiri di bawah pimpinan semaun dan darsono .
+sentence 4: 3 .
+sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
+passage 21 score = 7.833333333333333
+sentence 1: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+sentence 2: 5 .
+sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh golongan tua ( kaum priayi dan pegawai negeri ) sehingga para pemuda kecewa dan keluar dari organisasi tersebut .
+sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
+sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
+passage 24 score = 7.833333333333333
+sentence 1: sejalan dengan munculnya jong java , pemuda-pemuda di daerah lain juga membentuk organisasi-organisasi , seperti jong sumatra bond , pasundan , jong minahasa , jong ambon , jong selebes , jong batak , pemuda kaum betawi , sekar rukun , timorees verbond , dan lain-lain .
+sentence 2: pada dasarnya semua organisasi itu masih bersifat kedaerahan , tetapi semuanya mempunyai cita-cita ke arah kemajuan indonesia , khususnya memajukan budaya dan daerah masing-masing .
+sentence 3: 6 .
+sentence 4: taman siswa sekembalinya dari tanah pengasingannya di negeri belanda ( 1919 ) , suwardi suryaningrat menfokuskan perjuangannya dalam bidang pendidikan .
+sentence 5: pada tanggal 3 juli 1922 suwardi suryaningrat ( lebih dikenal dengan nama ki hajar dewantara ) berhasil mendirikan perguruan taman siswa di yogyakarta .
+passage 32 score = 7.833333333333333
+sentence 1: 8 .
+sentence 2: partai nasional indonesia ( pni ) algemene studie club di bandung yang didirikan oleh ir .
+sentence 3: soekarno pada tahun 1925 telah mendorong para pemimpin lainnya untuk mendirikan partai politik , yakni partai nasional indonesia ( pni ) .
+sentence 4: pni didirikan di bandung pada tanggal 4 juli 1927 oleh 8 pemimpin , yakni dr. cipto mangunkusumo , ir .
+sentence 5: anwari , mr. sartono , mr. iskak , mr. sunaryo , mr. budiarto , dr. samsi , dan ir .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 7 score = 8.5
+sentence 1: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
+sentence 2: 2 .
+sentence 3: sarekat islam ( si ) tiga tahun setelah berdirinya budi utomo , yakni tahun 1911 berdirilah sarekat dagang islam ( sdi ) di solo oleh h. samanhudi , seorang pedagang batik dari laweyan solo .
+sentence 4: organisasi sarekat dagang islam berdasar pada dua hal berikut ini .
+sentence 5: a. agama islam .
+passage 10 score = 8.5
+sentence 1: sarekat islam merupakan gerakan nasionalis , demokratis dan ekonomis , serta berasaskan islam dengan haluan kooperatif .
+sentence 2: mengingat perkembangan sarekat islam yang begitu pesat maka timbullah kekhawatiran dari pihak gubernur jenderal indenberg sehingga permohonan sarekat islam sebagai organisasi nasional yang berbadan hukum ditolak dan hanya diperbolehkan berdiri secara lokal .
+sentence 3: pada tahun 1914 telah berdiri 56 sarekat islam lokal yang diakui sebagai badan hukum .
+sentence 4: pada tahun 1915 berdirilah central sarekat islam ( csi ) yang berkedudukan di surabaya .
+sentence 5: tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
+passage 6 score = 8.166666666666668
+sentence 1: strategi perjuangan bu pada dasarnya bersifat kooperatif .
+sentence 2: mulai tahun 1912 dengan tampilnya notodirjo sebagai ketua menggantikan r.t. notokusumo , budi utomo ingin mengejar ketinggalannya .
+sentence 3: akan tetapi , hasilnya tidak begitu besar karena pada saat itu telah muncul organisasi-organisasi nasional lainnya , seperti sarekat islam ( si ) dan indiche partij ( ip ) .
+sentence 4: namun demikian , budi utomo tetap mempunyai andil dan jasa yang besar dalam sejarah pergerakan nasional , yakni telah membuka jalan dan memelopori gerakan kebangsaan indonesia .
+sentence 5: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
+passage 20 score = 8.166666666666668
+sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
+sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
+sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+passage 1 score = 8.0
+sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
+sentence 2: budi utomo organisasi budi utomo ( bu ) didirikan pada tanggal 20 mei 1908 oleh para mahasiswa stovia di batavia dengan sutomo sebagai ketuanya .
+sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo yang sebelumnya telah berkeliling jawa untuk menawarkan idenya membentuk studiefounds .
+sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
+sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
+passage 8 score = 8.0
+sentence 1: a. agama islam .
+sentence 2: b. ekonomi , yakni untuk memperkuat diri dari pedagang cina yang berperan sebagai leveransir ( seperti kain putih , malam , dan sebagainya ) .
+sentence 3: atas prakarsa h.o.s. cokroaminoto , nama sarekat dagang islam kemudian diubah menjadi sarekat islam ( si ) , dengan tujuan untuk memperluas anggota sehingga tidak hanya terbatas pada pedagang saja .
+sentence 4: berdasarkan akte notaris pada tanggal 10 september 1912 , ditetapkan tujuan sarekat islam sebagai berikut : 1 ) memajukan perdagangan ; 2 ) membantu para anggotanya yang mengalami kesulitan dalam bidang usaha ( permodalan ) ; 3 ) memajukan kepentingan rohani dan jasmani penduduk asli ; 4 ) memajukan kehidupan agama islam .
+sentence 5: melihat tujuannya tidak tampak adanya kegiatan politik .
+passage 12 score = 8.0
+sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
+sentence 2: 1 ) kelompok nasionalis religius ( nasionalis keagamaan ) yang dikenal dengan sarekat islam putih dengan asas perjuangan islam di bawah pimpinan h.o.s. cokroaminoto .
+sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam merah dengan haluan sosialis kiri di bawah pimpinan semaun dan darsono .
+sentence 4: 3 .
+sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
+passage 21 score = 7.833333333333333
+sentence 1: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+sentence 2: 5 .
+sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh golongan tua ( kaum priayi dan pegawai negeri ) sehingga para pemuda kecewa dan keluar dari organisasi tersebut .
+sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
+sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
+passage 24 score = 7.833333333333333
+sentence 1: sejalan dengan munculnya jong java , pemuda-pemuda di daerah lain juga membentuk organisasi-organisasi , seperti jong sumatra bond , pasundan , jong minahasa , jong ambon , jong selebes , jong batak , pemuda kaum betawi , sekar rukun , timorees verbond , dan lain-lain .
+sentence 2: pada dasarnya semua organisasi itu masih bersifat kedaerahan , tetapi semuanya mempunyai cita-cita ke arah kemajuan indonesia , khususnya memajukan budaya dan daerah masing-masing .
+sentence 3: 6 .
+sentence 4: taman siswa sekembalinya dari tanah pengasingannya di negeri belanda ( 1919 ) , suwardi suryaningrat menfokuskan perjuangannya dalam bidang pendidikan .
+sentence 5: pada tanggal 3 juli 1922 suwardi suryaningrat ( lebih dikenal dengan nama ki hajar dewantara ) berhasil mendirikan perguruan taman siswa di yogyakarta .
+passage 32 score = 7.833333333333333
+sentence 1: 8 .
+sentence 2: partai nasional indonesia ( pni ) algemene studie club di bandung yang didirikan oleh ir .
+sentence 3: soekarno pada tahun 1925 telah mendorong para pemimpin lainnya untuk mendirikan partai politik , yakni partai nasional indonesia ( pni ) .
+sentence 4: pni didirikan di bandung pada tanggal 4 juli 1927 oleh 8 pemimpin , yakni dr. cipto mangunkusumo , ir .
+sentence 5: anwari , mr. sartono , mr. iskak , mr. sunaryo , mr. budiarto , dr. samsi , dan ir .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
+title : gagasan persatuan dan kesatuan bangsa serta aktivitas organisasi pergerakan
+passage 6 score = 7.833333333333333
+sentence 1: antitese ini akan hapus apabila penjajahan sudah lenyap .
+sentence 2: untuk itu , para pelajar dari berbagai daerah pada bulan september 1926 mendirikan perhimpunan pelajar-pelajar indonesia ( pppi ) di batavia .
+sentence 3: pppi bertujuan memperjuangkan indonesia merdeka .
+sentence 4: pada tahun 1928 alam politik di indonesia sudah dipenuhi oleh jiwa persatuan .
+sentence 5: rasa kebangsaan dan cita-cita indonesia merdeka telah menggema di jiwa para pemuda indonesia .
+passage 13 score = 7.833333333333333
+sentence 1: c. berusaha meningkatkan kesejahteraan rakyat baik bidang ekonomi maupun sosial .
+sentence 2: pada saat berdirinya parindra telah memiliki 53 cabang dengan 2.425 orang anggota , dan pada tahun 1936 naik menjadi 57 cabang dengan 3.425 orang anggota .
+sentence 3: dalam kongresnya yang pertama di jakarta pada tanggal 14-18 mei 1937 , parindra mengambil sikap moderat ( " luwes " ) tidak bersikap kooperatif dan juga nonkooperatif .
+sentence 4: sikap moderat dinilai sangat fleksibel dan lebih menguntungkan , dengan situasi dan kondisi serta kepentingan bangsa .
+sentence 5: dengan sikap moderat , parindra dapat mendudukan wakilnya di dalam volkrsraad , yaitu muh .
+passage 17 score = 7.833333333333333
+sentence 1: usul yang kemudian dikenal dengan nama petisi sutardjo diajukan pada tanggal 15 juli 1936 kepada pemerintah belanda .
+sentence 2: isi petisi ialah permohonan supaya diselenggarakan suatu musyawarah antara wakil-wakil indonesia dan belanda di mana anggota-anggotanya mempunyai hak yang sama .
+sentence 3: tujuannya ialah untuk menyusun suatu rencana yang isinya adalah pemberian kepada indonesia suatu pemerintahan yang berdiri sendiri dalam batas pasal 1 uud kerajaan belanda .
+sentence 4: berdasarkan keputusan kerajaan belanda no. 40 tanggal 16 nopember 1938 , petisi sutardjo yang diajukan atas nama volksraad ditolak oleh ratu belanda .
+sentence 5: alasan penolakannya " bahwa indonesia belum matang untuk memikul tanggung jawab memerintah diri sendiri " .
+passage 20 score = 7.833333333333333
+sentence 1: 6 .
+sentence 2: gabungan politik indonesia ( gapi ) suatu gagasan untuk membina kerja sama di antara partai-partai politik dalam bentuk federasi muncul lagi pada tahun 1939 tepatnya pada tanggal 21 mei 1939 , yakni dengan terbentuknya gabungan politik indonsia ( gapi ) oleh muh .
+sentence 3: husni thamrin .
+sentence 4: gapi merupakan gabungan dari parindra , gerindo , psii , persatuan partai katolik , persatuan minahasa , pasundan dan partai islam indonesia ( pii ) .
+sentence 5: alasan yang mendorong dan mempercepat terbentuknya federasi adalah sebagai berikut .
+passage 11 score = 7.666666666666667
+sentence 1: 3 .
+sentence 2: partai indonesia raya ( parindra ) usaha penyatuan antarperhimpunan pergerakan nasional terwujud dengan berdirinya partai indonesia raya ( parindra ) .
+sentence 3: parindra merupakan hasil fusi dari budi utomo ( bu ) dengan persatuan bangsa indonesia ( pbi ) dalam kongres fusinya tanggal 24-26 desember 1935 di solo .
+sentence 4: sebagai ketua terpilih dr. sutomo ( pbi ) dan wuryaningrat ( bu ) sebagai wakil ketua dengan kantor pusat di surabaya .
+sentence 5: organisasi lain yang kemudian bergabung ke dalam parindra ialah sarekat minahasa , sarekat ambon , perkumpulan kaum betawi , sarekat selebes dan sarekat sumatra .
+passage 19 score = 7.666666666666667
+sentence 1: hal ini muncul dari kalangan organisasi islam dengan nama majelis islam a ' la indonesia ( miai ) .
+sentence 2: miai didirikan di surabaya pada tanggal 25 september 1937 atas prakarsa tokoh-tokoh muhammadiyah ( k.h. mansur ) dan n.u. ( k.h. wachid hasyim ) .
+sentence 3: miai merupakan badan federasi organisasi-organisasi islam , antara lain muhammadiyah , nu , psii , pii , persatuan ulama indonesia , al washiliyah , al islam dan wasmusi ( wartawan muslimin indonsia ) dengan k.h. wachid hasyim sebagai ketua .
+sentence 4: tujuan miai adalah untuk mmpererat hubungan antarorganisasi islam indonesia dan kaum islam di luar indonesia serta mempersatukan suarasuara untuk membela keluhuran islam .
+sentence 5: 6 .
+passage 4 score = 6.5
+sentence 1: itulah sebabnya perselisihan-perselisihan tidak dapat dihindarkan .
+sentence 2: pppki kemudian tidak mempunyai kekuasaan sehingga banyak organisasi yang keluar dan akhirnya bubar ( 1935 ) .
+sentence 3: 2 .
+sentence 4: kongres pemuda usaha untuk menuju persatuan dan kesatuan antarorganisasi pemuda ditempuh dengan cara melaksanakan kongres yang kemudian dikenal dengan kongres pemuda indonesia .
+sentence 5: kongres pemuda i dilaksanakan di batavia pada tanggal 30 april – 2 mei 1926 oleh sebuah komite dengan susunan kepanitiaan sebagai berikut .
+passage 10 score = 6.5
+sentence 1: kedua : kami putra dan putri indonesia mengaku berbangsa yang satu , bangsa indonesia .
+sentence 2: ketiga : kami putra dan putri indonesia menjunjung bahasa persatuan , bahasa indonesia .
+sentence 3: pada kongres tersebut dikumandangkan lagu indonesia raya ciptaan wage rudolf supratman , dan dikibarkan bendera merah putih yang dipandang sebagai bendera pusaka bangsa indonesia .
+sentence 4: peristiwa sumpah pemuda pada tanggal 28 oktober 1928 merupakan salah satu puncak pergerakan nasional dan sampai sekarang tanggal 28 oktober diperingati sebagai hari sumpah pemuda .
+sentence 5: 3 .
+passage 23 score = 6.5
+sentence 1: gapi mengingatkan adanya bahaya besar yang akan mengancam pemerintah hindia belanda dan masyarakat indonesia .
+sentence 2: oleh karena itu , gapi mengeluarkan suatu pernyataan yang dikenal dengan nama manifesto gapi ( 20 september 1939 ) .
+sentence 3: isinya mengajak kerja sama rakyat indonesia dan belanda untuk menghadapi bahaya fasisme .
+sentence 4: hal ini dapat terlaksana apabila belanda memberikan hak-hak baru dalam pemerintahan kepada bangsa indonesia berdasarkan hakekat demokrasi .
+sentence 5: untuk mencapai tujuan yang dicita-citakan , gapi menyelenggarakan kongres rakyat indonesia yang pertama di batavia pada tanggal 25 desember 1939 .
+passage 25 score = 6.5
+sentence 1: c. menetapkan bendera merah putih dan lagu indonesia raya sebagai bendera dan lagu persatuan indonesia serta peningkatan bahasa indonesia bagi rakyat indonesia .
+sentence 2: pada bulan agustus 1940 , negeri belanda dikuasai oleh jerman dan indonesia dinyatakan dalam keadaan darurat perang .
+sentence 3: gapi kembali mengeluarkan resolusi menuntut adanya perubahan ketatanegaraan .
+sentence 4: isi resolusi , yaitu mengganti volksraad dengan parlemen sejati yang anggotanya dipilih oleh rakyat dan mengubah fungsi kepala-kepala departemen menjadi menteri yang bertanggung jawab kepada parlemen tersebut .
+sentence 5: untuk menanggapi resolusi gapi , pada tanggal 14 september 1940 dibentuk komisi visman .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+passage 1 score = 5.5
+sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
+sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
+sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
+sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
+sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+passage 6 score = 5.0
+sentence 1: 1 .
+sentence 2: bangsa melayu tua ( proto melayu ) .
+sentence 3: bangsa melayu tua adalah orang-orang austronesia dari asia ( yunan ) yang pertama kali ke nusantara pada sekitar 1500 sm .
+sentence 4: mereka datang ke nusantara melalui dua jalan .
+sentence 5: 1 .
+passage 15 score = 1.3333333333333333
+sentence 1: mereka hidup dari meramu ( mengumpulkan hasil hutan ) dan berkebudayaan sederhana .
+sentence 2: mereka juga sulit sekali menyesuaikan diri dengan masyarakat modern .
+sentence 3: 3 .
+sentence 4: suku negroid .
+sentence 5: di indonesia sudah tidak terdapat lagi sisa-sisa kehidupan suku negroid .
+passage 3 score = 0.3333333333333333
+sentence 1: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
+sentence 2: pendukung kebudayaan dongson adalah orang-orang austronesia yang tinggal di pulau-pulau di benua asia dan australia .
+sentence 3: nenek moyang bangsa indonesia meninggalkan daerah yunan di sekitar hulu sungai salween dan sungai mekong yang tanahnya subur sehingga mereka pandai bercocok tanam , berlayar , dan berdagang .
+sentence 4: dalam perkembangan selanjutnya , berbagai suku bangsa yang mendiami wilayah indonesia kemudian membentuk komunitas sendiri-sendiri sehingga mereka mendapat sebutan tersendiri .
+sentence 5: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
+passage 2 score = 0.0
+sentence 1: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+sentence 2: pendapat van heine geldern ini diperkuat dengan penemuan peralatan manusia purba berupa beliung batu yang berbentuk persegi di sumatra , jawa , kalimantan , dan sulawesi di bagian barat .
+sentence 3: beliung seperti itu juga banyak ditemukan di asia , yakni di malaysia , birma ( myanmar ) , vietnam , kampuchea , dan terutama di daerah yunan ( daerah cina selatan ) .
+sentence 4: perpindahan penduduk pada gelombang kedua terjadi sekitar 500 sm bersamaan dengan zaman perunggu .
+sentence 5: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
+passage 4 score = 0.0
+sentence 1: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
+sentence 2: mereka berlayar secara berkelompok tanpa mengenal rasa takut dan selanjutnya menempati berbagai kepulauan di nusantara .
+sentence 3: hal ini memperjelas bahwa nenek moyang bangsa indonesia adalah pelaut-pelaut ulung yang memiliki jiwa kelautan yang kuat .
+sentence 4: mereka memiliki kepandaian dalam berlayar , navigasi , serta ilmu perbintangan yang penuh .
+sentence 5: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
+passage 5 score = 0.0
+sentence 1: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
+sentence 2: orang-orang austronesia yang memasuki wilayah nusantara dan kemudian menetap di nusantara tersebut mendapat sebutan bangsa melayu austronesia atau bangsa melayu indonesia .
+sentence 3: mereka yang masuk ke daerah aceh menjadi suku aceh , yang masuk ke daerah kalimantan disebut suku dayak , yang ke jawa barat disebut suku sunda , yang masuk ke sulawesi disebut suku bugis dan tanah toraja , dan mereka yang masuk ke daerah jambi disebut suku kubu ( lubu ) .
+sentence 4: bangsa melayu dapat dibedakan menjadi dua , yakni bangsa melayu tua dan melayu muda .
+sentence 5: 1 .
+passage 7 score = 0.0
+sentence 1: 1 .
+sentence 2: jalan barat dari yunan ( cina selatan ) melalui selat malaka ( malaysia ) masuk kesumatra masuk ke jawa .
+sentence 3: mereka membawa alat berupa kapak persegi .
+sentence 4: 2 .
+sentence 5: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
+passage 8 score = 0.0
+sentence 1: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
+sentence 2: mereka membawa alat kapak lonjong .
+sentence 3: bangsa melayu tua ini memiliki kebudayaan batu sebab alat-alatnya terbuat dari batu yang sudah maju , yakni sudah dihaluskan , berbeda dengan manusia purba yang alatnya masih kasar dan sederhana .
+sentence 4: hasil budaya mereka dikenal dengan kapak persegi yang banyak ditemukan di indonesia , seperti sumatra , jawa , bali , dan kalimantan .
+sentence 5: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
+passage 9 score = 0.0
+sentence 1: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
+sentence 2: menurut penelitian von heekern , di kalumpang , sulawesi utara telah terjadi perpaduan antara tradisi kapak persegi dan kapak lonjong yang dibawa orang austronesia yang datang dari arah utara indonesia melalui formosa ( taiwan ) , filipina , dan sulawesi .
+sentence 3: 2 .
+sentence 4: bangsa melayu muda ( deutero melayu ) bangsa melayu muda yang disebut juga deutero melayu datang dari daerah yunan ( cina selatan ) sekitar 500 sm .
+sentence 5: mereka masuk ke nusantara melalui jalan barat saja .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
+title : perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
+passage 4 score = 6.833333333333333
+sentence 1: perkembangan penting dari pendidikan pada masa perkembangan islam adalah lahirnya pendidikan pesantren .
+sentence 2: pendidikan yang diselenggarakan di pesantren jauh lebih mendalam dibandingkan dengan pendidikan yang dilaksanakan di mesjid , langgar , atau surau .
+sentence 3: siswa yang mengikuti pendidikan di pesantren disebutsantri , sedangkan gurunya biasa disebut kiai .
+sentence 4: materi pelajaran yang diberikan meliputi membaca serta tafsir al qur an , fiqih , tauhid , dan akhlak .
+sentence 5: sumber-sumber pelajaran menggunakan kitab-kitab yang dikarang oleh para ulama sekitar abad ke-7 atau abad ke-8 di timur tengah atau sering disebut dengankitab kuning .
+passage 8 score = 6.833333333333333
+sentence 1: pada awal perkembangan islam , lembaga ini menjadi pusat penyebaran agama islam dan wadah untuk mencetak intelektual muslim .
+sentence 2: sejak masa awal , bahkan sampai sekarang lembaga pendidikan pesantren dan sejenisnya tetap dipercaya oleh masyarakat sebagai lembaga yang membentuk moral dan intelektual muslim .
+sentence 3: perkembangan dan kemajuan masyarakat islam nusantara , khususnya jawa , tidak mungkin terpisahkan dari peranan yang dimainkan pesantren .
+sentence 4: berpusat dari pesantren , perputaran roda ekonomi dan kebijakan politik islam dikendalikan .
+sentence 5: pada masa walisongo , tidak sedikit wali-wali jawa yang menguasai jaringan perdagangan antara pulau jawa dengan luar jawa .
+passage 12 score = 6.833333333333333
+sentence 1: bukti berkembangnya paham syi ah di indonesia dapat dilihat dari berkembangnya beberapa tradisi syi ah yang ada di indonesia .
+sentence 2: misalnya peringatan tanggal 10 muharram sebagai peringatan kaum syi ah atas meninggalnya husain , putra ali bin abi thalib .
+sentence 3: peringatan 10 muharam sering diwarnai dengan pembuatan hidangan khas yang disebut bubur sura.nama suraberasal dari kata asjuradalam bahasa iran yang berarti tanggal 10 muharam .
+sentence 4: sisa-sisa pengaruh paham syi ah terlihat di aceh dari istilah “ bulan hasan-husein ” untuk menyebut bulan muharam .
+sentence 5: perkembangan penting lainnya dari kehidupan keagamaan pada masa kerajaan-kerajaan islam adalah perkembangan tasawuf dan tarikat .
+passage 15 score = 6.833333333333333
+sentence 1: hal ini bisa kita perhatikan dari begitu pesatnya perkembangan ajaran tasawuf di indonesia .
+sentence 2: kedatangan ahli tasawuf ke indonesia diperkirakan sejak abad ke-13 , yaitu masa berkembangnya dan tersebarnya ahli tasawuf dari persia dan india .
+sentence 3: kedatangan para ahli tasawuf ini kemudian diikuti dengan proses penyebaran tasawuf dan diterimanya tasawuf oleh masyarakat indonesia sebagai salah satu bagian dari ajaran islam .
+sentence 4: pada abad xvi-xvii di kerajaan aceh muncul beberapa ahli tasawuf terkenal seperti hamzah fansuri , syamsuddin as-sumatrani , nuruddin ar-raniri , syekh abdurrauf dari singkel , dan sebagainya .
+sentence 5: di jawa pada sekitar abad xvi-xvii di antara walisongo juga ada yang mengajarkan tasawuf , seperti syekh siti jenar , sunan bonang , sunan panggung , sunan kudus , dan sebagainya .
+passage 9 score = 6.666666666666667
+sentence 1: pada masa walisongo , tidak sedikit wali-wali jawa yang menguasai jaringan perdagangan antara pulau jawa dengan luar jawa .
+sentence 2: contohnya , sunan giri yang memiliki jaringan perdagangan antara jawa , kalimantan , maluku , lombok , dan sekitarnya .
+sentence 3: begitu pula dengan perjalanan politik islam di jawa , pesantren memiliki pengaruh kuat bagi pembentukan dan pengambilan berbagai kebijakan di keraton-keraton .
+sentence 4: misalnya , berdirinya kerajaan islam demak adalah karena dukungan dan kontrol kuat dari para ulama , seperti sunan kudus , sunan kalijaga , dan sebagainya .
+sentence 5: dengan demikian , dapat disimpulkan bahwa dinamika masyarakat islam pada masa awal dapat ditandai dengan adanya hubungan yang kuat antara pesantren , pasar ( perdagangan ) , dan keraton .
+passage 11 score = 6.333333333333333
+sentence 1: yang paling menarik adalah perkembangan ma hab syafi i di kerajaan malaka yang sudah dianut sejak masa kekuasaan rajanya yang pertama yaitu parameswara .
+sentence 2: perluasan agama islam ma hab syafi i berbarengan dengan perluasan kekuasaan dan wilayah sultan malaka .
+sentence 3: sampai akhir abad ke-15 , ma hab syafii telah menguasai daerah pantai timur sumatra dan pantai barat semenanjung sumatra .
+sentence 4: selain ma hab syafi i , paham syi ah juga berkembang pesat di indonesia .
+sentence 5: bukti berkembangnya paham syi ah di indonesia dapat dilihat dari berkembangnya beberapa tradisi syi ah yang ada di indonesia .
+passage 16 score = 6.333333333333333
+sentence 1: di jawa pada sekitar abad xvi-xvii di antara walisongo juga ada yang mengajarkan tasawuf , seperti syekh siti jenar , sunan bonang , sunan panggung , sunan kudus , dan sebagainya .
+sentence 2: berkaitan erat dengan tasawuf adalah tarekat yang dianggap sebagai suatu bentuk atau cara untuk mendekatkan diri kepada allah .
+sentence 3: di indonesia , tarekat-tarekat yang mempunyai pengaruh ialah tarekat qadariah , naqsyabandiah , sammaniah , qusyasyiah , syattariah , say iliah , khalwatiah , dan tianiah .
+sentence 4: ham ah fansuri dan pembesar-pembesar kerajaan aceh mendapat pengaruh tarekat qadariah .
+sentence 5: di banten sultan abdul mufakhir mahmud abdulkadir juga mendapat pengaruh aliran qadariah .
+passage 5 score = 5.5
+sentence 1: sumber-sumber pelajaran menggunakan kitab-kitab yang dikarang oleh para ulama sekitar abad ke-7 atau abad ke-8 di timur tengah atau sering disebut dengankitab kuning .
+sentence 2: santri memiliki sikap yang sangat hormat kepada guru , dia harus tunduk kepada apa yang diperintahkan oleh guru .
+sentence 3: selama mengikuti pelajaran di pesantren , santri harus mondok ( menginap ) di pesantren .
+sentence 4: walaupun ada juga santri yang tidak mondok , biasanya santri tersebut berasal dari daerah sekitar tempat pesantren itu berada .
+sentence 5: untuk mengikuti pelajaran dari satu tahap materi pelajaran ke materi berikutnya ditentukan oleh guru .
+passage 7 score = 1.6666666666666665
+sentence 1: sistem bandongan adalah sistem pengajaran yang bersifat umum dan bersama-sama semacam ceramah umum yang disampaikan oleh seorang ustad ataupun kiai yang dihadiri oleh semua santri .
+sentence 2: lamanya mengikuti pendidikan di pesantren tidak tentu , gurulah yang akan menyatakan seorang santri itu sudah menguasai ilmu yang diberikannya .
+sentence 3: santri yang telah selesai mengikuti pendidikan di pesantren akan menyebarkan ilmu yang ia milikinya kepada masyarakat , dengan menjadi tokoh agama ataupun mendirikan pesantren di tempat tinggalnya .
+sentence 4: lembaga-lembaga pendidikan semacam pesantren , surau , ataumeunasah merupakan lembaga-lembaga pendidikan yang vital di indonesia .
+sentence 5: pada awal perkembangan islam , lembaga ini menjadi pusat penyebaran agama islam dan wadah untuk mencetak intelektual muslim .
+passage 13 score = 1.6666666666666665
+sentence 1: perkembangan penting lainnya dari kehidupan keagamaan pada masa kerajaan-kerajaan islam adalah perkembangan tasawuf dan tarikat .
+sentence 2: kata tasawuf berasal dari kata suf yang artinya wol ( bulu kambing ) .
+sentence 3: istilah ini timbul karena ahli tasawuf biasanya memakai baju ( jubah ) dari bulu domba .
+sentence 4: pakaian yang terbuat dari bulu domba merupakan simbol dari orang-orang yang sederhana , tulus , dan taat beribadah kepada allah .
+sentence 5: orang-orang yang menjalankan kehidupan tasawuf disebut sufi.tasawuf mengembangkan suatu ajaran dan keyakinan dalam memilih jalan hidup secara uhud atau sederhana , menjauhkan diri dari perhiasan dunia dan melaksanakan intensitas beribadah untuk mencari rida atau ampunan allah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+title : sejarah munculnya sarekat islam
+passage 3 score = 7.166666666666667
+sentence 1: pada tanggal 26 januari 1913 , diselenggarakan kongres sarekat islam pertama di surabaya .
+sentence 2: di hadapan massa lebih kurang 10.000 orang , oemar said cokroaminoto menegaskan bahwa sarekat islam tidak bersifat politik , tujuannya ialah menghidupkan jiwa dagang bangsa indonesia , terutama dengan cara berkoperasi .
+sentence 3: sarekat islam diakui oleh pemerintahan hindia-belanda melalui pemberian badan hukum pada tanggal 18 maret 1916 , dengan susunan yaitu : h. o. s cokroaminoto sebagai ketua , abdul muis dan h. gunawan sebagai wakil ketua , dan anggotanya agus salim , sastrohandoro , suryo pranoto , dan alimin prawirodirdjo .
+sentence 4: sedangkan h. samanhudi diangkat sebagai ketua kehormatan .
+sentence 5: sarekat islam mengalami perkembangan yang pesat dan kemudian tumbuh menjadi partai massa .
+passage 2 score = 7.0
+sentence 1: adapun tujuan pendirian sarekat islam di antaranya sebagai berikut : 1 .
+sentence 2: mengembangkan jiwa dagang dan membantu anggota-anggota yang mengalami kesulitan dalam berusaha ; 2 .
+sentence 3: memperbaiki pendapat-pendapat yang keliru mengenai islam ; 3 .
+sentence 4: hidup menurut perintah agama .
+sentence 5: pada tanggal 26 januari 1913 , diselenggarakan kongres sarekat islam pertama di surabaya .
+passage 4 score = 7.0
+sentence 1: sarekat islam mengalami perkembangan yang pesat dan kemudian tumbuh menjadi partai massa .
+sentence 2: perkembangan sarekat islam tersebut menyebabkan pemerintah kolonial belanda mulai mewaspadai setiap gerak sarekat islam .
+sentence 3: tidak hanya itu , pemerintah kolonial mengeluarkan berbagai peraturan untuk menghambat perkembangan sarekat islam , seperti adanya aturan agar cabangcabang sarekat islam hanya berdiri untuk daerah masing-masing .
+sentence 4: untuk kelancaran hubungan ini , pada tahun 1915 didirikan central sarekat islam ( csi ) , tujuannya untuk membantu sarekat islam daerah ke arah kemajuan , dan mengatur kerja sama antar-sarekat islam daerah .
+sentence 5: di satu sisi sarekat islam tumbuh menjadi organisasi yang terbuka untuk umum , tetapi di sisi lain keterbukaan tersebut menyebabkan kelemahan tersendiri bagi kekuatan sarekat islam .
+passage 8 score = 7.0
+sentence 1: pada tahun 1923 , diadakan kongres sarekat islam ke-7 .
+sentence 2: dalam kongres tersebut , diputuskan bahwa central sarekat islam diganti menjadi partai sarekat islam ( psi ) .
+sentence 3: selain itu , diputuskan pula bahwa cabang-cabang sarekat islam yang mendapat pengaruh komunis menyatakan diri berada di bawah sarekat rakyat ( sr ) yang menjadi basis partai komunis indonesia ( pki ) .
+sentence 4: [ ps ]
+passage 7 score = 6.666666666666667
+sentence 1: perpecahan semakin nyata setelah dilaksanakan kongres luar biasa central sarekat islam .
+sentence 2: kongres tersebut membicarakan masalah disiplin partai yang melarang penggandaan rangkap anggota sebagai anggota partai .
+sentence 3: melalui aturan partai tersebut , akhirnya golongan komunis yang diwakili semaun dan darsono dikeluarkan dari sarekat islam .
+sentence 4: adanya pemecatan tersebut , tubuh sarekat islam terpecah menjadi dua bagian , yaitu : sarekat islam-merah , yang menganut paham komunis di bawah pimpinan semaun , darsono , tan malaka , muhammad hasan , dan alimin ; dan sarekat islam-putih , yang berhaluan islam radikal yang berasaskan kebangsaankeagamaan di bawah pimpinan h. agus salim , h.o.s cokroaminoto , abdul muis , dan suryapranoto .
+sentence 5: pada tahun 1923 , diadakan kongres sarekat islam ke-7 .
+passage 1 score = 2.0
+sentence 1: sejarah munculnya sarekat islam – adanya persaingan dagang antara para pedagang islam dan pedagang cina , mendorong para pedagang islam untuk bersatu .
+sentence 2: mereka ( para pedagang islam ) mendirikan perkumpulan/organisasi bernama sarekat dagang islam ( sdi ) .
+sentence 3: pendiri sdi ini adalah haji samanhudi .
+sentence 4: sdi selanjutnya diubah namanya menjadi sarekat islam ( si ) .
+sentence 5: adapun tujuan pendirian sarekat islam di antaranya sebagai berikut : 1 .
+passage 5 score = 2.0
+sentence 1: di satu sisi sarekat islam tumbuh menjadi organisasi yang terbuka untuk umum , tetapi di sisi lain keterbukaan tersebut menyebabkan kelemahan tersendiri bagi kekuatan sarekat islam .
+sentence 2: banyak anggota sarekat islam yang mempunyai keanggotaan rangkap dengan organisasi lain .
+sentence 3: misalnya , semaun sebagai ketua sarekat islam semarang merangkap sebagai anggota isdv yang berhaluan sosialis .
+sentence 4: dalam perkembangan berikutnya , semaun memberikan pengaruh yang besar bagi setiap gerak langkah sarekat islam yang dipimpinnya .
+sentence 5: semaun banyak menentang kebijakan yang diberikan sarekat islam yang berhaluan religius-nasionalis .
+passage 6 score = 1.6666666666666665
+sentence 1: semaun banyak menentang kebijakan yang diberikan sarekat islam yang berhaluan religius-nasionalis .
+sentence 2: ia berpendapat bahwa pertentangan yang terjadi bukan antara penjajah terjajah , tetapi antara kapitalis buruh .
+sentence 3: oleh karena itu , perlu mobilisasi kekuatan buruh dan tani di samping tetap memperluas pengajaran agama islam .
+sentence 4: pengaruh komunis itu telah masuk ke tubuh central sarekat islam dan cabang-cabangnya sehingga menyebabkan terjadinya perpecahan dalam tubuh central sarekat islam .
+sentence 5: perpecahan semakin nyata setelah dilaksanakan kongres luar biasa central sarekat islam .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+passage 8 score = 7.5
+sentence 1: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+sentence 2: sneevliet kemudian melakukan infiltrasi ( penyusupan ) kader-kadernya ke dalam tubuh sarekat islam dengan menjadikan anggota-anggota isdv sebagai anggota sarekat islam , dan sebaliknya anggota-anggota sarekat islam menjadi anggota isdv .
+sentence 3: dengan cara ini sneevliet dan kawan-kawannya telah mempunyai pengaruh yang kuat di kalangan sarekat islam , lebih-lebih setelah berhasil mempengaruhi beberapa pemimpin sarekat islam , seperti semaun dan darsono .
+sentence 4: akibatnya , sarekat islam cabang semarang yang sudah berada dibawah pengaruh isdv semakin jelas warna marxismenya sehingga menyebabkan perpecahan dalam tubuh sarekat islam .
+sentence 5: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+passage 4 score = 7.166666666666667
+sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+sentence 2: e. lahirnya organisasi pergerakan nasional asia , seperti di turki ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di india ( munculnya all indian national congres ) , sedangkan di indonesia munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti sarekat islam , indische partij , dan sebagainya .
+sentence 3: pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada tahun 1776 telah melahirkan negara amerika serikat lepas dari negara induk inggris .
+sentence 4: declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di benua amerika dan menyebar luas ke kawasan lain di negara-negara di asia dan afrika .
+sentence 5: pernyataan tersebut merupakan pernyataan yang progresif .
+passage 7 score = 6.333333333333333
+sentence 1: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+sentence 2: seperti revolusi-revolusi lain , revolusi rusia juga membawa dampak baik bagi rusia sendiri maupun bagi negara-negara di kawasan di dunia termasuk indonesia .
+sentence 3: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional di indonesia tampak jelas dengan berkembangan paham marxis yang kemudian melahirkan partai komunis indonesia .
+sentence 4: benih-benih marxisme dibawa masuk ke indonesia oleh seorang belanda yang bernama h.j.f.m. sneevliet .
+sentence 5: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+passage 2 score = 5.5
+sentence 1: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+sentence 2: sementara itu , semboyan fraternite telah memupuk rasa persaudaraan dan rasa persatuan di antarawarga negara sehingga menimbulkan nasionalisme .
+sentence 3: liberalisme , demokrasi , dan nasionalisme ternyata telah berkembang cepat di prancis dan di negara-negara eropa yang lain .
+sentence 4: bahkan , paham-paham tersebut pada akhir abad ke-19 dan awal abad ke-20 memasuki kawasan lain , terutama negara-negara yang berada di bawah dominasi kekuasaan bangsa lain .
+sentence 5: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
+passage 3 score = 5.5
+sentence 1: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
+sentence 2: a. perjuangan rakyat amerika latin untuk menentang penjajahan spanyol dan portugis ( 1807 – 1828 ) .
+sentence 3: b. di kawasan eropa telah mendorong munculnya gerakan untuk membentuk negara kesatuan , seperti di jerman di bawah pimpinan otto van bismark , dan italia di bawah pimpinan perdana menteri cavour .
+sentence 4: c. perjuangan rakyat yunani untuk bebas dari kekuasan turki usmani ( 1821 – 1829 ) .
+sentence 5: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+passage 9 score = 5.5
+sentence 1: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+sentence 2: dengan demikian , revolusi prancis , revolusi amerika , dan revolusi rusia berpengaruh terhadap munculnya pergerakan nasional indonesia .
+sentence 3: bedanya , jika revolusi prancis dan revolusi amerika berpengaruh terhadap munculnya organisasi pergerakan nasional yang berpaham nasional dan demokratis .
+sentence 4: sebaliknya , revolusi rusia berpengaruh terhadap munculnya organisasi pergerakan yang berpaham komunis .
+sentence 5: selamat belajar .
+passage 1 score = 0.0
+sentence 1: pengaruh revolusi prancis terhadap perkembangan pergerakan nasional indonesia revolusi prancis yang mempunyai semboyan liberte , egalite , dan fraternite telah mendorong berkembangnya liberalisme , demokrasi , dan nasionalisme .
+sentence 2: semboyan egalite adalah semboyan cita-cita kebebasan dan kemerdekaan , yang pada waktu itu menjadi dasar perjuangan kaum borjuis dan warga kota , para pengusaha , dan pedagang .
+sentence 3: mereka memiliki jiwa bebas sehingga melahirkan paham liberalisme .
+sentence 4: egalite juga menjadi ciri kehidupan masyarakat kota dan para pengusaha .
+sentence 5: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+passage 5 score = 0.0
+sentence 1: pernyataan tersebut merupakan pernyataan yang progresif .
+sentence 2: amerika merupakan contoh pertama sebuah negara koloni yang berjuang untuk kemerdekaan dan mewujudkan suatu pemerintahan yang demokratis .
+sentence 3: dengan demikian revolusi amerika telah mendorong munculnya gerakan untuk menentang penjajahan asing di indonesia .
+sentence 4: gerakan yang semula bersifat kedaerahan , kemudian berkembang menjadi gerakan nasional .
+sentence 5: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
+passage 6 score = 0.0
+sentence 1: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
+sentence 2: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional indonesia revolusi rusia telah berhasil menumbangkan kekuasaan tsar nicholas ii yang memerintah secara diktator .
+sentence 3: rakyat rusia yang merasakan kehidupan di berbagai bidang akibat kediktatoran tsar nicholas ii , akhirnya berhasil menghimpun kekuatan dan menentang kekuasaannya dalam bentuk revolusi .
+sentence 4: revolusi rusia telah berhasil menumbangkan kediktatoran rusia .
+sentence 5: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+passage 8 score = 7.5
+sentence 1: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+sentence 2: sneevliet kemudian melakukan infiltrasi ( penyusupan ) kader-kadernya ke dalam tubuh sarekat islam dengan menjadikan anggota-anggota isdv sebagai anggota sarekat islam , dan sebaliknya anggota-anggota sarekat islam menjadi anggota isdv .
+sentence 3: dengan cara ini sneevliet dan kawan-kawannya telah mempunyai pengaruh yang kuat di kalangan sarekat islam , lebih-lebih setelah berhasil mempengaruhi beberapa pemimpin sarekat islam , seperti semaun dan darsono .
+sentence 4: akibatnya , sarekat islam cabang semarang yang sudah berada dibawah pengaruh isdv semakin jelas warna marxismenya sehingga menyebabkan perpecahan dalam tubuh sarekat islam .
+sentence 5: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+passage 4 score = 7.166666666666667
+sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+sentence 2: e. lahirnya organisasi pergerakan nasional asia , seperti di turki ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di india ( munculnya all indian national congres ) , sedangkan di indonesia munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti sarekat islam , indische partij , dan sebagainya .
+sentence 3: pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada tahun 1776 telah melahirkan negara amerika serikat lepas dari negara induk inggris .
+sentence 4: declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di benua amerika dan menyebar luas ke kawasan lain di negara-negara di asia dan afrika .
+sentence 5: pernyataan tersebut merupakan pernyataan yang progresif .
+passage 7 score = 6.333333333333333
+sentence 1: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+sentence 2: seperti revolusi-revolusi lain , revolusi rusia juga membawa dampak baik bagi rusia sendiri maupun bagi negara-negara di kawasan di dunia termasuk indonesia .
+sentence 3: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional di indonesia tampak jelas dengan berkembangan paham marxis yang kemudian melahirkan partai komunis indonesia .
+sentence 4: benih-benih marxisme dibawa masuk ke indonesia oleh seorang belanda yang bernama h.j.f.m. sneevliet .
+sentence 5: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+passage 2 score = 5.5
+sentence 1: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+sentence 2: sementara itu , semboyan fraternite telah memupuk rasa persaudaraan dan rasa persatuan di antarawarga negara sehingga menimbulkan nasionalisme .
+sentence 3: liberalisme , demokrasi , dan nasionalisme ternyata telah berkembang cepat di prancis dan di negara-negara eropa yang lain .
+sentence 4: bahkan , paham-paham tersebut pada akhir abad ke-19 dan awal abad ke-20 memasuki kawasan lain , terutama negara-negara yang berada di bawah dominasi kekuasaan bangsa lain .
+sentence 5: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
+passage 3 score = 5.5
+sentence 1: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
+sentence 2: a. perjuangan rakyat amerika latin untuk menentang penjajahan spanyol dan portugis ( 1807 – 1828 ) .
+sentence 3: b. di kawasan eropa telah mendorong munculnya gerakan untuk membentuk negara kesatuan , seperti di jerman di bawah pimpinan otto van bismark , dan italia di bawah pimpinan perdana menteri cavour .
+sentence 4: c. perjuangan rakyat yunani untuk bebas dari kekuasan turki usmani ( 1821 – 1829 ) .
+sentence 5: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+passage 9 score = 5.5
+sentence 1: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+sentence 2: dengan demikian , revolusi prancis , revolusi amerika , dan revolusi rusia berpengaruh terhadap munculnya pergerakan nasional indonesia .
+sentence 3: bedanya , jika revolusi prancis dan revolusi amerika berpengaruh terhadap munculnya organisasi pergerakan nasional yang berpaham nasional dan demokratis .
+sentence 4: sebaliknya , revolusi rusia berpengaruh terhadap munculnya organisasi pergerakan yang berpaham komunis .
+sentence 5: selamat belajar .
+passage 1 score = 0.0
+sentence 1: pengaruh revolusi prancis terhadap perkembangan pergerakan nasional indonesia revolusi prancis yang mempunyai semboyan liberte , egalite , dan fraternite telah mendorong berkembangnya liberalisme , demokrasi , dan nasionalisme .
+sentence 2: semboyan egalite adalah semboyan cita-cita kebebasan dan kemerdekaan , yang pada waktu itu menjadi dasar perjuangan kaum borjuis dan warga kota , para pengusaha , dan pedagang .
+sentence 3: mereka memiliki jiwa bebas sehingga melahirkan paham liberalisme .
+sentence 4: egalite juga menjadi ciri kehidupan masyarakat kota dan para pengusaha .
+sentence 5: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+passage 5 score = 0.0
+sentence 1: pernyataan tersebut merupakan pernyataan yang progresif .
+sentence 2: amerika merupakan contoh pertama sebuah negara koloni yang berjuang untuk kemerdekaan dan mewujudkan suatu pemerintahan yang demokratis .
+sentence 3: dengan demikian revolusi amerika telah mendorong munculnya gerakan untuk menentang penjajahan asing di indonesia .
+sentence 4: gerakan yang semula bersifat kedaerahan , kemudian berkembang menjadi gerakan nasional .
+sentence 5: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
+passage 6 score = 0.0
+sentence 1: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
+sentence 2: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional indonesia revolusi rusia telah berhasil menumbangkan kekuasaan tsar nicholas ii yang memerintah secara diktator .
+sentence 3: rakyat rusia yang merasakan kehidupan di berbagai bidang akibat kediktatoran tsar nicholas ii , akhirnya berhasil menghimpun kekuatan dan menentang kekuasaannya dalam bentuk revolusi .
+sentence 4: revolusi rusia telah berhasil menumbangkan kediktatoran rusia .
+sentence 5: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+passage 24 score = 8.5
+sentence 1: gerakan turki muda memberikan pengaruh politis bagi pergerakan bangsa indonesia sebab mengarah pada pembaruan-pembaruan dan modernisasi .
+sentence 2: b. perkembangan pergerakan nasional masa pergerakan nasional di indonesia ditandai dengan berdirinya organisasi-organisasi pergerakan .
+sentence 3: masa pergerakan nasional ( 1908 - 1942 ) , dibagi dalam tiga tahap berikut .
+sentence 4: 1 .
+sentence 5: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+passage 25 score = 8.5
+sentence 1: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
+sentence 2: 2 .
+sentence 3: masa radikal/nonkooperasi ( 1920 - 1930 ) , berdiri organisasi seperti partai komunis indonesia ( pki ) , perhimpunan indonesia ( pi ) , dan partai nasional indonesia ( pni ) .
+sentence 4: 3 .
+sentence 5: masa moderat/kooperasi ( 1930 - 1942 ) , berdiri organisasi seperti parindra , partindo , dan gapi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+passage 36 score = 8.5
+sentence 1: sejalan dengan kemerosotan aktivitas dan dukungan pribumi pada budi utomo , maka pada tahun 1935 budi utomo mengadakan fusi ke dalam partai indonesia raya ( parindra ) .
+sentence 2: sejak itu bu terus mengalami kemerosotan dan mundur dari arena politik .
+sentence 3: 2 .
+sentence 4: sarekat islam ( si ) pada mulanya sarekat islam adalah sebuah perkumpulan para pedagang yang bernama sarekat dagang islam ( sdi ) .
+sentence 5: pada tahun 1911 , sdi didirikan di kota solo oleh h. samanhudi sebagai suatu koperasi pedagang batik jawa .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+passage 37 score = 8.5
+sentence 1: pada tahun 1911 , sdi didirikan di kota solo oleh h. samanhudi sebagai suatu koperasi pedagang batik jawa .
+sentence 2: garis yang diambil oleh sdi adalah kooperasi , dengan tujuan memajukan perdagangan indonesia di bawah panji-panji islam .
+sentence 3: keanggotaan sdi masih terbatas pada ruang lingkup pedagang , maka tidak memiliki anggota yang cukup banyak .
+sentence 4: oleh karena itu agar memiliki anggota yang banyak dan luas ruang lingkupnya , maka pada tanggal 18 september 1912 , sdi diubah menjadi si ( sarekat islam ) .
+sentence 5: organisasi sarekat islam ( si ) didirikan oleh beberapa tokoh sdi seperti h.o.s cokroaminoto , abdul muis , dan h. agus salim .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 7 score = 8.5
+sentence 1: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
+sentence 2: 2 .
+sentence 3: sarekat islam ( si ) tiga tahun setelah berdirinya budi utomo , yakni tahun 1911 berdirilah sarekat dagang islam ( sdi ) di solo oleh h. samanhudi , seorang pedagang batik dari laweyan solo .
+sentence 4: organisasi sarekat dagang islam berdasar pada dua hal berikut ini .
+sentence 5: a. agama islam .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 10 score = 8.5
+sentence 1: sarekat islam merupakan gerakan nasionalis , demokratis dan ekonomis , serta berasaskan islam dengan haluan kooperatif .
+sentence 2: mengingat perkembangan sarekat islam yang begitu pesat maka timbullah kekhawatiran dari pihak gubernur jenderal indenberg sehingga permohonan sarekat islam sebagai organisasi nasional yang berbadan hukum ditolak dan hanya diperbolehkan berdiri secara lokal .
+sentence 3: pada tahun 1914 telah berdiri 56 sarekat islam lokal yang diakui sebagai badan hukum .
+sentence 4: pada tahun 1915 berdirilah central sarekat islam ( csi ) yang berkedudukan di surabaya .
+sentence 5: tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 7 score = 8.5
+sentence 1: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
+sentence 2: 2 .
+sentence 3: sarekat islam ( si ) tiga tahun setelah berdirinya budi utomo , yakni tahun 1911 berdirilah sarekat dagang islam ( sdi ) di solo oleh h. samanhudi , seorang pedagang batik dari laweyan solo .
+sentence 4: organisasi sarekat dagang islam berdasar pada dua hal berikut ini .
+sentence 5: a. agama islam .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 10 score = 8.5
+sentence 1: sarekat islam merupakan gerakan nasionalis , demokratis dan ekonomis , serta berasaskan islam dengan haluan kooperatif .
+sentence 2: mengingat perkembangan sarekat islam yang begitu pesat maka timbullah kekhawatiran dari pihak gubernur jenderal indenberg sehingga permohonan sarekat islam sebagai organisasi nasional yang berbadan hukum ditolak dan hanya diperbolehkan berdiri secara lokal .
+sentence 3: pada tahun 1914 telah berdiri 56 sarekat islam lokal yang diakui sebagai badan hukum .
+sentence 4: pada tahun 1915 berdirilah central sarekat islam ( csi ) yang berkedudukan di surabaya .
+sentence 5: tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+passage 39 score = 8.166666666666668
+sentence 1: kecepatan tumbuhnya si bagaikan meteor dan meluas secara horizontal .
+sentence 2: si merupakan organisasi massa pertama di indonesia .
+sentence 3: antara tahun 1917 sampai dengan 1920 sangat terasa pengaruhnya di dalam politik indonesia .
+sentence 4: untuk menyebarkan propaganda perjuangannya , sarekat islam menerbitkan surat kabar yang bernama utusan hindia .
+sentence 5: pada tanggal 29 maret 1913 , para pemimpin si mengadakan pertemuan dengan gubernur jenderal idenburg untuk memperjuangkan si berbadan hukum .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+passage 93 score = 8.166666666666668
+sentence 1: mereka melihat muhammadiyah begitu terbuka terhadap kebudayaan barat sehingga khawatir kemurnian islam akan dirusakkan .
+sentence 2: oleh karena itu para ulama mendirikan nahdlatul ulama pada tahun 1926 .
+sentence 3: gerakan nu dipelopori oleh k.h. hasyim asy’ari .
+sentence 4: gerakan muhammadiyah banyak mendapat simpati termasuk pemerintah kolonial belanda karena perjuangannya tidak bersifat konfrontatif ( menentang ) .
+sentence 5: dalam kongres muhammadiyah yang berlangsung dari tanggal 12 - 17 maret 1925 di yogyakarta , diperbincangkan masalah-masalah yang berkaitan dengan pengajaran islam , mass media islam , dan buku-buku tentang islam yang berbahasa jawa .
+
+
+Pencarian jawaban
+---------------------
+
+
+gerakan turki muda memberikan pengaruh politis bagi pergerakan <PERSON>bangsa indonesia</PERSON> sebab mengarah pada pembaruan-pembaruan dan modernisasi . b. perkembangan pergerakan nasional masa pergerakan nasional di <LOCATION>indonesia</LOCATION> ditandai dengan berdirinya organisasi-organisasi pergerakan . masa pergerakan nasional ( <TIME>1908 - 1942</TIME> ) , dibagi dalam tiga tahap berikut . 1 . masa pembentukan ( <TIME>1908 - 1920</TIME> ) berdiri organisasi seperti budi utomo , sarekat islam , dan <PERSON>indische partij .</PERSON>
+
+memproses passage 24
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+1908 1942 | position = 28
+1908 1920 | position = 36
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = politis
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = arah
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = modernisasi
+tokenwithtagstemmed = b
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = 1908 1942
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tahap
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = 1
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = 1908 1920
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 41
+jarak dengan tiap kandidat jawaban:
+1908 1942 -13
+1908 1920 -5
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = indische partij
+kata kunci = islam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = politis
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = arah
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = modernisasi
+tokenwithtagstemmed = b
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = 1908 1942
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tahap
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = 1
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = 1908 1920
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 42
+jarak dengan tiap kandidat jawaban:
+1908 1942 -14
+1908 1920 -6
+
+tokenwithtagstemmed = indische partij
+kata kunci = diri
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = politis
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = arah
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = modernisasi
+tokenwithtagstemmed = b
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = diri
+posisi dalam passage = 21
+jarak dengan tiap kandidat jawaban:
+1908 1942 7
+1908 1920 15
+
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = 1908 1942
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tahap
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = 1
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = 1908 1920
+tokenwithtagstemmed = diri
+posisi dalam passage = 37
+jarak dengan tiap kandidat jawaban:
+1908 1942 -9
+1908 1920 -1
+
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = indische partij
+
+
+masa pembentukan ( <TIME>1908 - 1920</TIME> ) berdiri organisasi seperti budi utomo , sarekat islam , dan <PERSON>indische partij .</PERSON> 2 . masa radikal/nonkooperasi ( <TIME>1920 - 1930</TIME> ) , berdiri organisasi seperti partai komunis indonesia ( pki ) , perhimpunan indonesia ( pi ) , dan partai nasional indonesia ( pni ) . 3 . masa moderat/kooperasi ( <TIME>1930 - 1942</TIME> ) , berdiri organisasi seperti <PERSON>parindra , partindo ,</PERSON> dan gapi .
+
+memproses passage 25
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+1908 1920 | position = 2
+1920 1930 | position = 14
+1930 1942 | position = 32
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = 1908 1920
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+1908 1920 -5
+1920 1930 7
+1930 1942 25
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = indische partij
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = radikal
+tokenwithtagstemmed = nonkooperasi
+tokenwithtagstemmed = 1920 1930
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pni
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = moderat
+tokenwithtagstemmed = kooperasi
+tokenwithtagstemmed = 1930 1942
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = parindra partindo
+tokenwithtagstemmed = gap
+kata kunci = islam
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = 1908 1920
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+1908 1920 -6
+1920 1930 6
+1930 1942 24
+
+tokenwithtagstemmed = indische partij
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = radikal
+tokenwithtagstemmed = nonkooperasi
+tokenwithtagstemmed = 1920 1930
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pni
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = moderat
+tokenwithtagstemmed = kooperasi
+tokenwithtagstemmed = 1930 1942
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = parindra partindo
+tokenwithtagstemmed = gap
+kata kunci = diri
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = 1908 1920
+tokenwithtagstemmed = diri
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+1908 1920 -1
+1920 1930 11
+1930 1942 29
+
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = indische partij
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = radikal
+tokenwithtagstemmed = nonkooperasi
+tokenwithtagstemmed = 1920 1930
+tokenwithtagstemmed = diri
+posisi dalam passage = 15
+jarak dengan tiap kandidat jawaban:
+1908 1920 -13
+1920 1930 -1
+1930 1942 17
+
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pni
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = moderat
+tokenwithtagstemmed = kooperasi
+tokenwithtagstemmed = 1930 1942
+tokenwithtagstemmed = diri
+posisi dalam passage = 33
+jarak dengan tiap kandidat jawaban:
+1908 1920 -31
+1920 1930 -19
+1930 1942 -1
+
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = parindra partindo
+tokenwithtagstemmed = gap
+
+
+sejalan dengan kemerosotan aktivitas dan dukungan pribumi pada budi utomo , maka pada <TIME>tahun 1935</TIME> budi utomo mengadakan fusi ke dalam partai indonesia raya ( parindra ) . sejak itu bu terus mengalami kemerosotan dan mundur dari arena politik . 2 . sarekat islam ( si ) pada mulanya sarekat islam adalah sebuah perkumpulan <PERSON>para pedagang</PERSON> yang bernama sarekat dagang islam ( sdi ) . pada <TIME>tahun 1911</TIME> , sdi didirikan di <LOCATION>kota solo</LOCATION> oleh h. samanhudi sebagai suatu koperasi pedagang batik jawa .
+
+memproses passage 36
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+tahun 1935 | position = 7
+tahun 1911 | position = 37
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = merosot
+tokenwithtagstemmed = aktivitas
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = pribumi
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = fusi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = raya
+tokenwithtagstemmed = parindra
+tokenwithtagstemmed = bu
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = merosot
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = arena
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 24
+jarak dengan tiap kandidat jawaban:
+tahun 1935 -17
+tahun 1911 13
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = si
+tokenwithtagstemmed = mula
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 28
+jarak dengan tiap kandidat jawaban:
+tahun 1935 -21
+tahun 1911 9
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = kumpul
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 33
+jarak dengan tiap kandidat jawaban:
+tahun 1935 -26
+tahun 1911 4
+
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kota solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = koperasi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = jawa
+kata kunci = islam
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = merosot
+tokenwithtagstemmed = aktivitas
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = pribumi
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = fusi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = raya
+tokenwithtagstemmed = parindra
+tokenwithtagstemmed = bu
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = merosot
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = arena
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 25
+jarak dengan tiap kandidat jawaban:
+tahun 1935 -18
+tahun 1911 12
+
+tokenwithtagstemmed = si
+tokenwithtagstemmed = mula
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 29
+jarak dengan tiap kandidat jawaban:
+tahun 1935 -22
+tahun 1911 8
+
+tokenwithtagstemmed = kumpul
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+posisi dalam passage = 35
+jarak dengan tiap kandidat jawaban:
+tahun 1935 -28
+tahun 1911 2
+
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kota solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = koperasi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = jawa
+kata kunci = diri
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = merosot
+tokenwithtagstemmed = aktivitas
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = pribumi
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = tahun 1935
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = fusi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = raya
+tokenwithtagstemmed = parindra
+tokenwithtagstemmed = bu
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = merosot
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = arena
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = si
+tokenwithtagstemmed = mula
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = kumpul
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = diri
+posisi dalam passage = 39
+jarak dengan tiap kandidat jawaban:
+tahun 1935 -32
+tahun 1911 -2
+
+tokenwithtagstemmed = kota solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = koperasi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = jawa
+
+
+pada <TIME>tahun 1911</TIME> , sdi didirikan di <LOCATION>kota solo</LOCATION> oleh h. samanhudi sebagai suatu koperasi pedagang batik jawa . garis yang diambil oleh sdi adalah kooperasi , dengan tujuan memajukan perdagangan indonesia di bawah panji-panji islam . keanggotaan sdi masih terbatas pada ruang <PERSON>lingkup pedagang ,</PERSON> maka tidak memiliki anggota yang cukup banyak . oleh karena itu agar memiliki anggota yang banyak dan luas ruang lingkupnya , maka pada <TIME>tanggal 18 september 1912</TIME> , sdi diubah menjadi si ( sarekat islam ) . organisasi sarekat islam ( si ) didirikan oleh beberapa tokoh sdi seperti h.o.s cokroaminoto , abdul muis , dan h. agus salim .
+
+memproses passage 37
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+tahun 1911 | position = 0
+tanggal 18 september 1912 | position = 35
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kota solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = koperasi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = garis
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = kooperasi
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = panji
+tokenwithtagstemmed = panji
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = ruang
+tokenwithtagstemmed = lingkup dagang
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = cukup
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = ruang
+tokenwithtagstemmed = lingkup
+tokenwithtagstemmed = tanggal 18 september 1912
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = si
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 40
+jarak dengan tiap kandidat jawaban:
+tahun 1911 -40
+tanggal 18 september 1912 -5
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 43
+jarak dengan tiap kandidat jawaban:
+tahun 1911 -43
+tanggal 18 september 1912 -8
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = si
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = h.o.s
+tokenwithtagstemmed = cokroaminoto
+tokenwithtagstemmed = abdul
+tokenwithtagstemmed = mu
+tokenwithtagstemmed = h
+tokenwithtagstemmed = agus
+tokenwithtagstemmed = salim
+kata kunci = islam
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kota solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = koperasi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = garis
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = kooperasi
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = panji
+tokenwithtagstemmed = panji
+tokenwithtagstemmed = islam
+posisi dalam passage = 21
+jarak dengan tiap kandidat jawaban:
+tahun 1911 -21
+tanggal 18 september 1912 14
+
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = ruang
+tokenwithtagstemmed = lingkup dagang
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = cukup
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = ruang
+tokenwithtagstemmed = lingkup
+tokenwithtagstemmed = tanggal 18 september 1912
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = si
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 41
+jarak dengan tiap kandidat jawaban:
+tahun 1911 -41
+tanggal 18 september 1912 -6
+
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 44
+jarak dengan tiap kandidat jawaban:
+tahun 1911 -44
+tanggal 18 september 1912 -9
+
+tokenwithtagstemmed = si
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = h.o.s
+tokenwithtagstemmed = cokroaminoto
+tokenwithtagstemmed = abdul
+tokenwithtagstemmed = mu
+tokenwithtagstemmed = h
+tokenwithtagstemmed = agus
+tokenwithtagstemmed = salim
+kata kunci = diri
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = diri
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+tahun 1911 -2
+tanggal 18 september 1912 33
+
+tokenwithtagstemmed = kota solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = koperasi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = garis
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = kooperasi
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = panji
+tokenwithtagstemmed = panji
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = ruang
+tokenwithtagstemmed = lingkup dagang
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = cukup
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = ruang
+tokenwithtagstemmed = lingkup
+tokenwithtagstemmed = tanggal 18 september 1912
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = si
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = si
+tokenwithtagstemmed = diri
+posisi dalam passage = 46
+jarak dengan tiap kandidat jawaban:
+tahun 1911 -46
+tanggal 18 september 1912 -11
+
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = h.o.s
+tokenwithtagstemmed = cokroaminoto
+tokenwithtagstemmed = abdul
+tokenwithtagstemmed = mu
+tokenwithtagstemmed = h
+tokenwithtagstemmed = agus
+tokenwithtagstemmed = salim
+
+
+itulah sebabnya <TIME>tanggal 20 mei</TIME> ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang . 2 . sarekat islam ( si ) tiga tahun setelah berdirinya budi utomo , yakni <TIME>tahun 1911</TIME> berdirilah sarekat dagang islam ( sdi ) di solo oleh h. samanhudi , seorang pedagang batik dari laweyan solo . organisasi sarekat dagang islam berdasar pada dua hal berikut ini . a. agama islam .
+
+memproses passage 7
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+tanggal 20 mei | position = 0
+tahun 1911 | position = 16
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = tanggal 20 mei
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -8
+tahun 1911 8
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = si
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -18
+tahun 1911 -2
+
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = laweyan
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 30
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -30
+tahun 1911 -14
+
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = a
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+kata kunci = islam
+tokenwithtagstemmed = tanggal 20 mei
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -9
+tahun 1911 7
+
+tokenwithtagstemmed = si
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+posisi dalam passage = 20
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -20
+tahun 1911 -4
+
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = laweyan
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+posisi dalam passage = 32
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -32
+tahun 1911 -16
+
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = a
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+posisi dalam passage = 38
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -38
+tahun 1911 -22
+
+kata kunci = diri
+tokenwithtagstemmed = tanggal 20 mei
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = si
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = diri
+posisi dalam passage = 13
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -13
+tahun 1911 3
+
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = diri
+posisi dalam passage = 17
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -17
+tahun 1911 -1
+
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = laweyan
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = a
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+
+
+sarekat islam merupakan gerakan nasionalis , demokratis dan ekonomis , serta berasaskan islam dengan haluan kooperatif . mengingat perkembangan sarekat islam yang begitu pesat maka timbullah kekhawatiran dari pihak gubernur jenderal indenberg sehingga permohonan sarekat islam sebagai organisasi nasional yang berbadan hukum ditolak dan hanya diperbolehkan berdiri secara lokal . pada <TIME>tahun 1914</TIME> telah berdiri 56 sarekat islam lokal yang diakui sebagai badan hukum . pada <TIME>tahun 1915</TIME> berdirilah central sarekat islam ( csi ) yang berkedudukan di surabaya . tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
+
+memproses passage 10
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+tahun 1914 | position = 33
+tahun 1915 | position = 42
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+tahun 1914 33
+tahun 1915 42
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = demokratis
+tokenwithtagstemmed = ekonomis
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = haluan
+tokenwithtagstemmed = kooperatif
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 12
+jarak dengan tiap kandidat jawaban:
+tahun 1914 21
+tahun 1915 30
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pesat
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = khawatir
+tokenwithtagstemmed = pihak
+tokenwithtagstemmed = gubernur
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = indenberg
+tokenwithtagstemmed = mohon
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 22
+jarak dengan tiap kandidat jawaban:
+tahun 1914 11
+tahun 1915 20
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = boleh
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = tahun 1914
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = 56
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 36
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -3
+tahun 1915 6
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = aku
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tahun 1915
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 45
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -12
+tahun 1915 -3
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = csi
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = surabaya
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = kerjasama
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 55
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -22
+tahun 1915 -13
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = lokal
+kata kunci = islam
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+tahun 1914 32
+tahun 1915 41
+
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = demokratis
+tokenwithtagstemmed = ekonomis
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = islam
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1914 26
+tahun 1915 35
+
+tokenwithtagstemmed = haluan
+tokenwithtagstemmed = kooperatif
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 13
+jarak dengan tiap kandidat jawaban:
+tahun 1914 20
+tahun 1915 29
+
+tokenwithtagstemmed = pesat
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = khawatir
+tokenwithtagstemmed = pihak
+tokenwithtagstemmed = gubernur
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = indenberg
+tokenwithtagstemmed = mohon
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 23
+jarak dengan tiap kandidat jawaban:
+tahun 1914 10
+tahun 1915 19
+
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = boleh
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = tahun 1914
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = 56
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 37
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -4
+tahun 1915 5
+
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = aku
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tahun 1915
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 46
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -13
+tahun 1915 -4
+
+tokenwithtagstemmed = csi
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = surabaya
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = kerjasama
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 56
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -23
+tahun 1915 -14
+
+tokenwithtagstemmed = lokal
+kata kunci = diri
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = demokratis
+tokenwithtagstemmed = ekonomis
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = haluan
+tokenwithtagstemmed = kooperatif
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pesat
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = khawatir
+tokenwithtagstemmed = pihak
+tokenwithtagstemmed = gubernur
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = indenberg
+tokenwithtagstemmed = mohon
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = boleh
+tokenwithtagstemmed = diri
+posisi dalam passage = 30
+jarak dengan tiap kandidat jawaban:
+tahun 1914 3
+tahun 1915 12
+
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = tahun 1914
+tokenwithtagstemmed = diri
+posisi dalam passage = 34
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -1
+tahun 1915 8
+
+tokenwithtagstemmed = 56
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = aku
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tahun 1915
+tokenwithtagstemmed = diri
+posisi dalam passage = 43
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -10
+tahun 1915 -1
+
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = csi
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = surabaya
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = kerjasama
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = lokal
+
+
+itulah sebabnya <TIME>tanggal 20 mei</TIME> ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang . 2 . sarekat islam ( si ) tiga tahun setelah berdirinya budi utomo , yakni <TIME>tahun 1911</TIME> berdirilah sarekat dagang islam ( sdi ) di solo oleh h. samanhudi , seorang pedagang batik dari laweyan solo . organisasi sarekat dagang islam berdasar pada dua hal berikut ini . a. agama islam .
+
+memproses passage 7
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+tanggal 20 mei | position = 0
+tahun 1911 | position = 16
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = tanggal 20 mei
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -8
+tahun 1911 8
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = si
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -18
+tahun 1911 -2
+
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = laweyan
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 30
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -30
+tahun 1911 -14
+
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = a
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+kata kunci = islam
+tokenwithtagstemmed = tanggal 20 mei
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -9
+tahun 1911 7
+
+tokenwithtagstemmed = si
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+posisi dalam passage = 20
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -20
+tahun 1911 -4
+
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = laweyan
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+posisi dalam passage = 32
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -32
+tahun 1911 -16
+
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = a
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+posisi dalam passage = 38
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -38
+tahun 1911 -22
+
+kata kunci = diri
+tokenwithtagstemmed = tanggal 20 mei
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = si
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = diri
+posisi dalam passage = 13
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -13
+tahun 1911 3
+
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = tahun 1911
+tokenwithtagstemmed = diri
+posisi dalam passage = 17
+jarak dengan tiap kandidat jawaban:
+tanggal 20 mei -17
+tahun 1911 -1
+
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = sdi
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = h
+tokenwithtagstemmed = samanhudi
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = batik
+tokenwithtagstemmed = laweyan
+tokenwithtagstemmed = solo
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = a
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+
+
+sarekat islam merupakan gerakan nasionalis , demokratis dan ekonomis , serta berasaskan islam dengan haluan kooperatif . mengingat perkembangan sarekat islam yang begitu pesat maka timbullah kekhawatiran dari pihak gubernur jenderal indenberg sehingga permohonan sarekat islam sebagai organisasi nasional yang berbadan hukum ditolak dan hanya diperbolehkan berdiri secara lokal . pada <TIME>tahun 1914</TIME> telah berdiri 56 sarekat islam lokal yang diakui sebagai badan hukum . pada <TIME>tahun 1915</TIME> berdirilah central sarekat islam ( csi ) yang berkedudukan di surabaya . tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
+
+memproses passage 10
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+list jawaban dan posisi dalam passage
+tahun 1914 | position = 33
+tahun 1915 | position = 42
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+tahun 1914 33
+tahun 1915 42
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = demokratis
+tokenwithtagstemmed = ekonomis
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = haluan
+tokenwithtagstemmed = kooperatif
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 12
+jarak dengan tiap kandidat jawaban:
+tahun 1914 21
+tahun 1915 30
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pesat
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = khawatir
+tokenwithtagstemmed = pihak
+tokenwithtagstemmed = gubernur
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = indenberg
+tokenwithtagstemmed = mohon
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 22
+jarak dengan tiap kandidat jawaban:
+tahun 1914 11
+tahun 1915 20
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = boleh
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = tahun 1914
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = 56
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 36
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -3
+tahun 1915 6
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = aku
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tahun 1915
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 45
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -12
+tahun 1915 -3
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = csi
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = surabaya
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = kerjasama
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 55
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -22
+tahun 1915 -13
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = lokal
+kata kunci = islam
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+tahun 1914 32
+tahun 1915 41
+
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = demokratis
+tokenwithtagstemmed = ekonomis
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = islam
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1914 26
+tahun 1915 35
+
+tokenwithtagstemmed = haluan
+tokenwithtagstemmed = kooperatif
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 13
+jarak dengan tiap kandidat jawaban:
+tahun 1914 20
+tahun 1915 29
+
+tokenwithtagstemmed = pesat
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = khawatir
+tokenwithtagstemmed = pihak
+tokenwithtagstemmed = gubernur
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = indenberg
+tokenwithtagstemmed = mohon
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 23
+jarak dengan tiap kandidat jawaban:
+tahun 1914 10
+tahun 1915 19
+
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = boleh
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = tahun 1914
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = 56
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 37
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -4
+tahun 1915 5
+
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = aku
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tahun 1915
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 46
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -13
+tahun 1915 -4
+
+tokenwithtagstemmed = csi
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = surabaya
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = kerjasama
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 56
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -23
+tahun 1915 -14
+
+tokenwithtagstemmed = lokal
+kata kunci = diri
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = demokratis
+tokenwithtagstemmed = ekonomis
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = haluan
+tokenwithtagstemmed = kooperatif
+tokenwithtagstemmed = ingat
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pesat
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = khawatir
+tokenwithtagstemmed = pihak
+tokenwithtagstemmed = gubernur
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = indenberg
+tokenwithtagstemmed = mohon
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = boleh
+tokenwithtagstemmed = diri
+posisi dalam passage = 30
+jarak dengan tiap kandidat jawaban:
+tahun 1914 3
+tahun 1915 12
+
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = tahun 1914
+tokenwithtagstemmed = diri
+posisi dalam passage = 34
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -1
+tahun 1915 8
+
+tokenwithtagstemmed = 56
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = lokal
+tokenwithtagstemmed = aku
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = tahun 1915
+tokenwithtagstemmed = diri
+posisi dalam passage = 43
+jarak dengan tiap kandidat jawaban:
+tahun 1914 -10
+tahun 1915 -1
+
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = csi
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = surabaya
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = kerjasama
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = lokal
+
+
+kecepatan tumbuhnya si bagaikan meteor dan meluas secara horizontal . si merupakan organisasi massa pertama di <LOCATION>indonesia .</LOCATION> antara <TIME>tahun 1917</TIME> sampai dengan <TIME>1920</TIME> sangat terasa pengaruhnya di dalam politik indonesia . untuk menyebarkan propaganda perjuangannya , sarekat islam menerbitkan surat kabar yang bernama utusan hindia . pada <TIME>tanggal 29 maret 1913</TIME> <PERSON>, para pemimpin</PERSON> si mengadakan pertemuan dengan gubernur jenderal idenburg untuk memperjuangkan si berbadan hukum .
+
+memproses passage 39
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+tahun 1917 | position = 12
+1920 | position = 13
+tanggal 29 maret 1913 | position = 30
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = cepat
+tokenwithtagstemmed = tumbuh
+tokenwithtagstemmed = si
+tokenwithtagstemmed = meteor
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = horizontal
+tokenwithtagstemmed = si
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = massa
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tahun 1917
+tokenwithtagstemmed = 1920
+tokenwithtagstemmed = asa
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = propaganda
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = sarekat
+posisi dalam passage = 22
+jarak dengan tiap kandidat jawaban:
+tahun 1917 -10
+1920 -9
+tanggal 29 maret 1913 8
+
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = terbit
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = kabar
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = utus
+tokenwithtagstemmed = hindia
+tokenwithtagstemmed = tanggal 29 maret 1913
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = si
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = gubernur
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = idenburg
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = si
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+kata kunci = islam
+tokenwithtagstemmed = cepat
+tokenwithtagstemmed = tumbuh
+tokenwithtagstemmed = si
+tokenwithtagstemmed = meteor
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = horizontal
+tokenwithtagstemmed = si
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = massa
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tahun 1917
+tokenwithtagstemmed = 1920
+tokenwithtagstemmed = asa
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = propaganda
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+posisi dalam passage = 23
+jarak dengan tiap kandidat jawaban:
+tahun 1917 -11
+1920 -10
+tanggal 29 maret 1913 7
+
+tokenwithtagstemmed = terbit
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = kabar
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = utus
+tokenwithtagstemmed = hindia
+tokenwithtagstemmed = tanggal 29 maret 1913
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = si
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = gubernur
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = idenburg
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = si
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+kata kunci = diri
+tokenwithtagstemmed = cepat
+tokenwithtagstemmed = tumbuh
+tokenwithtagstemmed = si
+tokenwithtagstemmed = meteor
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = horizontal
+tokenwithtagstemmed = si
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = massa
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tahun 1917
+tokenwithtagstemmed = 1920
+tokenwithtagstemmed = asa
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = propaganda
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = terbit
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = kabar
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = utus
+tokenwithtagstemmed = hindia
+tokenwithtagstemmed = tanggal 29 maret 1913
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = si
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = gubernur
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = idenburg
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = si
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = hukum
+
+
+mereka melihat muhammadiyah begitu terbuka terhadap kebudayaan barat sehingga khawatir kemurnian islam akan dirusakkan . oleh karena itu <PERSON>para ulama</PERSON> mendirikan nahdlatul ulama pada <TIME>tahun 1926</TIME> . gerakan nu dipelopori oleh k.h. hasyim asy’ari . gerakan muhammadiyah banyak mendapat simpati termasuk <PERSON>pemerintah kolonial belanda</PERSON> karena perjuangannya tidak bersifat konfrontatif ( menentang ) . dalam kongres muhammadiyah yang berlangsung dari <TIME>tanggal 12 - 17 maret 1925</TIME> di <LOCATION>yogyakarta ,</LOCATION> diperbincangkan masalah-masalah yang berkaitan dengan pengajaran islam , mass media islam , dan buku-buku tentang islam yang berbahasa jawa .
+
+memproses passage 93
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+tahun 1926 | position = 13
+tanggal 12 17 maret 1925 | position = 33
+
+
+melakukan pencarian:
+kata kunci = sarekat
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = buka
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = khawatir
+tokenwithtagstemmed = murni
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = rusak
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = nahdlatul
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = tahun 1926
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nu
+tokenwithtagstemmed = lopor
+tokenwithtagstemmed = k.h
+tokenwithtagstemmed = hasyim
+tokenwithtagstemmed = asy’ari
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = simpati
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = perintah kolonial belanda
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = konfrontatif
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = tanggal 12 17 maret 1925
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = bincang
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = kait
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = mass
+tokenwithtagstemmed = media
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = jawa
+kata kunci = islam
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = buka
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = khawatir
+tokenwithtagstemmed = murni
+tokenwithtagstemmed = islam
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1926 6
+tanggal 12 17 maret 1925 26
+
+tokenwithtagstemmed = rusak
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = nahdlatul
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = tahun 1926
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nu
+tokenwithtagstemmed = lopor
+tokenwithtagstemmed = k.h
+tokenwithtagstemmed = hasyim
+tokenwithtagstemmed = asy’ari
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = simpati
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = perintah kolonial belanda
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = konfrontatif
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = tanggal 12 17 maret 1925
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = bincang
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = kait
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = islam
+posisi dalam passage = 40
+jarak dengan tiap kandidat jawaban:
+tahun 1926 -27
+tanggal 12 17 maret 1925 -7
+
+tokenwithtagstemmed = mass
+tokenwithtagstemmed = media
+tokenwithtagstemmed = islam
+posisi dalam passage = 43
+jarak dengan tiap kandidat jawaban:
+tahun 1926 -30
+tanggal 12 17 maret 1925 -10
+
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = islam
+posisi dalam passage = 46
+jarak dengan tiap kandidat jawaban:
+tahun 1926 -33
+tanggal 12 17 maret 1925 -13
+
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = jawa
+kata kunci = diri
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = buka
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = khawatir
+tokenwithtagstemmed = murni
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = rusak
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = diri
+posisi dalam passage = 10
+jarak dengan tiap kandidat jawaban:
+tahun 1926 3
+tanggal 12 17 maret 1925 23
+
+tokenwithtagstemmed = nahdlatul
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = tahun 1926
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nu
+tokenwithtagstemmed = lopor
+tokenwithtagstemmed = k.h
+tokenwithtagstemmed = hasyim
+tokenwithtagstemmed = asy’ari
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = simpati
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = perintah kolonial belanda
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = konfrontatif
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = muhammadiyah
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = tanggal 12 17 maret 1925
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = bincang
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = kait
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = mass
+tokenwithtagstemmed = media
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = jawa
+
+Pengurutan kandidat jawaban
+this.answer = tahun 1911
+passage rank = 3
+distance = 2
+doc rank = 1
+total Score = 6
+frequency = 1
+order process = 15
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1926
+passage rank = 10
+distance = 3
+doc rank = 1
+total Score = 14
+frequency = 1
+order process = 66
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1911
+passage rank = 5
+distance = 3
+doc rank = 3
+total Score = 11
+frequency = 1
+order process = 20
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 6
+distance = 3
+doc rank = 3
+total Score = 12
+frequency = 1
+order process = 37
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1911
+passage rank = 7
+distance = 3
+doc rank = 4
+total Score = 14
+frequency = 1
+order process = 42
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 8
+distance = 3
+doc rank = 4
+total Score = 15
+frequency = 1
+order process = 59
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1911
+passage rank = 3
+distance = 4
+doc rank = 1
+total Score = 8
+frequency = 1
+order process = 12
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 5
+doc rank = 3
+total Score = 14
+frequency = 1
+order process = 36
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 5
+doc rank = 4
+total Score = 17
+frequency = 1
+order process = 58
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = 1920 1930
+passage rank = 2
+distance = 6
+doc rank = 1
+total Score = 9
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1926
+passage rank = 10
+distance = 6
+doc rank = 1
+total Score = 17
+frequency = 1
+order process = 64
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 6
+doc rank = 3
+total Score = 15
+frequency = 1
+order process = 27
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 6
+doc rank = 4
+total Score = 18
+frequency = 1
+order process = 49
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = 1908 1942
+passage rank = 1
+distance = 7
+doc rank = 1
+total Score = 9
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = 1920 1930
+passage rank = 2
+distance = 7
+doc rank = 1
+total Score = 10
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tanggal 29 maret 1913
+passage rank = 9
+distance = 7
+doc rank = 1
+total Score = 17
+frequency = 1
+order process = 63
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1911
+passage rank = 5
+distance = 7
+doc rank = 3
+total Score = 15
+frequency = 1
+order process = 19
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1911
+passage rank = 7
+distance = 7
+doc rank = 4
+total Score = 18
+frequency = 1
+order process = 41
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1911
+passage rank = 3
+distance = 8
+doc rank = 1
+total Score = 12
+frequency = 1
+order process = 14
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tanggal 29 maret 1913
+passage rank = 9
+distance = 8
+doc rank = 1
+total Score = 18
+frequency = 1
+order process = 62
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1911
+passage rank = 5
+distance = 8
+doc rank = 3
+total Score = 16
+frequency = 1
+order process = 18
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 8
+doc rank = 3
+total Score = 17
+frequency = 1
+order process = 39
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1911
+passage rank = 7
+distance = 8
+doc rank = 4
+total Score = 19
+frequency = 1
+order process = 40
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 8
+doc rank = 4
+total Score = 20
+frequency = 1
+order process = 61
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1911
+passage rank = 3
+distance = 9
+doc rank = 1
+total Score = 13
+frequency = 1
+order process = 11
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1914
+passage rank = 6
+distance = 10
+doc rank = 3
+total Score = 19
+frequency = 1
+order process = 34
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 8
+distance = 10
+doc rank = 4
+total Score = 22
+frequency = 1
+order process = 56
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = 1920 1930
+passage rank = 2
+distance = 11
+doc rank = 1
+total Score = 14
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1914
+passage rank = 6
+distance = 11
+doc rank = 3
+total Score = 20
+frequency = 1
+order process = 25
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 8
+distance = 11
+doc rank = 4
+total Score = 23
+frequency = 1
+order process = 47
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1911
+passage rank = 3
+distance = 12
+doc rank = 1
+total Score = 16
+frequency = 1
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 12
+doc rank = 3
+total Score = 21
+frequency = 1
+order process = 38
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 12
+doc rank = 4
+total Score = 24
+frequency = 1
+order process = 60
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1911
+passage rank = 3
+distance = 13
+doc rank = 1
+total Score = 17
+frequency = 1
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tanggal 18 september 1912
+passage rank = 4
+distance = 14
+doc rank = 1
+total Score = 19
+frequency = 1
+order process = 16
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = 1908 1920
+passage rank = 1
+distance = 15
+doc rank = 1
+total Score = 17
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = 1930 1942
+passage rank = 2
+distance = 17
+doc rank = 1
+total Score = 20
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 19
+doc rank = 3
+total Score = 28
+frequency = 1
+order process = 35
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 19
+doc rank = 4
+total Score = 31
+frequency = 1
+order process = 57
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 20
+doc rank = 3
+total Score = 29
+frequency = 1
+order process = 26
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 6
+distance = 20
+doc rank = 3
+total Score = 29
+frequency = 1
+order process = 32
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 20
+doc rank = 4
+total Score = 32
+frequency = 1
+order process = 48
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 8
+distance = 20
+doc rank = 4
+total Score = 32
+frequency = 1
+order process = 54
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 6
+distance = 21
+doc rank = 3
+total Score = 30
+frequency = 1
+order process = 23
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 8
+distance = 21
+doc rank = 4
+total Score = 33
+frequency = 1
+order process = 45
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tanggal 12 17 maret 1925
+passage rank = 10
+distance = 23
+doc rank = 1
+total Score = 34
+frequency = 1
+order process = 67
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = 1930 1942
+passage rank = 2
+distance = 24
+doc rank = 1
+total Score = 27
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = 1930 1942
+passage rank = 2
+distance = 25
+doc rank = 1
+total Score = 28
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tanggal 12 17 maret 1925
+passage rank = 10
+distance = 26
+doc rank = 1
+total Score = 37
+frequency = 1
+order process = 65
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1914
+passage rank = 6
+distance = 26
+doc rank = 3
+total Score = 35
+frequency = 1
+order process = 30
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 8
+distance = 26
+doc rank = 4
+total Score = 38
+frequency = 1
+order process = 52
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = 1930 1942
+passage rank = 2
+distance = 29
+doc rank = 1
+total Score = 32
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 29
+doc rank = 3
+total Score = 38
+frequency = 1
+order process = 33
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 29
+doc rank = 4
+total Score = 41
+frequency = 1
+order process = 55
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 30
+doc rank = 3
+total Score = 39
+frequency = 1
+order process = 24
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 30
+doc rank = 4
+total Score = 42
+frequency = 1
+order process = 46
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 6
+distance = 32
+doc rank = 3
+total Score = 41
+frequency = 1
+order process = 28
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 8
+distance = 32
+doc rank = 4
+total Score = 44
+frequency = 1
+order process = 50
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tanggal 18 september 1912
+passage rank = 4
+distance = 33
+doc rank = 1
+total Score = 38
+frequency = 1
+order process = 17
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+
+this.answer = tahun 1914
+passage rank = 6
+distance = 33
+doc rank = 3
+total Score = 42
+frequency = 1
+order process = 21
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1914
+passage rank = 8
+distance = 33
+doc rank = 4
+total Score = 45
+frequency = 1
+order process = 43
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 35
+doc rank = 3
+total Score = 44
+frequency = 1
+order process = 31
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 35
+doc rank = 4
+total Score = 47
+frequency = 1
+order process = 53
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 41
+doc rank = 3
+total Score = 50
+frequency = 1
+order process = 29
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 41
+doc rank = 4
+total Score = 53
+frequency = 1
+order process = 51
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 6
+distance = 42
+doc rank = 3
+total Score = 51
+frequency = 1
+order process = 22
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = tahun 1915
+passage rank = 8
+distance = 42
+doc rank = 4
+total Score = 54
+frequency = 1
+order process = 44
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+
+
+selesai

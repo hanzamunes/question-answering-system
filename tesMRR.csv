@@ -1,0 +1,15 @@
+urutan,pertanyaan,jawaban,verdict
+1,siapa presiden pertama indonesia,presiden soeharto,WA
+2,siapa presiden pertama indonesia,presiden habibie,WA
+3,siapa presiden pertama indonesia,presiden soekarno,AC
+4,siapa presiden pertama indonesia,presiden mohammad hatta,WA
+5,kapan rengasdengklok terjadi,1945,WA
+6,kapan rengasdengklok terjadi,1997,WA
+7,kapan rengasdengklok terjadi,18 agustus 1945,WA
+8,kapan rengasdengklok terjadi,14 agustus ,AC
+9,kapan rengasdengklok terjadi,14 agustus 1945,AC
+10,dimana taman siswa didirikan,yogyakarta,AC
+11,dimana taman siswa didirikan,jogjakarta,AC
+12,dimana taman siswa didirikan,jakarta,WA
+13,dimana taman siswa didirikan,batavia,WA
+14,dimana taman siswa didirikan,betawi,WA

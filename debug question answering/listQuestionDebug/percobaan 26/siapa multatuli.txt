@@ -1,0 +1,973 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok260.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok225.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok192.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok128.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok57.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok168.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok195.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok104.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok33.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok22.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok93.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok92.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok290.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok12.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok83.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok245.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok125.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok221.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok54.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok226.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok320.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok321.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok174.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok345.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok110.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok39.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok312.txt
+
+
+query token : 
+multatuli 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
+title : upaya mempersiapkan kemerdekaan indonesia
+passage 1 score = 7.5
+sentence 1: upaya mempersiapkan kemerdekaan indonesia - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada 1 maret 1945 jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) .
+sentence 2: badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka .
+sentence 3: anggota dari bupki terdiri atas 60 orang tokoh bangsa indonesia dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh krt radjiman widyodiningrat dan wakil ketua r. surono dan seorang lagi orang jepang .
+sentence 4: bpupki diresmikan pada tanggal 29 mei 1945 .
+sentence 5: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
+passage 2 score = 7.5
+sentence 1: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
+sentence 2: tokoh-tokoh yang mengusulkan dasar negara ini , yakni : mr. muh .
+sentence 3: yamin pada sidang tanggal 29 mei 1945 , mr. muh .
+sentence 4: yamin mengajukan lima rancangan dasar negara indonesia , yakni : peri kebangsaan peri kemanusiaan peri ketuhanan peri kerakyatan kesejahteraan rakyat prof. dr. supomo pada sidang tanggal 31 mei 1945 , prof. dr. supomo mengajukan lima rancangan dasar negara , yakni : persatuan kekeluargaan mufakat dan demokrasi musyawarah keadilan sosial ir .
+sentence 5: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
+passage 4 score = 7.5
+sentence 1: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
+sentence 2: panitia sembilan ini menghasilkan dokumen yang berisi asas dan tujuan indonesia merdeka .
+sentence 3: dokumen ini lebih dikenal dengan nama piagam djakarta , yang isinya sebagai berikut : ketuhanan dengan berkewajiban menjalankan syariat-syariat islam bagi para pemeluknya .
+sentence 4: kemanusian yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan atau perwakilan keadilan sosial bagi seluruh rakyat indonesia .
+sentence 5: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
+passage 3 score = 7.0
+sentence 1: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
+sentence 2: namun pada tanggal 22 juni 1945 , sembilan orang anggota yaitu ir .
+sentence 3: soekarno , drs. moch .
+sentence 4: hatta , mr. muh .
+sentence 5: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
+passage 6 score = 7.0
+sentence 1: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
+sentence 2: landasan dasar internasional piagam atlantik ( 14 agustus 1941 ) yang ditanda tangani oleh franklin delano roosevelt ( presiden as ) dengan winston churchill ( pm inggris ) .
+sentence 3: yang berisi : tidak boleh ada perluasan daerah tampa persetujuan dari penduduk asli .
+sentence 4: setiap bangsa berhak menentukan dan menetapkan bentuk pemerintahannya sendiri .
+sentence 5: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
+title : pengertian dan sejarah tanam paksa (cultuurstelsel )
+passage 14 score = 8.5
+sentence 1: 3 ) eduard douwes dekker ia adalah seorang pejabat belanda yang pernah menjadi asisten residen lebak ( banten ) .
+sentence 2: ia cinta kepada penduduk pribumi , khususnya yang menderita akibat tanam paksa .
+sentence 3: dengan nama samaran multatuli yang berarti " aku telah banyak menderita " , ditulisnya buku max havelaar atau lelang kopi persekutuan dagang belanda ( 1859 ) yang menggambarkan penderitaan rakyat akibat tanam paksa dalam kisah saijah dan adinda .
+sentence 4: akibat adanya reaksi tersebut , pemerintah belanda secara berangsur-angsur menghapuskan sistem tanam paksa .
+sentence 5: nila , teh , kayu manis dihapuskan pada tahun 1865 , tembakau tahun 1866 , kemudian menyusul tebu tahun 1884 .
+passage 1 score = 7.5
+sentence 1: #sejarah _ kelas_11 pengertian dan sejarah tanam paksa ( cultuurstelsel ) a. latar belakang timbulnya sistem tanam paksa tanam paksa atau cultuurstelsel merupakan sistem yang bertujuan dan bermanfaat bagi belanda , tanam paksa adalah peraturan mempekerjakan seseorang dengan paksa tanpa diberi gaji dan tanpa istirahat , sehingga sangat merugikan pekerja dan menyengsarakan .
+sentence 2: sistem tanam paksa telah menjadi sejarah bagi rakyat indonesia .
+sentence 3: sejak awal abad ke-19 , pemerintah belanda mengeluarkan biaya yang sangat besar untuk membiayai peperangan , baik di negeri belanda sendiri ( pemberontakan belgia ) maupun di indonesia ( terutama perlawanan diponegoro ) sehingga negeri belanda harus menanggung hutang yang sangat besar .
+sentence 4: untuk menyelamatkan negeri belanda dari bahaya kebrangkrutan maka johanes van den bosch diangkat sebagai gubernur jenderal di indonesia dengan tugas pokok menggali dana semaksimal mungkin untuk mengisi kekosongan kas negara , membayar hutang , dan membiayai perang .
+sentence 5: untuk melaksanakan tugas yang sangat berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
+passage 2 score = 7.5
+sentence 1: untuk melaksanakan tugas yang sangat berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
+sentence 2: oleh karena itu , yang perlu dilakukan ialah mengerahkan tenaga rakyat jajahan untuk melakukan penanaman tanaman yang hasil-hasilnya dapat laku di pasaran dunia secara paksa .
+sentence 3: setelah tiba di indonesia ( 1830 ) van den bosch menyusun program sebagai berikut .
+sentence 4: 1 ) sistem sewa tanah dengan uang harus dihapus karena pemasukannya tidak banyak dan pelaksanaannya sulit .
+sentence 5: 2 ) sistem tanam bebas harus diganti dengan tanam wajib dengan jenis-jenis tanaman yang sudah ditentukan oleh pemerintah .
+passage 3 score = 7.5
+sentence 1: 2 ) sistem tanam bebas harus diganti dengan tanam wajib dengan jenis-jenis tanaman yang sudah ditentukan oleh pemerintah .
+sentence 2: 3 ) pajak atas tanah harus dibayar dengan penyerahan sebagian dari hasil tanamannya kepada pemerintah belanda .
+sentence 3: b. aturan-aturan tanam paksa sistem tanam paksa yang diajukan oleh van den bosch pada dasarnya merupakan gabungan dari sistem tanam wajib ( voc ) dan sistem pajak tanah ( raffles ) dengan ketentuan-ketentuan sebagai berikut .
+sentence 4: 1 ) penduduk desa yang punya tanah diminta menyediakan seperlima dari tanahnya untuk ditanami tanaman yang laku di pasaran dunia .
+sentence 5: 2 ) tanah yang disediakan bebas dari pajak .
+passage 4 score = 7.5
+sentence 1: 2 ) tanah yang disediakan bebas dari pajak .
+sentence 2: 3 ) hasil tanaman itu harus diserahkan kepada pemerintah belanda .
+sentence 3: apabila harganya melebihi pembayaran pajak maka kelebihannya akan dikembalikan kepada petani .
+sentence 4: 4 ) waktu untuk menanam tidak boleh melebihi waktu untuk menanam padi .
+sentence 5: 5 ) kegagalan panenan menjadi tanggung jawab pemerintah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
+title : pengertian dan sejarah tanam paksa (cultuurstelsel )
+passage 14 score = 8.5
+sentence 1: 3 ) eduard douwes dekker ia adalah seorang pejabat belanda yang pernah menjadi asisten residen lebak ( banten ) .
+sentence 2: ia cinta kepada penduduk pribumi , khususnya yang menderita akibat tanam paksa .
+sentence 3: dengan nama samaran multatuli yang berarti " aku telah banyak menderita " , ditulisnya buku max havelaar atau lelang kopi persekutuan dagang belanda ( 1859 ) yang menggambarkan penderitaan rakyat akibat tanam paksa dalam kisah saijah dan adinda .
+sentence 4: akibat adanya reaksi tersebut , pemerintah belanda secara berangsur-angsur menghapuskan sistem tanam paksa .
+sentence 5: nila , teh , kayu manis dihapuskan pada tahun 1865 , tembakau tahun 1866 , kemudian menyusul tebu tahun 1884 .
+passage 1 score = 7.5
+sentence 1: #sejarah _ kelas_11 pengertian dan sejarah tanam paksa ( cultuurstelsel ) a. latar belakang timbulnya sistem tanam paksa tanam paksa atau cultuurstelsel merupakan sistem yang bertujuan dan bermanfaat bagi belanda , tanam paksa adalah peraturan mempekerjakan seseorang dengan paksa tanpa diberi gaji dan tanpa istirahat , sehingga sangat merugikan pekerja dan menyengsarakan .
+sentence 2: sistem tanam paksa telah menjadi sejarah bagi rakyat indonesia .
+sentence 3: sejak awal abad ke-19 , pemerintah belanda mengeluarkan biaya yang sangat besar untuk membiayai peperangan , baik di negeri belanda sendiri ( pemberontakan belgia ) maupun di indonesia ( terutama perlawanan diponegoro ) sehingga negeri belanda harus menanggung hutang yang sangat besar .
+sentence 4: untuk menyelamatkan negeri belanda dari bahaya kebrangkrutan maka johanes van den bosch diangkat sebagai gubernur jenderal di indonesia dengan tugas pokok menggali dana semaksimal mungkin untuk mengisi kekosongan kas negara , membayar hutang , dan membiayai perang .
+sentence 5: untuk melaksanakan tugas yang sangat berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
+passage 2 score = 7.5
+sentence 1: untuk melaksanakan tugas yang sangat berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
+sentence 2: oleh karena itu , yang perlu dilakukan ialah mengerahkan tenaga rakyat jajahan untuk melakukan penanaman tanaman yang hasil-hasilnya dapat laku di pasaran dunia secara paksa .
+sentence 3: setelah tiba di indonesia ( 1830 ) van den bosch menyusun program sebagai berikut .
+sentence 4: 1 ) sistem sewa tanah dengan uang harus dihapus karena pemasukannya tidak banyak dan pelaksanaannya sulit .
+sentence 5: 2 ) sistem tanam bebas harus diganti dengan tanam wajib dengan jenis-jenis tanaman yang sudah ditentukan oleh pemerintah .
+passage 3 score = 7.5
+sentence 1: 2 ) sistem tanam bebas harus diganti dengan tanam wajib dengan jenis-jenis tanaman yang sudah ditentukan oleh pemerintah .
+sentence 2: 3 ) pajak atas tanah harus dibayar dengan penyerahan sebagian dari hasil tanamannya kepada pemerintah belanda .
+sentence 3: b. aturan-aturan tanam paksa sistem tanam paksa yang diajukan oleh van den bosch pada dasarnya merupakan gabungan dari sistem tanam wajib ( voc ) dan sistem pajak tanah ( raffles ) dengan ketentuan-ketentuan sebagai berikut .
+sentence 4: 1 ) penduduk desa yang punya tanah diminta menyediakan seperlima dari tanahnya untuk ditanami tanaman yang laku di pasaran dunia .
+sentence 5: 2 ) tanah yang disediakan bebas dari pajak .
+passage 4 score = 7.5
+sentence 1: 2 ) tanah yang disediakan bebas dari pajak .
+sentence 2: 3 ) hasil tanaman itu harus diserahkan kepada pemerintah belanda .
+sentence 3: apabila harganya melebihi pembayaran pajak maka kelebihannya akan dikembalikan kepada petani .
+sentence 4: 4 ) waktu untuk menanam tidak boleh melebihi waktu untuk menanam padi .
+sentence 5: 5 ) kegagalan panenan menjadi tanggung jawab pemerintah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+title : perubahan ekonomi & demografi di berbagai daerah pada masa kolonial
+passage 9 score = 8.5
+sentence 1: pada perkembangan selanjutnya , tepatnya setelah tahun 1850 , rakyat dan pemerintahan di negeri belanda mulai mengetahui keadaan yang sebenarnya akibat pelaksanaan sistem tanam paksa di pulau jawa .
+sentence 2: berbagai reaksi muncul dalam menanggapi masalah tersebut , terutama dari golongan humanis dan kaum liberal .
+sentence 3: meskipun kedua kelompok ini memiliki tujuan berbeda , tetapi mereka secara gencar melakukan kritik dan kecaman pedas terhadap pemerintah belanda .
+sentence 4: golongan humanis merupakan suatu kelompok yang peduli dan memperhatikan masalah kemanusiaan mengkritik dan mengecam pemerintah belanda melalui berbagai tulisan .
+sentence 5: beberapa tulisan mengenai pelaksanaan sistem tanam paksa mulai terdengar , umpamanya yang ditulis oleh e. douwes dekker atau multatuli yang berjudul max havelar .
+passage 10 score = 8.5
+sentence 1: beberapa tulisan mengenai pelaksanaan sistem tanam paksa mulai terdengar , umpamanya yang ditulis oleh e. douwes dekker atau multatuli yang berjudul max havelar .
+sentence 2: buku ini memuat tulisan-tulisan yang isinya mampu menggoncangkan dan mengetuk hati nurani rakyat belanda terhadap nasib yang dialami oleh rakyat indonesia di pulau jawa .
+sentence 3: sementara itu , kaum liberal pun terus menyerang pemerintah dengan berbagai argumennya mengenai akibat pelaksanaan system tanam paksa dengan tujuan untuk membuka peluang penanaman modal asing di indonesia .
+sentence 4: pergolakan di parlemen belanda antara tahun 1850 dan 1860 yang memperdebatkan masalah kegunaan sistem tanam paksa tidak bisa dihindarkan lagi .
+sentence 5: kondisi demikian semakin diperuncing dengan munculnya paham liberalism yang mulai masuk ke eropa termasuk belanda pada pertengahan abad ke 19 .
+passage 1 score = 7.5
+sentence 1: perubahan ekonomi & demografi di berbagai daerah pada masa kolonial - kesengsaraan dan penderitaan bangsa indonesia pada masa penjajahan belanda , tidak bisa dilepaskan dari situasi politik yang terjadi di dunia saat itu .
+sentence 2: adanya persaingan negara-negara eropa yang berujung pada peperangan , ternyata banyak membawa pengaruh kepada daerah-daerah jajahan , termasuk indonesia .
+sentence 3: menjelang tahun 1830 , pemerintahan di negeri belanda mengalami krisis yang sangat parah dalam bidang ekonomi dan keuangan .
+sentence 4: sementara itu , kebutuhan di negeri belanda semakin mendesak untuk segera diatasi .
+sentence 5: untuk mengatasi persoalan tersebut , pemerintah di negeri belanda mengeluarkan berbagai kebijakan yang bertujuan untuk membangun kembali kondisi perekonomian dan keuangan negara yang stabil .
+passage 2 score = 7.5
+sentence 1: untuk mengatasi persoalan tersebut , pemerintah di negeri belanda mengeluarkan berbagai kebijakan yang bertujuan untuk membangun kembali kondisi perekonomian dan keuangan negara yang stabil .
+sentence 2: segala kebijakan yang dikeluarkan tersebut , baik secara langsung maupun tidak langsung pada akhirnya bermuara pada daerah jajahannya , khususnya di indonesia .
+sentence 3: pada tahun 1830 pemerintah belanda mengangkat johannes van den bosch sebagai gubernur jenderal yang baru di indonesia dengan tugas utama meningkatkan produksi tanaman ekspor .
+sentence 4: pemerintah belanda membebankan van den bosch dengan tugas yang cukup berat , yaitu membangun kembali perekonomian dan mengatasi krisis keuangan di negeri belanda melalui pemanfaatan sumber daya alam dan sumber daya manusia yang tersedia di indonesia .
+sentence 5: untuk menjalankan tugasnya , johannes van den bosch menerapkan gagasannya melalui pelaksanakan sistem tanam paksa ( cultuurstelsel ) .
+passage 3 score = 7.5
+sentence 1: untuk menjalankan tugasnya , johannes van den bosch menerapkan gagasannya melalui pelaksanakan sistem tanam paksa ( cultuurstelsel ) .
+sentence 2: dengan berbagai peraturan yang ditetapkannya dalam sistem tanam paksa , semua kegiatan dikonsentrasikan usaha untuk meningkatkan produksi tanaman ekspor .
+sentence 3: rakyat diharuskan untuk membayar pajak kepada pemerintah dalam bentuk barang , yaitu hasil-hasil pertanian dan bukan dalam bentuk uang .
+sentence 4: pemerintahan hindia belanda berharap dengan pungutan-pungutan pajak dalam bentuk barang dagang ini adalah tanaman dagang yang bisa diperoleh dalam jumlah yang besar .
+sentence 5: barang yang terkumpulkan nantinya akan dikirimkan ke negeri belanda dan selanjutnya dijual ke seluruh eropa dengan keuntungan yang luar biasa besarnya bagi pemerintah belanda .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
+title : pengertian orde baru dan lahirnya surat perintah 11 maret 1966
+passage 2 score = 7.5
+sentence 1: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
+sentence 2: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+sentence 3: pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+sentence 4: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+sentence 5: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+passage 3 score = 7.5
+sentence 1: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+sentence 2: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
+sentence 3: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
+sentence 4: tiga orang perwira tinggi yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud menghadap letnan jenderal soeharto selaku menteri panglima angkatan darat dan panglima komando operasi pemulihan keamanan dan ketertiban ( pangkopkamtib ) untuk minta izin akan menghadap presiden .
+sentence 5: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
+passage 4 score = 7.5
+sentence 1: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
+sentence 2: di istana bogor presiden soekarno didampingi dr subandrio , dr j. laimena , dan chaerul saleh serta ketiga perwira tinggi tersebut melaporkan situasi di ibukota jakarta .
+sentence 3: mereka juga memohon agar presiden soekarno mengambil tindakan untuk mengatasi keadaan .
+sentence 4: kemudian presiden mengeluarkan surat perintah yang ditujukan kepada letnan jenderal soeharto selaku menteri panglima angkatan darat untuk mengambil tindakan menjamin keamanan , ketenangan , dan kestabilan jalannya pemerintahan demi keutuhan bangsa dan negara republik indonesia .
+sentence 5: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
+passage 5 score = 7.0
+sentence 1: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
+sentence 2: surat itulah yang kemudian dikenal sebagai surat perintah 11 maret 1966 atau supersemar .
+sentence 3: [ ps ]
+passage 1 score = 2.0
+sentence 1: pengertian orde baru dan lahirnya surat perintah 11 maret 1966 – pada kesempatan ini admin pengertian sejarah akan berbagi informasi mengenai pengertian orde baru dan lahirnya surat perintah 11 maret 1966 .
+sentence 2: berikut penjelasan lengkap tentang pengertian orde baru dan lahirnya surat perintah 11 maret 1966 .
+sentence 3: orde baru adalah suatu tatanan seluruh perikehidupan rakyat , bangsa dan negara yang diletakkan kembali kepada pelaksanaan pancasila dan uud 1945 secara murni dan konsekuen .
+sentence 4: dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap dan tekad untuk mengabdi pada kepentingan rakyat dan nasional dengan dilandasi oleh semangat dan jiwa pancasila serta uud 1945 .
+sentence 5: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
+title : sejarah agresi militer belanda i
+passage 5 score = 6.5
+sentence 1: australia serta india bereaksi keras dengan mendesak dewan keamanan pbb supaya segera mengulas persoalan indonesia .
+sentence 2: 1 .
+sentence 3: australia ( tunjukan indonesia ) , diwakili oleh richard kirby .
+sentence 4: 2 .
+sentence 5: belgia ( tunjukan belanda ) , diwakili oleh paul van zeeland 3 .
+passage 3 score = 6.0
+sentence 1: serangan belanda dimulai tanggal 21 juli 1947 dengan target kota-kota besar di pulau jawa serta sumatera .
+sentence 2: menghadapi militer belanda yang bersenjata lengkap serta modern menyebabakan satuan-satuan tentara indonesia terdesak ke luar kota .
+sentence 3: selanjutnya , tni serta lascar rakyat meperbuat serangan balasan serta strategi perang gerilya .
+sentence 4: adanya penyerangan militer belanda i memunculkan simpati serta reaksi keras dari dunia internasional .
+sentence 5: bentuk simpati dunia internasional ditujukan dengan perbuatan sebagai berikut : 1 .
+passage 4 score = 6.0
+sentence 1: bentuk simpati dunia internasional ditujukan dengan perbuatan sebagai berikut : 1 .
+sentence 2: palang merah malaya ( malaysia ) serta india mengirimkan bantuan obat-obatan yang diangkut oleh pesawat dakota dari singapura .
+sentence 3: tetapi , ketika bakal mendarat di yogyakarta pesawat itu ditembaki jatuh oleh tentara belanda .
+sentence 4: 2 .
+sentence 5: australia serta india bereaksi keras dengan mendesak dewan keamanan pbb supaya segera mengulas persoalan indonesia .
+passage 6 score = 6.0
+sentence 1: belgia ( tunjukan belanda ) , diwakili oleh paul van zeeland 3 .
+sentence 2: amerika serikat ( tunjukan australia serta belgia ) , diwakili dr. frank graham .
+sentence 3: [ ps ]
+passage 1 score = 1.0
+sentence 1: sejarah agresi militer belanda i – perundingan linggarjati bagi belanda hanya dijadikan alat untuk mendatangkan pasukan yang lebih tak sedikit dari negerinya .
+sentence 2: untuk mendapatkan dalil guna menyerang republik indonesia mereka mengajukan tuntutan sebagai berikut : 1 .
+sentence 3: supaya dibetuk pemerintahan federal sementara yang bakal berkuasa di seluruh indonesia samapai pembentukan republik indonesia serikat .
+sentence 4: faktor ini berarti republik indonesia ditiadakan .
+sentence 5: 2 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok260.txt
+title : agresi militer belanda i
+passage 3 score = 6.5
+sentence 1: selanjutnya , tni serta lascar rakyat meperbuat serangan balasan serta strategi perang gerilya .
+sentence 2: adanya penyerangan militer belanda i memunculkan simpati serta reaksi keras dari dunia internasional .
+sentence 3: bentuk simpati dunia internasional ditujukan dengan perbuatan sebagai berikut : palang merah malaya ( malaysia ) serta india mengirimkan bantuan obat-obatan yang diangkut oleh pesawat dakota dari singapura .
+sentence 4: tetapi , ketika bakal mendarat di yogyakarta pesawat itu ditembaki jatuh oleh tentara belanda .
+sentence 5: australia serta india bereaksi keras dengan mendesak dewan keamanan pbb supaya segera mengulas persoalan indonesia .
+passage 5 score = 6.5
+sentence 1: berkah perjuangan diplomasi di forum pbb , tak sedikit negara yang mendukung perjuangan bangsa indonesia serta menolong mencari jalan penyelesaian dengan cara damai .
+sentence 2: dalam upaya penyelesaian sengketa antara indonesia serta belanda dengan cara damai serta mengawasi gencatan senjata yang sudah disepakati bersama maka dewan keamanan pbb membentuk komisi tiga negara ( ktn ) .
+sentence 3: negara yang duduk dalam ktn merupakan hasil tunjukan republik indonesia , belanda serta suatu negara lagi yang bersifat netral negara tersebut merupakan : australia ( tunjukan indonesia ) , diwakili oleh richard kirby .
+sentence 4: belgia ( tunjukan belanda ) , diwakili oleh paul van zeeland amerika serikat ( tunjukan australia serta belgia ) , diwakili dr. frank graham .
+sentence 5: [ gs ]
+passage 2 score = 6.0
+sentence 1: republik indonesia menolak usul itu sebab berarti menghancurkan dia sendiri .
+sentence 2: penolakan itu menyebabakan belanda meperbuat penyerangan militer kepada wilayah republik indonesia .
+sentence 3: serangan belanda dimulai tanggal 21 juli 1947 dengan target kota-kota besar di pulau jawa serta sumatera .
+sentence 4: menghadapi militer belanda yang bersenjata lengkap serta modern menyebabakan satuan-satuan tentara indonesia terdesak ke luar kota .
+sentence 5: selanjutnya , tni serta lascar rakyat meperbuat serangan balasan serta strategi perang gerilya .
+passage 4 score = 6.0
+sentence 1: australia serta india bereaksi keras dengan mendesak dewan keamanan pbb supaya segera mengulas persoalan indonesia .
+sentence 2: pada tanggal 4 agustus 1947 pemerintah republic indonesia serta belanda memkabarhukan mulai berlakuknya gencatan senjata .
+sentence 3: sejak pemkabarhuan gencatan sebnjata tersebutlah , dengan cara resmi beresnya penyerangan milter belanda i. bakal tetapi , kenyataannya belanda tetap semakin membutuhas wilayahnya samapi dengan dibentuk garis demakrasi yang jauh ke depan ( garis van mook ) .
+sentence 4: indonesia menolak , dengan demikian gencatan senata yang diserukan oleh pbb belum berlakuk dengan cara manjur .
+sentence 5: berkah perjuangan diplomasi di forum pbb , tak sedikit negara yang mendukung perjuangan bangsa indonesia serta menolong mencari jalan penyelesaian dengan cara damai .
+passage 1 score = 1.0
+sentence 1: agresi militer belanda i - perundingan linggarjati bagi belanda hanya dijadikan alat untuk mendatangkan pasukan yang lebih tak sedikit dari negerinya .
+sentence 2: untuk mendapatkan dalil guna menyerang republik indonesia mereka mengajukan tuntutan sebagai berikut : supaya dibetuk pemerintahan federal sementara yang bakal berkuasa di seluruh indonesia samapai pembentukan republik indonesia serikat .
+sentence 3: faktor ini berarti republik indonesia ditiadakan .
+sentence 4: pembentukan gendermeri ( pasukan keamanan ) bersama yang bakal masuk ke daerah republik indonesia .
+sentence 5: republik indonesia menolak usul itu sebab berarti menghancurkan dia sendiri .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+title : pemerintahan orde baru
+passage 2 score = 6.5
+sentence 1: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+sentence 2: 2 .
+sentence 3: lahirnya surat perintah 11 maret 1966 pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+sentence 4: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+sentence 5: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada perkembangan masyarakat indonesia pada masa orde baru 3 waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+passage 3 score = 6.5
+sentence 1: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada perkembangan masyarakat indonesia pada masa orde baru 3 waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+sentence 2: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
+sentence 3: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
+sentence 4: tiga orang perwira tinggi yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud menghadap letnan jenderal soeharto selaku menteri panglima angkatan darat dan panglima komando operasi pemulihan keamanan dan ketertiban ( pangkopkamtib ) untuk minta izin akan menghadap presiden .
+sentence 5: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
+passage 4 score = 6.5
+sentence 1: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
+sentence 2: di istana bogor presiden soekarno didampingi dr subandrio , dr j. laimena , dan chaerul saleh serta ketiga perwira tinggi tersebut melaporkan situasi di ibukota jakarta .
+sentence 3: mereka juga memohon agar presiden soekarno mengambil tindakan untuk mengatasi keadaan .
+sentence 4: kemudian presiden mengeluarkan surat perintah yang ditujukan kepada letnan jenderal soeharto selaku menteri panglima angkatan darat untuk mengambil tindakan menjamin keamanan , ketenangan , dan kestabilan jalannya pemerintahan demi keutuhan bangsa dan negara republik indonesia .
+sentence 5: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
+passage 5 score = 6.5
+sentence 1: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
+sentence 2: surat itulah yang kemudian dikenal sebagai surat perintah 11 maret 1966 atau supersemar .
+sentence 3: 3 .
+sentence 4: tindak lanjut supersemar sebagai tindak lanjut keluarnya surat perintah 11 maret 1966 , letnan jenderal soeharto sebagai pengemban supersemar segera mengambil tindakan untuk menata kembali kehidupan bermasyarakat , berbangsa , dan bernegara sesuai dengan pancasila dan uud 1945 , yaitu sebagai berikut .
+sentence 5: tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
+passage 6 score = 6.5
+sentence 1: tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
+sentence 2: keputusan tersebut diperkuat dengan keputusan presiden/pangti abri/mandataris mprs no. 1/3/1966 tangal 12 maret 1966 .
+sentence 3: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
+sentence 4: tanggal 18 maret 1966 pengemban supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam g 30 s/pki dan diragukan etika baiknya yang dituangkan dalam keputusan presiden no. 5 tanggal 18 maret 1966 .
+sentence 5: tanggal 27 maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
+title : perkembangan dan budaya buddha
+passage 9 score = 6.0
+sentence 1: raja ashoka sadar dari kekeliruannya dan masuk agama buddha .
+sentence 2: bahkan , ia menjadi raja yang saleh dan menetapkan agama buddha sebagai agama negara .
+sentence 3: ia pun mengajarkan ahimsa , yaitu larangan membunuh dan melukai makhluk .
+sentence 4: berkat raja ini , agama buddha dapat disiarkan ke seluruh dunia .
+passage 1 score = 1.0
+sentence 1: perkembangan dan budaya buddha – ketika agama hindu mengalami kemunduran , muncullah agama buddha di india yang disiarkan oleh siddharta gautama .
+sentence 2: ajaran buddha ditulis dalam kitab suci tripitakayang berarti tiga keranjang atau tiga himpunan nikmat .
+sentence 3: isi kitab suci tripitaka sebagai berikut .
+sentence 4: 1 .
+sentence 5: suttapitaka , berisikan himpunan ajaran dan khotbah buddha .
+passage 2 score = 1.0
+sentence 1: suttapitaka , berisikan himpunan ajaran dan khotbah buddha .
+sentence 2: bagian terbesar adalah percakapan antara buddha dan beberapa orang muridnya .
+sentence 3: di dalamnya terdapat pula kitab meditasi dan peribadatan .
+sentence 4: 2 .
+sentence 5: winayapitaka , berisikan tata hidup setiap anggota biara ( sangha ) .
+passage 3 score = 1.0
+sentence 1: winayapitaka , berisikan tata hidup setiap anggota biara ( sangha ) .
+sentence 2: 3 .
+sentence 3: abhidharmapitaka , ditujukan bagi lapisan terpelajar dalam agama buddha sebab merupakan pelajaran lanjutan .
+sentence 4: ada empat tempat yang dianggap suci dalam agama buddha .
+sentence 5: 1 .
+passage 4 score = 1.0
+sentence 1: 1 .
+sentence 2: taman lumbini di kapilawastu , tempat lahirnya siddharta ( 563 sm ) .
+sentence 3: 2 .
+sentence 4: bodhgaya , tempat siddharta menerima wahyu buddha .
+sentence 5: 3 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+passage 3 score = 6.5
+sentence 1: lahirnya surat perintah 11 maret 1966 ( supersemar ) pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+sentence 2: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+sentence 3: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+sentence 4: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
+sentence 5: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
+passage 4 score = 6.5
+sentence 1: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
+sentence 2: tiga orang perwira tinggi yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud menghadap letnan jenderal soeharto selaku menteri panglima angkatan darat dan panglima komando operasi pemulihan keamanan dan ketertiban ( pangkopkamtib ) untuk minta izin akan menghadap presiden .
+sentence 3: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
+sentence 4: di istana bogor presiden soekarno didampingi dr subandrio , dr j. laimena , dan chaerul saleh serta ketiga perwira tinggi tersebut melaporkan situasi di ibukota jakarta .
+sentence 5: mereka juga memohon agar presiden soekarno mengambil tindakan untuk mengatasi keadaan .
+passage 5 score = 6.5
+sentence 1: mereka juga memohon agar presiden soekarno mengambil tindakan untuk mengatasi keadaan .
+sentence 2: kemudian presiden mengeluarkan surat perintah yang ditujukan kepada letnan jenderal soeharto selaku menteri panglima angkatan darat untuk mengambil tindakan menjamin keamanan , ketenangan , dan kestabilan jalannya pemerintahan demi keutuhan bangsa dan negara republik indonesia .
+sentence 3: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
+sentence 4: surat itulah yang kemudian dikenal sebagai surat perintah 11 maret 1966 atau supersemar .
+sentence 5: 3 .
+passage 6 score = 6.5
+sentence 1: 3 .
+sentence 2: tindak lanjut supersemar sebagai tindak lanjut keluarnya surat perintah 11 maret 1966 , letnan jenderal soeharto sebagai pengemban supersemar segera mengambil tindakan untuk menata kembali kehidupan bermasyarakat , berbangsa , dan bernegara sesuai dengan pancasila dan uud 1945 , yaitu sebagai berikut .
+sentence 3: a. tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
+sentence 4: keputusan tersebut diperkuat dengan keputusan presiden/pangti abri/mandataris mprs no. 1/3/1966 tangal 12 maret 1966 .
+sentence 5: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
+passage 7 score = 6.5
+sentence 1: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
+sentence 2: b. tanggal 18 maret 1966 pengemban supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam g 30 s/pki dan diragukan etika baiknya yang dituangkan dalam keputusan presiden no. 5 tanggal 18 maret 1966 .
+sentence 3: c. tanggal 27 maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
+sentence 4: tokoh-tokoh yang duduk di dalam kabinet ini adalah mereka yang jelas tidak terlibat dalam g 30 s/pki .
+sentence 5: d. membersihkan lembaga legislatif dimulai dari tokoh-tokoh pimpinan mprs dan dprgr yang diduga terlibat g 30 s/pki .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
+title : pengertian dan sejarah tanam paksa (cultuurstelsel )
+passage 14 score = 8.5
+sentence 1: 3 ) eduard douwes dekker ia adalah seorang pejabat belanda yang pernah menjadi asisten residen lebak ( banten ) .
+sentence 2: ia cinta kepada penduduk pribumi , khususnya yang menderita akibat tanam paksa .
+sentence 3: dengan nama samaran multatuli yang berarti " aku telah banyak menderita " , ditulisnya buku max havelaar atau lelang kopi persekutuan dagang belanda ( 1859 ) yang menggambarkan penderitaan rakyat akibat tanam paksa dalam kisah saijah dan adinda .
+sentence 4: akibat adanya reaksi tersebut , pemerintah belanda secara berangsur-angsur menghapuskan sistem tanam paksa .
+sentence 5: nila , teh , kayu manis dihapuskan pada tahun 1865 , tembakau tahun 1866 , kemudian menyusul tebu tahun 1884 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
+title : pengertian dan sejarah tanam paksa (cultuurstelsel )
+passage 14 score = 8.5
+sentence 1: 3 ) eduard douwes dekker ia adalah seorang pejabat belanda yang pernah menjadi asisten residen lebak ( banten ) .
+sentence 2: ia cinta kepada penduduk pribumi , khususnya yang menderita akibat tanam paksa .
+sentence 3: dengan nama samaran multatuli yang berarti " aku telah banyak menderita " , ditulisnya buku max havelaar atau lelang kopi persekutuan dagang belanda ( 1859 ) yang menggambarkan penderitaan rakyat akibat tanam paksa dalam kisah saijah dan adinda .
+sentence 4: akibat adanya reaksi tersebut , pemerintah belanda secara berangsur-angsur menghapuskan sistem tanam paksa .
+sentence 5: nila , teh , kayu manis dihapuskan pada tahun 1865 , tembakau tahun 1866 , kemudian menyusul tebu tahun 1884 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+title : perubahan ekonomi & demografi di berbagai daerah pada masa kolonial
+passage 9 score = 8.5
+sentence 1: pada perkembangan selanjutnya , tepatnya setelah tahun 1850 , rakyat dan pemerintahan di negeri belanda mulai mengetahui keadaan yang sebenarnya akibat pelaksanaan sistem tanam paksa di pulau jawa .
+sentence 2: berbagai reaksi muncul dalam menanggapi masalah tersebut , terutama dari golongan humanis dan kaum liberal .
+sentence 3: meskipun kedua kelompok ini memiliki tujuan berbeda , tetapi mereka secara gencar melakukan kritik dan kecaman pedas terhadap pemerintah belanda .
+sentence 4: golongan humanis merupakan suatu kelompok yang peduli dan memperhatikan masalah kemanusiaan mengkritik dan mengecam pemerintah belanda melalui berbagai tulisan .
+sentence 5: beberapa tulisan mengenai pelaksanaan sistem tanam paksa mulai terdengar , umpamanya yang ditulis oleh e. douwes dekker atau multatuli yang berjudul max havelar .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+title : perubahan ekonomi & demografi di berbagai daerah pada masa kolonial
+passage 10 score = 8.5
+sentence 1: beberapa tulisan mengenai pelaksanaan sistem tanam paksa mulai terdengar , umpamanya yang ditulis oleh e. douwes dekker atau multatuli yang berjudul max havelar .
+sentence 2: buku ini memuat tulisan-tulisan yang isinya mampu menggoncangkan dan mengetuk hati nurani rakyat belanda terhadap nasib yang dialami oleh rakyat indonesia di pulau jawa .
+sentence 3: sementara itu , kaum liberal pun terus menyerang pemerintah dengan berbagai argumennya mengenai akibat pelaksanaan system tanam paksa dengan tujuan untuk membuka peluang penanaman modal asing di indonesia .
+sentence 4: pergolakan di parlemen belanda antara tahun 1850 dan 1860 yang memperdebatkan masalah kegunaan sistem tanam paksa tidak bisa dihindarkan lagi .
+sentence 5: kondisi demikian semakin diperuncing dengan munculnya paham liberalism yang mulai masuk ke eropa termasuk belanda pada pertengahan abad ke 19 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
+title : upaya mempersiapkan kemerdekaan indonesia
+passage 1 score = 7.5
+sentence 1: upaya mempersiapkan kemerdekaan indonesia - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada 1 maret 1945 jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) .
+sentence 2: badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka .
+sentence 3: anggota dari bupki terdiri atas 60 orang tokoh bangsa indonesia dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh krt radjiman widyodiningrat dan wakil ketua r. surono dan seorang lagi orang jepang .
+sentence 4: bpupki diresmikan pada tanggal 29 mei 1945 .
+sentence 5: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
+
+
+Pencarian jawaban
+---------------------
+
+
+3 ) eduard douwes dekker ia adalah <PERSON>seorang pejabat belanda</PERSON> yang pernah menjadi asisten residen lebak ( banten ) . ia cinta kepada <PERSON>penduduk pribumi</PERSON> , khususnya yang menderita akibat tanam paksa . dengan nama samaran multatuli yang berarti " aku telah banyak menderita " , ditulisnya buku max havelaar atau lelang kopi persekutuan dagang belanda ( <TIME>1859</TIME> ) yang menggambarkan penderitaan rakyat akibat tanam paksa dalam kisah saijah dan adinda . akibat adanya reaksi tersebut , <PERSON>pemerintah belanda</PERSON> secara berangsur-angsur menghapuskan sistem tanam paksa . nila , teh , kayu manis dihapuskan pada <TIME>tahun 1865 , tembakau tahun 1866</TIME> , kemudian menyusul tebu <TIME>tahun 1884</TIME> .
+
+memproses passage 14
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
+title : pengertian dan sejarah tanam paksa (cultuurstelsel )
+list jawaban dan posisi dalam passage
+pejabat belanda | position = 4
+penduduk pribumi | position = 11
+pemerintah belanda | position = 42
+
+
+melakukan pencarian:
+kata kunci = multatuli
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = eduard
+tokenwithtagstemmed = douwes
+tokenwithtagstemmed = dekker
+tokenwithtagstemmed = jabat belanda
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = asisten
+tokenwithtagstemmed = residen
+tokenwithtagstemmed = lebak
+tokenwithtagstemmed = banten
+tokenwithtagstemmed = cinta
+tokenwithtagstemmed = duduk pribumi
+tokenwithtagstemmed = derita
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = samar
+tokenwithtagstemmed = multatuli
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+pejabat belanda -14
+penduduk pribumi -7
+pemerintah belanda 24
+
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = derita
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = max
+tokenwithtagstemmed = havelaar
+tokenwithtagstemmed = lelang
+tokenwithtagstemmed = kopi
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = 1859
+tokenwithtagstemmed = gambar
+tokenwithtagstemmed = derita
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = kisah
+tokenwithtagstemmed = saijah
+tokenwithtagstemmed = adinda
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = reaksi
+tokenwithtagstemmed = perintah belanda
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = angsur
+tokenwithtagstemmed = angsur
+tokenwithtagstemmed = hapus
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = nila
+tokenwithtagstemmed = teh
+tokenwithtagstemmed = kayu
+tokenwithtagstemmed = manis
+tokenwithtagstemmed = hapus
+tokenwithtagstemmed = tahun 1865 tembakau tahun 1866
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = tebu
+tokenwithtagstemmed = tahun 1884
+
+
+3 ) eduard douwes dekker ia adalah <PERSON>seorang pejabat belanda</PERSON> yang pernah menjadi asisten residen lebak ( banten ) . ia cinta kepada <PERSON>penduduk pribumi</PERSON> , khususnya yang menderita akibat tanam paksa . dengan nama samaran multatuli yang berarti " aku telah banyak menderita " , ditulisnya buku max havelaar atau lelang kopi persekutuan dagang belanda ( <TIME>1859</TIME> ) yang menggambarkan penderitaan rakyat akibat tanam paksa dalam kisah saijah dan adinda . akibat adanya reaksi tersebut , <PERSON>pemerintah belanda</PERSON> secara berangsur-angsur menghapuskan sistem tanam paksa . nila , teh , kayu manis dihapuskan pada <TIME>tahun 1865 , tembakau tahun 1866</TIME> , kemudian menyusul tebu <TIME>tahun 1884</TIME> .
+
+memproses passage 14
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
+title : pengertian dan sejarah tanam paksa (cultuurstelsel )
+list jawaban dan posisi dalam passage
+pejabat belanda | position = 4
+penduduk pribumi | position = 11
+pemerintah belanda | position = 42
+
+
+melakukan pencarian:
+kata kunci = multatuli
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = eduard
+tokenwithtagstemmed = douwes
+tokenwithtagstemmed = dekker
+tokenwithtagstemmed = jabat belanda
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = asisten
+tokenwithtagstemmed = residen
+tokenwithtagstemmed = lebak
+tokenwithtagstemmed = banten
+tokenwithtagstemmed = cinta
+tokenwithtagstemmed = duduk pribumi
+tokenwithtagstemmed = derita
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = samar
+tokenwithtagstemmed = multatuli
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+pejabat belanda -14
+penduduk pribumi -7
+pemerintah belanda 24
+
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = derita
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = max
+tokenwithtagstemmed = havelaar
+tokenwithtagstemmed = lelang
+tokenwithtagstemmed = kopi
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = 1859
+tokenwithtagstemmed = gambar
+tokenwithtagstemmed = derita
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = kisah
+tokenwithtagstemmed = saijah
+tokenwithtagstemmed = adinda
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = reaksi
+tokenwithtagstemmed = perintah belanda
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = angsur
+tokenwithtagstemmed = angsur
+tokenwithtagstemmed = hapus
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = nila
+tokenwithtagstemmed = teh
+tokenwithtagstemmed = kayu
+tokenwithtagstemmed = manis
+tokenwithtagstemmed = hapus
+tokenwithtagstemmed = tahun 1865 tembakau tahun 1866
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = tebu
+tokenwithtagstemmed = tahun 1884
+
+
+pada perkembangan selanjutnya , tepatnya setelah <TIME>tahun 1850</TIME> , rakyat dan pemerintahan di negeri <PERSON>belanda</PERSON> mulai mengetahui keadaan yang sebenarnya akibat pelaksanaan sistem tanam paksa di <LOCATION>pulau jawa .</LOCATION> berbagai reaksi muncul dalam menanggapi masalah tersebut , terutama dari golongan humanis dan <PERSON>kaum liberal .</PERSON> meskipun kedua kelompok ini memiliki tujuan berbeda , tetapi mereka secara gencar melakukan kritik dan kecaman pedas terhadap <PERSON>pemerintah belanda .</PERSON> golongan humanis merupakan suatu kelompok yang peduli dan memperhatikan masalah kemanusiaan mengkritik dan mengecam <PERSON>pemerintah belanda</PERSON> melalui berbagai tulisan . beberapa tulisan mengenai pelaksanaan sistem tanam paksa mulai terdengar , umpamanya yang ditulis oleh e. douwes dekker atau multatuli yang berjudul max havelar .
+
+memproses passage 9
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+title : perubahan ekonomi & demografi di berbagai daerah pada masa kolonial
+list jawaban dan posisi dalam passage
+belanda | position = 7
+kaum liberal | position = 25
+pemerintah belanda | position = 37
+pemerintah belanda | position = 47
+
+
+melakukan pencarian:
+kata kunci = multatuli
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = tepat
+tokenwithtagstemmed = tahun 1850
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = reaksi
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = tanggap
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = golong
+tokenwithtagstemmed = humanis
+tokenwithtagstemmed = kaum liberal
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = kelompok
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = beda
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = gencar
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = kritik
+tokenwithtagstemmed = kecam
+tokenwithtagstemmed = pedas
+tokenwithtagstemmed = perintah belanda
+tokenwithtagstemmed = golong
+tokenwithtagstemmed = humanis
+tokenwithtagstemmed = kelompok
+tokenwithtagstemmed = peduli
+tokenwithtagstemmed = perhati
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = manusia
+tokenwithtagstemmed = kritik
+tokenwithtagstemmed = kecam
+tokenwithtagstemmed = perintah belanda
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = dengar
+tokenwithtagstemmed = umpama
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = e
+tokenwithtagstemmed = douwes
+tokenwithtagstemmed = dekker
+tokenwithtagstemmed = multatuli
+posisi dalam passage = 63
+jarak dengan tiap kandidat jawaban:
+belanda -56
+kaum liberal -38
+pemerintah belanda -26
+pemerintah belanda -16
+
+tokenwithtagstemmed = judul
+tokenwithtagstemmed = max
+tokenwithtagstemmed = havelar
+
+
+beberapa tulisan mengenai pelaksanaan sistem tanam paksa mulai terdengar , umpamanya yang ditulis oleh e. douwes dekker atau multatuli yang berjudul max havelar . buku ini memuat tulisan-tulisan yang isinya mampu menggoncangkan dan mengetuk hati <PERSON>nurani rakyat belanda</PERSON> terhadap nasib yang dialami oleh <PERSON>rakyat indonesia</PERSON> di <LOCATION>pulau jawa .</LOCATION> sementara itu , kaum liberal pun terus menyerang pemerintah dengan berbagai argumennya mengenai akibat pelaksanaan system tanam paksa dengan tujuan untuk membuka peluang penanaman modal asing di <LOCATION>indonesia .</LOCATION> pergolakan di <PERSON>parlemen belanda</PERSON> antara <TIME>tahun 1850</TIME> dan <TIME>1860</TIME> yang memperdebatkan masalah kegunaan sistem tanam paksa tidak bisa dihindarkan lagi . kondisi demikian semakin diperuncing dengan munculnya paham liberalism yang mulai masuk ke eropa termasuk belanda pada <TIME>pertengahan abad ke 19 .</TIME>
+
+memproses passage 10
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+title : perubahan ekonomi & demografi di berbagai daerah pada masa kolonial
+list jawaban dan posisi dalam passage
+nurani rakyat belanda | position = 25
+rakyat indonesia | position = 28
+parlemen belanda | position = 52
+
+
+melakukan pencarian:
+kata kunci = multatuli
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = dengar
+tokenwithtagstemmed = umpama
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = e
+tokenwithtagstemmed = douwes
+tokenwithtagstemmed = dekker
+tokenwithtagstemmed = multatuli
+posisi dalam passage = 13
+jarak dengan tiap kandidat jawaban:
+nurani rakyat belanda 12
+rakyat indonesia 15
+parlemen belanda 39
+
+tokenwithtagstemmed = judul
+tokenwithtagstemmed = max
+tokenwithtagstemmed = havelar
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = muat
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = menggoncangkan
+tokenwithtagstemmed = ketuk
+tokenwithtagstemmed = hati
+tokenwithtagstemmed = nurani rakyat belanda
+tokenwithtagstemmed = nasib
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = rakyat indonesia
+tokenwithtagstemmed = pulau jawa
+tokenwithtagstemmed = kaum
+tokenwithtagstemmed = liberal
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = argumen
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = system
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = buka
+tokenwithtagstemmed = peluang
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = modal
+tokenwithtagstemmed = asing
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pergola
+tokenwithtagstemmed = parlemen belanda
+tokenwithtagstemmed = tahun 1850
+tokenwithtagstemmed = 1860
+tokenwithtagstemmed = debat
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = hindar
+tokenwithtagstemmed = kondisi
+tokenwithtagstemmed = runcing
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = paham
+tokenwithtagstemmed = liberalism
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = tengah abad 19
+
+
+upaya mempersiapkan kemerdekaan <PERSON>indonesia</PERSON> - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada <TIME>1 maret 1945</TIME> jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) . badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka . anggota dari bupki terdiri atas <PERSON>60 orang tokoh bangsa indonesia</PERSON> dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh <PERSON>krt radjiman widyodiningrat</PERSON> dan wakil ketua <PERSON>r. surono</PERSON> dan seorang lagi orang jepang . bpupki diresmikan pada <TIME>tanggal 29 mei 1945</TIME> . sidang pertama berlangsung pada <TIME>29 mei-1 juni 1945</TIME> yang membicarakan dasar filsafat negara indonesia merdeka .
+
+memproses passage 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
+title : upaya mempersiapkan kemerdekaan indonesia
+list jawaban dan posisi dalam passage
+indonesia | position = 3
+60 orang tokoh bangsa indonesia | position = 50
+krt radjiman widyodiningrat | position = 59
+r surono | position = 62
+
+
+melakukan pencarian:
+kata kunci = multatuli
+tokenwithtagstemmed = upaya
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = pasifik
+tokenwithtagstemmed = jelas
+tokenwithtagstemmed = 1 maret 1945
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = kumakichi
+tokenwithtagstemmed = harada
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = dokuritsu
+tokenwithtagstemmed = junbi
+tokenwithtagstemmed = chosakai
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = persiapak
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = bupki
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = 60 orang tokoh bangsa indonesia
+tokenwithtagstemmed = 7
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuai
+tokenwithtagstemmed = krt radjiman widyodiningrat
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = r surono
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = resmi
+tokenwithtagstemmed = tanggal 29 mei 1945
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = 29 mei 1 juni 1945
+tokenwithtagstemmed = bicara
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = filsafat
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = merdeka
+
+Pengurutan kandidat jawaban
+this.answer = nurani rakyat belanda
+passage rank = 4
+distance = 12
+doc rank = 4
+total Score = 20
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+document Title = perubahan ekonomi & demografi di berbagai daerah pada masa kolonial
+
+this.answer = rakyat indonesia
+passage rank = 4
+distance = 15
+doc rank = 4
+total Score = 23
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+document Title = perubahan ekonomi & demografi di berbagai daerah pada masa kolonial
+
+this.answer = pemerintah belanda
+passage rank = 1
+distance = 24
+doc rank = 2
+total Score = 27
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
+document Title = pengertian dan sejarah tanam paksa (cultuurstelsel )
+
+this.answer = pemerintah belanda
+passage rank = 2
+distance = 24
+doc rank = 3
+total Score = 29
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
+document Title = pengertian dan sejarah tanam paksa (cultuurstelsel )
+
+this.answer = parlemen belanda
+passage rank = 4
+distance = 39
+doc rank = 4
+total Score = 47
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+document Title = perubahan ekonomi & demografi di berbagai daerah pada masa kolonial
+
+
+
+selesai

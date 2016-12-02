@@ -1,0 +1,976 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok328.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok138.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok67.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok120.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok49.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok218.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok238.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok174.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok345.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok121.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok50.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok168.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok350.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok329.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok211.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok354.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok4.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok75.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok290.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok148.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok285.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok136.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok65.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok125.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok54.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok134.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok63.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok260.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
+
+searching dari query expansion
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
+
+query token : 
+menandatangani janji bongaya 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+passage 6 score = 6.5
+sentence 1: sampai sekarang , batu tersebut masih ada di dalam , katanya .
+sentence 2: kemudian pada 1964 , dilakukan pemugaran pertama kali oleh ibu sudarijah atau yang dikenal dengan ibu dar moeriar dari surabaya .
+sentence 3: baru pada tahun 1995 dilakukan pemugaran kembali oleh pangdam brawijaya yang saat itu dijabat oleh utomo .
+sentence 4: memasuki kawasan petilasan panggung , terpampang gambar gajah mada tepat disamping pintu masuk .
+sentence 5: sedangkan dibagian depan pintu bergantung sebuah papan kecil dengan tulisan ” lima pedoman ” yang merupakan pedoman suri teladan bagi warga .
+passage 9 score = 6.5
+sentence 1: ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
+sentence 2: beberapa prasasti dan arca peninggalan majapahit dikawasan puncak gunung semeru dan juga di gunung arjuna menunjukkan bahwa kawasan gunung tersebut adalah tempat bersemayam para dewa dan hanya keturunan raja yang boleh menginjakkan kaki di wilayah tersebut .
+sentence 3: bisa disimpulkan bahwa berbagai peninggalan tersebut merupakan rangkaian yang saling berhubungan walaupun terpisah oleh masa yang berbeda sepanjang 7 abad .
+sentence 4: keruntuhan majapahit tersebutlah kisah , adipati terung meminta sultan bintara alias raden patah yang masih “ kapernah ” kakaknya , untuk menghadap prabu brawijaya .
+sentence 5: tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
+passage 10 score = 6.5
+sentence 1: tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
+sentence 2: bahkan kemudian raden patah lalu mengumpulkan para bupati pesisir seperti tuban , madura dan surabaya serta para sunan untuk bersama-sama menyerbu majapahit yang kafir itu .
+sentence 3: prajurit islam dikerahkan mengepung ibu kota kerajaan , karena segan berperang dengan puteranya sendiri , prabu brawijaya meloloskan diri dari istana bersama pengikut yang masih setia .
+sentence 4: sehingga ketika raden patah dan rombongannya ( termasuk para sunan ) tiba , istana itu kosong .
+sentence 5: atas nasihat sunan ampel , untuk menawarkan segala pengaruh raja kafir , diangkatlah sunan gresik jadi raja majapahit selama 40 hari .
+passage 15 score = 6.5
+sentence 1: akhirnya sengguruh diserbu dan prabu brawijaya lari kepulau bali .
+sentence 2: cerita versi babad tanah jawi dan serat kanda itulah yang selama ini populer dikalangan masyarakat jawa , bahkan pernah juga diajarkan disebagian sekolah dasar dimasa lalu .
+sentence 3: secara garis besar , cerita itu boleh dibilang menunjukkan kemenangan islam .
+sentence 4: padahal sebenarnya sebaliknya , bisa memberi kesan yang merugikan , sebab seakan-akan islam berkembang di jawa dengan kekerasan dan darah .
+sentence 5: padahal kenyataannya tidak begitu .
+passage 16 score = 6.5
+sentence 1: padahal kenyataannya tidak begitu .
+sentence 2: selain fakta lain banyak menungkap bahwa masuknya islam dan berkembang ditanah jawa dengan jalan damai .
+sentence 3: juga fakta keruntuhan majapahit juga menunjukkan bukan disebabkan serbuan tentara islam demak .
+sentence 4: prof. dr. slamet muljana dalam bukunya “ pemugaran persada sejarah leluhur majapahit ” secara panjang lebar membantah isi cerita itu berdasarkan bukti-bukti sejarah .
+sentence 5: dikatakan babad tanah jawi dan serat kanda yang ditulis abad xvii dijaman mataram itu tanpa konsultasi sumber sejarah yang dapat dipercaya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 59 score = 7.833333333333333
+sentence 1: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
+sentence 2: karena mereka beranggapan bahwa sebagian tokoh-tokoh tua yang hadir adalah “ budak-budak ” jepang .
+sentence 3: selanjutnya sukarni , salah satu tokoh golongan muda , mengusulkan agar yang menandatangani naskah proklamasi cukup sukarno-hatta atas nama bangsa indonesia .
+sentence 4: setelah usulan sukarni itu disetujui , maka ir .
+sentence 5: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
+passage 32 score = 7.333333333333333
+sentence 1: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
+sentence 2: ketika ketiga tokoh itu berangkat kembali menuju jakarta pada tanggal 14 agustus 1945 , jepang telah dibom atom oleh sekutu di kota hirosima dan nagasaki .
+sentence 3: bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke manchuria .
+sentence 4: dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
+sentence 5: keesokan harinya , pada tanggal 15 agustus 1945 sukarno-hatta tiba kembali di tanah air .
+passage 35 score = 7.333333333333333
+sentence 1: hatta .
+sentence 2: syahrir juga menanyakan mengenai kemerdekaan indonesia sehubungan dengan peristiwa tersebut .
+sentence 3: moh .
+sentence 4: hatta berjanji akan menanyakan hal itu kepada gunseikanbu .
+sentence 5: setelah yakin bahwa jepang telah menyerah kepada sekutu , moh .
+passage 37 score = 7.333333333333333
+sentence 1: rapat yang dipimpin oleh chairul saleh itu menghasilkan keputusan “ kemerdekaan indonesia adalah hak dan soal rakyat indonesia sendiri , tak dapat digantungkan pada orang dan negara lain .
+sentence 2: segala ikatan dan hubungan dengan janji kemerdekaan dari jepang harus diputuskan dan sebaliknya diharapkan diadakan perundingan dengan golongan muda agar mereka diikutsertakan dalam pernyataan proklamasi . ”
+sentence 3: keputusan rapat itu disampaikan oleh wikana dan darwis pada pukul 22.30 waktu jawa kepada ir .
+sentence 4: sukarno di rumahnya , jl .
+sentence 5: pegangsaan timur 56 , jakarta .
+passage 58 score = 7.333333333333333
+sentence 1: ir .
+sentence 2: sukarno meminta kepada semua hadirin untuk menandatangani naskah proklamasi selaku wakil-wakil bangsa indonesia .
+sentence 3: pendapat itu diperkuat oleh moh .
+sentence 4: hatta dengan mengambil contoh naskah “ declaration of independence ” dari amerika serikat .
+sentence 5: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 8.5
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+passage 8 score = 6.5
+sentence 1: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+sentence 2: b. kehidupan ekonomi kerajaan makassar untuk menunjang makassar sebagai pelabuhan transit dan untuk mencukupi kebutuhannya maka kerajaan ini menguasai daerah-daerah sekitarnya .
+sentence 3: di sebelah timur ditaklukanlah kerajaan bone , sedangan untuk memperlancar dan memperluas jalan perdagangan , makasar mengusai daerah-daerah selatan , seperti pulau selayar , buton , lombok , dan sumbawa di nusa tenggara barat .
+sentence 4: dengan demikian , jalan perdagangan pada waktu musim barat yang melalui sebelah utara kepulauan nusa tenggara dan jalan perdagangan waktu musim timur yang melalui sebelah selatan dapat dikuasainya .
+sentence 5: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+passage 9 score = 6.5
+sentence 1: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+sentence 2: dengan jenis perahu-perahunya seperti pinisi dan lambo , pedagang makassar memegang peranan penting dalam perdagangan di indonesia .
+sentence 3: hal ini menyebabkan mereka berhadapan dengan belanda sehingga menimbulkan beberapa kali peperangan .
+sentence 4: pihak belanda yang merasa berkuasa atas maluku sebagai sumber rempah rempah , menganggap makasar sebagai pelabuhan gelap .
+sentence 5: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+passage 3 score = 6.0
+sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
+sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
+sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
+sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+passage 4 score = 6.0
+sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
+sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
+sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
+sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 8.5
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+passage 8 score = 6.5
+sentence 1: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+sentence 2: b. kehidupan ekonomi kerajaan makassar untuk menunjang makassar sebagai pelabuhan transit dan untuk mencukupi kebutuhannya maka kerajaan ini menguasai daerah-daerah sekitarnya .
+sentence 3: di sebelah timur ditaklukanlah kerajaan bone , sedangan untuk memperlancar dan memperluas jalan perdagangan , makasar mengusai daerah-daerah selatan , seperti pulau selayar , buton , lombok , dan sumbawa di nusa tenggara barat .
+sentence 4: dengan demikian , jalan perdagangan pada waktu musim barat yang melalui sebelah utara kepulauan nusa tenggara dan jalan perdagangan waktu musim timur yang melalui sebelah selatan dapat dikuasainya .
+sentence 5: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+passage 9 score = 6.5
+sentence 1: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+sentence 2: dengan jenis perahu-perahunya seperti pinisi dan lambo , pedagang makassar memegang peranan penting dalam perdagangan di indonesia .
+sentence 3: hal ini menyebabkan mereka berhadapan dengan belanda sehingga menimbulkan beberapa kali peperangan .
+sentence 4: pihak belanda yang merasa berkuasa atas maluku sebagai sumber rempah rempah , menganggap makasar sebagai pelabuhan gelap .
+sentence 5: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+passage 3 score = 6.0
+sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
+sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
+sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
+sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+passage 4 score = 6.0
+sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
+sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
+sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
+sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 7 score = 6.5
+sentence 1: pada tangga 5 asada ( 16 juni ) mereka tiba di muka upang ( sebelah timur palembang ) .
+sentence 2: sesampai di ibu kota , dapunta hyang memerintahkan pembuatan bangunan suci sebagai tanda rasa syukur .
+sentence 3: prasasti ligor a ( 775 ) ditemukan di muangthai selatan “ pujian terhadap raja sriwijaya yang di ibaratkan bagai mnu yang memberi berkah bagi dunia menyerupai indra dan semua raja tetangga taat kepadanya ditulis pula pendirian sebuah bangunan batu trisamayacahtya untuk padma , pani , sakyamuni , dan wajrpani ” .
+sentence 4: prasasti ligor b , pujian bagi raja yang berhasil menaklukkan musuh-musuhnya dan merupakan wujud kembar dewa kasta yang dengan kekuatannya disebut ( sebagai dewa ) wisnu , kedua mematahkan keangkuhan semua musuhnya ( sarwarimadawimthana ) .
+sentence 5: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
+passage 8 score = 6.5
+sentence 1: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
+sentence 2: prasasti ligor yang ditemukan di semenanjung tanah melayu menceritakan tentang raja sriwijaya dan pembangunan trisamayacaithya untuk menyembah dewa-dewa agama buddha , serta menyebutkan seorang raja bernama wisnu dengan gelar sarwarimadawimathana atau pembunuh musuh-musuh yang sombong tiada bersisa .
+sentence 3: begitu pula prasasti nalanda yang dikeluarkan oleh raja dewa paladewa .
+sentence 4: isinya menyebutkan tentang pendirian bangunan biara di nalanda oleh raja balaputradewa , raja sriwijaya yang menganut agama buddha .
+sentence 5: daerah kekuasaan sriwijaya meliputi seluruh sumatra , sebagian jawa , semenanjung malaya , dan muangthai selatan .
+passage 11 score = 6.5
+sentence 1: adapun yang lebih menarik tentang isi prasasti ini , ialah bagian terakhir yang berbunyi : “ tahun saka 608 hari pertama bulan terang bulan waisaka , itulah waktunya sumpah ini dipahat , pada waktu itu tentara sriwijaya berangkat tanah jawa karena tidak mau tunduk kepada sriwijaya . ”
+sentence 2: dari prasasti tersebut dapat ditarik kesimpulan bahwa sriwijaya pernah ada upaya untuk menaklukkan jawa .
+sentence 3: para ahli menerangkan bahwa kerajaan di jawa yang ditaklukkan adalah tarumanegara .
+sentence 4: hubungan dengan india tidak bertahan lama , sebab pada awal abad ke-11 raja rajendracola dari kerajaan colamandala melakukan penyerbuan besar-besaran ke wilayah sriwijaya , antara lain kedah , aceh , nikobar , binanga , melayu , dan palembang .
+sentence 5: berita penyerangan tersebut ada dalam prasasti tanjore di india selatan .
+passage 13 score = 6.5
+sentence 1: menurunnya kekuatan itu dapat terlihat dari ketidakmampuannya mengawasi dan memberi perlindungan bagi pelayaran dan perdagangan yang ada di perairan indonesia .
+sentence 2: keadaan itu dimanfaatkan juga oleh kerajaan-kerajaan vasal ( bawahan ) untuk melepaskan diri dari kekuasaan sriwijaya , seperti yang dilakukan oleh kerajaan malayu ( jambi ) .
+sentence 3: prasasti tanjore ( 1030 ) yang dikeluarkan oleh rjendra berisi tentara colal melakukan serangan dua kali ke beberapa negeri diantaranya ke sriwijaya , pertama tahun 1015 dan kedua 1025 .
+sentence 4: pada serangan kedua berhasil menawan rajanya yang bernama sri sangramwijaya tunggawarman , setelah meminta maaf , dia ditakhtakan kembali .
+sentence 5: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
+passage 1 score = 6.0
+sentence 1: kerajaan sriwijaya merupakan sebuah kerajaan besar yang terletak di sumatera selatan .
+sentence 2: menurut para ahli , pusat kerajaan sriwijaya ada di palembang dan diperkirakan telah berdiri pada abad ke-7 m. sumber sejarah kerajaan sriwijaya berupa prasasti dan berita cina .
+sentence 3: sumber yang berupa prasasti terdiri atas dua , yaitu prasasti yang berasal dari dalam negeri dan prasasti yang berasal dari luar negeri .
+sentence 4: prasasti yang berasal dari dalam negeri antara lain : prasasti kedukan bukit ( 683 m ) , talang tuwo ( 684 m ) , telaga batu ( 683 ) , kota kapur ( 686 ) , karang berahi ( 686 ) , palas pasemah dan amoghapasa ( 1286 ) .
+sentence 5: sementara itu , prasasti yang berasal dari luar negeri antara lain ; ligor ( 775 ) , nalanda , piagam laiden , tanjore ( 1030 m ) , canton ( 1075 m ) , grahi ( 1183 m ) dan chaiya ( 1230 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 7 score = 5.5
+sentence 1: pada tangga 5 asada ( 16 juni ) mereka tiba di muka upang ( sebelah timur palembang ) .
+sentence 2: sesampai di ibu kota , dapunta hyang memerintahkan pembuatan bangunan suci sebagai tanda rasa syukur .
+sentence 3: prasasti ligor a ( 775 ) ditemukan di muangthai selatan “ pujian terhadap raja sriwijaya yang di ibaratkan bagai mnu yang memberi berkah bagi dunia menyerupai indra dan semua raja tetangga taat kepadanya ditulis pula pendirian sebuah bangunan batu trisamayacahtya untuk padma , pani , sakyamuni , dan wajrpani ” .
+sentence 4: prasasti ligor b , pujian bagi raja yang berhasil menaklukkan musuh-musuhnya dan merupakan wujud kembar dewa kasta yang dengan kekuatannya disebut ( sebagai dewa ) wisnu , kedua mematahkan keangkuhan semua musuhnya ( sarwarimadawimthana ) .
+sentence 5: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
+passage 8 score = 5.5
+sentence 1: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
+sentence 2: prasasti ligor yang ditemukan di semenanjung tanah melayu menceritakan tentang raja sriwijaya dan pembangunan trisamayacaithya untuk menyembah dewa-dewa agama buddha , serta menyebutkan seorang raja bernama wisnu dengan gelar sarwarimadawimathana atau pembunuh musuh-musuh yang sombong tiada bersisa .
+sentence 3: begitu pula prasasti nalanda yang dikeluarkan oleh raja dewa paladewa .
+sentence 4: isinya menyebutkan tentang pendirian bangunan biara di nalanda oleh raja balaputradewa , raja sriwijaya yang menganut agama buddha .
+sentence 5: daerah kekuasaan sriwijaya meliputi seluruh sumatra , sebagian jawa , semenanjung malaya , dan muangthai selatan .
+passage 11 score = 5.5
+sentence 1: adapun yang lebih menarik tentang isi prasasti ini , ialah bagian terakhir yang berbunyi : “ tahun saka 608 hari pertama bulan terang bulan waisaka , itulah waktunya sumpah ini dipahat , pada waktu itu tentara sriwijaya berangkat tanah jawa karena tidak mau tunduk kepada sriwijaya . ”
+sentence 2: dari prasasti tersebut dapat ditarik kesimpulan bahwa sriwijaya pernah ada upaya untuk menaklukkan jawa .
+sentence 3: para ahli menerangkan bahwa kerajaan di jawa yang ditaklukkan adalah tarumanegara .
+sentence 4: hubungan dengan india tidak bertahan lama , sebab pada awal abad ke-11 raja rajendracola dari kerajaan colamandala melakukan penyerbuan besar-besaran ke wilayah sriwijaya , antara lain kedah , aceh , nikobar , binanga , melayu , dan palembang .
+sentence 5: berita penyerangan tersebut ada dalam prasasti tanjore di india selatan .
+passage 13 score = 5.5
+sentence 1: menurunnya kekuatan itu dapat terlihat dari ketidakmampuannya mengawasi dan memberi perlindungan bagi pelayaran dan perdagangan yang ada di perairan indonesia .
+sentence 2: keadaan itu dimanfaatkan juga oleh kerajaan-kerajaan vasal ( bawahan ) untuk melepaskan diri dari kekuasaan sriwijaya , seperti yang dilakukan oleh kerajaan malayu ( jambi ) .
+sentence 3: prasasti tanjore ( 1030 ) yang dikeluarkan oleh rjendra berisi tentara colal melakukan serangan dua kali ke beberapa negeri diantaranya ke sriwijaya , pertama tahun 1015 dan kedua 1025 .
+sentence 4: pada serangan kedua berhasil menawan rajanya yang bernama sri sangramwijaya tunggawarman , setelah meminta maaf , dia ditakhtakan kembali .
+sentence 5: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
+passage 1 score = 5.0
+sentence 1: kerajaan sriwijaya merupakan sebuah kerajaan besar yang terletak di sumatera selatan .
+sentence 2: menurut para ahli , pusat kerajaan sriwijaya ada di palembang dan diperkirakan telah berdiri pada abad ke-7 m. sumber sejarah kerajaan sriwijaya berupa prasasti dan berita cina .
+sentence 3: sumber yang berupa prasasti terdiri atas dua , yaitu prasasti yang berasal dari dalam negeri dan prasasti yang berasal dari luar negeri .
+sentence 4: prasasti yang berasal dari dalam negeri antara lain : prasasti kedukan bukit ( 683 m ) , talang tuwo ( 684 m ) , telaga batu ( 683 ) , kota kapur ( 686 ) , karang berahi ( 686 ) , palas pasemah dan amoghapasa ( 1286 ) .
+sentence 5: sementara itu , prasasti yang berasal dari luar negeri antara lain ; ligor ( 775 ) , nalanda , piagam laiden , tanjore ( 1030 m ) , canton ( 1075 m ) , grahi ( 1183 m ) dan chaiya ( 1230 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
+title : pendapat-pendapat tentang proses awal penyebaran islam di indonesia
+passage 1 score = 5.5
+sentence 1: pendapat-pendapat tentang proses awal penyebaran islam di indonesia - proses islamisasi yang terjadi di indonesia beriringan dengan proses perdagangan yang terjadi antara bangsa indonesia dengan bangsa asing .
+sentence 2: sebagaimana telah dikemukakan bahwa secara geografis , indonesia merupakan sebuah wilayah kepulauan yang terbuka bagi terjadinya interaksi perdagangan .
+sentence 3: salah satu dampak dari interaksi tersebut adalah masuknya islam ke indonesia .
+sentence 4: hal-hal yang menjadi pertanyaan mengenai proses islamisasi tersebut ialah dari manakah asalnya bangsa indonesia menerima islam , dan kapan islam itu datang ?
+sentence 5: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+passage 2 score = 5.5
+sentence 1: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+sentence 2: berita-berita dari bangsa asing menunjukkan bahwa para pedagang islam diperkirakan pertama kali datang ke indonesia pada abad ke-7 m , yaituketika berkuasanya kerajaan sriwijaya .
+sentence 3: pada saat itu , di pusat kerajaan sriwijaya telah dijumpai perkampungan-perkampungan pedagang arab .
+sentence 4: menurut berita ibn hordadzbeth ( 844-848 m ) , pedagang sulaiman ( 902 m ) , ibn rosteh ( 903 m ) , abu yazid ( 916 m ) , dan ahli geografi mas ’ udi ( 955 m ) , kerajaan sriwijaya ( sribu a ) berada di bawah kekuasaan raja zabag yang kaya dan menguasai jalur perdagangan dengan kerajaan oman .
+sentence 5: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+passage 3 score = 5.5
+sentence 1: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+sentence 2: pedagang-pedagang gujarat dari india yang datang ke indonesia bukan hanya untuk berdagang , tetapi juga untuk menyebarkan agama yang mereka anut .
+sentence 3: di samping itu , para saudagar yang datang dari persia juga ikut menyebarkan agama islam di indonesia .
+sentence 4: teknologi pelayaran pada masa itu tidak secanggih sekarang , pelayaran pada masa lalu sangat tergantung pada angin musim yang membantu kapal mereka bergerak sesuai tujuan .
+sentence 5: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
+passage 4 score = 5.5
+sentence 1: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
+sentence 2: selama masa tunggu itu , mereka bergaul dengan penduduk setempat .
+sentence 3: kesempatan itu digunakan oleh para pedagang dari arab , gujarat , dan persia untuk menyebarkan agama islam .
+sentence 4: penyebaran agama islam di indonesia terjadi secara berangsur-angsur selama beberapa abad lamanya .
+sentence 5: waktu masuknya agama islam ke indonesia di tiap-tiap daerah tidak sama .
+passage 6 score = 5.5
+sentence 1: jalur perkawinan dilakukan oleh para pedagang islam yang biasanya tinggal di kota-kota pantai dan membentuk perkampungan-perkampungan untuk menunggu angin musim .
+sentence 2: pada saat inilah , para pedagang tersebut menikahi para wanita pribumi .
+sentence 3: para wanita tersebut kemudian memeluk agama islam .
+sentence 4: ada beberapa pendapat atau teori tentang proses islamisasi di indonesia .
+sentence 5: menurutricklefs , ada kemungkinan berlangsungnya melalui dua proses .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
+title : penjelasan teori (pendapat) masuknya islam di indonesia
+passage 1 score = 5.5
+sentence 1: penjelasan teori ( pendapat ) masuknya islam di indonesia - proses islamisasi yang terjadi di indonesia beriringan dengan proses perdagangan yang terjadi antara bangsa indonesia dengan bangsa asing .
+sentence 2: sebagaimana telah dikemukakan bahwa secara geografis , indonesia merupakan sebuah wilayah kepulauan yang terbuka bagi terjadinya interaksi perdagangan .
+sentence 3: salah satu dampak dari interaksi tersebut adalah masuknya islam ke indonesia .
+sentence 4: hal-hal yang menjadi pertanyaan mengenai proses islamisasi tersebut ialah dari manakah asalnya bangsa indonesia menerima islam , dan kapan islam itu datang ?
+sentence 5: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+passage 2 score = 5.5
+sentence 1: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+sentence 2: berita-berita dari bangsa asing menunjukkan bahwa para pedagang islam diperkirakan pertama kali datang ke indonesia pada abad ke-7 m , yaitu ketika berkuasanya kerajaan sriwijaya .
+sentence 3: pada saat itu , di pusat kerajaan sriwijaya telah dijumpai perkampungan-perkampungan pedagang arab .
+sentence 4: menurut berita ibn hordadzbeth ( 844-848 m ) , pedagang sulaiman ( 902 m ) , ibn rosteh ( 903 m ) , abu yazid ( 916 m ) , dan ahli geografi mas ’ udi ( 955 m ) , kerajaan sriwijaya ( sribu a ) berada di bawah kekuasaan raja zabag yang kaya dan menguasai jalur perdagangan dengan kerajaan oman .
+sentence 5: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+passage 3 score = 5.5
+sentence 1: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+sentence 2: pedagang-pedagang gujarat dari india yang datang ke indonesia bukan hanya untuk berdagang , tetapi juga untuk menyebarkan agama yang mereka anut .
+sentence 3: di samping itu , para saudagar yang datang dari persia juga ikut menyebarkan agama islam di indonesia .
+sentence 4: teknologi pelayaran pada masa itu tidak secanggih sekarang , pelayaran pada masa lalu sangat tergantung pada angin musim yang membantu kapal mereka bergerak sesuai tujuan .
+sentence 5: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
+passage 4 score = 5.5
+sentence 1: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
+sentence 2: selama masa tunggu itu , mereka bergaul dengan penduduk setempat .
+sentence 3: kesempatan itu digunakan oleh para pedagang dari arab , gujarat , dan persia untuk menyebarkan agama islam .
+sentence 4: penyebaran agama islam di indonesia terjadi secara berangsur-angsur selama beberapa abad lamanya .
+sentence 5: waktu masuknya agama islam ke indonesia di tiap-tiap daerah tidak sama .
+passage 6 score = 5.5
+sentence 1: jalur perkawinan dilakukan oleh para pedagang islam yang biasanya tinggal di kota-kota pantai dan membentuk perkampungan-perkampungan untuk menunggu angin musim .
+sentence 2: pada saat inilah , para pedagang tersebut menikahi para wanita pribumi .
+sentence 3: para wanita tersebut kemudian memeluk agama islam .
+sentence 4: ada beberapa pendapat atau teori tentang proses islamisasi di indonesia .
+sentence 5: menurut ricklefs , ada kemungkinan berlangsungnya melalui dua proses .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
+title : penjelasan teori (pendapat) masuknya islam di indonesia
+passage 1 score = 5.5
+sentence 1: penjelasan teori ( pendapat ) masuknya islam di indonesia - proses islamisasi yang terjadi di indonesia beriringan dengan proses perdagangan yang terjadi antara bangsa indonesia dengan bangsa asing .
+sentence 2: sebagaimana telah dikemukakan bahwa secara geografis , indonesia merupakan sebuah wilayah kepulauan yang terbuka bagi terjadinya interaksi perdagangan .
+sentence 3: salah satu dampak dari interaksi tersebut adalah masuknya islam ke indonesia .
+sentence 4: hal-hal yang menjadi pertanyaan mengenai proses islamisasi tersebut ialah dari manakah asalnya bangsa indonesia menerima islam , dan kapan islam itu datang ?
+sentence 5: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+passage 2 score = 5.5
+sentence 1: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+sentence 2: berita-berita dari bangsa asing menunjukkan bahwa para pedagang islam diperkirakan pertama kali datang ke indonesia pada abad ke-7 m , yaitu ketika berkuasanya kerajaan sriwijaya .
+sentence 3: pada saat itu , di pusat kerajaan sriwijaya telah dijumpai perkampungan-perkampungan pedagang arab .
+sentence 4: menurut berita ibn hordadzbeth ( 844-848 m ) , pedagang sulaiman ( 902 m ) , ibn rosteh ( 903 m ) , abu yazid ( 916 m ) , dan ahli geografi mas ’ udi ( 955 m ) , kerajaan sriwijaya ( sribu a ) berada di bawah kekuasaan raja zabag yang kaya dan menguasai jalur perdagangan dengan kerajaan oman .
+sentence 5: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+passage 3 score = 5.5
+sentence 1: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+sentence 2: pedagang-pedagang gujarat dari india yang datang ke indonesia bukan hanya untuk berdagang , tetapi juga untuk menyebarkan agama yang mereka anut .
+sentence 3: di samping itu , para saudagar yang datang dari persia juga ikut menyebarkan agama islam di indonesia .
+sentence 4: teknologi pelayaran pada masa itu tidak secanggih sekarang , pelayaran pada masa lalu sangat tergantung pada angin musim yang membantu kapal mereka bergerak sesuai tujuan .
+sentence 5: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
+passage 4 score = 5.5
+sentence 1: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
+sentence 2: selama masa tunggu itu , mereka bergaul dengan penduduk setempat .
+sentence 3: kesempatan itu digunakan oleh para pedagang dari arab , gujarat , dan persia untuk menyebarkan agama islam .
+sentence 4: penyebaran agama islam di indonesia terjadi secara berangsur-angsur selama beberapa abad lamanya .
+sentence 5: waktu masuknya agama islam ke indonesia di tiap-tiap daerah tidak sama .
+passage 6 score = 5.5
+sentence 1: jalur perkawinan dilakukan oleh para pedagang islam yang biasanya tinggal di kota-kota pantai dan membentuk perkampungan-perkampungan untuk menunggu angin musim .
+sentence 2: pada saat inilah , para pedagang tersebut menikahi para wanita pribumi .
+sentence 3: para wanita tersebut kemudian memeluk agama islam .
+sentence 4: ada beberapa pendapat atau teori tentang proses islamisasi di indonesia .
+sentence 5: menurut ricklefs , ada kemungkinan berlangsungnya melalui dua proses .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
+title : upaya mempersiapkan kemerdekaan indonesia
+passage 1 score = 5.5
+sentence 1: upaya mempersiapkan kemerdekaan indonesia - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada 1 maret 1945 jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) .
+sentence 2: badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka .
+sentence 3: anggota dari bupki terdiri atas 60 orang tokoh bangsa indonesia dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh krt radjiman widyodiningrat dan wakil ketua r. surono dan seorang lagi orang jepang .
+sentence 4: bpupki diresmikan pada tanggal 29 mei 1945 .
+sentence 5: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
+passage 2 score = 5.5
+sentence 1: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
+sentence 2: tokoh-tokoh yang mengusulkan dasar negara ini , yakni : mr. muh .
+sentence 3: yamin pada sidang tanggal 29 mei 1945 , mr. muh .
+sentence 4: yamin mengajukan lima rancangan dasar negara indonesia , yakni : peri kebangsaan peri kemanusiaan peri ketuhanan peri kerakyatan kesejahteraan rakyat prof. dr. supomo pada sidang tanggal 31 mei 1945 , prof. dr. supomo mengajukan lima rancangan dasar negara , yakni : persatuan kekeluargaan mufakat dan demokrasi musyawarah keadilan sosial ir .
+sentence 5: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
+passage 4 score = 5.5
+sentence 1: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
+sentence 2: panitia sembilan ini menghasilkan dokumen yang berisi asas dan tujuan indonesia merdeka .
+sentence 3: dokumen ini lebih dikenal dengan nama piagam djakarta , yang isinya sebagai berikut : ketuhanan dengan berkewajiban menjalankan syariat-syariat islam bagi para pemeluknya .
+sentence 4: kemanusian yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan atau perwakilan keadilan sosial bagi seluruh rakyat indonesia .
+sentence 5: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
+passage 3 score = 5.0
+sentence 1: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
+sentence 2: namun pada tanggal 22 juni 1945 , sembilan orang anggota yaitu ir .
+sentence 3: soekarno , drs. moch .
+sentence 4: hatta , mr. muh .
+sentence 5: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
+passage 6 score = 5.0
+sentence 1: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
+sentence 2: landasan dasar internasional piagam atlantik ( 14 agustus 1941 ) yang ditanda tangani oleh franklin delano roosevelt ( presiden as ) dengan winston churchill ( pm inggris ) .
+sentence 3: yang berisi : tidak boleh ada perluasan daerah tampa persetujuan dari penduduk asli .
+sentence 4: setiap bangsa berhak menentukan dan menetapkan bentuk pemerintahannya sendiri .
+sentence 5: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 8.5
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 8.5
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 59 score = 7.833333333333333
+sentence 1: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
+sentence 2: karena mereka beranggapan bahwa sebagian tokoh-tokoh tua yang hadir adalah “ budak-budak ” jepang .
+sentence 3: selanjutnya sukarni , salah satu tokoh golongan muda , mengusulkan agar yang menandatangani naskah proklamasi cukup sukarno-hatta atas nama bangsa indonesia .
+sentence 4: setelah usulan sukarni itu disetujui , maka ir .
+sentence 5: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 32 score = 7.333333333333333
+sentence 1: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
+sentence 2: ketika ketiga tokoh itu berangkat kembali menuju jakarta pada tanggal 14 agustus 1945 , jepang telah dibom atom oleh sekutu di kota hirosima dan nagasaki .
+sentence 3: bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke manchuria .
+sentence 4: dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
+sentence 5: keesokan harinya , pada tanggal 15 agustus 1945 sukarno-hatta tiba kembali di tanah air .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 35 score = 7.333333333333333
+sentence 1: hatta .
+sentence 2: syahrir juga menanyakan mengenai kemerdekaan indonesia sehubungan dengan peristiwa tersebut .
+sentence 3: moh .
+sentence 4: hatta berjanji akan menanyakan hal itu kepada gunseikanbu .
+sentence 5: setelah yakin bahwa jepang telah menyerah kepada sekutu , moh .
+
+
+Pencarian jawaban
+---------------------
+
+
+pertempuran besar meletus pada <TIME>tahun 1666</TIME> ketika makassar di bawah pemerintahan sultan hasanuddin .
+
+
+tidak ada entitas jawaban, skip
+
+
+dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan <PERSON>aru palaka raja</PERSON> bone .
+
+memproses passage 5
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+list jawaban dan posisi dalam passage
+aru palaka raja | position = 9
+
+
+melakukan pencarian:
+kata kunci = menandatangani
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = speelman
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = kapten
+tokenwithtagstemmed = jonker
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = aru palaka raja
+tokenwithtagstemmed = bone
+kata kunci = janji
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = speelman
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = kapten
+tokenwithtagstemmed = jonker
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = aru palaka raja
+tokenwithtagstemmed = bone
+kata kunci = bongaya
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = speelman
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = kapten
+tokenwithtagstemmed = jonker
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = aru palaka raja
+tokenwithtagstemmed = bone
+
+
+perlawanan hasanuddin berhasil dipatahkan dan <PERSON>para pemimpin</PERSON> yang tidak mau tunduk kepada voc , seperti kraeng galesung dan <PERSON>montemerano</PERSON> melarikan diri ke jawa .
+
+memproses passage 5
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+list jawaban dan posisi dalam passage
+pemimpin | position = 4
+montemerano | position = 9
+
+
+melakukan pencarian:
+kata kunci = menandatangani
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = patah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = tunduk
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = kraeng
+tokenwithtagstemmed = galesung
+tokenwithtagstemmed = montemerano
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = jawa
+kata kunci = janji
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = patah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = tunduk
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = kraeng
+tokenwithtagstemmed = galesung
+tokenwithtagstemmed = montemerano
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = jawa
+kata kunci = bongaya
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = patah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = tunduk
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = kraeng
+tokenwithtagstemmed = galesung
+tokenwithtagstemmed = montemerano
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = jawa
+
+
+sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada <TIME>tanggal 18 nopember 1667</TIME> .
+
+
+tidak ada entitas jawaban, skip
+
+
+isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+
+
+tidak ada entitas jawaban, skip
+
+
+pertempuran besar meletus pada <TIME>tahun 1666</TIME> ketika makassar di bawah pemerintahan sultan hasanuddin .
+
+
+tidak ada entitas jawaban, skip
+
+
+dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan <PERSON>aru palaka raja</PERSON> bone .
+
+memproses passage 5
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+list jawaban dan posisi dalam passage
+aru palaka raja | position = 9
+
+
+melakukan pencarian:
+kata kunci = menandatangani
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = speelman
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = kapten
+tokenwithtagstemmed = jonker
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = aru palaka raja
+tokenwithtagstemmed = bone
+kata kunci = janji
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = speelman
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = kapten
+tokenwithtagstemmed = jonker
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = aru palaka raja
+tokenwithtagstemmed = bone
+kata kunci = bongaya
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = speelman
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = kapten
+tokenwithtagstemmed = jonker
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = aru palaka raja
+tokenwithtagstemmed = bone
+
+
+perlawanan hasanuddin berhasil dipatahkan dan <PERSON>para pemimpin</PERSON> yang tidak mau tunduk kepada voc , seperti kraeng galesung dan <PERSON>montemerano</PERSON> melarikan diri ke jawa .
+
+memproses passage 5
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+list jawaban dan posisi dalam passage
+pemimpin | position = 4
+montemerano | position = 9
+
+
+melakukan pencarian:
+kata kunci = menandatangani
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = patah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = tunduk
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = kraeng
+tokenwithtagstemmed = galesung
+tokenwithtagstemmed = montemerano
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = jawa
+kata kunci = janji
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = patah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = tunduk
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = kraeng
+tokenwithtagstemmed = galesung
+tokenwithtagstemmed = montemerano
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = jawa
+kata kunci = bongaya
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = patah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = tunduk
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = kraeng
+tokenwithtagstemmed = galesung
+tokenwithtagstemmed = montemerano
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = jawa
+
+
+sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada <TIME>tanggal 18 nopember 1667</TIME> .
+
+
+tidak ada entitas jawaban, skip
+
+
+isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+
+
+tidak ada entitas jawaban, skip
+
+
+usulan tersebut ditentang oleh <PERSON>tokoh-tokoh pemuda .</PERSON>
+
+memproses passage 59
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+list jawaban dan posisi dalam passage
+tokoh tokoh pemuda | position = 2
+
+
+melakukan pencarian:
+kata kunci = menandatangani
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = tokoh tokoh pemuda
+kata kunci = janji
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = tokoh tokoh pemuda
+kata kunci = bongaya
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = tokoh tokoh pemuda
+
+
+karena mereka beranggapan bahwa sebagian tokoh-tokoh tua yang hadir adalah “ budak-budak ” jepang .
+
+
+tidak ada entitas jawaban, skip
+
+
+selanjutnya sukarni , salah satu tokoh golongan muda , mengusulkan agar yang menandatangani naskah proklamasi cukup sukarno-hatta atas nama bangsa indonesia .
+
+
+tidak ada entitas jawaban, skip
+
+
+setelah usulan sukarni itu disetujui , maka ir .
+
+
+tidak ada entitas jawaban, skip
+
+
+sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan <PERSON>sukarno</PERSON> tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
+
+memproses passage 59
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+list jawaban dan posisi dalam passage
+sukarno | position = 9
+
+
+melakukan pencarian:
+kata kunci = menandatangani
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = minta
+tokenwithtagstemmed = sajuti
+tokenwithtagstemmed = melik
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = etik
+tokenwithtagstemmed = naskah
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = tangan
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = serta
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = pakat
+kata kunci = janji
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = minta
+tokenwithtagstemmed = sajuti
+tokenwithtagstemmed = melik
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = etik
+tokenwithtagstemmed = naskah
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = tangan
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = serta
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = pakat
+kata kunci = bongaya
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = minta
+tokenwithtagstemmed = sajuti
+tokenwithtagstemmed = melik
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = etik
+tokenwithtagstemmed = naskah
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = tangan
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = serta
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = pakat
+
+
+wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
+
+
+tidak ada entitas jawaban, skip
+
+
+ketika ketiga tokoh itu berangkat kembali menuju jakarta pada <TIME>tanggal 14 agustus 1945</TIME> , jepang telah dibom atom oleh <PERSON>sekutu</PERSON> di <LOCATION>kota hirosima</LOCATION> dan nagasaki .
+
+memproses passage 32
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+list jawaban dan posisi dalam passage
+sekutu | position = 10
+
+
+melakukan pencarian:
+kata kunci = menandatangani
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = berangkat
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = jakarta
+tokenwithtagstemmed = tanggal 14 agustus 1945
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = kota hirosima
+tokenwithtagstemmed = nagasaki
+kata kunci = janji
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = berangkat
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = jakarta
+tokenwithtagstemmed = tanggal 14 agustus 1945
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = kota hirosima
+tokenwithtagstemmed = nagasaki
+kata kunci = bongaya
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = berangkat
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = jakarta
+tokenwithtagstemmed = tanggal 14 agustus 1945
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = kota hirosima
+tokenwithtagstemmed = nagasaki
+
+
+bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke <LOCATION>manchuria .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
+
+
+tidak ada entitas jawaban, skip
+
+
+<TIME>keesokan harinya ,</TIME> pada <TIME>tanggal 15 agustus 1945</TIME> sukarno-hatta tiba kembali di tanah air .
+
+
+tidak ada entitas jawaban, skip
+
+
+hatta .
+
+
+tidak ada entitas jawaban, skip
+
+
+syahrir juga menanyakan mengenai kemerdekaan indonesia sehubungan dengan peristiwa tersebut .
+
+
+tidak ada entitas jawaban, skip
+
+
+moh .
+
+
+tidak ada entitas jawaban, skip
+
+
+hatta berjanji akan menanyakan hal itu kepada gunseikanbu .
+
+
+tidak ada entitas jawaban, skip
+
+
+setelah yakin bahwa jepang telah menyerah kepada <PERSON>sekutu</PERSON> , moh .
+
+memproses passage 35
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+list jawaban dan posisi dalam passage
+sekutu | position = 3
+
+
+melakukan pencarian:
+kata kunci = menandatangani
+tokenwithtagstemmed = yakin
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = moh
+kata kunci = janji
+tokenwithtagstemmed = yakin
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = moh
+kata kunci = bongaya
+tokenwithtagstemmed = yakin
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = moh
+
+Pengurutan kandidat jawaban
+
+
+selesai

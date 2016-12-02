@@ -1,0 +1,18 @@
+trainFileList = C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok387.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok392.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok396.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok397.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok399.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok400.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok402.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok50.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok51.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok52.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok53.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok54.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok56.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok57.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok58.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok59.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok63.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok67.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok68.tsv,C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing\\dok71.tsv
+serializeTo = ner-model.ser.gz
+map = word=0,answer=1
+maxLeft=1
+useClassFeature=true
+useWord=true
+useNGrams=true
+noMidNGrams=true
+maxNGramLeng=6
+usePrev=true
+useNext=true
+useDisjunctive=true
+useSequences=true
+usePrevSequences=true
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC

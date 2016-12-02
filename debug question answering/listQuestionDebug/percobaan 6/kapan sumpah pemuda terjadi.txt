@@ -1,0 +1,2229 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok177.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok192.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok380.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok196.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok335.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok354.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok130.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok59.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok282.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok346.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok171.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok211.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok199.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok193.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok117.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok46.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok28.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok99.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok375.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok369.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok295.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok100.txt
+
+searching dari query expansion
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
+
+query token : 
+sumpah pemuda jadi 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 27 score = 8.166666666666668
+sentence 1: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+sentence 2: kerajaan majapahit mencapai puncak kejayaannya pada masa pemerintahan hayam wuruk .
+sentence 3: wilayah kekuasaan majapahit meliputi seluruh nusantara .
+sentence 4: pada saat itulah cita-cita gajah mada dengan sumpah palapa berhasil diwujudkan .
+sentence 5: usaha gajah mada dalam melaksanakan politiknya , berakhir pada tahun 1357 dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
+passage 6 score = 7.833333333333333
+sentence 1: tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan kebo anabrang kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
+sentence 2: dara petak diambil istri oleh r. wijaya , sedangan dara jingga kawin dengan keluarga raja yang mempunyai anak bernama adityawarman .
+sentence 3: dialah yang kelak menjadi raja di kerajaan malayu ( minangkabau ) .
+sentence 4: demikianlah usaha-usaha yang dilakukan oleh r. wijaya dalam upaya mengatur dan memperkuat kekuasaan pada masa awal kerajaan majapahit .
+sentence 5: pada tahun 1309 r. wijaya meninggal dunia dan didharmakan di candi simping ( sumberjati , blitar ) dalam perwujudan harihara ( siwa dan wisnu dalam satu arca ) .
+passage 8 score = 7.833333333333333
+sentence 1: kekacauan di majapahit itu berupa pemberontakan yang dapat membahayakan negara , seperti berikut .
+sentence 2: a ) pemberontakan rangga lawe ( 1309 ) yang berkedudukan di tuban tidak puas karena ia mengharapkan dapat menjadi patih di majapahit , sedangkan yang diangkat adalah nambi .
+sentence 3: b ) pemberontakan lembu sora ( 1311 ) karena hasutan mahapati yang merupakan musuh dalam selimut jayanegara .
+sentence 4: c ) pemberontakan nambi ( 1316 ) karena ambisi ayahnya aria wiraraja agar nambi menjadi raja .
+sentence 5: semua pemberontakan tersebut dapat dipadamkan .
+passage 9 score = 7.833333333333333
+sentence 1: semua pemberontakan tersebut dapat dipadamkan .
+sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
+sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
+sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
+sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+passage 10 score = 7.833333333333333
+sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
+sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
+sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
+sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
+passage 23 score = 7.833333333333333
+sentence 1: pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke daerah badandea .
+sentence 2: jayanegara diselamatkan oleh pasukan bhayangkari di bawah pimpinan gajah mada .
+sentence 3: berkat ketangkasan dan siasat jitu dari gajah mada , pemberontakan kuti berhasil ditumpas .
+sentence 4: sebagai penghargaan atas jasa-jasanya , gajah mada diangkat menjadi patih di kahuripan pada tahun 1321 m dan patih di daha ( kediri ) .
+sentence 5: pada tahun 1328 , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat .
+passage 24 score = 7.833333333333333
+sentence 1: pada tahun 1328 , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat .
+sentence 2: jayanegara tidak mempunyai putra , maka takhta kerajaan digantikan oleh adik perempuannya yang bernama tribhuanatunggadewi .
+sentence 3: ia dinobatkan menjadi raja majapahit dengan gelar tribhuanatunggadewi jaya wisnu wardhani .
+sentence 4: pada masa pemerintahannya , terjadi pemberontakan sadeng dan keta pada tahun 1331 .
+sentence 5: pemberontakan ini dapat dipadamkan oleh gajah mada .
+passage 26 score = 7.833333333333333
+sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
+sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
+sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+passage 29 score = 7.833333333333333
+sentence 1: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
+sentence 2: pada tahun 1364 m , gajah mada meninggal dunia .
+sentence 3: hal itu merupakan kehilangan yang sangat besar bagi majapahit .
+sentence 4: kemudian pada tahun 1389 raja hayam wuruk meninggal dunia .
+sentence 5: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+passage 30 score = 7.833333333333333
+sentence 1: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+sentence 2: setelah hayam wuruk meninggal , takhta kerajaan majapahit diduduki oleh wikramawardhana .
+sentence 3: ia adalah menantu hayam wuruk yang menikah dengan putrinya yang bernama kusumawardhani .
+sentence 4: ia memerintah kerajaan majapahit selama dua belas tahun .
+sentence 5: pada tahun 1401 mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 27 score = 8.166666666666668
+sentence 1: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+sentence 2: kerajaan majapahit mencapai puncak kejayaannya pada masa pemerintahan hayam wuruk .
+sentence 3: wilayah kekuasaan majapahit meliputi seluruh nusantara .
+sentence 4: pada saat itulah cita-cita gajah mada dengan sumpah palapa berhasil diwujudkan .
+sentence 5: usaha gajah mada dalam melaksanakan politiknya , berakhir pada tahun 1357 dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
+passage 6 score = 7.833333333333333
+sentence 1: tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan kebo anabrang kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
+sentence 2: dara petak diambil istri oleh r. wijaya , sedangan dara jingga kawin dengan keluarga raja yang mempunyai anak bernama adityawarman .
+sentence 3: dialah yang kelak menjadi raja di kerajaan malayu ( minangkabau ) .
+sentence 4: demikianlah usaha-usaha yang dilakukan oleh r. wijaya dalam upaya mengatur dan memperkuat kekuasaan pada masa awal kerajaan majapahit .
+sentence 5: pada tahun 1309 r. wijaya meninggal dunia dan didharmakan di candi simping ( sumberjati , blitar ) dalam perwujudan harihara ( siwa dan wisnu dalam satu arca ) .
+passage 8 score = 7.833333333333333
+sentence 1: kekacauan di majapahit itu berupa pemberontakan yang dapat membahayakan negara , seperti berikut .
+sentence 2: a ) pemberontakan rangga lawe ( 1309 ) yang berkedudukan di tuban tidak puas karena ia mengharapkan dapat menjadi patih di majapahit , sedangkan yang diangkat adalah nambi .
+sentence 3: b ) pemberontakan lembu sora ( 1311 ) karena hasutan mahapati yang merupakan musuh dalam selimut jayanegara .
+sentence 4: c ) pemberontakan nambi ( 1316 ) karena ambisi ayahnya aria wiraraja agar nambi menjadi raja .
+sentence 5: semua pemberontakan tersebut dapat dipadamkan .
+passage 9 score = 7.833333333333333
+sentence 1: semua pemberontakan tersebut dapat dipadamkan .
+sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
+sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
+sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
+sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+passage 10 score = 7.833333333333333
+sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
+sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
+sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
+sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
+passage 23 score = 7.833333333333333
+sentence 1: pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke daerah badandea .
+sentence 2: jayanegara diselamatkan oleh pasukan bhayangkari di bawah pimpinan gajah mada .
+sentence 3: berkat ketangkasan dan siasat jitu dari gajah mada , pemberontakan kuti berhasil ditumpas .
+sentence 4: sebagai penghargaan atas jasa-jasanya , gajah mada diangkat menjadi patih di kahuripan pada tahun 1321 m dan patih di daha ( kediri ) .
+sentence 5: pada tahun 1328 , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat .
+passage 24 score = 7.833333333333333
+sentence 1: pada tahun 1328 , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat .
+sentence 2: jayanegara tidak mempunyai putra , maka takhta kerajaan digantikan oleh adik perempuannya yang bernama tribhuanatunggadewi .
+sentence 3: ia dinobatkan menjadi raja majapahit dengan gelar tribhuanatunggadewi jaya wisnu wardhani .
+sentence 4: pada masa pemerintahannya , terjadi pemberontakan sadeng dan keta pada tahun 1331 .
+sentence 5: pemberontakan ini dapat dipadamkan oleh gajah mada .
+passage 26 score = 7.833333333333333
+sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
+sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
+sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+passage 29 score = 7.833333333333333
+sentence 1: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
+sentence 2: pada tahun 1364 m , gajah mada meninggal dunia .
+sentence 3: hal itu merupakan kehilangan yang sangat besar bagi majapahit .
+sentence 4: kemudian pada tahun 1389 raja hayam wuruk meninggal dunia .
+sentence 5: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+passage 30 score = 7.833333333333333
+sentence 1: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+sentence 2: setelah hayam wuruk meninggal , takhta kerajaan majapahit diduduki oleh wikramawardhana .
+sentence 3: ia adalah menantu hayam wuruk yang menikah dengan putrinya yang bernama kusumawardhani .
+sentence 4: ia memerintah kerajaan majapahit selama dua belas tahun .
+sentence 5: pada tahun 1401 mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+title : pemerintahan darurat republik indonesia
+passage 4 score = 7.833333333333333
+sentence 1: pada pertengahan november 1948 , atas permintaan komisaris pemerintah pusat untuk sumatera , mohammad hatta pergi ke bukittingi untuk melerai pertikaian antara mayor bedjo dan mayor malau di tapanuli .
+sentence 2: hatta disertai mr. sjafruddin prawiranegara , mr. lukman hakim , rusli rahim , kolonel hidayat , letkol akil prawiradiredja dan lain-lain .
+sentence 3: dalam bukunya , memoir , terbitan tintamas tahun 1982 hatta menyebutkan bahwa sjafruddin bakal menjadi perdana menteri sementara apabila terjadi aksi militer ii belanda .
+sentence 4: setelah perselisihan mayor bedjo dan mayor malau bisa diatasi , hatta kembali ke yogya untuk melakukan perundingan lagi dengan belanda .
+sentence 5: sjafruddin dan para pembantunya diminta untuk sementara tetap di bukittinggi untuk mengatur kembali keuangan di propinsi sumatera .
+passage 6 score = 7.333333333333333
+sentence 1: kalau kemungkinan kedua yang terjadi jadi diinginkan hatta bakal kembali ke sumatera untuk memimpin pemerintahan darurat , semacam yang sempat dibicarakan .
+sentence 2: ternyata perundingan pada tanggal 30 november 1948 itu mengalami kegagalan .
+sentence 3: faktor ini dikarenakan sikap dr. sassen , menteri seberang lautan belanda , yang menyebutkan bahwa tni dijadikan sebagai pengawal keamanan saja , bukan sebagai tentara nasional ris yang bakal dibentuk .
+sentence 4: padahal , sebelum itu telah dicapai kesepakatan antara hatta dengan dr. stikker , menlu belanda , mengenai masalah inti yang dibicarakan : yaitu mengenai pembentukan pemerintahan federal dan status dan kedudukan tni .
+sentence 5: gagalnya perundingan ini diikuti kemudian oleh aksi militer belanda .
+passage 16 score = 7.333333333333333
+sentence 1: m. isa untuk sumatera selatan .
+sentence 2: di jawa , dibentuk komisaris pemerintahan pusat di jawa ( kppd ) , pada 16 mei 1949 .
+sentence 3: kpd terdiri atas ; dr. sukiman sebagai menteri dalam negeri ; mr. sutanto tirtoprodjo menjadi menteri kehakiman ; i.j kasimo sebagai menteri pemecahan makanan rakyat ; k.h. masjkur sebagai menteri agama dan r.p. soeroso sebagai komisaris untuk urusan dalam negeri .
+sentence 4: dengan dibentuknya kppd ini berarti roda pemerintahan di seluruh wilayah ri bisa berlangsung sebagaimana seharusnya .
+sentence 5: kppd ini bertanggung jawab sepenuhnya terhadap ceo pdri .
+passage 1 score = 6.5
+sentence 1: pemerintahan darurat republik indonesia - sebelumnya , telah ada dugaan bahwa belanda bakal melakukan lagi aksi militernya , sebab perundingan antara delegasi ri dengan belanda , yang menuturkan pelaksanaan perjanjian renville di bulan juni 1948 , menemukan jalan buntu .
+sentence 2: sementara itu , pki di bawah ceo muso melakukan pemberontakan di madiun .
+sentence 3: kemudian usulan yang diajukan merle cochran , anak buah ktn dari amerika , di bulan oktober 1948 tidak bisa menembus kemacetan .
+sentence 4: menghadapi situasi semacam ini , ceo negara dan angkatan bersenjata mengadakan rapat untuk mengulas siasat yang bakal diambil .
+sentence 5: dibicarakan pula kemungkinan pemerintahan di pindahkan ke sumatera .
+passage 8 score = 6.5
+sentence 1: kawat pertama ditujukan terhadap mr. sjafruddin prawiranegara : kami presiden republik indonesia mengumumkan bahwa pada hari minggu tanggal 19 desember 1948 jam 6.00 pagi , belanda telah mulai serangannya atas ibukota yogyakarta .
+sentence 2: apabila dalam keadaan pemerintah tidak bisa menjalankan kewajibannya lagi , kita menguasakan terhadap mr. sjafruddin prawiranegara , menteri kemakmuran republik indonesia , untuk membentuk pemerintah republik indonesia darurat di sumatera .
+sentence 3: yogyakarta , 19 desember 1948 .
+sentence 4: presiden soekarno .
+sentence 5: wakil presiden mohammad hatta .
+passage 3 score = 6.0
+sentence 1: sedangkan menteri lain dan ceo angkatan bersenjata memimpin perang gerilya di jawa .
+sentence 2: dipilihnya sumatera sebab wilayahnya yang luas dan hutannya yang tetap lebat .
+sentence 3: sejak dulu sumatera , terutama aceh , susah ditundukan .
+sentence 4: tidak hanya itu letaknya yang di ujung barat wilayah ri bakal mempermudah hubungan dengan luar negeri , seperi india , srilangka dan birma .
+sentence 5: pada pertengahan november 1948 , atas permintaan komisaris pemerintah pusat untuk sumatera , mohammad hatta pergi ke bukittingi untuk melerai pertikaian antara mayor bedjo dan mayor malau di tapanuli .
+passage 7 score = 6.0
+sentence 1: gagalnya perundingan ini diikuti kemudian oleh aksi militer belanda .
+sentence 2: ditawannya para pemimpin negara menyebabkan rencana semula tidak bisa dilaksanakan .
+sentence 3: berbagai kalangan dipihak republik indonesia agak sedih menonton kenyataan ini .
+sentence 4: presiden dan wakil presiden/pm sempat mengirimkan dua kawat sebelum ditawan .
+sentence 5: kawat pertama ditujukan terhadap mr. sjafruddin prawiranegara : kami presiden republik indonesia mengumumkan bahwa pada hari minggu tanggal 19 desember 1948 jam 6.00 pagi , belanda telah mulai serangannya atas ibukota yogyakarta .
+passage 9 score = 6.0
+sentence 1: wakil presiden mohammad hatta .
+sentence 2: kawat kedua ditujukan terhadap mr. a.a. maramis di new delhi : kami presiden republik indonesia mengumumkan bahwa pada hari minggu tanggal 19 desember 1948 jam 6.00 pagi , belanda telah mulai serangannya atas ibukota yogyakarta .
+sentence 3: apabila ikhtiar mr. sjafruddin prawiranegara membentuk pemerintah darurat di sumatera tidak berhasil , terhadap saudara dikuasakan untuk membentuk exile government republik indonesia di new delhi .
+sentence 4: harap dalam faktor ini berhubungan dengan mr. sjafruddin prawiranegara di sumatera .
+sentence 5: apabila hubungan tidak mungkin , harap diambil tindakan-tindakan seperlunya .
+passage 10 score = 6.0
+sentence 1: apabila hubungan tidak mungkin , harap diambil tindakan-tindakan seperlunya .
+sentence 2: yogyakarta , 19 desember 1948 .
+sentence 3: wakil presiden mohammad hatta .
+sentence 4: menteri luar negeri h. agoes salim .
+sentence 5: mandat di atas tidak sempat hingga ketangan sjafruddin .
+passage 12 score = 6.0
+sentence 1: pembicaraan mengenai pembentukan pdri dihadiri menteri kemakmuran sjafruddin prawiranegara , komisaris pemerintahan pusat untuk sumatera teuku mohammad hasan , residen sumatera tengah sutan mohammad rasjid , komisaris negara urusan keuangan lukman hakim , koordinator perhubungan untuk sumatera indratjahja , kepala jawatan pekerjaan umum sumatera mananti sitompul , kolonel laut m. nazir , kolonel laut adam , direktur bni abdul karim , koordinator kementerian kemakmuran untuk sumatera abdul latif , kepala jawatan koperasi pusat rusli rahim , komisaris besar polisi umar said , kolonel udara h. sujono , idris batangtaris - ajudan ajafruddin , dan lain-lain .
+sentence 2: pertemuan diadakan di halaban , 15km sebelah selatan payakumbuh .
+sentence 3: seusai mendengar laporan residen sutan muhammad rasjid mengenai keadaan bukittinggi , yang juga dibombardir belanda , dan sumatera umumnya pusat pembicaraan diarahkan pada pembentukan pdri .
+sentence 4: setelah kesepakatan didapat , dan menyerahkan diri sepenuh pada allah swt , diumumkanlah berdirinya pdri pada tanggal 22 desember 1948 , jam 04.30 .
+sentence 5: berdirinya pdri segera disiarkan ke luar negeri dan dijelaskan bahwa pemerintah republik indonesia tetap ada bersifat mobil .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+passage 1 score = 7.833333333333333
+sentence 1: kerajaan majapahit didirikan tahun 1294 oleh raden wijaya yang bergelar kertarajasa jayawardana yang merupakan keturunan ken arok raja singosari .
+sentence 2: raja-raja yang pernah memerintah kerajaan majapahit : raden wijaya 1273 – 1309 jayanegara 1309-1328 tribhuwanatunggaldewi 1328-1350 hayam wuruk 1350-1389 wikramawardana 1389-1429 kertabhumi 1429-1478 kerajaan majapahit ini mencapai puncak kejayaannya di masa pemerintahan raja hayam wuruk ( 1350-1389 ) .
+sentence 3: kebesaran kerajaan ditunjang oleh pertanian sudah teratur , perdagangan lancar dan maju , memiliki armada angkutan laut yang kuat serta dipimpin oleh hayam wuruk dengan patih gajah mada .
+sentence 4: di bawah patih gajah mada majapahit banyak menaklukkan daerah lain .
+sentence 5: dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+passage 2 score = 7.833333333333333
+sentence 1: dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+sentence 2: mpu prapanca dalam bukunya negara kertagama menceritakan tentang zaman gemilang kerajaan di masa hayam wuruk dan juga silsilah raja sebelumnya tahun 1364 gajah mada meninggal disusun oleh hayam wuruk di tahun 1389 dan kerajaan majapahit mulai mengalami kemunduran .
+sentence 3: penyebab kemunduran : majapahit kehilangan tokoh besar seperti hayam wuruk dan gajah mada meletusnya perang paragreg tahun 1401-1406 merupakan perang saudara memperebutkan kekuasaan daerah bawahan mulai melepaskan diri .
+sentence 4: peninggalan kerajaan majapahit : bangunan : candi panataran , sawentar , tiga wangi , muara takus kitab : negara kertagama oleh mpu prapanca , sitosoma oleh mpu tantular yang memuat slogan bhinneka tunggal ika .
+sentence 5: paraton kidung sundayana dan sorandaka r wijaya mendapat wangsit mendirikan kerajaan majapahit .
+passage 14 score = 7.833333333333333
+sentence 1: karena terdesak , prabu brawijaya mengungsi ke ( tanjung ) sengguruh beserta keluarganya diiringi patih gajah mada .
+sentence 2: itu terjadi tahun 1399 saka atau 1477 masehi .
+sentence 3: setelah dinobatkan menjadi sultan demak bergelar “ panembahan jinbun ” , adipati bintara mengutus lembu peteng dan jaran panoleh ke sengguruh meminta sang prabu masuk agama islam .
+sentence 4: tapi beliau tetap menolak .
+sentence 5: akhirnya sengguruh diserbu dan prabu brawijaya lari kepulau bali .
+passage 21 score = 7.833333333333333
+sentence 1: yamin dalam bukunya “ gajah mada ” juga menyebutkan bahwa runtuhnya brawijaya v raja majapahit terakhir , akibat serangan ranawijaya dari kerajaan keling , jadi bukan serangan dari demak .
+sentence 2: uraian tentang keterlibatan mahapatih gajah mada memimpin pasukan majapahit ketika diserang demak 1478 itu sudah bertentangan dengan sejarah .
+sentence 3: soalnya gajah mada sudah meninggal tahun 1364 masehi atau 1286 saka .
+sentence 4: penuturan buku “ dari panggung sejarah ” terjemahan ip simanjuntak yang bersumber dari tulisan h.j. van den berg ternyata juga runtuhnya majapahit bukan akibat serangan demak atau tentara islam .
+sentence 5: ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi majapahit tahun 1413 masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari gujarat dan malaka .
+passage 30 score = 7.833333333333333
+sentence 1: pewaris tahta raden wijaya , yakni masa pemerintahan kalagemet/jayanegara ( 1309-1328 ) , yang dalam sebuah prasasti dianggap sebagai titisan wisnu dengan lencana negara minadwaya ( dua ekor ikan ) dalam memerintah banyak menghadapi pemberontakan-pemberontakan terhadap majapahit dari mereka yang masih setia kepada kertarajasa .
+sentence 2: pemberontakan pertama sebetulnya sudah dimulai sejak kertarajasa masih hidup , yaitu oleh rangga lawe yang berkedudukan di tuban , akibat tidak puas karena bukan dia yang menjadi patih majapahit tetapi nambi , anak wiraraja .
+sentence 3: tetapi usahanya ( 1309 ) dapat digagalkan .
+sentence 4: pemberontakan kedua di tahun 1311 oleh sora , seorang rakryan di majapahit , tapi gagal .
+sentence 5: lalu yang ketiga dalam tahun 1316 , oleh patihnya sendiri yaitu nambi , dari daerah lumajang dan benteng di pajarakan .
+passage 3 score = 7.333333333333333
+sentence 1: paraton kidung sundayana dan sorandaka r wijaya mendapat wangsit mendirikan kerajaan majapahit .
+sentence 2: dua pohon beringin di pintu masuk pendopo agung di trowulan , mojokerto .
+sentence 3: dua pohon beringin itu ditanam pada 22 desemebr 1973 oleh pangdam widjojo soejono dan gubernur moehammad noer .
+sentence 4: di belakang bangunan pendopo agung yang memampang foto para pangdam brawijaya , terdapat bangunan mungil yang dikelilingi kuburan umum .
+sentence 5: bangunan bernama petilasan panggung itu diyakini petilasan raden wijaya dan tempat patih gajah mada mengumandangkan sumpah palapa .
+passage 7 score = 7.333333333333333
+sentence 1: sedangkan dibagian depan pintu bergantung sebuah papan kecil dengan tulisan ” lima pedoman ” yang merupakan pedoman suri teladan bagi warga .
+sentence 2: selengkapnya ” ponco waliko ” itu bertuliskan ” kudutrisno marang sepadane urip , ora pareng ngilik sing dudu semestine , ora pareng sepatah nyepatani dan ora pareng eidra hing ubaya ” dikisahkan sajadu pula , petilasan panggung ini sempat dinyatakan tertutup bagi umum pada tahun 1985 hingga 1995 .
+sentence 3: baru setelah itu dibuka lagi untuk umum , sejak dinyatakan dibuka lagi , pintu depan tidak lagi tertutup dan siangpun boleh masuk .
+sentence 4: masa kejayaan majapahit kerajaan majapahit mencapai masa keemasan ketika dipimpin oleh hayam wuruk dengan patihnya gajah mada yang terkenal dengan sumpah palapa .
+sentence 5: majapahit menaklukkan hampir seluruh nusantara dan melebarkan sayapnya hingga ke seluruh asia tenggara .
+passage 10 score = 7.333333333333333
+sentence 1: tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
+sentence 2: bahkan kemudian raden patah lalu mengumpulkan para bupati pesisir seperti tuban , madura dan surabaya serta para sunan untuk bersama-sama menyerbu majapahit yang kafir itu .
+sentence 3: prajurit islam dikerahkan mengepung ibu kota kerajaan , karena segan berperang dengan puteranya sendiri , prabu brawijaya meloloskan diri dari istana bersama pengikut yang masih setia .
+sentence 4: sehingga ketika raden patah dan rombongannya ( termasuk para sunan ) tiba , istana itu kosong .
+sentence 5: atas nasihat sunan ampel , untuk menawarkan segala pengaruh raja kafir , diangkatlah sunan gresik jadi raja majapahit selama 40 hari .
+passage 11 score = 7.333333333333333
+sentence 1: atas nasihat sunan ampel , untuk menawarkan segala pengaruh raja kafir , diangkatlah sunan gresik jadi raja majapahit selama 40 hari .
+sentence 2: sesudah itu baru diserahkan kepada sultan bintara untuk diboyong ke demak .
+sentence 3: cerita ini masih dibumbui lagi , yaitu setelah majapahit jatuh , adipati terung ditugasi mengusung paseban raja majapahit ke demak untuk kemudian dijadikan serambi masjid .
+sentence 4: adipati bintara itu kemudian bergelar “ senapati jinbun ngabdurrahman panembahan palembang sayidina panatagama ” .
+sentence 5: cerita mengenai serbuan tentara majapahit itu dapat ditemui dalam “ babad tanah jawi ” .
+passage 6 score = 6.5
+sentence 1: sampai sekarang , batu tersebut masih ada di dalam , katanya .
+sentence 2: kemudian pada 1964 , dilakukan pemugaran pertama kali oleh ibu sudarijah atau yang dikenal dengan ibu dar moeriar dari surabaya .
+sentence 3: baru pada tahun 1995 dilakukan pemugaran kembali oleh pangdam brawijaya yang saat itu dijabat oleh utomo .
+sentence 4: memasuki kawasan petilasan panggung , terpampang gambar gajah mada tepat disamping pintu masuk .
+sentence 5: sedangkan dibagian depan pintu bergantung sebuah papan kecil dengan tulisan ” lima pedoman ” yang merupakan pedoman suri teladan bagi warga .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
+title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
+passage 14 score = 7.833333333333333
+sentence 1: f. mesin uap , ciptaan james watt ( 1769 ) .
+sentence 2: dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( 1804 ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang .
+sentence 3: kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( 1814 ) .
+sentence 4: mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' .
+sentence 5: penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
+passage 2 score = 7.333333333333333
+sentence 1: sebab-sebab timbulnya revolusi industri revolusi industri untuk kali pertamanya muncul di inggris .
+sentence 2: banyak faktor yang mempengaruhinya .
+sentence 3: adapun faktor-faktornya yang menyebabkannya adalah sebagai berikut .
+sentence 4: a. situasi politik yang stabil .
+sentence 5: adanya revolusi glorius tahun 1688 yang mengharuskan raja bersumpah setia kepada bill of right sehingga raja tunduk kepada undang-undang dan hanya menarik pajak berdasarkan atas persejutuan parlemen .
+passage 3 score = 7.333333333333333
+sentence 1: adanya revolusi glorius tahun 1688 yang mengharuskan raja bersumpah setia kepada bill of right sehingga raja tunduk kepada undang-undang dan hanya menarik pajak berdasarkan atas persejutuan parlemen .
+sentence 2: b. inggris kaya bahan tambang , seperti batu bara , biji besi , timah , dan kaolin .
+sentence 3: di samping itu , wol juga yang sangat menunjang industri tekstil .
+sentence 4: c. adanya penemuan baru di bidang teknologi yang dapat mempermudah cara kerja dan meningkatkan hasil produksi , misalnya alat-alat pemintal , mesin tenun , mesin uap , dan sebagainya .
+sentence 5: d. kemakmuran inggris akibat majunya pelayaran dan perdagangan sehingga dapat menyediakan modal yang besar untuk bidang usaha .
+passage 11 score = 6.5
+sentence 1: berbagai jenis penemuan penting adanya penemuan teknologi baru , besar peranannya dalam proses industrialisasi sebab teknologi baru dapat mempermudah dan mempercepat kerja industri , melipatgandakan hasil , dan menghemat biaya .
+sentence 2: penemuan-penemuan yang penting , antara lain sebagai berikut .
+sentence 3: a. kumparan terbang ( flying shuttle ) cipataan john kay ( 1733 ) .
+sentence 4: dengan alat ini proses pemintalan dapat berjalan secara cepat .
+sentence 5: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
+passage 12 score = 6.5
+sentence 1: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
+sentence 2: dengan alat ini hasilnya berlipat ganda .
+sentence 3: c. mesin tenun ( merupakan penyempurnaan dari kumparan terbang ) ciptaan edmund cartwight ( 1785 ) .
+sentence 4: dengan alat ini hasilnya berlipat ganda .
+sentence 5: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
+passage 13 score = 6.5
+sentence 1: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
+sentence 2: dengan alat ini maka kebutuhan kapas bersih dalam jumlah yang besar dapat tercukupi .
+sentence 3: e. cap selinder ciptaan thomas bell ( 1785 ) .
+sentence 4: dengan alat ini kain putih dapat dilukisi pola kembang 200 kali lebih cepat jika dibandingkan dengan pola cap balok dengan tenaga manusia .
+sentence 5: f. mesin uap , ciptaan james watt ( 1769 ) .
+passage 16 score = 6.5
+sentence 1: 2 .
+sentence 2: tahun 1802 : symington menemukan kapal kincir 3 .
+sentence 3: tahun 1807 : robert fulton membuat kapal api yang telah menggunakan baling-baling yang dapat menggerakkan kapal .
+sentence 4: kapal itu diberi nama clermont yang mengarungi lautan atlantik pertama kali .
+sentence 5: kapal ini berangkat dari paris dan berlabuh di new york .
+passage 17 score = 6.5
+sentence 1: kapal ini berangkat dari paris dan berlabuh di new york .
+sentence 2: selanjutnya , robert fulton berhasil membuat kapal perang pertama ( 1814 ) yang telah digerakkan oleh mesin uap .
+sentence 3: 4 .
+sentence 4: tahun 1804 : richard trevethick membuat kereta uap .
+sentence 5: 5 .
+passage 18 score = 6.5
+sentence 1: 5 .
+sentence 2: tahun 1832 : samuel morse membuat telegraf .
+sentence 3: 6 .
+sentence 4: tahun 1872 : graham bell membuat pesawat telepon .
+sentence 5: 7 .
+passage 19 score = 6.5
+sentence 1: 7 .
+sentence 2: tahun 1887 : daimlermembuat mobil .
+sentence 3: 8 .
+sentence 4: tahun 1903 : wilbur wright dan orville wright membuat pesawat terbang .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
+title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
+passage 14 score = 6.833333333333333
+sentence 1: f. mesin uap , ciptaan james watt ( 1769 ) .
+sentence 2: dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( 1804 ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang .
+sentence 3: kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( 1814 ) .
+sentence 4: mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' .
+sentence 5: penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
+passage 2 score = 6.333333333333333
+sentence 1: sebab-sebab timbulnya revolusi industri revolusi industri untuk kali pertamanya muncul di inggris .
+sentence 2: banyak faktor yang mempengaruhinya .
+sentence 3: adapun faktor-faktornya yang menyebabkannya adalah sebagai berikut .
+sentence 4: a. situasi politik yang stabil .
+sentence 5: adanya revolusi glorius tahun 1688 yang mengharuskan raja bersumpah setia kepada bill of right sehingga raja tunduk kepada undang-undang dan hanya menarik pajak berdasarkan atas persejutuan parlemen .
+passage 3 score = 6.333333333333333
+sentence 1: adanya revolusi glorius tahun 1688 yang mengharuskan raja bersumpah setia kepada bill of right sehingga raja tunduk kepada undang-undang dan hanya menarik pajak berdasarkan atas persejutuan parlemen .
+sentence 2: b. inggris kaya bahan tambang , seperti batu bara , biji besi , timah , dan kaolin .
+sentence 3: di samping itu , wol juga yang sangat menunjang industri tekstil .
+sentence 4: c. adanya penemuan baru di bidang teknologi yang dapat mempermudah cara kerja dan meningkatkan hasil produksi , misalnya alat-alat pemintal , mesin tenun , mesin uap , dan sebagainya .
+sentence 5: d. kemakmuran inggris akibat majunya pelayaran dan perdagangan sehingga dapat menyediakan modal yang besar untuk bidang usaha .
+passage 11 score = 5.5
+sentence 1: berbagai jenis penemuan penting adanya penemuan teknologi baru , besar peranannya dalam proses industrialisasi sebab teknologi baru dapat mempermudah dan mempercepat kerja industri , melipatgandakan hasil , dan menghemat biaya .
+sentence 2: penemuan-penemuan yang penting , antara lain sebagai berikut .
+sentence 3: a. kumparan terbang ( flying shuttle ) cipataan john kay ( 1733 ) .
+sentence 4: dengan alat ini proses pemintalan dapat berjalan secara cepat .
+sentence 5: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
+passage 12 score = 5.5
+sentence 1: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
+sentence 2: dengan alat ini hasilnya berlipat ganda .
+sentence 3: c. mesin tenun ( merupakan penyempurnaan dari kumparan terbang ) ciptaan edmund cartwight ( 1785 ) .
+sentence 4: dengan alat ini hasilnya berlipat ganda .
+sentence 5: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
+passage 13 score = 5.5
+sentence 1: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
+sentence 2: dengan alat ini maka kebutuhan kapas bersih dalam jumlah yang besar dapat tercukupi .
+sentence 3: e. cap selinder ciptaan thomas bell ( 1785 ) .
+sentence 4: dengan alat ini kain putih dapat dilukisi pola kembang 200 kali lebih cepat jika dibandingkan dengan pola cap balok dengan tenaga manusia .
+sentence 5: f. mesin uap , ciptaan james watt ( 1769 ) .
+passage 16 score = 5.5
+sentence 1: 2 .
+sentence 2: tahun 1802 : symington menemukan kapal kincir 3 .
+sentence 3: tahun 1807 : robert fulton membuat kapal api yang telah menggunakan baling-baling yang dapat menggerakkan kapal .
+sentence 4: kapal itu diberi nama clermont yang mengarungi lautan atlantik pertama kali .
+sentence 5: kapal ini berangkat dari paris dan berlabuh di new york .
+passage 17 score = 5.5
+sentence 1: kapal ini berangkat dari paris dan berlabuh di new york .
+sentence 2: selanjutnya , robert fulton berhasil membuat kapal perang pertama ( 1814 ) yang telah digerakkan oleh mesin uap .
+sentence 3: 4 .
+sentence 4: tahun 1804 : richard trevethick membuat kereta uap .
+sentence 5: 5 .
+passage 18 score = 5.5
+sentence 1: 5 .
+sentence 2: tahun 1832 : samuel morse membuat telegraf .
+sentence 3: 6 .
+sentence 4: tahun 1872 : graham bell membuat pesawat telepon .
+sentence 5: 7 .
+passage 19 score = 5.5
+sentence 1: 7 .
+sentence 2: tahun 1887 : daimlermembuat mobil .
+sentence 3: 8 .
+sentence 4: tahun 1903 : wilbur wright dan orville wright membuat pesawat terbang .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
+title : manfaat dan dampak penerapan iptek bagi kelestarian lingkungan hidup
+passage 2 score = 5.0
+sentence 1: keduanya sulit dipisahkan dan saling membutuhkan .
+sentence 2: tanpa ilmu tidak ada penerapan baru dalam teknologi dan tanpa teknologi sulit dapat menikmati penemuan ilmu .
+sentence 3: manfaat iptek bagi kemajuan bangsa yaitu manusia dapat hidup lebih sejahtera .
+sentence 4: kegiatan manusia lebih efektif dan efisien .
+sentence 5: pembangunan bidang iptek pada pjpt ii merupakan kesinambungan perluasan dari pjpt i. menurut gbhn 1993 sasaran pembangunan ekonomi pjpt ii adalah sebagai berikut .
+passage 3 score = 5.0
+sentence 1: pembangunan bidang iptek pada pjpt ii merupakan kesinambungan perluasan dari pjpt i. menurut gbhn 1993 sasaran pembangunan ekonomi pjpt ii adalah sebagai berikut .
+sentence 2: tercapainya kemampuan nasional dalam pemanfaatan , pengembangan , dan penguasaan iptek yang dibutuhkan bagi peningkatan kesejahteraan , kemajuan , peradaban , ketangguhan , dan daya saing bangsa .
+sentence 3: terpacunya pembangunan yang berkelanjutan dan berwawasan lingkungan menuju masyarakat yang berkualitas , maju , mandiri , dan sejahtera yang dilandasi nilai-nilai spiritual , moral dan etik berdasarkan nilai luhur bangsa serta nilai keimanan dan ketakwaan terhadap tuhan yang maha esa .
+sentence 4: untuk mencapai sasaran tersebut , maka arah pembangunan iptek adalah sebagai berikut .
+sentence 5: pemanfaatan pengembangan dan penguasaannya dapat mempercepat proses pembaharuan .
+passage 17 score = 5.0
+sentence 1: pemerintah .
+sentence 2: pemerintah mengeluarkan uu no. 4 tahun 1982 tentang ketentuan-ketentuan pokok pengelolaan lingkungan hidup yang intinya yaitu pelaku pembangunan , pemerintah atau swasta harus melaksanakan amdal ( analisis dampak lingkungan = environmental impact assessment/eia ) .
+sentence 3: tujuan pelaksanaan amdal antara lain sebagai berikut .
+sentence 4: memperkecil dampak proyek/industri terhadap lingkungan .
+sentence 5: memperbesar manfaat proyek terhadap lingkungan dan masyarakat .
+passage 5 score = 1.3333333333333333
+sentence 1: sedangkan kebijaksanaan iptek dalam pelita vi pada pjpt ii ada 5 sektor sebagai berikut .
+sentence 2: teknik produksi yaitu keseluruhan unsur yang turut berperan dalam kegiatan manusia yang menghasilkan barang dan jasa .
+sentence 3: sektor teknologi yaitu kemampuan teknologi dan rekayasa yang mendasari kemampuan bangsa indonesia dalam melakukan inovasi .
+sentence 4: sektor ilmu pengetahuan terapan yaitu ilmu pengetahun yang dapat dimanfaatkan dalam berbagai aspek kehidupan manusia .
+sentence 5: sektor ilmu pengetahuan dasar yaitu ilmu pengetahuan yang menjadi landasan bagi pengembangan ilmu pengetahuan alam , sosial , humaniora , dan mendukung mutu sdm .
+passage 6 score = 1.3333333333333333
+sentence 1: sektor ilmu pengetahuan dasar yaitu ilmu pengetahuan yang menjadi landasan bagi pengembangan ilmu pengetahuan alam , sosial , humaniora , dan mendukung mutu sdm .
+sentence 2: sektor kelembagaan iptek yaitu iptek yang diarahkan untuk meningkatkan sdm agar lebih produktif , kreatif , dan inovatif .
+sentence 3: ilmu pengetahuan dan teknologi di satu sisi bermanfaat bagi manusia dan makhluk hidup lainnya , di sisi lain menimbulkan dampak negatif .
+sentence 4: kemajuan dan manfaat iptek limbah ternak untuk pupuk ( kompos ) .
+sentence 5: sampah dimanfaatkan menjadi gas bio yang berguna untuk keperluan memasak , penerangan , dan tenaga gerak .
+passage 7 score = 1.3333333333333333
+sentence 1: sampah dimanfaatkan menjadi gas bio yang berguna untuk keperluan memasak , penerangan , dan tenaga gerak .
+sentence 2: dengan detoksifikasi surya yaitu sistim pengolahan air yang terkontaminasi dengan memanfaatkan panas matahari/ultraviolet sehingga menghasilkan air yang bersih .
+sentence 3: dalam bidang komunikasi ( radio , tv , telephone , handphone , internet ) sehingga penggunaan waktu lebih efisien dan cepat mendapatkan informasi .
+sentence 4: dapat mendatangkan kemudahan hidup dengan adanya kalkulator , alat rumah tangga elektrolik , pesawat terbang , kereta api , dan sebagainya .
+sentence 5: kemajuan bidang kedokteran dan kesehatan sehingga ditemukan pengobatan berbagai macam penyakit termasuk alat kontrasepsi yang berguna mengatur dan membatasi kelahiran .
+passage 8 score = 1.3333333333333333
+sentence 1: kemajuan bidang kedokteran dan kesehatan sehingga ditemukan pengobatan berbagai macam penyakit termasuk alat kontrasepsi yang berguna mengatur dan membatasi kelahiran .
+sentence 2: pada bidang pertanian ( traktor , alat pemotong padi , pupuk buatan ) menjadi lebih efektif dan efisien dan meningkatkan produktivitas pertanian dengan teknik mutasi buatan dapat menghasilkan buah buahan yang besar tidak berbiji ( contoh buah semangka tanpa biji ) .
+sentence 3: memperluas lapangan kerja karena dibukanya industri-industri baru .
+sentence 4: meningkatkan produksi barang-barang kebutuhan masyarakat ( sandang , pangan , kendaraan , alat elektronika , dan sebagainya ) pengolahan sda lebih berkualitas dan optimal .
+sentence 5: kemajuan bidang pertahanan keamanan dengan persenjataan yang canggih ( rudal , patriot , nuklir , bom atom , dan lain-lain ) bermanfaat untuk mempertahankan pertahanan dan keamanan wilayahnya .
+passage 10 score = 1.3333333333333333
+sentence 1: 2 ) selalu mengadakan monitoring , analisis , dan evaluasi sehingga dapat diketahui sejauh mana gangguan/dampak yang diakibatkan oleh perkembangan iptek .
+sentence 2: 3 ) mengembangkan teknologi proteksi yaitu mengembangkan teknologi yang dilengkapi dengan usaha-usaha pencegahan terhadap dampak yang mungkin terjadi .
+sentence 3: 4 ) mengembangkan teknologi daur ulang untuk pemrosesan kembali limbah untuk mengurangi pencemaran .
+sentence 4: 5 ) mengembangkan teknologi tepat guna dengan ciri-ciri : a ) tidak memerlukan pengetahuan teknik yang tinggi ; b ) sederhana sehingga mudah dilaksanakan ; c ) bermanfaat bagi orang banyak ; d ) dapat mendukung teknologi di bidang lain ; e ) dapat meningkatkan nilai sumber daya alam ( sda ) .
+sentence 5: dampak dari penerapan iptek kegiatan industri menyebabkan limbah berbahaya ( logam-logam berat , zat radioaktif , air buangan panas ( thermal water waste ) , kepulan asap , kebisingan ) .
+passage 11 score = 1.3333333333333333
+sentence 1: dampak dari penerapan iptek kegiatan industri menyebabkan limbah berbahaya ( logam-logam berat , zat radioaktif , air buangan panas ( thermal water waste ) , kepulan asap , kebisingan ) .
+sentence 2: pertambangan , berupa terjadinya kerusakan instalasi , kebocoran , pencemaran buangan penambangan , rusaknya lahan-lahan bekas pertambahan dan pencemaran udara .
+sentence 3: transportasi , berupa pencemaran udara , suara dan naiknya suhu udara kota .
+sentence 4: pertanian , akibat dari naiknya pemakaian zat-zat kimia seperti pestisida , insektisida , herbisida , fungisida sehingga terjadi pencemaran air dan tanah .
+sentence 5: perikanan , karena pendangkalan sungai , erosi , pembuangan limbah industry sehingga meracuni ikan , polusi air .
+passage 13 score = 1.3333333333333333
+sentence 1: kemajuan teknologi tv menimbulkan pergeseran norma dan nilai bermasyarakat , berkembangnya konsumerisme , seks bebas , dan sadisme .
+sentence 2: menumbuhkan rasa tanggung jawab dalam mengembangkan iptek serta menjaga kelestarian lingkungan hidup .
+sentence 3: terjadinya masalah lingkungan hidup disebabkan oleh tidak seimbangnya antara penggunaan teknologi dan lingkungan hidup .
+sentence 4: untuk menjaga keseimbangan antara kemajuan teknologi dengan lingkungan hidup , maka perlu diupayakan hal-hal berikut ini .
+sentence 5: memelihara lingkungan terutama penggunaan air tanah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
+title : nusantara sebelum kedatangan islam
+passage 16 score = 6.333333333333333
+sentence 1: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
+sentence 2: pada tahun 1478 , majapahit mengalami keruntuhannya .
+sentence 3: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 4: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
+sentence 5: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
+passage 11 score = 5.5
+sentence 1: rakyat lebih banyak melakukan kewajibannya .
+sentence 2: pemikiran konsep ini tidak memungkinkan adanya suatu bentuk perjanjian sosial ( social contract ) atau konsep mengenai kewajiban-kewajiban timbal balik antara atasan dan bawahan .
+sentence 3: b. kondisi politik dan ekonomi pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+sentence 4: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
+sentence 5: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+passage 3 score = 5.0
+sentence 1: 1 .
+sentence 2: kondisi sosial budaya sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+sentence 3: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
+sentence 4: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
+sentence 5: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+passage 12 score = 5.0
+sentence 1: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+sentence 2: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
+sentence 3: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+sentence 4: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
+sentence 5: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
+passage 13 score = 5.0
+sentence 1: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
+sentence 2: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
+sentence 3: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
+sentence 4: tindakan sriwijaya ini ternyata tidak memberikan keuntungan bagi kerajaannya , justru sebaliknya .
+sentence 5: kapal-kapal asing mencoba menghindar untuk berlabuh di pelabuhan-pelabuhan sriwijaya .
+passage 1 score = 1.3333333333333333
+sentence 1: nusantara sebelum kedatangan islam - munculnya agama islam di indonesia tidak terlepas dari pengaruh persentuhan kebudayaan antara daerah nusantara dengan negara yang membawa pengaruh islam .
+sentence 2: persentuhan kebudayaan ini terjadi sebagai salah satu akibat dari hubungan yang dilakukan antara orang-orang islam dengan orang-orang yang ada di nusantara .
+sentence 3: sebab , daerah nusantara merupakan jalur perdagangan strategis yang menghubungkan antara dua negara , yaitu laut tengah dan cina .
+sentence 4: hubungan perdagangan yang semakin lama semakin intensif menimbulkan pengaruh terhadap masuknya pengaruh-pengaruh kebudayaan arab , parsi , india , dan cina di nusantara .
+sentence 5: dengan kata lain , terjadilah proses akulturasi antara kebudayaan negara-negara itu dengan kebudayaan nusantara .
+passage 2 score = 1.3333333333333333
+sentence 1: dengan kata lain , terjadilah proses akulturasi antara kebudayaan negara-negara itu dengan kebudayaan nusantara .
+sentence 2: proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
+sentence 3: secara geografis wilayah nusantara memiliki arti yang sangat penting bagi masuknya unsurunsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
+sentence 4: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
+sentence 5: 1 .
+passage 5 score = 1.3333333333333333
+sentence 1: terciptalah suatu tatanan masyarakat kota .
+sentence 2: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
+sentence 3: dengan demikian , kehidupan masyarakat di kota pelabuhan akan menciptakan suatu masyarakat yang terbuka .
+sentence 4: dalam masyarakat yang seperti ini , akan memudahkan masuknya unsur budaya dari luar .
+sentence 5: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
+passage 6 score = 1.3333333333333333
+sentence 1: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
+sentence 2: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
+sentence 3: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 4: masyarakat yang dibentuk dalam peradaban ini adalah masyarakat yang memiliki struktur hierarkis .
+sentence 5: dalam masyarakat seperti ini , terdapat lapisan-lapisan sosial yang sangat ketat .
+passage 7 score = 1.3333333333333333
+sentence 1: dalam masyarakat seperti ini , terdapat lapisan-lapisan sosial yang sangat ketat .
+sentence 2: masyarakat terbagi atas kastayaitu kasta brahmana , ksatria , waisya dan sudra .
+sentence 3: hubungan antar kasta ini bersifat vertikal yang sempit , artinya interaksi antarindividu hanya terjadi pada kelompok kastanya sendiri .
+sentence 4: sebagai contoh seorang kasta ksatria tidak bisa menikah dengan seseorang yang berasal dari kasta waisya .
+sentence 5: dalam konsepsi hindu-buddha , hubungan antara manusia dan jagad raya bagaikan hubungan kesejajaran antara makrokosmos dan mikrokosmos .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+passage 1 score = 6.833333333333333
+sentence 1: kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam - proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
+sentence 2: secara geografis wilayah indonesia memiliki arti yang sangat penting bagi masuknya unsur-unsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
+sentence 3: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
+sentence 4: 1 .
+sentence 5: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+passage 6 score = 6.333333333333333
+sentence 1: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
+sentence 2: dengan sumpah palapanya , gajah mada melakukan perluasan wilayah .
+sentence 3: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
+sentence 4: pada tahun 1478 , majapahit mengalami keruntuhannya .
+sentence 5: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+passage 2 score = 5.5
+sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
+sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
+sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+passage 3 score = 5.0
+sentence 1: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+sentence 2: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
+sentence 3: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
+sentence 4: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
+sentence 5: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
+passage 8 score = 5.0
+sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
+sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
+sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+passage 7 score = 1.3333333333333333
+sentence 1: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 2: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
+sentence 3: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
+sentence 4: 2 .
+sentence 5: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+passage 9 score = 1.3333333333333333
+sentence 1: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+sentence 2: interaksi antara unit-unit akan membangun struktur sosial yang dinamik , sehingga akan menampakkan adanya suatu perubahan .
+sentence 3: masyarakat di kota pelabuhan merupakan masyarakat yang urban dan kosmopolit .
+sentence 4: terciptalah suatu tatanan masyarakat kota .
+sentence 5: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
+passage 10 score = 1.3333333333333333
+sentence 1: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
+sentence 2: dengan demikian , kehidupan masyarakat di kota pelabuhan akan menciptakan suatu masyarakat yang terbuka .
+sentence 3: dalam masyarakat yang seperti ini , akan memudahkan masuknya unsur budaya dari luar .
+sentence 4: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
+sentence 5: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
+passage 12 score = 1.3333333333333333
+sentence 1: masyarakat terbagi atas kasta yaitu kasta brahmana , ksatria , waisya dan sudra .
+sentence 2: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antarindividu hanya terjadi pada kelompok kastanya sendiri .
+sentence 3: sebagai contoh seorang kasta ksatria tidak bisa menikah dengan seseorang yang berasal dari kasta waisya .
+sentence 4: dalam konsepsi hindu-buddha , hubungan antara manusia dan jagad raya bagaikan hubungan kesejajaran antara makrokosmos dan mikrokosmos .
+sentence 5: manusia adalah mikrokosmos dan jagad raya adalah makrokosmos .
+passage 13 score = 1.3333333333333333
+sentence 1: manusia adalah mikrokosmos dan jagad raya adalah makrokosmos .
+sentence 2: menurut kepercayaan ini , manusia senantiasa berada di bawah pengaruh tenaga-tenaga yang bersumber pada penjuru mata angin , bintang-bintang dan planet-planet .
+sentence 3: tenaga-tenaga ini mungkin menghasilkan kemakmuran dan kesejahteraan atau berakibat kehancuran .
+sentence 4: terjadinya kesejahteraan atau kehancuran tergantung pada dapat tidaknya individu-individu dan kelompok-kelompok masyarakat terutama sekali negara , berhasil menyelaraskan kehidupan dan kegiatan mereka dengan jagad raya .
+sentence 5: keselarasan antara kerajaan dan jagad raya dapat dicapai dengan menyusun kerajaan itu sebagai gambaran sebuah jagad raya dalam bentuk kecil .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+passage 1 score = 6.833333333333333
+sentence 1: kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam - proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
+sentence 2: secara geografis wilayah indonesia memiliki arti yang sangat penting bagi masuknya unsur-unsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
+sentence 3: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
+sentence 4: 1 .
+sentence 5: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+passage 6 score = 6.333333333333333
+sentence 1: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
+sentence 2: dengan sumpah palapanya , gajah mada melakukan perluasan wilayah .
+sentence 3: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
+sentence 4: pada tahun 1478 , majapahit mengalami keruntuhannya .
+sentence 5: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+passage 2 score = 5.5
+sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
+sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
+sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+passage 3 score = 5.0
+sentence 1: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+sentence 2: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
+sentence 3: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
+sentence 4: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
+sentence 5: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
+passage 8 score = 5.0
+sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
+sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
+sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+passage 7 score = 1.3333333333333333
+sentence 1: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 2: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
+sentence 3: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
+sentence 4: 2 .
+sentence 5: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+passage 9 score = 1.3333333333333333
+sentence 1: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+sentence 2: interaksi antara unit-unit akan membangun struktur sosial yang dinamik , sehingga akan menampakkan adanya suatu perubahan .
+sentence 3: masyarakat di kota pelabuhan merupakan masyarakat yang urban dan kosmopolit .
+sentence 4: terciptalah suatu tatanan masyarakat kota .
+sentence 5: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
+passage 10 score = 1.3333333333333333
+sentence 1: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
+sentence 2: dengan demikian , kehidupan masyarakat di kota pelabuhan akan menciptakan suatu masyarakat yang terbuka .
+sentence 3: dalam masyarakat yang seperti ini , akan memudahkan masuknya unsur budaya dari luar .
+sentence 4: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
+sentence 5: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
+passage 12 score = 1.3333333333333333
+sentence 1: masyarakat terbagi atas kasta yaitu kasta brahmana , ksatria , waisya dan sudra .
+sentence 2: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antarindividu hanya terjadi pada kelompok kastanya sendiri .
+sentence 3: sebagai contoh seorang kasta ksatria tidak bisa menikah dengan seseorang yang berasal dari kasta waisya .
+sentence 4: dalam konsepsi hindu-buddha , hubungan antara manusia dan jagad raya bagaikan hubungan kesejajaran antara makrokosmos dan mikrokosmos .
+sentence 5: manusia adalah mikrokosmos dan jagad raya adalah makrokosmos .
+passage 13 score = 1.3333333333333333
+sentence 1: manusia adalah mikrokosmos dan jagad raya adalah makrokosmos .
+sentence 2: menurut kepercayaan ini , manusia senantiasa berada di bawah pengaruh tenaga-tenaga yang bersumber pada penjuru mata angin , bintang-bintang dan planet-planet .
+sentence 3: tenaga-tenaga ini mungkin menghasilkan kemakmuran dan kesejahteraan atau berakibat kehancuran .
+sentence 4: terjadinya kesejahteraan atau kehancuran tergantung pada dapat tidaknya individu-individu dan kelompok-kelompok masyarakat terutama sekali negara , berhasil menyelaraskan kehidupan dan kegiatan mereka dengan jagad raya .
+sentence 5: keselarasan antara kerajaan dan jagad raya dapat dicapai dengan menyusun kerajaan itu sebagai gambaran sebuah jagad raya dalam bentuk kecil .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 27 score = 8.166666666666668
+sentence 1: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+sentence 2: kerajaan majapahit mencapai puncak kejayaannya pada masa pemerintahan hayam wuruk .
+sentence 3: wilayah kekuasaan majapahit meliputi seluruh nusantara .
+sentence 4: pada saat itulah cita-cita gajah mada dengan sumpah palapa berhasil diwujudkan .
+sentence 5: usaha gajah mada dalam melaksanakan politiknya , berakhir pada tahun 1357 dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 27 score = 8.166666666666668
+sentence 1: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+sentence 2: kerajaan majapahit mencapai puncak kejayaannya pada masa pemerintahan hayam wuruk .
+sentence 3: wilayah kekuasaan majapahit meliputi seluruh nusantara .
+sentence 4: pada saat itulah cita-cita gajah mada dengan sumpah palapa berhasil diwujudkan .
+sentence 5: usaha gajah mada dalam melaksanakan politiknya , berakhir pada tahun 1357 dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 6 score = 7.833333333333333
+sentence 1: tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan kebo anabrang kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
+sentence 2: dara petak diambil istri oleh r. wijaya , sedangan dara jingga kawin dengan keluarga raja yang mempunyai anak bernama adityawarman .
+sentence 3: dialah yang kelak menjadi raja di kerajaan malayu ( minangkabau ) .
+sentence 4: demikianlah usaha-usaha yang dilakukan oleh r. wijaya dalam upaya mengatur dan memperkuat kekuasaan pada masa awal kerajaan majapahit .
+sentence 5: pada tahun 1309 r. wijaya meninggal dunia dan didharmakan di candi simping ( sumberjati , blitar ) dalam perwujudan harihara ( siwa dan wisnu dalam satu arca ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 8 score = 7.833333333333333
+sentence 1: kekacauan di majapahit itu berupa pemberontakan yang dapat membahayakan negara , seperti berikut .
+sentence 2: a ) pemberontakan rangga lawe ( 1309 ) yang berkedudukan di tuban tidak puas karena ia mengharapkan dapat menjadi patih di majapahit , sedangkan yang diangkat adalah nambi .
+sentence 3: b ) pemberontakan lembu sora ( 1311 ) karena hasutan mahapati yang merupakan musuh dalam selimut jayanegara .
+sentence 4: c ) pemberontakan nambi ( 1316 ) karena ambisi ayahnya aria wiraraja agar nambi menjadi raja .
+sentence 5: semua pemberontakan tersebut dapat dipadamkan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 9 score = 7.833333333333333
+sentence 1: semua pemberontakan tersebut dapat dipadamkan .
+sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
+sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
+sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
+sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 10 score = 7.833333333333333
+sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
+sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
+sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
+sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 23 score = 7.833333333333333
+sentence 1: pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke daerah badandea .
+sentence 2: jayanegara diselamatkan oleh pasukan bhayangkari di bawah pimpinan gajah mada .
+sentence 3: berkat ketangkasan dan siasat jitu dari gajah mada , pemberontakan kuti berhasil ditumpas .
+sentence 4: sebagai penghargaan atas jasa-jasanya , gajah mada diangkat menjadi patih di kahuripan pada tahun 1321 m dan patih di daha ( kediri ) .
+sentence 5: pada tahun 1328 , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 24 score = 7.833333333333333
+sentence 1: pada tahun 1328 , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat .
+sentence 2: jayanegara tidak mempunyai putra , maka takhta kerajaan digantikan oleh adik perempuannya yang bernama tribhuanatunggadewi .
+sentence 3: ia dinobatkan menjadi raja majapahit dengan gelar tribhuanatunggadewi jaya wisnu wardhani .
+sentence 4: pada masa pemerintahannya , terjadi pemberontakan sadeng dan keta pada tahun 1331 .
+sentence 5: pemberontakan ini dapat dipadamkan oleh gajah mada .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 26 score = 7.833333333333333
+sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
+sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
+sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 29 score = 7.833333333333333
+sentence 1: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
+sentence 2: pada tahun 1364 m , gajah mada meninggal dunia .
+sentence 3: hal itu merupakan kehilangan yang sangat besar bagi majapahit .
+sentence 4: kemudian pada tahun 1389 raja hayam wuruk meninggal dunia .
+sentence 5: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+
+
+Pencarian jawaban
+---------------------
+
+
+pada <TIME>tahun 1350</TIME> m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+
+memproses passage 27
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1350 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+kata kunci = pemuda
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+kata kunci = jadi
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1350 -7
+
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+
+
+kerajaan majapahit mencapai puncak kejayaannya pada <TIME>masa pemerintahan hayam wuruk .</TIME>
+
+memproses passage 27
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+masa pemerintahan hayam wuruk | position = 5
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = capai
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = jaya
+tokenwithtagstemmed = masa perintah hayam wuruk
+kata kunci = pemuda
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = capai
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = jaya
+tokenwithtagstemmed = masa perintah hayam wuruk
+kata kunci = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = capai
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = jaya
+tokenwithtagstemmed = masa perintah hayam wuruk
+
+
+wilayah kekuasaan majapahit meliputi seluruh nusantara .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada saat itulah cita-cita gajah mada dengan sumpah palapa berhasil diwujudkan .
+
+
+tidak ada entitas jawaban, skip
+
+
+usaha gajah mada dalam melaksanakan politiknya , berakhir pada <TIME>tahun 1357</TIME> dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
+
+memproses passage 27
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1357 | position = 6
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = tahun 1357
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = bubat
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = pajajaran
+tokenwithtagstemmed = majapahit
+kata kunci = pemuda
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = tahun 1357
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = bubat
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = pajajaran
+tokenwithtagstemmed = majapahit
+kata kunci = jadi
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = tahun 1357
+tokenwithtagstemmed = jadi
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1357 -1
+
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = bubat
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = pajajaran
+tokenwithtagstemmed = majapahit
+
+
+pada <TIME>tahun 1350</TIME> m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+
+memproses passage 27
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1350 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+kata kunci = pemuda
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+kata kunci = jadi
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1350 -7
+
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+
+
+kerajaan majapahit mencapai puncak kejayaannya pada <TIME>masa pemerintahan hayam wuruk .</TIME>
+
+memproses passage 27
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+masa pemerintahan hayam wuruk | position = 5
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = capai
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = jaya
+tokenwithtagstemmed = masa perintah hayam wuruk
+kata kunci = pemuda
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = capai
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = jaya
+tokenwithtagstemmed = masa perintah hayam wuruk
+kata kunci = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = capai
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = jaya
+tokenwithtagstemmed = masa perintah hayam wuruk
+
+
+wilayah kekuasaan majapahit meliputi seluruh nusantara .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada saat itulah cita-cita gajah mada dengan sumpah palapa berhasil diwujudkan .
+
+
+tidak ada entitas jawaban, skip
+
+
+usaha gajah mada dalam melaksanakan politiknya , berakhir pada <TIME>tahun 1357</TIME> dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
+
+memproses passage 27
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1357 | position = 6
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = tahun 1357
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = bubat
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = pajajaran
+tokenwithtagstemmed = majapahit
+kata kunci = pemuda
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = tahun 1357
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = bubat
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = pajajaran
+tokenwithtagstemmed = majapahit
+kata kunci = jadi
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = tahun 1357
+tokenwithtagstemmed = jadi
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1357 -1
+
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = bubat
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = pajajaran
+tokenwithtagstemmed = majapahit
+
+
+tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan <PERSON>kebo anabrang</PERSON> kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
+
+
+tidak ada entitas jawaban, skip
+
+
+dara petak diambil istri oleh r. wijaya , sedangan dara jingga kawin dengan <PERSON>keluarga raja</PERSON> yang mempunyai anak bernama adityawarman .
+
+
+tidak ada entitas jawaban, skip
+
+
+dialah yang kelak menjadi <PERSON>raja</PERSON> di kerajaan malayu ( minangkabau ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+demikianlah usaha-usaha yang dilakukan oleh <PERSON>r. wijaya</PERSON> dalam upaya mengatur dan memperkuat kekuasaan pada <TIME>masa awal kerajaan majapahit .</TIME>
+
+memproses passage 6
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+masa awal kerajaan majapahit | position = 8
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = r wijaya
+tokenwithtagstemmed = upaya
+tokenwithtagstemmed = atur
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = masa awal raja majapahit
+kata kunci = pemuda
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = r wijaya
+tokenwithtagstemmed = upaya
+tokenwithtagstemmed = atur
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = masa awal raja majapahit
+kata kunci = jadi
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = r wijaya
+tokenwithtagstemmed = upaya
+tokenwithtagstemmed = atur
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = masa awal raja majapahit
+
+
+pada <TIME>tahun 1309</TIME> r. wijaya meninggal dunia dan didharmakan di candi simping ( sumberjati , blitar ) dalam perwujudan harihara ( siwa dan wisnu dalam satu arca ) .
+
+memproses passage 6
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1309 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tahun 1309
+tokenwithtagstemmed = r
+tokenwithtagstemmed = wijaya
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = didharmakan
+tokenwithtagstemmed = candi
+tokenwithtagstemmed = simping
+tokenwithtagstemmed = sumberjati
+tokenwithtagstemmed = blitar
+tokenwithtagstemmed = wujud
+tokenwithtagstemmed = harihara
+tokenwithtagstemmed = siwa
+tokenwithtagstemmed = wisnu
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = arca
+kata kunci = pemuda
+tokenwithtagstemmed = tahun 1309
+tokenwithtagstemmed = r
+tokenwithtagstemmed = wijaya
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = didharmakan
+tokenwithtagstemmed = candi
+tokenwithtagstemmed = simping
+tokenwithtagstemmed = sumberjati
+tokenwithtagstemmed = blitar
+tokenwithtagstemmed = wujud
+tokenwithtagstemmed = harihara
+tokenwithtagstemmed = siwa
+tokenwithtagstemmed = wisnu
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = arca
+kata kunci = jadi
+tokenwithtagstemmed = tahun 1309
+tokenwithtagstemmed = r
+tokenwithtagstemmed = wijaya
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = didharmakan
+tokenwithtagstemmed = candi
+tokenwithtagstemmed = simping
+tokenwithtagstemmed = sumberjati
+tokenwithtagstemmed = blitar
+tokenwithtagstemmed = wujud
+tokenwithtagstemmed = harihara
+tokenwithtagstemmed = siwa
+tokenwithtagstemmed = wisnu
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = arca
+
+
+kekacauan di majapahit itu berupa pemberontakan yang dapat membahayakan negara , seperti berikut .
+
+
+tidak ada entitas jawaban, skip
+
+
+a ) pemberontakan rangga lawe ( <TIME>1309</TIME> ) yang berkedudukan di tuban tidak puas karena ia mengharapkan dapat menjadi patih di majapahit , sedangkan yang diangkat adalah nambi .
+
+memproses passage 8
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+1309 | position = 4
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = a
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = rangga
+tokenwithtagstemmed = lawe
+tokenwithtagstemmed = 1309
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = tuban
+tokenwithtagstemmed = puas
+tokenwithtagstemmed = harap
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = nambi
+kata kunci = pemuda
+tokenwithtagstemmed = a
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = rangga
+tokenwithtagstemmed = lawe
+tokenwithtagstemmed = 1309
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = tuban
+tokenwithtagstemmed = puas
+tokenwithtagstemmed = harap
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = nambi
+kata kunci = jadi
+tokenwithtagstemmed = a
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = rangga
+tokenwithtagstemmed = lawe
+tokenwithtagstemmed = 1309
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = tuban
+tokenwithtagstemmed = puas
+tokenwithtagstemmed = harap
+tokenwithtagstemmed = jadi
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+1309 -5
+
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = nambi
+
+
+b ) pemberontakan lembu sora ( <TIME>1311</TIME> ) karena hasutan mahapati yang merupakan musuh dalam selimut jayanegara .
+
+memproses passage 8
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+1311 | position = 4
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = b
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = lembu
+tokenwithtagstemmed = sora
+tokenwithtagstemmed = 1311
+tokenwithtagstemmed = hasut
+tokenwithtagstemmed = mahapati
+tokenwithtagstemmed = musuh
+tokenwithtagstemmed = selimut
+tokenwithtagstemmed = jayanegara
+kata kunci = pemuda
+tokenwithtagstemmed = b
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = lembu
+tokenwithtagstemmed = sora
+tokenwithtagstemmed = 1311
+tokenwithtagstemmed = hasut
+tokenwithtagstemmed = mahapati
+tokenwithtagstemmed = musuh
+tokenwithtagstemmed = selimut
+tokenwithtagstemmed = jayanegara
+kata kunci = jadi
+tokenwithtagstemmed = b
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = lembu
+tokenwithtagstemmed = sora
+tokenwithtagstemmed = 1311
+tokenwithtagstemmed = hasut
+tokenwithtagstemmed = mahapati
+tokenwithtagstemmed = musuh
+tokenwithtagstemmed = selimut
+tokenwithtagstemmed = jayanegara
+
+
+c ) pemberontakan nambi ( <TIME>1316</TIME> ) karena ambisi ayahnya aria wiraraja agar nambi menjadi raja .
+
+memproses passage 8
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+1316 | position = 3
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = c
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = nambi
+tokenwithtagstemmed = 1316
+tokenwithtagstemmed = ambisi
+tokenwithtagstemmed = ayah
+tokenwithtagstemmed = aria
+tokenwithtagstemmed = wiraraja
+tokenwithtagstemmed = nambi
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+kata kunci = pemuda
+tokenwithtagstemmed = c
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = nambi
+tokenwithtagstemmed = 1316
+tokenwithtagstemmed = ambisi
+tokenwithtagstemmed = ayah
+tokenwithtagstemmed = aria
+tokenwithtagstemmed = wiraraja
+tokenwithtagstemmed = nambi
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+kata kunci = jadi
+tokenwithtagstemmed = c
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = nambi
+tokenwithtagstemmed = 1316
+tokenwithtagstemmed = ambisi
+tokenwithtagstemmed = ayah
+tokenwithtagstemmed = aria
+tokenwithtagstemmed = wiraraja
+tokenwithtagstemmed = nambi
+tokenwithtagstemmed = jadi
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+1316 -6
+
+tokenwithtagstemmed = raja
+
+
+semua pemberontakan tersebut dapat dipadamkan .
+
+
+tidak ada entitas jawaban, skip
+
+
+semua pemberontakan tersebut dapat dipadamkan .
+
+
+tidak ada entitas jawaban, skip
+
+
+d ) pemberontakan kuti ( <TIME>1319</TIME> ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
+
+memproses passage 9
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+1319 | position = 3
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = d
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = kuti
+tokenwithtagstemmed = 1319
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = kuti
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = singkir
+tokenwithtagstemmed = bedander
+kata kunci = pemuda
+tokenwithtagstemmed = d
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = kuti
+tokenwithtagstemmed = 1319
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = kuti
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = singkir
+tokenwithtagstemmed = bedander
+kata kunci = jadi
+tokenwithtagstemmed = d
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = kuti
+tokenwithtagstemmed = 1319
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = kuti
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = singkir
+tokenwithtagstemmed = bedander
+
+
+namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
+
+
+tidak ada entitas jawaban, skip
+
+
+jayanegara dapat kembali ke istana lagi dan berkuasa hingga <TIME>tahun 1328</TIME> .
+
+memproses passage 9
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1328 | position = 4
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = tahun 1328
+kata kunci = pemuda
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = tahun 1328
+kata kunci = jadi
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = tahun 1328
+
+
+sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di <LOCATION>kahuripan</LOCATION> dan kemudian di <LOCATION>daha .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di <LOCATION>kahuripan</LOCATION> dan kemudian di <LOCATION>daha .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+3 ) tribhuanatunggadewi ( <TIME>1328 – 1350</TIME> ) pada <TIME>tahun 1328</TIME> jayanegara wafat .
+
+memproses passage 10
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+1328 1350 | position = 2
+tahun 1328 | position = 3
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = tribhuanatunggadewi
+tokenwithtagstemmed = 1328 1350
+tokenwithtagstemmed = tahun 1328
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = wafat
+kata kunci = pemuda
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = tribhuanatunggadewi
+tokenwithtagstemmed = 1328 1350
+tokenwithtagstemmed = tahun 1328
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = wafat
+kata kunci = jadi
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = tribhuanatunggadewi
+tokenwithtagstemmed = 1328 1350
+tokenwithtagstemmed = tahun 1328
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = wafat
+
+
+ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada <PERSON>gayatri .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
+
+
+tidak ada entitas jawaban, skip
+
+
+bhre kahuripan bergelar tribhuanatunggadewi .
+
+
+tidak ada entitas jawaban, skip
+
+
+pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke <LOCATION>daerah</LOCATION> badandea .
+
+
+tidak ada entitas jawaban, skip
+
+
+jayanegara diselamatkan oleh pasukan bhayangkari di bawah pimpinan gajah mada .
+
+
+tidak ada entitas jawaban, skip
+
+
+berkat ketangkasan dan siasat jitu dari gajah mada , pemberontakan kuti berhasil ditumpas .
+
+
+tidak ada entitas jawaban, skip
+
+
+sebagai penghargaan atas jasa-jasanya , gajah mada diangkat menjadi patih di kahuripan pada <TIME>tahun 1321</TIME> m dan patih di daha ( kediri ) .
+
+memproses passage 23
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1321 | position = 10
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = harga
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = jasa
+tokenwithtagstemmed = jasa
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = kahuripan
+tokenwithtagstemmed = tahun 1321
+tokenwithtagstemmed = m
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = daha
+tokenwithtagstemmed = diri
+kata kunci = pemuda
+tokenwithtagstemmed = harga
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = jasa
+tokenwithtagstemmed = jasa
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = kahuripan
+tokenwithtagstemmed = tahun 1321
+tokenwithtagstemmed = m
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = daha
+tokenwithtagstemmed = diri
+kata kunci = jadi
+tokenwithtagstemmed = harga
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = jasa
+tokenwithtagstemmed = jasa
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = jadi
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1321 3
+
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = kahuripan
+tokenwithtagstemmed = tahun 1321
+tokenwithtagstemmed = m
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = daha
+tokenwithtagstemmed = diri
+
+
+pada <TIME>tahun 1328</TIME> , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat .
+
+memproses passage 23
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1328 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tahun 1328
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = tewas
+tokenwithtagstemmed = bunuh
+tokenwithtagstemmed = tabib
+tokenwithtagstemmed = israna
+tokenwithtagstemmed = ratanca
+tokenwithtagstemmed = didharmakan
+tokenwithtagstemmed = pura
+tokenwithtagstemmed = sila
+tokenwithtagstemmed = petak
+tokenwithtagstemmed = bubat
+kata kunci = pemuda
+tokenwithtagstemmed = tahun 1328
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = tewas
+tokenwithtagstemmed = bunuh
+tokenwithtagstemmed = tabib
+tokenwithtagstemmed = israna
+tokenwithtagstemmed = ratanca
+tokenwithtagstemmed = didharmakan
+tokenwithtagstemmed = pura
+tokenwithtagstemmed = sila
+tokenwithtagstemmed = petak
+tokenwithtagstemmed = bubat
+kata kunci = jadi
+tokenwithtagstemmed = tahun 1328
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = tewas
+tokenwithtagstemmed = bunuh
+tokenwithtagstemmed = tabib
+tokenwithtagstemmed = israna
+tokenwithtagstemmed = ratanca
+tokenwithtagstemmed = didharmakan
+tokenwithtagstemmed = pura
+tokenwithtagstemmed = sila
+tokenwithtagstemmed = petak
+tokenwithtagstemmed = bubat
+
+
+pada <TIME>tahun 1328</TIME> , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat .
+
+memproses passage 24
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1328 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tahun 1328
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = tewas
+tokenwithtagstemmed = bunuh
+tokenwithtagstemmed = tabib
+tokenwithtagstemmed = israna
+tokenwithtagstemmed = ratanca
+tokenwithtagstemmed = didharmakan
+tokenwithtagstemmed = pura
+tokenwithtagstemmed = sila
+tokenwithtagstemmed = petak
+tokenwithtagstemmed = bubat
+kata kunci = pemuda
+tokenwithtagstemmed = tahun 1328
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = tewas
+tokenwithtagstemmed = bunuh
+tokenwithtagstemmed = tabib
+tokenwithtagstemmed = israna
+tokenwithtagstemmed = ratanca
+tokenwithtagstemmed = didharmakan
+tokenwithtagstemmed = pura
+tokenwithtagstemmed = sila
+tokenwithtagstemmed = petak
+tokenwithtagstemmed = bubat
+kata kunci = jadi
+tokenwithtagstemmed = tahun 1328
+tokenwithtagstemmed = jayanegara
+tokenwithtagstemmed = tewas
+tokenwithtagstemmed = bunuh
+tokenwithtagstemmed = tabib
+tokenwithtagstemmed = israna
+tokenwithtagstemmed = ratanca
+tokenwithtagstemmed = didharmakan
+tokenwithtagstemmed = pura
+tokenwithtagstemmed = sila
+tokenwithtagstemmed = petak
+tokenwithtagstemmed = bubat
+
+
+jayanegara tidak mempunyai <PERSON>putra ,</PERSON> maka takhta kerajaan digantikan oleh adik perempuannya yang bernama tribhuanatunggadewi .
+
+
+tidak ada entitas jawaban, skip
+
+
+ia dinobatkan menjadi <PERSON>raja</PERSON> majapahit dengan gelar tribhuanatunggadewi jaya wisnu wardhani .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>masa pemerintahannya ,</TIME> terjadi pemberontakan sadeng dan keta pada <TIME>tahun 1331</TIME> .
+
+memproses passage 24
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+masa pemerintahannya | position = 0
+tahun 1331 | position = 5
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = masa perintah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = sadeng
+tokenwithtagstemmed = keta
+tokenwithtagstemmed = tahun 1331
+kata kunci = pemuda
+tokenwithtagstemmed = masa perintah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = sadeng
+tokenwithtagstemmed = keta
+tokenwithtagstemmed = tahun 1331
+kata kunci = jadi
+tokenwithtagstemmed = masa perintah
+tokenwithtagstemmed = jadi
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+masa pemerintahannya -1
+tahun 1331 4
+
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = sadeng
+tokenwithtagstemmed = keta
+tokenwithtagstemmed = tahun 1331
+
+
+pemberontakan ini dapat dipadamkan oleh gajah mada .
+
+
+tidak ada entitas jawaban, skip
+
+
+dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada <TIME>tahun 1334</TIME> , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di <LOCATION>semenanjung malaka .</LOCATION>
+
+memproses passage 26
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1334 | position = 8
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = rangka
+tokenwithtagstemmed = wujud
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = bal
+tokenwithtagstemmed = tahun 1334
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = sumatera
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = semenanjung malaka
+kata kunci = pemuda
+tokenwithtagstemmed = rangka
+tokenwithtagstemmed = wujud
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = bal
+tokenwithtagstemmed = tahun 1334
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = sumatera
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = semenanjung malaka
+kata kunci = jadi
+tokenwithtagstemmed = rangka
+tokenwithtagstemmed = wujud
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = bal
+tokenwithtagstemmed = tahun 1334
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = sumatera
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = semenanjung malaka
+
+
+seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas <LOCATION>wilayah republik indonesia</LOCATION> sekarang .
+
+
+tidak ada entitas jawaban, skip
+
+
+tribhuanatunggadewi memerintah selama dua puluh dua <TIME>tahun .</TIME>
+
+memproses passage 26
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun | position = 5
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tribhuanatunggadewi
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = puluh
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+kata kunci = pemuda
+tokenwithtagstemmed = tribhuanatunggadewi
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = puluh
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+kata kunci = jadi
+tokenwithtagstemmed = tribhuanatunggadewi
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = puluh
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+
+
+pada <TIME>tahun 1350</TIME> , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+
+memproses passage 26
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1350 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+kata kunci = pemuda
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+kata kunci = jadi
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+
+
+pada <TIME>tahun 1350</TIME> m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+
+memproses passage 26
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1350 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+kata kunci = pemuda
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+kata kunci = jadi
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1350 -7
+
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+
+
+<PERSON>para pembesar kerajaan</PERSON> pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>tahun 1364</TIME> m , gajah mada meninggal dunia .
+
+memproses passage 29
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1364 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tahun 1364
+tokenwithtagstemmed = m
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = dunia
+kata kunci = pemuda
+tokenwithtagstemmed = tahun 1364
+tokenwithtagstemmed = m
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = dunia
+kata kunci = jadi
+tokenwithtagstemmed = tahun 1364
+tokenwithtagstemmed = m
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = dunia
+
+
+hal itu merupakan kehilangan yang sangat besar bagi majapahit .
+
+
+tidak ada entitas jawaban, skip
+
+
+kemudian pada <TIME>tahun 1389</TIME> raja hayam wuruk meninggal dunia .
+
+memproses passage 29
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1389 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sumpah
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = dunia
+kata kunci = pemuda
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = dunia
+kata kunci = jadi
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = dunia
+
+
+hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+
+
+tidak ada entitas jawaban, skip
+
+Pengurutan kandidat jawaban
+this.answer = tahun 1321
+passage rank = 7
+distance = 3
+doc rank = 1
+total Score = 11
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+this.answer = tahun 1331
+passage rank = 8
+distance = 4
+doc rank = 1
+total Score = 13
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+
+
+selesai

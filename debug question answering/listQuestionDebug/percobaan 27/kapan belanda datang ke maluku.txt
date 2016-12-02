@@ -1,0 +1,3282 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok245.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok264.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok290.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok92.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok312.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok106.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok35.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok28.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok99.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok13.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok84.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok388.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok260.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok26.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok97.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok150.txt
+
+
+query token : 
+belanda datang malu 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+passage 1 score = 7.833333333333333
+sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
+sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
+sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
+sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
+sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+passage 6 score = 7.333333333333333
+sentence 1: 1 .
+sentence 2: bangsa melayu tua ( proto melayu ) .
+sentence 3: bangsa melayu tua adalah orang-orang austronesia dari asia ( yunan ) yang pertama kali ke nusantara pada sekitar 1500 sm .
+sentence 4: mereka datang ke nusantara melalui dua jalan .
+sentence 5: 1 .
+passage 3 score = 2.333333333333333
+sentence 1: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
+sentence 2: pendukung kebudayaan dongson adalah orang-orang austronesia yang tinggal di pulau-pulau di benua asia dan australia .
+sentence 3: nenek moyang bangsa indonesia meninggalkan daerah yunan di sekitar hulu sungai salween dan sungai mekong yang tanahnya subur sehingga mereka pandai bercocok tanam , berlayar , dan berdagang .
+sentence 4: dalam perkembangan selanjutnya , berbagai suku bangsa yang mendiami wilayah indonesia kemudian membentuk komunitas sendiri-sendiri sehingga mereka mendapat sebutan tersendiri .
+sentence 5: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
+passage 4 score = 2.333333333333333
+sentence 1: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
+sentence 2: mereka berlayar secara berkelompok tanpa mengenal rasa takut dan selanjutnya menempati berbagai kepulauan di nusantara .
+sentence 3: hal ini memperjelas bahwa nenek moyang bangsa indonesia adalah pelaut-pelaut ulung yang memiliki jiwa kelautan yang kuat .
+sentence 4: mereka memiliki kepandaian dalam berlayar , navigasi , serta ilmu perbintangan yang penuh .
+sentence 5: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
+passage 9 score = 2.333333333333333
+sentence 1: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
+sentence 2: menurut penelitian von heekern , di kalumpang , sulawesi utara telah terjadi perpaduan antara tradisi kapak persegi dan kapak lonjong yang dibawa orang austronesia yang datang dari arah utara indonesia melalui formosa ( taiwan ) , filipina , dan sulawesi .
+sentence 3: 2 .
+sentence 4: bangsa melayu muda ( deutero melayu ) bangsa melayu muda yang disebut juga deutero melayu datang dari daerah yunan ( cina selatan ) sekitar 500 sm .
+sentence 5: mereka masuk ke nusantara melalui jalan barat saja .
+passage 2 score = 1.0
+sentence 1: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+sentence 2: pendapat van heine geldern ini diperkuat dengan penemuan peralatan manusia purba berupa beliung batu yang berbentuk persegi di sumatra , jawa , kalimantan , dan sulawesi di bagian barat .
+sentence 3: beliung seperti itu juga banyak ditemukan di asia , yakni di malaysia , birma ( myanmar ) , vietnam , kampuchea , dan terutama di daerah yunan ( daerah cina selatan ) .
+sentence 4: perpindahan penduduk pada gelombang kedua terjadi sekitar 500 sm bersamaan dengan zaman perunggu .
+sentence 5: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
+passage 5 score = 1.0
+sentence 1: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
+sentence 2: orang-orang austronesia yang memasuki wilayah nusantara dan kemudian menetap di nusantara tersebut mendapat sebutan bangsa melayu austronesia atau bangsa melayu indonesia .
+sentence 3: mereka yang masuk ke daerah aceh menjadi suku aceh , yang masuk ke daerah kalimantan disebut suku dayak , yang ke jawa barat disebut suku sunda , yang masuk ke sulawesi disebut suku bugis dan tanah toraja , dan mereka yang masuk ke daerah jambi disebut suku kubu ( lubu ) .
+sentence 4: bangsa melayu dapat dibedakan menjadi dua , yakni bangsa melayu tua dan melayu muda .
+sentence 5: 1 .
+passage 7 score = 1.0
+sentence 1: 1 .
+sentence 2: jalan barat dari yunan ( cina selatan ) melalui selat malaka ( malaysia ) masuk kesumatra masuk ke jawa .
+sentence 3: mereka membawa alat berupa kapak persegi .
+sentence 4: 2 .
+sentence 5: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
+passage 8 score = 1.0
+sentence 1: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
+sentence 2: mereka membawa alat kapak lonjong .
+sentence 3: bangsa melayu tua ini memiliki kebudayaan batu sebab alat-alatnya terbuat dari batu yang sudah maju , yakni sudah dihaluskan , berbeda dengan manusia purba yang alatnya masih kasar dan sederhana .
+sentence 4: hasil budaya mereka dikenal dengan kapak persegi yang banyak ditemukan di indonesia , seperti sumatra , jawa , bali , dan kalimantan .
+sentence 5: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
+passage 10 score = 1.0
+sentence 1: mereka masuk ke nusantara melalui jalan barat saja .
+sentence 2: bangsa melayu muda berhasil mendesak dan bercampur dengan bangsa proto melayu .
+sentence 3: bangsa deutero melayu masuk melalui teluk tonkin ( yunan ) ke vietnam , lalu ke semenanjung malaka , terus ke sumatra , dan akhirnya masuk ke jawa .
+sentence 4: bangsa deutero melayu memiliki kebudayaan yang lebih maju dibandingkan dengan proto melayu .
+sentence 5: mereka sudah dapat membuat barang-barang dari perunggu dan besi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 14 score = 7.833333333333333
+sentence 1: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
+sentence 2: selanjutnya pada abad ke-13 dan ke-14 , kebesaran sriwijaya tidak pernah disebut-sebut lagi dalam sumber-sumber sejarah .
+sentence 3: jadi , kapan kerajaan sriwijaya mengalami keruntuhan ?
+sentence 4: menurut catatan cina , utusan sriwijaya terakhir datang ke cina pada tahun 1178 .
+sentence 5: selain itu , pada catatan chufan-chi yang ditulis oleh chau ju kua tahun 1225 disebutkan bahwa palembang ( ibu kota sriwijaya ) telah menjadi negeri taklukan malayu .
+passage 16 score = 7.833333333333333
+sentence 1: keadaan ini juga yang membawa penghasilan kerajaan sriwijaya terutama diperoleh dari komoditas ekspor dan bea cukai bagi kapal-kapal yang singgah di pelabuhan-pelabuhan milik sriwijaya .
+sentence 2: komoditas ekspor sriwijaya antara lain kapur barus , cendana , gading gajah , buah-buahan , kapas , cula badak , dan wangi-wangian .
+sentence 3: c. kehidupan sosial-budaya kerajaan sriwijaya prasasti amoghpasha ( 1286 ) berbunyi “ pada tahun saka 1208 ..... tatkala itulah arca paduka amoghappasa lokeswara dengan empat belas pengikutnya serta tujuh ratna permata dibawa dari bhumi jawa ke suwarnabhumi supaya ditegakan .
+sentence 4: sumber sejarah lain mengenai kerajaan sriwijaya dapat dilihat dari berita cina .
+sentence 5: berita itu datang dari seorang pendeta yang bernama i-tsing yang pada tahun 671 berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke india .
+passage 17 score = 7.833333333333333
+sentence 1: berita itu datang dari seorang pendeta yang bernama i-tsing yang pada tahun 671 berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke india .
+sentence 2: i-tsing menyebutkan bahwa di negeri sriwijaya dikelilingi oleh benteng .
+sentence 3: di negeri ini ada seribu orang pendeta yang belajar agama buddha .
+sentence 4: seperi halnya di india , para pendeta cina yang mau belajar agama ke india dianjurkan untuk belajar terlebih dahulu di sriwijaya selama satu sampai dua tahun .
+sentence 5: disebutkan juga bahwa para pendeta yang belajar agama buddha di sriwijaya dibimbing oleh seorang guru yang sangat terkenal bernama sakyakirti .
+passage 1 score = 6.5
+sentence 1: kerajaan sriwijaya merupakan sebuah kerajaan besar yang terletak di sumatera selatan .
+sentence 2: menurut para ahli , pusat kerajaan sriwijaya ada di palembang dan diperkirakan telah berdiri pada abad ke-7 m. sumber sejarah kerajaan sriwijaya berupa prasasti dan berita cina .
+sentence 3: sumber yang berupa prasasti terdiri atas dua , yaitu prasasti yang berasal dari dalam negeri dan prasasti yang berasal dari luar negeri .
+sentence 4: prasasti yang berasal dari dalam negeri antara lain : prasasti kedukan bukit ( 683 m ) , talang tuwo ( 684 m ) , telaga batu ( 683 ) , kota kapur ( 686 ) , karang berahi ( 686 ) , palas pasemah dan amoghapasa ( 1286 ) .
+sentence 5: sementara itu , prasasti yang berasal dari luar negeri antara lain ; ligor ( 775 ) , nalanda , piagam laiden , tanjore ( 1030 m ) , canton ( 1075 m ) , grahi ( 1183 m ) dan chaiya ( 1230 ) .
+passage 2 score = 6.5
+sentence 1: sementara itu , prasasti yang berasal dari luar negeri antara lain ; ligor ( 775 ) , nalanda , piagam laiden , tanjore ( 1030 m ) , canton ( 1075 m ) , grahi ( 1183 m ) dan chaiya ( 1230 ) .
+sentence 2: begitu pula sumber naskah dan buku yang berasal dari dalam negeri adalah kitab pararaton , sedangkan dari luar negeri antara lain kitab memoir dan record karya i-tsing , kronik dinasti tang , sung , dan ming , kitab lingwai-tai-ta karya chou-ku-fei dan kitab chu-fon-chi karya chaou - fu hua .
+sentence 3: para sejarawan masih berbeda pendapat tentang sriwijaya yaitu awal berkembang dan berakhirnya serta lokasi ibu kotanya .
+sentence 4: menurut coedes , sriwijaya berkembang pada abad ke-7 di palembang dan runtuh pada abad ke-14 .
+sentence 5: pendapatnya didasarkan pada ditemukannya toponim shih li fo shih dan san fo tsi .
+passage 3 score = 6.5
+sentence 1: pendapatnya didasarkan pada ditemukannya toponim shih li fo shih dan san fo tsi .
+sentence 2: menurutnya shih li fo shih merupakan perkataan cina untuk menyebut sriwijaya .
+sentence 3: sementara itu , san fo tsi yang ada pada sumber cina dari abad ke-9 sampai dengan abad ke-14 merupakan kependekan dari shih li fo shih .
+sentence 4: slamet mulyana berpendapat lain , dia setuju dengan pendapat coedes yang menganggap bahwa shih li fo shih adalah sriwijaya , namun san fo tsi tidak sama dengan shih li fo shih .
+sentence 5: menurutnya sriwijaya berkembang sampai abad ke-9 , dan sejak itu sriwijaya berhasil ditaklukkan oleh san fo tsi ( swarnabhumi ) .
+passage 4 score = 6.5
+sentence 1: menurutnya sriwijaya berkembang sampai abad ke-9 , dan sejak itu sriwijaya berhasil ditaklukkan oleh san fo tsi ( swarnabhumi ) .
+sentence 2: mengenai ibu kota sriwijaya , para ahli mendasarkan pendapatnya pada daerah yang disebutkan dalam prasasti kedukan bukit yaitu minanga .
+sentence 3: prasasti kedukan bukit berangka tahun 604 saka ( 682 m ) ditemukan di daerah kedukan bukit , di tepi sungai tatang , dekat palembang .
+sentence 4: adapun isi prasasti kedukan bukit , adalah sebagai berikut : pada tahun saka 605 hari kesebelas bulan terang bulan waiseka dapunta hyang naik di perahu mengadakan perajalanan pada hari ketujuh bulan terang .
+sentence 5: bulan jyestha dapunta hyang berangkat dari minanga .
+passage 6 score = 6.5
+sentence 1: muhammad yamin mengartikan minanga tanwan adalah air tawar dan sriwijaya ibu kotanya terletak di palembang .
+sentence 2: bukhori berpendapat sama dengan muhammad yamin bahwa ibu kota sriwijaya terletak di sekitar daerah palembang prasasti kedukan bukit isinya menceritakan bahwa pada tanggal 11 waisaka 604 ( 23 april 682 ) , raja sriwijaya yang bergelar dapunta hyang naik perahu memimpin operasi militer .
+sentence 3: lalu pada tanggal 7 paro terang bulan jesta ( 19 mei ) dapunta hyang berangkat dari minanga tamwan untuk kembali ke ibu kota .
+sentence 4: mereka bersukacita karena pulang dengan kemenangan .
+sentence 5: pada tangga 5 asada ( 16 juni ) mereka tiba di muka upang ( sebelah timur palembang ) .
+passage 10 score = 6.5
+sentence 1: sejak pertengahan abad ke-9 , sriwijaya diperintah oleh dinasti syailendra .
+sentence 2: hal ini dinyatakan dalam prasasti nalanda di india , yang menguraikan permintaan raja balaputradewa dari sriwijaya kepada raja dewapaladewa dari benggala untuk mendirikan wihara di nalanda pada tahun 860 .
+sentence 3: disebutkan juga dalam prasasti itu , bahwa balaputradewa adalah putra samaragrawira , yaitu raja jawa dari dinasti syailendra .
+sentence 4: prasasti kota kapur ( 686 m ) isinya tentang cerita peperangan dan sumpah atau kutukan bagi orang-orang yang melanggar peraturan dan kehendak penguasa .
+sentence 5: adapun yang lebih menarik tentang isi prasasti ini , ialah bagian terakhir yang berbunyi : “ tahun saka 608 hari pertama bulan terang bulan waisaka , itulah waktunya sumpah ini dipahat , pada waktu itu tentara sriwijaya berangkat tanah jawa karena tidak mau tunduk kepada sriwijaya . ”
+passage 13 score = 6.5
+sentence 1: menurunnya kekuatan itu dapat terlihat dari ketidakmampuannya mengawasi dan memberi perlindungan bagi pelayaran dan perdagangan yang ada di perairan indonesia .
+sentence 2: keadaan itu dimanfaatkan juga oleh kerajaan-kerajaan vasal ( bawahan ) untuk melepaskan diri dari kekuasaan sriwijaya , seperti yang dilakukan oleh kerajaan malayu ( jambi ) .
+sentence 3: prasasti tanjore ( 1030 ) yang dikeluarkan oleh rjendra berisi tentara colal melakukan serangan dua kali ke beberapa negeri diantaranya ke sriwijaya , pertama tahun 1015 dan kedua 1025 .
+sentence 4: pada serangan kedua berhasil menawan rajanya yang bernama sri sangramwijaya tunggawarman , setelah meminta maaf , dia ditakhtakan kembali .
+sentence 5: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 14 score = 7.833333333333333
+sentence 1: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
+sentence 2: selanjutnya pada abad ke-13 dan ke-14 , kebesaran sriwijaya tidak pernah disebut-sebut lagi dalam sumber-sumber sejarah .
+sentence 3: jadi , kapan kerajaan sriwijaya mengalami keruntuhan ?
+sentence 4: menurut catatan cina , utusan sriwijaya terakhir datang ke cina pada tahun 1178 .
+sentence 5: selain itu , pada catatan chufan-chi yang ditulis oleh chau ju kua tahun 1225 disebutkan bahwa palembang ( ibu kota sriwijaya ) telah menjadi negeri taklukan malayu .
+passage 16 score = 7.833333333333333
+sentence 1: keadaan ini juga yang membawa penghasilan kerajaan sriwijaya terutama diperoleh dari komoditas ekspor dan bea cukai bagi kapal-kapal yang singgah di pelabuhan-pelabuhan milik sriwijaya .
+sentence 2: komoditas ekspor sriwijaya antara lain kapur barus , cendana , gading gajah , buah-buahan , kapas , cula badak , dan wangi-wangian .
+sentence 3: c. kehidupan sosial-budaya kerajaan sriwijaya prasasti amoghpasha ( 1286 ) berbunyi “ pada tahun saka 1208 ..... tatkala itulah arca paduka amoghappasa lokeswara dengan empat belas pengikutnya serta tujuh ratna permata dibawa dari bhumi jawa ke suwarnabhumi supaya ditegakan .
+sentence 4: sumber sejarah lain mengenai kerajaan sriwijaya dapat dilihat dari berita cina .
+sentence 5: berita itu datang dari seorang pendeta yang bernama i-tsing yang pada tahun 671 berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke india .
+passage 17 score = 7.833333333333333
+sentence 1: berita itu datang dari seorang pendeta yang bernama i-tsing yang pada tahun 671 berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke india .
+sentence 2: i-tsing menyebutkan bahwa di negeri sriwijaya dikelilingi oleh benteng .
+sentence 3: di negeri ini ada seribu orang pendeta yang belajar agama buddha .
+sentence 4: seperi halnya di india , para pendeta cina yang mau belajar agama ke india dianjurkan untuk belajar terlebih dahulu di sriwijaya selama satu sampai dua tahun .
+sentence 5: disebutkan juga bahwa para pendeta yang belajar agama buddha di sriwijaya dibimbing oleh seorang guru yang sangat terkenal bernama sakyakirti .
+passage 1 score = 6.5
+sentence 1: kerajaan sriwijaya merupakan sebuah kerajaan besar yang terletak di sumatera selatan .
+sentence 2: menurut para ahli , pusat kerajaan sriwijaya ada di palembang dan diperkirakan telah berdiri pada abad ke-7 m. sumber sejarah kerajaan sriwijaya berupa prasasti dan berita cina .
+sentence 3: sumber yang berupa prasasti terdiri atas dua , yaitu prasasti yang berasal dari dalam negeri dan prasasti yang berasal dari luar negeri .
+sentence 4: prasasti yang berasal dari dalam negeri antara lain : prasasti kedukan bukit ( 683 m ) , talang tuwo ( 684 m ) , telaga batu ( 683 ) , kota kapur ( 686 ) , karang berahi ( 686 ) , palas pasemah dan amoghapasa ( 1286 ) .
+sentence 5: sementara itu , prasasti yang berasal dari luar negeri antara lain ; ligor ( 775 ) , nalanda , piagam laiden , tanjore ( 1030 m ) , canton ( 1075 m ) , grahi ( 1183 m ) dan chaiya ( 1230 ) .
+passage 2 score = 6.5
+sentence 1: sementara itu , prasasti yang berasal dari luar negeri antara lain ; ligor ( 775 ) , nalanda , piagam laiden , tanjore ( 1030 m ) , canton ( 1075 m ) , grahi ( 1183 m ) dan chaiya ( 1230 ) .
+sentence 2: begitu pula sumber naskah dan buku yang berasal dari dalam negeri adalah kitab pararaton , sedangkan dari luar negeri antara lain kitab memoir dan record karya i-tsing , kronik dinasti tang , sung , dan ming , kitab lingwai-tai-ta karya chou-ku-fei dan kitab chu-fon-chi karya chaou - fu hua .
+sentence 3: para sejarawan masih berbeda pendapat tentang sriwijaya yaitu awal berkembang dan berakhirnya serta lokasi ibu kotanya .
+sentence 4: menurut coedes , sriwijaya berkembang pada abad ke-7 di palembang dan runtuh pada abad ke-14 .
+sentence 5: pendapatnya didasarkan pada ditemukannya toponim shih li fo shih dan san fo tsi .
+passage 3 score = 6.5
+sentence 1: pendapatnya didasarkan pada ditemukannya toponim shih li fo shih dan san fo tsi .
+sentence 2: menurutnya shih li fo shih merupakan perkataan cina untuk menyebut sriwijaya .
+sentence 3: sementara itu , san fo tsi yang ada pada sumber cina dari abad ke-9 sampai dengan abad ke-14 merupakan kependekan dari shih li fo shih .
+sentence 4: slamet mulyana berpendapat lain , dia setuju dengan pendapat coedes yang menganggap bahwa shih li fo shih adalah sriwijaya , namun san fo tsi tidak sama dengan shih li fo shih .
+sentence 5: menurutnya sriwijaya berkembang sampai abad ke-9 , dan sejak itu sriwijaya berhasil ditaklukkan oleh san fo tsi ( swarnabhumi ) .
+passage 4 score = 6.5
+sentence 1: menurutnya sriwijaya berkembang sampai abad ke-9 , dan sejak itu sriwijaya berhasil ditaklukkan oleh san fo tsi ( swarnabhumi ) .
+sentence 2: mengenai ibu kota sriwijaya , para ahli mendasarkan pendapatnya pada daerah yang disebutkan dalam prasasti kedukan bukit yaitu minanga .
+sentence 3: prasasti kedukan bukit berangka tahun 604 saka ( 682 m ) ditemukan di daerah kedukan bukit , di tepi sungai tatang , dekat palembang .
+sentence 4: adapun isi prasasti kedukan bukit , adalah sebagai berikut : pada tahun saka 605 hari kesebelas bulan terang bulan waiseka dapunta hyang naik di perahu mengadakan perajalanan pada hari ketujuh bulan terang .
+sentence 5: bulan jyestha dapunta hyang berangkat dari minanga .
+passage 6 score = 6.5
+sentence 1: muhammad yamin mengartikan minanga tanwan adalah air tawar dan sriwijaya ibu kotanya terletak di palembang .
+sentence 2: bukhori berpendapat sama dengan muhammad yamin bahwa ibu kota sriwijaya terletak di sekitar daerah palembang prasasti kedukan bukit isinya menceritakan bahwa pada tanggal 11 waisaka 604 ( 23 april 682 ) , raja sriwijaya yang bergelar dapunta hyang naik perahu memimpin operasi militer .
+sentence 3: lalu pada tanggal 7 paro terang bulan jesta ( 19 mei ) dapunta hyang berangkat dari minanga tamwan untuk kembali ke ibu kota .
+sentence 4: mereka bersukacita karena pulang dengan kemenangan .
+sentence 5: pada tangga 5 asada ( 16 juni ) mereka tiba di muka upang ( sebelah timur palembang ) .
+passage 10 score = 6.5
+sentence 1: sejak pertengahan abad ke-9 , sriwijaya diperintah oleh dinasti syailendra .
+sentence 2: hal ini dinyatakan dalam prasasti nalanda di india , yang menguraikan permintaan raja balaputradewa dari sriwijaya kepada raja dewapaladewa dari benggala untuk mendirikan wihara di nalanda pada tahun 860 .
+sentence 3: disebutkan juga dalam prasasti itu , bahwa balaputradewa adalah putra samaragrawira , yaitu raja jawa dari dinasti syailendra .
+sentence 4: prasasti kota kapur ( 686 m ) isinya tentang cerita peperangan dan sumpah atau kutukan bagi orang-orang yang melanggar peraturan dan kehendak penguasa .
+sentence 5: adapun yang lebih menarik tentang isi prasasti ini , ialah bagian terakhir yang berbunyi : “ tahun saka 608 hari pertama bulan terang bulan waisaka , itulah waktunya sumpah ini dipahat , pada waktu itu tentara sriwijaya berangkat tanah jawa karena tidak mau tunduk kepada sriwijaya . ”
+passage 13 score = 6.5
+sentence 1: menurunnya kekuatan itu dapat terlihat dari ketidakmampuannya mengawasi dan memberi perlindungan bagi pelayaran dan perdagangan yang ada di perairan indonesia .
+sentence 2: keadaan itu dimanfaatkan juga oleh kerajaan-kerajaan vasal ( bawahan ) untuk melepaskan diri dari kekuasaan sriwijaya , seperti yang dilakukan oleh kerajaan malayu ( jambi ) .
+sentence 3: prasasti tanjore ( 1030 ) yang dikeluarkan oleh rjendra berisi tentara colal melakukan serangan dua kali ke beberapa negeri diantaranya ke sriwijaya , pertama tahun 1015 dan kedua 1025 .
+sentence 4: pada serangan kedua berhasil menawan rajanya yang bernama sri sangramwijaya tunggawarman , setelah meminta maaf , dia ditakhtakan kembali .
+sentence 5: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 18 score = 7.833333333333333
+sentence 1: dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya .
+sentence 2: majapahit juga menjalin hubungan baik dengan negara-negara yang jauh , seperi siam , champa dan cina .
+sentence 3: negara-negara tersebut dianggap sebagai mitreka satata ( negara sahabat yang berkedudukan sama ) .
+sentence 4: hayam wuruk wafat pada tahun 1389 dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( 1389 – 1429 ) .
+sentence 5: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+passage 26 score = 7.833333333333333
+sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
+sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
+sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+passage 15 score = 7.333333333333333
+sentence 1: dengan demikian , pada masa majapahit penganut agama hindu dan buddha dapat hidup berdampingan , rukun dan damai .
+sentence 2: bhineka tunggal ika tan hana dharmamangrawa inilah semboyan rakyat majapahit dalam menciptakan persatuan dan kesatuan sehingga muncul sebagai kerajaan besar di nusantara .
+sentence 3: di tingkat tengah terdapat pemerintah daerah yang dikepalai oleh seorang raja kecil atau bupati .
+sentence 4: mereka dapat mengatur daerahnya secara otonom , tetapi setiap tahun berkewajiban datang ke ibu kota sebagai tanda tetap setia dan tunduk kepada pemerintah pusat majapahit .
+sentence 5: daerah-daerah demikian disebut mancanegara yang berarti negara ( daerah ) di luar daerah inti kerajaan .
+passage 25 score = 7.333333333333333
+sentence 1: pemberontakan ini dapat dipadamkan oleh gajah mada .
+sentence 2: sebagai penghargaan atas jasanya , gajah mada diangkat menjadi mahapatih di majapahit oleh tribhuanatunggadewi .
+sentence 3: di hadapan raja dan para pembesar majapahit , gajah mada mengucapkan sumpah yang terkenal dengan nama sumpah palapa .
+sentence 4: isi sumpahnya , ia tidak akan amukti palapa sebelum ia dapat menundukkan nusantara , yaitu gurun , seran , panjungpura , haru , pahang , dompo , bali , sunda , palembang , dan tumasik .
+sentence 5: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+passage 2 score = 6.5
+sentence 1: peristiwa bubat yang disusul dengan perpecahan internal didalam tubuh majapahit sendiri menyebabkan cita-cita penyatuan tidak sepenuhnya dapat dilakukan .
+sentence 2: meskipun demikian , pada amannya , majapahit merupakan kerajaan yang mempunyai wibawa dan kekuatan yang besar , sehingga kerajaan lain harus berpikir ratusan kali untuk membelot atau memberontak terhadap kekuasaan yang ada .
+sentence 3: a. kehidupan politik kerajaan majapahit 1 ) raden wijaya ( 1292 – 1309 ) kerajaan majapahit lahir dalam suasana perubahan besar dalam waktu yang singkat .
+sentence 4: pada tahun 1292 kertanegara gugur oleh pengkhianatan jayakatwang , singasari hancur dan digantikan oleh kediri .
+sentence 5: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
+passage 6 score = 6.5
+sentence 1: tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan kebo anabrang kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
+sentence 2: dara petak diambil istri oleh r. wijaya , sedangan dara jingga kawin dengan keluarga raja yang mempunyai anak bernama adityawarman .
+sentence 3: dialah yang kelak menjadi raja di kerajaan malayu ( minangkabau ) .
+sentence 4: demikianlah usaha-usaha yang dilakukan oleh r. wijaya dalam upaya mengatur dan memperkuat kekuasaan pada masa awal kerajaan majapahit .
+sentence 5: pada tahun 1309 r. wijaya meninggal dunia dan didharmakan di candi simping ( sumberjati , blitar ) dalam perwujudan harihara ( siwa dan wisnu dalam satu arca ) .
+passage 7 score = 6.5
+sentence 1: pada tahun 1309 r. wijaya meninggal dunia dan didharmakan di candi simping ( sumberjati , blitar ) dalam perwujudan harihara ( siwa dan wisnu dalam satu arca ) .
+sentence 2: 2 ) jayanegera ( 1309 – 1328 ) .
+sentence 3: r. wijaya kemudian digantikan oleh putranya kalagemet dengan gelar jayanegara ( 1309 – 1328 ) , putra r. wijaya dengan dara petak .
+sentence 4: pada masa ini timbul kekacauan di majapahit karena pemerintahan jayanegara yang kurang berbobot dan adanya rasa tidak puas dari pejuang-pejuang majapahit semasa pemerintahan r. wijaya .
+sentence 5: kekacauan di majapahit itu berupa pemberontakan yang dapat membahayakan negara , seperti berikut .
+passage 8 score = 6.5
+sentence 1: kekacauan di majapahit itu berupa pemberontakan yang dapat membahayakan negara , seperti berikut .
+sentence 2: a ) pemberontakan rangga lawe ( 1309 ) yang berkedudukan di tuban tidak puas karena ia mengharapkan dapat menjadi patih di majapahit , sedangkan yang diangkat adalah nambi .
+sentence 3: b ) pemberontakan lembu sora ( 1311 ) karena hasutan mahapati yang merupakan musuh dalam selimut jayanegara .
+sentence 4: c ) pemberontakan nambi ( 1316 ) karena ambisi ayahnya aria wiraraja agar nambi menjadi raja .
+sentence 5: semua pemberontakan tersebut dapat dipadamkan .
+passage 9 score = 6.5
+sentence 1: semua pemberontakan tersebut dapat dipadamkan .
+sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
+sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
+sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
+sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+passage 10 score = 6.5
+sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
+sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
+sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
+sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 18 score = 7.833333333333333
+sentence 1: dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya .
+sentence 2: majapahit juga menjalin hubungan baik dengan negara-negara yang jauh , seperi siam , champa dan cina .
+sentence 3: negara-negara tersebut dianggap sebagai mitreka satata ( negara sahabat yang berkedudukan sama ) .
+sentence 4: hayam wuruk wafat pada tahun 1389 dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( 1389 – 1429 ) .
+sentence 5: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+passage 26 score = 7.833333333333333
+sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
+sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
+sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+passage 15 score = 7.333333333333333
+sentence 1: dengan demikian , pada masa majapahit penganut agama hindu dan buddha dapat hidup berdampingan , rukun dan damai .
+sentence 2: bhineka tunggal ika tan hana dharmamangrawa inilah semboyan rakyat majapahit dalam menciptakan persatuan dan kesatuan sehingga muncul sebagai kerajaan besar di nusantara .
+sentence 3: di tingkat tengah terdapat pemerintah daerah yang dikepalai oleh seorang raja kecil atau bupati .
+sentence 4: mereka dapat mengatur daerahnya secara otonom , tetapi setiap tahun berkewajiban datang ke ibu kota sebagai tanda tetap setia dan tunduk kepada pemerintah pusat majapahit .
+sentence 5: daerah-daerah demikian disebut mancanegara yang berarti negara ( daerah ) di luar daerah inti kerajaan .
+passage 25 score = 7.333333333333333
+sentence 1: pemberontakan ini dapat dipadamkan oleh gajah mada .
+sentence 2: sebagai penghargaan atas jasanya , gajah mada diangkat menjadi mahapatih di majapahit oleh tribhuanatunggadewi .
+sentence 3: di hadapan raja dan para pembesar majapahit , gajah mada mengucapkan sumpah yang terkenal dengan nama sumpah palapa .
+sentence 4: isi sumpahnya , ia tidak akan amukti palapa sebelum ia dapat menundukkan nusantara , yaitu gurun , seran , panjungpura , haru , pahang , dompo , bali , sunda , palembang , dan tumasik .
+sentence 5: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+passage 2 score = 6.5
+sentence 1: peristiwa bubat yang disusul dengan perpecahan internal didalam tubuh majapahit sendiri menyebabkan cita-cita penyatuan tidak sepenuhnya dapat dilakukan .
+sentence 2: meskipun demikian , pada amannya , majapahit merupakan kerajaan yang mempunyai wibawa dan kekuatan yang besar , sehingga kerajaan lain harus berpikir ratusan kali untuk membelot atau memberontak terhadap kekuasaan yang ada .
+sentence 3: a. kehidupan politik kerajaan majapahit 1 ) raden wijaya ( 1292 – 1309 ) kerajaan majapahit lahir dalam suasana perubahan besar dalam waktu yang singkat .
+sentence 4: pada tahun 1292 kertanegara gugur oleh pengkhianatan jayakatwang , singasari hancur dan digantikan oleh kediri .
+sentence 5: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
+passage 6 score = 6.5
+sentence 1: tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan kebo anabrang kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
+sentence 2: dara petak diambil istri oleh r. wijaya , sedangan dara jingga kawin dengan keluarga raja yang mempunyai anak bernama adityawarman .
+sentence 3: dialah yang kelak menjadi raja di kerajaan malayu ( minangkabau ) .
+sentence 4: demikianlah usaha-usaha yang dilakukan oleh r. wijaya dalam upaya mengatur dan memperkuat kekuasaan pada masa awal kerajaan majapahit .
+sentence 5: pada tahun 1309 r. wijaya meninggal dunia dan didharmakan di candi simping ( sumberjati , blitar ) dalam perwujudan harihara ( siwa dan wisnu dalam satu arca ) .
+passage 7 score = 6.5
+sentence 1: pada tahun 1309 r. wijaya meninggal dunia dan didharmakan di candi simping ( sumberjati , blitar ) dalam perwujudan harihara ( siwa dan wisnu dalam satu arca ) .
+sentence 2: 2 ) jayanegera ( 1309 – 1328 ) .
+sentence 3: r. wijaya kemudian digantikan oleh putranya kalagemet dengan gelar jayanegara ( 1309 – 1328 ) , putra r. wijaya dengan dara petak .
+sentence 4: pada masa ini timbul kekacauan di majapahit karena pemerintahan jayanegara yang kurang berbobot dan adanya rasa tidak puas dari pejuang-pejuang majapahit semasa pemerintahan r. wijaya .
+sentence 5: kekacauan di majapahit itu berupa pemberontakan yang dapat membahayakan negara , seperti berikut .
+passage 8 score = 6.5
+sentence 1: kekacauan di majapahit itu berupa pemberontakan yang dapat membahayakan negara , seperti berikut .
+sentence 2: a ) pemberontakan rangga lawe ( 1309 ) yang berkedudukan di tuban tidak puas karena ia mengharapkan dapat menjadi patih di majapahit , sedangkan yang diangkat adalah nambi .
+sentence 3: b ) pemberontakan lembu sora ( 1311 ) karena hasutan mahapati yang merupakan musuh dalam selimut jayanegara .
+sentence 4: c ) pemberontakan nambi ( 1316 ) karena ambisi ayahnya aria wiraraja agar nambi menjadi raja .
+sentence 5: semua pemberontakan tersebut dapat dipadamkan .
+passage 9 score = 6.5
+sentence 1: semua pemberontakan tersebut dapat dipadamkan .
+sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
+sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
+sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
+sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+passage 10 score = 6.5
+sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
+sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
+sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
+sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
+sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+title : sejarah kerajaan banjar (kesultanan banjarmasin)
+passage 20 score = 7.166666666666667
+sentence 1: hindia belanda datang kembali ke banjarmasin menegaskan kekuasaannya .
+sentence 2: ( 1825-1857 ) sultan adam al-watsiq billah bin sultan sulaiman al-mutamidullah .
+sentence 3: baginda mendapat gelar sultan muda sejak tahun 1782 .
+sentence 4: pemerintahannya dibantu adiknya pangeran noh dengan gelar ratu anum mangkubumi kencana sebagai mangkubumi yang dilantik belanda pada 7 september 1851 , dan pangeran abdur rahman sebagai sultan muda .
+sentence 5: ketika mangkat terjadi krisis suksesi dengan tiga kandidat penggantinya yaitu pangeran prabu anom , pangeran tamjidullah ii dan pangeran hidayatullah ii .
+passage 21 score = 7.166666666666667
+sentence 1: ketika mangkat terjadi krisis suksesi dengan tiga kandidat penggantinya yaitu pangeran prabu anom , pangeran tamjidullah ii dan pangeran hidayatullah ii .
+sentence 2: belanda sebelumnya sudah mengangkat tamjidullah ii sebagai sultan muda sejak 8 agustus 1852 yang juga merangkap jabatan mangkubumi dan kemudian menetapkannya sebagai sultan banjar .
+sentence 3: sehari kemudian pangeran tamjidillah ii menandatangani surat pengasingan .
+sentence 4: kandidat sultan lainnya pamannya pangeran prabu anom yang diasingkan ke bandung pada 23 februari 1858 .
+sentence 5: sebelumnya sultan adam sudah mengutus surat ke batavia agar pengangkatan tamjidullah ii dibatalkan .
+passage 18 score = 6.833333333333333
+sentence 1: mendapat bantuan voc untuk menangkap pangeran amir bin sultan muhammad aliuddin aminullah yang menuntut tahta dengan bantuan suku bugis-paser yang gagal .
+sentence 2: dia kemudian menjalin hubungan dengan suku bakumpai dan akhirnya ditangkap kompeni belanda 14 mei 1787 dan diasingkan ke srilangka .
+sentence 3: ( 1801-1825 ) sultan sulaiman al-mutamidullah/sultan sulaiman saidullah ii bin tahmidullah ii .
+sentence 4: mendapat gelar sultan muda atau pangeran ratu sultan sulaiman sejak tahun 1767 ketika berusia 6 tahun .
+sentence 5: dibantu adiknya pangeran mangku dilaga dengan gelar ratu anum mangku dilaga sebagai mangkubumi ( dihukum bunuh karena merencanakan kudeta ) , dilanjutkan puteranya pangeran husin mangkubumi nata bin sultan sulaiman .
+passage 22 score = 6.833333333333333
+sentence 1: sebelumnya sultan adam sudah mengutus surat ke batavia agar pengangkatan tamjidullah ii dibatalkan .
+sentence 2: sultan adam sempat membuat surat wasiat yang menunjuk cucunya hidayatullah ii sebagai sultan banjar sebagai penggantinya .
+sentence 3: inilah yang menjadi dasar perlawanan segenap bangsawan terhadap hindia belanda ( 1857-1859 ) sultan tamjidullah ii al - watsiq billah bin pangeran sultan muda abdur rahman bin sultan adam .
+sentence 4: pada 3 november 1857 tamjidullah ii diangkat belanda menjadi sultan banjar , padahal dia anak selir meskipun sebagai anak tertua .
+sentence 5: belanda kemudian mengangkat hidayatullah ii sebagai mangkubumi .
+passage 23 score = 6.833333333333333
+sentence 1: belanda kemudian mengangkat hidayatullah ii sebagai mangkubumi .
+sentence 2: pengangkatan tamjidullah ii ditentang segenap bangsawan karena menurut wasiat semestinya hidayatullah ii sebagai sultan , karena dia anak permaisuri .
+sentence 3: pada 25 juni 1859 , belanda memakzulkan tamjidullah ii sebagai sultan banjar dan mengirimnya ke bogor .
+sentence 4: ( 1859-1862 ) sultan hidayatullah ii bin pangeran sultan muda abdur rahman bin sultan adam .
+sentence 5: hidayatullah ii satu-satunya pemimpin negeri banjar sesuai wasiat sultan adam .
+passage 25 score = 6.833333333333333
+sentence 1: pada 11 juni 1860 , residen i.n. nieuwen huyzen mengumumkan penghapusan kesultanan banjar .
+sentence 2: hidayatullah ii pada 2 maret 1862 dibawa dari martapura dan diasingkan ke cianjur .
+sentence 3: ( 1862 .
+sentence 4: pangeran antasari bin pangeran masohut bin pangeran amir bin sultan muhammad aliuddin aminullah .
+sentence 5: pada 14 maret 1862 atau 11 hari setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan rakyat kalimantan selatan terhadap belanda .
+passage 26 score = 6.833333333333333
+sentence 1: pada 14 maret 1862 atau 11 hari setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan rakyat kalimantan selatan terhadap belanda .
+sentence 2: antasari dibantu tumenggung surapati sebagai panglima perang .
+sentence 3: pusat perjuangan di menawing , pedalaman barito , murung raya , kalteng .
+sentence 4: antasari dinobatkan sebagai pahlawan nasional dan wafat 11 oktober 1862 di kampung sampirang , bayan begak , puruk cahu karena penyakit cacar .
+sentence 5: jenazahnya dimakamkan kembali 11 november 1958 di kompleks makam pangeran antasari , banjarmasin .
+passage 30 score = 6.333333333333333
+sentence 1: islam yang telah dianut oleh tokoh dan pembesar-pembesar kesultanan ini , berkembang terus di kalimantan .
+sentence 2: hal ini dimungkinkan karena mereka memberi perhatian dan dukungan yang besar terhadap perkembangannya , antara lain adanya usaha sultan tahlillullah ( memerintah 1700-1745 ) untuk mengembangkan dakwah islam di sana .
+sentence 3: sultan terakhir yang memerintah kesultanan banjar ialah pangeran tamjidillah ( 1857-1859 ) .
+sentence 4: pengangkatan pangeran tamjidillah sebagai sultan oleh belanda mendapat tantangan dari masyarakat , sehingga menimbulkan pergolakan .
+sentence 5: karena tidak dapat memenuhi keinginan belanda , ia diturunkan dari takhta .
+passage 31 score = 6.333333333333333
+sentence 1: karena tidak dapat memenuhi keinginan belanda , ia diturunkan dari takhta .
+sentence 2: pada tanggal 11 juni 1860 , belanda menghapuskan kesultanan .
+sentence 3: meskipun demikian , peperangan terus berkobar .
+passage 2 score = 5.5
+sentence 1: berikut beberapa sultan yang pernah memerintah kesultanan banjarmasin .
+sentence 2: ( 1520-1546 ) sultan suriansyah .
+sentence 3: nama kecil raden samudra .
+sentence 4: raja banjar pertama yang memindahkan pusat pemerintahan di kampung banjarmasih ( kuin ) menggantikan maharaja tumenggung ( raden panjang ) , dia ahli waris yang sah sesuai wasiat kakeknya maharaja sukarama ( raden paksa ) dari kerajaan negara daha dibantu mangkubumi aria taranggana .
+sentence 5: raden samudera memeluk islam pada 24 september 1526 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+title : sejarah kerajaan banjar (kesultanan banjarmasin)
+passage 20 score = 7.166666666666667
+sentence 1: hindia belanda datang kembali ke banjarmasin menegaskan kekuasaannya .
+sentence 2: ( 1825-1857 ) sultan adam al-watsiq billah bin sultan sulaiman al-mutamidullah .
+sentence 3: baginda mendapat gelar sultan muda sejak tahun 1782 .
+sentence 4: pemerintahannya dibantu adiknya pangeran noh dengan gelar ratu anum mangkubumi kencana sebagai mangkubumi yang dilantik belanda pada 7 september 1851 , dan pangeran abdur rahman sebagai sultan muda .
+sentence 5: ketika mangkat terjadi krisis suksesi dengan tiga kandidat penggantinya yaitu pangeran prabu anom , pangeran tamjidullah ii dan pangeran hidayatullah ii .
+passage 21 score = 7.166666666666667
+sentence 1: ketika mangkat terjadi krisis suksesi dengan tiga kandidat penggantinya yaitu pangeran prabu anom , pangeran tamjidullah ii dan pangeran hidayatullah ii .
+sentence 2: belanda sebelumnya sudah mengangkat tamjidullah ii sebagai sultan muda sejak 8 agustus 1852 yang juga merangkap jabatan mangkubumi dan kemudian menetapkannya sebagai sultan banjar .
+sentence 3: sehari kemudian pangeran tamjidillah ii menandatangani surat pengasingan .
+sentence 4: kandidat sultan lainnya pamannya pangeran prabu anom yang diasingkan ke bandung pada 23 februari 1858 .
+sentence 5: sebelumnya sultan adam sudah mengutus surat ke batavia agar pengangkatan tamjidullah ii dibatalkan .
+passage 18 score = 6.833333333333333
+sentence 1: mendapat bantuan voc untuk menangkap pangeran amir bin sultan muhammad aliuddin aminullah yang menuntut tahta dengan bantuan suku bugis-paser yang gagal .
+sentence 2: dia kemudian menjalin hubungan dengan suku bakumpai dan akhirnya ditangkap kompeni belanda 14 mei 1787 dan diasingkan ke srilangka .
+sentence 3: ( 1801-1825 ) sultan sulaiman al-mutamidullah/sultan sulaiman saidullah ii bin tahmidullah ii .
+sentence 4: mendapat gelar sultan muda atau pangeran ratu sultan sulaiman sejak tahun 1767 ketika berusia 6 tahun .
+sentence 5: dibantu adiknya pangeran mangku dilaga dengan gelar ratu anum mangku dilaga sebagai mangkubumi ( dihukum bunuh karena merencanakan kudeta ) , dilanjutkan puteranya pangeran husin mangkubumi nata bin sultan sulaiman .
+passage 22 score = 6.833333333333333
+sentence 1: sebelumnya sultan adam sudah mengutus surat ke batavia agar pengangkatan tamjidullah ii dibatalkan .
+sentence 2: sultan adam sempat membuat surat wasiat yang menunjuk cucunya hidayatullah ii sebagai sultan banjar sebagai penggantinya .
+sentence 3: inilah yang menjadi dasar perlawanan segenap bangsawan terhadap hindia belanda ( 1857-1859 ) sultan tamjidullah ii al - watsiq billah bin pangeran sultan muda abdur rahman bin sultan adam .
+sentence 4: pada 3 november 1857 tamjidullah ii diangkat belanda menjadi sultan banjar , padahal dia anak selir meskipun sebagai anak tertua .
+sentence 5: belanda kemudian mengangkat hidayatullah ii sebagai mangkubumi .
+passage 23 score = 6.833333333333333
+sentence 1: belanda kemudian mengangkat hidayatullah ii sebagai mangkubumi .
+sentence 2: pengangkatan tamjidullah ii ditentang segenap bangsawan karena menurut wasiat semestinya hidayatullah ii sebagai sultan , karena dia anak permaisuri .
+sentence 3: pada 25 juni 1859 , belanda memakzulkan tamjidullah ii sebagai sultan banjar dan mengirimnya ke bogor .
+sentence 4: ( 1859-1862 ) sultan hidayatullah ii bin pangeran sultan muda abdur rahman bin sultan adam .
+sentence 5: hidayatullah ii satu-satunya pemimpin negeri banjar sesuai wasiat sultan adam .
+passage 25 score = 6.833333333333333
+sentence 1: pada 11 juni 1860 , residen i.n. nieuwen huyzen mengumumkan penghapusan kesultanan banjar .
+sentence 2: hidayatullah ii pada 2 maret 1862 dibawa dari martapura dan diasingkan ke cianjur .
+sentence 3: ( 1862 .
+sentence 4: pangeran antasari bin pangeran masohut bin pangeran amir bin sultan muhammad aliuddin aminullah .
+sentence 5: pada 14 maret 1862 atau 11 hari setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan rakyat kalimantan selatan terhadap belanda .
+passage 26 score = 6.833333333333333
+sentence 1: pada 14 maret 1862 atau 11 hari setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan rakyat kalimantan selatan terhadap belanda .
+sentence 2: antasari dibantu tumenggung surapati sebagai panglima perang .
+sentence 3: pusat perjuangan di menawing , pedalaman barito , murung raya , kalteng .
+sentence 4: antasari dinobatkan sebagai pahlawan nasional dan wafat 11 oktober 1862 di kampung sampirang , bayan begak , puruk cahu karena penyakit cacar .
+sentence 5: jenazahnya dimakamkan kembali 11 november 1958 di kompleks makam pangeran antasari , banjarmasin .
+passage 30 score = 6.333333333333333
+sentence 1: islam yang telah dianut oleh tokoh dan pembesar-pembesar kesultanan ini , berkembang terus di kalimantan .
+sentence 2: hal ini dimungkinkan karena mereka memberi perhatian dan dukungan yang besar terhadap perkembangannya , antara lain adanya usaha sultan tahlillullah ( memerintah 1700-1745 ) untuk mengembangkan dakwah islam di sana .
+sentence 3: sultan terakhir yang memerintah kesultanan banjar ialah pangeran tamjidillah ( 1857-1859 ) .
+sentence 4: pengangkatan pangeran tamjidillah sebagai sultan oleh belanda mendapat tantangan dari masyarakat , sehingga menimbulkan pergolakan .
+sentence 5: karena tidak dapat memenuhi keinginan belanda , ia diturunkan dari takhta .
+passage 31 score = 6.333333333333333
+sentence 1: karena tidak dapat memenuhi keinginan belanda , ia diturunkan dari takhta .
+sentence 2: pada tanggal 11 juni 1860 , belanda menghapuskan kesultanan .
+sentence 3: meskipun demikian , peperangan terus berkobar .
+passage 2 score = 5.5
+sentence 1: berikut beberapa sultan yang pernah memerintah kesultanan banjarmasin .
+sentence 2: ( 1520-1546 ) sultan suriansyah .
+sentence 3: nama kecil raden samudra .
+sentence 4: raja banjar pertama yang memindahkan pusat pemerintahan di kampung banjarmasih ( kuin ) menggantikan maharaja tumenggung ( raden panjang ) , dia ahli waris yang sah sesuai wasiat kakeknya maharaja sukarama ( raden paksa ) dari kerajaan negara daha dibantu mangkubumi aria taranggana .
+sentence 5: raden samudera memeluk islam pada 24 september 1526 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
+passage 40 score = 7.166666666666667
+sentence 1: perundingan berjalan sangat lamban , sehingga drs. hatta didatangkan dari bangka untuk langsung berunding dengan dr. van royen .
+sentence 2: dengan demikian pada bulan mei 1949 dicapai persetujuan roem-royen dan pemerintah indonesia dikembalikan ke yogyakarta , setelah cara-cara pengosongan yogyakarta oleh tentara belanda disepakati .
+sentence 3: setelah perundingan dengan pihak bfo yang sudah dimulai sejak di bangka , maka pada bulan juli 1949 di yogyakarta dicapai persetujuan bahwa akan dibentuk negara federal yang bernama ris .
+sentence 4: kemudian diselenggarakan konferensi antar indonesia di jakara ( juli ) yang dipimpin drs. hatta dan berhasil memutuskan untuk membentuk panitia persiapan nasional sebelum maju ke kmb ( konferensi meja bundar ) .
+sentence 5: konferensi meja bundar dimulai di den haag pada tanggal 23 agustus 1949 dan berakhir pada tanggal 2 november 1949 .
+passage 1 score = 6.833333333333333
+sentence 1: perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949 - masa kemerdekaan dan perjuangan untuk mempertahankan kemerdekaan dimulai dari tahun 1945-1949 , diwarnai dengan pengisian perlengkapan sebagai negara merdeka dan perjuangan bersenjata serta berbagai diplomasi antara bangsa indonesia dengan pihak belanda .
+sentence 2: diplomasi itu direalisasikan dalam perjanjian-perjanjian .
+sentence 3: intinya belanda sebenarnya tidak rela bila indonesia merdeka .
+sentence 4: sehingga dengan berbagai cara belanda ingin memecah belah republik indonesia yang baru lahir .
+sentence 5: masa indonesia merdeka memasuki bulan agustus 1945 kedudukan jepang semakin kritis .
+passage 15 score = 6.833333333333333
+sentence 1: status keadaan bahaya diperlakukan untuk seluruh indonesia karena pihak tan malaka berhasil menculik sutan syahrir bersama mayor jenderal sudibyo , dr. darmasetiawan , dan dr sumitri .
+sentence 2: atas seruan presiden para penculik kemudian membebaskan syahrir dan kawan-kawan .
+sentence 3: kemudian pihak pp mencoba memaksa presiden untuk menyusun pemerintah baru yang dipimpin oleh kawan-kawan tan malaka pada tanggal 3 juli 1947 , tetapi presiden tetap menunjuk sutan syahrir sebagai perdana menteri .
+sentence 4: kabinet syahrir iii terbentuk oktober 1946 .
+sentence 5: dari pihak belanda intimidasi dimulai dengan diselenggarakannya konferensi malino bulan juli 1946 untuk membentuk “ negara-negara “ di wilayah-wilayah yang akan ditinggalkan tentara sekutu .
+passage 16 score = 6.833333333333333
+sentence 1: dari pihak belanda intimidasi dimulai dengan diselenggarakannya konferensi malino bulan juli 1946 untuk membentuk “ negara-negara “ di wilayah-wilayah yang akan ditinggalkan tentara sekutu .
+sentence 2: ini jelas bertentangan dengan kehendak ri yaitu agar negara-negara bagian dalam republik indonesia dibentuk bersama-sama ri dan belanda .
+sentence 3: sementara itu pihak inggris ikut berbicara dengan maksud agar penarikan tentara sekutu ( inggris ) berjalan secepat mungkin , agar utusan inggris di bawah pimpinan lord killearn tiba pada bulan agustus dan mengusulkan antara lain syarat-syarat gencatan senjata antara ri dengan belanda .
+sentence 4: pemerintah indonesia menyetujui usul ini dan mengirim perwira-perwira tentara republik indonesia untuk menyelesaikan masalah tehnis gencatan senjata .
+sentence 5: sementara itu perundingan dengan pihak belanda dilanjutkan setelah kabinet syahrir iii disyahkan dalam bulan oktober 1946 .
+passage 17 score = 6.833333333333333
+sentence 1: sementara itu perundingan dengan pihak belanda dilanjutkan setelah kabinet syahrir iii disyahkan dalam bulan oktober 1946 .
+sentence 2: delegasi indonesia yang dipimpin sutan syahrir mengajukan usul agar indonesia diakui kedaulatannya , pihak belanda mengajukan usul commenwealth lagi .
+sentence 3: tetapi akhirnya tercapai juga suatu konsessus .
+sentence 4: perundingan yang dilakukan di linggarjati dikeluarkan hasilnya pada tanggal 15 november 1946 .
+sentence 5: belanda dan republik indonesia serikat berada dalam suatu uni indonesia-belanda .
+passage 21 score = 6.833333333333333
+sentence 1: tentara republik indonesia bertahan dengan melancarkan perang gerilya .
+sentence 2: pada akhir juli 1947 india dan australia mengajukan tuntutan mengenai agresi belanda itu pada dewan keamanan pbb dan dk-pbb memerintahkan gencatan senjata pada tanggal 4 agustus 1947 .
+sentence 3: selain itu suatu komisi konsuler yang terdiri atas konsul-konsul amerika serikat , cina , belgia , perancis , inggris , dan australia di jakarta , ditugaskan pbb untuk menyelidiki masalah-masalah itu dan melaporkan pada dewan keamanan .
+sentence 4: amerika serikat kemudian mengusulkan pada dewan keamanan untuk membentuk suatu komisi yang mengawasi pelaksanaan gencatan senjata .
+sentence 5: komisi yang terdiri atas dr. frank graham ( as ) , richard kirby ( australia ) dan paul vanzeelant ( belgia ) , di indonesia dikenal dengan nama komisi tiga negara ( ktn ) atau komisi jasa baik .
+passage 30 score = 6.833333333333333
+sentence 1: sementara keadaan begitu gawat , pada bulan agustus 1948 , muso , seorang tokoh pki yang lari ke moskow sejak tahun 1926 , kembali ke yogyakarta .
+sentence 2: muso membawa politik baru dari rusia , yaitu agar parta-partai yang beraliran marxisme disatukan menjadi pki .
+sentence 3: pada akhir bulan agustus itu juga partai sosialis dari amir syarifuddin dan partai buruh disatukan menjadi pki .
+sentence 4: parta ini dipimpin oleh muso .
+sentence 5: taktik perjuangan yang digariskan dari moskow adalah melawan golongan nasional maupun kolonial ( belanda ) .
+passage 34 score = 6.833333333333333
+sentence 1: pasukan tni dikerahkan secara besar-besaran pada tanggal 20 september 1948 dan pada tanggal 30 september , kota madiun dapat direbut kembali .
+sentence 2: pertempuran dilanjutkan sampai muso tewas dan amir syarifuddin tertangkap .
+sentence 3: meskipun demikian banyak pemimpin pki yang meloloskan diri ke daerah pendudukan belanda , antara lain d.n. aidit .
+sentence 4: sementara masalah pki belum teratasi , belanda melakukan agresi ii pada tanggal 19 desember 1948 .
+sentence 5: dalam serbuan ke yogyakarta , presiden dan wakil presiden tertangkap oleh belanda .
+passage 51 score = 6.833333333333333
+sentence 1: bank ini merupakan bank negara yang bertugas mengatur nilai tukar ori dengan valuta asing yang ada di indonesia .
+sentence 2: selanjutnya pada 1 november 1946 dibentuk bank negara indonesia yang berawal dari yayasan pusat bank yang didirikan margono djojohadikusumo bulan juli 1946 .
+sentence 3: perdagangan indonesia walaupun sedang menghadapi blokade belanda , ri mulai merintis perdagangan internasional dengan memberikan bantuan beras pada india .
+sentence 4: saat itu india sedang tertimpa bahaya kelaparan .
+sentence 5: sebagai imbalan , india akan mengirimkan bahan pakaian yang sangat dibutuhkan oleh rakyat indonesia .
+passage 54 score = 6.833333333333333
+sentence 1: di sumatera pemerintah juga berusaha menembus blokade belanda .
+sentence 2: sejak tahun 1946 sampai akhir perang kemerdekaan usaha ini dilakukan dengan perahu layar dan motor alri .
+sentence 3: beberapa aparat pemda aceh juga mencoba menembus blokade ke negara terdekat singapura dan malaya .
+sentence 4: bahkan sejak awal tahun 1947 pemerintah ri telah berhasil membentuk perwakilan resmi di singapura yang diberi nama indonesia office ( indoff ) .
+sentence 5: badan ini dipimpin oleh mr. oetojo ramelan dibantu soerjono , daroesman , mr. zairin zain , thaharudin ahmad , dr. soeroso dan tamtomo .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+passage 56 score = 7.166666666666667
+sentence 1: b. mengikuti kongres i liga penentang imperialisme dan penindasan kolonial di berlin pada tahun 1927 , mengirimkan mohammad hatta , nasir pamuncak , batot , dan achmad subardjo .
+sentence 2: dalam perjalanannya perhimpunan indonesia mengalami banyak tekanan dari pemerintah belanda , lebih-lebih setelah terjadi pemberontakan partai komunis indonesia pada tahun 1926 .
+sentence 3: pengawasan dilakukan semakin ketat .
+sentence 4: meskipun demikian , pada tanggal 25 desember 1926 semaun bersama mohammad hatta menandatangani suatu kesepakatan yang dikenal dengan konvensi hatta-semaun .
+sentence 5: dalam kesepakatan itu ditekankan pada upaya perhimpunan indonesia tetap pada garis perjuangan kebangsaan dan diharapkan pki dengan ormas-ormasnya tidak menghalang-halangi perhimpunan indonesia dalam mewujudkan citacitanya .
+passage 40 score = 6.833333333333333
+sentence 1: pada tanggal 29 maret 1913 , para pemimpin si mengadakan pertemuan dengan gubernur jenderal idenburg untuk memperjuangkan si berbadan hukum .
+sentence 2: jawaban dari idenburg pada tanggal 29 maret 1913 , yaitu si di bawah pimpinan h.o.s cokroaminoto tidak diberi badan hukum .
+sentence 3: ironisnya yang mendapat pengakuan pemerintah kolonial belanda ( gubernur jenderal idenburg ) justru cabang-cabang si yang ada di daerah .
+sentence 4: ini suatu taktik pemerintah kolonial belanda dalam memecah belah persatuan si .
+sentence 5: bayangan perpecahan muncul dari pandangan yang berbeda antara h.o.s cokroaminoto dengan semaun mengenai kapitalisme .
+passage 49 score = 6.833333333333333
+sentence 1: , berisi tentang kekhawatiran , kekuatan , dan ketakutan .
+sentence 2: dr. tjipto pun ditangkap , yang membuat rekan dalam tiga serangkai , e.f.e. douwes dekker turut mengkritik dalam tulisannya di de express tanggal 5 agustus 1913 yang berjudul onze helden : tjipto mangoenkoesoemo en soewardi soerjaningrat , pahlawan kita : tjipto mangoenkoesoemo dan soewardi soerjaningrat .
+sentence 3: kecaman-kecaman yang menentang pemerintah belanda menyebabkan ketiga tokoh dari indische partij ditangkap .
+sentence 4: pada tahun 1913 mereka diasingkan ke belanda .
+sentence 5: namun pada tahun 1914 cipto mangunkusumo dikembalikan ke indonesia karena sakit .
+passage 53 score = 6.833333333333333
+sentence 1: perasaan anti-kolonialisme semakin menonjol setelah ada seruan presiden amerika serikat woodrow wilson tentang kebebasan dalam menentukan nasib sendiri pada negara-negara terjajah ( the right of self determination ) .
+sentence 2: dalam upaya berkiprah lebih jauh , organisasi ini memiliki media komunikasi yang berupa majalah hindia poetra .
+sentence 3: pada rapat umum bulan januari 1923 , iwa kusumasumantri sebagai ketua baru memberi penjelasan bahwa organisasi yang sudah dibenahi ini mempunyai tiga asas pokok yang disebut juga manifesto politik , yaitu : a. indonesia ingin menentukan nasib sendiri , b. agar dapat menentukan nasib sendiri , bangsa indonesia harus mengandalkan kekuatan dan kemampuan sendiri , dan c. dengan tujuan melawan belanda bangsa indonesia harus bersatu .
+sentence 4: kegiatan indische vereeniging semakin tegas dan radikal , dan telah berkembang ke arah politik .
+sentence 5: sejalan dengan semakin meluasnya pemakaian nama indonesische , dirasa perlu untuk mengubah nama organisasi menjadi indonesische vereeniging pada tahun 1924 .
+passage 54 score = 6.833333333333333
+sentence 1: sejalan dengan semakin meluasnya pemakaian nama indonesische , dirasa perlu untuk mengubah nama organisasi menjadi indonesische vereeniging pada tahun 1924 .
+sentence 2: majalah hindia poetra pun ikut berubah nama menjadi indonesia merdeka .
+sentence 3: melalui rapat pada tanggal 3 februari 1925 akhirnya indonesische vereeniging diganti menjadi perhimpunan indonesia ( pi ) .
+sentence 4: semboyan “ indonesia merdeka ” sudah menjadi slogan meskipun mengatakannya dengan bahasa belanda .
+sentence 5: melalui media “ indonesia merdeka ” dan kegiatan internasional , dunia internasional mengetahui aktivitas perjuangan para pemuda indonesia .
+passage 65 score = 6.833333333333333
+sentence 1: salah satunya adalah partai nasional indonesia ( pni ) .
+sentence 2: partai nasional indonesia ( pni ) yang lahir di bandung pada tanggal 4 juli 1927 tidak terlepas dari keberadaan algemeene studie club .
+sentence 3: lahirnya pni juga dilatarbelakangi oleh situasi sosio politik yang kompleks .
+sentence 4: pemberontakan pki pada tahun 1926 membangkitkan semangat untuk menyusun kekuatan baru dalam menghadapi pemerintah kolonial belanda .
+sentence 5: rapat pendirian partai ini dihadiri ir .
+passage 81 score = 6.833333333333333
+sentence 1: soekarno bergabung ke dalamnya pada tahun 1932 , setelah dibebaskan dari penjara .
+sentence 2: namun , karena kegiatan-kegiatannya yang sangat radikal menyebabkan pemerintah melakukan pengawasan yang cukup ketat .
+sentence 3: karena tidak bisa berkembang , maka tahun 1936 partindo bubar .
+sentence 4: 9 .
+sentence 5: partai indonesia raya ( parindra ) perjuangan radikal yang dilakukan oleh pki , pi , dan pni mulai berakhir ketika pemerintah kolonial belanda melakukan penangkapan terhadap sejumlah tokoh pni .
+passage 93 score = 6.833333333333333
+sentence 1: mereka melihat muhammadiyah begitu terbuka terhadap kebudayaan barat sehingga khawatir kemurnian islam akan dirusakkan .
+sentence 2: oleh karena itu para ulama mendirikan nahdlatul ulama pada tahun 1926 .
+sentence 3: gerakan nu dipelopori oleh k.h. hasyim asy’ari .
+sentence 4: gerakan muhammadiyah banyak mendapat simpati termasuk pemerintah kolonial belanda karena perjuangannya tidak bersifat konfrontatif ( menentang ) .
+sentence 5: dalam kongres muhammadiyah yang berlangsung dari tanggal 12 - 17 maret 1925 di yogyakarta , diperbincangkan masalah-masalah yang berkaitan dengan pengajaran islam , mass media islam , dan buku-buku tentang islam yang berbahasa jawa .
+passage 100 score = 6.833333333333333
+sentence 1: perkumpulan wanita yang didirikan sebelum tahun 1920 antara lain putri mardika yang didirikan atas bantuan budi utomo .
+sentence 2: perkumpulan ini bertujuan untuk memajukan pengajaran terhadap anak-anak perempuan dengan cara memberi penerangan dan bantuan dana , mempertinggi sikap yang merdeka , dan melenyapkan tindakan malu-malu yang melampaui batas .
+sentence 3: perkumpulan kautamaan istri didirikan pada tahun 1913 di tasikmalaya , lalu pada tahun 1916 di sumedang , cianjur , dan tahun 1917 di ciamis , menyusul di cicurug tahun 1918 .
+sentence 4: tokoh kautamaan istri yang terkenal adalah raden dewi sartika , seorang pengajar kautamaan istri di tanah pasundan .
+sentence 5: di yogyakarta pada tahun 1912 didirikan perkumpulan wanita yang benafaskan islam dengan nama sopa tresna , yang kemudian pada tahun 1914 menjadi bagian wanita dari muhammadiyah dengan nama aisyah .
+passage 5 score = 6.666666666666667
+sentence 1: pengaruh perkembangan pendidikan barat di indonesia perkembangan sistem pendidikan pada masa hindia belanda tidak dapat dipisahkan dari politik etis .
+sentence 2: ini berarti bahwa terjadinya perubahan di negeri jajahan ( indonesia ) banyak dipengaruhi oleh keadaan yang terjadi di negeri belanda .
+sentence 3: tekanan datang dari partai sosial demokrat yang di dalamnya ada van deventer .
+sentence 4: pada tahun 1899 , mr. courad theodore van deventer melancarkan kritikan-kritikan yang tajam terhadap pemerintah penjajahan belanda .
+sentence 5: kritikan itu ditulis dan dimuat dalam jurnal belanda , de gids dengan judul een eereschuld yang berarti hutang budi atau hutang kehormatan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+passage 21 score = 6.833333333333333
+sentence 1: yamin dalam bukunya “ gajah mada ” juga menyebutkan bahwa runtuhnya brawijaya v raja majapahit terakhir , akibat serangan ranawijaya dari kerajaan keling , jadi bukan serangan dari demak .
+sentence 2: uraian tentang keterlibatan mahapatih gajah mada memimpin pasukan majapahit ketika diserang demak 1478 itu sudah bertentangan dengan sejarah .
+sentence 3: soalnya gajah mada sudah meninggal tahun 1364 masehi atau 1286 saka .
+sentence 4: penuturan buku “ dari panggung sejarah ” terjemahan ip simanjuntak yang bersumber dari tulisan h.j. van den berg ternyata juga runtuhnya majapahit bukan akibat serangan demak atau tentara islam .
+sentence 5: ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi majapahit tahun 1413 masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari gujarat dan malaka .
+passage 22 score = 6.833333333333333
+sentence 1: ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi majapahit tahun 1413 masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari gujarat dan malaka .
+sentence 2: disebutkannya , tahun 1400 masehi saudagar islam dari gujarat dan parsi sudah bermukim di pantai utara jawa .
+sentence 3: salah satunya adalah maulana malik ibrahim yang dimakamkan di pasarean gapura wetan kab .
+sentence 4: gresik dengan angka tahun 12 rabi’ul awwal 882 h atau 8 april 1419 masehi , berarti pada jaman pemerintahan wikramawardhana ( 1389-1429 ) yaitu raja majapahit iv setelah hayam wuruk .
+sentence 5: batu nisan yang berpahat kaligrafi arab itu menurut tjokrosujono ( mantan kepala suaka peninggalan sejarah dan purbakala , mojokerto ) , nisan itu asli bukan buatan baru .
+passage 24 score = 6.833333333333333
+sentence 1: lafalnya diambil dari bacaan doa , kalimah thayibah dan petikan ayat-ayat alquran dengan bentuk huruf sedikit kaku .
+sentence 2: tampaknya pembuatnya seorang mualaf dalam islam .
+sentence 3: isinya pun bukan bersifat data kelahiran dan kematian tokoh yang dimakamkan , melainkan lebih banyak bersifat dakwah antara lain kutipan surat ar-rahman ayat 26-27 .
+sentence 4: p.j. veth adalah sarjana belanda yang pertama kali meneliti dan menulis makam troloyo dalam buku java ii tahun 1873 .
+sentence 5: l.c. damais peneliti dari prancis yang mengikutinya menyebutkan angka tahun pada nisan mulai abad xiv hingga xvi .
+passage 5 score = 6.333333333333333
+sentence 1: tempat ini dikeramatkan karena dianggap sebagai asnya kerajaan majapahit ” katanya .
+sentence 2: pada waktu tertentu khususnya bertepatan dengan malam jumat legi , banyak orang datang untuk berdoa dan mengharapkan berkah . ”
+sentence 3: orang berdatangan untuk berdoa , agar tujuannya tercapai ” kata sajadu yang menyatakan pekerjaan menjaga petilasan panggung sudah dilakukan turun-temurun sejak leluhurnya .
+sentence 4: sembari menghisap rokok kreteknya , pria yang mewarisi sebagai penjaga petilasan dari ayahnya sejak 1985 juga menceritakan , dulunya tempat itu hanya berupa tumpukkan bebatuan .
+sentence 5: sampai sekarang , batu tersebut masih ada di dalam , katanya .
+passage 1 score = 5.5
+sentence 1: kerajaan majapahit didirikan tahun 1294 oleh raden wijaya yang bergelar kertarajasa jayawardana yang merupakan keturunan ken arok raja singosari .
+sentence 2: raja-raja yang pernah memerintah kerajaan majapahit : raden wijaya 1273 – 1309 jayanegara 1309-1328 tribhuwanatunggaldewi 1328-1350 hayam wuruk 1350-1389 wikramawardana 1389-1429 kertabhumi 1429-1478 kerajaan majapahit ini mencapai puncak kejayaannya di masa pemerintahan raja hayam wuruk ( 1350-1389 ) .
+sentence 3: kebesaran kerajaan ditunjang oleh pertanian sudah teratur , perdagangan lancar dan maju , memiliki armada angkutan laut yang kuat serta dipimpin oleh hayam wuruk dengan patih gajah mada .
+sentence 4: di bawah patih gajah mada majapahit banyak menaklukkan daerah lain .
+sentence 5: dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+passage 2 score = 5.5
+sentence 1: dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+sentence 2: mpu prapanca dalam bukunya negara kertagama menceritakan tentang zaman gemilang kerajaan di masa hayam wuruk dan juga silsilah raja sebelumnya tahun 1364 gajah mada meninggal disusun oleh hayam wuruk di tahun 1389 dan kerajaan majapahit mulai mengalami kemunduran .
+sentence 3: penyebab kemunduran : majapahit kehilangan tokoh besar seperti hayam wuruk dan gajah mada meletusnya perang paragreg tahun 1401-1406 merupakan perang saudara memperebutkan kekuasaan daerah bawahan mulai melepaskan diri .
+sentence 4: peninggalan kerajaan majapahit : bangunan : candi panataran , sawentar , tiga wangi , muara takus kitab : negara kertagama oleh mpu prapanca , sitosoma oleh mpu tantular yang memuat slogan bhinneka tunggal ika .
+sentence 5: paraton kidung sundayana dan sorandaka r wijaya mendapat wangsit mendirikan kerajaan majapahit .
+passage 6 score = 5.5
+sentence 1: sampai sekarang , batu tersebut masih ada di dalam , katanya .
+sentence 2: kemudian pada 1964 , dilakukan pemugaran pertama kali oleh ibu sudarijah atau yang dikenal dengan ibu dar moeriar dari surabaya .
+sentence 3: baru pada tahun 1995 dilakukan pemugaran kembali oleh pangdam brawijaya yang saat itu dijabat oleh utomo .
+sentence 4: memasuki kawasan petilasan panggung , terpampang gambar gajah mada tepat disamping pintu masuk .
+sentence 5: sedangkan dibagian depan pintu bergantung sebuah papan kecil dengan tulisan ” lima pedoman ” yang merupakan pedoman suri teladan bagi warga .
+passage 14 score = 5.5
+sentence 1: karena terdesak , prabu brawijaya mengungsi ke ( tanjung ) sengguruh beserta keluarganya diiringi patih gajah mada .
+sentence 2: itu terjadi tahun 1399 saka atau 1477 masehi .
+sentence 3: setelah dinobatkan menjadi sultan demak bergelar “ panembahan jinbun ” , adipati bintara mengutus lembu peteng dan jaran panoleh ke sengguruh meminta sang prabu masuk agama islam .
+sentence 4: tapi beliau tetap menolak .
+sentence 5: akhirnya sengguruh diserbu dan prabu brawijaya lari kepulau bali .
+passage 18 score = 5.5
+sentence 1: sejak itu majapahit telah berhenti sebagai ibu kota kerajaan .
+sentence 2: dengan demikian tak mungkin majapahit runtuh karena serbuan demak .
+sentence 3: sumber sejarah portugis tulisan tome pires juga menyebutkan bahwa kerajaan demak sudah berdiri dijaman pemerintahan girindrawardhana di keling .
+sentence 4: saat itu tuban , gresik , surabaya dan madura serta beberapa kota lain dipesisir utara jawa berada dalam wilayah kerajaan kediri , sehingga tidak mungkin seperti diceritakan dalam babad jawa , raden patah mengumpulkan para bupati itu untuk menggempur majapahit .
+sentence 5: penggubah babad tanah jawi tampaknya mencampur adukkan antara pembentukan kerajaan demak pada tahun 1478 dengan runtuhnya kediri oleh serbuan demak dijaman pemerintahan sultan trenggano 1527 .
+passage 19 score = 5.5
+sentence 1: penggubah babad tanah jawi tampaknya mencampur adukkan antara pembentukan kerajaan demak pada tahun 1478 dengan runtuhnya kediri oleh serbuan demak dijaman pemerintahan sultan trenggano 1527 .
+sentence 2: penyerbuan sultan trenggano ini dilakukan karena kediri mengadakan hubungan dengan portugis di malaka seperti yang dilaporkan tome pires .
+sentence 3: demak yang memang memusuhi portugis hingga menggempurnya ke malaka tidak rela kediri menjalin hubungan dengan bangsa penjajah itu .
+sentence 4: setelah kediri jatuh ( bukan majapahit ! )
+sentence 5: diserang demak , bukan lari kepulau bali seperti disebutkan dalam uraian serat kanda , melainkan ke panarukan , situbondo setelah dari sengguruh , malang .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+passage 1 score = 7.833333333333333
+sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
+sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
+sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
+sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
+sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 14 score = 7.833333333333333
+sentence 1: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
+sentence 2: selanjutnya pada abad ke-13 dan ke-14 , kebesaran sriwijaya tidak pernah disebut-sebut lagi dalam sumber-sumber sejarah .
+sentence 3: jadi , kapan kerajaan sriwijaya mengalami keruntuhan ?
+sentence 4: menurut catatan cina , utusan sriwijaya terakhir datang ke cina pada tahun 1178 .
+sentence 5: selain itu , pada catatan chufan-chi yang ditulis oleh chau ju kua tahun 1225 disebutkan bahwa palembang ( ibu kota sriwijaya ) telah menjadi negeri taklukan malayu .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 16 score = 7.833333333333333
+sentence 1: keadaan ini juga yang membawa penghasilan kerajaan sriwijaya terutama diperoleh dari komoditas ekspor dan bea cukai bagi kapal-kapal yang singgah di pelabuhan-pelabuhan milik sriwijaya .
+sentence 2: komoditas ekspor sriwijaya antara lain kapur barus , cendana , gading gajah , buah-buahan , kapas , cula badak , dan wangi-wangian .
+sentence 3: c. kehidupan sosial-budaya kerajaan sriwijaya prasasti amoghpasha ( 1286 ) berbunyi “ pada tahun saka 1208 ..... tatkala itulah arca paduka amoghappasa lokeswara dengan empat belas pengikutnya serta tujuh ratna permata dibawa dari bhumi jawa ke suwarnabhumi supaya ditegakan .
+sentence 4: sumber sejarah lain mengenai kerajaan sriwijaya dapat dilihat dari berita cina .
+sentence 5: berita itu datang dari seorang pendeta yang bernama i-tsing yang pada tahun 671 berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke india .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 17 score = 7.833333333333333
+sentence 1: berita itu datang dari seorang pendeta yang bernama i-tsing yang pada tahun 671 berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke india .
+sentence 2: i-tsing menyebutkan bahwa di negeri sriwijaya dikelilingi oleh benteng .
+sentence 3: di negeri ini ada seribu orang pendeta yang belajar agama buddha .
+sentence 4: seperi halnya di india , para pendeta cina yang mau belajar agama ke india dianjurkan untuk belajar terlebih dahulu di sriwijaya selama satu sampai dua tahun .
+sentence 5: disebutkan juga bahwa para pendeta yang belajar agama buddha di sriwijaya dibimbing oleh seorang guru yang sangat terkenal bernama sakyakirti .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 14 score = 7.833333333333333
+sentence 1: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
+sentence 2: selanjutnya pada abad ke-13 dan ke-14 , kebesaran sriwijaya tidak pernah disebut-sebut lagi dalam sumber-sumber sejarah .
+sentence 3: jadi , kapan kerajaan sriwijaya mengalami keruntuhan ?
+sentence 4: menurut catatan cina , utusan sriwijaya terakhir datang ke cina pada tahun 1178 .
+sentence 5: selain itu , pada catatan chufan-chi yang ditulis oleh chau ju kua tahun 1225 disebutkan bahwa palembang ( ibu kota sriwijaya ) telah menjadi negeri taklukan malayu .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 16 score = 7.833333333333333
+sentence 1: keadaan ini juga yang membawa penghasilan kerajaan sriwijaya terutama diperoleh dari komoditas ekspor dan bea cukai bagi kapal-kapal yang singgah di pelabuhan-pelabuhan milik sriwijaya .
+sentence 2: komoditas ekspor sriwijaya antara lain kapur barus , cendana , gading gajah , buah-buahan , kapas , cula badak , dan wangi-wangian .
+sentence 3: c. kehidupan sosial-budaya kerajaan sriwijaya prasasti amoghpasha ( 1286 ) berbunyi “ pada tahun saka 1208 ..... tatkala itulah arca paduka amoghappasa lokeswara dengan empat belas pengikutnya serta tujuh ratna permata dibawa dari bhumi jawa ke suwarnabhumi supaya ditegakan .
+sentence 4: sumber sejarah lain mengenai kerajaan sriwijaya dapat dilihat dari berita cina .
+sentence 5: berita itu datang dari seorang pendeta yang bernama i-tsing yang pada tahun 671 berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke india .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+passage 17 score = 7.833333333333333
+sentence 1: berita itu datang dari seorang pendeta yang bernama i-tsing yang pada tahun 671 berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke india .
+sentence 2: i-tsing menyebutkan bahwa di negeri sriwijaya dikelilingi oleh benteng .
+sentence 3: di negeri ini ada seribu orang pendeta yang belajar agama buddha .
+sentence 4: seperi halnya di india , para pendeta cina yang mau belajar agama ke india dianjurkan untuk belajar terlebih dahulu di sriwijaya selama satu sampai dua tahun .
+sentence 5: disebutkan juga bahwa para pendeta yang belajar agama buddha di sriwijaya dibimbing oleh seorang guru yang sangat terkenal bernama sakyakirti .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 18 score = 7.833333333333333
+sentence 1: dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya .
+sentence 2: majapahit juga menjalin hubungan baik dengan negara-negara yang jauh , seperi siam , champa dan cina .
+sentence 3: negara-negara tersebut dianggap sebagai mitreka satata ( negara sahabat yang berkedudukan sama ) .
+sentence 4: hayam wuruk wafat pada tahun 1389 dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( 1389 – 1429 ) .
+sentence 5: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 26 score = 7.833333333333333
+sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
+sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
+sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 18 score = 7.833333333333333
+sentence 1: dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya .
+sentence 2: majapahit juga menjalin hubungan baik dengan negara-negara yang jauh , seperi siam , champa dan cina .
+sentence 3: negara-negara tersebut dianggap sebagai mitreka satata ( negara sahabat yang berkedudukan sama ) .
+sentence 4: hayam wuruk wafat pada tahun 1389 dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( 1389 – 1429 ) .
+sentence 5: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+
+
+Pencarian jawaban
+---------------------
+
+
+sejarah proses migrasi ras proto melayu dan deutro melayu ke <LOCATION>indonesia</LOCATION> – sejarawan belanda van heine mengatakan bahwa sejak <TIME>2000</TIME> sm yang bersamaan dengan zaman neolitikum sampai dengan <TIME>tahun 500</TIME> sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke <LOCATION>pulau-pulau sebelah selatan daratan</LOCATION> asia ke <LOCATION>indonesia .</LOCATION> sekitar <TIME>tahun 1500</TIME> sm , mereka terdesak dari campa kemudian pindah ke <LOCATION>kampuchea</LOCATION> dan melanjutkan perjalanan ke semenanjung malaka . sementara itu , bangsa yang lainnya masuk ke <LOCATION>pulau-pulau</LOCATION> di <LOCATION>sebelah selatan asia</LOCATION> tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) . bangsa yang mendiami daerah austronesia disebut bangsa austronesia . bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
+
+memproses passage 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+list jawaban dan posisi dalam passage
+2000 | position = 14
+tahun 500 | position = 19
+tahun 1500 | position = 32
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = proses
+tokenwithtagstemmed = migrasi
+tokenwithtagstemmed = ras
+tokenwithtagstemmed = proto
+tokenwithtagstemmed = melayu
+tokenwithtagstemmed = deutro
+tokenwithtagstemmed = melayu
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = sejarawan
+tokenwithtagstemmed = belanda
+posisi dalam passage = 10
+jarak dengan tiap kandidat jawaban:
+2000 4
+tahun 500 9
+tahun 1500 22
+
+tokenwithtagstemmed = van
+tokenwithtagstemmed = heine
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = 2000
+tokenwithtagstemmed = sm
+tokenwithtagstemmed = sama
+tokenwithtagstemmed = zaman
+tokenwithtagstemmed = neolitikum
+tokenwithtagstemmed = tahun 500
+tokenwithtagstemmed = sm
+tokenwithtagstemmed = sama
+tokenwithtagstemmed = zaman
+tokenwithtagstemmed = perunggu
+tokenwithtagstemmed = alir
+tokenwithtagstemmed = gelombang
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = pulau pulau belah selatan darat
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tahun 1500
+tokenwithtagstemmed = sm
+tokenwithtagstemmed = desak
+tokenwithtagstemmed = campa
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = kampuchea
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = semenanjung
+tokenwithtagstemmed = malaka
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = pulau pulau
+tokenwithtagstemmed = belah selatan asia
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = austro
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = selatan
+tokenwithtagstemmed = nesos
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = ami
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = ami
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = bentang
+tokenwithtagstemmed = madagaskar
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = paskah
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = taiwan
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = utara
+tokenwithtagstemmed = selandia
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = selatan
+kata kunci = datang
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = proses
+tokenwithtagstemmed = migrasi
+tokenwithtagstemmed = ras
+tokenwithtagstemmed = proto
+tokenwithtagstemmed = melayu
+tokenwithtagstemmed = deutro
+tokenwithtagstemmed = melayu
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = sejarawan
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = van
+tokenwithtagstemmed = heine
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = 2000
+tokenwithtagstemmed = sm
+tokenwithtagstemmed = sama
+tokenwithtagstemmed = zaman
+tokenwithtagstemmed = neolitikum
+tokenwithtagstemmed = tahun 500
+tokenwithtagstemmed = sm
+tokenwithtagstemmed = sama
+tokenwithtagstemmed = zaman
+tokenwithtagstemmed = perunggu
+tokenwithtagstemmed = alir
+tokenwithtagstemmed = gelombang
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = pulau pulau belah selatan darat
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tahun 1500
+tokenwithtagstemmed = sm
+tokenwithtagstemmed = desak
+tokenwithtagstemmed = campa
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = kampuchea
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = semenanjung
+tokenwithtagstemmed = malaka
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = pulau pulau
+tokenwithtagstemmed = belah selatan asia
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = austro
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = selatan
+tokenwithtagstemmed = nesos
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = ami
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = ami
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = bentang
+tokenwithtagstemmed = madagaskar
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = paskah
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = taiwan
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = utara
+tokenwithtagstemmed = selandia
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = selatan
+kata kunci = malu
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = proses
+tokenwithtagstemmed = migrasi
+tokenwithtagstemmed = ras
+tokenwithtagstemmed = proto
+tokenwithtagstemmed = melayu
+tokenwithtagstemmed = deutro
+tokenwithtagstemmed = melayu
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = sejarawan
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = van
+tokenwithtagstemmed = heine
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = 2000
+tokenwithtagstemmed = sm
+tokenwithtagstemmed = sama
+tokenwithtagstemmed = zaman
+tokenwithtagstemmed = neolitikum
+tokenwithtagstemmed = tahun 500
+tokenwithtagstemmed = sm
+tokenwithtagstemmed = sama
+tokenwithtagstemmed = zaman
+tokenwithtagstemmed = perunggu
+tokenwithtagstemmed = alir
+tokenwithtagstemmed = gelombang
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = pulau pulau belah selatan darat
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tahun 1500
+tokenwithtagstemmed = sm
+tokenwithtagstemmed = desak
+tokenwithtagstemmed = campa
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = kampuchea
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = semenanjung
+tokenwithtagstemmed = malaka
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = pulau pulau
+tokenwithtagstemmed = belah selatan asia
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = austro
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = selatan
+tokenwithtagstemmed = nesos
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = ami
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = austronesia
+tokenwithtagstemmed = ami
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = bentang
+tokenwithtagstemmed = madagaskar
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = paskah
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = taiwan
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = utara
+tokenwithtagstemmed = selandia
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = selatan
+
+
+sementara itu , prasasti wirarajendra , yang dikeluarkan oleh <PERSON>raja</PERSON> cola ( <TIME>1068</TIME> ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya <TIME>tahun 1067</TIME> . selanjutnya pada <TIME>abad ke-13</TIME> dan ke-14 , kebesaran sriwijaya tidak pernah disebut-sebut lagi dalam sumber-sumber sejarah . jadi , kapan kerajaan sriwijaya mengalami keruntuhan ? menurut catatan cina , utusan sriwijaya terakhir datang ke cina pada <TIME>tahun 1178</TIME> . selain itu , pada catatan chufan-chi yang ditulis oleh chau ju kua <TIME>tahun 1225</TIME> disebutkan bahwa palembang ( ibu kota sriwijaya ) telah menjadi negeri taklukan malayu .
+
+memproses passage 14
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+list jawaban dan posisi dalam passage
+1068 | position = 5
+tahun 1067 | position = 12
+abad 13 | position = 14
+tahun 1178 | position = 36
+tahun 1225 | position = 44
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = wirarajendra
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = 1068
+tokenwithtagstemmed = risi
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = tahun 1067
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = abad 13
+tokenwithtagstemmed = 14
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = utus
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahun 1178
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = chufan
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = chau
+tokenwithtagstemmed = ju
+tokenwithtagstemmed = kua
+tokenwithtagstemmed = tahun 1225
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = palembang
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = malayu
+kata kunci = datang
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = wirarajendra
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = 1068
+tokenwithtagstemmed = risi
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = tahun 1067
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = abad 13
+tokenwithtagstemmed = 14
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = utus
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = datang
+posisi dalam passage = 34
+jarak dengan tiap kandidat jawaban:
+1068 -29
+tahun 1067 -22
+abad 13 -20
+tahun 1178 2
+tahun 1225 10
+
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahun 1178
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = chufan
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = chau
+tokenwithtagstemmed = ju
+tokenwithtagstemmed = kua
+tokenwithtagstemmed = tahun 1225
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = palembang
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = malayu
+kata kunci = malu
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = wirarajendra
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = 1068
+tokenwithtagstemmed = risi
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = tahun 1067
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = abad 13
+tokenwithtagstemmed = 14
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = utus
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahun 1178
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = chufan
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = chau
+tokenwithtagstemmed = ju
+tokenwithtagstemmed = kua
+tokenwithtagstemmed = tahun 1225
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = palembang
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = malayu
+
+
+keadaan ini juga yang membawa penghasilan kerajaan sriwijaya terutama diperoleh dari komoditas ekspor dan bea cukai bagi kapal-kapal yang singgah di pelabuhan-pelabuhan milik sriwijaya . komoditas ekspor sriwijaya antara lain kapur barus , cendana , gading gajah , buah-buahan , kapas , cula badak , dan wangi-wangian . c. kehidupan sosial-budaya kerajaan sriwijaya prasasti amoghpasha ( <TIME>1286</TIME> ) berbunyi “ pada <TIME>tahun saka 1208</TIME> ..... tatkala itulah arca paduka amoghappasa lokeswara dengan empat belas pengikutnya serta tujuh ratna permata dibawa dari bhumi jawa ke suwarnabhumi supaya ditegakan . sumber sejarah lain mengenai kerajaan sriwijaya dapat dilihat dari berita cina . berita itu datang dari seorang pendeta yang bernama i-tsing yang pada <TIME>tahun 671</TIME> berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke <LOCATION>india .</LOCATION>
+
+memproses passage 16
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+list jawaban dan posisi dalam passage
+1286 | position = 41
+tahun saka 1208 | position = 43
+tahun 671 | position = 74
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = oleh
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = bea
+tokenwithtagstemmed = cukai
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = singgah
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = kapur
+tokenwithtagstemmed = barus
+tokenwithtagstemmed = cendana
+tokenwithtagstemmed = gading
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = kapas
+tokenwithtagstemmed = cula
+tokenwithtagstemmed = badak
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = c
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = amoghpasha
+tokenwithtagstemmed = 1286
+tokenwithtagstemmed = bunyi
+tokenwithtagstemmed = tahun saka 1208
+tokenwithtagstemmed = tatkala
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = paduka
+tokenwithtagstemmed = amoghappasa
+tokenwithtagstemmed = lokeswara
+tokenwithtagstemmed = empat
+tokenwithtagstemmed = belas
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = ratna
+tokenwithtagstemmed = permata
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = bhumi
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = suwarnabhumi
+tokenwithtagstemmed = tega
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+kata kunci = datang
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = oleh
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = bea
+tokenwithtagstemmed = cukai
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = singgah
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = kapur
+tokenwithtagstemmed = barus
+tokenwithtagstemmed = cendana
+tokenwithtagstemmed = gading
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = kapas
+tokenwithtagstemmed = cula
+tokenwithtagstemmed = badak
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = c
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = amoghpasha
+tokenwithtagstemmed = 1286
+tokenwithtagstemmed = bunyi
+tokenwithtagstemmed = tahun saka 1208
+tokenwithtagstemmed = tatkala
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = paduka
+tokenwithtagstemmed = amoghappasa
+tokenwithtagstemmed = lokeswara
+tokenwithtagstemmed = empat
+tokenwithtagstemmed = belas
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = ratna
+tokenwithtagstemmed = permata
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = bhumi
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = suwarnabhumi
+tokenwithtagstemmed = tega
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+posisi dalam passage = 69
+jarak dengan tiap kandidat jawaban:
+1286 -28
+tahun saka 1208 -26
+tahun 671 5
+
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+kata kunci = malu
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = oleh
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = bea
+tokenwithtagstemmed = cukai
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = singgah
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = kapur
+tokenwithtagstemmed = barus
+tokenwithtagstemmed = cendana
+tokenwithtagstemmed = gading
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = kapas
+tokenwithtagstemmed = cula
+tokenwithtagstemmed = badak
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = c
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = amoghpasha
+tokenwithtagstemmed = 1286
+tokenwithtagstemmed = bunyi
+tokenwithtagstemmed = tahun saka 1208
+tokenwithtagstemmed = tatkala
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = paduka
+tokenwithtagstemmed = amoghappasa
+tokenwithtagstemmed = lokeswara
+tokenwithtagstemmed = empat
+tokenwithtagstemmed = belas
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = ratna
+tokenwithtagstemmed = permata
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = bhumi
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = suwarnabhumi
+tokenwithtagstemmed = tega
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+
+
+berita itu datang dari seorang pendeta yang bernama i-tsing yang pada <TIME>tahun 671</TIME> berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke <LOCATION>india .</LOCATION> i-tsing menyebutkan bahwa di negeri sriwijaya dikelilingi oleh benteng . di negeri ini ada seribu orang pendeta yang belajar agama buddha . seperi halnya di <LOCATION>india</LOCATION> , para pendeta cina yang mau belajar agama ke <LOCATION>india</LOCATION> dianjurkan untuk belajar terlebih dahulu di sriwijaya selama satu sampai dua <TIME>tahun .</TIME> disebutkan juga bahwa <PERSON>para pendeta</PERSON> yang belajar agama buddha di sriwijaya dibimbing oleh seorang guru yang sangat terkenal bernama sakyakirti .
+
+memproses passage 17
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+list jawaban dan posisi dalam passage
+tahun 671 | position = 6
+tahun | position = 45
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = ribu
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = per
+tokenwithtagstemmed = hal
+tokenwithtagstemmed = india
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = india
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = bimbing
+tokenwithtagstemmed = guru
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sakyakirti
+kata kunci = datang
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+tahun 671 5
+tahun 44
+
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = ribu
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = per
+tokenwithtagstemmed = hal
+tokenwithtagstemmed = india
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = india
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = bimbing
+tokenwithtagstemmed = guru
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sakyakirti
+kata kunci = malu
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = ribu
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = per
+tokenwithtagstemmed = hal
+tokenwithtagstemmed = india
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = india
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = bimbing
+tokenwithtagstemmed = guru
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sakyakirti
+
+
+sementara itu , prasasti wirarajendra , yang dikeluarkan oleh <PERSON>raja</PERSON> cola ( <TIME>1068</TIME> ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya <TIME>tahun 1067</TIME> . selanjutnya pada <TIME>abad ke-13</TIME> dan ke-14 , kebesaran sriwijaya tidak pernah disebut-sebut lagi dalam sumber-sumber sejarah . jadi , kapan kerajaan sriwijaya mengalami keruntuhan ? menurut catatan cina , utusan sriwijaya terakhir datang ke cina pada <TIME>tahun 1178</TIME> . selain itu , pada catatan chufan-chi yang ditulis oleh chau ju kua <TIME>tahun 1225</TIME> disebutkan bahwa palembang ( ibu kota sriwijaya ) telah menjadi negeri taklukan malayu .
+
+memproses passage 14
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+list jawaban dan posisi dalam passage
+1068 | position = 5
+tahun 1067 | position = 12
+abad 13 | position = 14
+tahun 1178 | position = 36
+tahun 1225 | position = 44
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = wirarajendra
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = 1068
+tokenwithtagstemmed = risi
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = tahun 1067
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = abad 13
+tokenwithtagstemmed = 14
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = utus
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahun 1178
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = chufan
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = chau
+tokenwithtagstemmed = ju
+tokenwithtagstemmed = kua
+tokenwithtagstemmed = tahun 1225
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = palembang
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = malayu
+kata kunci = datang
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = wirarajendra
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = 1068
+tokenwithtagstemmed = risi
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = tahun 1067
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = abad 13
+tokenwithtagstemmed = 14
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = utus
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = datang
+posisi dalam passage = 34
+jarak dengan tiap kandidat jawaban:
+1068 -29
+tahun 1067 -22
+abad 13 -20
+tahun 1178 2
+tahun 1225 10
+
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahun 1178
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = chufan
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = chau
+tokenwithtagstemmed = ju
+tokenwithtagstemmed = kua
+tokenwithtagstemmed = tahun 1225
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = palembang
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = malayu
+kata kunci = malu
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = wirarajendra
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = 1068
+tokenwithtagstemmed = risi
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = cola
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = tahun 1067
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = abad 13
+tokenwithtagstemmed = 14
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = utus
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahun 1178
+tokenwithtagstemmed = catat
+tokenwithtagstemmed = chufan
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = chau
+tokenwithtagstemmed = ju
+tokenwithtagstemmed = kua
+tokenwithtagstemmed = tahun 1225
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = palembang
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = malayu
+
+
+keadaan ini juga yang membawa penghasilan kerajaan sriwijaya terutama diperoleh dari komoditas ekspor dan bea cukai bagi kapal-kapal yang singgah di pelabuhan-pelabuhan milik sriwijaya . komoditas ekspor sriwijaya antara lain kapur barus , cendana , gading gajah , buah-buahan , kapas , cula badak , dan wangi-wangian . c. kehidupan sosial-budaya kerajaan sriwijaya prasasti amoghpasha ( <TIME>1286</TIME> ) berbunyi “ pada <TIME>tahun saka 1208</TIME> ..... tatkala itulah arca paduka amoghappasa lokeswara dengan empat belas pengikutnya serta tujuh ratna permata dibawa dari bhumi jawa ke suwarnabhumi supaya ditegakan . sumber sejarah lain mengenai kerajaan sriwijaya dapat dilihat dari berita cina . berita itu datang dari seorang pendeta yang bernama i-tsing yang pada <TIME>tahun 671</TIME> berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke <LOCATION>india .</LOCATION>
+
+memproses passage 16
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+list jawaban dan posisi dalam passage
+1286 | position = 41
+tahun saka 1208 | position = 43
+tahun 671 | position = 74
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = oleh
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = bea
+tokenwithtagstemmed = cukai
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = singgah
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = kapur
+tokenwithtagstemmed = barus
+tokenwithtagstemmed = cendana
+tokenwithtagstemmed = gading
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = kapas
+tokenwithtagstemmed = cula
+tokenwithtagstemmed = badak
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = c
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = amoghpasha
+tokenwithtagstemmed = 1286
+tokenwithtagstemmed = bunyi
+tokenwithtagstemmed = tahun saka 1208
+tokenwithtagstemmed = tatkala
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = paduka
+tokenwithtagstemmed = amoghappasa
+tokenwithtagstemmed = lokeswara
+tokenwithtagstemmed = empat
+tokenwithtagstemmed = belas
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = ratna
+tokenwithtagstemmed = permata
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = bhumi
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = suwarnabhumi
+tokenwithtagstemmed = tega
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+kata kunci = datang
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = oleh
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = bea
+tokenwithtagstemmed = cukai
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = singgah
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = kapur
+tokenwithtagstemmed = barus
+tokenwithtagstemmed = cendana
+tokenwithtagstemmed = gading
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = kapas
+tokenwithtagstemmed = cula
+tokenwithtagstemmed = badak
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = c
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = amoghpasha
+tokenwithtagstemmed = 1286
+tokenwithtagstemmed = bunyi
+tokenwithtagstemmed = tahun saka 1208
+tokenwithtagstemmed = tatkala
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = paduka
+tokenwithtagstemmed = amoghappasa
+tokenwithtagstemmed = lokeswara
+tokenwithtagstemmed = empat
+tokenwithtagstemmed = belas
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = ratna
+tokenwithtagstemmed = permata
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = bhumi
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = suwarnabhumi
+tokenwithtagstemmed = tega
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+posisi dalam passage = 69
+jarak dengan tiap kandidat jawaban:
+1286 -28
+tahun saka 1208 -26
+tahun 671 5
+
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+kata kunci = malu
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = oleh
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = bea
+tokenwithtagstemmed = cukai
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = singgah
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = labuh
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = komoditas
+tokenwithtagstemmed = ekspor
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = kapur
+tokenwithtagstemmed = barus
+tokenwithtagstemmed = cendana
+tokenwithtagstemmed = gading
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = buah
+tokenwithtagstemmed = kapas
+tokenwithtagstemmed = cula
+tokenwithtagstemmed = badak
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = wangi
+tokenwithtagstemmed = c
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = amoghpasha
+tokenwithtagstemmed = 1286
+tokenwithtagstemmed = bunyi
+tokenwithtagstemmed = tahun saka 1208
+tokenwithtagstemmed = tatkala
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = paduka
+tokenwithtagstemmed = amoghappasa
+tokenwithtagstemmed = lokeswara
+tokenwithtagstemmed = empat
+tokenwithtagstemmed = belas
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = ratna
+tokenwithtagstemmed = permata
+tokenwithtagstemmed = bawa
+tokenwithtagstemmed = bhumi
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = suwarnabhumi
+tokenwithtagstemmed = tega
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+
+
+berita itu datang dari seorang pendeta yang bernama i-tsing yang pada <TIME>tahun 671</TIME> berdiam di sriwijaya untuk belajar tata bahasa sanskerta sebagai persiapan kunjungannya ke <LOCATION>india .</LOCATION> i-tsing menyebutkan bahwa di negeri sriwijaya dikelilingi oleh benteng . di negeri ini ada seribu orang pendeta yang belajar agama buddha . seperi halnya di <LOCATION>india</LOCATION> , para pendeta cina yang mau belajar agama ke <LOCATION>india</LOCATION> dianjurkan untuk belajar terlebih dahulu di sriwijaya selama satu sampai dua <TIME>tahun .</TIME> disebutkan juga bahwa <PERSON>para pendeta</PERSON> yang belajar agama buddha di sriwijaya dibimbing oleh seorang guru yang sangat terkenal bernama sakyakirti .
+
+memproses passage 17
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+list jawaban dan posisi dalam passage
+tahun 671 | position = 6
+tahun | position = 45
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = ribu
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = per
+tokenwithtagstemmed = hal
+tokenwithtagstemmed = india
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = india
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = bimbing
+tokenwithtagstemmed = guru
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sakyakirti
+kata kunci = datang
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+tahun 671 5
+tahun 44
+
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = ribu
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = per
+tokenwithtagstemmed = hal
+tokenwithtagstemmed = india
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = india
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = bimbing
+tokenwithtagstemmed = guru
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sakyakirti
+kata kunci = malu
+tokenwithtagstemmed = berita
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = tahun 671
+tokenwithtagstemmed = diam
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = tata
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = sanskerta
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = kunjung
+tokenwithtagstemmed = india
+tokenwithtagstemmed = i
+tokenwithtagstemmed = tsing
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = benteng
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = ribu
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = per
+tokenwithtagstemmed = hal
+tokenwithtagstemmed = india
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = india
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = pendeta
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = bimbing
+tokenwithtagstemmed = guru
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sakyakirti
+
+
+dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya . majapahit juga menjalin hubungan baik dengan negara-negara yang jauh , seperi siam , champa dan cina . negara-negara tersebut dianggap sebagai mitreka satata ( negara sahabat yang berkedudukan sama ) . hayam wuruk wafat pada <TIME>tahun 1389</TIME> dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( <TIME>1389 – 1429</TIME> ) . hayam wuruk dengan <PERSON>isteri selir</PERSON> mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+
+memproses passage 18
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1389 | position = 47
+1389 1429 | position = 55
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = negarakrtagama
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = jelas
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daearah
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = wilayah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = tanjungpura
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = papua
+tokenwithtagstemmed = semenanjung
+tokenwithtagstemmed = malaka
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jalin
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = jauh
+tokenwithtagstemmed = per
+tokenwithtagstemmed = siam
+tokenwithtagstemmed = champa
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = anggap
+tokenwithtagstemmed = mitreka
+tokenwithtagstemmed = satata
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sahabat
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putri
+tokenwithtagstemmed = dyah
+tokenwithtagstemmed = kusumawardhani
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = suami
+tokenwithtagstemmed = wikramawardhana
+tokenwithtagstemmed = 1389 1429
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = isteri selir
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = anak
+tokenwithtagstemmed = bhre
+tokenwithtagstemmed = wirabhumi
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = bupati
+tokenwithtagstemmed = blambangan
+kata kunci = datang
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = negarakrtagama
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = jelas
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daearah
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = wilayah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = tanjungpura
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = papua
+tokenwithtagstemmed = semenanjung
+tokenwithtagstemmed = malaka
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jalin
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = jauh
+tokenwithtagstemmed = per
+tokenwithtagstemmed = siam
+tokenwithtagstemmed = champa
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = anggap
+tokenwithtagstemmed = mitreka
+tokenwithtagstemmed = satata
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sahabat
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putri
+tokenwithtagstemmed = dyah
+tokenwithtagstemmed = kusumawardhani
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = suami
+tokenwithtagstemmed = wikramawardhana
+tokenwithtagstemmed = 1389 1429
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = isteri selir
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = anak
+tokenwithtagstemmed = bhre
+tokenwithtagstemmed = wirabhumi
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = bupati
+tokenwithtagstemmed = blambangan
+kata kunci = malu
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = negarakrtagama
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = jelas
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daearah
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = wilayah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = tanjungpura
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+tahun 1389 29
+1389 1429 37
+
+tokenwithtagstemmed = papua
+tokenwithtagstemmed = semenanjung
+tokenwithtagstemmed = malaka
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jalin
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = jauh
+tokenwithtagstemmed = per
+tokenwithtagstemmed = siam
+tokenwithtagstemmed = champa
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = anggap
+tokenwithtagstemmed = mitreka
+tokenwithtagstemmed = satata
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sahabat
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putri
+tokenwithtagstemmed = dyah
+tokenwithtagstemmed = kusumawardhani
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = suami
+tokenwithtagstemmed = wikramawardhana
+tokenwithtagstemmed = 1389 1429
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = isteri selir
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = anak
+tokenwithtagstemmed = bhre
+tokenwithtagstemmed = wirabhumi
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = bupati
+tokenwithtagstemmed = blambangan
+
+
+dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada <TIME>tahun 1334</TIME> , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di <LOCATION>semenanjung malaka .</LOCATION> seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas <LOCATION>wilayah republik indonesia</LOCATION> sekarang . tribhuanatunggadewi memerintah selama dua puluh dua <TIME>tahun .</TIME> pada <TIME>tahun 1350</TIME> , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk . pada <TIME>tahun 1350</TIME> m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+
+memproses passage 26
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1334 | position = 8
+tahun | position = 34
+tahun 1350 | position = 35
+tahun 1350 | position = 43
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = rangka
+tokenwithtagstemmed = wujud
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = bal
+tokenwithtagstemmed = tahun 1334
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = sumatera
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = semenanjung malaka
+tokenwithtagstemmed = cantum
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = negarakertagama
+tokenwithtagstemmed = wilayah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = wilayah republik indonesia
+tokenwithtagstemmed = tribhuanatunggadewi
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = puluh
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+kata kunci = datang
+tokenwithtagstemmed = rangka
+tokenwithtagstemmed = wujud
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = bal
+tokenwithtagstemmed = tahun 1334
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = sumatera
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = semenanjung malaka
+tokenwithtagstemmed = cantum
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = negarakertagama
+tokenwithtagstemmed = wilayah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = wilayah republik indonesia
+tokenwithtagstemmed = tribhuanatunggadewi
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = puluh
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+kata kunci = malu
+tokenwithtagstemmed = rangka
+tokenwithtagstemmed = wujud
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = takluk
+tokenwithtagstemmed = bal
+tokenwithtagstemmed = tahun 1334
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+posisi dalam passage = 13
+jarak dengan tiap kandidat jawaban:
+tahun 1334 -5
+tahun 21
+tahun 1350 22
+tahun 1350 30
+
+tokenwithtagstemmed = sumatera
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = semenanjung malaka
+tokenwithtagstemmed = cantum
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = negarakertagama
+tokenwithtagstemmed = wilayah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = wilayah republik indonesia
+tokenwithtagstemmed = tribhuanatunggadewi
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = puluh
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = tahun 1350
+tokenwithtagstemmed = m
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = rajasanagara
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = mahapatih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+
+
+dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya . majapahit juga menjalin hubungan baik dengan negara-negara yang jauh , seperi siam , champa dan cina . negara-negara tersebut dianggap sebagai mitreka satata ( negara sahabat yang berkedudukan sama ) . hayam wuruk wafat pada <TIME>tahun 1389</TIME> dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( <TIME>1389 – 1429</TIME> ) . hayam wuruk dengan <PERSON>isteri selir</PERSON> mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+
+memproses passage 18
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+list jawaban dan posisi dalam passage
+tahun 1389 | position = 47
+1389 1429 | position = 55
+
+
+melakukan pencarian:
+kata kunci = belanda
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = negarakrtagama
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = jelas
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daearah
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = wilayah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = tanjungpura
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = papua
+tokenwithtagstemmed = semenanjung
+tokenwithtagstemmed = malaka
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jalin
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = jauh
+tokenwithtagstemmed = per
+tokenwithtagstemmed = siam
+tokenwithtagstemmed = champa
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = anggap
+tokenwithtagstemmed = mitreka
+tokenwithtagstemmed = satata
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sahabat
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putri
+tokenwithtagstemmed = dyah
+tokenwithtagstemmed = kusumawardhani
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = suami
+tokenwithtagstemmed = wikramawardhana
+tokenwithtagstemmed = 1389 1429
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = isteri selir
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = anak
+tokenwithtagstemmed = bhre
+tokenwithtagstemmed = wirabhumi
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = bupati
+tokenwithtagstemmed = blambangan
+kata kunci = datang
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = negarakrtagama
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = jelas
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daearah
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = wilayah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = tanjungpura
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = papua
+tokenwithtagstemmed = semenanjung
+tokenwithtagstemmed = malaka
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jalin
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = jauh
+tokenwithtagstemmed = per
+tokenwithtagstemmed = siam
+tokenwithtagstemmed = champa
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = anggap
+tokenwithtagstemmed = mitreka
+tokenwithtagstemmed = satata
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sahabat
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putri
+tokenwithtagstemmed = dyah
+tokenwithtagstemmed = kusumawardhani
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = suami
+tokenwithtagstemmed = wikramawardhana
+tokenwithtagstemmed = 1389 1429
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = isteri selir
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = anak
+tokenwithtagstemmed = bhre
+tokenwithtagstemmed = wirabhumi
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = bupati
+tokenwithtagstemmed = blambangan
+kata kunci = malu
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = negarakrtagama
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = jelas
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daearah
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = wilayah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = sumatra
+tokenwithtagstemmed = tanjungpura
+tokenwithtagstemmed = kalimantan
+tokenwithtagstemmed = nusa
+tokenwithtagstemmed = tenggara
+tokenwithtagstemmed = sulawesi
+tokenwithtagstemmed = malu
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+tahun 1389 29
+1389 1429 37
+
+tokenwithtagstemmed = papua
+tokenwithtagstemmed = semenanjung
+tokenwithtagstemmed = malaka
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = jalin
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = jauh
+tokenwithtagstemmed = per
+tokenwithtagstemmed = siam
+tokenwithtagstemmed = champa
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = anggap
+tokenwithtagstemmed = mitreka
+tokenwithtagstemmed = satata
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sahabat
+tokenwithtagstemmed = keduduk
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putri
+tokenwithtagstemmed = dyah
+tokenwithtagstemmed = kusumawardhani
+tokenwithtagstemmed = damping
+tokenwithtagstemmed = suami
+tokenwithtagstemmed = wikramawardhana
+tokenwithtagstemmed = 1389 1429
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = isteri selir
+tokenwithtagstemmed = punya
+tokenwithtagstemmed = anak
+tokenwithtagstemmed = bhre
+tokenwithtagstemmed = wirabhumi
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = bupati
+tokenwithtagstemmed = blambangan
+
+Pengurutan kandidat jawaban
+this.answer = tahun 1178
+passage rank = 2
+distance = 2
+doc rank = 2
+total Score = 6
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+this.answer = tahun 1178
+passage rank = 5
+distance = 2
+doc rank = 3
+total Score = 10
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+this.answer = 2000
+passage rank = 1
+distance = 4
+doc rank = 1
+total Score = 6
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+document Title = sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+
+this.answer = tahun 671
+passage rank = 3
+distance = 5
+doc rank = 2
+total Score = 10
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+this.answer = tahun 671
+passage rank = 4
+distance = 5
+doc rank = 2
+total Score = 11
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+this.answer = tahun 671
+passage rank = 6
+distance = 5
+doc rank = 3
+total Score = 14
+frequency = 1
+order process = 11
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+this.answer = tahun 671
+passage rank = 7
+distance = 5
+doc rank = 3
+total Score = 15
+frequency = 1
+order process = 12
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+this.answer = tahun 500
+passage rank = 1
+distance = 9
+doc rank = 1
+total Score = 11
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+document Title = sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+
+this.answer = tahun 1225
+passage rank = 2
+distance = 10
+doc rank = 2
+total Score = 14
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+this.answer = tahun 1225
+passage rank = 5
+distance = 10
+doc rank = 3
+total Score = 18
+frequency = 1
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+this.answer = tahun
+passage rank = 9
+distance = 21
+doc rank = 4
+total Score = 34
+frequency = 1
+order process = 16
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+this.answer = tahun 1500
+passage rank = 1
+distance = 22
+doc rank = 1
+total Score = 24
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
+document Title = sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+
+this.answer = tahun 1350
+passage rank = 9
+distance = 22
+doc rank = 4
+total Score = 35
+frequency = 2
+order process = 17
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+this.answer = tahun 1389
+passage rank = 8
+distance = 29
+doc rank = 4
+total Score = 41
+frequency = 1
+order process = 14
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+this.answer = tahun 1389
+passage rank = 10
+distance = 29
+doc rank = 5
+total Score = 44
+frequency = 1
+order process = 19
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+this.answer = tahun 1350
+passage rank = 9
+distance = 30
+doc rank = 4
+total Score = 43
+frequency = 2
+order process = 18
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+this.answer = 1389 1429
+passage rank = 8
+distance = 37
+doc rank = 4
+total Score = 49
+frequency = 1
+order process = 15
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+this.answer = 1389 1429
+passage rank = 10
+distance = 37
+doc rank = 5
+total Score = 52
+frequency = 1
+order process = 20
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+this.answer = tahun
+passage rank = 4
+distance = 44
+doc rank = 2
+total Score = 50
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+this.answer = tahun
+passage rank = 7
+distance = 44
+doc rank = 3
+total Score = 54
+frequency = 1
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
+document Title = sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+
+
+
+selesai
