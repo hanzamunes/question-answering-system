@@ -18,6 +18,56 @@ import core.Utils;
 public class AnswerFiller
 {
 	Map <String,Map<String,String>> answer;
+	
+	public AnswerFiller()
+	{
+		answer = new HashMap<String,Map<String,String>>();
+	}
+	
+	public void loadAnswer (String allBaseAnswerPath)
+	{
+		File root = new File (allBaseAnswerPath);
+		answer = new HashMap<String,Map<String,String>>();
+		File[] rootDir = root.listFiles();
+		for (File file:rootDir)
+		{
+			if (file.getName().equals("allMRR.csv"))
+			{
+				continue;
+			}
+			List<String[]> dataset = null;
+			try
+			{
+				CSVReader reader = new CSVReader (new FileReader (file.getAbsolutePath()));
+				dataset = reader.readAll();
+				reader.close();
+			} catch (IOException e)
+			{
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			for (int i=1;i<dataset.size();i++)
+			{
+				String question = dataset.get(i)[1].toLowerCase();
+				String jawaban = dataset.get(i)[2].toLowerCase();
+				String verdict = dataset.get(i)[3].toLowerCase();
+				question = question.trim();
+				jawaban = jawaban.trim();
+				verdict = verdict.trim();
+				if (!answer.containsKey(question))
+				{
+					answer.put(question,new HashMap<String,String>());
+				}
+				Map<String,String> ans = answer.get(question);
+				if (!ans.containsKey(jawaban))
+				{
+					ans.put(jawaban, verdict);
+				}
+				answer.replace(question, ans);
+			}
+		}
+	}
+	
 	public AnswerFiller(String baseAnswerPath)
 	{
 		answer = new HashMap<String,Map<String,String>>();
@@ -26,6 +76,7 @@ public class AnswerFiller
 		{
 			CSVReader reader = new CSVReader (new FileReader (baseAnswerPath));
 			dataset = reader.readAll();
+			reader.close();
 		} catch (IOException e)
 		{
 			// TODO Auto-generated catch block
@@ -126,14 +177,14 @@ public class AnswerFiller
 		File dir = new File (Utils.saveRetrievedAnswerPath);
 		File[] dirList = dir.listFiles();
 		ArrayList<String> filter = new ArrayList<String>();
-		filter.add("percobaan_1.csv");
+		/*filter.add("percobaan_1.csv");
 		filter.add("percobaan_2.csv");
 		filter.add("percobaan_3.csv");
 		filter.add("percobaan_4.csv");
 		filter.add("percobaan_5.csv");
 		filter.add("percobaan_6.csv");
 		filter.add("percobaan_7.csv");
-		filter.add("percobaan_8.csv");
+		/*filter.add("percobaan_8.csv");
 		filter.add("percobaan_9.csv");
 		filter.add("percobaan_10.csv");
 		filter.add("percobaan_11.csv");
@@ -155,8 +206,10 @@ public class AnswerFiller
 		filter.add("percobaan_27.csv");
 		filter.add("percobaan_28.csv");
 		filter.add("percobaan_29.csv");
-		filter.add("percobaan_30.csv");
-		AnswerFiller ans = new AnswerFiller ("debug question answering/listRetrievedAnswer/percobaan_30.csv");
+		filter.add("percobaan_30.csv");*/
+		AnswerFiller ans = new AnswerFiller ("debug question answering/listRetrievedAnswer/percobaan_29.csv");
+		//AnswerFiller ans = new AnswerFiller();
+		//ans.loadAnswer("C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\debug question answering\\listRetrievedAnswer");
 		for (File file:dirList)
 		{
 			String fileName = file.getName();
@@ -164,6 +217,7 @@ public class AnswerFiller
 			{
 				ans.putAnswer(file.getAbsolutePath());
 			}
+			System.out.println(fileName+" -> selesai");
 			
 		}
 	}

@@ -125,7 +125,10 @@ public class PrecisionAndRecall
 		csvOutput = csvOutput + "average precision,"+averagePrecision;
 		try
 		{
+			File t = new File (path);
+			t.mkdirs();
 			String fileName = path+question;
+			System.out.println(fileName);
 			BufferedWriter writeResult = new BufferedWriter (new OutputStreamWriter(new FileOutputStream(fileName),"UTF-8"));
 			writeResult.write(csvOutput);
 			writeResult.close();
@@ -148,7 +151,7 @@ public class PrecisionAndRecall
 		{
 			System.out.println(recall[i]+"\t"+precision[i]);
 		}*/
-		
+		/*
 		File dir = new File (Utils.saveRetrievedDocumentPath);
 		File[] dirList = dir.listFiles();
 		ArrayList<Double> averagePrecision = new ArrayList<Double>();
@@ -168,7 +171,31 @@ public class PrecisionAndRecall
 		double meanAveragePrecision = calculateMeanAveragePrecision (averagePrecision);
 		long percent = Math.round(meanAveragePrecision * 100);
 		System.out.println("Mean average Precision = "+meanAveragePrecision);
-		System.out.println("mean average precision in percent = "+percent+"%");
+		System.out.println("mean average precision in percent = "+percent+"%");*/
+		
+		File roots = new File ("debug question answering/listRetrievedDocument");
+		File[] rootDir = Utils.sortDir(roots.listFiles());
+		for (File dir:rootDir)
+		{
+			File[] fileDir = dir.listFiles();
+			ArrayList<Double> averagePrecision = new ArrayList<Double>();
+			for (File file:fileDir)
+			{
+				if (file.isFile())
+				{
+					String question = file.getName();
+					PrecisionAndRecall par = new PrecisionAndRecall(file.getAbsolutePath());
+					double[] precision = par.calculatePrecision();
+					double[] recall = par.calculateRecall();
+					double avgPrecision = par.calculateAvaragePrecision(precision);
+					averagePrecision.add(avgPrecision);
+					//par.savePrecisionAndRecall(Utils.savePrecisionAndRecallResultPath, file.getAbsolutePath(), question, precision, recall, avgPrecision);
+				}
+			}
+			double meanAveragePrecision = calculateMeanAveragePrecision (averagePrecision);
+			long percent = Math.round(meanAveragePrecision * 100);
+			System.out.println(dir.getName()+" -> "+percent+"%");
+		}
 	}
 	
 

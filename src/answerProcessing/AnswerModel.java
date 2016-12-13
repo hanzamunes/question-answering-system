@@ -1,8 +1,9 @@
 package answerProcessing;
 
+import java.io.Serializable;
 import java.util.Map;
 
-public class AnswerModel {
+public class AnswerModel implements Serializable {
 	
 	private String answer;
 	private int frequency;

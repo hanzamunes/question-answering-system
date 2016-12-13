@@ -1,109 +1,151 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok293.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok338.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok219.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok169.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok150.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok379.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok234.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok151.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok358.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok375.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok310.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok314.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok148.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok172.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok245.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok239.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok285.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok123.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok52.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok181.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok337.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok205.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok312.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok187.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok194.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok360.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok193.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok377.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok282.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok237.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok233.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok214.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok271.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok327.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok117.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok46.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok197.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok378.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok146.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok220.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok107.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok340.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok293.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok338.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok358.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok234.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok231.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok351.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok205.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok375.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok123.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok52.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok314.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok239.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok360.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok249.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok377.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok228.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok237.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok219.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok227.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok194.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok359.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok117.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok46.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok148.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok285.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok304.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok193.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok306.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok378.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok122.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok51.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok146.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok257.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok282.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok245.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok312.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok352.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok191.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok326.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok134.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok63.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok118.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok47.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok353.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok356.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok313.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok208.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok215.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok179.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok13.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok84.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
 
 
 query token : 
 konferensi asia afrika selenggara 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+title : sejarah konferensi pendahuluan asia afrika
+passage 1 score = 8.0
+sentence 1: sejarah konferensi pendahuluan asia afrika – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah konferensi pendahuluan asia afrika , sebelumnya admin juga sudah berbagi tentang sejarah latar belakang pelaksanaan konferensi asia afrika .
+sentence 2: sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan .
+sentence 3: konferensi pendahuluan tersebut , antara lain sebagai berikut .
+sentence 4: konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
+sentence 5: konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
+passage 5 score = 8.0
+sentence 1: konferensi bogor memutuskan hal-hal sebagai berikut .
+sentence 2: 1 .
+sentence 3: konferensi asia afrika akan diselenggarakan di bandung pada bulan 18-24 april 1955 .
+sentence 4: 2 .
+sentence 5: penetapan tujuan kaa dan menetapkan negara-negara yang akan diundang sebagai peserta konferensi asia afrika .
+passage 4 score = 6.5
+sentence 1: kelima negara yang wakilnya hadir dalam konferensi kolombo kemudian dikenal dengan nama pancanegara .
+sentence 2: kelima negara itu disebut sebagai negara sponsor .
+sentence 3: konferensi kolombo juga terkenal dengan nama konferensi pancanegara i. konferensi pendahuluan yang kedua diselenggarakan di bogor pada tanggal 22 – 29 desember 1954 .
+sentence 4: konferensi itu dihadiri pula oleh perdana menteri negara-negara peserta konferensi kolombo .
+sentence 5: konferensi bogor memutuskan hal-hal sebagai berikut .
+passage 3 score = 3.0
+sentence 1: perdana menteri burma ( myanmar ) : u nu 4 .
+sentence 2: perdana menteri indonesia : ali sastroamijoyo 5 .
+sentence 3: perdana menteri india : jawaharlal nehru konferensi kolombo membahas masalah vietnam , sebagai persiapan untuk menghadapi konferensi di jenewa .
+sentence 4: di samping itu konferensi kolombo secara aklamasi memutuskan akan mengadakan konferensi asia afrika dan pemerintah indonesia ditunjuk sebagai penyelenggaranya .
+sentence 5: kelima negara yang wakilnya hadir dalam konferensi kolombo kemudian dikenal dengan nama pancanegara .
+passage 6 score = 2.75
+sentence 1: penetapan tujuan kaa dan menetapkan negara-negara yang akan diundang sebagai peserta konferensi asia afrika .
+sentence 2: 3 .
+sentence 3: hal-hal yang akan dibicarakan dalam konferensi asia afrika .
+sentence 4: 4 .
+sentence 5: pemberian dukungan terhadap tuntutan indonesia mengenai irian barat .
+passage 2 score = 1.25
+sentence 1: konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
+sentence 2: 1 .
+sentence 3: perdana menteri pakistan : muhammad ali jinnah 2 .
+sentence 4: perdana menteri sri lanka : sir john kotelawala 3 .
+sentence 5: perdana menteri burma ( myanmar ) : u nu 4 .
+passage 7 score = 1.25
+sentence 1: pemberian dukungan terhadap tuntutan indonesia mengenai irian barat .
+sentence 2: konferensi bogor juga terkenal dengan nama konferensi pancanegara ii .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 passage 3 score = 8.0
 sentence 1: kebijakan yang menyangkut hubungan dengan negara lain terangkum dalam kebijakan politik luar negeri .
@@ -166,50 +208,7 @@ sentence 3: 1 ) kenangan kejayaan masa lampau dari beberapa negara di kawasan as
 sentence 4: 2 ) perasaan senasib sepenanggungan karena sama-sama merasakan masa penjajahan dan penindasan bangsa barat , kecuali thailand .
 sentence 5: 3 ) meningkatnya kesadaran berbangsa yang dimotori oleh golongan elite nasional/terpelajar dan intelektual .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok293.txt
-title : pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika
-passage 1 score = 2.75
-sentence 1: pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika – konferensi asia afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
-sentence 2: pengaruh konferensi asia afrika adalah sebagai berikut .
-sentence 3: 1 .
-sentence 4: perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai .
-sentence 5: 2 .
-passage 4 score = 2.75
-sentence 1: 6 .
-sentence 2: banyak negara-negara asia-afrika yang merdeka kemudian masuk menjadi anggota pbb .
-sentence 3: selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika , konferensi asia afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya .
-sentence 4: pengaruh atau dampak itu , antara lain sebagai berikut .
-sentence 5: 1 .
-passage 5 score = 2.75
-sentence 1: 1 .
-sentence 2: konferensi asia afrika mampu menjadi penengah dua blok yang saling berseteru sehingga dapat mengurangi ketegangan/d étenteakibat perang dingin dan mencegah terjadinya perang terbuka .
-sentence 3: 2 .
-sentence 4: gagasan konferensi asia afrika berkembang lebih luas lagi dan diwujudkan dalam gerakan non blok .
-sentence 5: 3 .
-passage 7 score = 2.75
-sentence 1: 5 .
-sentence 2: australia dan amerika serikat mulai berusaha menghapuskan diskriminasi ras di negaranya .
-sentence 3: konferensi asia afrika dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di asia dan afrika , tetapi juga bergema ke seluruh dunia .
-passage 2 score = 2.5
-sentence 1: 2 .
-sentence 2: cetusan rasa setia kawan dan kebangsaan bangsa-bangsa asia afrika untuk menggalang persatuan .
-sentence 3: 3 .
-sentence 4: penjelmaan kebangkitan kembali bangsa-bangsa di asia dan afrika .
-sentence 5: 4 .
-passage 6 score = 2.5
-sentence 1: 3 .
-sentence 2: politik bebas aktif yang dijalankan indonesia , india , burma ( myanmar ) , dan sri lanka tampak mulai diikuti oleh negara-negara yang tidak bersedia masuk blok timur ataupun blok barat .
-sentence 3: 4 .
-sentence 4: belanda cemas dalam menghadapi kelompok asia afrika di pbb sebab dalam sidang umum pbb , kelompok tersebut mendukung tuntutan indonesia atas kembalinya irian barat ke pangkuan ri .
-sentence 5: 5 .
-passage 3 score = 1.5
-sentence 1: 4 .
-sentence 2: pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
-sentence 3: 5 .
-sentence 4: memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di asia dan afrika dalam mencapai kemerdekaannya .
-sentence 5: 6 .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok340.txt
 title : sejarah latar belakang pelaksanaan konferensi asia afrika
 passage 2 score = 3.0
 sentence 1: aktifberarti bahwa bangsa indonesia secara aktif ikut mengusahakan terwujudnya perdamaian dunia .
@@ -240,7 +239,7 @@ sentence 3: persamaan nasib itu menimbulkan rasa setia kawan .
 sentence 4: setelah perang dunia ii berakhir , banyak negara di asia dan afrika yang berhasil mencapai kemerdekaan , di antaranya adalah india , indonesia , filipina , pakistan , burma ( myanmar ) , sri lanka , vietnam , dan libia .
 sentence 5: sementara itu , masih banyak pula negara yang berada di kawasan asia dan afrika belum dapat mencapai kemerdekaan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 title : menggalang kerjasama internasional dan solideritas antar bangsa
 passage 1 score = 8.5
 sentence 1: penggalangan kerja sama internasional dan solidaritas antarbangsa konferensi asia afrika dilatarbelakangi oleh adanya perebutan pengaruh antara dua blok raksasa yaitu blok barat ( amerika ) dan blok timur ( uni soviet ) .
@@ -260,7 +259,7 @@ sentence 2: selain itu konferensi asia afrika juga memiliki pengarun internasion
 sentence 3: dengan demikian , konferensi asia afrika sangat besar pengaruhnya dalam usaha untuk menciptao perdamaian dunia .
 sentence 4: [ gs ]
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
 title : sejarah pelaksanaan konferensi asia afrika
 passage 1 score = 8.0
 sentence 1: sejarah pelaksanaan konferensi asia afrika – sesuai dengan rencana , konferensi asia afrika diselenggarakan di bandung pada tanggal 18 – 24 april 1955 .
@@ -310,49 +309,50 @@ sentence 3: juga diserukan agar percobaan senjata nuklir dihentikan dan masalah 
 sentence 4: oleh karena itu , semua bangsa di dunia hendaknya menjalankan toleransi dan hidup berdampingan secara damai .
 sentence 5: demi perdamaian pula , konferensi menganjurkan agar negara yang memenuhi syarat segera dapat diterima menjadi anggota pbb .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
-title : sejarah konferensi pendahuluan asia afrika
-passage 1 score = 7.0
-sentence 1: sejarah konferensi pendahuluan asia afrika – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah konferensi pendahuluan asia afrika , sebelumnya admin juga sudah berbagi tentang sejarah latar belakang pelaksanaan konferensi asia afrika .
-sentence 2: sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan .
-sentence 3: konferensi pendahuluan tersebut , antara lain sebagai berikut .
-sentence 4: konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
-sentence 5: konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
-passage 5 score = 7.0
-sentence 1: konferensi bogor memutuskan hal-hal sebagai berikut .
-sentence 2: 1 .
-sentence 3: konferensi asia afrika akan diselenggarakan di bandung pada bulan 18-24 april 1955 .
-sentence 4: 2 .
-sentence 5: penetapan tujuan kaa dan menetapkan negara-negara yang akan diundang sebagai peserta konferensi asia afrika .
-passage 4 score = 5.5
-sentence 1: kelima negara yang wakilnya hadir dalam konferensi kolombo kemudian dikenal dengan nama pancanegara .
-sentence 2: kelima negara itu disebut sebagai negara sponsor .
-sentence 3: konferensi kolombo juga terkenal dengan nama konferensi pancanegara i. konferensi pendahuluan yang kedua diselenggarakan di bogor pada tanggal 22 – 29 desember 1954 .
-sentence 4: konferensi itu dihadiri pula oleh perdana menteri negara-negara peserta konferensi kolombo .
-sentence 5: konferensi bogor memutuskan hal-hal sebagai berikut .
-passage 3 score = 2.0
-sentence 1: perdana menteri burma ( myanmar ) : u nu 4 .
-sentence 2: perdana menteri indonesia : ali sastroamijoyo 5 .
-sentence 3: perdana menteri india : jawaharlal nehru konferensi kolombo membahas masalah vietnam , sebagai persiapan untuk menghadapi konferensi di jenewa .
-sentence 4: di samping itu konferensi kolombo secara aklamasi memutuskan akan mengadakan konferensi asia afrika dan pemerintah indonesia ditunjuk sebagai penyelenggaranya .
-sentence 5: kelima negara yang wakilnya hadir dalam konferensi kolombo kemudian dikenal dengan nama pancanegara .
-passage 6 score = 1.75
-sentence 1: penetapan tujuan kaa dan menetapkan negara-negara yang akan diundang sebagai peserta konferensi asia afrika .
-sentence 2: 3 .
-sentence 3: hal-hal yang akan dibicarakan dalam konferensi asia afrika .
-sentence 4: 4 .
-sentence 5: pemberian dukungan terhadap tuntutan indonesia mengenai irian barat .
-passage 2 score = 0.25
-sentence 1: konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
-sentence 2: 1 .
-sentence 3: perdana menteri pakistan : muhammad ali jinnah 2 .
-sentence 4: perdana menteri sri lanka : sir john kotelawala 3 .
-sentence 5: perdana menteri burma ( myanmar ) : u nu 4 .
-passage 7 score = 0.25
-sentence 1: pemberian dukungan terhadap tuntutan indonesia mengenai irian barat .
-sentence 2: konferensi bogor juga terkenal dengan nama konferensi pancanegara ii .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok293.txt
+title : pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika
+passage 1 score = 1.75
+sentence 1: pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika – konferensi asia afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
+sentence 2: pengaruh konferensi asia afrika adalah sebagai berikut .
+sentence 3: 1 .
+sentence 4: perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai .
+sentence 5: 2 .
+passage 4 score = 1.75
+sentence 1: 6 .
+sentence 2: banyak negara-negara asia-afrika yang merdeka kemudian masuk menjadi anggota pbb .
+sentence 3: selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika , konferensi asia afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya .
+sentence 4: pengaruh atau dampak itu , antara lain sebagai berikut .
+sentence 5: 1 .
+passage 5 score = 1.75
+sentence 1: 1 .
+sentence 2: konferensi asia afrika mampu menjadi penengah dua blok yang saling berseteru sehingga dapat mengurangi ketegangan/d étenteakibat perang dingin dan mencegah terjadinya perang terbuka .
+sentence 3: 2 .
+sentence 4: gagasan konferensi asia afrika berkembang lebih luas lagi dan diwujudkan dalam gerakan non blok .
+sentence 5: 3 .
+passage 7 score = 1.75
+sentence 1: 5 .
+sentence 2: australia dan amerika serikat mulai berusaha menghapuskan diskriminasi ras di negaranya .
+sentence 3: konferensi asia afrika dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di asia dan afrika , tetapi juga bergema ke seluruh dunia .
+passage 2 score = 1.5
+sentence 1: 2 .
+sentence 2: cetusan rasa setia kawan dan kebangsaan bangsa-bangsa asia afrika untuk menggalang persatuan .
+sentence 3: 3 .
+sentence 4: penjelmaan kebangkitan kembali bangsa-bangsa di asia dan afrika .
+sentence 5: 4 .
+passage 6 score = 1.5
+sentence 1: 3 .
+sentence 2: politik bebas aktif yang dijalankan indonesia , india , burma ( myanmar ) , dan sri lanka tampak mulai diikuti oleh negara-negara yang tidak bersedia masuk blok timur ataupun blok barat .
+sentence 3: 4 .
+sentence 4: belanda cemas dalam menghadapi kelompok asia afrika di pbb sebab dalam sidang umum pbb , kelompok tersebut mendukung tuntutan indonesia atas kembalinya irian barat ke pangkuan ri .
+sentence 5: 5 .
+passage 3 score = 0.5
+sentence 1: 4 .
+sentence 2: pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
+sentence 3: 5 .
+sentence 4: memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di asia dan afrika dalam mencapai kemerdekaannya .
+sentence 5: 6 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok338.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok338.txt
 title : sejarah krisis suez dan peran indonesia
 passage 5 score = 6.75
 sentence 1: 6 .
@@ -415,160 +415,169 @@ sentence 3: inggris dan prancis memandang bahwa mesir secara sepihak telah melak
 sentence 4: oleh karena itu , inggris dan prancis secara bersamaan menyerang wilayah mesir .
 sentence 5: serangan gabungan itu berhasil menduduki daerah sepanjang terusan suez dan port said .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok219.txt
-title : konferensi london tentang terusan suez
-passage 1 score = 5.75
-sentence 1: konferensi london tentang terusan suez terusan suez memiliki arti yang sangat besar bagi kepentingan ekonomi dan letaknya sangat strategiz .
-sentence 2: terusan ini menghubungkan laut merah dan laut tengah , sehingga sangat penting bagi pelayaran 3 : perdagangan internasional .
-sentence 3: terusan suez mulai digali pada mesa raja muda muhammad said , oleh ferdirar de lessers ( perancis ) serta dikelola oleh perusahaan compagnie universal de canal maritim de suez ( par ~ 25 april 1959 dan diresmikan 17 november 1969 oleh permaisuri napoleon iii ) .
-sentence 4: karena kedudukan tenrusan suez sangat penting , maka pada tanggal 29 oktober 1988 bangsa inggris , perancis , jerman , turki , spanyol , hon-aria , australia , rusia , belanda dan italia mengadakan konferensi di istambul yang menetapkan hal berikut : kebebasan berlayar bagi semua kapal dagang maupun kapal perang baik dalam keadaan damai maupun perang semua kapal yang melalui terusan suez tidak boleh memperlihatkan kekerasan tidak boleh menempatkan kapal perang di sepanjang terusan suez pemerintah mesir harus mengambil tindakan yang diperlukan guna menjaga pelaksanaan konferensi istambul .
-sentence 5: tindakan presiden mesir gamal abdul nasser yang menasionalisasikan terusan suez pada 26 juli 1956 , dianggap sangat merugikan negara-negara yang menggunakan terusan tersebut .
-passage 2 score = 5.75
-sentence 1: tindakan presiden mesir gamal abdul nasser yang menasionalisasikan terusan suez pada 26 juli 1956 , dianggap sangat merugikan negara-negara yang menggunakan terusan tersebut .
-sentence 2: inggris dan perancis merupakan dua negara yang mengajukan protes atas terhadap tindakan mesir yang disebut dengan tindakan sepihak .
-sentence 3: protes-protes itu ditolak oleh pemerintah mesir , untuk menyelesaikan krisis ini inggris , perancis dan israel yang juga memiliki kepentingan terhadap terusan suez , untuk menyelesaikan krisis ini , inggris dan perancis yang dibantu oleh amerika serikat , london i bulan agustus 1956 dengan tujuan untuk tetap mempertahankan internasionalisasi suez .
-sentence 4: akan tetapi konferensi itu gagal dalam mencari penyelesaian .
-sentence 5: demikian juga dengan demikian konferensi london ii bulan september 1956 .
-passage 3 score = 5.75
-sentence 1: demikian juga dengan demikian konferensi london ii bulan september 1956 .
-sentence 2: karena konferensi london tidak dapat menyelesaikan masalah terusan suez , maka diambil alih oleh pbb dan diproses melalui dewan keamanan bulan oktober 1956 .
-sentence 3: resolus !
-sentence 4: dewan keamanan pbb tetap masih menganjurkan agar terusan suez memiliki status internasional .
-sentence 5: namur mesir menolak resolusi tersebut , sehingga situasi memanas lagi setelah inggris dan perancis menyerbu port said dan israel menyerang terusan suez dan sinai .
-passage 4 score = 0.0
-sentence 1: namur mesir menolak resolusi tersebut , sehingga situasi memanas lagi setelah inggris dan perancis menyerbu port said dan israel menyerang terusan suez dan sinai .
-sentence 2: kemudian atas usul menteri , luar negeri kanada dibentuk pasukan pbb yang bertugas memelihara perdamaian dunia dikawasan garis perbatasan mesir - israel .
-sentence 3: [ gs ]
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+title : konferensi dan perjanjian pasca perang dunia ii
+passage 2 score = 6.0
+sentence 1: berbagai konferensi selama perang dunia ii beberapa konferensi yang diselenggarakan selama perang dunia ii tentang strategi pertempuran ataupun perdamaian dunia , antara lain sebagai berikut .
+sentence 2: a. konferensi atlantik konferensi atlantik diselenggarakan pada tanggal 14 agustus 1941 antara franklin delano roosevelt ( presiden amerika serikat ) dan winston churcill ( perdana menteri inggris ) .
+sentence 3: konferensi atlantik menghasilkan piagam perdamaian yang disebut piagam atlantik ( atlantik charter ) .
+sentence 4: piagam atlantik sebagai fondasi berdirinya pbb .
+sentence 5: b. konferensi casablanca konferensi casablanca diselenggarakan pada bulan januari 1943 antara franklin delano roosevelt dan winston churcill .
+passage 3 score = 6.0
+sentence 1: b. konferensi casablanca konferensi casablanca diselenggarakan pada bulan januari 1943 antara franklin delano roosevelt dan winston churcill .
+sentence 2: konferensi itu membahas perencanaan penyerbuan tentara sekutu ke eropa guna mengalahkan tentara blok sentral ( poros atau blok jerman ) .
+sentence 3: c. konferensi moskow konferensi moskow diselenggarakan pada bulan oktober 1943 yang dihadiri oleh menteri luar negeri rusia ( vyacheslav mikhailovich molotov ) , menteri luar negeri amerika serikat ( cordel hull ) , dan menteri luar negeri inggris ( anthony eden ) .
+sentence 4: konferensi itu membahas tentang rencana pembentukan organisasi internasional yang menjamin perdamaian .
+sentence 5: d. konferensi kairo konferensi kairo diselenggarakan pada bulan november 1943 antara franklin delano roosevelt , winston churcill , dan chiang kai-shek ( cina ) .
+passage 4 score = 6.0
+sentence 1: d. konferensi kairo konferensi kairo diselenggarakan pada bulan november 1943 antara franklin delano roosevelt , winston churcill , dan chiang kai-shek ( cina ) .
+sentence 2: konferensi itu memutuskan bahwa mereka akan menggempur jepang sampai menyerah .
+sentence 3: e. konferensi teheran konferensi teheran diselenggarakan pada desember 1943 yang dihadiri josep stalin , franklin delano roosevelt , dan winston churcill .
+sentence 4: pada prinsipnya konferensi itu mendukung keputusan konferensi kairo dan bertekad melanjutkan kerja sama meskipun perang telah berakhir .
+sentence 5: f. konferensi yalta konferensi yalta diselenggarakan pada bulan februari 1945 antara josep stalin , franklin delano roosevelt , dan winston churcill .
+passage 5 score = 6.0
+sentence 1: f. konferensi yalta konferensi yalta diselenggarakan pada bulan februari 1945 antara josep stalin , franklin delano roosevelt , dan winston churcill .
+sentence 2: konferensi berhasil mengambil keputusan , antara lain : a. penyerahan jerman tanpa syarat ; b. pembentukan organisasi internasional yang menjamin perdamaian dunia ; c. perencanaan penyelenggaraan konferensi di san fransisco pada tanggal 25 april 1945 .
+sentence 3: 2 .
+sentence 4: perjanjian-perjanjian pasca perang dunia ii a. perjanjian sekutu – jerman jerman merupakan salah satu negara “ pact poros ” yang hancur dalam pd ii dan telah menyerah kepada sekutu pada tanggal 7 mei 1945 .
+sentence 5: as , uni soviet , dan inggris membicarakan tentang pembagian jerman , denazifikasi dan demiliterisasi jerman .
+passage 6 score = 5.25
+sentence 1: as , uni soviet , dan inggris membicarakan tentang pembagian jerman , denazifikasi dan demiliterisasi jerman .
+sentence 2: perjanjian sekutu – jerman ditentukan oleh harry s. truman ( presiden amerika serikat ) , josep stalin ( presiden uni soviet ) , dan clement richard attlee ( perdana menteri inggris ) dalam konferensi postdam ( 2 agustus 1945 ) .
+sentence 3: konferensi postdam berisi , antara lain sebagai berikut .
+sentence 4: 1 ) jerman yang dikuasai oleh empat negara sekutu dibagi dua , yaitu jerman timur dan jerman barat .
+sentence 5: jerman timur , 1 zona dikuasai oleh uni soviet , sedangkan jerman barat , 3 zona dikuasai oleh amerika serikat , inggris , dan prancis .
+passage 12 score = 5.25
+sentence 1: c ) abbesynia dan albania memperoleh kemerdekaannya kembali .
+sentence 2: d ) semua jajahan italia dan afrika utara dikuasai inggris .
+sentence 3: e ) italia harus membayar ganti rugi akibat perang yang ditimbulkannya .
+sentence 4: 2 ) perjanjian sekutu – austria dilaksanakan di austria pada tahun 1945 dengan berbagai keputusan , antara lain sebagai berikut .
+sentence 5: a ) kota wina dibagi menjadi empat wilayah pendudukan dan dikuasai oleh amerika serikat , inggris , prancis , dan uni soviet .
+passage 8 score = 5.0
+sentence 1: 4 ) demiliterisasi bagi jerman .
+sentence 2: 5 ) penjahat perang harus dihukum .
+sentence 3: 6 ) jerman harus membayar kerugian perang .
+sentence 4: b. perjanjian sekutu – jepang perjanjian sekutu – jepang dilakukan di san fransisco pada tahun 1945 .
+sentence 5: perjanjian tersebut berisi , sebagai berikut .
+passage 11 score = 5.0
+sentence 1: c. perjanjian sekutu dengan negara lainnya selain mengadakan perjanjian dengan jerman dan jepang , sekutu juga mengadakan perjanjian dengan negara-negara lain yang kalah berperang dalam perang dunia ii .
+sentence 2: 1 ) perjanjian sekutu – italia dilaksanakan di paris pada tahun 1945 dengan beberapa keputusan , antara lain sebagai berikut .
+sentence 3: a ) wilayah italia diperkecil .
+sentence 4: b ) triastie menjadi negara merdeka di bawah perwalian pbb .
+sentence 5: c ) abbesynia dan albania memperoleh kemerdekaannya kembali .
+passage 13 score = 5.0
+sentence 1: a ) kota wina dibagi menjadi empat wilayah pendudukan dan dikuasai oleh amerika serikat , inggris , prancis , dan uni soviet .
+sentence 2: b ) persyaratan lain menyusul karena belum ada keputusan dan persetujuan dari keempat negara pemenang perang dunia ii di wina .
+sentence 3: 3 ) perjanjian sekutu dengan hongaria , rumania , bulgaria , dan finlandia ditentukan di paris tahun 1945 dengan beberapa keputusan yang pada intinya sama , yaitu : a ) setiap negara wilayahnya diperkecil ; b ) setiap negara harus mengganti biaya perang .
+passage 1 score = 0.5
+sentence 1: konferensi dan perjanjian pasca perang dunia ii - perang dunia ii diakhiri dengan berbagai perjanjian antara pihak yang kalah perang ( jerman , jepang , dan italia ) dan yang menang perang ( pihak sekutu : as , uni soviet , inggris , prancis , dll ) .
+sentence 2: perjanjian yang penting adalah perjanjian sekutu dengan jerman dan sekutu dengan jepang .
+sentence 3: selain itu , pasca-perang dunia ii juga ditandai dengan berbagai konferensi .
+sentence 4: 1 .
+sentence 5: berbagai konferensi selama perang dunia ii beberapa konferensi yang diselenggarakan selama perang dunia ii tentang strategi pertempuran ataupun perdamaian dunia , antara lain sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-passage 15 score = 6.0
-sentence 1: status keadaan bahaya diperlakukan untuk seluruh indonesia karena pihak tan malaka berhasil menculik sutan syahrir bersama mayor jenderal sudibyo , dr. darmasetiawan , dan dr sumitri .
-sentence 2: atas seruan presiden para penculik kemudian membebaskan syahrir dan kawan-kawan .
-sentence 3: kemudian pihak pp mencoba memaksa presiden untuk menyusun pemerintah baru yang dipimpin oleh kawan-kawan tan malaka pada tanggal 3 juli 1947 , tetapi presiden tetap menunjuk sutan syahrir sebagai perdana menteri .
-sentence 4: kabinet syahrir iii terbentuk oktober 1946 .
-sentence 5: dari pihak belanda intimidasi dimulai dengan diselenggarakannya konferensi malino bulan juli 1946 untuk membentuk “ negara-negara “ di wilayah-wilayah yang akan ditinggalkan tentara sekutu .
-passage 16 score = 6.0
-sentence 1: dari pihak belanda intimidasi dimulai dengan diselenggarakannya konferensi malino bulan juli 1946 untuk membentuk “ negara-negara “ di wilayah-wilayah yang akan ditinggalkan tentara sekutu .
-sentence 2: ini jelas bertentangan dengan kehendak ri yaitu agar negara-negara bagian dalam republik indonesia dibentuk bersama-sama ri dan belanda .
-sentence 3: sementara itu pihak inggris ikut berbicara dengan maksud agar penarikan tentara sekutu ( inggris ) berjalan secepat mungkin , agar utusan inggris di bawah pimpinan lord killearn tiba pada bulan agustus dan mengusulkan antara lain syarat-syarat gencatan senjata antara ri dengan belanda .
-sentence 4: pemerintah indonesia menyetujui usul ini dan mengirim perwira-perwira tentara republik indonesia untuk menyelesaikan masalah tehnis gencatan senjata .
-sentence 5: sementara itu perundingan dengan pihak belanda dilanjutkan setelah kabinet syahrir iii disyahkan dalam bulan oktober 1946 .
-passage 40 score = 6.0
-sentence 1: perundingan berjalan sangat lamban , sehingga drs. hatta didatangkan dari bangka untuk langsung berunding dengan dr. van royen .
-sentence 2: dengan demikian pada bulan mei 1949 dicapai persetujuan roem-royen dan pemerintah indonesia dikembalikan ke yogyakarta , setelah cara-cara pengosongan yogyakarta oleh tentara belanda disepakati .
-sentence 3: setelah perundingan dengan pihak bfo yang sudah dimulai sejak di bangka , maka pada bulan juli 1949 di yogyakarta dicapai persetujuan bahwa akan dibentuk negara federal yang bernama ris .
-sentence 4: kemudian diselenggarakan konferensi antar indonesia di jakara ( juli ) yang dipimpin drs. hatta dan berhasil memutuskan untuk membentuk panitia persiapan nasional sebelum maju ke kmb ( konferensi meja bundar ) .
-sentence 5: konferensi meja bundar dimulai di den haag pada tanggal 23 agustus 1949 dan berakhir pada tanggal 2 november 1949 .
-passage 41 score = 5.75
-sentence 1: konferensi meja bundar dimulai di den haag pada tanggal 23 agustus 1949 dan berakhir pada tanggal 2 november 1949 .
-sentence 2: hasilnya direalisasikan oleh knip pada tanggal 14 desember 1949 .
-sentence 3: pada tanggal 16 desember 1949 diadakan pemilihan presiden ris dan pada keesokan harinya soekarno disahkan sebagai presiden ris .
-sentence 4: pada tanggal 20 desember 1949 kabinet ris dibentuk dan dipimpin drs. mohammad hatta , kemudian pada tanggal 23 desember 1949 pimpinan kabinet ris bertolak ke den haag untuk menandatangani pengakuan kedaulatan pada tanggal 27 desember 1949 .
-sentence 5: kondisi ekonomi masa perang kemerdekaan pada kesempatan ini akan dibahas kondisi ekonomi pada masa perang kemerdekaan .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+title : sejarah akhir perang dunia ii
+passage 2 score = 6.0
+sentence 1: a. konferensi atlantik konferensi atlantik diselenggarakan pada tanggal 14 agustus 1941 antara franklin delano roosevelt ( presiden amerika serikat ) dan winston churcill ( perdana menteri inggris ) .
+sentence 2: konferensi atlantik menghasilkan piagam perdamaian yang disebut piagam atlantik ( atlantik charter ) .
+sentence 3: piagam atlantik sebagai fondasi berdirinya pbb .
+sentence 4: b. konferensi casablanca konferensi casablanca diselenggarakan pada bulan januari 1943 antara franklin delano roosevelt dan winston churcill .
+sentence 5: konferensi itu membahas perencanaan penyerbuan tentara sekutu ke eropa guna mengalahkan tentara blok sentral ( poros atau blok jerman ) .
+passage 3 score = 6.0
+sentence 1: konferensi itu membahas perencanaan penyerbuan tentara sekutu ke eropa guna mengalahkan tentara blok sentral ( poros atau blok jerman ) .
+sentence 2: c. konferensi moskow konferensi moskow diselenggarakan pada bulan oktober 1943 yang dihadiri oleh menteri luar negeri rusia ( vyacheslav mikhailovich molotov ) , menteri luar negeri amerika serikat ( cordel hull ) , dan menteri luar negeri inggris ( anthony eden ) .
+sentence 3: konferensi itu membahas tentang rencana pembentukan organisasi internasional yang menjamin perdamaian .
+sentence 4: d. konferensi kairo konferensi kairo diselenggarakan pada bulan november 1943 antara franklin delano roosevelt , winston churcill , dan chiang kai-shek ( cina ) .
+sentence 5: konferensi itu memutuskan bahwa mereka akan menggempur jepang sampai menyerah .
+passage 4 score = 6.0
+sentence 1: konferensi itu memutuskan bahwa mereka akan menggempur jepang sampai menyerah .
+sentence 2: e. konferensi teheran konferensi teheran diselenggarakan pada desember 1943 yang dihadiri josep stalin , franklin delano roosevelt , dan winston churcill .
+sentence 3: pada prinsipnya konferensi itu mendukung keputusan konferensi kairo dan bertekad melanjutkan kerja sama meskipun perang telah berakhir .
+sentence 4: f. konferensi yalta konferensi yalta diselenggarakan pada bulan februari 1945 antara josep stalin , franklin delano roosevelt , dan winston churcill .
+sentence 5: konferensi berhasil mengambil keputusan , antara lain : 1 .
+passage 5 score = 6.0
+sentence 1: konferensi berhasil mengambil keputusan , antara lain : 1 .
+sentence 2: penyerahan jerman tanpa syarat ; 2 .
+sentence 3: pembentukan organisasi internasional yang menjamin perdamaian dunia ; 3 .
+sentence 4: perencanaan penyelenggaraan konferensi di san fransisco pada tanggal 25 april 1945 .
+sentence 5: a. perjanjian sekutu – jerman jerman merupakan salah satu negara “ pact poros ” yang hancur dalam pd ii dan telah menyerah kepada sekutu pada tanggal 7 mei 1945 .
+passage 6 score = 5.75
+sentence 1: a. perjanjian sekutu – jerman jerman merupakan salah satu negara “ pact poros ” yang hancur dalam pd ii dan telah menyerah kepada sekutu pada tanggal 7 mei 1945 .
+sentence 2: as , uni soviet , dan inggris membicarakan tentang pembagian jerman , denazifikasi dan demiliterisasi jerman .
+sentence 3: perjanjian sekutu – jerman ditentukan oleh harry s. truman ( presiden amerika serikat ) , josep stalin ( presiden uni soviet ) , dan clement richard attlee ( perdana menteri inggris ) dalam konferensi postdam ( 2 agustus 1945 ) .
+sentence 4: konferensi postdam berisi , antara lain sebagai berikut .
+sentence 5: 1 .
 passage 1 score = 5.5
-sentence 1: perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949 - masa kemerdekaan dan perjuangan untuk mempertahankan kemerdekaan dimulai dari tahun 1945-1949 , diwarnai dengan pengisian perlengkapan sebagai negara merdeka dan perjuangan bersenjata serta berbagai diplomasi antara bangsa indonesia dengan pihak belanda .
-sentence 2: diplomasi itu direalisasikan dalam perjanjian-perjanjian .
-sentence 3: intinya belanda sebenarnya tidak rela bila indonesia merdeka .
-sentence 4: sehingga dengan berbagai cara belanda ingin memecah belah republik indonesia yang baru lahir .
-sentence 5: masa indonesia merdeka memasuki bulan agustus 1945 kedudukan jepang semakin kritis .
-passage 2 score = 5.5
-sentence 1: masa indonesia merdeka memasuki bulan agustus 1945 kedudukan jepang semakin kritis .
-sentence 2: pada 6 agustus 1945 kota hiroshima dibom oleh sekutu dan disusul kota nagasaki pada 8 agustus 1945 .
-sentence 3: akibatnya jepang bertekuk lutut kepada sekutu tanggal 14 agustus 1945 .
-sentence 4: dengan penyerahan jepang itu terjadi kevakuman kekuasaan di indonesia .
-sentence 5: bangsa indonesia kemudian mempergunakan kesempatan tersebut untuk memproklamasikan kemerdekaan pada 17 agustus 1945 .
-passage 3 score = 5.5
-sentence 1: bangsa indonesia kemudian mempergunakan kesempatan tersebut untuk memproklamasikan kemerdekaan pada 17 agustus 1945 .
-sentence 2: panitia persiapan kemerdekaan indonesia ( ppki ) yang didirikan 7 agustus 1945 dijadikan badan nasional dengan menambah enam orang anggota sehingga badan tersebut beranggotakan 27 orang .
-sentence 3: melihat susunan anggotanya yang mewakili seluruh tanah air , maka pada waktu itu ppki dianggap sebagai “ badan perwakilan ” seluruh rakyat indonesia .
-sentence 4: sehari setelah proklamasi , 18 agustus 1945 ppki mengadakan sidang pertama .
-sentence 5: sidang tersebut berhasil mengesahkan uud serta menunjuk ir .
-passage 17 score = 5.5
-sentence 1: sementara itu perundingan dengan pihak belanda dilanjutkan setelah kabinet syahrir iii disyahkan dalam bulan oktober 1946 .
-sentence 2: delegasi indonesia yang dipimpin sutan syahrir mengajukan usul agar indonesia diakui kedaulatannya , pihak belanda mengajukan usul commenwealth lagi .
-sentence 3: tetapi akhirnya tercapai juga suatu konsessus .
-sentence 4: perundingan yang dilakukan di linggarjati dikeluarkan hasilnya pada tanggal 15 november 1946 .
-sentence 5: belanda dan republik indonesia serikat berada dalam suatu uni indonesia-belanda .
-passage 21 score = 5.5
-sentence 1: tentara republik indonesia bertahan dengan melancarkan perang gerilya .
-sentence 2: pada akhir juli 1947 india dan australia mengajukan tuntutan mengenai agresi belanda itu pada dewan keamanan pbb dan dk-pbb memerintahkan gencatan senjata pada tanggal 4 agustus 1947 .
-sentence 3: selain itu suatu komisi konsuler yang terdiri atas konsul-konsul amerika serikat , cina , belgia , perancis , inggris , dan australia di jakarta , ditugaskan pbb untuk menyelidiki masalah-masalah itu dan melaporkan pada dewan keamanan .
-sentence 4: amerika serikat kemudian mengusulkan pada dewan keamanan untuk membentuk suatu komisi yang mengawasi pelaksanaan gencatan senjata .
-sentence 5: komisi yang terdiri atas dr. frank graham ( as ) , richard kirby ( australia ) dan paul vanzeelant ( belgia ) , di indonesia dikenal dengan nama komisi tiga negara ( ktn ) atau komisi jasa baik .
-passage 29 score = 5.5
-sentence 1: ri menjawab kedudukan ri tidak bisa diubah .
-sentence 2: sementara itu amir syarifuddin membentuk apa yang disebut front demokrasi rakyat , yaitu suat persatuan antara golongan komunis dan unsur-unsur radikal lainnya .
-sentence 3: mereka memancing konflik dengan golongan hatta dan mentuut reshoffle kabinet .
-sentence 4: kemudian timbul kekuatan lain yang dipimpin tan malaka dalam bentuk gerakan revolusi rakyat ( grr ) yang berusaha mengimbangi fdr , untuk kepentingan politiknya sendiri .
-sentence 5: sementara keadaan begitu gawat , pada bulan agustus 1948 , muso , seorang tokoh pki yang lari ke moskow sejak tahun 1926 , kembali ke yogyakarta .
+sentence 1: sejarah akhir perang dunia ii – perang dunia ii diakhiri dengan berbagai perjanjian antara pihak yang kalah perang ( jerman , jepang , dan italia ) dan yang menang perang ( pihak sekutu : as , uni soviet , inggris , prancis , dll ) .
+sentence 2: perjanjian yang penting adalah perjanjian sekutu dengan jerman dan sekutu dengan jepang .
+sentence 3: selain itu , pasca-perang dunia ii juga ditandai dengan berbagai konferensi .
+sentence 4: beberapa konferensi yang diselenggarakan selama perang dunia ii tentang strategi pertempuran ataupun perdamaian dunia , antara lain sebagai berikut .
+sentence 5: a. konferensi atlantik konferensi atlantik diselenggarakan pada tanggal 14 agustus 1941 antara franklin delano roosevelt ( presiden amerika serikat ) dan winston churcill ( perdana menteri inggris ) .
+passage 16 score = 5.25
+sentence 1: semua jajahan italia dan afrika utara dikuasai inggris .
+sentence 2: 5 .
+sentence 3: italia harus membayar ganti rugi akibat perang yang ditimbulkannya .
+sentence 4: 2 ) perjanjian sekutu – austria dilaksanakan di austria pada tahun 1945 dengan berbagai keputusan , antara lain sebagai berikut .
+sentence 5: 1 .
+passage 10 score = 5.0
+sentence 1: 6 .
+sentence 2: jerman harus membayar kerugian perang .
+sentence 3: b. perjanjian sekutu – jepang perjanjian sekutu – jepang dilakukan di san fransisco pada tahun 1945 .
+sentence 4: perjanjian tersebut berisi , sebagai berikut .
+sentence 5: 1 .
+passage 13 score = 5.0
+sentence 1: penjahat perang harus dihukum .
+sentence 2: 4 .
+sentence 3: jepang harus membayar ganti rugi perang .
+sentence 4: c. perjanjian sekutu dengan negara lainnya selain mengadakan perjanjian dengan jerman dan jepang , sekutu juga mengadakan perjanjian dengan negara-negara lain yang kalah berperang dalam perang dunia ii .
+sentence 5: 1 ) perjanjian sekutu – italia dilaksanakan di paris pada tahun 1945 dengan beberapa keputusan , antara lain sebagai berikut .
+passage 14 score = 5.0
+sentence 1: 1 ) perjanjian sekutu – italia dilaksanakan di paris pada tahun 1945 dengan beberapa keputusan , antara lain sebagai berikut .
+sentence 2: 1 .
+sentence 3: wilayah italia diperkecil .
+sentence 4: 2 .
+sentence 5: triastie menjadi negara merdeka di bawah perwalian pbb .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-title : perjuangan pembebasan irian barat
-passage 2 score = 7.25
-sentence 1: upaya diplomasi internasional dilakukan oleh kabinet sastroamijoyo yaitu dengan membawa masalah irian barat ke forum pbb , tapi tidak membawa hasil .
-sentence 2: pada masa kabinet burhanuddin , belanda menanggapi bahwa masalah irian barat merupakan masalah antara indonesia - belanda dan mengajukan usul yang berisi tentang penempatan irian barat di bawah uni indonesia - belanda .
-sentence 3: disamping membawa masalah irian barat ke forum pbb indonesia juga melakukan pendekatan dengan negara-negara asia afrika dan ini membawa hasil yang positif , antara lain sebagai berikut : dalam konferensi pancanegara ii di bogor lima negara peserta sepakat mendukung indonesia dalam mengembalikan irian barat ke dalam wilayah indonesia dalam kaa para peserta mengakui bahwa wilayah irian barat merupakan bagian dari negara kesatuan republik indonesia .
-sentence 4: karena belanda tidak pernah menunjukkan etikad baik dalam menyelesa masalah irian barat maka pemerintah ri mengambil langkah-langkah sebagai berikut : hubungan indonesia - belanda diubah dari united status menjadi hubungan biasa .
-sentence 5: pada tanggal 3 mei 1956 melakukan pembatalan hasil-hasil kmb \ pada tanggal 17 agustus 1956 membentuk provinsi irian barat yang berkedudukan di saosiu dan menunjuk sultan tidore , zaenal abidin syah sebagai gubernurnya .
-passage 5 score = 5.75
-sentence 1: sedangkan belanda menyatakan akan melepaskan irian barat untuk dilanjutkan di dewan perwakilan pbb kemudian membentuk negara papua .
-sentence 2: pemerintah berkesimpulan belanda tidak ingin menyerahkan irian barat pada indonesia , sehingga tidak ada jalan lain dan harus diselesaikan dengan kekerasan senjata .
-sentence 3: perjuangan bersenjata pada tanggal 19 desember 1961 presiden soekarno daiam pidatonya di jogjakarta menyampaikan suatu komando dalam rangka perjuangan pembebasan irian barat yang dikenal dengan tri komando rakyat ( trikora ) yang isinya sebagai berikut : gagalkan pembentukan negara boneka papua buatan kolonial belanda kibarkan sang merah putih di irian barat tanah air indonesia bersiap-siap untuk mobilisasi umum mempertahankan kemerdekaan dan kesatuan tanah air in­donesia realisasi pertama dari tri kora adalah pembentukan komando operasi yang diberi nama komando mandala pembebasan irian barat pada tanggal 2 januari 1962 dan mayjend .
-sentence 4: soeharto ditunjuk sebagai komandannya dengan tugas antara lain sebagai berikut : merencanakan , mempersiapkan dan menyelenggarakan operasi militer guna mengembalikan wilayah irian barat ke dalam kesatuan ri .
-sentence 5: operasi militer itu dinamakan operasi jaya wijaya .
-passage 10 score = 5.75
-sentence 1: pepera ( penentuan pendapatan rakyat ) pepera merupakan salah satu ketentuan persetujua - 1962 mengenai penyeraha­n kekuasaan pemerintahan atas irian barat oleh belanda kepada indonesia .
-sentence 2: pepera diselenggaraka­n melalui tiga tahap , antara lain sebagai berikut : tahap pertama , dimulai pada tanggal 24 maret 1969 , yaitu mengadakan konsultasi denga dewan kabupaten di jayapura mengenai tata cara penyelenggaraan pepera tahap kedua , berupa pemilihan anggota dewan musyawarah pepera yang berakhir pada bulan juni 1969 .
-sentence 3: tahap ketiga , adalah pelaksanaan pepera pada tanggal 4 juli 1969 berakhir pada tanggal agustus 1969 .
-sentence 4: pelaksanaan pepera disaksikan oleh utusan sekretaris jenderal duta besar ortis zans melalui pepera ternyata rakyat irian barat secara bulat tetap menyatakan bagian dari negara ri .
-sentence 5: hasil pepera di bawa oleh duta besar orti zans untuk dilaporkan umum pbb , untukl mengenang perjuangan merebut irian barat pada tanggal 21 desember 1995 presiden soeharto meresmikan monumen mandala di makassar .
-passage 1 score = 5.5
-sentence 1: perjuangan pembebasan irian barat - salah satu keputusan dalam kmb ( 27 desember 1949 ) belanda mengikuti kedaulatan indonesia sepenuhnya kecuali wilayah irian barat yang rencananya akan dikembalikan setahun kemudian .
-sentence 2: namun setelah pengakuan kedaulatan , belanda tidak juga menyerahkan irian barat kepada indonesia .
-sentence 3: perjuangan diplomasi dalam upaya membebaskan wilayah irian barat dari cengkeraman belanda pemerintah ri pertarna mengambil langkah diplomasi dilakukan secara bilataral baik dengan pemerintah belanda maupun dengan dunia internasional .
-sentence 4: perundingan ( diplomasi ) dengan pemerintah belanda terjadi pertama kali pada masa kabineg natsir tahun 1950 tetapi gagal , bahkan pada tahun 1952 secara sepihak belanda memasukkan irian barat dalam wilayah kerajaan belanda .
-sentence 5: upaya diplomasi internasional dilakukan oleh kabinet sastroamijoyo yaitu dengan membawa masalah irian barat ke forum pbb , tapi tidak membawa hasil .
-passage 3 score = 5.5
-sentence 1: pada tanggal 3 mei 1956 melakukan pembatalan hasil-hasil kmb \ pada tanggal 17 agustus 1956 membentuk provinsi irian barat yang berkedudukan di saosiu dan menunjuk sultan tidore , zaenal abidin syah sebagai gubernurnya .
-sentence 2: pada tanggal 18 november 1957 diadakan rapat umum penbebasan irian barat .
-sentence 3: pada tanggal 5 desember 1957 melarang semua film yang berbahasa belanda , kapal terbang belanda juga dilarang mendarat dan terbang di wilayah ri .
-sentence 4: pada tanggal 5 desember 1958 melakukan penghentian semua kegiatan konsuler belanda di indonesia .
-sentence 5: dengan peraturan pemerintah no. 23 tahun 1958 dilakukan pengambilalihan modal belanda di indonesia .
-passage 4 score = 5.5
-sentence 1: dengan peraturan pemerintah no. 23 tahun 1958 dilakukan pengambilalihan modal belanda di indonesia .
-sentence 2: pada tanggal 19 februari 1958 dibentuk front nasional pembebasan irian barat pada tanggal 17 agustus 1960 memutuskan hubungan diplomatik dengan belanda menasionalisasi 700 perusahaan milik belanda di indonesia sementara itu pemerintah belanda meningkatkan kekuatan militernya dengan mengirimkan kapal induk karel doorman ke irian barat .
-sentence 3: situasi semakin memanas dan pada sidang majelis umum pbb tahun 1961 kembali dibicarakan masalah irian barat kepada indonesia dengan perantara pbb .
-sentence 4: pemerintah indonesia menyetujui usul tersebut dengan syarat waktunya dipercepat .
-sentence 5: sedangkan belanda menyatakan akan melepaskan irian barat untuk dilanjutkan di dewan perwakilan pbb kemudian membentuk negara papua .
-passage 6 score = 5.5
-sentence 1: operasi militer itu dinamakan operasi jaya wijaya .
-sentence 2: eksploitasi , dimulai awal tahun 1963 dengan mengadakan serangan terbuka guna menguasai pos-pos musuh yang penting .
-sentence 3: konsolidasi , dilakukan pada tahun 1964 dengan mendudukkan kekuasaan ri secara mutlak di iran barat .
-sentence 4: dalam tahapan infiltrasi dilakukan serangan operasi pendaratan di irian barat balk melalui laut maupun penerjunan udara yaitu , operasi banteng dengan sasaran wilayah fak-fak dan kaimana , operasi srigala di sekitar sorong dan teminabuan , operasi naga di daerah merauke , dan operasi jatayu diarahkan ke daerah sorong , kalimantan , dan merauke .
-sentence 5: operasi infiltrasi pasgka ri dan pare gerilyawan trikora di antaranya diambil dari kalangan mahasiswa .
-passage 8 score = 5.5
-sentence 1: dalam pertempuran tersebut komando yos sudarso dan kapten wiranto gugur .
-sentence 2: mereka turut tenggelam bersama kapal ri macan tutul .
-sentence 3: sejak itu , operasi pembebasan irian barat semakin ditingkatkan .
-sentence 4: namun sebelum operasi jaya wijaya dilaksanakan , datang perintah dari presiden untuk menghentikan tembak-menembak pada tanggal 18 maret 1962 , karma pada tanggal 19 agustus 1962 telah tercapai persetujuan antara indonesia dengan belanda mengenai irian barat di markas besar pbb di kota new york dengan pokok-pokok kesepakatan , antara lain sebagai berikut : akan dibentuk pemerintah pbb irian barat dengan nama untea ( united nations temporaty ex­ecutive authority ) selambat-lambatnya 1 oktober 1962 tiba di irian barat .
-sentence 5: untea memakai tenaga indonesia pasukan ri yang berada di irian barat tetap berada di sana , di wilayah komando pbb tentara belanda secara berangsur-angsur dikembalikan antara irian barat dan daerah indonesia lainnya berlaku lalu lintas bebas pada tanggat 31 desember 1962 bendera ri berkibar di samping bendera pbb selambat-lambatnya 1 mei 1963 rl secara resmi menerima pemerintahan irian barat ri berkewajiban melakukan pepera ( penentuan pendapatan rakyat ) untuk menjamin keamanan di irian barat .
-passage 9 score = 5.5
-sentence 1: untea memakai tenaga indonesia pasukan ri yang berada di irian barat tetap berada di sana , di wilayah komando pbb tentara belanda secara berangsur-angsur dikembalikan antara irian barat dan daerah indonesia lainnya berlaku lalu lintas bebas pada tanggat 31 desember 1962 bendera ri berkibar di samping bendera pbb selambat-lambatnya 1 mei 1963 rl secara resmi menerima pemerintahan irian barat ri berkewajiban melakukan pepera ( penentuan pendapatan rakyat ) untuk menjamin keamanan di irian barat .
-sentence 2: pbb membentuk pasukan keamanan dengan nama united nations security forces ( unsf ) di bawah komando brigjend said udin khan dari pakistan .
-sentence 3: penyerahan kekuasaan irian barat dari pbb kepadda pemerintah indonesia dilaksanakan pada tanggal 1 mei 1963 di kota baru .
-sentence 4: dan pada hari yang sama , di makasar ( ujung pandang ) dilaksanakan upacara pembubaran komando mandala .
-sentence 5: pepera ( penentuan pendapatan rakyat ) pepera merupakan salah satu ketentuan persetujua - 1962 mengenai penyeraha­n kekuasaan pemerintahan atas irian barat oleh belanda kepada indonesia .
-passage 7 score = 5.0
-sentence 1: operasi infiltrasi pasgka ri dan pare gerilyawan trikora di antaranya diambil dari kalangan mahasiswa .
-sentence 2: ontuk merebut kembali irian barat dari tangan belanda , memang telah dibentuk kesatuan­kesatuan sukarelawan di kantor-kantor , sekolah , organisasi mesa dan lain sebagainya .
-sentence 3: sebagian dari sukarelawan ini bersama-same dengan abri turlit serta dalam operasi infiltrasi .
-sentence 4: pada tanggal 15 januari 1962 terjadi pertempuran di laut arafuru antara angkatan laut ri melawan kapal perusak dan frega ' belanda .
-sentence 5: dalam pertempuran tersebut komando yos sudarso dan kapten wiranto gugur .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok358.txt
+title : sejarah tujuan gerakan non blok
+passage 6 score = 1.75
+sentence 1: tidak menjadi anggota salah satu pakta militer amerika serikat atau uni soviet .
+sentence 2: demikianlah pembahasan singkat tentang sejarah tujuan gerakan non blok dari admin pengertiansejarah.com , semoga bermanfaat dan jangan lupa lihat juga pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
+passage 4 score = 0.5
+sentence 1: gnb merupakan wadah perjuangan negara-negara yang sedang berkembang yang gerakannya tidak pasif .
+sentence 2: 3 .
+sentence 3: gnb berusaha mendukung perjuangan dekolonisasi di semua tempat , memegang teguh perjuangan melawan imperialisme , kolonialisme , neokolonialisme , rasialisme , apartheid , dan zionisme .
+sentence 4: pada waktu berdirinya , gnb hanya beranggota 25 negara .
+sentence 5: setiap diselenggarakan ktt anggotanya selalu bertambah , sebab setiap negara dapat diterima menjadi anggota gnb dengan memenuhi persyaratan .
+passage 2 score = 0.25
+sentence 1: mengusahakan terwujudnya hubungan antarbangsa secara demokratis ; 4 .
+sentence 2: menentang kolonialisme , politik apartheid , dan rasialisme ; 5 .
+sentence 3: memperjuangkan kebebasan dalam bidang ekonomi dan kerja sama atas dasar persamaan derajat ; 6 .
+sentence 4: meningkatkan solidaritas di antara negara-negara anggota gerakan non blok ; 7 .
+sentence 5: menggalang kerja sama antara negara berkembang dan negara maju menuju terciptanya tata ekonomi dunia baru .
+passage 5 score = 0.25
+sentence 1: setiap diselenggarakan ktt anggotanya selalu bertambah , sebab setiap negara dapat diterima menjadi anggota gnb dengan memenuhi persyaratan .
+sentence 2: adapun syarat menjadi anggota gnb adalah sebagai berikut : 1 .
+sentence 3: menganut politik bebas dan hidup berdampingan secara damai ; 2 .
+sentence 4: mendukung gerakan-gerakan kemerdekaan nasional ; 3 .
+sentence 5: tidak menjadi anggota salah satu pakta militer amerika serikat atau uni soviet .
+passage 1 score = 0.0
+sentence 1: sejarah tujuan gerakan non blok – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah tujuan gerakan non blok , sebelumnya admin juga sudah berbagi tentang sejarah organisasi gerakan non blok .
+sentence 2: gerakan non blok mempunyai tujuan , antara lain : 1 .
+sentence 3: meredakan ketegangan dunia sebagai akibat pertentangan dua blok adidaya yang bersengketa ; 2 .
+sentence 4: mengusahakan terciptanya suasana dunia yang aman dan damai ; 3 .
+sentence 5: mengusahakan terwujudnya hubungan antarbangsa secara demokratis ; 4 .
+passage 3 score = 0.0
+sentence 1: menggalang kerja sama antara negara berkembang dan negara maju menuju terciptanya tata ekonomi dunia baru .
+sentence 2: 1 .
+sentence 3: gnb bukanlah suatu blok tersendiri dan tidak bergabung ke dalam blok dunia yang saling bertentangan .
+sentence 4: 2 .
+sentence 5: gnb merupakan wadah perjuangan negara-negara yang sedang berkembang yang gerakannya tidak pasif .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 title : menggalang kerjasama internasional dan solideritas antar bangsa
 passage 1 score = 8.5
 sentence 1: penggalangan kerja sama internasional dan solidaritas antarbangsa konferensi asia afrika dilatarbelakangi oleh adanya perebutan pengaruh antara dua blok raksasa yaitu blok barat ( amerika ) dan blok timur ( uni soviet ) .
@@ -577,7 +586,25 @@ sentence 3: gagasan untuk menyelenggarakan konferensi asia afrika muncul dari be
 sentence 4: usul tersebut diselenggarakan konferensi pancanegara ii pada tanggal 28 - 29 desember 1954 di kota bogor , yang dikenal dengan konferensi bogor .
 sentence 5: dalam konferensi bogor dirumuskan tentang hal berikut : tujuan konferensi asia afrika negara-negara peserta kaa ( 30 negara ) waktu dan acara kaa negara-negara sponsor mendukung indonesia menuntut kembali irian barat setelah melalui berbagai persiapan , maka kaa akhirnya dapat dilaksanakan di kota bandung pada tanggal 24 april 1955 , panitia pelaksanaan konferensi asia afrika ( kaa ) adalah perdana menteri ali sastroamijoy sebagai ketua dan ruslan abdulgani sebagai sekjennya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+title : sejarah konferensi pendahuluan asia afrika
+passage 1 score = 8.0
+sentence 1: sejarah konferensi pendahuluan asia afrika – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah konferensi pendahuluan asia afrika , sebelumnya admin juga sudah berbagi tentang sejarah latar belakang pelaksanaan konferensi asia afrika .
+sentence 2: sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan .
+sentence 3: konferensi pendahuluan tersebut , antara lain sebagai berikut .
+sentence 4: konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
+sentence 5: konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+title : sejarah konferensi pendahuluan asia afrika
+passage 5 score = 8.0
+sentence 1: konferensi bogor memutuskan hal-hal sebagai berikut .
+sentence 2: 1 .
+sentence 3: konferensi asia afrika akan diselenggarakan di bandung pada bulan 18-24 april 1955 .
+sentence 4: 2 .
+sentence 5: penetapan tujuan kaa dan menetapkan negara-negara yang akan diundang sebagai peserta konferensi asia afrika .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 passage 3 score = 8.0
 sentence 1: kebijakan yang menyangkut hubungan dengan negara lain terangkum dalam kebijakan politik luar negeri .
@@ -586,7 +613,7 @@ sentence 3: indonesia mencetuskan gagasannya untuk menggalang kerja sama dan sol
 sentence 4: a. latar belakang pelaksanaan konferensi asia afrika politik luar negeri indonesia adalah bebas aktif .
 sentence 5: bebas , artinya bangsa indonesia tidak memihak pada salah satu blok yang ada di dunia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 passage 8 score = 8.0
 sentence 1: sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi asia afrika mempunyai arti penting , baik bagi bangsa-bangsa di asia dan afrika pada khususnya maupun dunia pada umumnya .
@@ -595,7 +622,7 @@ sentence 3: b. konferensi pendahuluan sebelum konferensi asia afrika dilaksanaka
 sentence 4: konferensi pendahuluan tersebut , antara lain sebagai berikut .
 sentence 5: 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 passage 9 score = 8.0
 sentence 1: 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
@@ -604,7 +631,7 @@ sentence 3: a ) perdana menteri pakistan : muhammad ali jinnah b ) perdana mente
 sentence 4: di samping itu konferensi kolombo secara aklamasi memutuskan akan mengadakan konferensi asia afrika dan pemerintah indonesia ditunjuk sebagai penyelenggaranya .
 sentence 5: kelima negara yang wakilnya hadir dalam konferensi kolombo kemudian dikenal dengan nama pancanegara .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 passage 11 score = 8.0
 sentence 1: konferensi bogor memutuskan hal-hal sebagai berikut .
@@ -613,7 +640,7 @@ sentence 3: b ) penetapan tujuan kaa dan menetapkan negara-negara yang akan diun
 sentence 4: c ) hal-hal yang akan dibicarakan dalam konferensi asia afrika .
 sentence 5: d ) pemberian dukungan terhadap tuntutan indonesia mengenai irian barat .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 passage 12 score = 8.0
 sentence 1: d ) pemberian dukungan terhadap tuntutan indonesia mengenai irian barat .
@@ -622,7 +649,7 @@ sentence 3: c. pelaksanaan konferensi asia afrika sesuai dengan rencana , konfer
 sentence 4: konferensi asia afrika dihadiri oleh wakil-wakil dari 29 negara yang terdiri atas negara pengundang dan negara yang diundang .
 sentence 5: 1 ) negara pengundang meliputi indonesia , india , pakistan , sri langka , dan burma ( myanmar ) .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
 title : sejarah pelaksanaan konferensi asia afrika
 passage 1 score = 8.0
 sentence 1: sejarah pelaksanaan konferensi asia afrika – sesuai dengan rencana , konferensi asia afrika diselenggarakan di bandung pada tanggal 18 – 24 april 1955 .
@@ -631,7 +658,7 @@ sentence 3: 1 ) negara pengundang meliputi indonesia , india , pakistan , sri la
 sentence 4: 2 ) negara yang diundang 24 negara terdiri atas 6 negara afrika dan 18 negara meliputi asia ( filipina , thailand , kampuchea , laos , rrc , jepang , vietnam utara , vietnam selatan , nepal , afghanistan , iran , irak , saudi arabia , syria ( suriah ) , yordania , lebanon , turki , yaman ) , dan afrika ( mesir , sudan , etiopia , liberia , libia , dan pantai emas/gold coast ) .
 sentence 5: negara yang diundang , tetapi tidak hadir pada konferensi asia afrika adalah rhodesia/federasi afrika tengah .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 title : menggalang kerjasama internasional dan solideritas antar bangsa
 passage 2 score = 7.75
 sentence 1: dalam konferensi bogor dirumuskan tentang hal berikut : tujuan konferensi asia afrika negara-negara peserta kaa ( 30 negara ) waktu dan acara kaa negara-negara sponsor mendukung indonesia menuntut kembali irian barat setelah melalui berbagai persiapan , maka kaa akhirnya dapat dilaksanakan di kota bandung pada tanggal 24 april 1955 , panitia pelaksanaan konferensi asia afrika ( kaa ) adalah perdana menteri ali sastroamijoy sebagai ketua dan ruslan abdulgani sebagai sekjennya .
@@ -639,24 +666,6 @@ sentence 2: konferensi asia afrika yang dibuka oleh presiden soekarno , seharusn
 sentence 3: walaupun demikian kaa fete berlangsung dengan dihadiri 29 negara .
 sentence 4: konferensi asia afrika merupakan konferensi kulit berwarna yang terbesar , maka disebut the afro asian conference .
 sentence 5: hasil keputusan yang diambil dalam kaa , terdiri dari sepuluh ( 10 ) keputusan yang lebih dikenal dengan dasa sila bandung , antara lain sebagai berikut : menghormati hak dasar manusia sebagaimana tercantum dalam piagam pbb menghormati kedaulatan dan integritas nasional semua warga mengakui persamaan semua bangsa , baik besar maupun kecil tidak melakukan intervensi atau campur tangan persoalan dalam negeri negara lain menghormati hak setiap bangsa untuk mempertahankan diri , baik secara sendirian maupun kolektif sesuai dengan piagam pbb tidak melakukan tekanan-tekanan terhadap negara lain tidak melakukan tindakan-tindakan ancaman-ancaman agresi terhadap keutuhan wilayah dan kemerdekaan negara lain menyelesaikan perselisihan internasional jalan damai sesuai dengan piagam pbb memajukan kerja sama untuk kepentingan bersama menghormati hukum dan kewajiban-kewajiban internasional setelah berakhirnya konferensi asia afrika , banyak negara yang belum merdeka , mulai memperjuangkan nasibnya untuk mencapai kemerdekaan dan kedudukan sebagai negara yang berdais penuh .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-title : perjuangan pembebasan irian barat
-passage 2 score = 7.25
-sentence 1: upaya diplomasi internasional dilakukan oleh kabinet sastroamijoyo yaitu dengan membawa masalah irian barat ke forum pbb , tapi tidak membawa hasil .
-sentence 2: pada masa kabinet burhanuddin , belanda menanggapi bahwa masalah irian barat merupakan masalah antara indonesia - belanda dan mengajukan usul yang berisi tentang penempatan irian barat di bawah uni indonesia - belanda .
-sentence 3: disamping membawa masalah irian barat ke forum pbb indonesia juga melakukan pendekatan dengan negara-negara asia afrika dan ini membawa hasil yang positif , antara lain sebagai berikut : dalam konferensi pancanegara ii di bogor lima negara peserta sepakat mendukung indonesia dalam mengembalikan irian barat ke dalam wilayah indonesia dalam kaa para peserta mengakui bahwa wilayah irian barat merupakan bagian dari negara kesatuan republik indonesia .
-sentence 4: karena belanda tidak pernah menunjukkan etikad baik dalam menyelesa masalah irian barat maka pemerintah ri mengambil langkah-langkah sebagai berikut : hubungan indonesia - belanda diubah dari united status menjadi hubungan biasa .
-sentence 5: pada tanggal 3 mei 1956 melakukan pembatalan hasil-hasil kmb \ pada tanggal 17 agustus 1956 membentuk provinsi irian barat yang berkedudukan di saosiu dan menunjuk sultan tidore , zaenal abidin syah sebagai gubernurnya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
-title : sejarah konferensi pendahuluan asia afrika
-passage 1 score = 7.0
-sentence 1: sejarah konferensi pendahuluan asia afrika – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah konferensi pendahuluan asia afrika , sebelumnya admin juga sudah berbagi tentang sejarah latar belakang pelaksanaan konferensi asia afrika .
-sentence 2: sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan .
-sentence 3: konferensi pendahuluan tersebut , antara lain sebagai berikut .
-sentence 4: konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
-sentence 5: konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
 
 
 Pencarian jawaban
@@ -679,7 +688,7 @@ gagasan untuk menyelenggarakan konferensi asia afrika muncul dari beberapa tokoh
 
 memproses passage 1
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 title : menggalang kerjasama internasional dan solideritas antar bangsa
 list jawaban dan posisi dalam passage
 tanggal 24 25 april 1954 | position = 16
@@ -988,7 +997,7 @@ usul tersebut diselenggarakan konferensi pancanegara ii pada <TIME>tanggal 28 - 
 
 memproses passage 1
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 title : menggalang kerjasama internasional dan solideritas antar bangsa
 list jawaban dan posisi dalam passage
 tanggal 28 29 desember 1954 | position = 5
@@ -1057,7 +1066,7 @@ dalam konferensi bogor dirumuskan tentang hal berikut : tujuan konferensi asia a
 
 memproses passage 1
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 title : menggalang kerjasama internasional dan solideritas antar bangsa
 list jawaban dan posisi dalam passage
 tanggal 24 april 1955 | position = 31
@@ -1270,6 +1279,180 @@ tokenwithtagstemmed = abdulgani
 tokenwithtagstemmed = sekjennya
 
 
+sejarah konferensi pendahuluan asia afrika – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah konferensi pendahuluan asia afrika , sebelumnya admin juga sudah berbagi tentang sejarah latar belakang pelaksanaan konferensi asia afrika .
+
+
+tidak ada entitas jawaban, skip
+
+
+sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan .
+
+
+tidak ada entitas jawaban, skip
+
+
+konferensi pendahuluan tersebut , antara lain sebagai berikut .
+
+
+tidak ada entitas jawaban, skip
+
+
+konferensi pendahuluan yang pertama diselenggarakan di <LOCATION>kolombo</LOCATION> , ibu kota negara sri lanka pada <TIME>tanggal 28 april – 2 mei 1954</TIME> .
+
+memproses passage 1
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+title : sejarah konferensi pendahuluan asia afrika
+list jawaban dan posisi dalam passage
+tanggal 28 april 2 mei 1954 | position = 10
+
+
+melakukan pencarian:
+kata kunci = konferensi
+tokenwithtagstemmed = konferensi
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+tanggal 28 april 2 mei 1954 10
+
+tokenwithtagstemmed = dahulu
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = kolombo
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = lanka
+tokenwithtagstemmed = tanggal 28 april 2 mei 1954
+kata kunci = asia
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = dahulu
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = kolombo
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = lanka
+tokenwithtagstemmed = tanggal 28 april 2 mei 1954
+kata kunci = afrika
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = dahulu
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = kolombo
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = lanka
+tokenwithtagstemmed = tanggal 28 april 2 mei 1954
+kata kunci = selenggara
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = dahulu
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = selenggara
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+tanggal 28 april 2 mei 1954 7
+
+tokenwithtagstemmed = kolombo
+tokenwithtagstemmed = ibu
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = lanka
+tokenwithtagstemmed = tanggal 28 april 2 mei 1954
+
+
+konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
+
+
+tidak ada entitas jawaban, skip
+
+
+konferensi bogor memutuskan hal-hal sebagai berikut .
+
+
+tidak ada entitas jawaban, skip
+
+
+1 .
+
+
+tidak ada entitas jawaban, skip
+
+
+konferensi asia afrika akan diselenggarakan di bandung pada <TIME>bulan 18-24 april 1955</TIME> .
+
+memproses passage 5
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+title : sejarah konferensi pendahuluan asia afrika
+list jawaban dan posisi dalam passage
+bulan 18 24 april 1955 | position = 5
+
+
+melakukan pencarian:
+kata kunci = konferensi
+tokenwithtagstemmed = konferensi
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+bulan 18 24 april 1955 5
+
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = afrika
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = bandung
+tokenwithtagstemmed = bulan 18 24 april 1955
+kata kunci = asia
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = asia
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+bulan 18 24 april 1955 4
+
+tokenwithtagstemmed = afrika
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = bandung
+tokenwithtagstemmed = bulan 18 24 april 1955
+kata kunci = afrika
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = afrika
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+bulan 18 24 april 1955 3
+
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = bandung
+tokenwithtagstemmed = bulan 18 24 april 1955
+kata kunci = selenggara
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = afrika
+tokenwithtagstemmed = selenggara
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+bulan 18 24 april 1955 2
+
+tokenwithtagstemmed = bandung
+tokenwithtagstemmed = bulan 18 24 april 1955
+
+
+2 .
+
+
+tidak ada entitas jawaban, skip
+
+
+penetapan tujuan kaa dan menetapkan negara-negara yang akan diundang sebagai peserta konferensi asia afrika .
+
+
+tidak ada entitas jawaban, skip
+
+
 kebijakan yang menyangkut hubungan dengan negara lain terangkum dalam kebijakan politik luar negeri .
 
 
@@ -1280,7 +1463,7 @@ oleh karena itu , pelaksanaan politik luar negeri <PERSON>indonesia</PERSON> jug
 
 memproses passage 3
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 uud 1945 | position = 7
@@ -1371,7 +1554,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 8
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 tanggal 28 april 2 mei 1954 | position = 16
@@ -1472,7 +1655,7 @@ tokenwithtagstemmed = tanggal 28 april 2 mei 1954
 
 memproses passage 9
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 tanggal 28 april 2 mei 1954 | position = 16
@@ -1603,7 +1786,7 @@ a ) konferensi asia afrika akan diselenggarakan di bandung pada <TIME>bulan 18-2
 
 memproses passage 11
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 bulan 18 24 april 1955 | position = 6
@@ -1694,7 +1877,7 @@ c. pelaksanaan konferensi asia afrika sesuai dengan rencana , konferensi asia af
 
 memproses passage 12
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 tanggal 18 24 april 1955 | position = 12
@@ -1803,7 +1986,7 @@ sejarah pelaksanaan konferensi asia afrika – sesuai dengan rencana , konferens
 
 memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
 title : sejarah pelaksanaan konferensi asia afrika
 list jawaban dan posisi dalam passage
 tanggal 18 24 april 1955 | position = 12
@@ -1924,7 +2107,7 @@ dalam konferensi bogor dirumuskan tentang hal berikut : tujuan konferensi asia a
 
 memproses passage 2
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 title : menggalang kerjasama internasional dan solideritas antar bangsa
 list jawaban dan posisi dalam passage
 tanggal 24 april 1955 | position = 31
@@ -2160,353 +2343,75 @@ hasil keputusan yang diambil dalam kaa , terdiri dari sepuluh ( 10 ) keputusan y
 
 tidak ada entitas jawaban, skip
 
-
-upaya diplomasi internasional dilakukan oleh <PERSON>kabinet sastroamijoyo</PERSON> yaitu dengan membawa masalah irian barat ke forum pbb , tapi tidak membawa hasil .
-
-
-tidak ada entitas jawaban, skip
-
-
-pada <TIME>masa kabinet burhanuddin ,</TIME> <PERSON>belanda</PERSON> menanggapi bahwa masalah irian barat merupakan masalah antara <PERSON>indonesia - belanda</PERSON> dan mengajukan usul yang berisi tentang penempatan irian barat di bawah uni indonesia - belanda .
-
-memproses passage 2
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-title : perjuangan pembebasan irian barat
-list jawaban dan posisi dalam passage
-masa kabinet burhanuddin | position = 0
-
-
-melakukan pencarian:
-kata kunci = konferensi
-tokenwithtagstemmed = masa kabinet burhanuddin
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tanggap
-tokenwithtagstemmed = masalah
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = masalah
-tokenwithtagstemmed = indonesia belanda
-tokenwithtagstemmed = aju
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = bawah
-tokenwithtagstemmed = uni
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = belanda
-kata kunci = asia
-tokenwithtagstemmed = masa kabinet burhanuddin
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tanggap
-tokenwithtagstemmed = masalah
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = masalah
-tokenwithtagstemmed = indonesia belanda
-tokenwithtagstemmed = aju
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = bawah
-tokenwithtagstemmed = uni
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = belanda
-kata kunci = afrika
-tokenwithtagstemmed = masa kabinet burhanuddin
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tanggap
-tokenwithtagstemmed = masalah
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = masalah
-tokenwithtagstemmed = indonesia belanda
-tokenwithtagstemmed = aju
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = bawah
-tokenwithtagstemmed = uni
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = belanda
-kata kunci = selenggara
-tokenwithtagstemmed = masa kabinet burhanuddin
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tanggap
-tokenwithtagstemmed = masalah
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = masalah
-tokenwithtagstemmed = indonesia belanda
-tokenwithtagstemmed = aju
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = bawah
-tokenwithtagstemmed = uni
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = belanda
-
-
-disamping membawa masalah irian barat ke <PERSON>forum pbb indonesia</PERSON> juga melakukan pendekatan dengan negara-negara asia afrika dan ini membawa hasil yang positif , antara lain sebagai berikut : dalam konferensi pancanegara ii di bogor lima negara peserta sepakat mendukung indonesia dalam mengembalikan irian barat ke <LOCATION>dalam wilayah indonesia</LOCATION> dalam kaa para peserta mengakui bahwa <LOCATION>wilayah irian barat</LOCATION> merupakan bagian dari negara kesatuan republik indonesia .
-
-
-tidak ada entitas jawaban, skip
-
-
-karena <PERSON>belanda</PERSON> tidak pernah menunjukkan etikad baik dalam menyelesa masalah irian barat maka <PERSON>pemerintah ri</PERSON> mengambil langkah-langkah sebagai berikut : hubungan indonesia - belanda diubah dari united status menjadi hubungan biasa .
-
-
-tidak ada entitas jawaban, skip
-
-
-pada <TIME>tanggal 3 mei 1956</TIME> melakukan pembatalan hasil-hasil kmb \ pada <TIME>tanggal 17 agustus 1956</TIME> membentuk provinsi irian barat yang berkedudukan di saosiu dan menunjuk sultan tidore , zaenal abidin syah sebagai gubernurnya .
-
-memproses passage 2
-sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-title : perjuangan pembebasan irian barat
-list jawaban dan posisi dalam passage
-tanggal 3 mei 1956 | position = 0
-tanggal 17 agustus 1956 | position = 6
-
-
-melakukan pencarian:
-kata kunci = konferensi
-tokenwithtagstemmed = tanggal 3 mei 1956
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = batal
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = kmb
-tokenwithtagstemmed = tanggal 17 agustus 1956
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = provinsi
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = keduduk
-tokenwithtagstemmed = saosiu
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = sultan
-tokenwithtagstemmed = tidore
-tokenwithtagstemmed = zaenal
-tokenwithtagstemmed = abidin
-tokenwithtagstemmed = syah
-tokenwithtagstemmed = gubernur
-kata kunci = asia
-tokenwithtagstemmed = tanggal 3 mei 1956
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = batal
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = kmb
-tokenwithtagstemmed = tanggal 17 agustus 1956
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = provinsi
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = keduduk
-tokenwithtagstemmed = saosiu
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = sultan
-tokenwithtagstemmed = tidore
-tokenwithtagstemmed = zaenal
-tokenwithtagstemmed = abidin
-tokenwithtagstemmed = syah
-tokenwithtagstemmed = gubernur
-kata kunci = afrika
-tokenwithtagstemmed = tanggal 3 mei 1956
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = batal
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = kmb
-tokenwithtagstemmed = tanggal 17 agustus 1956
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = provinsi
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = keduduk
-tokenwithtagstemmed = saosiu
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = sultan
-tokenwithtagstemmed = tidore
-tokenwithtagstemmed = zaenal
-tokenwithtagstemmed = abidin
-tokenwithtagstemmed = syah
-tokenwithtagstemmed = gubernur
-kata kunci = selenggara
-tokenwithtagstemmed = tanggal 3 mei 1956
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = batal
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = kmb
-tokenwithtagstemmed = tanggal 17 agustus 1956
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = provinsi
-tokenwithtagstemmed = iri
-tokenwithtagstemmed = barat
-tokenwithtagstemmed = keduduk
-tokenwithtagstemmed = saosiu
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = sultan
-tokenwithtagstemmed = tidore
-tokenwithtagstemmed = zaenal
-tokenwithtagstemmed = abidin
-tokenwithtagstemmed = syah
-tokenwithtagstemmed = gubernur
-
-
-sejarah konferensi pendahuluan asia afrika – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah konferensi pendahuluan asia afrika , sebelumnya admin juga sudah berbagi tentang sejarah latar belakang pelaksanaan konferensi asia afrika .
-
-
-tidak ada entitas jawaban, skip
-
-
-sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan .
-
-
-tidak ada entitas jawaban, skip
-
-
-konferensi pendahuluan tersebut , antara lain sebagai berikut .
-
-
-tidak ada entitas jawaban, skip
-
-
-konferensi pendahuluan yang pertama diselenggarakan di <LOCATION>kolombo</LOCATION> , ibu kota negara sri lanka pada <TIME>tanggal 28 april – 2 mei 1954</TIME> .
-
-memproses passage 1
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
-title : sejarah konferensi pendahuluan asia afrika
-list jawaban dan posisi dalam passage
-tanggal 28 april 2 mei 1954 | position = 10
-
-
-melakukan pencarian:
-kata kunci = konferensi
-tokenwithtagstemmed = konferensi
-posisi dalam passage = 0
-jarak dengan tiap kandidat jawaban:
-tanggal 28 april 2 mei 1954 10
-
-tokenwithtagstemmed = dahulu
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = selenggara
-tokenwithtagstemmed = kolombo
-tokenwithtagstemmed = ibu
-tokenwithtagstemmed = kota
-tokenwithtagstemmed = negara
-tokenwithtagstemmed = sri
-tokenwithtagstemmed = lanka
-tokenwithtagstemmed = tanggal 28 april 2 mei 1954
-kata kunci = asia
-tokenwithtagstemmed = konferensi
-tokenwithtagstemmed = dahulu
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = selenggara
-tokenwithtagstemmed = kolombo
-tokenwithtagstemmed = ibu
-tokenwithtagstemmed = kota
-tokenwithtagstemmed = negara
-tokenwithtagstemmed = sri
-tokenwithtagstemmed = lanka
-tokenwithtagstemmed = tanggal 28 april 2 mei 1954
-kata kunci = afrika
-tokenwithtagstemmed = konferensi
-tokenwithtagstemmed = dahulu
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = selenggara
-tokenwithtagstemmed = kolombo
-tokenwithtagstemmed = ibu
-tokenwithtagstemmed = kota
-tokenwithtagstemmed = negara
-tokenwithtagstemmed = sri
-tokenwithtagstemmed = lanka
-tokenwithtagstemmed = tanggal 28 april 2 mei 1954
-kata kunci = selenggara
-tokenwithtagstemmed = konferensi
-tokenwithtagstemmed = dahulu
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = selenggara
-posisi dalam passage = 3
-jarak dengan tiap kandidat jawaban:
-tanggal 28 april 2 mei 1954 7
-
-tokenwithtagstemmed = kolombo
-tokenwithtagstemmed = ibu
-tokenwithtagstemmed = kota
-tokenwithtagstemmed = negara
-tokenwithtagstemmed = sri
-tokenwithtagstemmed = lanka
-tokenwithtagstemmed = tanggal 28 april 2 mei 1954
-
-
-konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
-
-
-tidak ada entitas jawaban, skip
-
 Pengurutan kandidat jawaban
 this.answer = bulan 18 24 april 1955
-passage rank = 5
+passage rank = 3
 distance = 2
 doc rank = 1
-total Score = 8
+total Score = 6
 frequency = 1
-order process = 24
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
+order process = 18
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+document Title = sejarah konferensi pendahuluan asia afrika
 
-this.answer = tanggal 18 24 april 1955
-passage rank = 6
-distance = 2
-doc rank = 1
-total Score = 9
-frequency = 1
-order process = 31
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-
-this.answer = tanggal 18 24 april 1955
+this.answer = bulan 18 24 april 1955
 passage rank = 7
 distance = 2
-doc rank = 5
-total Score = 14
+doc rank = 2
+total Score = 11
 frequency = 1
-order process = 38
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
+order process = 30
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
+
+this.answer = tanggal 18 24 april 1955
+passage rank = 8
+distance = 2
+doc rank = 2
+total Score = 12
+frequency = 1
+order process = 37
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
+
+this.answer = tanggal 18 24 april 1955
+passage rank = 9
+distance = 2
+doc rank = 5
+total Score = 16
+frequency = 1
+order process = 44
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
 document Title = sejarah pelaksanaan konferensi asia afrika
 
 this.answer = bulan 18 24 april 1955
-passage rank = 5
+passage rank = 3
 distance = 3
 doc rank = 1
-total Score = 9
+total Score = 7
 frequency = 1
-order process = 23
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 17
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+document Title = sejarah konferensi pendahuluan asia afrika
+
+this.answer = bulan 18 24 april 1955
+passage rank = 7
+distance = 3
+doc rank = 2
+total Score = 12
+frequency = 1
+order process = 29
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 18 24 april 1955
-passage rank = 6
+passage rank = 8
 distance = 3
-doc rank = 1
-total Score = 10
+doc rank = 2
+total Score = 13
 frequency = 1
-order process = 30
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 36
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 28 29 desember 1954
@@ -2516,37 +2421,47 @@ doc rank = 4
 total Score = 8
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 18 24 april 1955
-passage rank = 7
+passage rank = 9
 distance = 3
 doc rank = 5
-total Score = 15
+total Score = 17
 frequency = 1
-order process = 37
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
+order process = 43
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
 document Title = sejarah pelaksanaan konferensi asia afrika
 
 this.answer = bulan 18 24 april 1955
-passage rank = 5
+passage rank = 3
 distance = 4
 doc rank = 1
-total Score = 10
+total Score = 8
 frequency = 1
-order process = 22
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 16
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+document Title = sejarah konferensi pendahuluan asia afrika
+
+this.answer = bulan 18 24 april 1955
+passage rank = 7
+distance = 4
+doc rank = 2
+total Score = 13
+frequency = 1
+order process = 28
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 18 24 april 1955
-passage rank = 6
+passage rank = 8
 distance = 4
-doc rank = 1
-total Score = 11
+doc rank = 2
+total Score = 14
 frequency = 1
-order process = 28
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 34
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 28 29 desember 1954
@@ -2556,37 +2471,47 @@ doc rank = 4
 total Score = 9
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 18 24 april 1955
-passage rank = 7
+passage rank = 9
 distance = 4
 doc rank = 5
-total Score = 16
+total Score = 18
 frequency = 1
-order process = 35
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
+order process = 41
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
 document Title = sejarah pelaksanaan konferensi asia afrika
 
 this.answer = bulan 18 24 april 1955
-passage rank = 5
+passage rank = 3
 distance = 5
 doc rank = 1
-total Score = 11
+total Score = 9
 frequency = 1
-order process = 21
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 15
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+document Title = sejarah konferensi pendahuluan asia afrika
+
+this.answer = bulan 18 24 april 1955
+passage rank = 7
+distance = 5
+doc rank = 2
+total Score = 14
+frequency = 1
+order process = 27
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 18 24 april 1955
-passage rank = 6
+passage rank = 8
 distance = 5
-doc rank = 1
-total Score = 12
+doc rank = 2
+total Score = 15
 frequency = 1
-order process = 26
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 32
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 24 25 april 1954
@@ -2596,37 +2521,47 @@ doc rank = 4
 total Score = 10
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 18 24 april 1955
-passage rank = 7
+passage rank = 9
 distance = 5
 doc rank = 5
-total Score = 17
+total Score = 19
 frequency = 1
-order process = 33
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
+order process = 39
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
 document Title = sejarah pelaksanaan konferensi asia afrika
 
 this.answer = tanggal 28 april 2 mei 1954
-passage rank = 3
+passage rank = 2
 distance = 7
 doc rank = 1
-total Score = 11
+total Score = 10
 frequency = 1
-order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 14
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+document Title = sejarah konferensi pendahuluan asia afrika
+
+this.answer = tanggal 28 april 2 mei 1954
+passage rank = 5
+distance = 7
+doc rank = 2
+total Score = 14
+frequency = 1
+order process = 22
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 28 april 2 mei 1954
-passage rank = 4
+passage rank = 6
 distance = 7
-doc rank = 1
-total Score = 12
+doc rank = 2
+total Score = 15
 frequency = 1
-order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 26
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 24 25 april 1954
@@ -2636,108 +2571,98 @@ doc rank = 4
 total Score = 12
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
-this.answer = tanggal 28 april 2 mei 1954
-passage rank = 10
-distance = 7
-doc rank = 6
-total Score = 23
-frequency = 1
-order process = 44
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
-document Title = sejarah konferensi pendahuluan asia afrika
-
 this.answer = tanggal 18 24 april 1955
-passage rank = 6
+passage rank = 8
 distance = 8
-doc rank = 1
-total Score = 15
+doc rank = 2
+total Score = 18
 frequency = 1
-order process = 29
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 35
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 18 24 april 1955
-passage rank = 7
+passage rank = 9
 distance = 8
-doc rank = 5
-total Score = 20
-frequency = 1
-order process = 36
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
-document Title = sejarah pelaksanaan konferensi asia afrika
-
-this.answer = tanggal 18 24 april 1955
-passage rank = 6
-distance = 9
-doc rank = 1
-total Score = 16
-frequency = 1
-order process = 27
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-
-this.answer = tanggal 18 24 april 1955
-passage rank = 7
-distance = 9
-doc rank = 5
-total Score = 21
-frequency = 1
-order process = 34
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
-document Title = sejarah pelaksanaan konferensi asia afrika
-
-this.answer = tanggal 28 april 2 mei 1954
-passage rank = 3
-distance = 10
-doc rank = 1
-total Score = 14
-frequency = 1
-order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-
-this.answer = tanggal 28 april 2 mei 1954
-passage rank = 4
-distance = 10
-doc rank = 1
-total Score = 15
-frequency = 1
-order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-
-this.answer = tanggal 18 24 april 1955
-passage rank = 6
-distance = 10
-doc rank = 1
-total Score = 17
-frequency = 1
-order process = 25
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-
-this.answer = tanggal 18 24 april 1955
-passage rank = 7
-distance = 10
 doc rank = 5
 total Score = 22
 frequency = 1
-order process = 32
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
+order process = 42
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
+document Title = sejarah pelaksanaan konferensi asia afrika
+
+this.answer = tanggal 18 24 april 1955
+passage rank = 8
+distance = 9
+doc rank = 2
+total Score = 19
+frequency = 1
+order process = 33
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
+
+this.answer = tanggal 18 24 april 1955
+passage rank = 9
+distance = 9
+doc rank = 5
+total Score = 23
+frequency = 1
+order process = 40
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
 document Title = sejarah pelaksanaan konferensi asia afrika
 
 this.answer = tanggal 28 april 2 mei 1954
-passage rank = 10
+passage rank = 2
 distance = 10
-doc rank = 6
-total Score = 26
+doc rank = 1
+total Score = 13
 frequency = 1
-order process = 43
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
 document Title = sejarah konferensi pendahuluan asia afrika
+
+this.answer = tanggal 28 april 2 mei 1954
+passage rank = 5
+distance = 10
+doc rank = 2
+total Score = 17
+frequency = 1
+order process = 21
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
+
+this.answer = tanggal 28 april 2 mei 1954
+passage rank = 6
+distance = 10
+doc rank = 2
+total Score = 18
+frequency = 1
+order process = 25
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
+
+this.answer = tanggal 18 24 april 1955
+passage rank = 8
+distance = 10
+doc rank = 2
+total Score = 20
+frequency = 1
+order process = 31
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
+
+this.answer = tanggal 18 24 april 1955
+passage rank = 9
+distance = 10
+doc rank = 5
+total Score = 24
+frequency = 1
+order process = 38
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
+document Title = sejarah pelaksanaan konferensi asia afrika
 
 this.answer = tanggal 24 25 april 1954
 passage rank = 1
@@ -2746,7 +2671,7 @@ doc rank = 4
 total Score = 16
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 24 25 april 1954
@@ -2756,27 +2681,27 @@ doc rank = 4
 total Score = 17
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 28 april 2 mei 1954
-passage rank = 3
+passage rank = 5
 distance = 13
-doc rank = 1
-total Score = 17
+doc rank = 2
+total Score = 20
 frequency = 1
-order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 20
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 28 april 2 mei 1954
-passage rank = 4
+passage rank = 6
 distance = 13
-doc rank = 1
-total Score = 18
+doc rank = 2
+total Score = 21
 frequency = 1
-order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 24
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 24 25 april 1954
@@ -2786,7 +2711,7 @@ doc rank = 4
 total Score = 18
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 24 25 april 1954
@@ -2796,27 +2721,27 @@ doc rank = 4
 total Score = 19
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 28 april 2 mei 1954
-passage rank = 3
+passage rank = 5
 distance = 15
-doc rank = 1
-total Score = 19
+doc rank = 2
+total Score = 22
 frequency = 1
-order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 19
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 28 april 2 mei 1954
-passage rank = 4
+passage rank = 6
 distance = 15
-doc rank = 1
-total Score = 20
+doc rank = 2
+total Score = 23
 frequency = 1
-order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+order process = 23
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = tanggal 24 april 1955
@@ -2826,17 +2751,17 @@ doc rank = 4
 total Score = 29
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 24 april 1955
-passage rank = 8
+passage rank = 10
 distance = 24
 doc rank = 4
-total Score = 36
+total Score = 38
 frequency = 1
-order process = 42
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+order process = 48
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 24 april 1955
@@ -2846,17 +2771,17 @@ doc rank = 4
 total Score = 30
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 24 april 1955
-passage rank = 8
+passage rank = 10
 distance = 25
 doc rank = 4
-total Score = 37
+total Score = 39
 frequency = 1
-order process = 41
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+order process = 47
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 24 april 1955
@@ -2866,17 +2791,17 @@ doc rank = 4
 total Score = 31
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 24 april 1955
-passage rank = 8
+passage rank = 10
 distance = 26
 doc rank = 4
-total Score = 38
+total Score = 40
 frequency = 1
-order process = 40
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+order process = 46
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 24 april 1955
@@ -2886,17 +2811,17 @@ doc rank = 4
 total Score = 36
 frequency = 1
 order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 this.answer = tanggal 24 april 1955
-passage rank = 8
+passage rank = 10
 distance = 31
 doc rank = 4
-total Score = 43
+total Score = 45
 frequency = 1
-order process = 39
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
+order process = 45
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
 document Title = menggalang kerjasama internasional dan solideritas antar bangsa
 
 

@@ -1,120 +1,121 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok238.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok210.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok234.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok110.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok39.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok232.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok194.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok108.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok37.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok225.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok148.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok285.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok254.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok244.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok263.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok195.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok246.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok197.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok192.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok214.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok125.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok54.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok23.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok94.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok338.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok223.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok324.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok135.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok379.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok64.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok137.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok66.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok181.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok337.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok151.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok310.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok123.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok52.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok107.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok36.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok226.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok320.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok321.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok389.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok22.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok93.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok238.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok252.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok250.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok207.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok254.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok234.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok244.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok110.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok39.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok1.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok72.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok194.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok105.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok34.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok176.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok246.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok209.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok352.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok241.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok330.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok291.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok259.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok264.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok280.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok180.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok224.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok247.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok154.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok195.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok223.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok324.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok359.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok395.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok119.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok48.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok159.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok148.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok285.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok135.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok64.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok14.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok167.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok316.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok85.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok196.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok392.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok147.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok153.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok162.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok184.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok193.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok228.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok289.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok306.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok335.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok339.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok192.txt
 
 searching dari query expansion
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok238.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
+query hasil ekspansi = proklamasi konsep naskah 3 dasar peri adil bpupki sukarno rancang
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok110.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok39.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok247.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok192.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok212.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
 
 query token : 
 tulis konsep naskah proklamasi 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
 title : bpupki-ppki dan peristiwa rengasdengklok
 passage 20 score = 8.0
 sentence 1: peristiwa rengasdengklok moh hatta berjanji akan menanyakan hal itu kepada gunsekanbu .
@@ -177,70 +178,7 @@ sentence 3: peristiwa ini terjadi pada tanggal 16 agustus 1945 pukul 04.30 .
 sentence 4: wib , soekarno dan hatta dibawa ke rengasdengklok , karawang , untuk kemudian didesak agar mempercepat proklamasi kemerdekaan republik indonesia , sampai dengan terjadinya kesepakatan antara golongan tua yang diwakili soekarno dan hatta serta mr. achmad subardjo dengan golongan muda tentang kapan proklamasi akan dilaksanakan .
 sentence 5: menghadapi desakan tersebut , soekarno dan hatta tetap tidak berubah pendirian .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 55 score = 8.5
-sentence 1: ir .
-sentence 2: sukarno yang menuliskan konsep naskah proklamasi , sedangkan drs. moh .
-sentence 3: hatta dan mr ahmad subardjo menyumbangkan pikiran secara lisan .
-sentence 4: kalimat pertama dari naskah proklamasi merupakan saran dari mr. ahmad subardjo yang diambil dari rumusan bpupki .
-sentence 5: sedangkan kalimat terakhir merupakan sumbangan pikiran dari drs. moh .
-passage 59 score = 8.25
-sentence 1: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
-sentence 2: karena mereka beranggapan bahwa sebagian tokoh-tokoh tua yang hadir adalah “ budak-budak ” jepang .
-sentence 3: selanjutnya sukarni , salah satu tokoh golongan muda , mengusulkan agar yang menandatangani naskah proklamasi cukup sukarno-hatta atas nama bangsa indonesia .
-sentence 4: setelah usulan sukarni itu disetujui , maka ir .
-sentence 5: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
-passage 51 score = 8.0
-sentence 1: hal itu juga disebabkan laksamana tadashi maeda telah menyampaikan kepada ahmad subardjo ( sebagai salah satu pekerja di kantor laksamana maeda ) bahwa ia menjamin keselamatan mereka selama berada di rumahnya .
-sentence 2: sebelum mereka memulai merumuskan naskah proklamasi , terlebih dahulu sukarno dan hatta menemui somubuco ( kepala pemerintahan umum ) mayor jenderal nishimura , untuk menjajagi sikapnya mengenai proklamasi kemerdekaan .
-sentence 3: mereka ditemani oleh laksamana maeda , shigetada nishijima dan tomegoro yoshizumi serta miyoshi sebagai penterjemah .
-sentence 4: pertemuan itu tidak mencapai kata sepakat .
-sentence 5: nishimura menegaskan bahwa garis kebijakan panglima tentara keenambelas di jawa adalah “ dengan menyerahnya jepang kepada sekutu berlaku ketentuan bahwa tentara jepang tidak diperbolehkan lagi merubah status quo ( status politik indonesia ) .
-passage 61 score = 8.0
-sentence 1: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
-sentence 2: sukarni mengusulkan bahwa lapangan ikada ( sekarang bagian tenggara lapangan monumen nasional ) telah dipersiapkan bagi berkumpulnya masyarakat jakarta untuk mendengar pembacaan naskah proklamasi .
-sentence 3: namun ir .
-sentence 4: sukarno menganggap lapangan ikada adalah salah satu lapangan umum yang dapat menimbulkan bentrokan antara rakyat dengan pihak militer jepang .
-sentence 5: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
-passage 62 score = 8.0
-sentence 1: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
-sentence 2: h. pelaksanaan proklamasi kemerdekaan 17 agustus 1945 pada pukul 05.00 waktu jawa tanggal 17 agustus 1945 , para pemimpin indonesia dari golongan tua dan golongan muda keluar dari rumah laksamana maeda .
-sentence 3: mereka pulang ke rumah masing-masing setelah berhasil merumuskan naskah proklamasi .
-sentence 4: mereka telah sepakat untuk memproklamasikan kemerdekaan pada pukul 10.30 waktu jawa atau pukul 10.00 wib sekarang .
-sentence 5: sebelum pulang bung hatta berpesan kepada para pemuda yang bekerja di kantor berita dan pers , utamanya b.m. diah untuk memperbanyak teks proklamasi dan menyiarkannya ke seluruh dunia .
-passage 60 score = 7.75
-sentence 1: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
-sentence 2: ada tiga perubahan yang terdapat pada naskah ketikan sajuti melik , yaitu : kata “ tempoh ” diganti “ tempo ” , sedangkan kata “ wakil-wakil bangsa indonesia ” diganti dengan “ atas nama bangsa indonesia ” .
-sentence 3: perubahan juga dilakukan dalam cara menuliskan tanggal , yaitu “ djakarta , 17-8-05 ” menjadi “ djakarta , hari 17 boelan 8 tahoen ‘ 05 ” .
-sentence 4: sehingga naskah proklamasi ketikan sajuti melik itu , adalah sebagai berikut : proklamasi kami bangsa indonesia dengan ini menjatakan kemerdekaan indonesia .
-sentence 5: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
-passage 53 score = 7.5
-sentence 1: akhirnya mereka hanya mengharapkan pihak jepang tidak menghalang-halangi pelaksanaan proklamasi yang akan dilaksanakan oleh rakyat indonesia sendiri .
-sentence 2: maka mereka kembali ke rumah laksamana maeda .
-sentence 3: sebagai tuan rumah maeda mengundurkan diri ke lantai dua .
-sentence 4: sedangkan di ruang makan , naskah proklamasi dirumuskan oleh tiga tokoh golongan tua , yaitu : ir .
-sentence 5: sukarno , drs. moh .
-passage 58 score = 7.5
-sentence 1: ir .
-sentence 2: sukarno meminta kepada semua hadirin untuk menandatangani naskah proklamasi selaku wakil-wakil bangsa indonesia .
-sentence 3: pendapat itu diperkuat oleh moh .
-sentence 4: hatta dengan mengambil contoh naskah “ declaration of independence ” dari amerika serikat .
-sentence 5: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
-passage 21 score = 6.75
-sentence 1: undang-undang dasar ( batang tubuh ) .
-sentence 2: c. aktivitas golongan muda angkatan moeda indonesia dan gerakan angkatan baroe indonesia sebelum bpupki dibentuk di bandung pada tanggal 16 mei 1945 telah diadakan kongres pemuda seluruh jawa yang diprakarsai angkatan moeda indonesia .
-sentence 3: organisasi itu sebenarnya dibentuk atas inisitaif jepang pada pertengahan 1944 , akan tetapi kemudian berkembang menjadi suatu pergerakan pemuda yang anti-jepang .
-sentence 4: kongres pemuda itu dihadiri oleh lebih 100 utusan pemuda , pelajar dan mahasiswa seluruh jawa diantaranya djamal ali , chairul saleh , anwar tjokroaminoto , harsono tjokroaminoto serta sejumlah mahasiswa ika daigaku jakarta .
-sentence 5: kongres menghimbau para pemuda di jawa hendaknya bersatu dan mempersiapkan diri untuk melaksanakan proklamasi kemerdekaan yang bukan hadiah jepang .
-passage 22 score = 6.75
-sentence 1: kongres menghimbau para pemuda di jawa hendaknya bersatu dan mempersiapkan diri untuk melaksanakan proklamasi kemerdekaan yang bukan hadiah jepang .
-sentence 2: setelah tiga hari berlangsung kongres akhirnya memutuskan dua buah resolusi , yaitu : 1 .
-sentence 3: semua golongan indonesia , terutama golongan pemuda dipersatukan dan dibulatkan dibawah satu pimpinan nasional .
-sentence 4: 2 .
-sentence 5: dipercepatnya pelaksanaan pernyataan kemerdekaan indonesia .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
 title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
 passage 21 score = 7.25
 sentence 1: ir sukarno , drs mohammad hatta , mr. ahmad subarjo , sayuti melik , sukarni dan b.m. diah masuk ruang makan dirumah laksamana maeda .
@@ -303,383 +241,452 @@ sentence 3: karena keinginannya ditolak , maka beberapa tokoh pemuda seperti ; s
 sentence 4: hasil dari pertemuan tersebut para pemuda sepakat untuk mengasingkan ir .
 sentence 5: sukarno dan drs. mohammad hatta keluar kota jakarta .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-title : kebahagiaan rakyat atas kemerdekaan indonesia
-passage 1 score = 6.75
-sentence 1: kebahagiaan rakyat atas kemerdekaan indonesia - seusai sukses merumuskan teks proklamasi bung karno beramanat terhadap para pemimpin yang bekerja pada pers dan kantor kabar , terutama b.m diah untuk mempertidak sedikit teks proklamasi dan menyiarkannya ke seluruh dunia .
-sentence 2: semua alat komunikasi yang ada dipergunakan untuk menyebarluaskan kabar proklamasi kemerdekaan .
-sentence 3: kabar proklamasi yang sudah menyebar ke seluruh kota jakarta , segera disebarluaskan ke seluruh dunia .
-sentence 4: pada tanggal 17 agustus 1945 teks proklamasi sudah hingga di tangan kepala tahap radio kantor waidan .
-sentence 5: untuk itu f. wuz ( seorang markonis ) menyiarkan kabar proklamasi berturut-turut setiap setengah jam hingga pukul 16.00 saat siaran berhenti mesikipun dilarang oleh pihak jepang .
-passage 3 score = 6.75
-sentence 1: di menteng 31 para pemuda sukses merakit pemancar baru dengan kode panggilan djk i. dari sinilah kabar proklamasi kemerdekaan semakin disiarkan .
-sentence 2: tidak hanya itu juga lewat pers dan surat selebaran .
-sentence 3: hampir seluruh harian di jawa dalam penerbitannya tanggal 20 agustus 1945 memuat kabar proklamasi dan uud negara republik indonesia .
-sentence 4: demikianlah sambutan masyarakat dan usaha-usaha para pemuda di pusat dalam menyebarluaskan kabar proklamasi ke seluruh pelosok tanah air .
-sentence 5: rakyat menyambut kabar proklamasi dengan semangat perjuangan yang tinggi , dibuktikan dengan pelucutan senjata tentara jepang , pengambilan kekuasaan , semangat berkobar untuk semakin berjuang merebut dan mempertahankan kemerdekaan .
-passage 4 score = 6.75
-sentence 1: rakyat menyambut kabar proklamasi dengan semangat perjuangan yang tinggi , dibuktikan dengan pelucutan senjata tentara jepang , pengambilan kekuasaan , semangat berkobar untuk semakin berjuang merebut dan mempertahankan kemerdekaan .
-sentence 2: disamping melewati siaran radio , surat selebaran , kabar proklamasi dengan cara resmi juga dibawa oleh para utusan yang kebetulan menghadiri sidang ppki dan menyaksikan momen proklamasi kemerdekaan indonesia tanggal 17 agustus 1945 di jakarta , yaitu : teuku muhammad hassan ( diangkat menjadi gubernur sumatera ) sam ratulangi ( diangkat menjadi gubernur sulawesi ) ketut pujo ( diangkat menjadi gubernur nusa tenggara ) p. mohammad noor ( diangkat menjadi gubernur kalimantan ) kedatangan para utusan di daerah masing-masing disambut dengan penuh kegembiraan dan diikuti beberapa upacara yang meriah .
-sentence 3: pada tanggal 24 agustus 1945 , antara pemerintah kerajaan inggris dan kerajaan belanda tercapai sebuahpersetujuan yang populer dengan nama civil affairs agreement .
-sentence 4: dalam persetujuan ini disebutkan bahwa panglima tentara pendudukan inggris di indonesia bakal memegang kekuasaan atas nama pemerintah belanda .
-sentence 5: dalam melaksanakan hal-hal yang berkenaan dengan pemerintah sipil , pelaksanaannya diselenggarakan oleh nica dibawah tanggungjawab komando inggris .
-passage 13 score = 6.75
-sentence 1: lagu perjuangan ini melukiskan aspirasi rakyat yang tak mungkin padam untuk merebut kembali kota bandung .
-sentence 2: pertempuran di sumatera ( medan area , 10 desember 1945 ) tanggal 27 agustus 1945 rakyat medan baru mendengar kabar proklamasi yang dibawa oleh mr. teuku moh hassan sebagai gubernur sumatera .
-sentence 3: mengggapi kabar proklamasi para pemuda dibawah ceo achmad lahir membentuk barisan pemuda indonesia .
-sentence 4: pendaratan sekutu di kota medan terjadi pada tanggal 9 oktober 1945 dibawah ceo t.e.d kelly .
-sentence 5: pendaratan tentara sekutu ( inggris ) ini di ikuti oleh pasukan dan nica yangdipersiapkan untuk mengambil alih pemerintahan .
-passage 15 score = 6.75
-sentence 1: ultimatum ini tak sempat dihiraukan .
-sentence 2: pada tanggal .
-sentence 3: pada tanggal 15 desember 194 % sekutu memasang papan yang tertulis.kan “ fixed boundaries medan area ” ( batas resmi wilayah medan ) dibeberapa pinggiran kota medan .
-sentence 4: perbuatan sekutu itu adalah tantangan bagi para pemuda .
-sentence 5: pada tanggal 10 desember 1945 , sekutu dan nica melancarkan serangan besar-besaran terhadap kota medan .
-passage 5 score = 6.5
-sentence 1: dalam melaksanakan hal-hal yang berkenaan dengan pemerintah sipil , pelaksanaannya diselenggarakan oleh nica dibawah tanggungjawab komando inggris .
-sentence 2: kekuasaan itu nanti di kemudian hari bakal dikembalikan terhadap belanda .
-sentence 3: tentara sekutu ( tentara inggris ) mendarat di jakarta pada tanggal 15 september 1945 .
-sentence 4: bersama tentara inggris ikut pula serdadu belanda dan pegawai sipil belanda ( nica ) yang dipimpin oleh van der pals .
-sentence 5: tugas tentara sekutu adalah melucuti senjata tentara jepang dan memulangkan kemabali para tawanan itu ke negerinya .
-passage 6 score = 6.5
-sentence 1: tugas tentara sekutu adalah melucuti senjata tentara jepang dan memulangkan kemabali para tawanan itu ke negerinya .
-sentence 2: untuk melaksanakan tugas tersebut , sekutu membentuk komando khusus yang disebut aliied forses netherland eastindies ( afnei ) .
-sentence 3: sejak tanggal 29 september 1945 , rombongan besar afnei mulai berdatangan ke indonesia .
-sentence 4: belanda dan sekutu yang mendarat di surabaya mengharapkan hotel yamato dijadikan markas angkatan laut belanda .
-sentence 5: bendera merah putih di hotel yamato diturunkan oleh belanda dan diganti dengan bendera belanda .
-passage 9 score = 6.5
-sentence 1: oleh sebab itu , pada tanggal 1 oktober 1945 , jenderal christison mengakui dengan cara de facto negara republic indonesia dan bersedia berunding .
-sentence 2: dengan munculnya kekuatan asing serentak bangsa indonesia berupaya mempertahankan kemerdekaan .
-sentence 3: adapun peran setiap daerah dalam mempertahankan kemerdekaan indonesia terkesan semacam berikut ini : pertempuran di bandung ( 23 maret 1946 ) pasukan sekutu atas izin pemerintah ri pada tanggal 12 oktober 1945 memasuki bandung dengan naik kereta api .
-sentence 4: pemerintah ri mengizinkan pasukan sekutu masuk bandung berfungsi mengurus para tawanan perang ii ( jepang ) .
-sentence 5: pada tanggal 23 november 1945 pemimpin sekutu di bandung mengultimatum supaya bandung utara segera dikosongkan dari pemuda bersenjata .
-passage 10 score = 6.5
-sentence 1: pada tanggal 23 november 1945 pemimpin sekutu di bandung mengultimatum supaya bandung utara segera dikosongkan dari pemuda bersenjata .
-sentence 2: tetapi , para pemuda menolak menyerahkan senjata jadi terjadi pertempuran yang sengit didalam kota .
-sentence 3: pertempuran pertama terjadi pada tanggal 1 desember 1945 .
-sentence 4: oleh sebab pemerintah ri jakarta para pemuda bandung diminta menghentikan pertempuran dan wajib mengosongkan kota bandung .
-sentence 5: dengan berat hati , para pemuda bandung meninggalkan kota .
-passage 14 score = 6.5
-sentence 1: pendaratan tentara sekutu ( inggris ) ini di ikuti oleh pasukan dan nica yangdipersiapkan untuk mengambil alih pemerintahan .
-sentence 2: kedatangan tentara sekutu dan nica nyatanya memacing beberapa iniden .
-sentence 3: pada tanggal 13 oktober 1945 pemuda dan tkr bertempur melawan sekutu dan nica dalam upaya merebut dan mengambil alih gedung-gedung pemerintahan dari tangan jepang .
-sentence 4: inggris mengeluarkan ultimatum terhadap bangsa indonesia supaya menyerahkan senjata terhadap sekutu .
-sentence 5: ultimatum ini tak sempat dihiraukan .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 55 score = 8.5
+sentence 1: ir .
+sentence 2: sukarno yang menuliskan konsep naskah proklamasi , sedangkan drs. moh .
+sentence 3: hatta dan mr ahmad subardjo menyumbangkan pikiran secara lisan .
+sentence 4: kalimat pertama dari naskah proklamasi merupakan saran dari mr. ahmad subardjo yang diambil dari rumusan bpupki .
+sentence 5: sedangkan kalimat terakhir merupakan sumbangan pikiran dari drs. moh .
+passage 59 score = 8.25
+sentence 1: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
+sentence 2: karena mereka beranggapan bahwa sebagian tokoh-tokoh tua yang hadir adalah “ budak-budak ” jepang .
+sentence 3: selanjutnya sukarni , salah satu tokoh golongan muda , mengusulkan agar yang menandatangani naskah proklamasi cukup sukarno-hatta atas nama bangsa indonesia .
+sentence 4: setelah usulan sukarni itu disetujui , maka ir .
+sentence 5: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
+passage 51 score = 8.0
+sentence 1: hal itu juga disebabkan laksamana tadashi maeda telah menyampaikan kepada ahmad subardjo ( sebagai salah satu pekerja di kantor laksamana maeda ) bahwa ia menjamin keselamatan mereka selama berada di rumahnya .
+sentence 2: sebelum mereka memulai merumuskan naskah proklamasi , terlebih dahulu sukarno dan hatta menemui somubuco ( kepala pemerintahan umum ) mayor jenderal nishimura , untuk menjajagi sikapnya mengenai proklamasi kemerdekaan .
+sentence 3: mereka ditemani oleh laksamana maeda , shigetada nishijima dan tomegoro yoshizumi serta miyoshi sebagai penterjemah .
+sentence 4: pertemuan itu tidak mencapai kata sepakat .
+sentence 5: nishimura menegaskan bahwa garis kebijakan panglima tentara keenambelas di jawa adalah “ dengan menyerahnya jepang kepada sekutu berlaku ketentuan bahwa tentara jepang tidak diperbolehkan lagi merubah status quo ( status politik indonesia ) .
+passage 61 score = 8.0
+sentence 1: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
+sentence 2: sukarni mengusulkan bahwa lapangan ikada ( sekarang bagian tenggara lapangan monumen nasional ) telah dipersiapkan bagi berkumpulnya masyarakat jakarta untuk mendengar pembacaan naskah proklamasi .
+sentence 3: namun ir .
+sentence 4: sukarno menganggap lapangan ikada adalah salah satu lapangan umum yang dapat menimbulkan bentrokan antara rakyat dengan pihak militer jepang .
+sentence 5: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
+passage 62 score = 8.0
+sentence 1: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
+sentence 2: h. pelaksanaan proklamasi kemerdekaan 17 agustus 1945 pada pukul 05.00 waktu jawa tanggal 17 agustus 1945 , para pemimpin indonesia dari golongan tua dan golongan muda keluar dari rumah laksamana maeda .
+sentence 3: mereka pulang ke rumah masing-masing setelah berhasil merumuskan naskah proklamasi .
+sentence 4: mereka telah sepakat untuk memproklamasikan kemerdekaan pada pukul 10.30 waktu jawa atau pukul 10.00 wib sekarang .
+sentence 5: sebelum pulang bung hatta berpesan kepada para pemuda yang bekerja di kantor berita dan pers , utamanya b.m. diah untuk memperbanyak teks proklamasi dan menyiarkannya ke seluruh dunia .
+passage 60 score = 7.75
+sentence 1: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
+sentence 2: ada tiga perubahan yang terdapat pada naskah ketikan sajuti melik , yaitu : kata “ tempoh ” diganti “ tempo ” , sedangkan kata “ wakil-wakil bangsa indonesia ” diganti dengan “ atas nama bangsa indonesia ” .
+sentence 3: perubahan juga dilakukan dalam cara menuliskan tanggal , yaitu “ djakarta , 17-8-05 ” menjadi “ djakarta , hari 17 boelan 8 tahoen ‘ 05 ” .
+sentence 4: sehingga naskah proklamasi ketikan sajuti melik itu , adalah sebagai berikut : proklamasi kami bangsa indonesia dengan ini menjatakan kemerdekaan indonesia .
+sentence 5: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
+passage 53 score = 7.5
+sentence 1: akhirnya mereka hanya mengharapkan pihak jepang tidak menghalang-halangi pelaksanaan proklamasi yang akan dilaksanakan oleh rakyat indonesia sendiri .
+sentence 2: maka mereka kembali ke rumah laksamana maeda .
+sentence 3: sebagai tuan rumah maeda mengundurkan diri ke lantai dua .
+sentence 4: sedangkan di ruang makan , naskah proklamasi dirumuskan oleh tiga tokoh golongan tua , yaitu : ir .
+sentence 5: sukarno , drs. moh .
+passage 58 score = 7.5
+sentence 1: ir .
+sentence 2: sukarno meminta kepada semua hadirin untuk menandatangani naskah proklamasi selaku wakil-wakil bangsa indonesia .
+sentence 3: pendapat itu diperkuat oleh moh .
+sentence 4: hatta dengan mengambil contoh naskah “ declaration of independence ” dari amerika serikat .
+sentence 5: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
+passage 21 score = 6.75
+sentence 1: undang-undang dasar ( batang tubuh ) .
+sentence 2: c. aktivitas golongan muda angkatan moeda indonesia dan gerakan angkatan baroe indonesia sebelum bpupki dibentuk di bandung pada tanggal 16 mei 1945 telah diadakan kongres pemuda seluruh jawa yang diprakarsai angkatan moeda indonesia .
+sentence 3: organisasi itu sebenarnya dibentuk atas inisitaif jepang pada pertengahan 1944 , akan tetapi kemudian berkembang menjadi suatu pergerakan pemuda yang anti-jepang .
+sentence 4: kongres pemuda itu dihadiri oleh lebih 100 utusan pemuda , pelajar dan mahasiswa seluruh jawa diantaranya djamal ali , chairul saleh , anwar tjokroaminoto , harsono tjokroaminoto serta sejumlah mahasiswa ika daigaku jakarta .
+sentence 5: kongres menghimbau para pemuda di jawa hendaknya bersatu dan mempersiapkan diri untuk melaksanakan proklamasi kemerdekaan yang bukan hadiah jepang .
+passage 22 score = 6.75
+sentence 1: kongres menghimbau para pemuda di jawa hendaknya bersatu dan mempersiapkan diri untuk melaksanakan proklamasi kemerdekaan yang bukan hadiah jepang .
+sentence 2: setelah tiga hari berlangsung kongres akhirnya memutuskan dua buah resolusi , yaitu : 1 .
+sentence 3: semua golongan indonesia , terutama golongan pemuda dipersatukan dan dibulatkan dibawah satu pimpinan nasional .
+sentence 4: 2 .
+sentence 5: dipercepatnya pelaksanaan pernyataan kemerdekaan indonesia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-title : pembacaan proklamasi pukul 10.00 pagi
-passage 1 score = 8.0
-sentence 1: pembacaan proklamasi pukul 10.00 pagi - hari jumat pada bulan ramadhan , pukul 05.00 pagi , fajar 17 agustus 1945 memancar di ufuk timur .
-sentence 2: embun pagi tetap menggelantung di tepian daun .
-sentence 3: para pemimpin bangsa serta para tokoh pemuda keluar dari rumah laksamana maeda , dengan diliputi kebanggaan seusai merumuskan teks proklamasi hingga dinihari .
-sentence 4: mereka , telah sepakat untuk memproklamasikan kemerdekaan bangsa indonesia hari itu di rumah soekarno , jalan pegangsaan timur no. 56 jakarta , pada pukul 10.00 pagi .
-sentence 5: bung hatta pernah beramanat terhadap para pemuda yang bekerja pada pers serta kantor-kantor kabar , untuk mempertidak sedikit naskah proklamasi serta menyebarkannya ke seluruh dunia .
-passage 2 score = 8.0
-sentence 1: bung hatta pernah beramanat terhadap para pemuda yang bekerja pada pers serta kantor-kantor kabar , untuk mempertidak sedikit naskah proklamasi serta menyebarkannya ke seluruh dunia .
-sentence 2: menjelang pelaksanaan proklamasi kemerdekaan , suasana di jalan pegangsaan timur 56 lumayan sibuk .
-sentence 3: wakil walikota , soewirjo , memerintahkan terhadap mr. wilopo untuk mempersiapkan peralatan yang diperlukan semacam mikrofon serta berbagai pengeras suara .
-sentence 4: sedangkan sudiro memerintahkan terhadap s. suhud untuk mempersiapkan satu tiang bendera .
-sentence 5: sebab situasi yang tegang , suhud tak ingat bahwa di depan rumah soekarno itu , tetap ada dua tiang bendera dari logam yang tak dipakai .
-passage 4 score = 6.75
-sentence 1: bendera yang dijahit dengan tangan oleh nyonya fatmawati soekarno telah disiapkan .
-sentence 2: bentuk serta ukuran bendera itu tak standar , sebab kainnya berkapasitas tak sempurna .
-sentence 3: terbukti , kain itu awalnya tak disiapkan untuk bendera .
-sentence 4: sementara itu , rakyat yang telah mengenal bakal dilaksanakan proklamasi kemerdekaan telah berkumpul .
-sentence 5: rumah soekarno telah dipadati oleh sejumlah massa pemuda serta rakyat yang berbaris teratur .
-passage 5 score = 6.75
-sentence 1: rumah soekarno telah dipadati oleh sejumlah massa pemuda serta rakyat yang berbaris teratur .
-sentence 2: berbagai orang tampak gelisah , khawatir bakal adanya pengacauan dari pihak jepang .
-sentence 3: matahari terus tinggi , proklamasi belum juga dimulai .
-sentence 4: waktu itu soekarno terserang sakit , malamnya panas dingin terus menerus serta baru tidur seusai berakhir merumuskan teks proklamasi .
-sentence 5: para undangan telah tak sedikit berdatangan , rakyat yang telah menantikan sejak pagi , mulai tak sabar lagi .
-passage 17 score = 6.75
-sentence 1: bendera dikerek dengan lambat sekali , untuk menyesuaikan dengan irama lagu indonesia raya yang lumayan panjang .
-sentence 2: seusai pengibaran bendera , dilanjutkan dengan pidato sambutan dari walikota soewirjo serta dr. muwardi .
-sentence 3: seusai upacara pembacaan proklamasi kemerdekaan , sepasukan barisan pelopor yang berjumlah tak lebih lebih 100 orang di bawah ceo s. brata , memasuki halaman rumah soekarno .
-sentence 4: mereka datang telat .
-sentence 5: dengan suara lantang penuh sedih s. brata meminta supaya bung karno membacakan proklamasi sekali lagi .
-passage 20 score = 6.75
-sentence 1: sudiro telah bisa menerka , untuk apa mereka datang .
-sentence 2: para anak buah barisan pelopor mulai mengepungnya .
-sentence 3: bung karno telah menggunakan piyama ketika sudiro masuk , jadi terpaksa berpakaian lagi .
-sentence 4: kemudian terjadi obrolan antara utusan jepang dengan bung karno : " kami diutus oleh gunseikan kakka , datang kemari untuk melarang soekarno mengucapkan proklamasi . " "
-sentence 5: proklamasi telah saya ucapkan , " jawab bung karno dengan tenang . "
-passage 10 score = 6.5
-sentence 1: saya telah minta saudara hadir di sini , untuk menyaksikan sebuahmomen maha penting dalam sejarah kita .
-sentence 2: berpuluh-puluh tahun kami bangsa indonesia telah berjuang untuk kemerdekaan tanah air kita .
-sentence 3: bahkan telah beratus-ratus tahun .
-sentence 4: gelombangnya aksi kami untuk mencapai kemerdekaan kami itu ada naiknya ada turunnya .
-sentence 5: tetapi jiwa kami tetap menuju ke arah impian .
-passage 19 score = 6.5
-sentence 1: hari ini permintaannya dipenuhi .
-sentence 2: berakhir upacara itu rakyat tetap belum mau beranjak , berbagai anak buah barisan pelopor tetap duduk-duduk bergerombol di depan kamar bung karno .
-sentence 3: tidak lama seusai bung hatta pulang , datang tiga orang pembesar jepang .
-sentence 4: mereka diperintahkan menantikan di ruang belakang , tanpa diberi kursi .
-sentence 5: sudiro telah bisa menerka , untuk apa mereka datang .
-passage 22 score = 6.5
-sentence 1: jawab bung karno .
-sentence 2: di sekeliling utusan jepang itu , mata para pemuda melotot serta tangan mereka telah diletakkan di atas golok masing-masing .
-sentence 3: menonton kondisi semacam itu , orang-orang jepang itu pun segera pamit .
-sentence 4: sementara itu , latief hendraningrat tercenung memikirkan kelalaiannya .
-sentence 5: sebab dicekam suasana tegang , ia lupa menelpon soetarto dari pfn untuk mendokumentasikan momen itu .
-passage 6 score = 6.25
-sentence 1: para undangan telah tak sedikit berdatangan , rakyat yang telah menantikan sejak pagi , mulai tak sabar lagi .
-sentence 2: mereka yang diliputi suasana tegang bercita-cita keras supaya proklamasi segera diperbuat .
-sentence 3: para pemuda yang tak sabar , mulai mendesak bung karno untuk segera membacakan teks proklamasi .
-sentence 4: tetapi , bung karno tak mau membacakan teks proklamasi tanpa keberadaan mohammad hatta .
-sentence 5: lima menit sebelum agenda dimulai , mohammad hatta datang dengan pakaian putih-putih serta langsung menuju kamar soekarno .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-title : s. suhud pengibar bendera pusaka sewaktu proklamasi
-passage 2 score = 5.75
-sentence 1: sejak tanggal 14 agustus 1945 , dia menugaskan soehoed ( foto diatas , tampak dalam proklamasi foto sebagai seorang pemuda bercelana pendek ) dan beberapa orang pelopor istimewa untuk menjaga keluarga soekarno .
-sentence 2: pada tanggal 16 agustus 1945 subuh , soehoed melaporkan bahwa telah datang soekarni dan chaerul saleh dan kawan-kawannya .
-sentence 3: soehoed tidak curiga karena caherul juga anggota pelopor istimewa .
-sentence 4: demikian juga ketika soekarno sekeluarga dibawa pergi tidak ada kecurigaan sebagai peristiwa penculikan .
-sentence 5: pada mereka timbul semangat lagi ketika soekarno kembali pada tanggal 16 agustus 1945 malam hari .
-passage 6 score = 5.75
-sentence 1: tidak tampak wajah wikana , soekarni , chaerul saleh maupun adam malik .
-sentence 2: dimuka beranda rumah sudah terpasang mikrofon dan versterker ( amplifier ) yang disewa dari gunawan pemilik perusahaan jasa penyewaan sound system “ radio satrija ” yang beralamat dijalan salemba tengah no. 24 .
-sentence 3: acara proklamasi sederhana ini mengikuti mata acara yang dipersiapkan yaitu : pembacaan proklamasi oleh soekarno disambung pidato singkat .
-sentence 4: pengerekan bendera merah putih , sambutan soewirjo dan sambutan dr muwardi .
-sentence 5: pada acara yang terjadi , pertama , soekarno membaca proklamasi yang sudah diketik sajuti melik dan telah ditandatangani soekarno-hatta .
-passage 12 score = 5.75
-sentence 1: karena masih kurang puas mereka minta kepada hatta untuk memberikan amanat singkat .
-sentence 2: hatta kemudian meluluskannya .
-sentence 3: yang juga terlambat adalah dr radjiman wedjodiningrat dan beberapa anggota ppki .
-sentence 4: setelah acara selesai , soediro dan dr muwardi memilih 6 orang anggota barisan pelopor istimewa , pelatih pencak silat menjadi pengawal soekarno-hatta kelompok ini dipimpin oleh soemartojo .
-sentence 5: sampai selesainya proklamasi fihak jepang tidak menyadari apa yang telah terjadi .
-passage 1 score = 5.25
-sentence 1: s. suhud pengibar bendera pusaka sewaktu proklamasi s. suhud atau lengkapnya suhud sastro kusumo , beliau adalah salah seorang pengibar bendera pusaka saat proklamasi kemerdekaan indonesia pada tanggal 17 agustus 1945 .
-sentence 2: tepatnya sebagai pendamping pak latif hendraningrat .
-sentence 3: bagaimana ceritanya soal peristiwa proklamasi ini ?
-sentence 4: soediro ( mantan walikota jakarta tahun 50-an ) , saat tahun 1945 menjabat wakil kepala barisan pelopor , bercerita .
-sentence 5: sejak tanggal 14 agustus 1945 , dia menugaskan soehoed ( foto diatas , tampak dalam proklamasi foto sebagai seorang pemuda bercelana pendek ) dan beberapa orang pelopor istimewa untuk menjaga keluarga soekarno .
-passage 5 score = 5.25
-sentence 1: maka dengan cepat disebarkanlah pembetulan informasi bahwa pelaksanaan proklamasi dipindahkan di pegangsaan timur 56 .
-sentence 2: kepada soehoed diperintahkan untuk menyiapkan tiang bendera tepat dimuka kamar depan , hanya beberapa meter dari teritis rumah .
-sentence 3: setelah itu soediro pulang kerumahnya sebentar .
-sentence 4: ketika dia kembali dilihatnya telah hadir walikota soewirjo , dr muwardi , mr wilopo , mr abdul gafar pringgodigdo , tabrani , sk trimurti dan masih banyak lagi .
-sentence 5: tidak tampak wajah wikana , soekarni , chaerul saleh maupun adam malik .
-passage 7 score = 5.25
-sentence 1: pada acara yang terjadi , pertama , soekarno membaca proklamasi yang sudah diketik sajuti melik dan telah ditandatangani soekarno-hatta .
-sentence 2: kemudian soekarno berpidato singkat tanpa teks .
-sentence 3: setelah itu beliau berdoa seraya mengangkat kedua telapak tangannya .
-sentence 4: untuk pengerekan bendera awalnya diminta kesediaan trimurti , tapi dia menolak lalu mengusulkan sebaiknya dilakukan oleh seorang prajurit .
-sentence 5: maka latif hendraningrat , yang masih memakai seragam lengkap peta , maju kedepan sampai dekat tiang bendera .
-passage 9 score = 5.25
-sentence 1: melihat foto proklamasi , nampak membelakangi lensa fatmawati dan trimurti .
-sentence 2: tampak soekarno bersama hatta lebih maju dari tempat berdiri saat pembacaan proklamasi .
-sentence 3: sebuah foto lain yang diambil dari belakang soekarno , menggambarkan para hadirin lainnya yang berdiri dekat tiang bendera .
-sentence 4: mereka terdiri dari para pemuda-mahasiswa ika dai gakku .
-sentence 5: pada acara ketiga , soewirjo yang dizaman jepang sudah menjabat wakil walikota berpidato .
-passage 3 score = 0.25
-sentence 1: pada mereka timbul semangat lagi ketika soekarno kembali pada tanggal 16 agustus 1945 malam hari .
-sentence 2: berkaitan dengan perintah dr muwardi ( pimpinan barisan pelopor jakarta ) untuk melakukan persiapan upacara 17 agustus 1945 , soediro memanggil para pembantunya untuk turut menyebarkan akan adanya acara sangat penting pada tanggal 17 agustus 1945 .
-sentence 3: misalnya k.gunadi diserahkan tugas untuk menyampaikan instruksi tertulis yang ditujukan pada para anggota barisan pelopor istimewa dan eksponen barisan pelopor lainnya .
-sentence 4: sedangkan daitai-daitai ( pimpinan di kawedanaan ) dan cutai-cutai ( pimpinan dikecamatan ) banyak yang sudah dihubungi sendiri , secara pertilpun atau perkurir .
-sentence 5: instruksinya antara lain , berkumpul dilapangan ikada tanpa membawa panji pelopor pada jam 11.00 untuk keperluan menghadiri upacara penting .
-passage 4 score = 0.25
-sentence 1: instruksinya antara lain , berkumpul dilapangan ikada tanpa membawa panji pelopor pada jam 11.00 untuk keperluan menghadiri upacara penting .
-sentence 2: ketika dengan bersepeda soediro pagi harinya menuju ikada , dia heran karena melihat disitu banyak jepang bersenjata .
-sentence 3: timbul pertanyaan dibenaknya , apakah berita sudah bocor ?
-sentence 4: dia lalu menghubungi dr muwardi dirumahnya dan dari penjelasan dr muwardi ternyata proklamasi tidak jadi di ikada tapi dirumah soekarno .
-sentence 5: maka dengan cepat disebarkanlah pembetulan informasi bahwa pelaksanaan proklamasi dipindahkan di pegangsaan timur 56 .
-passage 8 score = 0.25
-sentence 1: maka latif hendraningrat , yang masih memakai seragam lengkap peta , maju kedepan sampai dekat tiang bendera .
-sentence 2: soehoed didampingi seorang pemudi muncul dari belakang membawa sebuah baki nampan berisi bendera merah putih ( bendera pusaka yang dijahit fatmawati beberapa waktu sebelumnya ) .
-sentence 3: maka dikereklah bendera tersebut oleh latif dibantu soehoed .
-sentence 4: setelah berkibar , spontan hadirin menyanyikan lagu indonesia raya .
-sentence 5: melihat foto proklamasi , nampak membelakangi lensa fatmawati dan trimurti .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
 title : perumusan teks proklamasi hingga pagi
-passage 5 score = 7.5
+passage 5 score = 8.5
 sentence 1: momen ini disaksikan oleh miyoshi sebagai orang kepercayaan nishimura , bersama dengan tiga orang tokoh pemuda lainnya , yaitu : sukarni , mbah diro dan b.m. diah .
 sentence 2: sementara itu tokoh-tokoh lainnya , baik dari golongan muda maupun golongan tua menantikan di serambi muka .
 sentence 3: ir .
 sentence 4: sukarno yang menuliskan konsep naskah proklamasi , sedangkan drs. moh .
 sentence 5: hatta dan mr ahmad subardjo menyumbangkan pikiran dengan cara lisan .
-passage 1 score = 7.0
+passage 1 score = 8.0
 sentence 1: perumusan teks proklamasi hingga pagi - rombongan tiba kembali di jakarta pada pukul 23.30 waktu jawa .
 sentence 2: seusai sukarno dan hatta singgah di rumah masing-masing rombongan kemudian menuju ke rumah laksamana maeda di jalan imam bonjol no. 1 , jakarta ( sekarang perpustakaan nasional ) .
 sentence 3: faktor itu juga dikarenakan laksamana tadashi maeda telah memberi tau terhadap ahmad subardjo ( sebagai salah satu pekerja di kantor laksamana maeda ) bahwa ia menjamin keselamatan mereka selagi berada di rumahnya .
 sentence 4: sebelum mereka mengawali merumuskan naskah proklamasi , terlebih dahulu sukarno dan hatta menemui somubuco ( kepala pemerintahan umum ) mayor jenderal nishimura , untuk menjajagi sikapnya mengenai proklamasi kemerdekaan .
 sentence 5: mereka dikawani oleh laksamana maeda , shigetada nishijima dan tomegoro yoshizumi dan miyoshi sebagai penterjemah .
-passage 4 score = 7.0
+passage 4 score = 8.0
 sentence 1: sebagai baginda rumah maeda mengundurkan diri ke lantai dua .
 sentence 2: sedangkan di ruang makan , naskah proklamasi dirumuskan oleh tiga tokoh golongan tua , yaitu : ir .
 sentence 3: sukarno , drs. moh .
 sentence 4: hatta dan mr. ahmad subardjo .
 sentence 5: momen ini disaksikan oleh miyoshi sebagai orang kepercayaan nishimura , bersama dengan tiga orang tokoh pemuda lainnya , yaitu : sukarni , mbah diro dan b.m. diah .
-passage 6 score = 7.0
+passage 6 score = 8.0
 sentence 1: hatta dan mr ahmad subardjo menyumbangkan pikiran dengan cara lisan .
 sentence 2: kalimat pertama dari naskah proklamasi adalah saran dari mr. ahmad subardjo yang diambil dari rumusan bpupki .
 sentence 3: sedangkan kalimat terbaru adalah sumbangan pikiran dari drs. moh .
 sentence 4: hatta .
 sentence 5: faktor itu dikarenakan menurut beliau butuh adanya tambahan pernyataan pengalihan kekuasaan ( transfer of sovereignty ) .
-passage 11 score = 7.0
+passage 11 score = 8.0
 sentence 1: jadi naskah proklamasi ketikan sajuti melik itu , adalah sebagai berikut : selanjutnya muncul masalah dimanakah proklamasi bakal diselenggarakan .
 sentence 2: sukarni menganjurkan bahwa lapangan ikada ( sekarang tahap tenggara lapangan monumen nasional ) telah dipersiapkan bagi berkumpulnya masyarakat jakarta untuk mendengar pembacaan naskah proklamasi .
 sentence 3: tetapi ir .
 sentence 4: sukarno berpendapat lapangan ikada adalah salah satu lapangan umum yang bisa memunculkan bentrokan antara rakyat dengan pihak militer jepang .
 sentence 5: oleh sebab itu bung karno menganjurkan supaya upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
-passage 10 score = 6.75
+passage 10 score = 7.75
 sentence 1: seusai usulan sukarni itu disetujui , maka ir .
 sentence 2: sukarno meminta terhadap sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
 sentence 3: ada tiga perubahan yang tersedia pada naskah ketikan sajuti melik , yaitu : kata “ tempoh ” diganti “ tempo ” , sedangkan kata “ wakil-wakil bangsa indonesia ” diganti dengan “ atas nama bangsa indonesia ” .
 sentence 4: perubahan juga diperbuat dalam tutorial menuliskan tanggal , yaitu “ djakarta , 17-8-05 ” menjadi “ djakarta , hari 17 boelan 8 tahoen ‘ 05 ” .
 sentence 5: jadi naskah proklamasi ketikan sajuti melik itu , adalah sebagai berikut : selanjutnya muncul masalah dimanakah proklamasi bakal diselenggarakan .
-passage 9 score = 6.5
+passage 9 score = 7.5
 sentence 1: hatta dengan mengambil contoh naskah “ declaration of independence ” dari amerika serikat .
 sentence 2: usulan tersebut dimengenai oleh tokoh-tokoh pemuda .
 sentence 3: sebab mereka berasumsi bahwa sebagian tokoh-tokoh tua yang hadir adalah “ budak-budak ” jepang .
 sentence 4: selanjutnya sukarni , salah satu tokoh golongan muda , menganjurkan supaya yang menandatangani naskah proklamasi lumayan sukarno-hatta atas nama bangsa indonesia .
 sentence 5: seusai usulan sukarni itu disetujui , maka ir .
-passage 2 score = 5.75
+passage 2 score = 6.75
 sentence 1: mereka dikawani oleh laksamana maeda , shigetada nishijima dan tomegoro yoshizumi dan miyoshi sebagai penterjemah .
 sentence 2: pertemuan itu tak mencapai kata sepakat .
 sentence 3: nishimura menegaskan bahwa garis kebijakan panglima tentara keenambelas di jawa adalah “ dengan menyerahnya jepang terhadap sekutu berlaku ketentuan bahwa tentara jepang tak diperbolehkan lagi mengubah status quo ( status politik indonesia ) .
 sentence 4: sejak tengah hari sebelumnya tentara jepang semata-mata telah adalah alat sekutu dan diwajibkan tunduk terhadap sekutu ” .
 sentence 5: berdasarkan garis kebijakan itu nishimura melarang sukarno-hatta untuk mengadakan rapat ppki dalam rangka proklamasi kemerdekaan .
-passage 12 score = 5.75
+passage 12 score = 6.75
 sentence 1: oleh sebab itu bung karno menganjurkan supaya upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
 sentence 2: [ gs ]
-passage 3 score = 5.25
+passage 3 score = 6.25
 sentence 1: berdasarkan garis kebijakan itu nishimura melarang sukarno-hatta untuk mengadakan rapat ppki dalam rangka proklamasi kemerdekaan .
 sentence 2: sampailah sukarno-hatta pada kesimpulan bahwa tak ada gunanya lagi menuturkan kemerdekaan indonesia dengan pihak jepang .
 sentence 3: akhirnya mereka hanya menginginkan pihak jepang tak menghalang-halangi pelaksanaan proklamasi yang bakal dilaksanakan oleh rakyat indonesia sendiri .
 sentence 4: maka mereka kembali ke rumah laksamana maeda .
 sentence 5: sebagai baginda rumah maeda mengundurkan diri ke lantai dua .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
-title : yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok110.txt
+title : aktivitas perjuangan dalam mempersiapkan kemerdekaan
+passage 1 score = 6.5
+sentence 1: 1 .
+sentence 2: terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpipki ) sampai pertengahan tahun 1944 , kedudukan jepang dalam perang asiapasifik sudah sangat terdesak .
+sentence 3: di berbagai medan pertempuran , jepang menderita kekalahan .
+sentence 4: pada tanggal 7 september 1944 dalam sidang parlemen jepang di tokyo , perdana menteri kuniaki koiso ( pengganti tojo ) memberikan janji kemerdekaan di kelak kemudian hari kepada rakyat indonesia .
+sentence 5: pada tanggal 1 maret 1945 penguasa pemerintah pendudukan jepang di jawa , letjen kumakichi harada mengumumkan terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpupki = dokuritsu junbi cosakai ) .
+passage 4 score = 6.5
+sentence 1: mereka berturut-turut ialah mr. moh .
+sentence 2: yamin , prof. dr. mr. supomo , dan ir .
+sentence 3: soekarno .
+sentence 4: pada tanggal 29 mei 1945 dalam pidatonya mr. muh .
+sentence 5: yamin mengemukakan tentang asas dasar kesatuan negara indonesia merdeka , yakni sebagai berikut : 1 ) peri kebangsaan ; 2 ) peri kemanusiaan ; 3 ) peri ketuhanan ; 4 ) peri kerakyatan ; 5 ) kesejahteraan rakyat .
+passage 5 score = 6.5
+sentence 1: yamin mengemukakan tentang asas dasar kesatuan negara indonesia merdeka , yakni sebagai berikut : 1 ) peri kebangsaan ; 2 ) peri kemanusiaan ; 3 ) peri ketuhanan ; 4 ) peri kerakyatan ; 5 ) kesejahteraan rakyat .
+sentence 2: pembicara kedua , prof. dr. mr. supomo yang tampil pada tanggal 31 mei 1945 dan mengemukakan dasar negara untuk indonesia merdeka sebagai berikut : 1 ) paham negara kesatuan ; 2 ) perhubungan negara dan agama ; 3 ) sistem badan permusyawaratan ; 4 ) sosialisme indonesia ; 5 ) hubungan antarbangsa .
+sentence 3: pada tanggal 1 juni 1945 ir .
+sentence 4: soekarno tampil berbicara tentang dasar negara indonesia merdeka yang juga atas lima dasar , yakni sebagai berikut : 1 ) kebangsaan indonesia ; 2 ) internasionalisme atau peri kemanusiaan ; 3 ) mufakat atau demokrasi ; 4 ) kesejahteraan sosial ; 5 ) ketuhanan yang maha esa .
+sentence 5: kelima asas itu atas petunjuk seorang ahli bahasa oleh ir .
+passage 8 score = 6.5
+sentence 1: yamin .
+sentence 2: panitia sembilan diketuai oleh ir .
+sentence 3: soekarno .
+sentence 4: mereka menghasilkan suatu rumusan yang menggambarkan asas dan tujuan terbentuknya negara indonesia merdeka , akhirnya diterima dan ditanda tangani pada tanggal 22 juni 1945 .
+sentence 5: oleh moh.yamin rumusan panitia sembilan itu diberi nama piagam jakarta atau jakarta charter .
 passage 10 score = 6.5
-sentence 1: mereka berusaha meyakinkan bung karno bahwa jakarta tidak aman karena jakarta akan menjadi lautan api , sehingga mereka ingin mengamankan bung karno dan bung hatta ke rengasdengklok .
-sentence 2: kedua pemimpin tersebut setuju dan berangkatlah mereka menggunakan mobil ke rengasdengklok .
-sentence 3: hari itu tak hanya serdadu jepang yang sibuk mencari bung karno dan bung hatta , para anggota ppki ( panitia persiapan kemerdekaan indonesia ) juga mencari karena sedianya hari itu dilakukan rapat .
-sentence 4: malam harinya kedua pemimpin tersebut kembali ke jakarta dan langsung melakukan rapat perumusan naskah proklamasi di rumah laksamana tadashi mayda di jalan imam bonjol no. 1 dengan dihadiri anggota ppki dan angkatan muda .
-sentence 5: kembali ke jalan medan merdeka , hari jumat 17 agustus 1945 , radio hoso kyoku tetap melakukan siaran seperti biasa .
+sentence 1: 4 ) kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan .
+sentence 2: 5 ) keadilan sosial bagi seluruh rakyat indonesia .
+sentence 3: setelah mengalami beberapa perubahan , terutama rumusan dasar negara ( sila pertama ) , piagam jakarta kemudian dijadikan pembukaan uud 1945 .
+sentence 4: b. masa sidang kedua ( 10-17 juli 1945 ) pada sidang yang kedua ini bpupkitelah membentuk tiga buah panitia , yakni : 1 ) panitia perancang uud , yang diketuai oleh ir .
+sentence 5: soekarno .
+passage 11 score = 6.5
+sentence 1: soekarno .
+sentence 2: 2 ) panitia ekonomi dan keuangan , diketuai oleh drs. moh .
+sentence 3: hatta .
+sentence 4: 3 ) panitia pembela tanah air yang diketuai oleh abikusno cokrosuyoso .
+sentence 5: dalam sidang yang kedua , bpupki akan membahas adalah rancangan undang-undang dasar .
+passage 15 score = 6.5
+sentence 1: soekarno , drs. moh .
+sentence 2: hatta , dan dr. radjiman wediodiningrat berangkat ke dalat ( vietnam selatan ) atas panggilan jendral terauchi , panglima tentara jepang di asia tenggara .
+sentence 3: dalam pertemuannya tanggal 12 agustus 1945 , jenderal terauchi menyampaikan kepada tiga pemimpin indonesia tersebut bahwa pemerintah kemaharajaan jepang akan memberikan kemerdekaan kepada indonesia ( direncanakan 24 agustus ) .
+sentence 4: wilayah indonesia akan meliputi seluruh wilayah bekas hindia belanda .
+sentence 5: anggota ppki berjumlah 21 orang yang terdiri atas wakil-wakil dari seluruh indonesia dengan rincian 12 orang wakil dari jawa , 3 orang wakil dari sumatra , 2 orang wakil dari sulawesi , dan masing-masing seorang wakil dari kalimantan , sunda kecil ( nusa tenggara ) , maluku , dan penduduk cina .
+passage 16 score = 6.5
+sentence 1: anggota ppki berjumlah 21 orang yang terdiri atas wakil-wakil dari seluruh indonesia dengan rincian 12 orang wakil dari jawa , 3 orang wakil dari sumatra , 2 orang wakil dari sulawesi , dan masing-masing seorang wakil dari kalimantan , sunda kecil ( nusa tenggara ) , maluku , dan penduduk cina .
+sentence 2: yang diangkat sebagai ketua adalah ir .
+sentence 3: soekarno , wakil ketua adalah drs. moh .
+sentence 4: hatta , sedangkan mr. ahmad soebarjo diangkat sebagai penasihat .
+sentence 5: oleh orang indonesia sendiri , ppki ditambah enam orang anggota lagi tanpa seizin pemerintah jepang .
+passage 17 score = 6.5
+sentence 1: oleh orang indonesia sendiri , ppki ditambah enam orang anggota lagi tanpa seizin pemerintah jepang .
+sentence 2: pada tanggal 14 agustus 1945 , ir .
+sentence 3: soekarno , drs. moh .
+sentence 4: hatta , dan dr. rajiman wediodiningrat telah kembali di tanah .
+sentence 5: sementara itu , jepang telah menyerah kepada sekutu .
+passage 12 score = 6.25
+sentence 1: dalam sidang yang kedua , bpupki akan membahas adalah rancangan undang-undang dasar .
+sentence 2: mereka menyetujui bahwa naskah pembukaan uud akan diambilkan dari naskah piagam jakarta .
+sentence 3: panitia kemudian membentuk panitia kecil yang diketuai oleh prof. dr. mr. soepomo untuk merumuskannya .
+sentence 4: selanjutnya , pada tanggal 14 juli 1945 , ir .
+sentence 5: soekarno melaporkan hasil kerja panitia kecil kepada sidang yang terdiri atas tiga hal berikut .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok39.txt
+title : aktivitas perjuangan dalam mempersiapkan kemerdekaan
+passage 1 score = 5.5
+sentence 1: 1 .
+sentence 2: terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpipki ) sampai pertengahan tahun 1944 , kedudukan jepang dalam perang asiapasifik sudah sangat terdesak .
+sentence 3: di berbagai medan pertempuran , jepang menderita kekalahan .
+sentence 4: pada tanggal 7 september 1944 dalam sidang parlemen jepang di tokyo , perdana menteri kuniaki koiso ( pengganti tojo ) memberikan janji kemerdekaan di kelak kemudian hari kepada rakyat indonesia .
+sentence 5: pada tanggal 1 maret 1945 penguasa pemerintah pendudukan jepang di jawa , letjen kumakichi harada mengumumkan terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpupki = dokuritsu junbi cosakai ) .
 passage 4 score = 5.5
-sentence 1: suasana pagi itu tampak lain , beberapa orang jepang yang bekerja di radio tersebut tampak bergerombol , mereka berbisik-bisik dalam suasana yang muram , bahkan gadis-gadis jepang terlihat menangis .
-sentence 2: ternyata pada saat itu bom atom kedua sudah dijatuhkan di nagasaki dan jepang menyerah kepada sekutu .
-sentence 3: kabar tentang menyerahnya jepang disampaikan oleh mochtar lubis yang juga bekerja di radio tersebut di bagian monitoring .
-sentence 4: mochtar adalah satu-satunya orang indonesia yang diizinkan mendengarkan siaran radio asing .
-sentence 5: merasa bahwa hal itu penting untuk disampaikan kepada teman-temannya yang biasa berkumpul di menteng raya 31 , berangkatlah jusuf mengendarai sepedanya untuk memberikan kabar kekalahan jepang .
-passage 8 score = 5.5
-sentence 1: diisolasi hari itu pimpinan hoso kyoku menyampaikan dua pengumuman kepada para karyawan .
-sentence 2: pertama , para karyawan yang sudah di kantor dilarang keluar lagi dan yang di luar tidak diizinkan masuk .
-sentence 3: kedua , siaran luar negeri dihentikan ( mungkin agar berita kekalahan jepang tidak sampai ke rakyat indonesia ) .
-sentence 4: jadilah mereka semua diisolasi di kantor radio dan terpaksa bermalam di sana .
-sentence 5: esoknya , hari kamis 16 agustus 1945 tidak ada kejadian berarti , siaran berjalan seperti biasa .
-passage 6 score = 5.0
-sentence 1: hanafi ikut menjemput dan mendesak bung karno dan hatta agar segera menyatakan kemerdekaan .
-sentence 2: usaha sukarni dkk tersebut gagal .
-sentence 3: menurut penuturan jusuf , saat itu bung karno hanya berkata , “ saudara-saudara tidak usah menunggu umurnya jagung , karena jagung sebelum berkembang kita sudah akan merdeka . ”
-sentence 4: tidak ada penjelasan lain dari bung karno .
-sentence 5: sepulang dari kemayoran , jusuf mendapat pesan dari sukarni agar merebut radio hoso kyoku karena akan ada pengumuman sangat penting .
-passage 7 score = 5.0
-sentence 1: sepulang dari kemayoran , jusuf mendapat pesan dari sukarni agar merebut radio hoso kyoku karena akan ada pengumuman sangat penting .
-sentence 2: tetapi di pintu masuk kantor tampak tentara kempetai berjaga-jaga dan melarang orang masuk ke kantor .
-sentence 3: karena jusuf adalah karyawan , ia diizinkan masuk .
-sentence 4: jusuf lalu menyampaikan pesan sukarni itu kepada bahtar lubis yang sama-sama bekerja di bagian pengabaran ( redaksi ) .
-sentence 5: diisolasi hari itu pimpinan hoso kyoku menyampaikan dua pengumuman kepada para karyawan .
-passage 11 score = 5.0
-sentence 1: kembali ke jalan medan merdeka , hari jumat 17 agustus 1945 , radio hoso kyoku tetap melakukan siaran seperti biasa .
-sentence 2: jusuf dkk tidak mengetahui bahwa indonesia telah menyatakan kemerdekaan karena komunikasi dengan dunia luar memang terputus .
-sentence 3: “ siang itu beberapa mahasiswa kedokteran berhasil masuk ke lobi membawa kertas .
-sentence 4: di tangga , pistol yang dibawa seorang mahasiswa terjatuh dan diketahui tentara kanpetai .
-sentence 5: mereka lalu ditendang dan diusir keluar , ” jusuf mengenang .
-passage 13 score = 1.75
-sentence 1: secarik kertas bertuliskan tulisan tangan dari adam malik .
-sentence 2: tertulis : “ harap berita terlampir disiarkan . ”
-sentence 3: lampiran berita yang dimaksud adalah naskah proklamasi yang sudah dibacakan pukul 10 pagi .
-sentence 4: jusuf lalu berembuk dengan bahtar lubis dan beberapa orang lain tentang pesan penting tersebut .
-sentence 5: “ semua studio dan ruang kontrol dijaga oleh kempetai , bahkan saat itu semua naskah siaran harus disensor dulu termasuk lagu-lagu .
-passage 12 score = 0.5
-sentence 1: mereka lalu ditendang dan diusir keluar , ” jusuf mengenang .
-sentence 2: kemungkinan mahasiswa tersebut membawa pengumuman proklamasi untuk disiarkan .
-sentence 3: sore hari , sekitar jam 17.30 , ketika jusuf sedang menyiapkan menu berbuka puasa , masuk seorang teman dari kantor berita dome ( jusuf lupa namanya ) .
-sentence 4: dengan pakaian kotor dan basah oleh keringat karena ia meloncati tembok belakang kantor radio , ia menyampaikan secarik kertas .
-sentence 5: secarik kertas bertuliskan tulisan tangan dari adam malik .
-passage 14 score = 0.5
-sentence 1: “ semua studio dan ruang kontrol dijaga oleh kempetai , bahkan saat itu semua naskah siaran harus disensor dulu termasuk lagu-lagu .
-sentence 2: lalu saya teringat studio siaran luar negeri yang sejak tanggal 15 sudah ditutup , ” ujar jusuf .
-sentence 3: untunglah nasib baik berpihak kepada mereka , ternyata studio siaran luar negeri tidak dijaga .
-sentence 4: dengan berhati-hati mereka menyelinap masuk ke dalam studio .
-sentence 5: tepat pukul 7 malam , jusuf siap di depan corong radio untuk menyampaikan proklamasi kemerdekaan indonesia ke seluruh penjuru nusantara dan dunia .
-passage 1 score = 0.25
-sentence 1: yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri - yusuf ronodipuro ( lahir di salatiga , jawa tengah , 30 september 1919 – meninggal di jakarta selatan , 27 januari 2008 pada umur 88 tahun ) adalah duta besar indonesia .
-sentence 2: pada awalnya ia dikenal sebagai penyiar kemerdekaan republik indonesia secara luas .
-sentence 3: selain itu ia pernah menjadi duta besar luar biasa indonesia di uruguay , argentina , dan chili .
-sentence 4: yusuf ronodipuro dianggap sebagai salah satu tokoh pahlawan indonesia karena perannya dalam menyiarkan proklamasi kemerdekaan indonesia ke seluruh dunia saat dia bekerja di radio hoso kyoku .
-sentence 5: dia juga adalah salah satu pendiri dari radio republik indonesia pada tanggal 11 september 1945 , yang berdiri sampai sekarang , dan kemudian hari jadinya diperingati setiap tanggal 11 september .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok238.txt
-title : sayuti melik tokoh pengetik naskah proklamasi
-passage 2 score = 5.75
-sentence 1: sayuti melik adalah seorang wartawan dan pejuang nasional .
-sentence 2: sebagai pejuang dan sekaligus wartawan , sayuti melik terlibat langsung dalam persiapan priklamasi tersebut .
-sentence 3: dia termasuk salah satu dari kelompok lima yakni soekarno , mohammad hatta , sukarni dan achmad subarjo .
-sentence 4: keterlibatan sayuti melik terutama dalam merumuskan point - point penting yang kelak akan menjadi teks proklamasi .
-sentence 5: kejadian itu berlangsung dini hari di rumah maeda , seorang perwira tinggi jepang berpangkat laksamana madya .
+sentence 1: mereka berturut-turut ialah mr. moh .
+sentence 2: yamin , prof. dr. mr. supomo , dan ir .
+sentence 3: soekarno .
+sentence 4: pada tanggal 29 mei 1945 dalam pidatonya mr. muh .
+sentence 5: yamin mengemukakan tentang asas dasar kesatuan negara indonesia merdeka , yakni sebagai berikut : 1 ) peri kebangsaan ; 2 ) peri kemanusiaan ; 3 ) peri ketuhanan ; 4 ) peri kerakyatan ; 5 ) kesejahteraan rakyat .
 passage 5 score = 5.5
-sentence 1: kedati mohammad hatta yang awalnya mengusulkan agar naskah tersebut ditanda tangani oleh keompok lima kecewa dengan diterimanya usul dari sukarni tersebut .
-sentence 2: tapi sejarah kemudian mencatat bahwa yang menandatangani naskah teks proklamasi pada akhirnya adalah soekarno dan beliau sendiri .
-sentence 3: [ gs ]
-passage 1 score = 1.5
-sentence 1: sayuti melik tokoh pengetik naskah proklamasi sayuti melik adalah sosok yang mengetik naskah teks proklamasi tersebut .
-sentence 2: tentang siapa sosok sayuti melik memang tak banyak informasi yang diperoleh .
-sentence 3: dalam buku sejarah pun hanya sebatas menjelaskan bahwa sayuti melik lah yang mengetetik naskah teks proklamasi .
-sentence 4: ada sedikit informasi tambahan bahwa sayuti melik cukup lama menjadi sekertaris pribadi soekarno .
-sentence 5: sayuti melik adalah seorang wartawan dan pejuang nasional .
-passage 3 score = 1.5
-sentence 1: kejadian itu berlangsung dini hari di rumah maeda , seorang perwira tinggi jepang berpangkat laksamana madya .
-sentence 2: sayuti melik lahir di dusun kalidogo , kelurahan purwobinangun , paken , kabupaten sleman , yogyakarta .
-sentence 3: ayahnya bernama dul maini , seorang kepala kerohanian di sembung kala itu .
-sentence 4: dalam perumusan naskah teks proklamasi tersebut menurut beberapa rujukan terjadi perbincangan sengit tenntang siapa yang menandatangani naskah proklamasi tersebut .
-sentence 5: saat itu redaksi naskahnya sendiri telah mendapat persetujuan bulat , terutama pada langkah penentuan nasib bangsa indonesia selanjutnya itu .
-passage 4 score = 1.5
-sentence 1: saat itu redaksi naskahnya sendiri telah mendapat persetujuan bulat , terutama pada langkah penentuan nasib bangsa indonesia selanjutnya itu .
-sentence 2: lalu setelah jeda , sukarni maju ke depan dan menyatakan bahwa uang mentanda tangani naskah proklamasi tersebut tidak perlu semua anggota , melainkan soekarno dan mohammad hatta saja atas nama bangsa indonesia .
-sentence 3: hadirin menyambut usulan itu dengan tepuk tangan .
-sentence 4: tapi sesungguhnya yang mempunyai gagasan untuk mengusulkan hal tersebut tidak lain adalah sayuti melik dan diucapkan sukarni di podium .
-sentence 5: kedati mohammad hatta yang awalnya mengusulkan agar naskah tersebut ditanda tangani oleh keompok lima kecewa dengan diterimanya usul dari sukarni tersebut .
+sentence 1: yamin mengemukakan tentang asas dasar kesatuan negara indonesia merdeka , yakni sebagai berikut : 1 ) peri kebangsaan ; 2 ) peri kemanusiaan ; 3 ) peri ketuhanan ; 4 ) peri kerakyatan ; 5 ) kesejahteraan rakyat .
+sentence 2: pembicara kedua , prof. dr. mr. supomo yang tampil pada tanggal 31 mei 1945 dan mengemukakan dasar negara untuk indonesia merdeka sebagai berikut : 1 ) paham negara kesatuan ; 2 ) perhubungan negara dan agama ; 3 ) sistem badan permusyawaratan ; 4 ) sosialisme indonesia ; 5 ) hubungan antarbangsa .
+sentence 3: pada tanggal 1 juni 1945 ir .
+sentence 4: soekarno tampil berbicara tentang dasar negara indonesia merdeka yang juga atas lima dasar , yakni sebagai berikut : 1 ) kebangsaan indonesia ; 2 ) internasionalisme atau peri kemanusiaan ; 3 ) mufakat atau demokrasi ; 4 ) kesejahteraan sosial ; 5 ) ketuhanan yang maha esa .
+sentence 5: kelima asas itu atas petunjuk seorang ahli bahasa oleh ir .
+passage 8 score = 5.5
+sentence 1: yamin .
+sentence 2: panitia sembilan diketuai oleh ir .
+sentence 3: soekarno .
+sentence 4: mereka menghasilkan suatu rumusan yang menggambarkan asas dan tujuan terbentuknya negara indonesia merdeka , akhirnya diterima dan ditanda tangani pada tanggal 22 juni 1945 .
+sentence 5: oleh moh.yamin rumusan panitia sembilan itu diberi nama piagam jakarta atau jakarta charter .
+passage 10 score = 5.5
+sentence 1: 4 ) kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan .
+sentence 2: 5 ) keadilan sosial bagi seluruh rakyat indonesia .
+sentence 3: setelah mengalami beberapa perubahan , terutama rumusan dasar negara ( sila pertama ) , piagam jakarta kemudian dijadikan pembukaan uud 1945 .
+sentence 4: b. masa sidang kedua ( 10-17 juli 1945 ) pada sidang yang kedua ini bpupkitelah membentuk tiga buah panitia , yakni : 1 ) panitia perancang uud , yang diketuai oleh ir .
+sentence 5: soekarno .
+passage 11 score = 5.5
+sentence 1: soekarno .
+sentence 2: 2 ) panitia ekonomi dan keuangan , diketuai oleh drs. moh .
+sentence 3: hatta .
+sentence 4: 3 ) panitia pembela tanah air yang diketuai oleh abikusno cokrosuyoso .
+sentence 5: dalam sidang yang kedua , bpupki akan membahas adalah rancangan undang-undang dasar .
+passage 15 score = 5.5
+sentence 1: soekarno , drs. moh .
+sentence 2: hatta , dan dr. radjiman wediodiningrat berangkat ke dalat ( vietnam selatan ) atas panggilan jendral terauchi , panglima tentara jepang di asia tenggara .
+sentence 3: dalam pertemuannya tanggal 12 agustus 1945 , jenderal terauchi menyampaikan kepada tiga pemimpin indonesia tersebut bahwa pemerintah kemaharajaan jepang akan memberikan kemerdekaan kepada indonesia ( direncanakan 24 agustus ) .
+sentence 4: wilayah indonesia akan meliputi seluruh wilayah bekas hindia belanda .
+sentence 5: anggota ppki berjumlah 21 orang yang terdiri atas wakil-wakil dari seluruh indonesia dengan rincian 12 orang wakil dari jawa , 3 orang wakil dari sumatra , 2 orang wakil dari sulawesi , dan masing-masing seorang wakil dari kalimantan , sunda kecil ( nusa tenggara ) , maluku , dan penduduk cina .
+passage 16 score = 5.5
+sentence 1: anggota ppki berjumlah 21 orang yang terdiri atas wakil-wakil dari seluruh indonesia dengan rincian 12 orang wakil dari jawa , 3 orang wakil dari sumatra , 2 orang wakil dari sulawesi , dan masing-masing seorang wakil dari kalimantan , sunda kecil ( nusa tenggara ) , maluku , dan penduduk cina .
+sentence 2: yang diangkat sebagai ketua adalah ir .
+sentence 3: soekarno , wakil ketua adalah drs. moh .
+sentence 4: hatta , sedangkan mr. ahmad soebarjo diangkat sebagai penasihat .
+sentence 5: oleh orang indonesia sendiri , ppki ditambah enam orang anggota lagi tanpa seizin pemerintah jepang .
+passage 17 score = 5.5
+sentence 1: oleh orang indonesia sendiri , ppki ditambah enam orang anggota lagi tanpa seizin pemerintah jepang .
+sentence 2: pada tanggal 14 agustus 1945 , ir .
+sentence 3: soekarno , drs. moh .
+sentence 4: hatta , dan dr. rajiman wediodiningrat telah kembali di tanah .
+sentence 5: sementara itu , jepang telah menyerah kepada sekutu .
+passage 12 score = 5.25
+sentence 1: dalam sidang yang kedua , bpupki akan membahas adalah rancangan undang-undang dasar .
+sentence 2: mereka menyetujui bahwa naskah pembukaan uud akan diambilkan dari naskah piagam jakarta .
+sentence 3: panitia kemudian membentuk panitia kecil yang diketuai oleh prof. dr. mr. soepomo untuk merumuskannya .
+sentence 4: selanjutnya , pada tanggal 14 juli 1945 , ir .
+sentence 5: soekarno melaporkan hasil kerja panitia kecil kepada sidang yang terdiri atas tiga hal berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-title : biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia
-passage 2 score = 6.5
-sentence 1: tiba-tiba muncullah syahruddin , seorang pewarta dari kantor berita jepang domei dengan tergesa-gesa .
-sentence 2: ( catatan : pak jusuf sempat meralat kebenaran berita bahwa yang datang itu adalah sejarawan des alwi ) .
-sentence 3: syahruddin yang masuk ke kantor hoso kyoku dengan melompati pagar itu menyerahkan selembar kertas dari adam malik yang isinya “ harap berita terlampir disiarkan ” .
-sentence 4: berita yang dimaksud adalah naskah proklamasi yang telah dibacakan bung karno jam 10 pagi .
-sentence 5: masalahnya , semua studio radio hoso kyoku sudah di jaga ketat sejak beberapa hari sebelumnya , tepatnya sehari setelah hiroshima dan nagasaki di bom oleh amerika .
-passage 3 score = 5.25
-sentence 1: masalahnya , semua studio radio hoso kyoku sudah di jaga ketat sejak beberapa hari sebelumnya , tepatnya sehari setelah hiroshima dan nagasaki di bom oleh amerika .
-sentence 2: jusuf kemudian berunding dengan rekan-rekannya , diantaranya bachtiar lubis ( kakak dari sastrawan dan tokoh pers indonesia mochtar lubis ) dan joe saragih , seorang teknisi radio .
-sentence 3: beruntung , studio siaran luar negeri tidak dijaga .
-sentence 4: saat itu juga dengan bantuan joe , kabel di studio siaran dalam negeri di lepas dan disambungkan ke studio siaran luar negeri .
-sentence 5: tepat pukul 19:00 wib selama kurang lebh 15 menit jusuf pun membacakan kabar tentang proklamasi di udara , sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang jepang .
-passage 1 score = 0.25
-sentence 1: biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia - syahruddin dalah seorang telegraphis pada kantor berita jepang ( domei ) yang mengabarkan berita proklamasi kemerdekaan negara indonesia ke seluruh dunia secara sembunyi-sembunyi ketika personil jepang istirahat pada tanggal 17 agustus 1945 jam 4 sore .
-sentence 2: tanpa jasa syahruddin , maka niscaya berita proklamasi tidak akan cepat disebarluaskan .
-sentence 3: jumat , 17 agustus 1945 , sekitar jam 17:30 wib .
-sentence 4: saat itu pak jusuf sedang berada di kantornya , hoso kyoku ( radio militer jepang di jakarta ) .
-sentence 5: tiba-tiba muncullah syahruddin , seorang pewarta dari kantor berita jepang domei dengan tergesa-gesa .
-passage 4 score = 0.25
-sentence 1: tepat pukul 19:00 wib selama kurang lebh 15 menit jusuf pun membacakan kabar tentang proklamasi di udara , sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang jepang .
-sentence 2: belakangan tentara jepang mengetahui akal bulus jusuf dan kawan-kawannya .
-sentence 3: mereka pun sempat disiksa .
-sentence 4: beruntung mereka selamat .
-sentence 5: malam itu pun radio hoso kyoku resmi dinyatakan bubar , tetapi dunia saat itu juga sudah mengetahui kabar tentang proklamasi langsung dari mulut jusuf ronodipuro .
-passage 5 score = 0.25
-sentence 1: malam itu pun radio hoso kyoku resmi dinyatakan bubar , tetapi dunia saat itu juga sudah mengetahui kabar tentang proklamasi langsung dari mulut jusuf ronodipuro .
-sentence 2: sayang rekaman suara ini tidak diketahui lagi keberadaannya , atau jangan-jangan sudah tidak ada mengingat malam itu juga radio tersebut ditutup oleh jepang .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok247.txt
+title : upaya mempersiapkan kemerdekaan indonesia
+passage 4 score = 5.75
+sentence 1: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
+sentence 2: panitia sembilan ini menghasilkan dokumen yang berisi asas dan tujuan indonesia merdeka .
+sentence 3: dokumen ini lebih dikenal dengan nama piagam djakarta , yang isinya sebagai berikut : ketuhanan dengan berkewajiban menjalankan syariat-syariat islam bagi para pemeluknya .
+sentence 4: kemanusian yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan atau perwakilan keadilan sosial bagi seluruh rakyat indonesia .
+sentence 5: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
+passage 1 score = 5.5
+sentence 1: upaya mempersiapkan kemerdekaan indonesia - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada 1 maret 1945 jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) .
+sentence 2: badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka .
+sentence 3: anggota dari bupki terdiri atas 60 orang tokoh bangsa indonesia dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh krt radjiman widyodiningrat dan wakil ketua r. surono dan seorang lagi orang jepang .
+sentence 4: bpupki diresmikan pada tanggal 29 mei 1945 .
+sentence 5: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
+passage 2 score = 5.5
+sentence 1: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
+sentence 2: tokoh-tokoh yang mengusulkan dasar negara ini , yakni : mr. muh .
+sentence 3: yamin pada sidang tanggal 29 mei 1945 , mr. muh .
+sentence 4: yamin mengajukan lima rancangan dasar negara indonesia , yakni : peri kebangsaan peri kemanusiaan peri ketuhanan peri kerakyatan kesejahteraan rakyat prof. dr. supomo pada sidang tanggal 31 mei 1945 , prof. dr. supomo mengajukan lima rancangan dasar negara , yakni : persatuan kekeluargaan mufakat dan demokrasi musyawarah keadilan sosial ir .
+sentence 5: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
+passage 8 score = 5.25
+sentence 1: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
+sentence 2: maka berdasarkan piagam tersebut pula , proklamasi kemerdekaan indonesia memiliki kedudukan yang kuat , baik secara nasional maupun internasional .
 sentence 3: [ gs ]
+passage 3 score = 5.0
+sentence 1: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
+sentence 2: namun pada tanggal 22 juni 1945 , sembilan orang anggota yaitu ir .
+sentence 3: soekarno , drs. moch .
+sentence 4: hatta , mr. muh .
+sentence 5: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
+passage 6 score = 5.0
+sentence 1: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
+sentence 2: landasan dasar internasional piagam atlantik ( 14 agustus 1941 ) yang ditanda tangani oleh franklin delano roosevelt ( presiden as ) dengan winston churchill ( pm inggris ) .
+sentence 3: yang berisi : tidak boleh ada perluasan daerah tampa persetujuan dari penduduk asli .
+sentence 4: setiap bangsa berhak menentukan dan menetapkan bentuk pemerintahannya sendiri .
+sentence 5: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
+passage 7 score = 5.0
+sentence 1: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
+sentence 2: piagam san fransisco , merupakan piagam pbb yang diresmikan dan ditandatangani oleh 50 negara sebagai negara yang pertama menjadi anggotanya .
+sentence 3: dalam piagam pbb ini disebutkan : “ … kami akan meneguhkan keyakinan akan dasar-dasar hak manusia sebagai manusia sesuai dengan harkat dan derajat manusia berdasarkan atas hak-hak yang sama … .
+sentence 4: serta berusaha memajukan rakyat dan tingkat kehidupan yang lebih baik dalam suasana kemerdekaan yang lebih luas ” .
+sentence 5: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
+passage 5 score = 0.25
+sentence 1: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
+sentence 2: adapun pokok-pokok isi pembukaan uud 1945 : bahwa kemerdekaan itu adalah hak segala bangsa … .
+sentence 3: dan perjuangan kemerdekaan indonesia telah sampailah kepada saat yang berbahagia … .
+sentence 4: atas berkat rahmat allah yang maha kuasa … kemudian daripada itu untuk membentuk suatu pemerintahan negara indonesia … .
+sentence 5: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok192.txt
+title : janji kemerdekaan jepang
+passage 4 score = 5.75
+sentence 1: pada saat peresmian ini bendera merah putih dikibarkan disamping bendera jepang hinomaru .
+sentence 2: tanggal 12 agustus 1945 , jepang melalui marsekal terauchi di dalat , vietnam , mengatakan kepada soekarno , hatta dan radjiman bahwa pemerintah jepang akan segera memberikan kemerdekaan kepada indonesia dan proklamasi kemerdekaan dapat dilaksanakan dalam beberapa hari , tergantung cara kerja ppki .
+sentence 3: meskipun demikian jepang menginginkan kemerdekaan indonesia pada tanggal 24 agustus .
+sentence 4: untuk mengantisipasi keadaan jepang yang semakin memburuk , kemudian perdana menteri kuniaki koiso berusaha memulihkan kewibaan jepang di wilayah jajahannya .
+sentence 5: pada tanggal 9 september 1944 , perdana menteri kuniaki koiso memberikan janji kemerdekaan kepada bangsa indonesia , yang disampaikannya pada sidang istimewa teatau sidang parlemen jepang .
+passage 1 score = 5.5
+sentence 1: janji kemerdekaan jepang - pertahanan jepang sudah rapuh dan bayangan kekalahan pun sudah semakin nyata di depan mata .
+sentence 2: tetapi walaupun dalam keadaan begitu , jepang masih tetap berusaha menarik simpati bangsa indonesia , yaitu dengan " menjanjikan kemerdekaan di kemudian hari " .
+sentence 3: pada tanggal 17 september 1944 di dalam sidang istimewa parlemen jepang di tokyo , seorang perdana menteri koiso mengumumkan bahwa daerah indonesia diperkenankan merdeka dikelak kemudian hari .
+sentence 4: menghadapi situasi yang gawat demikian , melalui pimpinan jendral kumakici harada berusaha meyakinkan bangsa indonesia tentang janji kemerdekaan itu .
+sentence 5: pada akhirnya pada tanggal 1 maret 1945 diumumkan pembentukan badan penyelidik usaha usaha persiapan kemerdekaan indonesia ( bpupki ) atau dalam bahasa jepang disebut " dokuritsu junbi cosakai " .
+passage 2 score = 5.5
+sentence 1: pada akhirnya pada tanggal 1 maret 1945 diumumkan pembentukan badan penyelidik usaha usaha persiapan kemerdekaan indonesia ( bpupki ) atau dalam bahasa jepang disebut " dokuritsu junbi cosakai " .
+sentence 2: yang mana tujuan dibentuknya bpupki ialah untuk mempelajari dan menyelidiki hal-hal penting yang berkaitan dengan segala sesuatu yang menyangkut pembentukan negara indonesia merdeka .
+sentence 3: ketua bpupki ini yaitu dr.k.r.t .
+sentence 4: radjiman wedyodiningrat dengan dibantu oleh dua orang ketua muda , yaitu seorang jepang yang menjabat sebagai syucokan cirebon bernama icibangase dan r.p suroso sebagai kepala secretariat dengan dibantu oleh toyohito masuda dan mr. a.g.pringgodigdo .
+sentence 5: anggota bpupki 60 orang ditambah 7 orang jepang tanpa hak suara .
+passage 5 score = 5.5
+sentence 1: pada tanggal 9 september 1944 , perdana menteri kuniaki koiso memberikan janji kemerdekaan kepada bangsa indonesia , yang disampaikannya pada sidang istimewa teatau sidang parlemen jepang .
+sentence 2: adapun tujuan pemberian janji kemerdekaan tersebut adalah untuk mencegah timbulnya pandangan pada diri bangsa indonesia terhadap sekutu sebagai pasukan pembebas dari cengkaraman jepang , melainkan sebaliknya sebagai pasukan penyerbu yang akan menghambat kemerdekaan bangsa indonesia .
+sentence 3: untuk merealisasikan janji perdana menteri kuniaki koiso , kemudian jepang membentuk bpupki ( badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ) pada tanggal 1 maret 1945 .
+sentence 4: dalam bahasa jepang , bpupki disebut dengan dokuritsu zjunbi tyoosakai yang bertugas menyelidiki kesiapan bangsa indonesia dalam menyongsong kemerdekaan dan membentuk pemerintahan sendiri .
+sentence 5: kemudian jepang mengangkat dr. k.r.t. radjiman wediodiningrat sebagai ketua bpupki .
+passage 6 score = 5.5
+sentence 1: kemudian jepang mengangkat dr. k.r.t. radjiman wediodiningrat sebagai ketua bpupki .
+sentence 2: jepang juga memberikan jabatan sebagai anggaota kepada beberapa tokoh lain yang dianggap mempunyai pengaruh besar terhadap rakyat indonesia , seperti ir .
+sentence 3: soekarno , drs. mohammad hatta , ki hajar dewantara , k.h. mas masyur , k.h. wachid hasyim , h. agus salim , soepomo , dan muhammad yamin .
+sentence 4: selain itu , jepang juga mengangkat tujuh orang berkebangsaan jepang yang duduk sebagai pengawas serta tidak mempunyai hak suara untuk mengemukakan pendapat .
+sentence 5: pada tanggal 28 mei 1945 jepang secara resmi melantik anggota bpupki .
+passage 12 score = 5.5
+sentence 1: pada tanggal 22 juni 1945 , panitia sembilan mulai bersidang di gedung jawa hokokai jakarta .
+sentence 2: rapat tersebut tidak hanya dihadiri oleh panitia sembilan tetapi anggota bpupki yang lainpun turut hadir sehingga jumlah peserta sidang mencapai 38 orang .
+sentence 3: adapun tujuannya adalah untuk merumuskan dasar negara indonesia dengan bahan-bahan yang telah disampaikan oleh mr. mohammad yamin , dr. soepomo , dan ir .
+sentence 4: soekarno .
+sentence 5: panitia sembilan berhasil menetapkan suatu rumusan yang dinamakan piagam jakarta ( jakarta charter ) .
+passage 8 score = 5.0
+sentence 1: sidang pertama sidang pertama yang berlangsung dari tanggal 29 mei 1945 sampai dengan 1 juni 1945 sidang pertama membahas dan merumuskan dasar negara indonesia merdeka ( philosofische grondslag indonesia merdeka ) .
+sentence 2: ada tiga orang tokoh yang akan mengemukakan gagasannya tentang dasar negara indonesia , yaitu mr. mohammad yamin , dr. soepomo , dan ir .
+sentence 3: soekarno .
+sentence 4: sidang tanggal 29 mei 1945 pada sidang tanggal 29 mei 1945 , mr. mohammad yamin mendapat kesempatan pertama untuk mengajukan rancangan gagasan negara indonesia merdeka yang diberi judul asas dan dasar negara kebangsaan republik indonesia .
+sentence 5: mr. mohammad yamin berpendapat bahwa negara indonesia harus berpijak pada lima dasar berikut .
+passage 3 score = 0.0
+sentence 1: anggota bpupki 60 orang ditambah 7 orang jepang tanpa hak suara .
+sentence 2: dalam hal ini ir.sukarno tidak menjadi ketua , karena ia ingin lebih aktif dalam berbagai diskusi .
+sentence 3: pelantikan anggota bpupki dilakukan pada tanggal 28 mei 1945 , bertepatan dengan hari ulang tahun raja jepang ( teno heika ) .
+sentence 4: pelantikan anggota bpupki dihadiri oleh seluruh anggota dan dua orang pembesar jepang , yaitu jendral itagaki dan jendral yaiciro nagano .
+sentence 5: pada saat peresmian ini bendera merah putih dikibarkan disamping bendera jepang hinomaru .
+passage 7 score = 0.0
+sentence 1: pada tanggal 28 mei 1945 jepang secara resmi melantik anggota bpupki .
+sentence 2: untuk melaksanakan tugasnya bpupki melaksanakan dua kali masa persidangan .
+sentence 3: sidang pertama dilaksanakan pada tanggal 29 mei 1945 sampai dengan tanggal 1 juni 1945 .
+sentence 4: sidang kedua dilaksanakan pada tanggal 10 juli sampai dengan 16 juli 1945 .
+sentence 5: sidang pertama sidang pertama yang berlangsung dari tanggal 29 mei 1945 sampai dengan 1 juni 1945 sidang pertama membahas dan merumuskan dasar negara indonesia merdeka ( philosofische grondslag indonesia merdeka ) .
+passage 9 score = 0.0
+sentence 1: mr. mohammad yamin berpendapat bahwa negara indonesia harus berpijak pada lima dasar berikut .
+sentence 2: sidang tanggal 31 mei 1945 dr.soepomo menyampaikan gagasannya pada tanggal 31 mei 1945 .
+sentence 3: menurut dr. soepomo , negara indonesia harus didirikan dengan asas-asas sebagai berikut .
+sentence 4: sidang tanggal 1 juni 1945 penyampai gagasan negara indonesia yang terakhir adalah ir .
+sentence 5: soekarno yang menyampaikan gagasannya pada tanggal 1 juni 1945 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok212.txt
+title : pengesahan uud 1945 dan pemilihan presiden dan wakil presiden
+passage 1 score = 5.5
+sentence 1: pengesahan uud 1945 dan pemilihan presiden dan wakil presiden - ppki mengadakan sidang untuk pertama kalinya pada tanggal 18 agustus 1945 .
+sentence 2: serta pada sidang tersebut didapat keputusan bahwa uud 1945 ditetapkan serta disahkan menjadi kontitusi negara indonesia serta dipilihkan presiden indonesia beser wakilnya beserta wakilnya .
+sentence 3: sidang dari ppki ini merupakan kelanjutan sidang bpupki pada tanggal 10-16 juli 1945 yang mengulas persoalan rancangan undang-undang dasar .
+sentence 4: berbagai pembetulan disepakati oleh sidang , yaitu rumusan sila pertama pancasila yang sebalumnya disepakati merupakan “ ketuhanan serta keharusan menjalankan syariat-syariat islam bagi pemeliknya ’’ , di ubah menjadi “ ketuhanan yang maha esa ’’ .
+sentence 5: tidak hanya itu , bab iii , pasal 6 , uud 1945yang sebelumnya menyebutkan bahwa ” presiden ialah orang indonesia orisinil yang beragama islam ’’ .
+passage 2 score = 5.5
+sentence 1: tidak hanya itu , bab iii , pasal 6 , uud 1945yang sebelumnya menyebutkan bahwa ” presiden ialah orang indonesia orisinil yang beragama islam ’’ .
+sentence 2: dalam sidang itu pularancangn undang-undang dasar ditetapkan serta disahkan menjadi undang-undang dasar negara yang kemudian dikenal sebagai undang-undang dasar 1945 .
+sentence 3: pada saat mengulas bab iii rancangan uud 1945 , otto iskandardinata menganjurkan supaya sekaligus saja memilih presiden serta wakil presiden .
+sentence 4: ia menganjurkan soekarno menjadi presiden , serta moh hatta sebagai wakil presiden .
+sentence 5: laksana dayung bersambut , usul dari otto iskandardinata langsung diterima dengan cara bulat serta disambut dengan upacara menyanyikan lagu indonesia raya setidak sedikit dua kali .
+passage 3 score = 5.5
+sentence 1: laksana dayung bersambut , usul dari otto iskandardinata langsung diterima dengan cara bulat serta disambut dengan upacara menyanyikan lagu indonesia raya setidak sedikit dua kali .
+sentence 2: dengan demikian , kedua proklamator tersebut sejak tanggal 18 agustus 1945 resmi menjadi presiden serta wakil presiden republik indonesia yang pertama .
+sentence 3: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+passage 12 score = 5.75
+sentence 1: pasar tunggal ( single market ) .
+sentence 2: menurut perhitungan suara referendum prancis yang diselenggarakan pada tanggal 20 september 1992 tentang perjanjian maastrich , menunjukkan bahwa 50,95 % pemilih menyatakan setuju .
+sentence 3: untuk mendirikan organisasi-organisasi tersebut pada tanggal 7 februari 1992 di maastrich , belanda diadakan pertemuan anggota mee .
+sentence 4: hasil pertemuan itu dituangkan dalam sebuah naskah perjanjian yang disebut the treaty on european union ( teu ) atau perjanjian penyatuan eropa yang telah ditandatangani oleh kepala negara/pemerintah di maastrich , belanda .
+sentence 5: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+passage 2 score = 5.5
+sentence 1: namun , keberhasilannya bergantung pada dua negara besar , yaitu prancis dan jerman barat .
+sentence 2: pada tahun 1950 menteri luar negeri prancis , maurice schuman berkeinginan menyatukan produksi baja dan batu bara prancis dan jerman dalam wadah kerja sama yang terbuka untuk negara-negara eropa lainnya , sekaligus mengurangi kemungkinan terjadinya perang .
+sentence 3: keinginan itu terwujud dengan ditandatanganinya perjanjian pendirian pasaran bersama batu bara dan baja eropa atau european coal and steel community ( ecsc ) oleh enam negara , yaitu prancis , jerman barat ( republik federal jerman-rfj ) , belanda , belgia , luksemburg , dan italia .
+sentence 4: keenam negara tersebut selanjutnya disebut the six state .
+sentence 5: keberhasilan ecsc mendorong negara-negara the six state membentuk pasar bersama yang mencakup sektor ekonomi .
+passage 8 score = 5.5
+sentence 1: tugasnya memberikan nasihat dan mengajukan usul kepada dewan menteri dan kepada komisi tentang langkah-langkah kebijakan yang diambil , serta mengawasi pekerjaan badan pengurus harian atau komisi mee serta meminta pertanggungjawabannya .
+sentence 2: b ) dewan menteri ( the council ) dewan menteri mee mempunyai kekuasaan tertinggi untuk merencanakan dan memberikan keputusan kebijakan yang diambil .
+sentence 3: keanggotaannya terdiri atas menteri luar negeri negara-negara anggota .
+sentence 4: tugasnya menjamin terlaksananya kerja sama ekonomi negara anggota dan mempunyai kekuasaan membuat suatu peraturan organisasi .
+sentence 5: ketuanya dipilih secara bergilir menurut abjad negara anggota dan memegang jabatan selama enam tahun .
+passage 13 score = 5.5
+sentence 1: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+sentence 2: perubahan masyarakat ekonomi eropa ( mee ) menjadi uni eropa ( ue ) melalui perjanjian maastrich , ke – 12 negara anggota masyarakat eropa dipersatukan dalam mekanisme kesatuan eropa , dengan pelaksanaan secara bertahap .
+sentence 3: the treaty on european unionmulai dilaksanakan pada tanggal 1 januari 1993 , setelah diratifikasi oleh semua parlemen anggota masyarakat eropa .
+sentence 4: mulai tahun 1999 , masyarakat eropa hanya mengenal satu mata uang yang disebut european currency unit ( ecu ) atau ( european union – eu ) .
+sentence 5: beberapa bentuk perjanjian yang pernah dilakukan mee harus mengalami beberapa kali amandemen .
+passage 1 score = 5.0
+sentence 1: sejarah terbentuknya tujuan dan struktur organisasi mee – pada kesempatan ini admin pengertian sejarah akan berbagi informasi mengenai sejarah terbentuknya tujuan dan struktur organisasi mee .
+sentence 2: sebelumnya admin juga sudah berbagi tentang sejarah krisis suez dan peran indonesia .
+sentence 3: sejak berakhirnya perang dunia ii , eropa mengalami kemiskinan dan perpecahan .
+sentence 4: usaha untuk mempersatukan eropa sudah dilakukan .
+sentence 5: namun , keberhasilannya bergantung pada dua negara besar , yaitu prancis dan jerman barat .
+passage 3 score = 5.0
+sentence 1: keberhasilan ecsc mendorong negara-negara the six state membentuk pasar bersama yang mencakup sektor ekonomi .
+sentence 2: hasil pertemuan di messina , pada tanggal 1 juni 1955 menunjuk paul henry spaak ( menlu belgia ) sebagai ketua komite yang harus menyusun laporan tentang kemungkinan kerja sama ke semua bidang ekonomi .
+sentence 3: laporan komite spaak berisi dua rancangan yang lebih mengintegrasikan eropa , yaitu : 1 .
+sentence 4: membentuk european economic community ( eec ) atau masyarakat ekonomi eropa ( mee ) ; 2 .
+sentence 5: membentuk european atomic energy community ( euratom ) atau badan tenaga atom eropa .
+passage 7 score = 5.0
+sentence 1: meluaskan hubungan dengan negara-negara selain anggota mee .
+sentence 2: untuk mewujudkan tujuannya , mee membentuk pasar bersama eropa ( comman market ) , keseragaman tarif , dan kebebasan bergerak dalam hal buruh , barang , serta modal .
+sentence 3: organisasi mee memiliki struktur organisasi sebagai berikut .
+sentence 4: a ) majelis umum ( general assembly ) atau dewan eropa ( european parliament ) keanggotaan majelis umum mee berjumlah 142 orang yang dipilih oleh parlemen negara anggota .
+sentence 5: tugasnya memberikan nasihat dan mengajukan usul kepada dewan menteri dan kepada komisi tentang langkah-langkah kebijakan yang diambil , serta mengawasi pekerjaan badan pengurus harian atau komisi mee serta meminta pertanggungjawabannya .
+passage 4 score = 0.0
+sentence 1: membentuk european atomic energy community ( euratom ) atau badan tenaga atom eropa .
+sentence 2: rancangan spaak itu disetujui pada tanggal 25 maret 1957 di roma dan kedua perjanjian itu mulai berlaku tanggal 1 januari 1958 .
+sentence 3: dengan demikian , terdapat tiga organisasi di eropa , yaitu ecsc , eec ( mee ) , dan euratom ( eaec ) .
+sentence 4: pada konferensi di brussel tanggal 22 januari 1972 , inggris , irlandia , dan denmark bergabung dalam mee .
+sentence 5: pada tahun 1981 yunani masuk menjadi anggota mee yang kemudian disusul spanyol dan portugal .
+passage 5 score = 0.0
+sentence 1: pada tahun 1981 yunani masuk menjadi anggota mee yang kemudian disusul spanyol dan portugal .
+sentence 2: dengan demikian keanggotaan mee sebanyak 12 negara .
+sentence 3: mee merupakan organisasi yang terpenting dari ketiga organisasi tersebut .
+sentence 4: bukan saja karena meliputi sektor ekonomi , melainkan juga karena pelaksanaannya memerlukan pengaturan bersama yang meliputi industri , keuangan , dan perekonomian .
+sentence 5: mee menegaskan tujuannya , antara lain : 1 .
+passage 6 score = 0.0
+sentence 1: mee menegaskan tujuannya , antara lain : 1 .
+sentence 2: integrasi eropa dengan cara menjalin kerja sama ekonomi , memperbaiki taraf hidup , dan memperluas lapangan kerja ; 2 .
+sentence 3: memajukan perdagangan dan menjamin adanya persaingan bebas serta keseimbangan perdagangan antarnegara anggota ; 3 .
+sentence 4: menghapuskan semua rintangan yang menghambat lajunya perdagangan internasional ; 4 .
+sentence 5: meluaskan hubungan dengan negara-negara selain anggota mee .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 passage 55 score = 8.5
 sentence 1: ir .
@@ -688,7 +695,16 @@ sentence 3: hatta dan mr ahmad subardjo menyumbangkan pikiran secara lisan .
 sentence 4: kalimat pertama dari naskah proklamasi merupakan saran dari mr. ahmad subardjo yang diambil dari rumusan bpupki .
 sentence 5: sedangkan kalimat terakhir merupakan sumbangan pikiran dari drs. moh .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
+passage 5 score = 8.5
+sentence 1: momen ini disaksikan oleh miyoshi sebagai orang kepercayaan nishimura , bersama dengan tiga orang tokoh pemuda lainnya , yaitu : sukarni , mbah diro dan b.m. diah .
+sentence 2: sementara itu tokoh-tokoh lainnya , baik dari golongan muda maupun golongan tua menantikan di serambi muka .
+sentence 3: ir .
+sentence 4: sukarno yang menuliskan konsep naskah proklamasi , sedangkan drs. moh .
+sentence 5: hatta dan mr ahmad subardjo menyumbangkan pikiran dengan cara lisan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 passage 59 score = 8.25
 sentence 1: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
@@ -697,7 +713,7 @@ sentence 3: selanjutnya sukarni , salah satu tokoh golongan muda , mengusulkan a
 sentence 4: setelah usulan sukarni itu disetujui , maka ir .
 sentence 5: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
 title : bpupki-ppki dan peristiwa rengasdengklok
 passage 20 score = 8.0
 sentence 1: peristiwa rengasdengklok moh hatta berjanji akan menanyakan hal itu kepada gunsekanbu .
@@ -706,7 +722,7 @@ sentence 3: hatta mengabil keputusan untuk segera meninggalkan anggota ppki .
 sentence 4: rapat yang dipimpin oleh chairul saleh itu menghasilkan keputusan ” kemerdekaan indonesia adalah hak dan soal indonesia sendiri , tak dapat di gantung pada orang dan negara lain .5 .
 sentence 5: perumusan teks proklamasi sebelum mereka mulai merumskan naskah proklamasi .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 passage 51 score = 8.0
 sentence 1: hal itu juga disebabkan laksamana tadashi maeda telah menyampaikan kepada ahmad subardjo ( sebagai salah satu pekerja di kantor laksamana maeda ) bahwa ia menjamin keselamatan mereka selama berada di rumahnya .
@@ -715,7 +731,7 @@ sentence 3: mereka ditemani oleh laksamana maeda , shigetada nishijima dan tomeg
 sentence 4: pertemuan itu tidak mencapai kata sepakat .
 sentence 5: nishimura menegaskan bahwa garis kebijakan panglima tentara keenambelas di jawa adalah “ dengan menyerahnya jepang kepada sekutu berlaku ketentuan bahwa tentara jepang tidak diperbolehkan lagi merubah status quo ( status politik indonesia ) .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 passage 61 score = 8.0
 sentence 1: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
@@ -724,7 +740,7 @@ sentence 3: namun ir .
 sentence 4: sukarno menganggap lapangan ikada adalah salah satu lapangan umum yang dapat menimbulkan bentrokan antara rakyat dengan pihak militer jepang .
 sentence 5: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 passage 62 score = 8.0
 sentence 1: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
@@ -733,41 +749,32 @@ sentence 3: mereka pulang ke rumah masing-masing setelah berhasil merumuskan nas
 sentence 4: mereka telah sepakat untuk memproklamasikan kemerdekaan pada pukul 10.30 waktu jawa atau pukul 10.00 wib sekarang .
 sentence 5: sebelum pulang bung hatta berpesan kepada para pemuda yang bekerja di kantor berita dan pers , utamanya b.m. diah untuk memperbanyak teks proklamasi dan menyiarkannya ke seluruh dunia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-title : pembacaan proklamasi pukul 10.00 pagi
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
 passage 1 score = 8.0
-sentence 1: pembacaan proklamasi pukul 10.00 pagi - hari jumat pada bulan ramadhan , pukul 05.00 pagi , fajar 17 agustus 1945 memancar di ufuk timur .
-sentence 2: embun pagi tetap menggelantung di tepian daun .
-sentence 3: para pemimpin bangsa serta para tokoh pemuda keluar dari rumah laksamana maeda , dengan diliputi kebanggaan seusai merumuskan teks proklamasi hingga dinihari .
-sentence 4: mereka , telah sepakat untuk memproklamasikan kemerdekaan bangsa indonesia hari itu di rumah soekarno , jalan pegangsaan timur no. 56 jakarta , pada pukul 10.00 pagi .
-sentence 5: bung hatta pernah beramanat terhadap para pemuda yang bekerja pada pers serta kantor-kantor kabar , untuk mempertidak sedikit naskah proklamasi serta menyebarkannya ke seluruh dunia .
+sentence 1: perumusan teks proklamasi hingga pagi - rombongan tiba kembali di jakarta pada pukul 23.30 waktu jawa .
+sentence 2: seusai sukarno dan hatta singgah di rumah masing-masing rombongan kemudian menuju ke rumah laksamana maeda di jalan imam bonjol no. 1 , jakarta ( sekarang perpustakaan nasional ) .
+sentence 3: faktor itu juga dikarenakan laksamana tadashi maeda telah memberi tau terhadap ahmad subardjo ( sebagai salah satu pekerja di kantor laksamana maeda ) bahwa ia menjamin keselamatan mereka selagi berada di rumahnya .
+sentence 4: sebelum mereka mengawali merumuskan naskah proklamasi , terlebih dahulu sukarno dan hatta menemui somubuco ( kepala pemerintahan umum ) mayor jenderal nishimura , untuk menjajagi sikapnya mengenai proklamasi kemerdekaan .
+sentence 5: mereka dikawani oleh laksamana maeda , shigetada nishijima dan tomegoro yoshizumi dan miyoshi sebagai penterjemah .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-title : pembacaan proklamasi pukul 10.00 pagi
-passage 2 score = 8.0
-sentence 1: bung hatta pernah beramanat terhadap para pemuda yang bekerja pada pers serta kantor-kantor kabar , untuk mempertidak sedikit naskah proklamasi serta menyebarkannya ke seluruh dunia .
-sentence 2: menjelang pelaksanaan proklamasi kemerdekaan , suasana di jalan pegangsaan timur 56 lumayan sibuk .
-sentence 3: wakil walikota , soewirjo , memerintahkan terhadap mr. wilopo untuk mempersiapkan peralatan yang diperlukan semacam mikrofon serta berbagai pengeras suara .
-sentence 4: sedangkan sudiro memerintahkan terhadap s. suhud untuk mempersiapkan satu tiang bendera .
-sentence 5: sebab situasi yang tegang , suhud tak ingat bahwa di depan rumah soekarno itu , tetap ada dua tiang bendera dari logam yang tak dipakai .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
+passage 4 score = 8.0
+sentence 1: sebagai baginda rumah maeda mengundurkan diri ke lantai dua .
+sentence 2: sedangkan di ruang makan , naskah proklamasi dirumuskan oleh tiga tokoh golongan tua , yaitu : ir .
+sentence 3: sukarno , drs. moh .
+sentence 4: hatta dan mr. ahmad subardjo .
+sentence 5: momen ini disaksikan oleh miyoshi sebagai orang kepercayaan nishimura , bersama dengan tiga orang tokoh pemuda lainnya , yaitu : sukarni , mbah diro dan b.m. diah .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 60 score = 7.75
-sentence 1: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
-sentence 2: ada tiga perubahan yang terdapat pada naskah ketikan sajuti melik , yaitu : kata “ tempoh ” diganti “ tempo ” , sedangkan kata “ wakil-wakil bangsa indonesia ” diganti dengan “ atas nama bangsa indonesia ” .
-sentence 3: perubahan juga dilakukan dalam cara menuliskan tanggal , yaitu “ djakarta , 17-8-05 ” menjadi “ djakarta , hari 17 boelan 8 tahoen ‘ 05 ” .
-sentence 4: sehingga naskah proklamasi ketikan sajuti melik itu , adalah sebagai berikut : proklamasi kami bangsa indonesia dengan ini menjatakan kemerdekaan indonesia .
-sentence 5: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 53 score = 7.5
-sentence 1: akhirnya mereka hanya mengharapkan pihak jepang tidak menghalang-halangi pelaksanaan proklamasi yang akan dilaksanakan oleh rakyat indonesia sendiri .
-sentence 2: maka mereka kembali ke rumah laksamana maeda .
-sentence 3: sebagai tuan rumah maeda mengundurkan diri ke lantai dua .
-sentence 4: sedangkan di ruang makan , naskah proklamasi dirumuskan oleh tiga tokoh golongan tua , yaitu : ir .
-sentence 5: sukarno , drs. moh .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
+passage 6 score = 8.0
+sentence 1: hatta dan mr ahmad subardjo menyumbangkan pikiran dengan cara lisan .
+sentence 2: kalimat pertama dari naskah proklamasi adalah saran dari mr. ahmad subardjo yang diambil dari rumusan bpupki .
+sentence 3: sedangkan kalimat terbaru adalah sumbangan pikiran dari drs. moh .
+sentence 4: hatta .
+sentence 5: faktor itu dikarenakan menurut beliau butuh adanya tambahan pernyataan pengalihan kekuasaan ( transfer of sovereignty ) .
 
 
 Pencarian jawaban
@@ -790,7 +797,7 @@ hatta dan <PERSON>mr ahmad subardjo</PERSON> menyumbangkan pikiran secara lisan 
 
 memproses passage 55
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 mr ahmad subardjo | position = 1
@@ -831,7 +838,7 @@ kalimat pertama dari naskah proklamasi merupakan saran dari <PERSON>mr. ahmad su
 
 memproses passage 55
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 mr ahmad subardjo | position = 5
@@ -894,11 +901,147 @@ sedangkan kalimat terakhir merupakan sumbangan pikiran dari drs. moh .
 tidak ada entitas jawaban, skip
 
 
+momen ini disaksikan oleh <PERSON>miyoshi</PERSON> sebagai orang kepercayaan nishimura , bersama dengan tiga orang tokoh pemuda lainnya , yaitu : sukarni , mbah diro dan b.m. diah .
+
+memproses passage 5
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
+list jawaban dan posisi dalam passage
+miyoshi | position = 2
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = momen
+tokenwithtagstemmed = saksi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = mbah
+tokenwithtagstemmed = diro
+tokenwithtagstemmed = b.m
+tokenwithtagstemmed = diah
+kata kunci = konsep
+tokenwithtagstemmed = momen
+tokenwithtagstemmed = saksi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = mbah
+tokenwithtagstemmed = diro
+tokenwithtagstemmed = b.m
+tokenwithtagstemmed = diah
+kata kunci = naskah
+tokenwithtagstemmed = momen
+tokenwithtagstemmed = saksi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = mbah
+tokenwithtagstemmed = diro
+tokenwithtagstemmed = b.m
+tokenwithtagstemmed = diah
+kata kunci = proklamasi
+tokenwithtagstemmed = momen
+tokenwithtagstemmed = saksi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = mbah
+tokenwithtagstemmed = diro
+tokenwithtagstemmed = b.m
+tokenwithtagstemmed = diah
+
+
+sementara itu tokoh-tokoh lainnya , baik dari golongan muda maupun golongan tua menantikan di <LOCATION>serambi muka .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+ir .
+
+
+tidak ada entitas jawaban, skip
+
+
+sukarno yang menuliskan konsep naskah proklamasi , sedangkan drs. moh .
+
+
+tidak ada entitas jawaban, skip
+
+
+hatta dan <PERSON>mr ahmad subardjo</PERSON> menyumbangkan pikiran dengan cara lisan .
+
+memproses passage 5
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
+list jawaban dan posisi dalam passage
+mr ahmad subardjo | position = 1
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = sumbang
+tokenwithtagstemmed = pikir
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lisan
+kata kunci = konsep
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = sumbang
+tokenwithtagstemmed = pikir
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lisan
+kata kunci = naskah
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = sumbang
+tokenwithtagstemmed = pikir
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lisan
+kata kunci = proklamasi
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = sumbang
+tokenwithtagstemmed = pikir
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lisan
+
+
 usulan tersebut ditentang oleh <PERSON>tokoh-tokoh pemuda .</PERSON>
 
 memproses passage 59
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 tokoh tokoh pemuda | position = 2
@@ -945,7 +1088,7 @@ sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan <PERSON
 
 memproses passage 59
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 sukarno | position = 9
@@ -1026,7 +1169,7 @@ peristiwa <PERSON>rengasdengklok moh hatta</PERSON> berjanji akan menanyakan hal
 
 memproses passage 20
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
 title : bpupki-ppki dan peristiwa rengasdengklok
 list jawaban dan posisi dalam passage
 rengasdengklok moh hatta | position = 1
@@ -1063,7 +1206,7 @@ setelah yakin bahwa jepang telah menyerahkan kepada <PERSON>sekutu moh .</PERSON
 
 memproses passage 20
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
 title : bpupki-ppki dan peristiwa rengasdengklok
 list jawaban dan posisi dalam passage
 sekutu moh | position = 3
@@ -1114,7 +1257,7 @@ hal itu juga disebabkan laksamana tadashi maeda telah menyampaikan kepada <PERSO
 
 memproses passage 51
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 ahmad subardjo | position = 5
@@ -1195,7 +1338,7 @@ sebelum mereka memulai merumuskan naskah proklamasi , terlebih dahulu <PERSON>su
 
 memproses passage 51
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 sukarno | position = 4
@@ -1304,7 +1447,7 @@ mereka ditemani oleh <PERSON>laksamana maeda ,</PERSON> shigetada nishijima dan 
 
 memproses passage 51
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 laksamana maeda | position = 1
@@ -1356,7 +1499,7 @@ nishimura menegaskan bahwa garis kebijakan panglima tentara keenambelas di jawa 
 
 memproses passage 51
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 sekutu | position = 10
@@ -1485,7 +1628,7 @@ oleh karena itu <PERSON>bung karno</PERSON> mengusulkan agar upacara proklamasi 
 
 memproses passage 61
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 bung karno | position = 0
@@ -1560,7 +1703,7 @@ oleh karena itu <PERSON>bung karno</PERSON> mengusulkan agar upacara proklamasi 
 
 memproses passage 62
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 bung karno | position = 0
@@ -1635,7 +1778,7 @@ h. pelaksanaan proklamasi kemerdekaan <TIME>17 agustus 1945</TIME> pada <TIME>pu
 
 memproses passage 62
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 pemimpin indonesia | position = 6
@@ -1720,7 +1863,7 @@ sebelum pulang bung hatta berpesan kepada <PERSON>para pemuda</PERSON> yang beke
 
 memproses passage 62
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 pemuda | position = 4
@@ -1805,560 +1948,259 @@ tokenwithtagstemmed = siar
 tokenwithtagstemmed = dunia
 
 
-pembacaan proklamasi <TIME>pukul 10.00 pagi - hari jumat</TIME> pada <TIME>bulan ramadhan , pukul 05.00</TIME> pagi , fajar <TIME>17 agustus 1945</TIME> memancar di ufuk timur .
+perumusan teks proklamasi hingga pagi - rombongan tiba kembali di <LOCATION>jakarta</LOCATION> pada <TIME>pukul 23.30</TIME> waktu jawa .
 
 
 tidak ada entitas jawaban, skip
 
 
-embun pagi tetap menggelantung di tepian daun .
+seusai sukarno dan hatta singgah di rumah masing-masing rombongan kemudian menuju ke <LOCATION>rumah laksamana maeda</LOCATION> di jalan imam bonjol no. 1 , jakarta ( sekarang perpustakaan nasional ) .
 
 
 tidak ada entitas jawaban, skip
 
 
-<PERSON>para pemimpin bangsa</PERSON> serta <PERSON>para tokoh pemuda keluar</PERSON> dari <LOCATION>rumah laksamana maeda</LOCATION> , dengan diliputi kebanggaan seusai merumuskan teks proklamasi hingga dinihari .
+faktor itu juga dikarenakan laksamana tadashi maeda telah memberi tau terhadap <PERSON>ahmad subardjo</PERSON> ( sebagai salah satu pekerja di kantor laksamana maeda ) bahwa ia menjamin keselamatan mereka selagi berada di <LOCATION>rumahnya .</LOCATION>
 
 memproses passage 1
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-title : pembacaan proklamasi pukul 10.00 pagi
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
 list jawaban dan posisi dalam passage
-pemimpin bangsa | position = 0
-tokoh pemuda keluar | position = 1
+ahmad subardjo | position = 6
 
 
 melakukan pencarian:
 kata kunci = tulis
-tokenwithtagstemmed = pimpin bangsa
-tokenwithtagstemmed = tokoh pemuda keluar
-tokenwithtagstemmed = rumah laksamana maeda
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = bangga
-tokenwithtagstemmed = usai
-tokenwithtagstemmed = rumus
-tokenwithtagstemmed = teks
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = dinihari
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = tadashi
+tokenwithtagstemmed = maeda
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tau
+tokenwithtagstemmed = ahmad subardjo
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = kantor
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = maeda
+tokenwithtagstemmed = jamin
+tokenwithtagstemmed = selamat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = rumah
 kata kunci = konsep
-tokenwithtagstemmed = pimpin bangsa
-tokenwithtagstemmed = tokoh pemuda keluar
-tokenwithtagstemmed = rumah laksamana maeda
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = bangga
-tokenwithtagstemmed = usai
-tokenwithtagstemmed = rumus
-tokenwithtagstemmed = teks
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = dinihari
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = tadashi
+tokenwithtagstemmed = maeda
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tau
+tokenwithtagstemmed = ahmad subardjo
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = kantor
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = maeda
+tokenwithtagstemmed = jamin
+tokenwithtagstemmed = selamat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = rumah
 kata kunci = naskah
-tokenwithtagstemmed = pimpin bangsa
-tokenwithtagstemmed = tokoh pemuda keluar
-tokenwithtagstemmed = rumah laksamana maeda
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = bangga
-tokenwithtagstemmed = usai
-tokenwithtagstemmed = rumus
-tokenwithtagstemmed = teks
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = dinihari
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = tadashi
+tokenwithtagstemmed = maeda
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tau
+tokenwithtagstemmed = ahmad subardjo
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = kantor
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = maeda
+tokenwithtagstemmed = jamin
+tokenwithtagstemmed = selamat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = rumah
 kata kunci = proklamasi
-tokenwithtagstemmed = pimpin bangsa
-tokenwithtagstemmed = tokoh pemuda keluar
-tokenwithtagstemmed = rumah laksamana maeda
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = bangga
-tokenwithtagstemmed = usai
-tokenwithtagstemmed = rumus
-tokenwithtagstemmed = teks
-tokenwithtagstemmed = proklamasi
-posisi dalam passage = 8
-jarak dengan tiap kandidat jawaban:
-pemimpin bangsa -8
-tokoh pemuda keluar -7
-
-tokenwithtagstemmed = dinihari
-
-
-mereka , telah sepakat untuk memproklamasikan kemerdekaan bangsa indonesia hari itu di <LOCATION>rumah soekarno</LOCATION> , jalan pegangsaan timur no. 56 jakarta , pada <TIME>pukul 10.00 pagi .</TIME>
-
-
-tidak ada entitas jawaban, skip
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = tadashi
+tokenwithtagstemmed = maeda
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tau
+tokenwithtagstemmed = ahmad subardjo
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = kantor
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = maeda
+tokenwithtagstemmed = jamin
+tokenwithtagstemmed = selamat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = rumah
 
 
-bung hatta pernah beramanat terhadap <PERSON>para pemuda</PERSON> yang bekerja pada pers serta kantor-kantor kabar , untuk mempertidak sedikit naskah proklamasi serta menyebarkannya ke <LOCATION>seluruh dunia .</LOCATION>
+sebelum mereka mengawali merumuskan naskah proklamasi , terlebih dahulu <PERSON>sukarno</PERSON> dan hatta menemui somubuco ( kepala pemerintahan umum ) mayor jenderal nishimura , untuk menjajagi sikapnya mengenai proklamasi kemerdekaan .
 
 memproses passage 1
-sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-title : pembacaan proklamasi pukul 10.00 pagi
-list jawaban dan posisi dalam passage
-pemuda | position = 3
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = bung
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = amanat
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kerja
-tokenwithtagstemmed = pers
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tidak
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = dunia
-kata kunci = konsep
-tokenwithtagstemmed = bung
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = amanat
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kerja
-tokenwithtagstemmed = pers
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tidak
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = dunia
-kata kunci = naskah
-tokenwithtagstemmed = bung
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = amanat
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kerja
-tokenwithtagstemmed = pers
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tidak
-tokenwithtagstemmed = naskah
-posisi dalam passage = 11
-jarak dengan tiap kandidat jawaban:
-pemuda -8
-
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = dunia
-kata kunci = proklamasi
-tokenwithtagstemmed = bung
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = amanat
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kerja
-tokenwithtagstemmed = pers
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tidak
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = proklamasi
-posisi dalam passage = 12
-jarak dengan tiap kandidat jawaban:
-pemuda -9
-
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = dunia
-
-
-bung hatta pernah beramanat terhadap <PERSON>para pemuda</PERSON> yang bekerja pada pers serta kantor-kantor kabar , untuk mempertidak sedikit naskah proklamasi serta menyebarkannya ke <LOCATION>seluruh dunia .</LOCATION>
-
-memproses passage 2
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-title : pembacaan proklamasi pukul 10.00 pagi
-list jawaban dan posisi dalam passage
-pemuda | position = 3
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = bung
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = amanat
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kerja
-tokenwithtagstemmed = pers
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tidak
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = dunia
-kata kunci = konsep
-tokenwithtagstemmed = bung
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = amanat
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kerja
-tokenwithtagstemmed = pers
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tidak
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = dunia
-kata kunci = naskah
-tokenwithtagstemmed = bung
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = amanat
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kerja
-tokenwithtagstemmed = pers
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tidak
-tokenwithtagstemmed = naskah
-posisi dalam passage = 11
-jarak dengan tiap kandidat jawaban:
-pemuda -8
-
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = dunia
-kata kunci = proklamasi
-tokenwithtagstemmed = bung
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = amanat
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kerja
-tokenwithtagstemmed = pers
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tidak
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = proklamasi
-posisi dalam passage = 12
-jarak dengan tiap kandidat jawaban:
-pemuda -9
-
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = dunia
-
-
-menjelang pelaksanaan proklamasi kemerdekaan , suasana di jalan pegangsaan timur 56 lumayan sibuk .
-
-
-tidak ada entitas jawaban, skip
-
-
-wakil walikota , soewirjo , memerintahkan terhadap <PERSON>mr. wilopo</PERSON> untuk mempersiapkan peralatan yang diperlukan semacam mikrofon serta berbagai pengeras suara .
-
-memproses passage 2
-sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-title : pembacaan proklamasi pukul 10.00 pagi
-list jawaban dan posisi dalam passage
-mr wilopo | position = 4
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = walikota
-tokenwithtagstemmed = soewirjo
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = mr wilopo
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = perlu
-tokenwithtagstemmed = mikrofon
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = keras
-tokenwithtagstemmed = suara
-kata kunci = konsep
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = walikota
-tokenwithtagstemmed = soewirjo
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = mr wilopo
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = perlu
-tokenwithtagstemmed = mikrofon
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = keras
-tokenwithtagstemmed = suara
-kata kunci = naskah
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = walikota
-tokenwithtagstemmed = soewirjo
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = mr wilopo
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = perlu
-tokenwithtagstemmed = mikrofon
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = keras
-tokenwithtagstemmed = suara
-kata kunci = proklamasi
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = walikota
-tokenwithtagstemmed = soewirjo
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = mr wilopo
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = perlu
-tokenwithtagstemmed = mikrofon
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = keras
-tokenwithtagstemmed = suara
-
-
-sedangkan <PERSON>sudiro</PERSON> memerintahkan terhadap s. suhud untuk mempersiapkan satu tiang bendera .
-
-memproses passage 2
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-title : pembacaan proklamasi pukul 10.00 pagi
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
 list jawaban dan posisi dalam passage
-sudiro | position = 0
+sukarno | position = 4
 
 
 melakukan pencarian:
 kata kunci = tulis
-tokenwithtagstemmed = sudiro
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = s
-tokenwithtagstemmed = suhud
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = tiang
-tokenwithtagstemmed = bendera
-kata kunci = konsep
-tokenwithtagstemmed = sudiro
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = s
-tokenwithtagstemmed = suhud
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = tiang
-tokenwithtagstemmed = bendera
-kata kunci = naskah
-tokenwithtagstemmed = sudiro
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = s
-tokenwithtagstemmed = suhud
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = tiang
-tokenwithtagstemmed = bendera
-kata kunci = proklamasi
-tokenwithtagstemmed = sudiro
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = s
-tokenwithtagstemmed = suhud
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = tiang
-tokenwithtagstemmed = bendera
-
-
-sebab situasi yang tegang , suhud tak ingat bahwa di <LOCATION>depan rumah</LOCATION> soekarno itu , tetap ada dua tiang bendera dari logam yang tak dipakai .
-
-
-tidak ada entitas jawaban, skip
-
-
-sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan <PERSON>sukarno</PERSON> tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
-
-memproses passage 60
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-list jawaban dan posisi dalam passage
-sukarno | position = 9
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sajuti
-tokenwithtagstemmed = melik
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = etik
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = rumus
 tokenwithtagstemmed = naskah
-tokenwithtagstemmed = tulis
-posisi dalam passage = 7
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = somubuco
+tokenwithtagstemmed = kepala
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mayor
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = menjajagi
+tokenwithtagstemmed = sikap
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+kata kunci = konsep
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = naskah
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = somubuco
+tokenwithtagstemmed = kepala
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mayor
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = menjajagi
+tokenwithtagstemmed = sikap
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+kata kunci = naskah
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = naskah
+posisi dalam passage = 2
 jarak dengan tiap kandidat jawaban:
 sukarno 2
 
-tokenwithtagstemmed = tangan
+tokenwithtagstemmed = proklamasi
 tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = pakat
-kata kunci = konsep
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sajuti
-tokenwithtagstemmed = melik
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = somubuco
+tokenwithtagstemmed = kepala
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mayor
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = nishimura
 tokenwithtagstemmed = untuk
-tokenwithtagstemmed = etik
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = pakat
-kata kunci = naskah
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sajuti
-tokenwithtagstemmed = melik
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = etik
-tokenwithtagstemmed = naskah
-posisi dalam passage = 6
-jarak dengan tiap kandidat jawaban:
-sukarno 3
-
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = pakat
+tokenwithtagstemmed = menjajagi
+tokenwithtagstemmed = sikap
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
 kata kunci = proklamasi
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sajuti
-tokenwithtagstemmed = melik
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = etik
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = rumus
 tokenwithtagstemmed = naskah
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = tangan
+tokenwithtagstemmed = proklamasi
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+sukarno 1
+
 tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = pakat
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = somubuco
+tokenwithtagstemmed = kepala
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mayor
+tokenwithtagstemmed = jenderal
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = menjajagi
+tokenwithtagstemmed = sikap
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = proklamasi
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+sukarno -14
+
+tokenwithtagstemmed = merdeka
 
 
-ada tiga perubahan yang terdapat pada naskah ketikan sajuti melik , yaitu : kata “ tempoh ” diganti “ tempo ” , sedangkan kata “ wakil-wakil bangsa indonesia ” diganti dengan “ atas nama bangsa indonesia ” .
+mereka dikawani oleh <PERSON>laksamana maeda ,</PERSON> shigetada nishijima dan <PERSON>tomegoro yoshizumi</PERSON> dan miyoshi sebagai penterjemah .
 
-
-tidak ada entitas jawaban, skip
-
-
-perubahan juga dilakukan dalam cara menuliskan tanggal , yaitu “ djakarta , <TIME>17-8-05</TIME> ” menjadi “ djakarta , <TIME>hari 17 boelan 8 tahoen ‘ 05</TIME> ” .
-
-
-tidak ada entitas jawaban, skip
-
-
-sehingga naskah proklamasi ketikan sajuti melik itu , adalah sebagai berikut : proklamasi kami bangsa indonesia dengan ini menjatakan kemerdekaan indonesia .
-
-
-tidak ada entitas jawaban, skip
-
-
-hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , <TIME>hari 17 boelan 8 tahoen ‘ 05</TIME> atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
-
-
-tidak ada entitas jawaban, skip
-
-
-akhirnya mereka hanya mengharapkan pihak jepang tidak menghalang-halangi pelaksanaan proklamasi yang akan dilaksanakan oleh <PERSON>rakyat indonesia</PERSON> sendiri .
-
-memproses passage 53
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+memproses passage 1
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
 list jawaban dan posisi dalam passage
-rakyat indonesia | position = 8
+laksamana maeda | position = 1
+tomegoro yoshizumi | position = 4
 
 
 melakukan pencarian:
 kata kunci = tulis
-tokenwithtagstemmed = harap
-tokenwithtagstemmed = pihak
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = halang
-tokenwithtagstemmed = halang
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = rakyat indonesia
+tokenwithtagstemmed = kawan
+tokenwithtagstemmed = laksamana maeda
+tokenwithtagstemmed = shigetada
+tokenwithtagstemmed = nishijima
+tokenwithtagstemmed = tomegoro yoshizumi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = penterjemah
 kata kunci = konsep
-tokenwithtagstemmed = harap
-tokenwithtagstemmed = pihak
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = halang
-tokenwithtagstemmed = halang
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = rakyat indonesia
+tokenwithtagstemmed = kawan
+tokenwithtagstemmed = laksamana maeda
+tokenwithtagstemmed = shigetada
+tokenwithtagstemmed = nishijima
+tokenwithtagstemmed = tomegoro yoshizumi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = penterjemah
 kata kunci = naskah
-tokenwithtagstemmed = harap
-tokenwithtagstemmed = pihak
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = halang
-tokenwithtagstemmed = halang
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = rakyat indonesia
+tokenwithtagstemmed = kawan
+tokenwithtagstemmed = laksamana maeda
+tokenwithtagstemmed = shigetada
+tokenwithtagstemmed = nishijima
+tokenwithtagstemmed = tomegoro yoshizumi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = penterjemah
 kata kunci = proklamasi
-tokenwithtagstemmed = harap
-tokenwithtagstemmed = pihak
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = halang
-tokenwithtagstemmed = halang
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = proklamasi
-posisi dalam passage = 6
-jarak dengan tiap kandidat jawaban:
-rakyat indonesia 2
-
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = rakyat indonesia
+tokenwithtagstemmed = kawan
+tokenwithtagstemmed = laksamana maeda
+tokenwithtagstemmed = shigetada
+tokenwithtagstemmed = nishijima
+tokenwithtagstemmed = tomegoro yoshizumi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = penterjemah
 
 
-maka mereka kembali ke <LOCATION>rumah laksamana</LOCATION> maeda .
-
-
-tidak ada entitas jawaban, skip
-
-
-sebagai tuan rumah maeda mengundurkan diri ke <LOCATION>lantai dua .</LOCATION>
+sebagai baginda rumah maeda mengundurkan diri ke <LOCATION>lantai dua .</LOCATION>
 
 
 tidak ada entitas jawaban, skip
@@ -2375,125 +2217,357 @@ sukarno , drs. moh .
 
 tidak ada entitas jawaban, skip
 
+
+hatta dan <PERSON>mr. ahmad subardjo .</PERSON>
+
+memproses passage 4
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
+list jawaban dan posisi dalam passage
+mr ahmad subardjo | position = 1
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+kata kunci = konsep
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+kata kunci = naskah
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+kata kunci = proklamasi
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+
+
+momen ini disaksikan oleh <PERSON>miyoshi</PERSON> sebagai orang kepercayaan nishimura , bersama dengan tiga orang tokoh pemuda lainnya , yaitu : sukarni , mbah diro dan b.m. diah .
+
+memproses passage 4
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
+list jawaban dan posisi dalam passage
+miyoshi | position = 2
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = momen
+tokenwithtagstemmed = saksi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = mbah
+tokenwithtagstemmed = diro
+tokenwithtagstemmed = b.m
+tokenwithtagstemmed = diah
+kata kunci = konsep
+tokenwithtagstemmed = momen
+tokenwithtagstemmed = saksi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = mbah
+tokenwithtagstemmed = diro
+tokenwithtagstemmed = b.m
+tokenwithtagstemmed = diah
+kata kunci = naskah
+tokenwithtagstemmed = momen
+tokenwithtagstemmed = saksi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = mbah
+tokenwithtagstemmed = diro
+tokenwithtagstemmed = b.m
+tokenwithtagstemmed = diah
+kata kunci = proklamasi
+tokenwithtagstemmed = momen
+tokenwithtagstemmed = saksi
+tokenwithtagstemmed = miyoshi
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = nishimura
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = mbah
+tokenwithtagstemmed = diro
+tokenwithtagstemmed = b.m
+tokenwithtagstemmed = diah
+
+
+hatta dan <PERSON>mr ahmad subardjo</PERSON> menyumbangkan pikiran dengan cara lisan .
+
+memproses passage 6
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
+list jawaban dan posisi dalam passage
+mr ahmad subardjo | position = 1
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = sumbang
+tokenwithtagstemmed = pikir
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lisan
+kata kunci = konsep
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = sumbang
+tokenwithtagstemmed = pikir
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lisan
+kata kunci = naskah
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = sumbang
+tokenwithtagstemmed = pikir
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lisan
+kata kunci = proklamasi
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = sumbang
+tokenwithtagstemmed = pikir
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lisan
+
+
+kalimat pertama dari naskah proklamasi adalah saran dari <PERSON>mr. ahmad subardjo</PERSON> yang diambil dari rumusan bpupki .
+
+memproses passage 6
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+title : perumusan teks proklamasi hingga pagi
+list jawaban dan posisi dalam passage
+mr ahmad subardjo | position = 5
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = kalimat
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = naskah
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = saran
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = bpupki
+kata kunci = konsep
+tokenwithtagstemmed = kalimat
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = naskah
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = saran
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = bpupki
+kata kunci = naskah
+tokenwithtagstemmed = kalimat
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = naskah
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+mr ahmad subardjo 3
+
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = saran
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = bpupki
+kata kunci = proklamasi
+tokenwithtagstemmed = kalimat
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = naskah
+tokenwithtagstemmed = proklamasi
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+mr ahmad subardjo 2
+
+tokenwithtagstemmed = saran
+tokenwithtagstemmed = mr ahmad subardjo
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = bpupki
+
+
+sedangkan kalimat terbaru adalah sumbangan pikiran dari drs. moh .
+
+
+tidak ada entitas jawaban, skip
+
+
+hatta .
+
+
+tidak ada entitas jawaban, skip
+
+
+faktor itu dikarenakan menurut beliau butuh adanya tambahan pernyataan pengalihan kekuasaan ( transfer of sovereignty ) .
+
+
+tidak ada entitas jawaban, skip
+
 Pengurutan kandidat jawaban
 this.answer = sukarno
-passage rank = 4
+passage rank = 5
 distance = 1
-doc rank = 2
-total Score = 7
+doc rank = 3
+total Score = 9
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-
-this.answer = mr ahmad subardjo
-passage rank = 1
-distance = 2
-doc rank = 2
-total Score = 5
-frequency = 1
-order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 
 this.answer = sukarno
-passage rank = 2
-distance = 2
-doc rank = 2
-total Score = 6
-frequency = 1
-order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-
-this.answer = sukarno
-passage rank = 4
-distance = 2
-doc rank = 2
-total Score = 8
-frequency = 1
-order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-
-this.answer = sukarno
-passage rank = 9
-distance = 2
-doc rank = 2
+passage rank = 8
+distance = 1
+doc rank = 4
 total Score = 13
 frequency = 1
-order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+order process = 11
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+document Title = perumusan teks proklamasi hingga pagi
+
+this.answer = mr ahmad subardjo
+passage rank = 1
+distance = 2
+doc rank = 3
+total Score = 6
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 
-this.answer = rakyat indonesia
-passage rank = 10
+this.answer = sukarno
+passage rank = 3
 distance = 2
-doc rank = 2
+doc rank = 3
+total Score = 8
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+
+this.answer = sukarno
+passage rank = 5
+distance = 2
+doc rank = 3
+total Score = 10
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+
+this.answer = sukarno
+passage rank = 8
+distance = 2
+doc rank = 4
 total Score = 14
 frequency = 1
-order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+document Title = perumusan teks proklamasi hingga pagi
+
+this.answer = mr ahmad subardjo
+passage rank = 10
+distance = 2
+doc rank = 4
+total Score = 16
+frequency = 1
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+document Title = perumusan teks proklamasi hingga pagi
 
 this.answer = mr ahmad subardjo
 passage rank = 1
 distance = 3
-doc rank = 2
-total Score = 6
-frequency = 1
-order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-
-this.answer = sukarno
-passage rank = 2
-distance = 3
-doc rank = 2
+doc rank = 3
 total Score = 7
 frequency = 1
-order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 
 this.answer = sukarno
-passage rank = 9
+passage rank = 3
 distance = 3
-doc rank = 2
-total Score = 14
+doc rank = 3
+total Score = 9
 frequency = 1
-order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 
-this.answer = pemimpin indonesia
-passage rank = 6
-distance = 4
-doc rank = 2
-total Score = 12
-frequency = 1
-order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-
-this.answer = hadirin
-passage rank = 5
-distance = 9
-doc rank = 2
-total Score = 16
-frequency = 1
-order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-
-this.answer = hadirin
-passage rank = 6
-distance = 9
-doc rank = 2
+this.answer = mr ahmad subardjo
+passage rank = 10
+distance = 3
+doc rank = 4
 total Score = 17
 frequency = 1
+order process = 12
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+document Title = perumusan teks proklamasi hingga pagi
+
+this.answer = pemimpin indonesia
+passage rank = 7
+distance = 4
+doc rank = 3
+total Score = 14
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+
+this.answer = hadirin
+passage rank = 6
+distance = 9
+doc rank = 3
+total Score = 18
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+
+this.answer = hadirin
+passage rank = 7
+distance = 9
+doc rank = 3
+total Score = 19
+frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 
 

@@ -21,7 +21,7 @@ public class DocumentEditor {
 
 	public static void main(String[] args) throws SAXException, IOException, ParserConfigurationException {
 		// TODO Auto-generated method stub
-		String fileLocation = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\dokumenSejarah";
+		String fileLocation = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\dokumenSejarah";
 		File dir = new File (fileLocation);
 		File[] directoryListing = dir.listFiles();
 		for (File file:directoryListing)

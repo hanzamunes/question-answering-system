@@ -1,9 +1,11 @@
 package com.tutorialspoint.lucene;
 
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.ObjectOutputStream;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.StringReader;
@@ -48,8 +50,8 @@ import suggestion.SuggestionSearch;
 
 public class LuceneTester {
 	static Scanner scan;
-	public String indexDir = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\Index";
-	public String dataDir = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\dokumenSejarah";
+	public String indexDir = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\Index";
+	public String dataDir = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\dokumenSejarah";
    Indexer indexer;
    Searcher searcher;
    public static Writer out;
@@ -88,13 +90,14 @@ public class LuceneTester {
 	   return q;
    }
    
-   public ArrayList<AnswerModel> runSearcherWithDebug(String ask,String path,boolean withQueryExpander, boolean sentenceBased)
+   public ArrayList<AnswerModel> runSearcherWithDebug(String ask,String path,boolean withQueryExpander, boolean sentenceBased,boolean CreateIndex)
    {
 	   ArrayList<AnswerModel> hasil = new ArrayList<AnswerModel>();
 	   BufferedWriter writeRetrievedDocument =
 	null;
 	   ask = ask.trim();
 	      ask = ask.replaceAll("\\p{Punct}", "");
+	      String rocchioIndexdir = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\rocchioIndex\\percobaan "+Utils.percobaanKe+"\\"+ask;
 	   try
 		{
 		   writeRetrievedDocument = new BufferedWriter (new OutputStreamWriter(new FileOutputStream(path),"UTF-8"));
@@ -106,10 +109,13 @@ public class LuceneTester {
 			e1.printStackTrace();
 		}
 	   	
-	      ask = fuzzyQueryCreatorString (ask);
+	      //ask = fuzzyQueryCreatorString (ask);
 	      //BooleanQuery askQuery = fuzzyQueryCreator (ask);
 	      try {
-	         createIndex();
+	    	  if (CreateIndex)
+	    	  {
+	    		  createIndex();
+	    	  }
 	         StopWord stop = new StopWord("stopword_list_tala.txt");
 	         QueryParser queryParser = new QueryParser(Version.LUCENE_36,
 	                 LuceneConstants.TEXT,
@@ -121,21 +127,23 @@ public class LuceneTester {
 	         out.write("searching awal\n");
 	         ArrayList<Document> topDocument = retrieveDocument(originalQuery, -1);
 	         out.write("\n");
-	         SuggestionSearch suggest = new SuggestionSearch (topDocument.get(0));
-	         ask = ask.replace("~0.5", "");
+	         //SuggestionSearch suggest = new SuggestionSearch (topDocument.get(0));
+	         //ask = ask.replace("~0.5", "");
 	         //ask = suggest.getSuggestions(ask);
-	         ask = ask.trim();
+	         //ask = ask.trim();
 	         //askQuery = fuzzyQueryCreator (ask);
 	         System.out.println(ask);
 	         //originalQuery = new Query (1,queryParser.parse(ask));
-	         System.out.println("Showing the result from autocorrect = "+ask);
+	         //System.out.println("Showing the result from autocorrect = "+ask);
 	         ArrayList<Document> topNewDocument;
 	         if (withQueryExpander)
 	         {
 	        	 RocchioExpander rocchio = new RocchioExpander(new IndonesianAnalyzer(Version.LUCENE_36),LuceneConstants.TEXT,Utils.alpha,Utils.beta,Utils.gamma,Utils.documentLimit,Utils.termLimit);
-		         Query newQuery = rocchio.expand(originalQuery, topDocument,indexDir);
+		         Query newQuery = rocchio.expand(originalQuery, topDocument,rocchioIndexdir);
 		         out.write("searching dari query expansion\n");
-		         topNewDocument = retrieveDocument(newQuery, LuceneConstants.MAX_SEARCH);
+		         String expandedQuery = newQuery.getQuery().toString(LuceneConstants.TEXT);
+		         out.write("query hasil ekspansi = "+expandedQuery+"\n");
+		         topNewDocument = retrieveDocument(newQuery, Utils.documentLimit);
 	         }
 	         else
 	         {
@@ -254,12 +262,13 @@ public class LuceneTester {
 	      return hasil;
    }
    
-   public ArrayList<AnswerModel> runSearcher(String ask)
+   public ArrayList<AnswerModel> runSearcher(String ask,boolean withQueryExpander, boolean sentenceBased,boolean CreateIndex)
    {
+	   System.out.print("masuk loh");
 	   ArrayList<AnswerModel> hasil = new ArrayList<AnswerModel>();
 	   try
 		{
-			out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(Utils.savePath7), "UTF-8"));
+			out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(Utils.savePath9), "UTF-8"));
 		} catch (UnsupportedEncodingException | FileNotFoundException e1)
 		{
 			// TODO Auto-generated catch block
@@ -267,11 +276,17 @@ public class LuceneTester {
 		}
 	   	ask = ask.trim();
 	      ask = ask.replaceAll("\\p{Punct}", "");
-	      ask = fuzzyQueryCreatorString (ask);
+	      String rocchioIndexdir = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\rocchioIndex\\percobaan "+Utils.percobaanKe+"\\"+ask;
+	      //ask = fuzzyQueryCreatorString (ask);
 	      //BooleanQuery askQuery = fuzzyQueryCreator (ask);
+	      System.out.println("sampai sini");
 	      try {
-	         createIndex();
-	         StopWord stop = new StopWord("stopword_list_tala.txt");
+	    	  if (CreateIndex)
+	    	  {
+	    		  createIndex();
+	    		  System.out.println("create index jalan");
+	    	  }
+	         //StopWord stop = new StopWord("stopword_list_tala.txt");
 	         QueryParser queryParser = new QueryParser(Version.LUCENE_36,
 	                 LuceneConstants.TEXT,
 	                 new IndonesianAnalyzer(Version.LUCENE_36));
@@ -282,18 +297,33 @@ public class LuceneTester {
 	         out.write("searching awal\n");
 	         ArrayList<Document> topDocument = retrieveDocument(originalQuery, -1);
 	         out.write("\n");
-	         SuggestionSearch suggest = new SuggestionSearch (topDocument.get(0));
-	         ask = ask.replace("~0.5", "");
+	         //SuggestionSearch suggest = new SuggestionSearch (topDocument.get(0));
+	         //ask = ask.replace("~0.5", "");
 	         //ask = suggest.getSuggestions(ask);
-	         ask = ask.trim();
+	         //ask = ask.trim();
 	         //askQuery = fuzzyQueryCreator (ask);
 	         System.out.println(ask);
 	         //originalQuery = new Query (1,queryParser.parse(ask));
-	         System.out.println("Showing the result from autocorrect = "+ask);
-	         RocchioExpander rocchio = new RocchioExpander(new IndonesianAnalyzer(Version.LUCENE_36),LuceneConstants.TEXT,Utils.alpha,Utils.beta,Utils.gamma,Utils.documentLimit,Utils.termLimit);
-	         Query newQuery = rocchio.expand(originalQuery, topDocument,indexDir);
-	         out.write("searching dari query expansion\n");
-	         ArrayList<Document> topNewDocument = retrieveDocument(newQuery, LuceneConstants.MAX_SEARCH);
+	         //System.out.println("Showing the result from autocorrect = "+ask);
+	         ArrayList<Document> topNewDocument;
+	         if (withQueryExpander)
+	         {
+	        	 RocchioExpander rocchio = new RocchioExpander(new IndonesianAnalyzer(Version.LUCENE_36),LuceneConstants.TEXT,Utils.alpha,Utils.beta,Utils.gamma,Utils.documentLimit,Utils.termLimit);
+		         Query newQuery = rocchio.expand(originalQuery, topDocument,rocchioIndexdir);
+		         out.write("searching dari query expansion\n");
+		         String expandedQuery = newQuery.getQuery().toString(LuceneConstants.TEXT);
+		         out.write("query hasil ekspansi = "+expandedQuery+"\n");
+		         topNewDocument = retrieveDocument(newQuery, Utils.documentLimit);
+	         }
+	         else
+	         {
+	        	 topNewDocument = new ArrayList<Document>();
+	        	 for (int i=0;i<Utils.documentLimit;i++)
+	        	 {
+	        		 if (i<topDocument.size())
+	        		 topNewDocument.add(topDocument.get(i));
+	        	 }
+	         }
 	         out.write("\n");
 	         ask = ask.replace("~0.5", "");
 	         PassageRetrieval passage = new PassageRetrieval ();
@@ -332,7 +362,7 @@ public class LuceneTester {
 	        	 out.write("\n");
 	        	 ranked.addAll(temp1);
 	         }
-	         long seed = System.nanoTime();
+	         //long seed = System.nanoTime();
 	         //Collections.shuffle(ranked,new Random(seed)); //INI SUMBER PERMASALAHANNYA!!!!
 	         Collections.sort(ranked,Comparator.comparing(p -> -p.getRight()));
 	         out.write("\nAfter sorted, chosen passage is : \n");
@@ -350,7 +380,14 @@ public class LuceneTester {
 	         }
 	         out.write("\nPencarian jawaban\n");
 	         out.write("---------------------\n");
-	         hasil =  AnswerExtraction.extractAnswer(ranked, queryToken, entity, topNPassage);
+	         if (sentenceBased)
+	         {
+	        	 hasil =  AnswerExtraction.extractAnswerSentenceBased(ranked, queryToken, entity, topNPassage);
+	         }
+	         else
+	         {
+	        	 hasil = AnswerExtraction.extractAnswer(ranked, queryToken, entity, topNPassage);
+	         }
 	         out.write("\n\nselesai");
 	         out.close();
 	      } catch (IOException e) {
@@ -378,13 +415,13 @@ public class LuceneTester {
    }
 
    public static void main(String[] args) throws SAXException, ParserConfigurationException, ClassCastException, ClassNotFoundException {
-      LuceneTester tester = new LuceneTester();
+
+    	  scan = new Scanner (System.in);
+          System.out.print("Input pertanyaan = ");
+          String ask = scan.nextLine();
+          LuceneTester tester = new LuceneTester();
+          tester.runSearcher(ask,false,true,true);
       
-      
-      scan = new Scanner (System.in);
-      System.out.print("Input pertanyaan = ");
-      String ask = scan.nextLine();
-      tester.runSearcher(ask);
    }
 
    public void createIndex() throws IOException, SAXException, ParserConfigurationException{

@@ -1,109 +1,109 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok23.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok94.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok210.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok389.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok328.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok138.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok67.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok120.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok49.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok218.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok20.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok91.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok242.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok357.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok238.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok174.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok345.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok121.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok50.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok168.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok350.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok329.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok211.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok354.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok4.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok75.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok290.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok148.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok285.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok27.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok98.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok136.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok65.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok125.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok54.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok79.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok8.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok134.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok63.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok260.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok350.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok107.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok36.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok138.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok67.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok181.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok337.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok122.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok51.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok136.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok178.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok65.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok238.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok152.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok264.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok192.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok135.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok64.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok125.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok54.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok360.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok256.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok366.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok363.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok109.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok38.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok12.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok83.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok352.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok184.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok186.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok339.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok100.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok104.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok106.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok29.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok33.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok35.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok370.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok383.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok101.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok110.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok30.txt
 
 
 query token : 
 menandatangani janji bongaya 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
 title : sejarah kerajaan makassar (goa-tallo)
 passage 5 score = 8.5
 sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
@@ -136,7 +136,7 @@ sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc
 sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
 sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
 title : sejarah kerajaan makassar (goa-tallo)
 passage 5 score = 8.5
 sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
@@ -169,273 +169,273 @@ sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc
 sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
 sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 59 score = 7.833333333333333
-sentence 1: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
-sentence 2: karena mereka beranggapan bahwa sebagian tokoh-tokoh tua yang hadir adalah “ budak-budak ” jepang .
-sentence 3: selanjutnya sukarni , salah satu tokoh golongan muda , mengusulkan agar yang menandatangani naskah proklamasi cukup sukarno-hatta atas nama bangsa indonesia .
-sentence 4: setelah usulan sukarni itu disetujui , maka ir .
-sentence 5: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
-passage 32 score = 7.333333333333333
-sentence 1: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
-sentence 2: ketika ketiga tokoh itu berangkat kembali menuju jakarta pada tanggal 14 agustus 1945 , jepang telah dibom atom oleh sekutu di kota hirosima dan nagasaki .
-sentence 3: bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke manchuria .
-sentence 4: dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
-sentence 5: keesokan harinya , pada tanggal 15 agustus 1945 sukarno-hatta tiba kembali di tanah air .
-passage 35 score = 7.333333333333333
-sentence 1: hatta .
-sentence 2: syahrir juga menanyakan mengenai kemerdekaan indonesia sehubungan dengan peristiwa tersebut .
-sentence 3: moh .
-sentence 4: hatta berjanji akan menanyakan hal itu kepada gunseikanbu .
-sentence 5: setelah yakin bahwa jepang telah menyerah kepada sekutu , moh .
-passage 37 score = 7.333333333333333
-sentence 1: rapat yang dipimpin oleh chairul saleh itu menghasilkan keputusan “ kemerdekaan indonesia adalah hak dan soal rakyat indonesia sendiri , tak dapat digantungkan pada orang dan negara lain .
-sentence 2: segala ikatan dan hubungan dengan janji kemerdekaan dari jepang harus diputuskan dan sebaliknya diharapkan diadakan perundingan dengan golongan muda agar mereka diikutsertakan dalam pernyataan proklamasi . ”
-sentence 3: keputusan rapat itu disampaikan oleh wikana dan darwis pada pukul 22.30 waktu jawa kepada ir .
-sentence 4: sukarno di rumahnya , jl .
-sentence 5: pegangsaan timur 56 , jakarta .
-passage 58 score = 7.333333333333333
-sentence 1: ir .
-sentence 2: sukarno meminta kepada semua hadirin untuk menandatangani naskah proklamasi selaku wakil-wakil bangsa indonesia .
-sentence 3: pendapat itu diperkuat oleh moh .
-sentence 4: hatta dengan mengambil contoh naskah “ declaration of independence ” dari amerika serikat .
-sentence 5: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-title : penjelasan teori (pendapat) masuknya islam di indonesia
-passage 1 score = 6.5
-sentence 1: penjelasan teori ( pendapat ) masuknya islam di indonesia - proses islamisasi yang terjadi di indonesia beriringan dengan proses perdagangan yang terjadi antara bangsa indonesia dengan bangsa asing .
-sentence 2: sebagaimana telah dikemukakan bahwa secara geografis , indonesia merupakan sebuah wilayah kepulauan yang terbuka bagi terjadinya interaksi perdagangan .
-sentence 3: salah satu dampak dari interaksi tersebut adalah masuknya islam ke indonesia .
-sentence 4: hal-hal yang menjadi pertanyaan mengenai proses islamisasi tersebut ialah dari manakah asalnya bangsa indonesia menerima islam , dan kapan islam itu datang ?
-sentence 5: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
-passage 2 score = 6.5
-sentence 1: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
-sentence 2: berita-berita dari bangsa asing menunjukkan bahwa para pedagang islam diperkirakan pertama kali datang ke indonesia pada abad ke-7 m , yaitu ketika berkuasanya kerajaan sriwijaya .
-sentence 3: pada saat itu , di pusat kerajaan sriwijaya telah dijumpai perkampungan-perkampungan pedagang arab .
-sentence 4: menurut berita ibn hordadzbeth ( 844-848 m ) , pedagang sulaiman ( 902 m ) , ibn rosteh ( 903 m ) , abu yazid ( 916 m ) , dan ahli geografi mas ’ udi ( 955 m ) , kerajaan sriwijaya ( sribu a ) berada di bawah kekuasaan raja zabag yang kaya dan menguasai jalur perdagangan dengan kerajaan oman .
-sentence 5: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
-passage 3 score = 6.5
-sentence 1: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
-sentence 2: pedagang-pedagang gujarat dari india yang datang ke indonesia bukan hanya untuk berdagang , tetapi juga untuk menyebarkan agama yang mereka anut .
-sentence 3: di samping itu , para saudagar yang datang dari persia juga ikut menyebarkan agama islam di indonesia .
-sentence 4: teknologi pelayaran pada masa itu tidak secanggih sekarang , pelayaran pada masa lalu sangat tergantung pada angin musim yang membantu kapal mereka bergerak sesuai tujuan .
-sentence 5: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
-passage 4 score = 6.5
-sentence 1: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
-sentence 2: selama masa tunggu itu , mereka bergaul dengan penduduk setempat .
-sentence 3: kesempatan itu digunakan oleh para pedagang dari arab , gujarat , dan persia untuk menyebarkan agama islam .
-sentence 4: penyebaran agama islam di indonesia terjadi secara berangsur-angsur selama beberapa abad lamanya .
-sentence 5: waktu masuknya agama islam ke indonesia di tiap-tiap daerah tidak sama .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok350.txt
+title : sejarah perang vietnam
+passage 9 score = 7.833333333333333
+sentence 1: perundingan gencatan senjata yang seharusnya ditandatangani pada tahun 1970 , akhirnya baru ditandatangani pada tahun 1973 .
+sentence 2: meskipun persetujuan damai telah ditandatangani , pada praktiknya masih sering terjadi pelanggaran .
+sentence 3: keadaan dalam negeri vietnam selatan sendiri sedang terjadi keretakan .
+sentence 4: presiden nguyen van thiew mengundurkan diri dan menunjuk wakil presiden tran van huong sebagai peggantinya .
+sentence 5: ketika mengundurkan diri presiden nguyen van thiew mengecam presiden amerika serikat , nixon karena mendesaknya menandatangani persetujuan paris .
+passage 10 score = 7.666666666666667
+sentence 1: ketika mengundurkan diri presiden nguyen van thiew mengecam presiden amerika serikat , nixon karena mendesaknya menandatangani persetujuan paris .
+sentence 2: padahal itu artinya vietnam selatan menyerah pada vietnam utara .
+sentence 3: selain itu , ia bersedia menandatangani persetujuan itu karena amerika serikat berjanji mengirim pesawat pembom b-52 apabila terjadi pelanggaran oleh vietnam utara .
+sentence 4: namun , nyatanya amerika serikat mengingkari hal itu .
+sentence 5: pelanggaran persetujuan damai makin sering terjadi .
 passage 6 score = 6.5
-sentence 1: jalur perkawinan dilakukan oleh para pedagang islam yang biasanya tinggal di kota-kota pantai dan membentuk perkampungan-perkampungan untuk menunggu angin musim .
-sentence 2: pada saat inilah , para pedagang tersebut menikahi para wanita pribumi .
-sentence 3: para wanita tersebut kemudian memeluk agama islam .
-sentence 4: ada beberapa pendapat atau teori tentang proses islamisasi di indonesia .
-sentence 5: menurut ricklefs , ada kemungkinan berlangsungnya melalui dua proses .
+sentence 1: penyerbuan pasukan komunis itu dapat dipatahkan , tetapi kedua belah pihak menderita kerugian dalam jumlah yang besar .
+sentence 2: menyadari bahwa perang vietnam telah berlangsung lama dan memakan korban jiwa yang tidak sedikit , usaha mencapai perdamaian pun digelar pada sekitar tahun 1970 .
+sentence 3: pemerintah vietnam utara , pemerintah vietnam selatan , dan pemerintah amerika serikat melakukan perundingan di paris .
+sentence 4: pada tahun 1972 pemerintah amerika serikat mengumumkan bahwa indonesia , kanada , polandia , dan hongaria pada prinsipnya sepakat untuk menjadi pengawas gencatan senjata di vietnam .
+sentence 5: namun , kesepakatan itu menjadi berantakan karena viet minh dan vietkong secara tiba-tiba pada tanggal 3 april 1972 melakukan serangan besar-besaran dan hampir saja menguasai saigon , ibu kota vietnam selatan .
+passage 7 score = 6.5
+sentence 1: namun , kesepakatan itu menjadi berantakan karena viet minh dan vietkong secara tiba-tiba pada tanggal 3 april 1972 melakukan serangan besar-besaran dan hampir saja menguasai saigon , ibu kota vietnam selatan .
+sentence 2: atas tindakan tersebut , presiden amerika serikat , richard nixon bersikap tegas dan mengeluarkan perintah , antara lain : a. meranjau semua lalu lintas laut yang menuju vietnam utara ; b. menghancurkan semua jalur komunikasi dan transportasi vietnam utara .
+sentence 3: untuk melaksanakan tindakan pembersihan jalur laut vietnam utara , amerika serikat meminta semua kapal asing untuk keluar dari wilayah vietnam utara .
+sentence 4: tindakan itu akan terus dilaksanakan sampai vietnam utara setuju melakukan gencatan senjata dan membebaskan tawanan perang amerika serikat .
+sentence 5: tindakan amerika serikat tentu saja menimbulkan pro dan kontra dunia .
+passage 2 score = 6.0
+sentence 1: untuk keperluan menghancurkan vietnam selatan , ho chi minh mengirimkan pasukan viet minh menyusup ke selatan .
+sentence 2: usaha menghancurkan vietnam selatan mendapat bantuan dari negara komunis , uni soviet dan cina .
+sentence 3: blok barat yang mengetahui tindakan kedua negara komunis terhadap vietnam utara dan merasa mempunyai kepentingan di vietnam selatan juga berusaha mempertahankan wilayah tersebut .
+sentence 4: amerika serikat memerintahkan pasukannya membantu vietnam selatan .
+sentence 5: dengan demikian , perang vietnam merupakan contoh konkret perebutan pengaruh dua negara adidaya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-title : pendapat-pendapat tentang proses awal penyebaran islam di indonesia
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+title : sejarah cina setelah perang dunia ii
+passage 6 score = 8.166666666666668
+sentence 1: oleh karena kejadian tersebut , sejak tahun 1960 uni soviet menghentikan pengiriman para ahlinya ke cina .
+sentence 2: bahkan , uni soviet juga menolak membantu cina ketika terjadi perang di perbatasan dengan india pada tahun 1962 .
+sentence 3: cina makin memusuhi uni soviet setelah negara itu menandatangani perjanjian kerja sama uji coba persenjataan nuklir pada tahun 1963 .
+sentence 4: pada tahun 1966 mao zedong berusaha mengembalikan cina ke jalur revolusioner karena ia melihat adanya pergeseran dalam pola hidup masyarakat cina .
+sentence 5: untuk memenuhi ambisinya itu , mao zedong melaksanakan revolusi kebudayaan .
 passage 1 score = 6.5
-sentence 1: pendapat-pendapat tentang proses awal penyebaran islam di indonesia - proses islamisasi yang terjadi di indonesia beriringan dengan proses perdagangan yang terjadi antara bangsa indonesia dengan bangsa asing .
-sentence 2: sebagaimana telah dikemukakan bahwa secara geografis , indonesia merupakan sebuah wilayah kepulauan yang terbuka bagi terjadinya interaksi perdagangan .
-sentence 3: salah satu dampak dari interaksi tersebut adalah masuknya islam ke indonesia .
-sentence 4: hal-hal yang menjadi pertanyaan mengenai proses islamisasi tersebut ialah dari manakah asalnya bangsa indonesia menerima islam , dan kapan islam itu datang ?
-sentence 5: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+sentence 1: sejarah cina setelah perang dunia ii – ketika perang dunia ii berakhir , kaum komunis telah berhasil menguasai wilayah cina bagian utara .
+sentence 2: usaha untuk mengakhiri pertikaian di cina setelah perang dunia ii juga telah dicoba dilakukan .
+sentence 3: amerika serikat sebagai salah satu negara adidaya berusaha menghentikan perang saudara di cina dengan mengirim jenderal george c. marshall ke cina pada tahun 1946 .
+sentence 4: tugasnya adalah mengusahakan penyelesaian politik antara kaum nasionalis dan kaum komunis .
+sentence 5: namun , usaha itu mengalami kegagalan .
 passage 2 score = 6.5
-sentence 1: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
-sentence 2: berita-berita dari bangsa asing menunjukkan bahwa para pedagang islam diperkirakan pertama kali datang ke indonesia pada abad ke-7 m , yaituketika berkuasanya kerajaan sriwijaya .
-sentence 3: pada saat itu , di pusat kerajaan sriwijaya telah dijumpai perkampungan-perkampungan pedagang arab .
-sentence 4: menurut berita ibn hordadzbeth ( 844-848 m ) , pedagang sulaiman ( 902 m ) , ibn rosteh ( 903 m ) , abu yazid ( 916 m ) , dan ahli geografi mas ’ udi ( 955 m ) , kerajaan sriwijaya ( sribu a ) berada di bawah kekuasaan raja zabag yang kaya dan menguasai jalur perdagangan dengan kerajaan oman .
-sentence 5: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+sentence 1: namun , usaha itu mengalami kegagalan .
+sentence 2: keunggulan pasukan dan taktik yang jitu dari kaum komunis dan keberhasilan revolusi sosial berhasil mengalahkan kaum nasionalis .
+sentence 3: pasukan mao zedong setelah berhasil merebut tientsin dan beijing pada januari 1949 berhasil memukul mundur pasukan kaum nasionalis ke wilayah selatan .
+sentence 4: pada tanggal 1 oktober 1949 mao zedong memproklamasikan berdirinya republik rakyat cina dengan ibu kota beijing .
+sentence 5: sementara itu , chiang kai-shek dan para pengikutnya menyingkir ke pulau taiwan .
 passage 3 score = 6.5
-sentence 1: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
-sentence 2: pedagang-pedagang gujarat dari india yang datang ke indonesia bukan hanya untuk berdagang , tetapi juga untuk menyebarkan agama yang mereka anut .
-sentence 3: di samping itu , para saudagar yang datang dari persia juga ikut menyebarkan agama islam di indonesia .
-sentence 4: teknologi pelayaran pada masa itu tidak secanggih sekarang , pelayaran pada masa lalu sangat tergantung pada angin musim yang membantu kapal mereka bergerak sesuai tujuan .
-sentence 5: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
-passage 4 score = 6.5
-sentence 1: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
-sentence 2: selama masa tunggu itu , mereka bergaul dengan penduduk setempat .
-sentence 3: kesempatan itu digunakan oleh para pedagang dari arab , gujarat , dan persia untuk menyebarkan agama islam .
-sentence 4: penyebaran agama islam di indonesia terjadi secara berangsur-angsur selama beberapa abad lamanya .
-sentence 5: waktu masuknya agama islam ke indonesia di tiap-tiap daerah tidak sama .
-passage 6 score = 6.5
-sentence 1: jalur perkawinan dilakukan oleh para pedagang islam yang biasanya tinggal di kota-kota pantai dan membentuk perkampungan-perkampungan untuk menunggu angin musim .
-sentence 2: pada saat inilah , para pedagang tersebut menikahi para wanita pribumi .
-sentence 3: para wanita tersebut kemudian memeluk agama islam .
-sentence 4: ada beberapa pendapat atau teori tentang proses islamisasi di indonesia .
-sentence 5: menurutricklefs , ada kemungkinan berlangsungnya melalui dua proses .
+sentence 1: sementara itu , chiang kai-shek dan para pengikutnya menyingkir ke pulau taiwan .
+sentence 2: pemerintahan baru cina ini mendapat dukungan militer dan ekonomi dari uni soviet .
+sentence 3: kehadiran cina dengan paham komunisnya tentu saja menjadi pesaing baru bagi blok barat .
+sentence 4: kemampuan cina membangun angkatan bersenjata dengan personal yang besar , kemampuan tenaga ahlinya yang mampu membuat bom atom , dan keberhasilannya dalam menata kepemilikan tanah ( landreform ) menjadi kekhawatiran tersendiri bagi blok barat .
+sentence 5: suasana perang dingin di wilayah asia makin mencekam setelah komunis cina berusaha meluaskan ajaran mao zedong pada negara-negara berkembang lainnya .
+passage 8 score = 6.5
+sentence 1: pada tahun 1971 amerika serikat dan sekutunya menerima rrc sebagai anggota pbb menggantikan taiwan .
+sentence 2: pada tahun 1976 mao zedong meninggal dunia .
+sentence 3: sepeninggalnya terjadi perebutan kekuasaan di cina .
+sentence 4: kaum moderat pimpinan hua guofeng dan kaum radikal pimpinan jiang qing , janda mao zedong berebut kekuasaan pemerintahan .
+sentence 5: perebutan kekuasaan itu akhirnya dimenangkan oleh kelompok moderat .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-title : penjelasan teori (pendapat) masuknya islam di indonesia
-passage 1 score = 5.5
-sentence 1: penjelasan teori ( pendapat ) masuknya islam di indonesia - proses islamisasi yang terjadi di indonesia beriringan dengan proses perdagangan yang terjadi antara bangsa indonesia dengan bangsa asing .
-sentence 2: sebagaimana telah dikemukakan bahwa secara geografis , indonesia merupakan sebuah wilayah kepulauan yang terbuka bagi terjadinya interaksi perdagangan .
-sentence 3: salah satu dampak dari interaksi tersebut adalah masuknya islam ke indonesia .
-sentence 4: hal-hal yang menjadi pertanyaan mengenai proses islamisasi tersebut ialah dari manakah asalnya bangsa indonesia menerima islam , dan kapan islam itu datang ?
-sentence 5: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
-passage 2 score = 5.5
-sentence 1: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
-sentence 2: berita-berita dari bangsa asing menunjukkan bahwa para pedagang islam diperkirakan pertama kali datang ke indonesia pada abad ke-7 m , yaitu ketika berkuasanya kerajaan sriwijaya .
-sentence 3: pada saat itu , di pusat kerajaan sriwijaya telah dijumpai perkampungan-perkampungan pedagang arab .
-sentence 4: menurut berita ibn hordadzbeth ( 844-848 m ) , pedagang sulaiman ( 902 m ) , ibn rosteh ( 903 m ) , abu yazid ( 916 m ) , dan ahli geografi mas ’ udi ( 955 m ) , kerajaan sriwijaya ( sribu a ) berada di bawah kekuasaan raja zabag yang kaya dan menguasai jalur perdagangan dengan kerajaan oman .
-sentence 5: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
-passage 3 score = 5.5
-sentence 1: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
-sentence 2: pedagang-pedagang gujarat dari india yang datang ke indonesia bukan hanya untuk berdagang , tetapi juga untuk menyebarkan agama yang mereka anut .
-sentence 3: di samping itu , para saudagar yang datang dari persia juga ikut menyebarkan agama islam di indonesia .
-sentence 4: teknologi pelayaran pada masa itu tidak secanggih sekarang , pelayaran pada masa lalu sangat tergantung pada angin musim yang membantu kapal mereka bergerak sesuai tujuan .
-sentence 5: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
-passage 4 score = 5.5
-sentence 1: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
-sentence 2: selama masa tunggu itu , mereka bergaul dengan penduduk setempat .
-sentence 3: kesempatan itu digunakan oleh para pedagang dari arab , gujarat , dan persia untuk menyebarkan agama islam .
-sentence 4: penyebaran agama islam di indonesia terjadi secara berangsur-angsur selama beberapa abad lamanya .
-sentence 5: waktu masuknya agama islam ke indonesia di tiap-tiap daerah tidak sama .
-passage 6 score = 5.5
-sentence 1: jalur perkawinan dilakukan oleh para pedagang islam yang biasanya tinggal di kota-kota pantai dan membentuk perkampungan-perkampungan untuk menunggu angin musim .
-sentence 2: pada saat inilah , para pedagang tersebut menikahi para wanita pribumi .
-sentence 3: para wanita tersebut kemudian memeluk agama islam .
-sentence 4: ada beberapa pendapat atau teori tentang proses islamisasi di indonesia .
-sentence 5: menurut ricklefs , ada kemungkinan berlangsungnya melalui dua proses .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok107.txt
+title : perang koalisi dan pengaruh revolusi perancis
+passage 1 score = 7.833333333333333
+sentence 1: perang koalisi dan pengaruh revolusi perancis perang koalisi ( 1792 – 1815 ) kekuasaan napoleon yang begitu besar di eropa tidak terlepas dari berbagai tantangan dari negara-negara tetangganya .
+sentence 2: itulah sebabnya , napoleon harus berhadapan dengan negara-negara eropa yang lain dalam suatu peperangan yang dikenal dengan perang koalisi yang terjadi sebanyak tujuh kali ( 1792 – 1815 ) .
+sentence 3: musuh utamanya ialah austria , inggris , rusia , dan prusia .
+sentence 4: a. perang koalisi i ( 1792 – 1797 ) pada masa pemerintahan directoire , napoleon sudah tampil sebagai komandan pasukan prancis melawan koaliasi negara-negara eropa yang lain , austria , inggris , prusia , spanyol , belanda , dan sardinia .
+sentence 5: napoleon berhasil mengalahkan lawan-lawannya dan diakhiri perjanjian compo formio ( 1797 ) .
+passage 8 score = 7.833333333333333
+sentence 1: berlin dapat diduduki oleh napoleon dalam usaha memperlemah inggris , naopleon di berlin mengeluarkan dekrit berlin yang berisi continental stelsel , yakni suatu usaha blokade ekonomi terhadap inggris dengan melarang negara-negara eropa untuk mengadakan hubungan dagang dengan inggris dan menerima kapal-kapal inggris untuk berlabuh di kawasan eropa .
+sentence 2: siapa yang melanggar ketentuan ini akan dihancurkan oleh prancis .
+sentence 3: e. perang koalisi v ( 1809 ) dalam perang koalisi v , prancis berhadapan dengan austria , inggris , spanyol , dan portugal .
+sentence 4: dalam perang ini pasukan austria berhasil dihancurkan oleh napoleon dalam pertempuran di ulagram dan diakhiri dengan perjanjian schonkrunn tahun 1809 .
+sentence 5: namun , napoleon gagal mematahkan kekuatan spanyol .
+passage 6 score = 7.333333333333333
+sentence 1: pasukan austria dan rusia akan menyeberang ke inggris .
+sentence 2: dengan tipu muslihat , napoleon berhasil menduduki jerman .
+sentence 3: austria dan rusia akhirnya dapat dikalahkan setelah terjadi pertempuran di austetlitz .
+sentence 4: pertempuran berakhir dengan perjanjian preszburg tahun 1805 .
+sentence 5: dengan kemenangan ini , napoleon mengubah peta eropa menurut kehendaknya sendiri .
+passage 5 score = 6.5
+sentence 1: ia menjadi konsul seumur hidup dan pada tahun 1804 diangkat sebagai kaisar .
+sentence 2: c. perang koalisi iii ( 1805 ) dalam perang koalisi iii ini , prancis berhadapan dengan austria , inggris , rusia , dan swedia .
+sentence 3: dalam menghadapi inggris , napoleon memusatkan pasukannya di boulogne .
+sentence 4: namun , angkatan laut prancis dapat dihancurkan oleh pasukan inggris di bawah pimpinan laksamana nelson .
+sentence 5: pasukan austria dan rusia akan menyeberang ke inggris .
+passage 7 score = 6.5
+sentence 1: dengan kemenangan ini , napoleon mengubah peta eropa menurut kehendaknya sendiri .
+sentence 2: di negara-negara yang telah berhasil dikalahkannya , napoleon menempatkan saudara-saudaranya untuk mendukung politik dinastinya .
+sentence 3: d. perang koalisi iv ( 1806 – 1807 ) perang koalisi iv , dipusatkan untuk mengalahkan prusia dan inggris .
+sentence 4: pasukan prusia berhasil dihancurkan dalam pertempuran di jena dan auerstadt pada tahun 1806 .
+sentence 5: berlin dapat diduduki oleh napoleon dalam usaha memperlemah inggris , naopleon di berlin mengeluarkan dekrit berlin yang berisi continental stelsel , yakni suatu usaha blokade ekonomi terhadap inggris dengan melarang negara-negara eropa untuk mengadakan hubungan dagang dengan inggris dan menerima kapal-kapal inggris untuk berlabuh di kawasan eropa .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-passage 6 score = 5.5
-sentence 1: sampai sekarang , batu tersebut masih ada di dalam , katanya .
-sentence 2: kemudian pada 1964 , dilakukan pemugaran pertama kali oleh ibu sudarijah atau yang dikenal dengan ibu dar moeriar dari surabaya .
-sentence 3: baru pada tahun 1995 dilakukan pemugaran kembali oleh pangdam brawijaya yang saat itu dijabat oleh utomo .
-sentence 4: memasuki kawasan petilasan panggung , terpampang gambar gajah mada tepat disamping pintu masuk .
-sentence 5: sedangkan dibagian depan pintu bergantung sebuah papan kecil dengan tulisan ” lima pedoman ” yang merupakan pedoman suri teladan bagi warga .
-passage 9 score = 5.5
-sentence 1: ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
-sentence 2: beberapa prasasti dan arca peninggalan majapahit dikawasan puncak gunung semeru dan juga di gunung arjuna menunjukkan bahwa kawasan gunung tersebut adalah tempat bersemayam para dewa dan hanya keturunan raja yang boleh menginjakkan kaki di wilayah tersebut .
-sentence 3: bisa disimpulkan bahwa berbagai peninggalan tersebut merupakan rangkaian yang saling berhubungan walaupun terpisah oleh masa yang berbeda sepanjang 7 abad .
-sentence 4: keruntuhan majapahit tersebutlah kisah , adipati terung meminta sultan bintara alias raden patah yang masih “ kapernah ” kakaknya , untuk menghadap prabu brawijaya .
-sentence 5: tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
-passage 10 score = 5.5
-sentence 1: tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
-sentence 2: bahkan kemudian raden patah lalu mengumpulkan para bupati pesisir seperti tuban , madura dan surabaya serta para sunan untuk bersama-sama menyerbu majapahit yang kafir itu .
-sentence 3: prajurit islam dikerahkan mengepung ibu kota kerajaan , karena segan berperang dengan puteranya sendiri , prabu brawijaya meloloskan diri dari istana bersama pengikut yang masih setia .
-sentence 4: sehingga ketika raden patah dan rombongannya ( termasuk para sunan ) tiba , istana itu kosong .
-sentence 5: atas nasihat sunan ampel , untuk menawarkan segala pengaruh raja kafir , diangkatlah sunan gresik jadi raja majapahit selama 40 hari .
-passage 15 score = 5.5
-sentence 1: akhirnya sengguruh diserbu dan prabu brawijaya lari kepulau bali .
-sentence 2: cerita versi babad tanah jawi dan serat kanda itulah yang selama ini populer dikalangan masyarakat jawa , bahkan pernah juga diajarkan disebagian sekolah dasar dimasa lalu .
-sentence 3: secara garis besar , cerita itu boleh dibilang menunjukkan kemenangan islam .
-sentence 4: padahal sebenarnya sebaliknya , bisa memberi kesan yang merugikan , sebab seakan-akan islam berkembang di jawa dengan kekerasan dan darah .
-sentence 5: padahal kenyataannya tidak begitu .
-passage 16 score = 5.5
-sentence 1: padahal kenyataannya tidak begitu .
-sentence 2: selain fakta lain banyak menungkap bahwa masuknya islam dan berkembang ditanah jawa dengan jalan damai .
-sentence 3: juga fakta keruntuhan majapahit juga menunjukkan bukan disebabkan serbuan tentara islam demak .
-sentence 4: prof. dr. slamet muljana dalam bukunya “ pemugaran persada sejarah leluhur majapahit ” secara panjang lebar membantah isi cerita itu berdasarkan bukti-bukti sejarah .
-sentence 5: dikatakan babad tanah jawi dan serat kanda yang ditulis abad xvii dijaman mataram itu tanpa konsultasi sumber sejarah yang dapat dipercaya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok36.txt
+title : perang koalisi dan pengaruh revolusi perancis
+passage 1 score = 6.833333333333333
+sentence 1: perang koalisi dan pengaruh revolusi perancis perang koalisi ( 1792 – 1815 ) kekuasaan napoleon yang begitu besar di eropa tidak terlepas dari berbagai tantangan dari negara-negara tetangganya .
+sentence 2: itulah sebabnya , napoleon harus berhadapan dengan negara-negara eropa yang lain dalam suatu peperangan yang dikenal dengan perang koalisi yang terjadi sebanyak tujuh kali ( 1792 – 1815 ) .
+sentence 3: musuh utamanya ialah austria , inggris , rusia , dan prusia .
+sentence 4: a. perang koalisi i ( 1792 – 1797 ) pada masa pemerintahan directoire , napoleon sudah tampil sebagai komandan pasukan prancis melawan koaliasi negara-negara eropa yang lain , austria , inggris , prusia , spanyol , belanda , dan sardinia .
+sentence 5: napoleon berhasil mengalahkan lawan-lawannya dan diakhiri perjanjian compo formio ( 1797 ) .
+passage 8 score = 6.833333333333333
+sentence 1: berlin dapat diduduki oleh napoleon dalam usaha memperlemah inggris , naopleon di berlin mengeluarkan dekrit berlin yang berisi continental stelsel , yakni suatu usaha blokade ekonomi terhadap inggris dengan melarang negara-negara eropa untuk mengadakan hubungan dagang dengan inggris dan menerima kapal-kapal inggris untuk berlabuh di kawasan eropa .
+sentence 2: siapa yang melanggar ketentuan ini akan dihancurkan oleh prancis .
+sentence 3: e. perang koalisi v ( 1809 ) dalam perang koalisi v , prancis berhadapan dengan austria , inggris , spanyol , dan portugal .
+sentence 4: dalam perang ini pasukan austria berhasil dihancurkan oleh napoleon dalam pertempuran di ulagram dan diakhiri dengan perjanjian schonkrunn tahun 1809 .
+sentence 5: namun , napoleon gagal mematahkan kekuatan spanyol .
+passage 6 score = 6.333333333333333
+sentence 1: pasukan austria dan rusia akan menyeberang ke inggris .
+sentence 2: dengan tipu muslihat , napoleon berhasil menduduki jerman .
+sentence 3: austria dan rusia akhirnya dapat dikalahkan setelah terjadi pertempuran di austetlitz .
+sentence 4: pertempuran berakhir dengan perjanjian preszburg tahun 1805 .
+sentence 5: dengan kemenangan ini , napoleon mengubah peta eropa menurut kehendaknya sendiri .
+passage 5 score = 5.5
+sentence 1: ia menjadi konsul seumur hidup dan pada tahun 1804 diangkat sebagai kaisar .
+sentence 2: c. perang koalisi iii ( 1805 ) dalam perang koalisi iii ini , prancis berhadapan dengan austria , inggris , rusia , dan swedia .
+sentence 3: dalam menghadapi inggris , napoleon memusatkan pasukannya di boulogne .
+sentence 4: namun , angkatan laut prancis dapat dihancurkan oleh pasukan inggris di bawah pimpinan laksamana nelson .
+sentence 5: pasukan austria dan rusia akan menyeberang ke inggris .
 passage 7 score = 5.5
-sentence 1: pada tangga 5 asada ( 16 juni ) mereka tiba di muka upang ( sebelah timur palembang ) .
-sentence 2: sesampai di ibu kota , dapunta hyang memerintahkan pembuatan bangunan suci sebagai tanda rasa syukur .
-sentence 3: prasasti ligor a ( 775 ) ditemukan di muangthai selatan “ pujian terhadap raja sriwijaya yang di ibaratkan bagai mnu yang memberi berkah bagi dunia menyerupai indra dan semua raja tetangga taat kepadanya ditulis pula pendirian sebuah bangunan batu trisamayacahtya untuk padma , pani , sakyamuni , dan wajrpani ” .
-sentence 4: prasasti ligor b , pujian bagi raja yang berhasil menaklukkan musuh-musuhnya dan merupakan wujud kembar dewa kasta yang dengan kekuatannya disebut ( sebagai dewa ) wisnu , kedua mematahkan keangkuhan semua musuhnya ( sarwarimadawimthana ) .
-sentence 5: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
-passage 8 score = 5.5
-sentence 1: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
-sentence 2: prasasti ligor yang ditemukan di semenanjung tanah melayu menceritakan tentang raja sriwijaya dan pembangunan trisamayacaithya untuk menyembah dewa-dewa agama buddha , serta menyebutkan seorang raja bernama wisnu dengan gelar sarwarimadawimathana atau pembunuh musuh-musuh yang sombong tiada bersisa .
-sentence 3: begitu pula prasasti nalanda yang dikeluarkan oleh raja dewa paladewa .
-sentence 4: isinya menyebutkan tentang pendirian bangunan biara di nalanda oleh raja balaputradewa , raja sriwijaya yang menganut agama buddha .
-sentence 5: daerah kekuasaan sriwijaya meliputi seluruh sumatra , sebagian jawa , semenanjung malaya , dan muangthai selatan .
-passage 11 score = 5.5
-sentence 1: adapun yang lebih menarik tentang isi prasasti ini , ialah bagian terakhir yang berbunyi : “ tahun saka 608 hari pertama bulan terang bulan waisaka , itulah waktunya sumpah ini dipahat , pada waktu itu tentara sriwijaya berangkat tanah jawa karena tidak mau tunduk kepada sriwijaya . ”
-sentence 2: dari prasasti tersebut dapat ditarik kesimpulan bahwa sriwijaya pernah ada upaya untuk menaklukkan jawa .
-sentence 3: para ahli menerangkan bahwa kerajaan di jawa yang ditaklukkan adalah tarumanegara .
-sentence 4: hubungan dengan india tidak bertahan lama , sebab pada awal abad ke-11 raja rajendracola dari kerajaan colamandala melakukan penyerbuan besar-besaran ke wilayah sriwijaya , antara lain kedah , aceh , nikobar , binanga , melayu , dan palembang .
-sentence 5: berita penyerangan tersebut ada dalam prasasti tanjore di india selatan .
-passage 13 score = 5.5
-sentence 1: menurunnya kekuatan itu dapat terlihat dari ketidakmampuannya mengawasi dan memberi perlindungan bagi pelayaran dan perdagangan yang ada di perairan indonesia .
-sentence 2: keadaan itu dimanfaatkan juga oleh kerajaan-kerajaan vasal ( bawahan ) untuk melepaskan diri dari kekuasaan sriwijaya , seperti yang dilakukan oleh kerajaan malayu ( jambi ) .
-sentence 3: prasasti tanjore ( 1030 ) yang dikeluarkan oleh rjendra berisi tentara colal melakukan serangan dua kali ke beberapa negeri diantaranya ke sriwijaya , pertama tahun 1015 dan kedua 1025 .
-sentence 4: pada serangan kedua berhasil menawan rajanya yang bernama sri sangramwijaya tunggawarman , setelah meminta maaf , dia ditakhtakan kembali .
-sentence 5: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
-passage 1 score = 5.0
-sentence 1: kerajaan sriwijaya merupakan sebuah kerajaan besar yang terletak di sumatera selatan .
-sentence 2: menurut para ahli , pusat kerajaan sriwijaya ada di palembang dan diperkirakan telah berdiri pada abad ke-7 m. sumber sejarah kerajaan sriwijaya berupa prasasti dan berita cina .
-sentence 3: sumber yang berupa prasasti terdiri atas dua , yaitu prasasti yang berasal dari dalam negeri dan prasasti yang berasal dari luar negeri .
-sentence 4: prasasti yang berasal dari dalam negeri antara lain : prasasti kedukan bukit ( 683 m ) , talang tuwo ( 684 m ) , telaga batu ( 683 ) , kota kapur ( 686 ) , karang berahi ( 686 ) , palas pasemah dan amoghapasa ( 1286 ) .
-sentence 5: sementara itu , prasasti yang berasal dari luar negeri antara lain ; ligor ( 775 ) , nalanda , piagam laiden , tanjore ( 1030 m ) , canton ( 1075 m ) , grahi ( 1183 m ) dan chaiya ( 1230 ) .
+sentence 1: dengan kemenangan ini , napoleon mengubah peta eropa menurut kehendaknya sendiri .
+sentence 2: di negara-negara yang telah berhasil dikalahkannya , napoleon menempatkan saudara-saudaranya untuk mendukung politik dinastinya .
+sentence 3: d. perang koalisi iv ( 1806 – 1807 ) perang koalisi iv , dipusatkan untuk mengalahkan prusia dan inggris .
+sentence 4: pasukan prusia berhasil dihancurkan dalam pertempuran di jena dan auerstadt pada tahun 1806 .
+sentence 5: berlin dapat diduduki oleh napoleon dalam usaha memperlemah inggris , naopleon di berlin mengeluarkan dekrit berlin yang berisi continental stelsel , yakni suatu usaha blokade ekonomi terhadap inggris dengan melarang negara-negara eropa untuk mengadakan hubungan dagang dengan inggris dan menerima kapal-kapal inggris untuk berlabuh di kawasan eropa .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
-passage 7 score = 5.5
-sentence 1: pada tangga 5 asada ( 16 juni ) mereka tiba di muka upang ( sebelah timur palembang ) .
-sentence 2: sesampai di ibu kota , dapunta hyang memerintahkan pembuatan bangunan suci sebagai tanda rasa syukur .
-sentence 3: prasasti ligor a ( 775 ) ditemukan di muangthai selatan “ pujian terhadap raja sriwijaya yang di ibaratkan bagai mnu yang memberi berkah bagi dunia menyerupai indra dan semua raja tetangga taat kepadanya ditulis pula pendirian sebuah bangunan batu trisamayacahtya untuk padma , pani , sakyamuni , dan wajrpani ” .
-sentence 4: prasasti ligor b , pujian bagi raja yang berhasil menaklukkan musuh-musuhnya dan merupakan wujud kembar dewa kasta yang dengan kekuatannya disebut ( sebagai dewa ) wisnu , kedua mematahkan keangkuhan semua musuhnya ( sarwarimadawimthana ) .
-sentence 5: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
-passage 8 score = 5.5
-sentence 1: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
-sentence 2: prasasti ligor yang ditemukan di semenanjung tanah melayu menceritakan tentang raja sriwijaya dan pembangunan trisamayacaithya untuk menyembah dewa-dewa agama buddha , serta menyebutkan seorang raja bernama wisnu dengan gelar sarwarimadawimathana atau pembunuh musuh-musuh yang sombong tiada bersisa .
-sentence 3: begitu pula prasasti nalanda yang dikeluarkan oleh raja dewa paladewa .
-sentence 4: isinya menyebutkan tentang pendirian bangunan biara di nalanda oleh raja balaputradewa , raja sriwijaya yang menganut agama buddha .
-sentence 5: daerah kekuasaan sriwijaya meliputi seluruh sumatra , sebagian jawa , semenanjung malaya , dan muangthai selatan .
-passage 11 score = 5.5
-sentence 1: adapun yang lebih menarik tentang isi prasasti ini , ialah bagian terakhir yang berbunyi : “ tahun saka 608 hari pertama bulan terang bulan waisaka , itulah waktunya sumpah ini dipahat , pada waktu itu tentara sriwijaya berangkat tanah jawa karena tidak mau tunduk kepada sriwijaya . ”
-sentence 2: dari prasasti tersebut dapat ditarik kesimpulan bahwa sriwijaya pernah ada upaya untuk menaklukkan jawa .
-sentence 3: para ahli menerangkan bahwa kerajaan di jawa yang ditaklukkan adalah tarumanegara .
-sentence 4: hubungan dengan india tidak bertahan lama , sebab pada awal abad ke-11 raja rajendracola dari kerajaan colamandala melakukan penyerbuan besar-besaran ke wilayah sriwijaya , antara lain kedah , aceh , nikobar , binanga , melayu , dan palembang .
-sentence 5: berita penyerangan tersebut ada dalam prasasti tanjore di india selatan .
-passage 13 score = 5.5
-sentence 1: menurunnya kekuatan itu dapat terlihat dari ketidakmampuannya mengawasi dan memberi perlindungan bagi pelayaran dan perdagangan yang ada di perairan indonesia .
-sentence 2: keadaan itu dimanfaatkan juga oleh kerajaan-kerajaan vasal ( bawahan ) untuk melepaskan diri dari kekuasaan sriwijaya , seperti yang dilakukan oleh kerajaan malayu ( jambi ) .
-sentence 3: prasasti tanjore ( 1030 ) yang dikeluarkan oleh rjendra berisi tentara colal melakukan serangan dua kali ke beberapa negeri diantaranya ke sriwijaya , pertama tahun 1015 dan kedua 1025 .
-sentence 4: pada serangan kedua berhasil menawan rajanya yang bernama sri sangramwijaya tunggawarman , setelah meminta maaf , dia ditakhtakan kembali .
-sentence 5: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
-passage 1 score = 5.0
-sentence 1: kerajaan sriwijaya merupakan sebuah kerajaan besar yang terletak di sumatera selatan .
-sentence 2: menurut para ahli , pusat kerajaan sriwijaya ada di palembang dan diperkirakan telah berdiri pada abad ke-7 m. sumber sejarah kerajaan sriwijaya berupa prasasti dan berita cina .
-sentence 3: sumber yang berupa prasasti terdiri atas dua , yaitu prasasti yang berasal dari dalam negeri dan prasasti yang berasal dari luar negeri .
-sentence 4: prasasti yang berasal dari dalam negeri antara lain : prasasti kedukan bukit ( 683 m ) , talang tuwo ( 684 m ) , telaga batu ( 683 ) , kota kapur ( 686 ) , karang berahi ( 686 ) , palas pasemah dan amoghapasa ( 1286 ) .
-sentence 5: sementara itu , prasasti yang berasal dari luar negeri antara lain ; ligor ( 775 ) , nalanda , piagam laiden , tanjore ( 1030 m ) , canton ( 1075 m ) , grahi ( 1183 m ) dan chaiya ( 1230 ) .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-title : upaya mempersiapkan kemerdekaan indonesia
-passage 1 score = 5.5
-sentence 1: upaya mempersiapkan kemerdekaan indonesia - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada 1 maret 1945 jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) .
-sentence 2: badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka .
-sentence 3: anggota dari bupki terdiri atas 60 orang tokoh bangsa indonesia dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh krt radjiman widyodiningrat dan wakil ketua r. surono dan seorang lagi orang jepang .
-sentence 4: bpupki diresmikan pada tanggal 29 mei 1945 .
-sentence 5: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
-passage 2 score = 5.5
-sentence 1: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
-sentence 2: tokoh-tokoh yang mengusulkan dasar negara ini , yakni : mr. muh .
-sentence 3: yamin pada sidang tanggal 29 mei 1945 , mr. muh .
-sentence 4: yamin mengajukan lima rancangan dasar negara indonesia , yakni : peri kebangsaan peri kemanusiaan peri ketuhanan peri kerakyatan kesejahteraan rakyat prof. dr. supomo pada sidang tanggal 31 mei 1945 , prof. dr. supomo mengajukan lima rancangan dasar negara , yakni : persatuan kekeluargaan mufakat dan demokrasi musyawarah keadilan sosial ir .
-sentence 5: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok138.txt
+title : perkembangan nasionalisme cina
+passage 2 score = 6.833333333333333
+sentence 1: 1 ) perang candu ( 1839 – 1842 ) .
+sentence 2: berawal dari aktivitas inggris yang memasukkan candu secara besar-besaran ke cina tanpa membayar bea cukai menyebabkan cina ( lin tse hsu ) membuang 20.000 peti candu seharga 9 juta dollar ke laut .
+sentence 3: hal ini menimbulkan ketegangan antara cina dan inggris sehingga meletuslah perang candu .
+sentence 4: perang berakhir dengan kemenangan inggris dan diakhiri dengan perjanjian nanking , 29 agustus1842 .
+sentence 5: perjanjian nanking isinya , antara lain sebagai berikut .
+passage 7 score = 6.833333333333333
+sentence 1: namun , mulai 1894 jepang menaruh perhatian yang sangat besar kepada korea sehingga berusaha merebutnya dengan melawan cina .
+sentence 2: perang berakhir dengan kemenangan jepang dan diakhiri dengan perjanjian shimonoseki , 17 april 1895 .
+sentence 3: perjanjian shimonseki isinya , antara lain sebagai berikut .
+sentence 4: a ) cina mengakui kemerdekaan korea .
+sentence 5: b ) cina harus menyerahkan kepulauan pescadores dan taiwan kepada jepang .
+passage 3 score = 6.333333333333333
+sentence 1: perjanjian nanking isinya , antara lain sebagai berikut .
+sentence 2: a ) cina menyerahkan hongkong kepada inggris .
+sentence 3: b ) cina mengganti kerugian perang sebesar 6 juta dollar .
+sentence 4: c ) lima kota pelabuhan ( canton , amoy , foochow , ningpo , dan shanghai ) dibuka untuk perdagangan asing .
+sentence 5: kekalahan cina dalam perang candu ini mengakibatkan martabat bangsa cina menurun dan suramnya dinasti manchu di dunia internasional .
 passage 4 score = 5.5
-sentence 1: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
-sentence 2: panitia sembilan ini menghasilkan dokumen yang berisi asas dan tujuan indonesia merdeka .
-sentence 3: dokumen ini lebih dikenal dengan nama piagam djakarta , yang isinya sebagai berikut : ketuhanan dengan berkewajiban menjalankan syariat-syariat islam bagi para pemeluknya .
-sentence 4: kemanusian yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan atau perwakilan keadilan sosial bagi seluruh rakyat indonesia .
-sentence 5: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
+sentence 1: kekalahan cina dalam perang candu ini mengakibatkan martabat bangsa cina menurun dan suramnya dinasti manchu di dunia internasional .
+sentence 2: 2 ) pemberontakan t ' ai ping .
+sentence 3: pemberontakan ini dilakukan oleh rakyat cina yang bertujuan untuk menggulingkan kekuasaan dinasti manchu .
+sentence 4: adapun sebab-sebab timbulnya pemberontakan t ' ai ping , antara lain sebagai berikut .
+sentence 5: a ) lenyapnya kepercayaan rakyat cina terhadap dinasti manchu akibat kekalahannya dalam perang candu .
+passage 5 score = 5.5
+sentence 1: a ) lenyapnya kepercayaan rakyat cina terhadap dinasti manchu akibat kekalahannya dalam perang candu .
+sentence 2: b ) rakyat yang sudah menderita masih dibebani pajak yang tinggi untuk ganti kerugian perang .
+sentence 3: c ) timbulnya semangat nasionalisme .
+sentence 4: d ) berkembangnya agama kristen pemberontakan meletus pada tahun 1851 di kwangsi di bawah pimpinan hung hsiu chuan .
+sentence 5: dengan paham kristennya , hung ingin membebaskan rakyat cina dari kekuasaan dinasti mancu yang korup dan bobrok .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok67.txt
+title : perkembangan nasionalisme cina
+passage 2 score = 6.833333333333333
+sentence 1: 1 ) perang candu ( 1839 – 1842 ) .
+sentence 2: berawal dari aktivitas inggris yang memasukkan candu secara besar-besaran ke cina tanpa membayar bea cukai menyebabkan cina ( lin tse hsu ) membuang 20.000 peti candu seharga 9 juta dollar ke laut .
+sentence 3: hal ini menimbulkan ketegangan antara cina dan inggris sehingga meletuslah perang candu .
+sentence 4: perang berakhir dengan kemenangan inggris dan diakhiri dengan perjanjian nanking , 29 agustus1842 .
+sentence 5: perjanjian nanking isinya , antara lain sebagai berikut .
+passage 7 score = 6.833333333333333
+sentence 1: namun , mulai 1894 jepang menaruh perhatian yang sangat besar kepada korea sehingga berusaha merebutnya dengan melawan cina .
+sentence 2: perang berakhir dengan kemenangan jepang dan diakhiri dengan perjanjian shimonoseki , 17 april 1895 .
+sentence 3: perjanjian shimonseki isinya , antara lain sebagai berikut .
+sentence 4: a ) cina mengakui kemerdekaan korea .
+sentence 5: b ) cina harus menyerahkan kepulauan pescadores dan taiwan kepada jepang .
+passage 3 score = 6.333333333333333
+sentence 1: perjanjian nanking isinya , antara lain sebagai berikut .
+sentence 2: a ) cina menyerahkan hongkong kepada inggris .
+sentence 3: b ) cina mengganti kerugian perang sebesar 6 juta dollar .
+sentence 4: c ) lima kota pelabuhan ( canton , amoy , foochow , ningpo , dan shanghai ) dibuka untuk perdagangan asing .
+sentence 5: kekalahan cina dalam perang candu ini mengakibatkan martabat bangsa cina menurun dan suramnya dinasti manchu di dunia internasional .
+passage 4 score = 5.5
+sentence 1: kekalahan cina dalam perang candu ini mengakibatkan martabat bangsa cina menurun dan suramnya dinasti manchu di dunia internasional .
+sentence 2: 2 ) pemberontakan t ' ai ping .
+sentence 3: pemberontakan ini dilakukan oleh rakyat cina yang bertujuan untuk menggulingkan kekuasaan dinasti manchu .
+sentence 4: adapun sebab-sebab timbulnya pemberontakan t ' ai ping , antara lain sebagai berikut .
+sentence 5: a ) lenyapnya kepercayaan rakyat cina terhadap dinasti manchu akibat kekalahannya dalam perang candu .
+passage 5 score = 5.5
+sentence 1: a ) lenyapnya kepercayaan rakyat cina terhadap dinasti manchu akibat kekalahannya dalam perang candu .
+sentence 2: b ) rakyat yang sudah menderita masih dibebani pajak yang tinggi untuk ganti kerugian perang .
+sentence 3: c ) timbulnya semangat nasionalisme .
+sentence 4: d ) berkembangnya agama kristen pemberontakan meletus pada tahun 1851 di kwangsi di bawah pimpinan hung hsiu chuan .
+sentence 5: dengan paham kristennya , hung ingin membebaskan rakyat cina dari kekuasaan dinasti mancu yang korup dan bobrok .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok181.txt
+title : perang korea
+passage 5 score = 5.5
+sentence 1: meskipun gerakan itu mengalami kegagalan , rakyat korea telah terilhami dan membangkitkan semangat kebangsaan .
+sentence 2: puncaknya , bangsa korea berani melakukan perlawanan bersenjata seperti yang terjadi di korea .
+sentence 3: rakyat korea juga berhasil mendirikan pemerintahan sementara di shanghai .
+sentence 4: korea setelah perang dunia ii ketika jepang menyerah dalam perang dunia ii , pasukan sekutu yang terdiri atas amerika serikat dan uni soviet segera menduduki korea .
+sentence 5: dengan alas an memusnahkan sisa-sisa kekuatan jepang yang berada di utara , uni soviet mulai melancarkan serangan dan menduduki wilayah itu pada tanggal 12 agustus 1945 .
 passage 3 score = 5.0
-sentence 1: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
-sentence 2: namun pada tanggal 22 juni 1945 , sembilan orang anggota yaitu ir .
-sentence 3: soekarno , drs. moch .
-sentence 4: hatta , mr. muh .
-sentence 5: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
-passage 6 score = 5.0
-sentence 1: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
-sentence 2: landasan dasar internasional piagam atlantik ( 14 agustus 1941 ) yang ditanda tangani oleh franklin delano roosevelt ( presiden as ) dengan winston churchill ( pm inggris ) .
-sentence 3: yang berisi : tidak boleh ada perluasan daerah tampa persetujuan dari penduduk asli .
-sentence 4: setiap bangsa berhak menentukan dan menetapkan bentuk pemerintahannya sendiri .
-sentence 5: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
+sentence 1: pada tahun 1910 jepang berhasil menguasai wilayah korea secara penuh .
+sentence 2: seperti halnya bentuk kolonialisme yang lain , jepang juga melakukan eksploitasi besar-besaran terhadap korea .
+sentence 3: semua sumber daya korea dimanfaatkan untuk kepentingan jepang .
+sentence 4: jepang selain mengeksploitasi segala sumber daya korea , juga menumbuhkan rasa kebangsaan kepada orang korea .
+sentence 5: pada tanggal 1 maret 1919 tiga puluh tiga prajurit korea berkumpul di taman pagoda , seoul untuk memroklamasikan kemerdekaannya .
+passage 4 score = 5.0
+sentence 1: pada tanggal 1 maret 1919 tiga puluh tiga prajurit korea berkumpul di taman pagoda , seoul untuk memroklamasikan kemerdekaannya .
+sentence 2: peristiwa tersebut kemudian dikenal sebagai pergerakan kemerdekaan samit ( 1 maret ) .
+sentence 3: gerakan kemerdekaan seperti itu tentu saja tidak dikehendaki oleh pemerintah pendudukan jepang karena gerakan tersebut jelas-jelas menghendaki keluarnya jepang dari wilayah korea .
+sentence 4: menghadapi keadaan itu , jepang berusaha menggagalkan perlawanan tersebut .
+sentence 5: meskipun gerakan itu mengalami kegagalan , rakyat korea telah terilhami dan membangkitkan semangat kebangsaan .
+passage 13 score = 5.0
+sentence 1: cina berpendapat bahwa itu hanya strategi amerika serikat saja untuk memperluas pengaruhnya di korea .
+sentence 2: oleh karena tidak menerima tindakan pasukan pbb , cina mengirimkan pasukannya dan membantu pertahanan pasukan korea utara .
+sentence 3: pada tanggal 4 januari 1951 pasukan pbb terdesak pasukan gabungan cina – korea utara .
+sentence 4: bahkan , ibu kota korea selatan , seoul jatuh ke tangan pasukan gabungan .
+sentence 5: atas peristiwa yang mengejutkan tersebut , dewan keamanan pbb kembali bersidang .
+passage 14 score = 5.0
+sentence 1: atas peristiwa yang mengejutkan tersebut , dewan keamanan pbb kembali bersidang .
+sentence 2: dewan keamanan pbb mengambil keputusan bahwa tindakan cina membantu korea utara adalah salah dan sebagai konsekuensinya dijalankan embargo ekonomi terhadap negara tersebut .
+sentence 3: pada tanggal 12 maret 1951 pasukan pbb yang telah mengonsolidasikan diri berhasil merebut kembali kota seoul , korea selatan .
+sentence 4: gencatan senjata antara korea utara dan korea selatan terjadi setelah uni soviet turut campur tangan .
+sentence 5: kesepakatan perdamaian tercapai pada tanggal 27 juli 1953 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok337.txt
+title : sejarah korea sebelum dan setelah perang dunia ii
+passage 4 score = 5.5
+sentence 1: gerakan kemerdekaan seperti itu tentu saja tidak dikehendaki oleh pemerintah pendudukan jepang karena gerakan tersebut jelas-jelas menghendaki keluarnya jepang dari wilayah korea .
+sentence 2: menghadapi keadaan itu , jepang berusaha menggagalkan perlawanan tersebut .
+sentence 3: meskipun gerakan itu mengalami kegagalan , rakyat korea telah terilhami dan membangkitkan semangat kebangsaan .
+sentence 4: puncaknya , bangsa korea berani melakukan perlawanan bersenjata seperti yang terjadi di korea .
+sentence 5: rakyat korea juga berhasil mendirikan pemerintahan sementara di shanghai .
+passage 5 score = 5.5
+sentence 1: rakyat korea juga berhasil mendirikan pemerintahan sementara di shanghai .
+sentence 2: ketika jepang menyerah dalam perang dunia ii , pasukan sekutu yang terdiri atas amerika serikat dan uni soviet segera menduduki korea .
+sentence 3: dengan alasan memusnahkan sisa-sisa kekuatan jepang yang berada di utara , uni soviet mulai melancarkan serangan dan menduduki wilayah itu pada tanggal 12 agustus 1945 .
+sentence 4: sementara itu , pasukan amerika serikat baru mendarat di korea bagian selatan pada bulan september 1945 .
+sentence 5: dengan demikian , mulai saat itu wilayah korea diduduki dua negara adidaya , amerika serikat di selatan dan uni soviet di utara .
+passage 2 score = 5.0
+sentence 1: namun , berkat bantuan cina , keinginan jepang itu dapat dibendung .
+sentence 2: ketika perang cina – jepang ( 1894 – 1895 ) berakhir , jepang makin intensif menggempur pertahanan korea dan meningkatkan pengaruhnya .
+sentence 3: pada tahun 1910 jepang berhasil menguasai wilayah korea secara penuh .
+sentence 4: seperti halnya bentuk kolonialisme yang lain , jepang juga melakukan eksploitasi besar-besaran terhadap korea .
+sentence 5: semua sumber daya korea dimanfaatkan untuk kepentingan jepang .
+passage 3 score = 5.0
+sentence 1: semua sumber daya korea dimanfaatkan untuk kepentingan jepang .
+sentence 2: jepang selain mengeksploitasi segala sumber daya korea , juga menumbuhkan rasa kebangsaan kepada orang korea .
+sentence 3: pada tanggal 1 maret 1919 tiga puluh tiga prajurit korea berkumpul di taman pagoda , seoul untuk memroklamasikan kemerdekaannya .
+sentence 4: peristiwa tersebut kemudian dikenal sebagai pergerakan kemerdekaan samit ( 1 maret ) .
+sentence 5: gerakan kemerdekaan seperti itu tentu saja tidak dikehendaki oleh pemerintah pendudukan jepang karena gerakan tersebut jelas-jelas menghendaki keluarnya jepang dari wilayah korea .
+passage 12 score = 5.0
+sentence 1: langkah itu dilakukan pasukan pbb karena menurut mac arthur keamanan di semenanjung korea akan terjadi apabila dua negara itu disatukan .
+sentence 2: cina yang menjalin hubungan diplomatik dan seideologi dengan korea utara tidak menerima tindakan pasukan pbb tersebut .
+sentence 3: cina berpendapat bahwa itu hanya strategi amerika serikat saja untuk memperluas pengaruhnya di korea .
+sentence 4: oleh karena tidak menerima tindakan pasukan pbb , cina mengirimkan pasukannya dan membantu pertahanan pasukan korea utara .
+sentence 5: pada tanggal 4 januari 1951 pasukan pbb terdesak pasukan gabungan cina – korea utara .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
 title : sejarah kerajaan makassar (goa-tallo)
 passage 5 score = 8.5
 sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
@@ -444,7 +444,7 @@ sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tid
 sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
 sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
 title : sejarah kerajaan makassar (goa-tallo)
 passage 5 score = 8.5
 sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
@@ -453,32 +453,32 @@ sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tid
 sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
 sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 59 score = 7.833333333333333
-sentence 1: usulan tersebut ditentang oleh tokoh-tokoh pemuda .
-sentence 2: karena mereka beranggapan bahwa sebagian tokoh-tokoh tua yang hadir adalah “ budak-budak ” jepang .
-sentence 3: selanjutnya sukarni , salah satu tokoh golongan muda , mengusulkan agar yang menandatangani naskah proklamasi cukup sukarno-hatta atas nama bangsa indonesia .
-sentence 4: setelah usulan sukarni itu disetujui , maka ir .
-sentence 5: sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan sukarno tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+title : sejarah cina setelah perang dunia ii
+passage 6 score = 8.166666666666668
+sentence 1: oleh karena kejadian tersebut , sejak tahun 1960 uni soviet menghentikan pengiriman para ahlinya ke cina .
+sentence 2: bahkan , uni soviet juga menolak membantu cina ketika terjadi perang di perbatasan dengan india pada tahun 1962 .
+sentence 3: cina makin memusuhi uni soviet setelah negara itu menandatangani perjanjian kerja sama uji coba persenjataan nuklir pada tahun 1963 .
+sentence 4: pada tahun 1966 mao zedong berusaha mengembalikan cina ke jalur revolusioner karena ia melihat adanya pergeseran dalam pola hidup masyarakat cina .
+sentence 5: untuk memenuhi ambisinya itu , mao zedong melaksanakan revolusi kebudayaan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 32 score = 7.333333333333333
-sentence 1: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
-sentence 2: ketika ketiga tokoh itu berangkat kembali menuju jakarta pada tanggal 14 agustus 1945 , jepang telah dibom atom oleh sekutu di kota hirosima dan nagasaki .
-sentence 3: bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke manchuria .
-sentence 4: dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
-sentence 5: keesokan harinya , pada tanggal 15 agustus 1945 sukarno-hatta tiba kembali di tanah air .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok350.txt
+title : sejarah perang vietnam
+passage 9 score = 7.833333333333333
+sentence 1: perundingan gencatan senjata yang seharusnya ditandatangani pada tahun 1970 , akhirnya baru ditandatangani pada tahun 1973 .
+sentence 2: meskipun persetujuan damai telah ditandatangani , pada praktiknya masih sering terjadi pelanggaran .
+sentence 3: keadaan dalam negeri vietnam selatan sendiri sedang terjadi keretakan .
+sentence 4: presiden nguyen van thiew mengundurkan diri dan menunjuk wakil presiden tran van huong sebagai peggantinya .
+sentence 5: ketika mengundurkan diri presiden nguyen van thiew mengecam presiden amerika serikat , nixon karena mendesaknya menandatangani persetujuan paris .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 35 score = 7.333333333333333
-sentence 1: hatta .
-sentence 2: syahrir juga menanyakan mengenai kemerdekaan indonesia sehubungan dengan peristiwa tersebut .
-sentence 3: moh .
-sentence 4: hatta berjanji akan menanyakan hal itu kepada gunseikanbu .
-sentence 5: setelah yakin bahwa jepang telah menyerah kepada sekutu , moh .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok107.txt
+title : perang koalisi dan pengaruh revolusi perancis
+passage 1 score = 7.833333333333333
+sentence 1: perang koalisi dan pengaruh revolusi perancis perang koalisi ( 1792 – 1815 ) kekuasaan napoleon yang begitu besar di eropa tidak terlepas dari berbagai tantangan dari negara-negara tetangganya .
+sentence 2: itulah sebabnya , napoleon harus berhadapan dengan negara-negara eropa yang lain dalam suatu peperangan yang dikenal dengan perang koalisi yang terjadi sebanyak tujuh kali ( 1792 – 1815 ) .
+sentence 3: musuh utamanya ialah austria , inggris , rusia , dan prusia .
+sentence 4: a. perang koalisi i ( 1792 – 1797 ) pada masa pemerintahan directoire , napoleon sudah tampil sebagai komandan pasukan prancis melawan koaliasi negara-negara eropa yang lain , austria , inggris , prusia , spanyol , belanda , dan sardinia .
+sentence 5: napoleon berhasil mengalahkan lawan-lawannya dan diakhiri perjanjian compo formio ( 1797 ) .
 
 
 Pencarian jawaban
@@ -488,7 +488,7 @@ Pencarian jawaban
 pertempuran besar meletus pada <TIME>tahun 1666</TIME> ketika makassar di bawah pemerintahan sultan hasanuddin . dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan <PERSON>aru palaka raja</PERSON> bone . perlawanan hasanuddin berhasil dipatahkan dan <PERSON>para pemimpin</PERSON> yang tidak mau tunduk kepada voc , seperti kraeng galesung dan <PERSON>montemerano</PERSON> melarikan diri ke jawa . sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada <TIME>tanggal 18 nopember 1667</TIME> . isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
 
 memproses passage 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
 title : sejarah kerajaan makassar (goa-tallo)
 list jawaban dan posisi dalam passage
 aru palaka raja | position = 18
@@ -673,7 +673,7 @@ tokenwithtagstemmed = ikut
 pertempuran besar meletus pada <TIME>tahun 1666</TIME> ketika makassar di bawah pemerintahan sultan hasanuddin . dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan <PERSON>aru palaka raja</PERSON> bone . perlawanan hasanuddin berhasil dipatahkan dan <PERSON>para pemimpin</PERSON> yang tidak mau tunduk kepada voc , seperti kraeng galesung dan <PERSON>montemerano</PERSON> melarikan diri ke jawa . sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada <TIME>tanggal 18 nopember 1667</TIME> . isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
 
 memproses passage 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
 title : sejarah kerajaan makassar (goa-tallo)
 list jawaban dan posisi dalam passage
 aru palaka raja | position = 18
@@ -855,411 +855,585 @@ tokenwithtagstemmed = makassar
 tokenwithtagstemmed = ikut
 
 
-usulan tersebut ditentang oleh <PERSON>tokoh-tokoh pemuda .</PERSON> karena mereka beranggapan bahwa sebagian tokoh-tokoh tua yang hadir adalah “ budak-budak ” jepang . selanjutnya sukarni , salah satu tokoh golongan muda , mengusulkan agar yang menandatangani naskah proklamasi cukup sukarno-hatta atas nama bangsa indonesia . setelah usulan sukarni itu disetujui , maka ir . sukarno meminta kepada sajuti melik untuk mengetik naskah tulisan tangan <PERSON>sukarno</PERSON> tersebut , dengan disertai perubahan-perubahan yang telah disepakati .
+oleh karena kejadian tersebut , sejak <TIME>tahun 1960</TIME> uni soviet menghentikan pengiriman para ahlinya ke cina . bahkan , uni soviet juga menolak membantu cina ketika terjadi perang di perbatasan dengan <PERSON>india</PERSON> pada <TIME>tahun 1962</TIME> . cina makin memusuhi uni soviet setelah negara itu menandatangani perjanjian kerja sama uji coba persenjataan nuklir pada <TIME>tahun 1963</TIME> . pada <TIME>tahun 1966</TIME> <PERSON>mao zedong</PERSON> berusaha mengembalikan cina ke jalur revolusioner karena ia melihat adanya pergeseran dalam pola hidup masyarakat cina . untuk memenuhi ambisinya itu , mao zedong melaksanakan revolusi kebudayaan .
 
-memproses passage 59
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+memproses passage 6
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+title : sejarah cina setelah perang dunia ii
 list jawaban dan posisi dalam passage
-tokoh tokoh pemuda | position = 2
-sukarno | position = 43
+india | position = 16
+mao zedong | position = 32
 
 
 melakukan pencarian:
 kata kunci = menandatangani
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = tentang
-tokenwithtagstemmed = tokoh tokoh pemuda
-tokenwithtagstemmed = anggap
-tokenwithtagstemmed = bagi
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = tua
-tokenwithtagstemmed = hadir
-tokenwithtagstemmed = budak
-tokenwithtagstemmed = budak
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = sukarni
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = golong
-tokenwithtagstemmed = muda
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = menandatangani
-posisi dalam passage = 20
-jarak dengan tiap kandidat jawaban:
-tokoh tokoh pemuda -18
-sukarno 23
-
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = cukup
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = sukarni
-tokenwithtagstemmed = tuju
-tokenwithtagstemmed = ir
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sajuti
-tokenwithtagstemmed = melik
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = etik
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = pakat
-kata kunci = janji
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = tentang
-tokenwithtagstemmed = tokoh tokoh pemuda
-tokenwithtagstemmed = anggap
-tokenwithtagstemmed = bagi
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = tua
-tokenwithtagstemmed = hadir
-tokenwithtagstemmed = budak
-tokenwithtagstemmed = budak
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = sukarni
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = golong
-tokenwithtagstemmed = muda
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = menandatangani
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = cukup
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = sukarni
-tokenwithtagstemmed = tuju
-tokenwithtagstemmed = ir
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sajuti
-tokenwithtagstemmed = melik
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = etik
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = pakat
-kata kunci = bongaya
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = tentang
-tokenwithtagstemmed = tokoh tokoh pemuda
-tokenwithtagstemmed = anggap
-tokenwithtagstemmed = bagi
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = tua
-tokenwithtagstemmed = hadir
-tokenwithtagstemmed = budak
-tokenwithtagstemmed = budak
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = sukarni
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = golong
-tokenwithtagstemmed = muda
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = menandatangani
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = cukup
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = sukarni
-tokenwithtagstemmed = tuju
-tokenwithtagstemmed = ir
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sajuti
-tokenwithtagstemmed = melik
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = etik
-tokenwithtagstemmed = naskah
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = pakat
-
-
-wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda . ketika ketiga tokoh itu berangkat kembali menuju jakarta pada <TIME>tanggal 14 agustus 1945</TIME> , jepang telah dibom atom oleh <PERSON>sekutu</PERSON> di <LOCATION>kota hirosima</LOCATION> dan nagasaki . bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke <LOCATION>manchuria .</LOCATION> dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi . <TIME>keesokan harinya ,</TIME> pada <TIME>tanggal 15 agustus 1945</TIME> sukarno-hatta tiba kembali di tanah air .
-
-memproses passage 32
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-list jawaban dan posisi dalam passage
-sekutu | position = 17
-
-
-melakukan pencarian:
-kata kunci = menandatangani
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = bekas
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = hindia
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = berangkat
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = tuju
-tokenwithtagstemmed = jakarta
-tokenwithtagstemmed = tanggal 14 agustus 1945
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = bom
-tokenwithtagstemmed = atom
-tokenwithtagstemmed = sekutu
-tokenwithtagstemmed = kota hirosima
-tokenwithtagstemmed = nagasaki
-tokenwithtagstemmed = uni
-tokenwithtagstemmed = soviet
-tokenwithtagstemmed = ingkar
-tokenwithtagstemmed = janji
-tokenwithtagstemmed = nyata
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = seraya
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = serbu
-tokenwithtagstemmed = manchuria
-tokenwithtagstemmed = ramal
-tokenwithtagstemmed = kalah
-tokenwithtagstemmed = jepang
 tokenwithtagstemmed = jadi
-tokenwithtagstemmed = esok hari
-tokenwithtagstemmed = tanggal 15 agustus 1945
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = tiba
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = tanah
-tokenwithtagstemmed = air
-kata kunci = janji
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = bekas
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = hindia
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = berangkat
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = tuju
-tokenwithtagstemmed = jakarta
-tokenwithtagstemmed = tanggal 14 agustus 1945
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = bom
-tokenwithtagstemmed = atom
-tokenwithtagstemmed = sekutu
-tokenwithtagstemmed = kota hirosima
-tokenwithtagstemmed = nagasaki
+tokenwithtagstemmed = tahun 1960
 tokenwithtagstemmed = uni
 tokenwithtagstemmed = soviet
-tokenwithtagstemmed = ingkar
-tokenwithtagstemmed = janji
+tokenwithtagstemmed = henti
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = uni
+tokenwithtagstemmed = soviet
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = india
+tokenwithtagstemmed = tahun 1962
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = musuh
+tokenwithtagstemmed = uni
+tokenwithtagstemmed = soviet
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = menandatangani
 posisi dalam passage = 23
 jarak dengan tiap kandidat jawaban:
-sekutu -6
+india -7
+mao zedong 9
 
-tokenwithtagstemmed = nyata
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = seraya
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = serbu
-tokenwithtagstemmed = manchuria
-tokenwithtagstemmed = ramal
-tokenwithtagstemmed = kalah
-tokenwithtagstemmed = jepang
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = uji
+tokenwithtagstemmed = coba
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = nuklir
+tokenwithtagstemmed = tahun 1963
+tokenwithtagstemmed = tahun 1966
+tokenwithtagstemmed = mao zedong
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = jalur
+tokenwithtagstemmed = revolusioner
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = geser
+tokenwithtagstemmed = pola
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = penuh
+tokenwithtagstemmed = ambisi
+tokenwithtagstemmed = mao
+tokenwithtagstemmed = zedong
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = budaya
+kata kunci = janji
 tokenwithtagstemmed = jadi
-tokenwithtagstemmed = esok hari
-tokenwithtagstemmed = tanggal 15 agustus 1945
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = tiba
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = tanah
-tokenwithtagstemmed = air
-kata kunci = bongaya
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = bekas
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = hindia
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = berangkat
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = tuju
-tokenwithtagstemmed = jakarta
-tokenwithtagstemmed = tanggal 14 agustus 1945
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = bom
-tokenwithtagstemmed = atom
-tokenwithtagstemmed = sekutu
-tokenwithtagstemmed = kota hirosima
-tokenwithtagstemmed = nagasaki
+tokenwithtagstemmed = tahun 1960
 tokenwithtagstemmed = uni
 tokenwithtagstemmed = soviet
-tokenwithtagstemmed = ingkar
-tokenwithtagstemmed = janji
-tokenwithtagstemmed = nyata
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = seraya
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = serbu
-tokenwithtagstemmed = manchuria
-tokenwithtagstemmed = ramal
-tokenwithtagstemmed = kalah
-tokenwithtagstemmed = jepang
+tokenwithtagstemmed = henti
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = uni
+tokenwithtagstemmed = soviet
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = cina
 tokenwithtagstemmed = jadi
-tokenwithtagstemmed = esok hari
-tokenwithtagstemmed = tanggal 15 agustus 1945
-tokenwithtagstemmed = sukarno
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = tiba
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = india
+tokenwithtagstemmed = tahun 1962
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = musuh
+tokenwithtagstemmed = uni
+tokenwithtagstemmed = soviet
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = janji
+posisi dalam passage = 24
+jarak dengan tiap kandidat jawaban:
+india -8
+mao zedong 8
+
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = uji
+tokenwithtagstemmed = coba
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = nuklir
+tokenwithtagstemmed = tahun 1963
+tokenwithtagstemmed = tahun 1966
+tokenwithtagstemmed = mao zedong
+tokenwithtagstemmed = usaha
 tokenwithtagstemmed = kembali
-tokenwithtagstemmed = tanah
-tokenwithtagstemmed = air
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = jalur
+tokenwithtagstemmed = revolusioner
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = geser
+tokenwithtagstemmed = pola
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = penuh
+tokenwithtagstemmed = ambisi
+tokenwithtagstemmed = mao
+tokenwithtagstemmed = zedong
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = budaya
+kata kunci = bongaya
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tahun 1960
+tokenwithtagstemmed = uni
+tokenwithtagstemmed = soviet
+tokenwithtagstemmed = henti
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = uni
+tokenwithtagstemmed = soviet
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = india
+tokenwithtagstemmed = tahun 1962
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = musuh
+tokenwithtagstemmed = uni
+tokenwithtagstemmed = soviet
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = uji
+tokenwithtagstemmed = coba
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = nuklir
+tokenwithtagstemmed = tahun 1963
+tokenwithtagstemmed = tahun 1966
+tokenwithtagstemmed = mao zedong
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = jalur
+tokenwithtagstemmed = revolusioner
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = geser
+tokenwithtagstemmed = pola
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = penuh
+tokenwithtagstemmed = ambisi
+tokenwithtagstemmed = mao
+tokenwithtagstemmed = zedong
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = budaya
 
 
-hatta . syahrir juga menanyakan mengenai kemerdekaan indonesia sehubungan dengan peristiwa tersebut . moh . hatta berjanji akan menanyakan hal itu kepada gunseikanbu . setelah yakin bahwa jepang telah menyerah kepada <PERSON>sekutu</PERSON> , moh .
+perundingan gencatan senjata yang seharusnya ditandatangani pada <TIME>tahun 1970</TIME> , akhirnya baru ditandatangani pada <TIME>tahun 1973</TIME> . meskipun persetujuan damai telah ditandatangani , pada praktiknya masih sering terjadi pelanggaran . keadaan dalam negeri vietnam selatan sendiri sedang terjadi keretakan . <PERSON>presiden nguyen van thiew</PERSON> mengundurkan diri dan menunjuk wakil presiden tran van huong sebagai peggantinya . ketika mengundurkan diri presiden nguyen van thiew mengecam presiden amerika serikat , nixon karena mendesaknya menandatangani persetujuan <PERSON>paris .</PERSON>
 
-memproses passage 35
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+memproses passage 9
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok350.txt
+title : sejarah perang vietnam
 list jawaban dan posisi dalam passage
-sekutu | position = 16
+presiden nguyen van thiew | position = 20
+paris | position = 42
 
 
 melakukan pencarian:
 kata kunci = menandatangani
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = syahrir
-tokenwithtagstemmed = tanya
-tokenwithtagstemmed = kena
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = hubung
-tokenwithtagstemmed = peristiwa
-tokenwithtagstemmed = moh
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = janji
-tokenwithtagstemmed = tanya
-tokenwithtagstemmed = gunseikanbu
-tokenwithtagstemmed = yakin
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = sekutu
-tokenwithtagstemmed = moh
-kata kunci = janji
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = syahrir
-tokenwithtagstemmed = tanya
-tokenwithtagstemmed = kena
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = hubung
-tokenwithtagstemmed = peristiwa
-tokenwithtagstemmed = moh
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = janji
-posisi dalam passage = 10
+tokenwithtagstemmed = runding
+tokenwithtagstemmed = gencat
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = ditandatangani
+tokenwithtagstemmed = tahun 1970
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = ditandatangani
+tokenwithtagstemmed = tahun 1973
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = ditandatangani
+tokenwithtagstemmed = praktik
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = langgar
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = selatan
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = kereta
+tokenwithtagstemmed = presiden nguyen van thiew
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = tran
+tokenwithtagstemmed = van
+tokenwithtagstemmed = huong
+tokenwithtagstemmed = peggantinya
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = nguyen
+tokenwithtagstemmed = van
+tokenwithtagstemmed = thiew
+tokenwithtagstemmed = kecam
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = nixon
+tokenwithtagstemmed = desak
+tokenwithtagstemmed = menandatangani
+posisi dalam passage = 40
 jarak dengan tiap kandidat jawaban:
-sekutu 6
+presiden nguyen van thiew -20
+paris 2
 
-tokenwithtagstemmed = tanya
-tokenwithtagstemmed = gunseikanbu
-tokenwithtagstemmed = yakin
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = sekutu
-tokenwithtagstemmed = moh
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = paris
+kata kunci = janji
+tokenwithtagstemmed = runding
+tokenwithtagstemmed = gencat
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = ditandatangani
+tokenwithtagstemmed = tahun 1970
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = ditandatangani
+tokenwithtagstemmed = tahun 1973
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = ditandatangani
+tokenwithtagstemmed = praktik
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = langgar
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = selatan
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = kereta
+tokenwithtagstemmed = presiden nguyen van thiew
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = tran
+tokenwithtagstemmed = van
+tokenwithtagstemmed = huong
+tokenwithtagstemmed = peggantinya
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = nguyen
+tokenwithtagstemmed = van
+tokenwithtagstemmed = thiew
+tokenwithtagstemmed = kecam
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = nixon
+tokenwithtagstemmed = desak
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = paris
 kata kunci = bongaya
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = syahrir
-tokenwithtagstemmed = tanya
-tokenwithtagstemmed = kena
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = hubung
-tokenwithtagstemmed = peristiwa
-tokenwithtagstemmed = moh
-tokenwithtagstemmed = hatta
+tokenwithtagstemmed = runding
+tokenwithtagstemmed = gencat
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = ditandatangani
+tokenwithtagstemmed = tahun 1970
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = ditandatangani
+tokenwithtagstemmed = tahun 1973
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = ditandatangani
+tokenwithtagstemmed = praktik
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = langgar
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = selatan
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = kereta
+tokenwithtagstemmed = presiden nguyen van thiew
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = tran
+tokenwithtagstemmed = van
+tokenwithtagstemmed = huong
+tokenwithtagstemmed = peggantinya
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = nguyen
+tokenwithtagstemmed = van
+tokenwithtagstemmed = thiew
+tokenwithtagstemmed = kecam
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = nixon
+tokenwithtagstemmed = desak
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = paris
+
+
+perang koalisi dan pengaruh revolusi perancis perang koalisi ( <TIME>1792 – 1815</TIME> ) kekuasaan napoleon yang begitu besar di eropa tidak terlepas dari berbagai tantangan dari negara-negara tetangganya . itulah sebabnya , napoleon harus berhadapan dengan negara-negara eropa yang lain dalam suatu peperangan yang dikenal dengan perang koalisi yang terjadi sebanyak tujuh kali ( <TIME>1792 – 1815</TIME> ) . musuh utamanya ialah <PERSON>austria , inggris , rusia</PERSON> , dan <PERSON>prusia .</PERSON> a. perang koalisi i ( <TIME>1792 – 1797</TIME> ) pada masa pemerintahan directoire , napoleon sudah tampil sebagai komandan pasukan prancis melawan koaliasi negara-negara eropa yang lain <PERSON>, austria , inggris , prusia , spanyol , belanda</PERSON> , dan sardinia . napoleon berhasil mengalahkan lawan-lawannya dan diakhiri perjanjian compo formio ( <TIME>1797</TIME> ) .
+
+memproses passage 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok107.txt
+title : perang koalisi dan pengaruh revolusi perancis
+list jawaban dan posisi dalam passage
+austria inggris rusia | position = 33
+prusia | position = 34
+austria inggris prusia spanyol belanda | position = 53
+
+
+melakukan pencarian:
+kata kunci = menandatangani
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = perancis
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = 1792 1815
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = lepas
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = tantang
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = tetangga
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = peperangan
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = 1792 1815
+tokenwithtagstemmed = musuh
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = austria inggris rusia
+tokenwithtagstemmed = prusia
+tokenwithtagstemmed = a
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = i
+tokenwithtagstemmed = 1792 1797
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = directoire
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = komandan
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = koaliasi
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = austria inggris prusia spanyol belanda
+tokenwithtagstemmed = sardinia
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = akhir
 tokenwithtagstemmed = janji
-tokenwithtagstemmed = tanya
-tokenwithtagstemmed = gunseikanbu
-tokenwithtagstemmed = yakin
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = sekutu
-tokenwithtagstemmed = moh
+tokenwithtagstemmed = compo
+tokenwithtagstemmed = formio
+tokenwithtagstemmed = 1797
+kata kunci = janji
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = perancis
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = 1792 1815
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = lepas
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = tantang
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = tetangga
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = peperangan
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = 1792 1815
+tokenwithtagstemmed = musuh
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = austria inggris rusia
+tokenwithtagstemmed = prusia
+tokenwithtagstemmed = a
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = i
+tokenwithtagstemmed = 1792 1797
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = directoire
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = komandan
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = koaliasi
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = austria inggris prusia spanyol belanda
+tokenwithtagstemmed = sardinia
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = janji
+posisi dalam passage = 61
+jarak dengan tiap kandidat jawaban:
+austria inggris rusia -28
+prusia -27
+austria inggris prusia spanyol belanda -8
+
+tokenwithtagstemmed = compo
+tokenwithtagstemmed = formio
+tokenwithtagstemmed = 1797
+kata kunci = bongaya
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = perancis
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = 1792 1815
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = lepas
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = tantang
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = tetangga
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = peperangan
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = 1792 1815
+tokenwithtagstemmed = musuh
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = austria inggris rusia
+tokenwithtagstemmed = prusia
+tokenwithtagstemmed = a
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = koalisi
+tokenwithtagstemmed = i
+tokenwithtagstemmed = 1792 1797
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = directoire
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = komandan
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = koaliasi
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = austria inggris prusia spanyol belanda
+tokenwithtagstemmed = sardinia
+tokenwithtagstemmed = napoleon
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = compo
+tokenwithtagstemmed = formio
+tokenwithtagstemmed = 1797
 
 Pengurutan kandidat jawaban
-this.answer = sekutu
-passage rank = 5
-distance = 6
+this.answer = paris
+passage rank = 4
+distance = 2
 doc rank = 3
-total Score = 14
+total Score = 9
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok350.txt
+document Title = sejarah perang vietnam
+
+this.answer = mao zedong
+passage rank = 3
+distance = 8
+doc rank = 4
+total Score = 15
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+document Title = sejarah cina setelah perang dunia ii
 
-this.answer = sukarno
+this.answer = mao zedong
 passage rank = 3
-distance = 23
-doc rank = 3
-total Score = 29
+distance = 9
+doc rank = 4
+total Score = 16
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-document Title = proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+document Title = sejarah cina setelah perang dunia ii
 
 
 

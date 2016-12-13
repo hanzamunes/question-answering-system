@@ -1,109 +1,82 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok195.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok127.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok56.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok264.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok80.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok9.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok328.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok10.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok81.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok102.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok31.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok380.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok378.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok294.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok297.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok130.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok59.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok206.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok363.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok267.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok308.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok397.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok128.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok57.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok295.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok156.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok241.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok79.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok8.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok146.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok147.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok153.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok289.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok387.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok191.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok326.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok108.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok37.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok284.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok4.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok75.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok132.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok61.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok242.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok357.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok144.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok268.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok325.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok185.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok383.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok13.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok84.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok117.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok46.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok195.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok383.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok13.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok392.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok84.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok370.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok173.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok323.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok170.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok300.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok377.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok381.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok57.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok226.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok320.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok321.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok341.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok176.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok224.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok380.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok274.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 
 
 query token : 
 mana pangeran antasari wafat 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 passage 2 score = 8.0
 sentence 1: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
@@ -133,7 +106,7 @@ passage 5 score = 2.5
 sentence 1: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
 sentence 2: perlawanan rakyat benar-benar dapat dikatakan padam setelah gugurnya gusti matseman tahun 1905 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 passage 2 score = 8.0
 sentence 1: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
@@ -163,7 +136,7 @@ passage 5 score = 2.5
 sentence 1: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
 sentence 2: perlawanan rakyat benar-benar dapat dikatakan padam setelah gugurnya gusti matseman tahun 1905 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 title : sejarah kerajaan banjar (kesultanan banjarmasin)
 passage 26 score = 8.25
 sentence 1: pada 14 maret 1862 atau 11 hari setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan rakyat kalimantan selatan terhadap belanda .
@@ -196,7 +169,7 @@ sentence 3: setelah masuk islam , pangeran samudera berganti nama menjadi panger
 sentence 4: kemudian ia memindahkan pusat pemerintahan ke suatu tempat yang diberi nama bandar masih , sekarang banjarmasin .
 sentence 5: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 title : sejarah kerajaan banjar (kesultanan banjarmasin)
 passage 26 score = 8.25
 sentence 1: pada 14 maret 1862 atau 11 hari setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan rakyat kalimantan selatan terhadap belanda .
@@ -229,199 +202,207 @@ sentence 3: setelah masuk islam , pangeran samudera berganti nama menjadi panger
 sentence 4: kemudian ia memindahkan pusat pemerintahan ke suatu tempat yang diberi nama bandar masih , sekarang banjarmasin .
 sentence 5: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok195.txt
-title : ppki
-passage 2 score = 6.0
-sentence 1: soekarno , drs. moh .
-sentence 2: hatta , dan dr. radjiman wediodiningrat bertolak ke dalat ( vietnam selatan ) untuk memenuhi panggilan marsekal muda terauchi .
-sentence 3: ia adalah panglima tentara umum selatan yang membawahi seluruh tentara jepang di asia tenggara .
-sentence 4: marsekal muda terauchi menyampaikan kepada ketiga pemimpin nasional indonesia tersebut bahwa kemaharajaan telah memutuskan untuk memberi kemerdekaan kepada indonesia .
-sentence 5: wilayah indonesia meliputi seluruh bekas wilayah hindi belanda .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok127.txt
+title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
+passage 6 score = 7.0
+sentence 1: jenderal de kock melakukan tipu muslihat dengan mengajak berunding pangeran diponegoro .
+sentence 2: de kock berjanji apabila perundingan gagal maka diponegoro diperbolehkan kembali ke pertahanan .
+sentence 3: atas dasar janji tersebut , diponegoro mau berunding di rumah residen kedu , magelang pada tanggal 28 maret 1830 .
+sentence 4: namun , de kock ingkar janji sehingga pangeran diponegoro ditangkap ketika perundingan mengalami kegagalan .
+sentence 5: pangeran diponegoro kemudian di bawa ke batavia , di [ indahkan ke menado , dan pada tahun 1834 dipindahkan ke makassar hingga wafatnya pada tanggal 8 januari 1855 .
+passage 1 score = 6.75
+sentence 1: #sejarah _ kelas_11 sejarah perlawanan pangeran diponegoro terhadap belanda ( 1825 – 1830 ) - pengaruh belanda di surakarta dan yogyakarta semakin bertambah kuat pada permulaan abad ke-19 .
+sentence 2: khususnya di yogyakarta , campur tangan belanda telah menimbulkan kekecewaan di kalangan kerabat keraton yang kemudian menimbulkan perlawanan di bawah pimpinan pangeran diponegoro .
+sentence 3: sebab-sebab perlawanan diponegoro , antara lain sebagai berikut .
+sentence 4: a. adanya kekecewaan dan kebencian kerabat istana terhadap tindakan belanda yang makin intensif mencampuri urusan keraton melalui patih danurejo ( kaki tangan belanda ) .
+sentence 5: b. adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan .
+passage 2 score = 6.75
+sentence 1: b. adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan .
+sentence 2: c. adanya kekecewaan di kalangan para bangsawan , karena hak-haknya banyak yang dikurangi .
+sentence 3: d. sebagai sebab khususnya ialah adanya pembuatan jalan oleh belanda melewati makam leluhur pangeran diponegoro di tegalrejo .
+sentence 4: pertempuran pertama meletus pada tanggal 20 juli 1825 di tegalrejo .
+sentence 5: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
+passage 3 score = 6.75
+sentence 1: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
+sentence 2: di daerah plered , pasukan diponegoro dipimpin oleh kertapengalasan yang memiliki kemampuan yang cukup kuat .
+sentence 3: kabar mengenai pecahnya perang melawan belanda segera meluas ke berbagai daerah .
+sentence 4: dengan dikumandangkannya perang sabil , di surakarta oleh kiai mojo , di kedu oleh kiai hasan besari , dan di daerah-daerah lain maka pada pertempuran-pertempuran tahun 1825 – 1826 pasukan belanda banyak terpukul dan terdesak .
+sentence 5: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
 passage 4 score = 1.25
-sentence 1: soekarno ( ketua ) drs. moh .
-sentence 2: hatta ( wakil ketua ) prof. mr. dr. soepomo ( anggota ) krt radjiman wedyodiningrat ( anggota ) r. p. soeroso ( anggota ) soetardjo kartohadikoesoemo ( anggota ) kiai abdoel wachid hasjim ( anggota ) ki bagus hadikusumo ( anggota ) otto iskandardinata ( anggota ) abdoel kadir ( anggota ) pangeran soerjohamidjojo ( anggota ) pangeran poerbojo ( anggota ) dr. mohammad amir ( anggota ) mr. abdul maghfar ( anggota ) mr. teuku mohammad hasan ( anggota ) dr. gssj ratulangi ( anggota ) andi pangerang ( anggota ) a.h. hamidan ( anggota ) i goesti ketoet poedja ( anggota ) mr. johannes latuharhary ( anggota ) drs. yap tjwan bing ( anggota ) selanjutnya tanpa sepengetahuan jepang , keanggotaan bertambah 6 yaitu : achmad soebardjo ( penasehat ) sajoeti melik ( anggota ) ki hadjar dewantara ( anggota ) r.a.a. wiranatakoesoema ( anggota ) kasman singodimedjo ( anggota ) iwa koesoemasoemantri ( anggota ) .
-sentence 3: [ gs ]
-passage 1 score = 1.0
-sentence 1: ppki panitia persiapan kemerdekaan indonesia - panitia persiapan kemerdekaan indonesia ( ppki ) atau 独立準備委員会 ( dokuritsu junbi iinkai ) .
-sentence 2: panitia yang dibentuk pada tanggal 7 agustus 1945 dan diketuai oleh ir .
-sentence 3: soekarno ini mempunyai tugas untuk mempersiapkan kemerdekaan indonesia .
-sentence 4: pada tanggal 9 agustus 1945 , ir .
-sentence 5: soekarno , drs. moh .
-passage 3 score = 1.0
-sentence 1: wilayah indonesia meliputi seluruh bekas wilayah hindi belanda .
-sentence 2: sebelumnya sudah ada bpupki namun karena dianggap terlalu cepat ingin melaksanakan proklamasi kemerdekaan , maka jepang membubarkannya .
-sentence 3: pada awalnya ppki beranggotakan 21 orang : 12 orang dari jawa , 3 orang dari sumatra , 2 orang dari sulawesi , 1 orang dari kalimantan , 1 orang dari nusa tenggara , 1 orang dari maluku , 1 orang dari golongan tionghoa .
-sentence 4: susunan awal anggota ppki adalah sebagai berikut ir .
-sentence 5: soekarno ( ketua ) drs. moh .
+sentence 1: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
+sentence 2: a. siasat benteng stelsel , yang dilakukan oleh jenderal de kock mulai tahun 1827 .
+sentence 3: b. siasat bujukan agar perlawanan menjadi reda .
+sentence 4: c. siasat pemberian hadiah sebesar 20.000 , - ringgit kepada siapa saja yang dapat menangkap pangeran diponegoro .
+sentence 5: d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-passage 31 score = 5.75
-sentence 1: lalu yang ketiga dalam tahun 1316 , oleh patihnya sendiri yaitu nambi , dari daerah lumajang dan benteng di pajarakan .
-sentence 2: ia pun sekeluarga ditumpas .
-sentence 3: pemberontakan selanjutnya oleh kuti di tahun 1319 , dimana ibukota majapahit sempat diduduki , sang raja melarikan diri dibawah lindungan penjaga-penjaga istana yang disebut bhayangkari sebanyak 15 orang dibawah pimpinan gajah mada .
-sentence 4: namun dengan bantuan pasukan-pasukan majapahit yang masih setia , gajah mada dengan bhayangkarinya menggempur kuti , dan akhirnya jayanegara dapat melanjutkan pemerintahannya .
-sentence 5: berhenti pemberontakan kuti , tahun 1331 muncul pemberontakan di sadeng dan keta ( daerah besuki ) .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok56.txt
+title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
+passage 6 score = 6.0
+sentence 1: jenderal de kock melakukan tipu muslihat dengan mengajak berunding pangeran diponegoro .
+sentence 2: de kock berjanji apabila perundingan gagal maka diponegoro diperbolehkan kembali ke pertahanan .
+sentence 3: atas dasar janji tersebut , diponegoro mau berunding di rumah residen kedu , magelang pada tanggal 28 maret 1830 .
+sentence 4: namun , de kock ingkar janji sehingga pangeran diponegoro ditangkap ketika perundingan mengalami kegagalan .
+sentence 5: pangeran diponegoro kemudian di bawa ke batavia , di [ indahkan ke menado , dan pada tahun 1834 dipindahkan ke makassar hingga wafatnya pada tanggal 8 januari 1855 .
+passage 1 score = 5.75
+sentence 1: #sejarah _ kelas_11 sejarah perlawanan pangeran diponegoro terhadap belanda ( 1825 – 1830 ) - pengaruh belanda di surakarta dan yogyakarta semakin bertambah kuat pada permulaan abad ke-19 .
+sentence 2: khususnya di yogyakarta , campur tangan belanda telah menimbulkan kekecewaan di kalangan kerabat keraton yang kemudian menimbulkan perlawanan di bawah pimpinan pangeran diponegoro .
+sentence 3: sebab-sebab perlawanan diponegoro , antara lain sebagai berikut .
+sentence 4: a. adanya kekecewaan dan kebencian kerabat istana terhadap tindakan belanda yang makin intensif mencampuri urusan keraton melalui patih danurejo ( kaki tangan belanda ) .
+sentence 5: b. adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan .
+passage 2 score = 5.75
+sentence 1: b. adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan .
+sentence 2: c. adanya kekecewaan di kalangan para bangsawan , karena hak-haknya banyak yang dikurangi .
+sentence 3: d. sebagai sebab khususnya ialah adanya pembuatan jalan oleh belanda melewati makam leluhur pangeran diponegoro di tegalrejo .
+sentence 4: pertempuran pertama meletus pada tanggal 20 juli 1825 di tegalrejo .
+sentence 5: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
+passage 3 score = 5.75
+sentence 1: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
+sentence 2: di daerah plered , pasukan diponegoro dipimpin oleh kertapengalasan yang memiliki kemampuan yang cukup kuat .
+sentence 3: kabar mengenai pecahnya perang melawan belanda segera meluas ke berbagai daerah .
+sentence 4: dengan dikumandangkannya perang sabil , di surakarta oleh kiai mojo , di kedu oleh kiai hasan besari , dan di daerah-daerah lain maka pada pertempuran-pertempuran tahun 1825 – 1826 pasukan belanda banyak terpukul dan terdesak .
+sentence 5: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
+passage 4 score = 0.25
+sentence 1: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
+sentence 2: a. siasat benteng stelsel , yang dilakukan oleh jenderal de kock mulai tahun 1827 .
+sentence 3: b. siasat bujukan agar perlawanan menjadi reda .
+sentence 4: c. siasat pemberian hadiah sebesar 20.000 , - ringgit kepada siapa saja yang dapat menangkap pangeran diponegoro .
+sentence 5: d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+title : sejarah kerajaan demak dan pajang
+passage 3 score = 5.75
+sentence 1: negeri-negeri di pantai utara jawa yang sudah menganut islam mengakui kedaulatan demak .
+sentence 2: bahkan kekuasaan demak meluas ke sukadana ( kalimantan selatan ) , palembang , dan jambi .
+sentence 3: pada tahun 1512 dan 1513 , di bawah pimpinan putranya yang bernama adipati unus , demak dengan kekuatan 90 buah jung dan 12.000 tentara berusaha membebaskan malaka dari kekuasaan portugis dan menguasai perdagangan di selat malaka .
+sentence 4: karena pernah menyerang ke malaka adipati unus diberi gelar pangeran sabrang lor ( pangeran yang pernah menyeberang ke utara ) .
+sentence 5: kerajaan demak dianggap sebagai pusat penyebaran agama islam di pulau jawa .
+passage 18 score = 5.75
+sentence 1: kerajaan pajang terus mengadakan ekspansi ke jawa timur .
+sentence 2: setelah berhasil menaklukkan penguasa-penguasa lokal di jawa timur raja pajang memberikan hadiah kepada dua orang yang berjasa dalam penaklukan-penaklukannya , yaitu ki ageng pamanahan dan ki ageng panjawi .
+sentence 3: ki ageng pamanahan yang telah berjasa dalam pertempuran melawan aria panangsang , diberi kekuasaan di mataram , sedangkan ki ageng panjawi diberi kekuasaan di pati .
+sentence 4: sepeninggal ki ageng pamanahan ( 1584 ) , putranya yang bernama panembahan senopati ing alaga ( sutawijaya ) , menggantikan kedudukan ayahnya sebagai adipati mataram dan sekaligus diangkat sebagai panglima tentara pajang .
+sentence 5: setelah sultan adiwijaya meninggal tahun 1582 , takhta pajang direbut aria pangiri ( menantu adiwijaya ) .
+passage 2 score = 5.5
+sentence 1: pada masa kerajaan majapahit , demak merupakan salah satu wilayah kekuasaannya .
+sentence 2: ketika kerajaan majapahit mengalami kehancuran akibat perang saudara tahun 1478 , demak bangkit menjadi kerajaan islam yang pertama di pulau jawa .
+sentence 3: candrasangkala pada masjid demak menyatakan bahwa tahun 1403 saka ( 1481 ) sebagai tarikh berdirinya kerajaan demak .
+sentence 4: kerajaan demak berkembang menjadi kerajaan besar , di bawah kepemimpinan raden patah ( 1481-1518 ) .
+sentence 5: negeri-negeri di pantai utara jawa yang sudah menganut islam mengakui kedaulatan demak .
 passage 8 score = 5.5
-sentence 1: majapahit menaklukkan hampir seluruh nusantara dan melebarkan sayapnya hingga ke seluruh asia tenggara .
-sentence 2: pada masa ini daerah malang tidak lagi menjadi pusat kekuasaan karena diduga telah pindah ke daerah nganjuk .
-sentence 3: menurut para ahli di malang ditempatkan seorang penguasa yang disebut raja pula .
-sentence 4: dalam negara kertagama dikisahkan hayam wuruk sebagai raja majapahit melakukan ziarah ke makam leluhurnya ( yang berada disekitar daerah malang ) , salah satunya di dekat makam ken arok .
-sentence 5: ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
+sentence 1: pada masa sultan trenggana , wilayah kekuasaan kerajaan demak sangat luas meliputi banten , jayakarta , cirebon ( jawa barat ) , jawa tengah , dan sebagian jawa timur .
+sentence 2: wafatnya sultan trenggana ( 1546 ) menyebabkan kemunduran kerajaan demak .
+sentence 3: terjadi perebutan kekuasaan antara pangeran prawato ( putra sultan trenggana ) dengan aria panangsang ( keturunan sekar sedo lepen ( adik sultan trenggana ) ) .
+sentence 4: dalam perebutan kekuasaan itu , aria panangsang membunuh pangeran prawoto dan putranya , pangeran hadiri .
+sentence 5: ratu kalinyamat dan aria pangiri memohon bantuan kepada adiwijaya di pajang .
 passage 9 score = 5.5
-sentence 1: ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
-sentence 2: beberapa prasasti dan arca peninggalan majapahit dikawasan puncak gunung semeru dan juga di gunung arjuna menunjukkan bahwa kawasan gunung tersebut adalah tempat bersemayam para dewa dan hanya keturunan raja yang boleh menginjakkan kaki di wilayah tersebut .
-sentence 3: bisa disimpulkan bahwa berbagai peninggalan tersebut merupakan rangkaian yang saling berhubungan walaupun terpisah oleh masa yang berbeda sepanjang 7 abad .
-sentence 4: keruntuhan majapahit tersebutlah kisah , adipati terung meminta sultan bintara alias raden patah yang masih “ kapernah ” kakaknya , untuk menghadap prabu brawijaya .
-sentence 5: tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
-passage 22 score = 5.5
-sentence 1: ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi majapahit tahun 1413 masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari gujarat dan malaka .
-sentence 2: disebutkannya , tahun 1400 masehi saudagar islam dari gujarat dan parsi sudah bermukim di pantai utara jawa .
-sentence 3: salah satunya adalah maulana malik ibrahim yang dimakamkan di pasarean gapura wetan kab .
-sentence 4: gresik dengan angka tahun 12 rabi’ul awwal 882 h atau 8 april 1419 masehi , berarti pada jaman pemerintahan wikramawardhana ( 1389-1429 ) yaitu raja majapahit iv setelah hayam wuruk .
-sentence 5: batu nisan yang berpahat kaligrafi arab itu menurut tjokrosujono ( mantan kepala suaka peninggalan sejarah dan purbakala , mojokerto ) , nisan itu asli bukan buatan baru .
-passage 30 score = 5.5
-sentence 1: pewaris tahta raden wijaya , yakni masa pemerintahan kalagemet/jayanegara ( 1309-1328 ) , yang dalam sebuah prasasti dianggap sebagai titisan wisnu dengan lencana negara minadwaya ( dua ekor ikan ) dalam memerintah banyak menghadapi pemberontakan-pemberontakan terhadap majapahit dari mereka yang masih setia kepada kertarajasa .
-sentence 2: pemberontakan pertama sebetulnya sudah dimulai sejak kertarajasa masih hidup , yaitu oleh rangga lawe yang berkedudukan di tuban , akibat tidak puas karena bukan dia yang menjadi patih majapahit tetapi nambi , anak wiraraja .
-sentence 3: tetapi usahanya ( 1309 ) dapat digagalkan .
-sentence 4: pemberontakan kedua di tahun 1311 oleh sora , seorang rakryan di majapahit , tapi gagal .
-sentence 5: lalu yang ketiga dalam tahun 1316 , oleh patihnya sendiri yaitu nambi , dari daerah lumajang dan benteng di pajarakan .
+sentence 1: ratu kalinyamat dan aria pangiri memohon bantuan kepada adiwijaya di pajang .
+sentence 2: dalam pertempuran itu , adiwijaya berhasil membunuh aria panangsang .
+sentence 3: setelah itu , adiwijaya memindahkan ibu kota kerajaan demak ke pajang pada tahun 1568 .
+sentence 4: peristiwa ini menjadi akhir dari kerajaan demak .
+sentence 5: a. kehidupan politik kerajaan demak 1 ) raden patah ( 1475 – 1518 ) dengan bantuan daerah-daerah lain yang masuk islam , seperti jepara , tuban , dan gresik , raden patah pada tahun 1475 berhasil mendirikan kerajaan demak , yang merupakan kerajaan islam pertama di jawa .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
-title : kerajaan mataram islam
-passage 4 score = 5.75
-sentence 1: pemanahan berhasil membangun hutan mentaok itu menjadi desa yang makmur , bahkan lama-kelamaan menjadi kerajaan kecil yang siap bersaing dengan pajang sebagai atasannya .
-sentence 2: setelah pemanahan meninggal pada tahun 1575 ia digantikan putranya , danang sutawijaya , yang juga sering disebut pangeran ngabehi loring pasar .
-sentence 3: sutawijaya kemudian berhasil memberontak pada pajang .
-sentence 4: setelah sultan hadiwijaya wafat ( 1582 ) sutawijaya mengangkat diri sebagai raja mataram dengan gelar panembahan senapati .
-sentence 5: pajang kemudian dijadikan salah satu wilayah bagian daari mataram yang beribukota di kotagede .
-passage 9 score = 5.75
-sentence 1: kekuasaan mataram pada waktu itu meliputi hampir seluruh jawa , dari pasuruan sampai cirebon .
-sentence 2: sementara itu voc telah menguasai beberapa wilayah seperti di batavia dan di indonesia bagian timur .
-sentence 3: di samping dalam bidang politik dan militer , sultan agung juga mencurahkan perhatiannya pada bidang ekonomi dan kebudayaan .
-sentence 4: upayanya antara lain memindahkan penduduk jawa tengah ke kerawang , jawa barat , di mana terdapat sawah dan ladang yang luas serta subur .
-sentence 5: sultan agung juga berusaha menyesuaikan unsur-unsur kebudayaan indonesia asli dengan hindu dan islam .
-passage 3 score = 5.25
-sentence 1: menurut salah satu versi , setelah demak mengalami kemunduran , ibukotanya dipindahkan ke pajang dan mulailah pemerintahan pajang sebagai kerajaan .
-sentence 2: kerajaan ini terus mengadakan ekspansi ke jawa timur dan juga terlibat konflik keluarga dengan arya penangsang dari kadipaten jipang panolan .
-sentence 3: setelah berhasil menaklukkan aryo penangsang , sultan hadiwijaya ( 1550-1582 ) , raja pajang memberikan hadiah kepada 2 orang yang dianggap berjasa dalam penaklukan itu , yaitu ki ageng pemanahan dan ki penjawi .
-sentence 4: ki ageng pemanahan memperoleh tanah di hutan mentaok dan ki penjawi memperoleh tanah di pati .
-sentence 5: pemanahan berhasil membangun hutan mentaok itu menjadi desa yang makmur , bahkan lama-kelamaan menjadi kerajaan kecil yang siap bersaing dengan pajang sebagai atasannya .
-passage 5 score = 5.25
-sentence 1: pajang kemudian dijadikan salah satu wilayah bagian daari mataram yang beribukota di kotagede .
-sentence 2: senapati bertahta sampai wafatnya pada tahun 1601 .
-sentence 3: selama pemerintahannya boleh dikatakan terus-menerus berperang menundukkan bupati-bupati daerah .
-sentence 4: kasultanan demak menyerah , panaraga , pasuruan , kediri , surabaya , berturut-turut direbut .
-sentence 5: cirebon pun berada di bawah pengaruhnya .
-passage 12 score = 5.25
-sentence 1: pada tahun 1674 pecahlah perang trunajaya yang didukung para ulama dan bangsawan , bahkan termasuk putra mahkota sendiri .
-sentence 2: ibukota kerta jatuh dan amangkurat i ( bersama putra mahkota yang akhirnya berbalik memihak ayahnya ) melarikan diri untuk mencari bantuan voc .
-sentence 3: akan tetapi sampai di tegalarum , ( dekat tegal , jawa tengah ) amangkurat i jatuh sakit dan akhirnya wafat .
-sentence 4: ia digantikan oleh putra mahkota yang bergelar amangkurat ii atau dikenal juga dengan sebutan sunan amral .
-sentence 5: sunan amangkurat ii bertahta pada tahun 1677-1703 .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
-title : kerajaan kediri
-passage 1 score = 5.0
-sentence 1: pada tahun 1019 m airlangga dinobatkan menjadi raja medang kamulan .
-sentence 2: airlangga berusaha memulihkan kembali kewibawaan medang kamulan , setelah kewibawaan kerajaan berahasil dipulihkan , airlangga memindahkan pusat pemerintahan dari medang kamulan ke kahuripan .
-sentence 3: berkat jerih payahnya , medang kamulan mencapai kejayaan dan kemakmuran .
-sentence 4: menjelang akhir hayatnya , airlangga memutuskan untuk mundur dari pemerintahan dan menjadi pertapa dengan sebutan resi gentayu .
-sentence 5: airlangga meninggal pada tahun 1049 m. pewaris tahta kerajaan medang kamulan seharusnya seorang putri yaitu sri sanggramawijaya yang lahir dari seorang permaisuri .
-passage 5 score = 5.0
-sentence 1: lancana kerajaanya adalah tengkorak yang bertaring disebut candrakapala .
-sentence 2: dalam masa pemerintahannya mpu darmaja telah mengubah kitab samaradana .
-sentence 3: dalam kitab ini sang raja di puji – puji sebagai titisan dewa kama , dan ibukotanya yang keindahannya dikagumi seluruh dunia bernama dahana .
-sentence 4: permaisurinya bernama shri kirana , yang berasal dari janggala .3 .
-sentence 5: jayabaya raja kediri ketiga yang bergelar shri maharaja shri kroncarryadipa handabhuwanapalaka parakramanindita digjayotunggadewanama shri gandra .
-passage 3 score = 0.5
-sentence 1: hal ini dapat terlihat hingga abad ke 12 , dimana kediri tetap menjadi kerajaan yang subur dan makmur namun tetap tidak damai sepenuhnya dikarenakan dibayang - bayangi jenggala yang berada dalam posisi yang lebih lemah .
-sentence 2: hal itu menjadikan suasana gelap , penuh kemunafikan dan pembunuhan berlangsung terhadap pangeran dan raja – raja antar kedua negara .
-sentence 3: namun perseteruan ini berakhir dengan kekalahan jenggala , kerajaan kembali dipersatukandi bawah kekuasaan kediri .
-sentence 4: a. sistem pemerintahan kerajaan kediri sistem pemerintahan kerajaan kediri terjadi beberapa kali pergantian kekuasaan , adapun raja – raja yang pernah berkuasa pada masa kerajaan kediri adalah :1 .
-sentence 5: shri jayawarsa digjaya shastraprabhu jayawarsa adalah raja pertama kerajaan kediri dengan prasastinya yang berangka tahun 1104 .
-passage 2 score = 0.25
-sentence 1: airlangga meninggal pada tahun 1049 m. pewaris tahta kerajaan medang kamulan seharusnya seorang putri yaitu sri sanggramawijaya yang lahir dari seorang permaisuri .
-sentence 2: namun karena memilih menjadi pertapa , tahta beralih pada putra airlangga yang lahir dari selir .
-sentence 3: untuk menghindari perang saudara , medang kamulan dibagi menjadi dua yaitu kerajaan jenggala dengan ibu kota kahuripan , dan kerajaan kediri ( panjalu ) dengan ibu kota dhaha .
-sentence 4: tetapi upaya tersebut mengalami kegagalan .
-sentence 5: hal ini dapat terlihat hingga abad ke 12 , dimana kediri tetap menjadi kerajaan yang subur dan makmur namun tetap tidak damai sepenuhnya dikarenakan dibayang - bayangi jenggala yang berada dalam posisi yang lebih lemah .
-passage 10 score = 0.25
-sentence 1: prinsip kesucian prabu srengga menurut para dalang wayang dilukiskan oleh prapanca .7 .
-sentence 2: pemerintahan kertajaya raja terakhir pada masa kediri .
-sentence 3: kertajaya raja yang mulia serta sangat peduli dengan rakyat .
-sentence 4: kertajaya dikenal dengan catur marganya yang berarti empat jalan yaitu darma , arta , kama , moksa .
-sentence 5: b. runtuhnya kerajaan kediri runtuhnya kerajaan kediri dikarenakan pada masa pemerintahan kertajaya , terjadi pertentangan dengan kaum brahmana .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 10 score = 5.75
-sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
-sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
-sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
-sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
-sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
-passage 3 score = 5.5
-sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
-sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
-sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
-sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
-sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+title : sejarah kerajaan demak dan pajang
+passage 3 score = 5.75
+sentence 1: negeri-negeri di pantai utara jawa yang sudah menganut islam mengakui kedaulatan demak .
+sentence 2: bahkan kekuasaan demak meluas ke sukadana ( kalimantan selatan ) , palembang , dan jambi .
+sentence 3: pada tahun 1512 dan 1513 , di bawah pimpinan putranya yang bernama adipati unus , demak dengan kekuatan 90 buah jung dan 12.000 tentara berusaha membebaskan malaka dari kekuasaan portugis dan menguasai perdagangan di selat malaka .
+sentence 4: karena pernah menyerang ke malaka adipati unus diberi gelar pangeran sabrang lor ( pangeran yang pernah menyeberang ke utara ) .
+sentence 5: kerajaan demak dianggap sebagai pusat penyebaran agama islam di pulau jawa .
+passage 18 score = 5.75
+sentence 1: kerajaan pajang terus mengadakan ekspansi ke jawa timur .
+sentence 2: setelah berhasil menaklukkan penguasa-penguasa lokal di jawa timur raja pajang memberikan hadiah kepada dua orang yang berjasa dalam penaklukan-penaklukannya , yaitu ki ageng pamanahan dan ki ageng panjawi .
+sentence 3: ki ageng pamanahan yang telah berjasa dalam pertempuran melawan aria panangsang , diberi kekuasaan di mataram , sedangkan ki ageng panjawi diberi kekuasaan di pati .
+sentence 4: sepeninggal ki ageng pamanahan ( 1584 ) , putranya yang bernama panembahan senopati ing alaga ( sutawijaya ) , menggantikan kedudukan ayahnya sebagai adipati mataram dan sekaligus diangkat sebagai panglima tentara pajang .
+sentence 5: setelah sultan adiwijaya meninggal tahun 1582 , takhta pajang direbut aria pangiri ( menantu adiwijaya ) .
+passage 2 score = 5.5
+sentence 1: pada masa kerajaan majapahit , demak merupakan salah satu wilayah kekuasaannya .
+sentence 2: ketika kerajaan majapahit mengalami kehancuran akibat perang saudara tahun 1478 , demak bangkit menjadi kerajaan islam yang pertama di pulau jawa .
+sentence 3: candrasangkala pada masjid demak menyatakan bahwa tahun 1403 saka ( 1481 ) sebagai tarikh berdirinya kerajaan demak .
+sentence 4: kerajaan demak berkembang menjadi kerajaan besar , di bawah kepemimpinan raden patah ( 1481-1518 ) .
+sentence 5: negeri-negeri di pantai utara jawa yang sudah menganut islam mengakui kedaulatan demak .
+passage 8 score = 5.5
+sentence 1: pada masa sultan trenggana , wilayah kekuasaan kerajaan demak sangat luas meliputi banten , jayakarta , cirebon ( jawa barat ) , jawa tengah , dan sebagian jawa timur .
+sentence 2: wafatnya sultan trenggana ( 1546 ) menyebabkan kemunduran kerajaan demak .
+sentence 3: terjadi perebutan kekuasaan antara pangeran prawato ( putra sultan trenggana ) dengan aria panangsang ( keturunan sekar sedo lepen ( adik sultan trenggana ) ) .
+sentence 4: dalam perebutan kekuasaan itu , aria panangsang membunuh pangeran prawoto dan putranya , pangeran hadiri .
+sentence 5: ratu kalinyamat dan aria pangiri memohon bantuan kepada adiwijaya di pajang .
 passage 9 score = 5.5
-sentence 1: semua pemberontakan tersebut dapat dipadamkan .
-sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
-sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
-sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
-sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
-passage 22 score = 5.5
-sentence 1: setelah mengalami kemunduran , akhirnya majapahit runtuh .
-sentence 2: dalam hal ini ada dua pendapat : a ) tahun 1478 , yakni adanya serangan girindrawardana dari kediri .
-sentence 3: peristiwa tersebut diberi candrasengkala " hilang sirnakertaning bhumi " yang berarti tahun 1400 saka/1478 m. b ) tahun 1526 , yakni adanya serangan tentara dari demak di bawah pimpinan raden patah .
-sentence 4: serangan demak ini menandai berakhirnya kekuasaan hindu di jawa .
-sentence 5: pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke daerah badandea .
-passage 25 score = 5.5
-sentence 1: pemberontakan ini dapat dipadamkan oleh gajah mada .
-sentence 2: sebagai penghargaan atas jasanya , gajah mada diangkat menjadi mahapatih di majapahit oleh tribhuanatunggadewi .
-sentence 3: di hadapan raja dan para pembesar majapahit , gajah mada mengucapkan sumpah yang terkenal dengan nama sumpah palapa .
-sentence 4: isi sumpahnya , ia tidak akan amukti palapa sebelum ia dapat menundukkan nusantara , yaitu gurun , seran , panjungpura , haru , pahang , dompo , bali , sunda , palembang , dan tumasik .
-sentence 5: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 1: ratu kalinyamat dan aria pangiri memohon bantuan kepada adiwijaya di pajang .
+sentence 2: dalam pertempuran itu , adiwijaya berhasil membunuh aria panangsang .
+sentence 3: setelah itu , adiwijaya memindahkan ibu kota kerajaan demak ke pajang pada tahun 1568 .
+sentence 4: peristiwa ini menjadi akhir dari kerajaan demak .
+sentence 5: a. kehidupan politik kerajaan demak 1 ) raden patah ( 1475 – 1518 ) dengan bantuan daerah-daerah lain yang masuk islam , seperti jepara , tuban , dan gresik , raden patah pada tahun 1475 berhasil mendirikan kerajaan demak , yang merupakan kerajaan islam pertama di jawa .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 10 score = 5.75
-sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
-sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
-sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
-sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
-sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
-passage 3 score = 5.5
-sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
-sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
-sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
-sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
-sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
-passage 9 score = 5.5
-sentence 1: semua pemberontakan tersebut dapat dipadamkan .
-sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
-sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
-sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
-sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
-passage 22 score = 5.5
-sentence 1: setelah mengalami kemunduran , akhirnya majapahit runtuh .
-sentence 2: dalam hal ini ada dua pendapat : a ) tahun 1478 , yakni adanya serangan girindrawardana dari kediri .
-sentence 3: peristiwa tersebut diberi candrasengkala " hilang sirnakertaning bhumi " yang berarti tahun 1400 saka/1478 m. b ) tahun 1526 , yakni adanya serangan tentara dari demak di bawah pimpinan raden patah .
-sentence 4: serangan demak ini menandai berakhirnya kekuasaan hindu di jawa .
-sentence 5: pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke daerah badandea .
-passage 25 score = 5.5
-sentence 1: pemberontakan ini dapat dipadamkan oleh gajah mada .
-sentence 2: sebagai penghargaan atas jasanya , gajah mada diangkat menjadi mahapatih di majapahit oleh tribhuanatunggadewi .
-sentence 3: di hadapan raja dan para pembesar majapahit , gajah mada mengucapkan sumpah yang terkenal dengan nama sumpah palapa .
-sentence 4: isi sumpahnya , ia tidak akan amukti palapa sebelum ia dapat menundukkan nusantara , yaitu gurun , seran , panjungpura , haru , pahang , dompo , bali , sunda , palembang , dan tumasik .
-sentence 5: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+title : sejarah kerajaan mataram islam
+passage 20 score = 5.75
+sentence 1: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+sentence 2: pada masa pemerintahan paku buwono ii ( 1727 – 1749 ) mataram diguncang lagi perlawanan yang dipimpin oleh mas garendi ( cucu sunan mas ) .
+sentence 3: perlawanan ini di dukung oleh orang-orang tionghoa yang gagal mengadakan pemberontakan terhadap voc di batavia .
+sentence 4: mas garendi berhasil menduduki ibu kota kartasura .
+sentence 5: paku buwono ii melarikan diri ke ponorogo .
+passage 22 score = 5.75
+sentence 1: perselisihan berakhir dengan ditangkapnya dan di buang ke afrika selatan ( 1745 ) .
+sentence 2: setelah beberapa kali terjadi perlawanan di kartasura , kartasura dianggap tidak layak sebagai ibu kota kerajaan sehingga pusat pemerintahan dipindahkan ke surakarta .
+sentence 3: makin bercokolnya voc di mataram menyebabkan pada masa paku buwono ii ini juga terjadi perlawanan lagi di bawah pimpinan raden mas said ( putra pangeran mangkunegoro ) dan menduduki sukowati .
+sentence 4: oleh paku buwono ii dikeluarkan semacam sayembara , siapa yang dapat merebut daerah sukowati akan mendapat daerah itu sebagai imbalannya .
+sentence 5: pangeran mangkubumi , adik paku buwono ii berhasil merebut sukowati , tetapi ternyata daerah itu tidak diberikan .
+passage 2 score = 5.5
+sentence 1: untuk melambangkan status kebesaran raja dapat dilihat dari bangunan keratonnya .
+sentence 2: sultan agung membangun keraton mataram di karta dan sitinggil ( yogyakarta ) pada tahun 1614 dan 1625 yang dilengkapi dengan alun-alun , tembok keliling , pepohonan , masjid besar , dan kolam .
+sentence 3: a. kehidupan politik kerajaan mataram islam sesudah runtuhnya kerajaan demak , pusat pemerintahan dipindahkan ke pajang oleh joko tingkir ( menantu sultan trenggono ) .
+sentence 4: joko tingkir menaiki takhta kerajaan pajang dengan gelar sultan hadiwijoyo .
+sentence 5: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
+passage 4 score = 5.5
+sentence 1: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+sentence 2: sutowijoyo mengangkat dirinya sebagai raja mataram pertama dengan gelar panembahan senopati ( 1586 – 1601 ) dengan kotagede sebagai ibukotnya .
+sentence 3: tindakan-tindakannya yang penting , antara lain sebagai berikut : 1 ) meletakkan dasar-dasar kerajaan mataram ; 2 ) memperluas wilayah kekuasaan dengan menundukkan surabaya , madiun , dan ponorogo ke timur dan ke barat berhasil menundukkan cirebon dan galuh .
+sentence 4: pengganti panembahan senopati ialah mas jolang gugur di daerah krapyak sehingga disebut panembahan seda krapyak .
+sentence 5: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+passage 6 score = 5.5
+sentence 1: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
+sentence 2: selanjutnya , menundukkan lasem , pamekasan , dan sumenep , bahkan juga sukadana di kalimantan .
+sentence 3: dengan demikian , seluruh jawa telah takluk di bawah mataram bahkan sampai ke luar jawa , yakni palembang , sukadana , dan goa .
+sentence 4: setelah jawa timur , jawa tengah , dan cirebon berhasil dikuasai , sultan agung merencanakan untuk menyerang batavia .
+sentence 5: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+title : sejarah kerajaan mataram islam
+passage 20 score = 5.75
+sentence 1: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+sentence 2: pada masa pemerintahan paku buwono ii ( 1727 – 1749 ) mataram diguncang lagi perlawanan yang dipimpin oleh mas garendi ( cucu sunan mas ) .
+sentence 3: perlawanan ini di dukung oleh orang-orang tionghoa yang gagal mengadakan pemberontakan terhadap voc di batavia .
+sentence 4: mas garendi berhasil menduduki ibu kota kartasura .
+sentence 5: paku buwono ii melarikan diri ke ponorogo .
+passage 22 score = 5.75
+sentence 1: perselisihan berakhir dengan ditangkapnya dan di buang ke afrika selatan ( 1745 ) .
+sentence 2: setelah beberapa kali terjadi perlawanan di kartasura , kartasura dianggap tidak layak sebagai ibu kota kerajaan sehingga pusat pemerintahan dipindahkan ke surakarta .
+sentence 3: makin bercokolnya voc di mataram menyebabkan pada masa paku buwono ii ini juga terjadi perlawanan lagi di bawah pimpinan raden mas said ( putra pangeran mangkunegoro ) dan menduduki sukowati .
+sentence 4: oleh paku buwono ii dikeluarkan semacam sayembara , siapa yang dapat merebut daerah sukowati akan mendapat daerah itu sebagai imbalannya .
+sentence 5: pangeran mangkubumi , adik paku buwono ii berhasil merebut sukowati , tetapi ternyata daerah itu tidak diberikan .
+passage 2 score = 5.5
+sentence 1: untuk melambangkan status kebesaran raja dapat dilihat dari bangunan keratonnya .
+sentence 2: sultan agung membangun keraton mataram di karta dan sitinggil ( yogyakarta ) pada tahun 1614 dan 1625 yang dilengkapi dengan alun-alun , tembok keliling , pepohonan , masjid besar , dan kolam .
+sentence 3: a. kehidupan politik kerajaan mataram islam sesudah runtuhnya kerajaan demak , pusat pemerintahan dipindahkan ke pajang oleh joko tingkir ( menantu sultan trenggono ) .
+sentence 4: joko tingkir menaiki takhta kerajaan pajang dengan gelar sultan hadiwijoyo .
+sentence 5: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
+passage 4 score = 5.5
+sentence 1: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+sentence 2: sutowijoyo mengangkat dirinya sebagai raja mataram pertama dengan gelar panembahan senopati ( 1586 – 1601 ) dengan kotagede sebagai ibukotnya .
+sentence 3: tindakan-tindakannya yang penting , antara lain sebagai berikut : 1 ) meletakkan dasar-dasar kerajaan mataram ; 2 ) memperluas wilayah kekuasaan dengan menundukkan surabaya , madiun , dan ponorogo ke timur dan ke barat berhasil menundukkan cirebon dan galuh .
+sentence 4: pengganti panembahan senopati ialah mas jolang gugur di daerah krapyak sehingga disebut panembahan seda krapyak .
+sentence 5: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+passage 6 score = 5.5
+sentence 1: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
+sentence 2: selanjutnya , menundukkan lasem , pamekasan , dan sumenep , bahkan juga sukadana di kalimantan .
+sentence 3: dengan demikian , seluruh jawa telah takluk di bawah mataram bahkan sampai ke luar jawa , yakni palembang , sukadana , dan goa .
+sentence 4: setelah jawa timur , jawa tengah , dan cirebon berhasil dikuasai , sultan agung merencanakan untuk menyerang batavia .
+sentence 5: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 title : sejarah kerajaan banjar (kesultanan banjarmasin)
 passage 26 score = 8.25
 sentence 1: pada 14 maret 1862 atau 11 hari setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan rakyat kalimantan selatan terhadap belanda .
@@ -430,7 +411,7 @@ sentence 3: pusat perjuangan di menawing , pedalaman barito , murung raya , kalt
 sentence 4: antasari dinobatkan sebagai pahlawan nasional dan wafat 11 oktober 1862 di kampung sampirang , bayan begak , puruk cahu karena penyakit cacar .
 sentence 5: jenazahnya dimakamkan kembali 11 november 1958 di kompleks makam pangeran antasari , banjarmasin .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 title : sejarah kerajaan banjar (kesultanan banjarmasin)
 passage 26 score = 8.25
 sentence 1: pada 14 maret 1862 atau 11 hari setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan rakyat kalimantan selatan terhadap belanda .
@@ -439,7 +420,7 @@ sentence 3: pusat perjuangan di menawing , pedalaman barito , murung raya , kalt
 sentence 4: antasari dinobatkan sebagai pahlawan nasional dan wafat 11 oktober 1862 di kampung sampirang , bayan begak , puruk cahu karena penyakit cacar .
 sentence 5: jenazahnya dimakamkan kembali 11 november 1958 di kompleks makam pangeran antasari , banjarmasin .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 passage 2 score = 8.0
 sentence 1: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
@@ -448,7 +429,7 @@ sentence 3: tokoh-tokoh lain dalam pertempuran ini , antara lain kiai demang lem
 sentence 4: pasukan antasari menyerbu pos-pos belanda yang ada di martapura dan pangron pada akhir april 1859 .
 sentence 5: di bawah pimpinan kiai demang leman dan haji buyasin pada bulan agustus 1859 pasukan banjar berhasil merebut benteng belanda di tabanio .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 passage 4 score = 8.0
 sentence 1: pertempuran terus meluas ke berbagai daerah , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan .
@@ -457,7 +438,7 @@ sentence 3: pada tanggal 3 februari 1862 , pangeran hidayat tertangkap dan dibua
 sentence 4: pangeran antasari yang pada tanggal 14 maret 1862 diangkat oleh rakyat sebagai pemimpin tertinggi agama islam dengan gelar panembahan amiruddin khalifahtul mukminin gugur dalam pertempuran di hulu teweh pada tanggal 11 oktober 1862 .
 sentence 5: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 passage 2 score = 8.0
 sentence 1: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
@@ -474,7 +455,7 @@ Pencarian jawaban
 pada <TIME>14 maret 1862</TIME> atau <TIME>11 hari</TIME> setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan <PERSON>rakyat</PERSON> kalimantan selatan terhadap <PERSON>belanda .</PERSON> antasari dibantu tumenggung surapati sebagai panglima perang . pusat perjuangan di menawing , pedalaman barito , murung raya , kalteng . antasari dinobatkan sebagai pahlawan nasional dan wafat <TIME>11 oktober 1862</TIME> di <LOCATION>kampung</LOCATION> sampirang , bayan begak , puruk cahu karena penyakit cacar . jenazahnya dimakamkan kembali <TIME>11 november 1958</TIME> di <LOCATION>kompleks makam pangeran</LOCATION> antasari , banjarmasin .
 
 memproses passage 26
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 title : sejarah kerajaan banjar (kesultanan banjarmasin)
 list jawaban dan posisi dalam passage
 kampung | position = 47
@@ -774,7 +755,7 @@ tokenwithtagstemmed = banjarmasin
 pada <TIME>14 maret 1862</TIME> atau <TIME>11 hari</TIME> setelah pangeran hidayatullah ii diasingkan ke cianjur , diproklamasikan pengangkatan pangeran antasari sebagai pimpinan tertinggi kerajaan banjar dengan gelar panembahan amiruddin khalifatul mukminin pelajari juga sejarah perlawanan <PERSON>rakyat</PERSON> kalimantan selatan terhadap <PERSON>belanda .</PERSON> antasari dibantu tumenggung surapati sebagai panglima perang . pusat perjuangan di menawing , pedalaman barito , murung raya , kalteng . antasari dinobatkan sebagai pahlawan nasional dan wafat <TIME>11 oktober 1862</TIME> di <LOCATION>kampung</LOCATION> sampirang , bayan begak , puruk cahu karena penyakit cacar . jenazahnya dimakamkan kembali <TIME>11 november 1958</TIME> di <LOCATION>kompleks makam pangeran</LOCATION> antasari , banjarmasin .
 
 memproses passage 26
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 title : sejarah kerajaan banjar (kesultanan banjarmasin)
 list jawaban dan posisi dalam passage
 kampung | position = 47
@@ -1074,7 +1055,7 @@ tokenwithtagstemmed = banjarmasin
 pertempuran rakyat banjar melawan belanda berkobar pada <TIME>tahun 1859</TIME> di bawah pimpinan pangeran antasari . dalam pertempuran ini pangeran hidayat berada di pihak <PERSON>rakyat .</PERSON> tokoh-tokoh lain dalam pertempuran ini , antara lain kiai demang leman , haji nasrun , haji buyasin , tumenggung suropati , dan kiai langlang . pasukan antasari menyerbu pos-pos belanda yang ada di <LOCATION>martapura</LOCATION> dan <PERSON>pangron</PERSON> pada <TIME>akhir april 1859</TIME> . di bawah pimpinan <PERSON>kiai demang leman</PERSON> dan haji buyasin pada <TIME>bulan agustus 1859</TIME> pasukan banjar berhasil merebut benteng belanda di <LOCATION>tabanio .</LOCATION>
 
 memproses passage 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 list jawaban dan posisi dalam passage
 martapura | position = 37
@@ -1323,7 +1304,7 @@ tokenwithtagstemmed = tabanio
 pertempuran terus meluas ke <LOCATION>berbagai daerah</LOCATION> , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan . dalam menghadapi serangan-serangan ini , belanda mengalami kesulitan , namun setelah mendapatkan bantuan dari luar akhirnya belanda berhasil mematahkan perlawanan <PERSON>rakyat .</PERSON> pada <TIME>tanggal 3 februari 1862</TIME> , pangeran hidayat tertangkap dan dibuang ke <LOCATION>jawa .</LOCATION> pangeran antasari yang pada <TIME>tanggal 14 maret 1862</TIME> diangkat oleh <PERSON>rakyat</PERSON> sebagai pemimpin tertinggi agama islam dengan gelar panembahan amiruddin khalifahtul mukminin gugur dalam pertempuran di hulu teweh pada <TIME>tanggal 11 oktober 1862</TIME> . sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
 
 memproses passage 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 list jawaban dan posisi dalam passage
 berbagai daerah | position = 3
@@ -1605,7 +1586,7 @@ tokenwithtagstemmed = juang
 pertempuran rakyat banjar melawan belanda berkobar pada <TIME>tahun 1859</TIME> di bawah pimpinan pangeran antasari . dalam pertempuran ini pangeran hidayat berada di pihak <PERSON>rakyat .</PERSON> tokoh-tokoh lain dalam pertempuran ini , antara lain kiai demang leman , haji nasrun , haji buyasin , tumenggung suropati , dan kiai langlang . pasukan antasari menyerbu pos-pos belanda yang ada di <LOCATION>martapura</LOCATION> dan <PERSON>pangron</PERSON> pada <TIME>akhir april 1859</TIME> . di bawah pimpinan <PERSON>kiai demang leman</PERSON> dan haji buyasin pada <TIME>bulan agustus 1859</TIME> pasukan banjar berhasil merebut benteng belanda di <LOCATION>tabanio .</LOCATION>
 
 memproses passage 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 list jawaban dan posisi dalam passage
 martapura | position = 37
@@ -1858,7 +1839,7 @@ doc rank = 3
 total Score = 6
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kampung
@@ -1868,7 +1849,7 @@ doc rank = 4
 total Score = 8
 frequency = 1
 order process = 23
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = jawa
@@ -1878,7 +1859,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 33
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = martapura
@@ -1888,7 +1869,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 31
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = martapura
@@ -1898,7 +1879,7 @@ doc rank = 2
 total Score = 12
 frequency = 1
 order process = 40
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = kampung
@@ -1908,7 +1889,7 @@ doc rank = 3
 total Score = 10
 frequency = 1
 order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kampung
@@ -1918,7 +1899,7 @@ doc rank = 4
 total Score = 12
 frequency = 1
 order process = 21
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -1928,7 +1909,7 @@ doc rank = 3
 total Score = 18
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -1938,7 +1919,7 @@ doc rank = 4
 total Score = 20
 frequency = 1
 order process = 24
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -1948,7 +1929,7 @@ doc rank = 3
 total Score = 22
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -1958,7 +1939,7 @@ doc rank = 4
 total Score = 24
 frequency = 1
 order process = 22
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = tabanio
@@ -1968,7 +1949,7 @@ doc rank = 1
 total Score = 24
 frequency = 1
 order process = 32
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = tabanio
@@ -1978,7 +1959,7 @@ doc rank = 2
 total Score = 27
 frequency = 1
 order process = 41
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = kampung
@@ -1988,7 +1969,7 @@ doc rank = 3
 total Score = 24
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kampung
@@ -1998,7 +1979,7 @@ doc rank = 4
 total Score = 26
 frequency = 1
 order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = martapura
@@ -2008,7 +1989,7 @@ doc rank = 1
 total Score = 29
 frequency = 1
 order process = 27
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = martapura
@@ -2018,7 +1999,7 @@ doc rank = 2
 total Score = 32
 frequency = 1
 order process = 36
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = martapura
@@ -2028,7 +2009,7 @@ doc rank = 1
 total Score = 31
 frequency = 1
 order process = 29
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = martapura
@@ -2038,7 +2019,7 @@ doc rank = 2
 total Score = 34
 frequency = 1
 order process = 38
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = martapura
@@ -2048,7 +2029,7 @@ doc rank = 1
 total Score = 32
 frequency = 1
 order process = 25
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = martapura
@@ -2058,7 +2039,7 @@ doc rank = 2
 total Score = 35
 frequency = 1
 order process = 34
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = kompleks makam pangeran
@@ -2068,7 +2049,7 @@ doc rank = 3
 total Score = 36
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -2078,7 +2059,7 @@ doc rank = 4
 total Score = 38
 frequency = 1
 order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kampung
@@ -2088,7 +2069,7 @@ doc rank = 3
 total Score = 41
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kampung
@@ -2098,7 +2079,7 @@ doc rank = 4
 total Score = 43
 frequency = 1
 order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kampung
@@ -2108,7 +2089,7 @@ doc rank = 3
 total Score = 42
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kampung
@@ -2118,7 +2099,7 @@ doc rank = 4
 total Score = 44
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = tabanio
@@ -2128,7 +2109,7 @@ doc rank = 1
 total Score = 44
 frequency = 1
 order process = 28
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = tabanio
@@ -2138,7 +2119,7 @@ doc rank = 2
 total Score = 47
 frequency = 1
 order process = 37
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = tabanio
@@ -2148,7 +2129,7 @@ doc rank = 1
 total Score = 46
 frequency = 1
 order process = 30
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = tabanio
@@ -2158,7 +2139,7 @@ doc rank = 2
 total Score = 49
 frequency = 1
 order process = 39
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = tabanio
@@ -2168,7 +2149,7 @@ doc rank = 1
 total Score = 47
 frequency = 1
 order process = 26
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = tabanio
@@ -2178,7 +2159,7 @@ doc rank = 2
 total Score = 50
 frequency = 1
 order process = 35
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
 document Title = sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
 
 this.answer = kampung
@@ -2188,7 +2169,7 @@ doc rank = 3
 total Score = 49
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kampung
@@ -2198,7 +2179,7 @@ doc rank = 4
 total Score = 51
 frequency = 1
 order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -2208,7 +2189,7 @@ doc rank = 3
 total Score = 53
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -2218,7 +2199,7 @@ doc rank = 4
 total Score = 55
 frequency = 1
 order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -2228,7 +2209,7 @@ doc rank = 3
 total Score = 54
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -2238,7 +2219,7 @@ doc rank = 4
 total Score = 56
 frequency = 1
 order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -2248,7 +2229,7 @@ doc rank = 3
 total Score = 61
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 this.answer = kompleks makam pangeran
@@ -2258,7 +2239,7 @@ doc rank = 4
 total Score = 63
 frequency = 1
 order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 document Title = sejarah kerajaan banjar (kesultanan banjarmasin)
 
 

@@ -2,10 +2,10 @@ rank,document,verdict
 1,dok24.txt,AC
 2,dok95.txt,AC
 3,dok385.txt,AC
-4,dok353.txt,WA
-5,dok159.txt,WA
-6,dok20.txt,AC
-7,dok91.txt,AC
-8,dok165.txt,WA
-9,dok17.txt,WA
-10,dok88.txt,WA
+4,dok20.txt,AC
+5,dok91.txt,AC
+6,dok79.txt,WA
+7,dok8.txt,WA
+8,dok334.txt,WA
+9,dok389.txt,WA
+10,dok165.txt,WA

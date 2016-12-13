@@ -1,109 +1,109 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok369.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok164.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok287.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok299.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok205.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok225.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok192.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok210.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok127.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok56.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok168.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok260.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok128.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok57.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok104.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok33.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok256.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok366.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok379.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok251.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok125.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok54.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok108.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok37.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok117.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok46.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok197.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok79.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok8.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok288.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok110.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok39.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok268.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok325.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok244.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok264.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok164.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok287.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok369.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok349.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok168.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok227.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok234.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok1.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok272.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok317.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok370.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok72.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok206.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok359.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok382.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok117.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok178.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok46.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok175.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok186.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok177.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok256.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok366.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok135.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok64.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok195.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok241.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok246.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok58.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok209.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok114.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok215.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok259.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok264.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok344.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok352.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok43.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok108.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok37.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok224.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok143.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok158.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok286.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok367.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok57.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok110.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok207.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok245.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok335.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok39.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok104.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok125.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok171.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok181.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok257.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok302.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok33.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok337.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok346.txt
 
 
 query token : 
 pimpin rms 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 passage 9 score = 8.5
 sentence 1: pemerintah berhasil menumpas apra , tetapi pada tanggal 22 februari 1950 westerling berhasil meloloskan diri melalui malaya menuju negara belanda .
@@ -166,56 +166,7 @@ sentence 3: pemberontakan di/tii jawa tengah semula tidak terlalu berarti , teta
 sentence 4: akhirnya pemberontakan ini dapat dihancurkan dalam suatu operasi penumpasan ( operasi merdeka ) di bawah pimpinan letkol soeharto .
 sentence 5: gerakan di/tii sulawesi selatan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-title : upaya mempersiapkan kemerdekaan indonesia
-passage 4 score = 8.0
-sentence 1: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
-sentence 2: panitia sembilan ini menghasilkan dokumen yang berisi asas dan tujuan indonesia merdeka .
-sentence 3: dokumen ini lebih dikenal dengan nama piagam djakarta , yang isinya sebagai berikut : ketuhanan dengan berkewajiban menjalankan syariat-syariat islam bagi para pemeluknya .
-sentence 4: kemanusian yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan atau perwakilan keadilan sosial bagi seluruh rakyat indonesia .
-sentence 5: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
-passage 1 score = 6.5
-sentence 1: upaya mempersiapkan kemerdekaan indonesia - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada 1 maret 1945 jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) .
-sentence 2: badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka .
-sentence 3: anggota dari bupki terdiri atas 60 orang tokoh bangsa indonesia dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh krt radjiman widyodiningrat dan wakil ketua r. surono dan seorang lagi orang jepang .
-sentence 4: bpupki diresmikan pada tanggal 29 mei 1945 .
-sentence 5: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
-passage 2 score = 6.5
-sentence 1: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
-sentence 2: tokoh-tokoh yang mengusulkan dasar negara ini , yakni : mr. muh .
-sentence 3: yamin pada sidang tanggal 29 mei 1945 , mr. muh .
-sentence 4: yamin mengajukan lima rancangan dasar negara indonesia , yakni : peri kebangsaan peri kemanusiaan peri ketuhanan peri kerakyatan kesejahteraan rakyat prof. dr. supomo pada sidang tanggal 31 mei 1945 , prof. dr. supomo mengajukan lima rancangan dasar negara , yakni : persatuan kekeluargaan mufakat dan demokrasi musyawarah keadilan sosial ir .
-sentence 5: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
-passage 3 score = 6.0
-sentence 1: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
-sentence 2: namun pada tanggal 22 juni 1945 , sembilan orang anggota yaitu ir .
-sentence 3: soekarno , drs. moch .
-sentence 4: hatta , mr. muh .
-sentence 5: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
-passage 6 score = 6.0
-sentence 1: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
-sentence 2: landasan dasar internasional piagam atlantik ( 14 agustus 1941 ) yang ditanda tangani oleh franklin delano roosevelt ( presiden as ) dengan winston churchill ( pm inggris ) .
-sentence 3: yang berisi : tidak boleh ada perluasan daerah tampa persetujuan dari penduduk asli .
-sentence 4: setiap bangsa berhak menentukan dan menetapkan bentuk pemerintahannya sendiri .
-sentence 5: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
-passage 7 score = 6.0
-sentence 1: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
-sentence 2: piagam san fransisco , merupakan piagam pbb yang diresmikan dan ditandatangani oleh 50 negara sebagai negara yang pertama menjadi anggotanya .
-sentence 3: dalam piagam pbb ini disebutkan : “ … kami akan meneguhkan keyakinan akan dasar-dasar hak manusia sebagai manusia sesuai dengan harkat dan derajat manusia berdasarkan atas hak-hak yang sama … .
-sentence 4: serta berusaha memajukan rakyat dan tingkat kehidupan yang lebih baik dalam suasana kemerdekaan yang lebih luas ” .
-sentence 5: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
-passage 8 score = 6.0
-sentence 1: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
-sentence 2: maka berdasarkan piagam tersebut pula , proklamasi kemerdekaan indonesia memiliki kedudukan yang kuat , baik secara nasional maupun internasional .
-sentence 3: [ gs ]
-passage 5 score = 1.0
-sentence 1: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
-sentence 2: adapun pokok-pokok isi pembukaan uud 1945 : bahwa kemerdekaan itu adalah hak segala bangsa … .
-sentence 3: dan perjuangan kemerdekaan indonesia telah sampailah kepada saat yang berbahagia … .
-sentence 4: atas berkat rahmat allah yang maha kuasa … kemudian daripada itu untuk membentuk suatu pemerintahan negara indonesia … .
-sentence 5: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 title : ancaman disintegrasi bangsa
 passage 8 score = 8.5
 sentence 1: pemerintah mengeluarkan ultimatum agar dalam tempo 4 x 24 jam ia harus mempertanggung jawabkan perbuatannya .
@@ -278,70 +229,7 @@ sentence 3: merebut studio rri dan kantor besar telkom dipimpin kolonel sarwo ed
 sentence 4: gerakan pembersihan terhadap tokoh-tokoh yang terlibat langsung maupun yang mendalanginya .
 sentence 5: akhirnya pki dinyatakan sebagai partai terlarang dan tidak boleh lagi tersebar di seluruh wilayah indonesia berdasarkan sk presiden yang ditanda tangani pengemban supersemar ltjen soeharto yang menetapkan pembubaran pki dan ormas-ormasnya tanggal 12 maret 1966 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-title : perkembangan politik dan ekonomi indonesia dalam upaya mengisi kemerdekaan
-passage 1 score = 8.0
-sentence 1: demokrasi liberal ( 1950-1959 ) setelah adanya pengakuan kedaulatan oleh pemerintah belanda melalui konferensi meja bundar tahun ( kmb ) 1949 , indonesia memasuki suatu periode baru , yang lebih dikenal dengan masa demokrasi liberal .
-sentence 2: pada masa ini , iklim politik dan kondisi perekonomian di indonesia tidak berjalan stabil .
-sentence 3: seringnya pergantian kabinet akibat kebebasan berdemokrasi berpengaruh pada banyak sektor hingga menyebabkan ancaman disintegrasi bangsa dan semakin merosotnya kondisi perekonomian indonesia menjadi bagian yang tak terpisahkan selama periode ini .
-sentence 4: 1 .
-sentence 5: kabinet masa demokrasi liberal • kabinet natsir ( 6 september 1950 – 21 maret 1951 ) merupakan kabinet koalisi yang dipimpin oleh partai masyumi .
-passage 2 score = 8.0
-sentence 1: kabinet masa demokrasi liberal • kabinet natsir ( 6 september 1950 – 21 maret 1951 ) merupakan kabinet koalisi yang dipimpin oleh partai masyumi .
-sentence 2: * dipimpin oleh : muhammad natsir * program : 1 .
-sentence 3: menggiatkan usaha keamanan dan ketentraman .
-sentence 4: 2 .
-sentence 5: mencapai konsolidasi dan menyempurnakan susunan pemerintahan .
-passage 5 score = 8.0
-sentence 1: * kendala/masalah yang dihadapi : - upaya memperjuangkan masalah irian barat dengan belanda mengalami jalan buntu ( kegagalan ) .
-sentence 2: - timbul masalah keamanan dalam negeri yaitu terjadi pemberontakan hampir di seluruh wilayah indonesia , seperti gerakan di/tii , gerakan andi azis , gerakan apra , gerakan rms .
-sentence 3: * berakhirnya kekuasaan kabinet : adanya mosi tidak percaya dari pni menyangkut pencabutan peraturan pemerintah mengenai dprd dan dprds .
-sentence 4: pni menganggap peraturan pemerintah no. 39 th 1950 mengenai dprd terlalu menguntungkan masyumi .
-sentence 5: mosi tersebut disetujui parlemen sehingga natsir harus mengembalikan mandatnya kepada presiden .
-passage 6 score = 8.0
-sentence 1: mosi tersebut disetujui parlemen sehingga natsir harus mengembalikan mandatnya kepada presiden .
-sentence 2: • kabinet sukiman ( 27 april 1951 – 3 april 1952 ) merupakan kabinet koalisi antara masyumi dan pni .
-sentence 3: * dipimpin oleh : sukiman wiryosanjoyo * program : 1 .
-sentence 4: menjamin keamanan dan ketentraman 1 .
-sentence 5: mengusahakan kemakmuran rakyat dan memperbaharui hukum agraria agar sesuai dengan kepentingan petani .
-passage 10 score = 8.0
-sentence 1: * berakhirnya kekuasaan kabinet : muncul pertentangan dari masyumi dan pni atas tindakan sukiman sehingga mereka menarik dukungannya pada kabinet tersebut .
-sentence 2: dpr akhirnya menggugat sukiman dan terpaksa sukiman harus mengembalikan mandatnya kepada presiden .
-sentence 3: • kabinet wilopo ( 3 april 1952 – 3 juni 1953 ) kabinet ini merupakan zaken kabinet yaitu kabinet yang terdiri dari para pakar yang ahli dalam biangnya .
-sentence 4: * dipimpin oleh : mr. wilopo * program : 1 .
-sentence 5: program dalam negeri : menyelenggarakan pemilihan umum ( konstituante , dpr , dan dprd ) , meningkatkan kemakmuran rakyat , meningkatkan pendidikan rakyat , dan pemulihan keamanan .
-passage 13 score = 8.0
-sentence 1: merupakan upaya pemerintah untuk menempatkan tni sebagai alat sipil sehingga muncul sikap tidak senang dikalangan partai politik sebab dipandang akan membahayakan kedudukannya .
-sentence 2: peristiwa ini diperkuat dengan munculnya masalah intern dalam tni sendiri yang berhubungan dengan kebijakan ksad a.h nasution yang ditentang oleh kolonel bambang supeno sehingga ia mengirim petisi mengenai penggantian ksad kepada menteri pertahanan yang dikirim ke seksi pertahanan parlemen sehingga menimbulkan perdebatan dalam parlemen .
-sentence 3: konflik semakin diperparah dengan adanya surat yang menjelekkan kebijakan kolonel gatot subroto dalam memulihkan keamanana di sulawesi selatan .
-sentence 4: keadaan ini menyebabkan muncul demonstrasi di berbagai daerah menuntut dibubarkannya parlemen .
-sentence 5: sementara itu tni-ad yang dipimpin nasution menghadap presiden dan menyarankan agar parlemen dibubarkan .
-passage 14 score = 8.0
-sentence 1: sementara itu tni-ad yang dipimpin nasution menghadap presiden dan menyarankan agar parlemen dibubarkan .
-sentence 2: tetapi saran tersebut ditolak .
-sentence 3: muncullah mosi tidak percaya dan menuntut diadakan reformasi dan reorganisasi angkatan perang dan mengecam kebijakan ksad .
-sentence 4: inti peristiwa ini adalah gerakan sejumlah perwira angkatan darat guna menekan sukarno agar membubarkan kabinet .
-sentence 5: munculnya peristiwa tanjung morawa mengenai persoalan tanah perkebunan di sumatera timur ( deli ) .
-passage 17 score = 8.0
-sentence 1: sehingga wilopo harus mengembalikan mandatnya pada presiden .
-sentence 2: • kabinet ali sastroamijoyo i ( 31 juli 1953 – 12 agustus 1955 ) kabinet ini merupakan koalisi antara pni dan nu .
-sentence 3: * dipimpin oleh : mr. ali sastroamijoyo * program : 1 .
-sentence 4: meningkatkan keamanan dan kemakmuran serta segera menyelenggarakan pemilu .
-sentence 5: 2 .
-passage 20 score = 8.0
-sentence 1: b. terjadi peristiwa 27 juni 1955 suatu peristiwa yang menunjukkan adanya kemelut dalam tubuh tni-ad .
-sentence 2: masalah tni – ad yang merupakan kelanjutan dari peristiwa 17 oktober 1952 .
-sentence 3: bambang sugeng sebagai kepala staf ad mengajukan permohonan berhenti dan disetujui oleh kabinet .
-sentence 4: sebagai gantinya mentri pertahanan menunjuk kolonel bambang utoyo tetapi panglima ad menolak pemimpin baru tersebut karena proses pengangkatannya dianggap tidak menghiraukan norma-norma yang berlaku di lingkungan tni-ad .
-sentence 5: bahkan ketika terjadi upacara pelantikan pada 27 juni 1955 tidak seorangpun panglima tinggi yang hadir meskipun mereka berada di jakarta .
-passage 22 score = 8.0
-sentence 1: e. munculnya konflik antara pni dan nu yang menyebabkkan , nu memutuskan untuk menarik kembali menteri-mentrinya pada tanggal 20 juli 1955 yang diikuti oleh partai lainnya .
-sentence 2: * berakhirnya kekuasaan kabinet : nu menarik dukungan dan menterinya dari kabinet sehingga keretakan dalam kabinetnya inilah yang memaksa ali harus mengembalikan mandatnya pada presiden .
-sentence 3: e. kabinet burhanuddin harahap ( 12 agustus 1955 – 3 maret 1956 ) * dipimpin oleh : burhanuddin harahap * program : 1 .
-sentence 4: mengembalikan kewibawaan pemerintah , yaitu mengembalikan kepercayaan angkatan darat dan masyarakat kepada pemerintah .
-sentence 5: 2 .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
 title : perjuangan mempertahankan kemerdekaan dan ancaman disintegrasi
 passage 20 score = 8.5
 sentence 1: ia dan pasukannya menyerang lapangan terbang , kantor telkom , dan pos-pos militer tni .
@@ -404,227 +292,196 @@ sentence 3: tujuannya agar pemerintah ris dan negara pasundan mengakui apra seba
 sentence 4: andi azis beliau merupakan komandan kompi apris yang menolak kedatangan tni ke sulawesi selatan karena suasananya tidak aman dan terjadi demonstrasi pro dan kontra terhadap negara federasi .
 sentence 5: ia dan pasukannya menyerang lapangan terbang , kantor telkom , dan pos-pos militer tni .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-title : pengertian orde baru dan lahirnya surat perintah 11 maret 1966
-passage 2 score = 7.0
-sentence 1: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
-sentence 2: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
-sentence 3: pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
-sentence 4: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
-sentence 5: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
-passage 3 score = 7.0
-sentence 1: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
-sentence 2: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
-sentence 3: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
-sentence 4: tiga orang perwira tinggi yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud menghadap letnan jenderal soeharto selaku menteri panglima angkatan darat dan panglima komando operasi pemulihan keamanan dan ketertiban ( pangkopkamtib ) untuk minta izin akan menghadap presiden .
-sentence 5: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
-passage 4 score = 5.5
-sentence 1: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
-sentence 2: di istana bogor presiden soekarno didampingi dr subandrio , dr j. laimena , dan chaerul saleh serta ketiga perwira tinggi tersebut melaporkan situasi di ibukota jakarta .
-sentence 3: mereka juga memohon agar presiden soekarno mengambil tindakan untuk mengatasi keadaan .
-sentence 4: kemudian presiden mengeluarkan surat perintah yang ditujukan kepada letnan jenderal soeharto selaku menteri panglima angkatan darat untuk mengambil tindakan menjamin keamanan , ketenangan , dan kestabilan jalannya pemerintahan demi keutuhan bangsa dan negara republik indonesia .
-sentence 5: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
-passage 5 score = 5.0
-sentence 1: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
-sentence 2: surat itulah yang kemudian dikenal sebagai surat perintah 11 maret 1966 atau supersemar .
-sentence 3: [ ps ]
-passage 1 score = 0.0
-sentence 1: pengertian orde baru dan lahirnya surat perintah 11 maret 1966 – pada kesempatan ini admin pengertian sejarah akan berbagi informasi mengenai pengertian orde baru dan lahirnya surat perintah 11 maret 1966 .
-sentence 2: berikut penjelasan lengkap tentang pengertian orde baru dan lahirnya surat perintah 11 maret 1966 .
-sentence 3: orde baru adalah suatu tatanan seluruh perikehidupan rakyat , bangsa dan negara yang diletakkan kembali kepada pelaksanaan pancasila dan uud 1945 secara murni dan konsekuen .
-sentence 4: dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap dan tekad untuk mengabdi pada kepentingan rakyat dan nasional dengan dilandasi oleh semangat dan jiwa pancasila serta uud 1945 .
-sentence 5: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+title : perkembangan politik dan ekonomi indonesia dalam upaya mengisi kemerdekaan
+passage 1 score = 8.0
+sentence 1: demokrasi liberal ( 1950-1959 ) setelah adanya pengakuan kedaulatan oleh pemerintah belanda melalui konferensi meja bundar tahun ( kmb ) 1949 , indonesia memasuki suatu periode baru , yang lebih dikenal dengan masa demokrasi liberal .
+sentence 2: pada masa ini , iklim politik dan kondisi perekonomian di indonesia tidak berjalan stabil .
+sentence 3: seringnya pergantian kabinet akibat kebebasan berdemokrasi berpengaruh pada banyak sektor hingga menyebabkan ancaman disintegrasi bangsa dan semakin merosotnya kondisi perekonomian indonesia menjadi bagian yang tak terpisahkan selama periode ini .
+sentence 4: 1 .
+sentence 5: kabinet masa demokrasi liberal • kabinet natsir ( 6 september 1950 – 21 maret 1951 ) merupakan kabinet koalisi yang dipimpin oleh partai masyumi .
+passage 2 score = 8.0
+sentence 1: kabinet masa demokrasi liberal • kabinet natsir ( 6 september 1950 – 21 maret 1951 ) merupakan kabinet koalisi yang dipimpin oleh partai masyumi .
+sentence 2: * dipimpin oleh : muhammad natsir * program : 1 .
+sentence 3: menggiatkan usaha keamanan dan ketentraman .
+sentence 4: 2 .
+sentence 5: mencapai konsolidasi dan menyempurnakan susunan pemerintahan .
+passage 5 score = 8.0
+sentence 1: * kendala/masalah yang dihadapi : - upaya memperjuangkan masalah irian barat dengan belanda mengalami jalan buntu ( kegagalan ) .
+sentence 2: - timbul masalah keamanan dalam negeri yaitu terjadi pemberontakan hampir di seluruh wilayah indonesia , seperti gerakan di/tii , gerakan andi azis , gerakan apra , gerakan rms .
+sentence 3: * berakhirnya kekuasaan kabinet : adanya mosi tidak percaya dari pni menyangkut pencabutan peraturan pemerintah mengenai dprd dan dprds .
+sentence 4: pni menganggap peraturan pemerintah no. 39 th 1950 mengenai dprd terlalu menguntungkan masyumi .
+sentence 5: mosi tersebut disetujui parlemen sehingga natsir harus mengembalikan mandatnya kepada presiden .
+passage 6 score = 8.0
+sentence 1: mosi tersebut disetujui parlemen sehingga natsir harus mengembalikan mandatnya kepada presiden .
+sentence 2: • kabinet sukiman ( 27 april 1951 – 3 april 1952 ) merupakan kabinet koalisi antara masyumi dan pni .
+sentence 3: * dipimpin oleh : sukiman wiryosanjoyo * program : 1 .
+sentence 4: menjamin keamanan dan ketentraman 1 .
+sentence 5: mengusahakan kemakmuran rakyat dan memperbaharui hukum agraria agar sesuai dengan kepentingan petani .
+passage 10 score = 8.0
+sentence 1: * berakhirnya kekuasaan kabinet : muncul pertentangan dari masyumi dan pni atas tindakan sukiman sehingga mereka menarik dukungannya pada kabinet tersebut .
+sentence 2: dpr akhirnya menggugat sukiman dan terpaksa sukiman harus mengembalikan mandatnya kepada presiden .
+sentence 3: • kabinet wilopo ( 3 april 1952 – 3 juni 1953 ) kabinet ini merupakan zaken kabinet yaitu kabinet yang terdiri dari para pakar yang ahli dalam biangnya .
+sentence 4: * dipimpin oleh : mr. wilopo * program : 1 .
+sentence 5: program dalam negeri : menyelenggarakan pemilihan umum ( konstituante , dpr , dan dprd ) , meningkatkan kemakmuran rakyat , meningkatkan pendidikan rakyat , dan pemulihan keamanan .
+passage 13 score = 8.0
+sentence 1: merupakan upaya pemerintah untuk menempatkan tni sebagai alat sipil sehingga muncul sikap tidak senang dikalangan partai politik sebab dipandang akan membahayakan kedudukannya .
+sentence 2: peristiwa ini diperkuat dengan munculnya masalah intern dalam tni sendiri yang berhubungan dengan kebijakan ksad a.h nasution yang ditentang oleh kolonel bambang supeno sehingga ia mengirim petisi mengenai penggantian ksad kepada menteri pertahanan yang dikirim ke seksi pertahanan parlemen sehingga menimbulkan perdebatan dalam parlemen .
+sentence 3: konflik semakin diperparah dengan adanya surat yang menjelekkan kebijakan kolonel gatot subroto dalam memulihkan keamanana di sulawesi selatan .
+sentence 4: keadaan ini menyebabkan muncul demonstrasi di berbagai daerah menuntut dibubarkannya parlemen .
+sentence 5: sementara itu tni-ad yang dipimpin nasution menghadap presiden dan menyarankan agar parlemen dibubarkan .
+passage 14 score = 8.0
+sentence 1: sementara itu tni-ad yang dipimpin nasution menghadap presiden dan menyarankan agar parlemen dibubarkan .
+sentence 2: tetapi saran tersebut ditolak .
+sentence 3: muncullah mosi tidak percaya dan menuntut diadakan reformasi dan reorganisasi angkatan perang dan mengecam kebijakan ksad .
+sentence 4: inti peristiwa ini adalah gerakan sejumlah perwira angkatan darat guna menekan sukarno agar membubarkan kabinet .
+sentence 5: munculnya peristiwa tanjung morawa mengenai persoalan tanah perkebunan di sumatera timur ( deli ) .
+passage 17 score = 8.0
+sentence 1: sehingga wilopo harus mengembalikan mandatnya pada presiden .
+sentence 2: • kabinet ali sastroamijoyo i ( 31 juli 1953 – 12 agustus 1955 ) kabinet ini merupakan koalisi antara pni dan nu .
+sentence 3: * dipimpin oleh : mr. ali sastroamijoyo * program : 1 .
+sentence 4: meningkatkan keamanan dan kemakmuran serta segera menyelenggarakan pemilu .
+sentence 5: 2 .
+passage 20 score = 8.0
+sentence 1: b. terjadi peristiwa 27 juni 1955 suatu peristiwa yang menunjukkan adanya kemelut dalam tubuh tni-ad .
+sentence 2: masalah tni – ad yang merupakan kelanjutan dari peristiwa 17 oktober 1952 .
+sentence 3: bambang sugeng sebagai kepala staf ad mengajukan permohonan berhenti dan disetujui oleh kabinet .
+sentence 4: sebagai gantinya mentri pertahanan menunjuk kolonel bambang utoyo tetapi panglima ad menolak pemimpin baru tersebut karena proses pengangkatannya dianggap tidak menghiraukan norma-norma yang berlaku di lingkungan tni-ad .
+sentence 5: bahkan ketika terjadi upacara pelantikan pada 27 juni 1955 tidak seorangpun panglima tinggi yang hadir meskipun mereka berada di jakarta .
+passage 22 score = 8.0
+sentence 1: e. munculnya konflik antara pni dan nu yang menyebabkkan , nu memutuskan untuk menarik kembali menteri-mentrinya pada tanggal 20 juli 1955 yang diikuti oleh partai lainnya .
+sentence 2: * berakhirnya kekuasaan kabinet : nu menarik dukungan dan menterinya dari kabinet sehingga keretakan dalam kabinetnya inilah yang memaksa ali harus mengembalikan mandatnya pada presiden .
+sentence 3: e. kabinet burhanuddin harahap ( 12 agustus 1955 – 3 maret 1956 ) * dipimpin oleh : burhanuddin harahap * program : 1 .
+sentence 4: mengembalikan kewibawaan pemerintah , yaitu mengembalikan kepercayaan angkatan darat dan masyarakat kepada pemerintah .
+sentence 5: 2 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-title : sejarah teknologi perkembangan senjata
-passage 14 score = 7.5
-sentence 1: pertemuan itu menyepakati bahwa mereka tidak akan menjual senjata nuklir atau memberikan informasi kepada negara-negara nonnuklir .
-sentence 2: perjanjian pembatasan persenjataan strategis ( strategic arms limitation talks/salt i ) perjanjian salt i ditandatangani oleh richard nixon , presiden amerika serikat dan leonid breshnev , sekjen partai komunis uni soviet pada tanggal 26 mei 1972 .
-sentence 3: pertemuan kedua pemimpin negara adidaya itu menyepakati untuk : 1 ) pembatasan terhadap sistem pertahanan antipeluru kendali ( anti-balistic missile = abm ) ; 2 ) pembatasan senjata-senjata ofensif strategis , seperti inter-continental ballistic missile ( icbm = peluru kendali balistik antarbenua ) dan sea-launched ballistic missile ( slbm = peluru kendali balistik yang diluncurkan dari laut / kapal ) .
-sentence 4: perjanjian pengurangan persenjataan strategis ( strategic arms reduction treaty/start ) perjanjian pengurangan persenjataan strategis dilakukan oleh amerika serikat dan uni soviet pada tahun 1982 .
-sentence 5: perjanjian itu menyepakati bahwa kedua negara adidaya akan memusnahkan persenjataan nuklir yang dapat mencapai sasaran jarak menengah .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok164.txt
+title : kondisi sosial dan ekonomi masyarakat di berbagai daerah sejak reformasi
 passage 1 score = 6.5
-sentence 1: sejarah teknologi perkembangan senjata berakhirnya perang dunia ii menyebabkan kekuatan dunia terbagi atas dua blok , yaitu blok barat pimpinan amerika serikat dan blok timur pimpinan uni soviet .
-sentence 2: blok barat dan blok timur tersebut saling bersaing berebut pengaruh dalam berbagai bidang kehidupan manusia .
-sentence 3: persaingan yang paling mencolok dalam masa perang dingin adalah dalam bidang mi-liter , khususnya dalam hal persenjataan .
-sentence 4: kedua negara adidaya itu saling berlomba mencipta-kan berbagai senjata yang mutakhir dan me-matikan , misalnya bom .
-sentence 5: bom adalah senjata ledak yang lazim digunakan dalam perang .
-passage 12 score = 6.0
-sentence 1: namun , mereka sadar bahwa peperangan yang menggunakan senjata mutakhir akan menghancurkan dan akan melenyapkan peradaban manusia .
-sentence 2: perang dingin dan hubungan yang tegang secara terus-menerus menyadarkan kedua negara adidaya untuk melakukan detente atau penghentian ketegangan antarnegara .
-sentence 3: untuk detente dilakukan pembicaraan-pembicaraan dalam rangka mengurangi ketegangan antardua negara adidaya tersebut perundingan untuk meredakan perang dingin dilakukan oleh amerika serikat dan uni soviet melalui strategic arms limitation talks ( salt ) atau perundingan pembatasan persenjataan strategis dan strategic arms reduction treaty ( start ) atau perundingan pengurangan persenjataan strategis .
-sentence 4: perun-dingan salt dapat berlangsung dengan baik karena amerika serikat dan uni soviet sama-sama mempunyai iktikad untuk menghindari perang nuklir yang membahayakan keselamatan umat manusia .
-sentence 5: perundingan salt secara umum mempunyai tujuan sebagai antara lain : memperkecil kemungkinan terjadinya perang nuklir ; apabila perang tidak dapat dihindarkan , diharapkan akibatnya tidak terlalu menghancurkan ; menghemat biaya pertahanan ; mencegah terjadinya perlombaan senjata strategis .
-passage 4 score = 5.0
-sentence 1: bom dalam bentuk apa pun apabila me-ledak akan menimbulkan kerugian pada manusia dan alam sekitarnya .
-sentence 2: tenaga atom yang ditimbulkan akan menimbulkan radiasi yang apabila diterima dalam jumlah besar akan sangat fatal akibatnya .
-sentence 3: debu radioaktif dan endapan dari awan yang tertiup angin dan bertebaran di daratan dapat mengakibatkan keru-sakan pada tanaman serta membinasakan hewan dan manusia .
-sentence 4: pada jangka panjang ledakan bom atom akan mengakibatkan kematian serta kanker pada manusia , sedangkan kerusakan genetis akan terlihat pada generasi-generasi berikutnya .
-sentence 5: keberhasilan amerika serikat dalam menciptakan bom atom , ternyata dalam waktu yang tidak terlalu lama dapat diikuti oleh pesaingnya uni soviet .
-passage 6 score = 5.0
-sentence 1: bom hidrogen mendapatkan tenaga dari penggabungan inti-inti atom hidrogen berat dan deuteron .
-sentence 2: ledakan yang ditimbulkan oleh bom hidrogen jauh lebih dahsyat dibandingkan bom atom .
-sentence 3: ledakan dari bom hidrogen menghasilkan bola api dengan garis tengah beberapa kilometer disertai munculnya awan cendawan yang tinggi sekali .
-sentence 4: pada ledakan bom hidrogen akan diperoleh energi yang sangat besar , tetapi radioaktifnya kecil dibandingkan ledakan bom atom .
-sentence 5: oleh karena itu , bom hidrogen proses fusinya dapat dimanfaatkan untuk maksud pertahanan dan tujuan damai .
-passage 10 score = 5.0
-sentence 1: demikian pula sebaliknya , uni soviet pun dapat menyerang langsung amerika serikat .
-sentence 2: negara-negara sekutu amerika serikat dan satelit uni soviet tidak lepas dari pengerahan teknologi persenjataan itu .
-sentence 3: negara-negara mereka dibangun basis militer dan pangkalan peluncuran rudal hanya untuk ambisi dua adidaya dunia .
-sentence 4: namun , apabila perang terbuka itu benar-benar terjadi karena terkena akibatnya .
-sentence 5: bahkan , dapat menjadi sasaran langsung penghancuran padahal mereka tidak tahu-menahu permasalahan .
-passage 11 score = 5.0
-sentence 1: bahkan , dapat menjadi sasaran langsung penghancuran padahal mereka tidak tahu-menahu permasalahan .
-sentence 2: oleh karena itu , kerja sama dalam bidang pertahanan dan keamanan merupakan kerja sama yang paling mencolok dalam suasana perang dingin .
-sentence 3: banyak organisasi pertahanan yang dibentuk selama terjadi perang dingin , seperti seato , anzus , nato , dan pakta warsawa .
-sentence 4: setiap persekutuan pertahanan , terutama kelompok amerika serikat dan uni soviet , saling memperkuat pertahanan mereka .
-sentence 5: namun , mereka sadar bahwa peperangan yang menggunakan senjata mutakhir akan menghancurkan dan akan melenyapkan peradaban manusia .
-passage 13 score = 5.0
-sentence 1: perundingan salt secara umum mempunyai tujuan sebagai antara lain : memperkecil kemungkinan terjadinya perang nuklir ; apabila perang tidak dapat dihindarkan , diharapkan akibatnya tidak terlalu menghancurkan ; menghemat biaya pertahanan ; mencegah terjadinya perlombaan senjata strategis .
-sentence 2: upaya meredakan perang dingin dengan mengurangi , membatasi , dan memusnahkan persenjataan nuklir dilakukan pada kurun waktu 1968 – 1982 .
-sentence 3: bentuk persetujuan yang dicapai , antara lain sebagai berikut .
-sentence 4: perjanjian nonproliferasi nuklir ( nonproliferation treaty ) perjanjian nonproliferasi nuklir dilaksanakan pada tahun 1968 yang diikuti oleh negara inggris , amerika serikat , dan uni soviet .
-sentence 5: pertemuan itu menyepakati bahwa mereka tidak akan menjual senjata nuklir atau memberikan informasi kepada negara-negara nonnuklir .
-passage 15 score = 5.0
-sentence 1: perjanjian itu menyepakati bahwa kedua negara adidaya akan memusnahkan persenjataan nuklir yang dapat mencapai sasaran jarak menengah .
-sentence 2: upaya menghindari bahaya perang nuklir juga diadakan oleh negara-negara lain yang tidak memiliki persenjataan nuklir .
-sentence 3: negara-negara itu khawatir kawasan atau wilayahnya akan menjadi sasaran ataupun salah sasaran akibat perang nuklir itu .
-sentence 4: salah satu contoh usaha untuk mengamankan wilayahnya agar terbebas dari perang nuklir dilakukan oleh negara-negara anggota asean .
-sentence 5: para anggota asean berharap agar wilayah asia tenggara benar-benar tidak dipakai sebagaiajang percobaan dan perang nuklir .
-passage 2 score = 0.0
-sentence 1: bom adalah senjata ledak yang lazim digunakan dalam perang .
-sentence 2: terorisme juga melibatkan penggunaan bom .
-sentence 3: bom umumnya terdiri atas wadah logam yang diisi dengan bahan peledak atau bahan kimia .
-sentence 4: bom melukai dan menewaskan orang serta merusakkan gedung dan bangunan lain , kapal , pesawat terbang , ataupun sasaran lain .
-sentence 5: salah satu senjata yang paling menakutkan dan da-pat membantu mengakhiri perang dunia ii adalah bom atom .
+sentence 1: kondisi sosial dan ekonomi masyarakat di berbagai daerah sejak reformasi - tuntutan reformasi menghendaki adanya perubahan dan perbaikan di segala aspek kehidupan yang lebih baik .
+sentence 2: namun , pada praktiknya tuntutan reformasi telah disalahgunakan oleh para petualang politik hanya untuk kepentingan pribadi dan kelompoknya .
+sentence 3: pada era reformasi , konflik yang terjadi di masyarakat makin mudah terjadi dan sering kali bersifat etnis di berbagai daerah .
+sentence 4: kondisi sosial masyarakat yang kacau akibat lemahnya hukum dan perekonomian yang tidak segera kunjung membaik menyebabkan sering terjadi gesekan-gesekan dalam masyarakat .
+sentence 5: beberapa konflik sosial yang terjadi pada era reformasi berlangsung di beberapa wilayah , antara lain sebagai berikut .
+passage 3 score = 6.5
+sentence 1: kebetulan pencuri tersebut beretnis madura , sedangkan penduduk parisetia beretnis dayak dan melayu .
+sentence 2: entah isu apa yang beredar di masyarakat menyebabkan penduduk desa sarimakmur yang kebanyakan dihuni etnis madura melakukan aksi balas dendam dengan menyerang dan merusak segala sesuatu di desa parisetia .
+sentence 3: akibatnya , terjadi aksi saling balas dendam antaretnis tersebut dan menjalar ke berbagai daerah di kalimantan barat .
+sentence 4: pemerintah berusaha mendamaikan konflik tersebut dengan mengajak tokoh masyarakat dari masing-masing etnis yang ada untuk membentuk forum komunikasi masyarakat kalimantan barat .
+sentence 5: dengan wadah tersebut segala permasalahan dicoba diselesaikan secara damai .
+passage 11 score = 6.5
+sentence 1: sampai sekarang konflik maluku itu belum dapat diatasi dengan tuntas .
+sentence 2: dari beberapa kejadian itu terlihat betapa di era reformasi terjadi pergeseran pelaku kekerasan .
+sentence 3: di era orde baru , kekerasan lebih banyak dilakukan oleh oknum abri daripada warga sipil .
+sentence 4: namun , pada era reformasi kekerasan justru diperlihatkan oleh sesama warga sipil .
+sentence 5: masyarakat makin beringas dan hukum seperti tidak ada .
+passage 12 score = 6.5
+sentence 1: masyarakat makin beringas dan hukum seperti tidak ada .
+sentence 2: banyak kejadian kriminal yang pelakunya tertangkap basah langsung dihakimi bahkan sampai meninggal oleh masyarakat .
+sentence 3: kinerja para penegak hukum sepertinya sudah tidak dapat dipercaya lagi .
+sentence 4: masyarakat sudah muak melihat berbagai kasus besar yang melibatkan pejabat negara dan oknum militer tidak tertangani sampai tuntas meskipun mereka dinyatakan bersalah .
+sentence 5: sedangkan mengenai masalah ekonomi , selama masa tiga bulan kekuasaan pemerintah b.j. habibie , ekonomi indonesia belum mengalami perubahan yang berarti .
+passage 14 score = 6.5
+sentence 1: misalnya , pada bulan mei 1998 , harga satu kilogram beras rata-rata rp1 .000,00 , namun harga tersebut sempat naik menjadi di atas rp3 .000,00 per kilogram pada bulan agustus 1998 .
+sentence 2: antrian panjang masyarakat membeli beras dan minyak goreng mulai terlihat di berbagai tempat .
+sentence 3: oleh karena keadaan ekonomi yang parah menyebabkan rakyat indonesia melakukan segala tindakan untuk sekadar dapat mencukupi kebutuhan .
+sentence 4: penjarahan adalah pemandangan biasa yang dijumpai pada awal-awal pemerintahan presiden b.j. habibie .
+sentence 5: penjarahan mereka lakukan terhadap tempattempat yang dapat membantu kelangsungan hidup .
+passage 2 score = 6.0
+sentence 1: beberapa konflik sosial yang terjadi pada era reformasi berlangsung di beberapa wilayah , antara lain sebagai berikut .
+sentence 2: 1 .
+sentence 3: kalimantan barat konflik sosial yang terjadi di kalimantan barat melibatkan etnik melayu , dayak , dan madura .
+sentence 4: kejadian bermula dari tertangkapnya seorang pencuri di desa parisetia , kecamatan jawai , sambas , kalimantan barat yang kemudian dihakimi hingga tewas pada tanggal 19 januari 1999 .
+sentence 5: kebetulan pencuri tersebut beretnis madura , sedangkan penduduk parisetia beretnis dayak dan melayu .
+passage 6 score = 6.0
+sentence 1: sampai sekarang pun pengungsi sampit masih menjadi masalah pemerintah .
+sentence 2: 3 .
+sentence 3: sulawesi tengah konflik sosial di sulawesi tengah tepatnya di daerah poso berkembang menjadi konflik antaragama .
+sentence 4: kejadian bermula dipicu oleh perkelahian antara roy luntu bisalembah ( kristen ) yang kebetulan sedang mabuk dengan ahmad ridwan ( islam ) di dekat masjid darussalam pada tanggal 26 desember 1998 .
+sentence 5: entah isu apa yang berkembang di masyarakat perkelahian dua orang berbeda agama itu berkembang menjadi ketegangan antaragama di poso , sulawesi tengah .
+passage 7 score = 6.0
+sentence 1: entah isu apa yang berkembang di masyarakat perkelahian dua orang berbeda agama itu berkembang menjadi ketegangan antaragama di poso , sulawesi tengah .
+sentence 2: konflik tersebut juga menyebabkan ratusan rumah dan tempat ibadah hancur .
+sentence 3: puluhan , bahkan ratusan nyawa melayang akibat konflik tersebut .
+sentence 4: konflik sempat mereda , tetapi masuknya beberapa orang asing ke daerah konflik tersebut menyebabkan ketegangan dan kerusuhan terjadi lagi .
+sentence 5: beberapa dialog digelar untuk meredakan konflik tersebut , seperti pertemuan malino yang dilakukan pada tanggal 19 – 20 desember 2001 .
+passage 8 score = 6.0
+sentence 1: beberapa dialog digelar untuk meredakan konflik tersebut , seperti pertemuan malino yang dilakukan pada tanggal 19 – 20 desember 2001 .
+sentence 2: 4 .
+sentence 3: maluku konflik sosial yang dipicu oleh konflik agama juga terjadi di maluku .
+sentence 4: kejadian diawali dengan bentrokan antara warga batumerah , ambon , dan sopir angkutan kota pada tanggal 19 januari 1999 .
+sentence 5: namun , seperti konflik yang terjadi di wilayah indonesia lainnya , tanpa tahu isu apa yang beredar di masyarakat , terjadi ketegangan antarwarga .
+passage 9 score = 6.0
+sentence 1: namun , seperti konflik yang terjadi di wilayah indonesia lainnya , tanpa tahu isu apa yang beredar di masyarakat , terjadi ketegangan antarwarga .
+sentence 2: puncaknya terjadi kerusuhan massa dengan disertai pembakaran masjid al-falah .
+sentence 3: warga islam yang tidak terima segera membalas dengan pembakaran dan perusakan gereja .
+sentence 4: konflik meluas menjadi antaragama .
+sentence 5: namun , anehnya konflik yang semula antaragama berkembang menjadi gerakan separatis .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-passage 6 score = 7.0
-sentence 1: bentrokan dengan jepang terjadi di berbagai daerah .
-sentence 2: demikian juga dengan sekutu yang ternyata diboncengi oleh nica .
-sentence 3: perang kemerdekaan pun terjadi di mana-mana bahkan hampir di seluruh wilayah indonesia .
-sentence 4: usaha-usaha belanda untuk menghancurkan ri pada pertengahan september 1945 rombongan pertama pasukan sekutu mulai mendarat .
-sentence 5: mereka merupakan bagian dari south east asia command ( seac ) di bawah pimpinan laksamana mountbatten .
-passage 7 score = 7.0
-sentence 1: mereka merupakan bagian dari south east asia command ( seac ) di bawah pimpinan laksamana mountbatten .
-sentence 2: untuk indonesia seac membentuk allieu force netherlands east indies ( afnei ) yang terdiri atas pasukan inggris yang mendarat di jawa dan sumatera serta pasukan australia yang mendarat di luar jawa dan sumatra .
-sentence 3: pasukan ini bertugas melucuti dan memulangkan tentara jepang serta membebaskan tawanan perang .
-sentence 4: pemerintah ri menerima kedatangan pasukan tersebut dengan tujuan untuk mendapatkan pengakuan pihak sekutu terhadap ri .
-sentence 5: pada tanggal 1 oktober 1945 letnan jenderal christison , menyatakan bahwa pihaknya mengakui ( de fakto ) pemerintahan republik indonesia .
-passage 8 score = 7.0
-sentence 1: pada tanggal 1 oktober 1945 letnan jenderal christison , menyatakan bahwa pihaknya mengakui ( de fakto ) pemerintahan republik indonesia .
-sentence 2: semenjak itu pasukan-pasukan inggris mulai memasuki kota-kota penting di jawa dan sumatera.namun kemudian timbul ketegangan-ketegangan baru antara pasukan inggris dan pasukan ri yang kemudian berkembang menjadi pertempuran-pertempuran .
-sentence 3: apalagi setelah diketahui bahwa kedatangan tentara inggris itu diboncengi oleh nica .
-sentence 4: sehingga pasukan-pasukan ri tidak hanya menghadapi jepang tetapi juga inggris dan nica ( belanda ) .
-sentence 5: keadaan ini sudah diduga oleh para pemimpin indonesia .
-passage 9 score = 7.0
-sentence 1: keadaan ini sudah diduga oleh para pemimpin indonesia .
-sentence 2: itulah sebabnya pemerintah ri pada tanggal 5 oktober memutuskan untuk membentuk suatu tentara dengan nama tentara keamanan rakyat ( tkr ) .
-sentence 3: selain itu pemerintah mengeluarkan maklumat bahwa ri akan menanggung semua hutang-hutang nederland indies .
-sentence 4: dengan maklumat ini pemerintah ingin menunjukkan pada dunia luar bahwa ri bukanlah negara yang masih tunduk pada jepang , tetapi ri mengakui tata cara negara-negara demokrasi barat .
-sentence 5: sebagai realisasi dari maklumat ini maka didirikan sejumlah partai dan dibentuk satu kabinet yang dipimpin oleh perdana menteri syahrir .
-passage 10 score = 7.0
-sentence 1: sebagai realisasi dari maklumat ini maka didirikan sejumlah partai dan dibentuk satu kabinet yang dipimpin oleh perdana menteri syahrir .
-sentence 2: tugas kabinet ini adalah menjalankan perundingan-perundingan dengan pihak belanda , yang melahirkan perundingan di linggarjati pada tahun 1946 .
-sentence 3: sebelum perundingan disepakati , kabinet syahrir dibubarkan karena mendapat kritikan dari kelompok oposisi yaitu tan malaka .
-sentence 4: namun presiden menunjuk syahrir untuk kembali memimpin kabinet .
-sentence 5: dalam perundingan kabinet syahrir ii mengusulkan bahwa pada dasarnya ri adalah negara yang berdaulat penuh atas bekas wilayah nederland indie .
-passage 15 score = 7.0
-sentence 1: status keadaan bahaya diperlakukan untuk seluruh indonesia karena pihak tan malaka berhasil menculik sutan syahrir bersama mayor jenderal sudibyo , dr. darmasetiawan , dan dr sumitri .
-sentence 2: atas seruan presiden para penculik kemudian membebaskan syahrir dan kawan-kawan .
-sentence 3: kemudian pihak pp mencoba memaksa presiden untuk menyusun pemerintah baru yang dipimpin oleh kawan-kawan tan malaka pada tanggal 3 juli 1947 , tetapi presiden tetap menunjuk sutan syahrir sebagai perdana menteri .
-sentence 4: kabinet syahrir iii terbentuk oktober 1946 .
-sentence 5: dari pihak belanda intimidasi dimulai dengan diselenggarakannya konferensi malino bulan juli 1946 untuk membentuk “ negara-negara “ di wilayah-wilayah yang akan ditinggalkan tentara sekutu .
-passage 16 score = 7.0
-sentence 1: dari pihak belanda intimidasi dimulai dengan diselenggarakannya konferensi malino bulan juli 1946 untuk membentuk “ negara-negara “ di wilayah-wilayah yang akan ditinggalkan tentara sekutu .
-sentence 2: ini jelas bertentangan dengan kehendak ri yaitu agar negara-negara bagian dalam republik indonesia dibentuk bersama-sama ri dan belanda .
-sentence 3: sementara itu pihak inggris ikut berbicara dengan maksud agar penarikan tentara sekutu ( inggris ) berjalan secepat mungkin , agar utusan inggris di bawah pimpinan lord killearn tiba pada bulan agustus dan mengusulkan antara lain syarat-syarat gencatan senjata antara ri dengan belanda .
-sentence 4: pemerintah indonesia menyetujui usul ini dan mengirim perwira-perwira tentara republik indonesia untuk menyelesaikan masalah tehnis gencatan senjata .
-sentence 5: sementara itu perundingan dengan pihak belanda dilanjutkan setelah kabinet syahrir iii disyahkan dalam bulan oktober 1946 .
-passage 22 score = 7.0
-sentence 1: komisi yang terdiri atas dr. frank graham ( as ) , richard kirby ( australia ) dan paul vanzeelant ( belgia ) , di indonesia dikenal dengan nama komisi tiga negara ( ktn ) atau komisi jasa baik .
-sentence 2: komisi ini hanya mempunyai wewenang dalam bidang militer , sedangkan dalam bidang politik komisi hanya mempunyai hak mengusulkan .
-sentence 3: komisi yang mulai bekerja pada bulan oktober 1947 itu membuka kembali perundingan-perundingan politik antara indonesia dan belanda .
-sentence 4: pihak indonesia dalam perundingan ini dipimpin oleh amir syarifuddin .
-sentence 5: ia ternyata adalah seorang komunis .
-passage 34 score = 7.0
-sentence 1: pasukan tni dikerahkan secara besar-besaran pada tanggal 20 september 1948 dan pada tanggal 30 september , kota madiun dapat direbut kembali .
-sentence 2: pertempuran dilanjutkan sampai muso tewas dan amir syarifuddin tertangkap .
-sentence 3: meskipun demikian banyak pemimpin pki yang meloloskan diri ke daerah pendudukan belanda , antara lain d.n. aidit .
-sentence 4: sementara masalah pki belum teratasi , belanda melakukan agresi ii pada tanggal 19 desember 1948 .
-sentence 5: dalam serbuan ke yogyakarta , presiden dan wakil presiden tertangkap oleh belanda .
-passage 39 score = 7.0
-sentence 1: bfo menyatakan dukungan pengembalian pemerintahan ri di yogyakarta dn menyerukan agar pbb membentuk suatu panitia untuk membantu melaksanakan resolusi pbb di indonesia .
-sentence 2: pada bulan april perundingan dimulai antara delegasi indonesia yang dipimpin oleh mr. mohammad roem dan dr. j. h. van royen dari pihak belanda .
-sentence 3: pertemuan di hotel des indes ( kini duta merlin ) itu diawasi dan dipimpin marle cochran , wakil dari amerika serikat dalam komisi pbb ( unci : united nations commision of indonesia ) .
-sentence 4: dalam perundingan ini pihak indonesia menuntut agar presiden dan wakil presiden dikembalikan ke yogyakarta dan agar belanda mengakui ri .
-sentence 5: perundingan berjalan sangat lamban , sehingga drs. hatta didatangkan dari bangka untuk langsung berunding dengan dr. van royen .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
-title : kebijakan pemerintah indonesia pada masa awal kemerdekaan
-passage 13 score = 7.0
-sentence 1: difisit pemerintah pada waktu itu 5,1 milyar rupiah .
-sentence 2: pemerintah mengambil beberapa langkah untuk mengurangi defisit .
-sentence 3: misalnya , dengan mengeluarkan pinjaman pemerintah dengan cara melakukan tindakan keuangan pada tanggal 20 maret 1950 .
-sentence 4: kebijakan politik pembentukan knip .
-sentence 5: dalam perkembangannya , kelompok pemuda yang dipimpin oleh syahrir merasa tidak puas dengan sistem kabinet presidensial sehingga berusaha memengaruhi beberapa anggota knip lainnya untuk mengajukan petisi kepada soekarno-hatta .
-passage 14 score = 7.0
-sentence 1: dalam perkembangannya , kelompok pemuda yang dipimpin oleh syahrir merasa tidak puas dengan sistem kabinet presidensial sehingga berusaha memengaruhi beberapa anggota knip lainnya untuk mengajukan petisi kepada soekarno-hatta .
-sentence 2: isi petisi itu berupa tuntutan pemberian status mpr kepada knip .
-sentence 3: karena petisi itu , knip mengadakan rapat pleno pada tanggal 16 okterber 1945 .
-sentence 4: atas desakan sidang knip tersebut , wakil presiden moh.hatta mengeluarkan maklumat no.x tahun 1945 yang menetapkan bahwa knip sebelum terbentuk mpr dan dpr diserahi kekuasaan legislatif , ikut menetapkan gbhn , serta menyetujui bahwa pekerjaan knip sehari-hari sehubungan dengan gentingnya keadaan dijalankan oleh sebuah badan kerja yang dipilih diantara mereka yang bertanggungjawab kepada knip .
-sentence 5: badan pekerja knip akhirnya dibentuk dan diketuai oleh sutan syahrir dengan wakilnya amir syarifudin .
-passage 17 score = 7.0
-sentence 1: oleh karena itu , dalam rapat tanggal 22 agustus 1945 , ppki telah mengambil suatu keputusan untuk mengadakan persiapan guna penyusunan sebuah partai tunggal tersebut .
-sentence 2: namun , rencana untuk mendirikan partai tunggal ini dibatalkan .
-sentence 3: kemudian pada tanggal 3 nopember 1945 , pemerintah mengeluarkan sebuah maklumat tentang pembentukan partai-partai politik .
-sentence 4: secara lengkap , isi maklumat pemerintah tanggal 3 nopember 1945 yang ditandatangani oleh wakil presiden moh.hatta sebagai berikut .
-sentence 5: pemerintah mendorong timbulnya partai-partai politik karena dengan adanya partai dapat dipimpin ke jalan yang teratur segala aliran paham yang dalam masyarakat .
-passage 18 score = 7.0
-sentence 1: pemerintah mendorong timbulnya partai-partai politik karena dengan adanya partai dapat dipimpin ke jalan yang teratur segala aliran paham yang dalam masyarakat .
-sentence 2: pemerintah berharap supaya partai-partai itu telah disusun sebelum pemilihan anggota badan-badan perwakilan rakyat pada bulan januari .
-sentence 3: .
-sentence 4: selanjutnya lahirlah partai-partai politik seperti majelis syuro muslimin indonesia ( masyumi ) yang dipimpin oleh dr. soekirman wiryo sanjoyo , partai komunis indonesia yang dipimpin oleh moh.yusuf , partai buruh indonesia yang dipimpin oleh nyono , partai rakyat jelata yang dipimpin sutan dewanis , partai kristen indonesia yang dipimpin oleh probo winoto , partai sosialis indonesia yang dipimpin oleh amir syarisfudin , partai rakyat sosialis yang dipimpin oleh sutan syahrir , partai khatolik republik indonesia yang dipimpin oleh i.j.kasimo , persatuan rakyat marhaen indonesia yang dipimpin oleh j.b.assa , partai nasional indonesia yang dipimpin oleh sidik joyo sukarto .
-sentence 5: maklumat pemerintah 14 nopember 1945 .
-passage 22 score = 7.0
-sentence 1: pada tanggal 23 agustus 1949 , kmb dilaksanakan .
-sentence 2: delegasi indonesia diketuai oleh moh.hatta , delegasi bfo dipimpin oleh sultan hamid ii dan delegasi belanda diketuai oleh mr. van maarseveen .
-sentence 3: sebagai penengah adalah unci diwakili oleh chrichley ( australia ) .
-sentence 4: dalam perundingan tersebut , dicapai kesepakatan antara lain : belanda mengakui kedaulatan republik indonesia serikat .
-sentence 5: dibentuk uni indonesia belanda .
-passage 15 score = 6.5
-sentence 1: badan pekerja knip akhirnya dibentuk dan diketuai oleh sutan syahrir dengan wakilnya amir syarifudin .
-sentence 2: selanjutnya , disetiap ibukota provinsi didirikan komite nasional daerah .
-sentence 3: pada awalnya , knd bertugas sebagai pembantu kepala pemerintahan provinsi , yaitu gubernur .
-sentence 4: namun dengan adanya perubahan fungsi knip menjadi badan legislatif yang dipimpin oleh kepala daerah .
-sentence 5: badan ini juga berfungsi sebagai badan eksekutif dengan jumlah anggota 5 orang .
-passage 2 score = 5.5
-sentence 1: belanda berharap terjadi kegelisahan sosial , inflasi yang tinggi , dan kelangkaan bahan-bahan kebutuhan rakyat .
-sentence 2: pemerintah ri berusaha untuk menebus blokade belanda tersebut .
-sentence 3: upaya politis yang dilakukan adalah pemberian bantuan beras kepada india sebanyak 5000 ton karena negara tersebut sedang ditimpa bahaya kelaparan .
-sentence 4: sebagai imbalannya , pemerintah indonesia akan menerima bahan pakaian yang dibutuhkan oleh rakyat .
-sentence 5: pemberian bantuan beras ini menunjukkan adanya solidaritas antara sesama bangsa asia yang pernah dijajah oleh bangsa asing .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok287.txt
+title : kondisi sosial dan ekonomi masyarakat di berbagai daerah sejak reformasi
+passage 1 score = 5.5
+sentence 1: kondisi sosial dan ekonomi masyarakat di berbagai daerah sejak reformasi – tuntutan reformasi menghendaki adanya perubahan dan perbaikan di segala aspek kehidupan yang lebih baik .
+sentence 2: namun , pada praktiknya tuntutan reformasi telah disalahgunakan oleh para petualang politik hanya untuk kepentingan pribadi dan kelompoknya .
+sentence 3: pada era reformasi , konflik yang terjadi di masyarakat makin mudah terjadi dan sering kali bersifat etnis di berbagai daerah .
+sentence 4: kondisi sosial masyarakat yang kacau akibat lemahnya hukum dan perekonomian yang tidak segera kunjung membaik menyebabkan sering terjadi gesekan-gesekan dalam masyarakat .
+sentence 5: beberapa konflik sosial yang terjadi pada era reformasi berlangsung di beberapa wilayah , antara lain sebagai berikut .
 passage 3 score = 5.5
-sentence 1: pemberian bantuan beras ini menunjukkan adanya solidaritas antara sesama bangsa asia yang pernah dijajah oleh bangsa asing .
-sentence 2: antara indonesia dan india kemudian tumbuh sikap saling membantu .
-sentence 3: negara india terlibat secara aktif dalam perjuangan diplomasi indonesia dalam forum internasional .
-sentence 4: penyelenggaraan konferensi ekonomi indonesia dalam menanggulangi masalah ekonomi perintah ri juga menempuh tindakan yang bersifat konseptual .
-sentence 5: usaha-usaha tersebut direalisasikan oleh pemerintah pada bulan februari 1946 dengan diselenggarakannya konferensi ekonomi indonesia yang pertama .
-passage 9 score = 5.5
-sentence 1: sumber inflasi tersebut adalah beredarnya mata uang jepang secara tidak terkendali .
-sentence 2: jumlah ini semakin bertambah ketika sekutu berhasil menduduki beberapa kota besar di indonesia dan menguasai bank-bank .
-sentence 3: dari bank-bank itu diedarkan uang cadangan berjumlah 2,3 milyar guna membiayai operasi-operasi militer dan menggaji pegawai dalam rangka mengembalikan pemerintah kolonial belanda di indonesia .
-sentence 4: pada tanggal 6 maret 1946 , panglima sekutu mengumumkan berlakunya uang nica sebagai pengganti uang jepang .
-sentence 5: pemerintah indonesia menolak penggunaan uang itu dan menyatakan bahwa uang nica bukan alat pembayaran yang sah di dalam wilayah kekuasaan republik indonesia .
+sentence 1: kebetulan pencuri tersebut beretnis madura , sedangkan penduduk parisetia beretnis dayak dan melayu .
+sentence 2: entah isu apa yang beredar di masyarakat menyebabkan penduduk desa sarimakmur yang kebanyakan dihuni etnis madura melakukan aksi balas dendam dengan menyerang dan merusak segala sesuatu di desa parisetia .
+sentence 3: akibatnya , terjadi aksi saling balas dendam antaretnis tersebut dan menjalar ke berbagai daerah di kalimantan barat .
+sentence 4: pemerintah berusaha mendamaikan konflik tersebut dengan mengajak tokoh masyarakat dari masing-masing etnis yang ada untuk membentuk forum komunikasi masyarakat kalimantan barat .
+sentence 5: dengan wadah tersebut segala permasalahan dicoba diselesaikan secara damai .
 passage 11 score = 5.5
-sentence 1: besarnya pinjaman ini direncanakan berjumlah 1 milyar yang dibagi atas dua tahap dana akan dibayar kembali selambat-lambatnya dalam jangka 40 tahun .
-sentence 2: guna mengumpulkan dana dari masyarakat , maka pada bulan juli 1946 seluruh penduduk di jawa dan madura diwajibkan untuk menyetorkan uangnya ke bank-bank tabungan pos dan rumah pegadaian .
-sentence 3: pada pinjaman tahap pertama berhasil dikumpulkan sejumlah 500 juta .
-sentence 4: pelaksanaan pinjaman ini dinilai sukses dan merupakan salah satu indikator yang menunjukan usaha pemerintah mendapat dukungan dari rakyat .
-sentence 5: pengurangan defisit anggaran setelah pengakuan kedaulatan pada tanggal 27 desember 1949 , situasi perekonomian indonesia tetap belum pulih karena masih mewarisi keadaan ekonomi dan keuangan yang mengkhawatirkan .
+sentence 1: sampai sekarang konflik maluku itu belum dapat diatasi dengan tuntas .
+sentence 2: dari beberapa kejadian itu terlihat betapa di era reformasi terjadi pergeseran pelaku kekerasan .
+sentence 3: di era orde baru , kekerasan lebih banyak dilakukan oleh oknum abri daripada warga sipil .
+sentence 4: namun , pada era reformasi kekerasan justru diperlihatkan oleh sesama warga sipil .
+sentence 5: masyarakat makin beringas dan hukum seperti tidak ada .
+passage 12 score = 5.5
+sentence 1: masyarakat makin beringas dan hukum seperti tidak ada .
+sentence 2: banyak kejadian kriminal yang pelakunya tertangkap basah langsung dihakimi bahkan sampai meninggal oleh masyarakat .
+sentence 3: kinerja para penegak hukum sepertinya sudah tidak dapat dipercaya lagi .
+sentence 4: masyarakat sudah muak melihat berbagai kasus besar yang melibatkan pejabat negara dan oknum militer tidak tertangani sampai tuntas meskipun mereka dinyatakan bersalah .
+sentence 5: sedangkan mengenai masalah ekonomi , selama masa tiga bulan kekuasaan pemerintah b.j. habibie , ekonomi indonesia belum mengalami perubahan yang berarti .
+passage 14 score = 5.5
+sentence 1: misalnya , pada bulan mei 1998 , harga satu kilogram beras rata-rata rp1 .000,00 , namun harga tersebut sempat naik menjadi di atas rp3 .000,00 per kilogram pada bulan agustus 1998 .
+sentence 2: antrian panjang masyarakat membeli beras dan minyak goreng mulai terlihat di berbagai tempat .
+sentence 3: oleh karena keadaan ekonomi yang parah menyebabkan rakyat indonesia melakukan segala tindakan untuk sekadar dapat mencukupi kebutuhan .
+sentence 4: penjarahan adalah pemandangan biasa yang dijumpai pada awal-awal pemerintahan presiden b.j. habibie .
+sentence 5: penjarahan mereka lakukan terhadap tempattempat yang dapat membantu kelangsungan hidup .
+passage 2 score = 5.0
+sentence 1: beberapa konflik sosial yang terjadi pada era reformasi berlangsung di beberapa wilayah , antara lain sebagai berikut .
+sentence 2: 1 .
+sentence 3: kalimantan barat konflik sosial yang terjadi di kalimantan barat melibatkan etnik melayu , dayak , dan madura .
+sentence 4: kejadian bermula dari tertangkapnya seorang pencuri di desa parisetia , kecamatan jawai , sambas , kalimantan barat yang kemudian dihakimi hingga tewas pada tanggal 19 januari 1999 .
+sentence 5: kebetulan pencuri tersebut beretnis madura , sedangkan penduduk parisetia beretnis dayak dan melayu .
+passage 6 score = 5.0
+sentence 1: sampai sekarang pun pengungsi sampit masih menjadi masalah pemerintah .
+sentence 2: 3 .
+sentence 3: sulawesi tengah konflik sosial di sulawesi tengah tepatnya di daerah poso berkembang menjadi konflik antaragama .
+sentence 4: kejadian bermula dipicu oleh perkelahian antara roy luntu bisalembah ( kristen ) yang kebetulan sedang mabuk dengan ahmad ridwan ( islam ) di dekat masjid darussalam pada tanggal 26 desember 1998 .
+sentence 5: entah isu apa yang berkembang di masyarakat perkelahian dua orang berbeda agama itu berkembang menjadi ketegangan antaragama di poso , sulawesi tengah .
+passage 7 score = 5.0
+sentence 1: entah isu apa yang berkembang di masyarakat perkelahian dua orang berbeda agama itu berkembang menjadi ketegangan antaragama di poso , sulawesi tengah .
+sentence 2: konflik tersebut juga menyebabkan ratusan rumah dan tempat ibadah hancur .
+sentence 3: puluhan , bahkan ratusan nyawa melayang akibat konflik tersebut .
+sentence 4: konflik sempat mereda , tetapi masuknya beberapa orang asing ke daerah konflik tersebut menyebabkan ketegangan dan kerusuhan terjadi lagi .
+sentence 5: beberapa dialog digelar untuk meredakan konflik tersebut , seperti pertemuan malino yang dilakukan pada tanggal 19 – 20 desember 2001 .
+passage 8 score = 5.0
+sentence 1: beberapa dialog digelar untuk meredakan konflik tersebut , seperti pertemuan malino yang dilakukan pada tanggal 19 – 20 desember 2001 .
+sentence 2: 4 .
+sentence 3: maluku konflik sosial yang dipicu oleh konflik agama juga terjadi di maluku .
+sentence 4: kejadian diawali dengan bentrokan antara warga batumerah , ambon , dan sopir angkutan kota pada tanggal 19 januari 1999 .
+sentence 5: namun , seperti konflik yang terjadi di wilayah indonesia lainnya , tanpa tahu isu apa yang beredar di masyarakat , terjadi ketegangan antarwarga .
+passage 9 score = 5.0
+sentence 1: namun , seperti konflik yang terjadi di wilayah indonesia lainnya , tanpa tahu isu apa yang beredar di masyarakat , terjadi ketegangan antarwarga .
+sentence 2: puncaknya terjadi kerusuhan massa dengan disertai pembakaran masjid al-falah .
+sentence 3: warga islam yang tidak terima segera membalas dengan pembakaran dan perusakan gereja .
+sentence 4: konflik meluas menjadi antaragama .
+sentence 5: namun , anehnya konflik yang semula antaragama berkembang menjadi gerakan separatis .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok369.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok369.txt
 title : perkembangan politik dan ekonomi serta perubahan masyarakat di indonesia dalam upaya mengisi kemerdekaan
 passage 1 score = 7.5
 sentence 1: a. perkembangan politik di indonesia dalam upaya mengisi kemerdekaan 1 .
@@ -684,9 +541,136 @@ sentence 3: f. kabinet ali ii ( 24 maret 1956 – 14 maret 1957 ) masalah yang d
 sentence 4: g. kabinet djuanda kabinet ini jatuh karena badan konstituante tidak bisa membuat uud yang baru pengganti uuds sehingga presiden mengeluarkan dekritnya tanggal 5 juli 1959 dan mengumumkan berlakunya demokrasi terpimpin .
 sentence 5: 2 .
 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok349.txt
+title : sejarah penyebab terjadinya perang dingin
+passage 2 score = 6.5
+sentence 1: akibat perbedaan ideologi , setelah musuh bersama ( jerman ) dapat mereka lenyapkan dalam perang dunia ii , pertentangan ideologi kembali terjadi .
+sentence 2: akibatnya , kedua kekuatan adidaya tersebut berusaha saling mengalahkan .
+sentence 3: salah satu caranya adalah memengaruhi negara-negara lain untuk bergabung dalam kelompoknya .
+sentence 4: oleh karena itu , dunia ini akhirnya seolah-olah terbagi menjadi blok barat yang berpaham liberal kapitalis dengan amerika serikat sebagai pemimpinnya , dan blok timur yang berpaham sosialis komunis dengan uni soviet sebagai pemimpinnya .
+sentence 5: amerika serikat dan uni soviet saling berusaha menjadi pemimpin dunia .
+passage 5 score = 5.5
+sentence 1: hanya kemiskinan yang menjadi ladang subur bagi perkembangan sosialis komunis .
+sentence 2: sedangkan uni soviet yang mempunyai kekuatan ekonomi , tetapi tidak sebesar amerika serikat juga berusaha membentengi negara-negara yang telah mendapat pengaruhnya .
+sentence 3: paket bantuan ekonomi uni soviet juga diberikan guna memperbaiki keadaan ekonomi negara-negara tersebut .
+sentence 4: selain itu , uni soviet juga berusaha mendekati rakyat yang sedang melakukan perjuangan nasionalnya dengan mengirimkan para tenaga ahli dan juga berbagai peralatan militer .
+passage 4 score = 5.0
+sentence 1: dengan demikian , amerika serikat dan uni soviet tampil sebagai imperialis muda .
+sentence 2: amerika serikat dengan kekuatan ekonominya berusaha memengaruhi negara-negara lain khususnya yang baru merdeka dengan paket bantuan ekonomi .
+sentence 3: pemerintah amerika serikat beranggapan bahwa negara yang rakyatnya hidup makmur dapat menjadi tempat pemasaran hasil industrinya .
+sentence 4: selain itu , rakyat yang hidupnya telah makmur juga akan menjauhkan dari pengaruh sosialis komunis .
+sentence 5: hanya kemiskinan yang menjadi ladang subur bagi perkembangan sosialis komunis .
+passage 3 score = 1.5
+sentence 1: amerika serikat dan uni soviet saling berusaha menjadi pemimpin dunia .
+sentence 2: mereka memimpikan dapat berkuasa dan memimpin dunia seperti masa kejayaan inggris dan prancis pada masa imperialis kuno .
+sentence 3: namun , kekuasaan yang biasanya dilakukan pada masa imperialis kuno sekarang sudah tidak mereka lakukan lagi .
+sentence 4: amerika serikat dan uni soviet berusaha menjadi pemimpin dunia dengan cara baru , misalnya dengan kekuatan ekonominya .
+sentence 5: dengan demikian , amerika serikat dan uni soviet tampil sebagai imperialis muda .
+passage 1 score = 0.0
+sentence 1: sejarah penyebab terjadinya perang dingin – secara umum , perang dingin terjadi akibat dipicu oleh hal-hal sebagai berikut .
+sentence 2: amerika serikat adalah negara yang berideologi liberal kapitalis , sedangkan uni soviet adalah negara yang berideologi sosialis komunis .
+sentence 3: sejak awal kelahirannya , paham sosialis komunis memang tidak sejalan dengan paham liberal kapitalis .
+sentence 4: bahkan , kelahiran sosialis komunis memang dipicu adanya liberal kapitalis yang pada waktu itu bertindak sewenang-wenang .
+sentence 5: akibat perbedaan ideologi , setelah musuh bersama ( jerman ) dapat mereka lenyapkan dalam perang dunia ii , pertentangan ideologi kembali terjadi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok168.txt
+title : organisasi bersifat sosial kemasyarakatan masa jepang
+passage 1 score = 7.0
+sentence 1: organisasi bersifat sosial kemasyarakatan masa jepang gerakan tiga a gerakan tiga a dibentuk pada bulan maret 1942 dan diketuai oleh mr. syamsuddin .
+sentence 2: gerakan tiga a terdiri dari nippon cahaya asia , nippon pelindung asia , dan nippon pemimpin asia .
+sentence 3: tujuan gerakan ini adalah untuk menghimpun potensi bangsa guna kemakmuran bersama .
+sentence 4: ternyata gerakan tiga a tidak berumur lama karena dirasa kurang efektif oleh jepang sehingga dibubarkan , sebagai gantinya dibentuk putera ( pusat tenaga rakyat ) .
+sentence 5: putera para pemimpin bangsa indonesia merasa bahwa satu-satunya cara menghadapi kekejaman militer jepang adalah dengan bersikap kooperatif .
+passage 3 score = 7.0
+sentence 1: maka setelah terjadi kesepakatan , dibentuklah organisasi baru bernama putera ( pusat tenaga rakyat ) .
+sentence 2: putera dibentuk pada 16 april 1943 dipimpin oleh empat serangkai .
+sentence 3: tujuan putera adalah untuk membujuk kaum nasionalis sekuler dan intelektual untuk mengabdikan pikiran dan tenaganya demi untuk kepentingan perang melawan sekutu .
+sentence 4: mengapa jepang berkeinginan mengajak tokoh nasionalis bergabung dalam putera ?
+sentence 5: .
+passage 4 score = 7.0
+sentence 1: .
+sentence 2: dalam tempo singkat putera dapat berkembang sampai ke daerah dengan anggotanya adalah kumpulan organisasi profesi seperti , persatuan guru indonesia , perkumpulan pegawai pos , radio dan telegraf , perkumpulan istri indonesia , barisan banteng dan badan perantara pelajar indonesia serta ikatan sport indonesia .
+sentence 3: keberhasilan dalam perekrutan anggota , tidak dapat dipisahkan dari simpati rakyat terhadap para tokoh pemimpin indonesia yang masih tinggi .
+sentence 4: keberadaan putera merupakan organisasi resmi pemerintah yang disebarluaskan melalui surat kabar dan radio , sehingga menjangkau sampai ke desa .
+sentence 5: namun pemerintah militer jepang sudah mengantisipasi keberadaan putera yang strategis dan politis tersebut dengan memberikan kegiatan secara terbatas , khusus yang berkaitan dengan upaya menghapus pengaruh barat agar mendukung pemerintah militer jepang .
+passage 5 score = 7.0
+sentence 1: namun pemerintah militer jepang sudah mengantisipasi keberadaan putera yang strategis dan politis tersebut dengan memberikan kegiatan secara terbatas , khusus yang berkaitan dengan upaya menghapus pengaruh barat agar mendukung pemerintah militer jepang .
+sentence 2: meskipun putera merupakan organisasi pemerintah dengan segala kekurangannya , putera dapat dimanfaatkan secara maksimal oleh para tokoh pemimpin indonesia untuk mempersiapkan mental guna menyongsong kemerdekaan dengan cara memonitor perkembangan kondisi dunia , memanfaatkan media massa , surat kabar dan radio untuk berkomunikasi dengan rakyat secara leluasa .
+sentence 3: ternyata apa yang dilakukan para pemimpin indonesia dinilai oleh pemerintah jepang hanya menguntungkan pihak indonesia .
+sentence 4: maka diputuskan untuk membubarkan putera .
+sentence 5: selanjutnya pemerintah jepang membentuk organisasi baru yaitu : jawa hokokai ( himpunan kebaktian jawa ) agar rakyat indonesia dapat dihimpun tenaganya lahir dan batin untuk digalang kebaktiannya pada jepang .
+passage 6 score = 7.0
+sentence 1: selanjutnya pemerintah jepang membentuk organisasi baru yaitu : jawa hokokai ( himpunan kebaktian jawa ) agar rakyat indonesia dapat dihimpun tenaganya lahir dan batin untuk digalang kebaktiannya pada jepang .
+sentence 2: dalam tradisi jepang ada tiga dasar utama yang harus dimiliki tiap orang jepang yaitu sikap rela mengorbankan diri , mempertebal persahabatan dan melaksanakan sesuatu harus menghasilkan bukti .
+sentence 3: melalui jawa hokokai ini , tiga aspek tradisi jepang tersebut dituntut pula dari rakyat indonesia .
+sentence 4: para pemimpin organisasi ini berada di bawah gunseikan ( kepala pemerintahan militer ) dan di tiap daerah dipimpin oleh syucokan ( gubernur/residen ) .
+sentence 5: dengan terbentuknya jawa hokokai , maka kaum nasionalis bangsa indonesia mulai disisihkan dan kegiatan mereka dilarang .
+passage 2 score = 6.5
+sentence 1: putera para pemimpin bangsa indonesia merasa bahwa satu-satunya cara menghadapi kekejaman militer jepang adalah dengan bersikap kooperatif .
+sentence 2: hal ini semata untuk tetap berusaha mempertahankan kemerdekaan secara tidak langsung .
+sentence 3: berdasarkan pertimbangan tersebut , maka mereka sepakat bekerjasama dengan pemerintah militer jepang dengan pertimbangan lebih menguntungkan dari pada melawan .
+sentence 4: hal ini didukung oleh propaganda jepang untuk tidak menghalangi kemerdekan indonesia .
+sentence 5: maka setelah terjadi kesepakatan , dibentuklah organisasi baru bernama putera ( pusat tenaga rakyat ) .
+passage 7 score = 5.5
+sentence 1: dengan terbentuknya jawa hokokai , maka kaum nasionalis bangsa indonesia mulai disisihkan dan kegiatan mereka dilarang .
+sentence 2: keberadaan jawa hokokai adalah sebagai organisasi sentral yang terkendali dan merupakn kumpulan dari hokokai/profesi , antara lain izi hokokai ( himpunan kebaktian dokter ) , kyoiku hokokai ( himpunan kebaktian pendidik ) , fujinkai ( organisasi wanita ) dan keimin bunko syidosyo ( pusat budaya ) .
+sentence 3: kegiatan hokokai adalah pelaksana pengerahan atau mobilisasi ( penggerakan ) barang yang berguna untuk kepentingan perang seperti : emas , permata , besi dan lain-lain .
+sentence 4: pembentukan chuo sang in chuo sang in adalah sebuah badan yang bertugas sebagai dewan pertimbangan pusat yang berada langsung di bawah panglima tertinggi , tugasnya menyampaikan usul dari pertanyaan-pertanyaan yang diajukan oleh pemerintah militer jepang mengenai pemerintahan dan politik dalam pelaksanaannya badan ini tidak dapat mencapai aspirasi rakyat , sebaliknya anggota badan memiliki kekuatan yang terbatas bahkan dapat dikatakan hanya sebagai robot jepang .
+sentence 5: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok227.txt
+title : sejarah lahirnya tni
+passage 2 score = 7.0
+sentence 1: badan-badan perjuangan kemudian dibentuk diseluruh indonesia , semacam barisan banteng kebaktian rakyat indonesia sulawesi ( kris ) , pemuda indonesia maluku ( pim ) , hisbullah sabilllah , pemuda sosialis indonesia ( pesindo , barisan pemberontakan rakyat indonesia ( bpri ) , barisan pemuda indonesia ( bpi ) , serta pemuda republik indonesia ( pri ) .
+sentence 2: sidang ppki tanggal 22 agustus sukses membentuk badan keamanan rakyat ( bkr ) serta diumumkan oleh presiden pada tanggal 23 agustus 1945 .
+sentence 3: dengan pemimpin bkr pusat sebagai berikut : ketua umum : kaprawi ketua i : sutalaksana ketua ii : latief hendraningrat anggota : arifin abdurahman , mahmud serta zulkifli lubis pada tanggal 16 september 1945 south east asian comand ( seac ) adalah angkatan perang inggris mendarat di jakrta serta meperbuat tekanan terhadap jepang untuk masih mempertahankan status quo .
+sentence 4: faktor itu memunculkan keberanian serdadu jepang untuk mempertahankan diri terhadap pemuda indonesia yang sedang melucuti senjata .
+sentence 5: pada tanggal 29 september 1945 datang lagi tentara sekutu yang tergabung dalam alied forces netherlands east indies ( afnei ) dengan mengangkat pasukan nica ( netherlands indies civil administration ) .
+passage 7 score = 7.0
+sentence 1: tanggal 19 juli 1946 terbentuklah angkatan laut republik indonesia disingkat alri .
+sentence 2: selanjutnya , pada tanggal 9 april 1946 tri tahap perhubungan udara diganti nam serta strukturnya menjadi tentara republik indonesia angkatan udar alias dikenal dengan nama angkatan udara republik indonesia di singkatat auri .
+sentence 3: pada tanggal 5 mei 1947 presiden mengeluarkan dekrit guna membentuk panitia pembentukan organisasi tentara nasional indonesia dengan beranggotakan 21 orang dari ceo berbagai lascar yang paling berpengaruh kuat .
+sentence 4: panitia itu dipimpin presiden sukarno sendiri .
+sentence 5: pada tanggal 7 juni 1947 keluar sebuah penetapan presiden yang membentuk sebuahorganisasi tentara yang bernama tentara nasional indonesia ( tni ) sebagai penyempurna tri .
+passage 3 score = 6.5
+sentence 1: pada tanggal 29 september 1945 datang lagi tentara sekutu yang tergabung dalam alied forces netherlands east indies ( afnei ) dengan mengangkat pasukan nica ( netherlands indies civil administration ) .
+sentence 2: faktor ini menimbulakan perlawanan sengit dari para pemuda indonesia terhadap sedadu nica serta sekutu pada umumnya .
+sentence 3: pemerintah terbuktigil pensiunan mayor knil urip sumoharjo ke jakarta serta dberi tugas membentuk tentara kebangasaan indonesia .
+sentence 4: melewati maklumat pemerintah tanggal 5 oktober 1945 terbentuklah tentara keamanan rakyat ( tkr ) .
+sentence 5: dengan maklumat pemerintah tanggal 6 oktober 1945 , supriyadi , pemimpin perlawanan peta di blitar ( febuari 1945 ) , diangkat sebagai menteri keamanan rakyat .
+passage 1 score = 5.5
+sentence 1: sejarah lahirnya tni - pemerintah indonesia yang baru merdeka dengan sengaja segera membentuk tentara nasional dengan pertimbangan politik yaitu pembentukan tentara nasional pada saat itu bakal mengajak kecurigaaan serta bakal memunculkan pukulan perpaduan tentara sekutu serta jepang .
+sentence 2: menurut perdiksi bahwa kekuatan nasional belum sanggup menghadapi pukulan tersebut .
+sentence 3: oleh sebab itu , pemerintah hanya membentuk badan keamanan rakyat ( bkr ) , yang bermanfaat sebagai penjaga keamanan umum pada masing-masing daerah .
+sentence 4: badan-badan perjuangan bernaung dibawah komite van aksi , antara lain angkatan pemuda indonesia ( api ) , barisan rakyat indonesia ( bara ) , serta barisan buruh indonesia ( bbi ) , .
+sentence 5: badan-badan perjuangan kemudian dibentuk diseluruh indonesia , semacam barisan banteng kebaktian rakyat indonesia sulawesi ( kris ) , pemuda indonesia maluku ( pim ) , hisbullah sabilllah , pemuda sosialis indonesia ( pesindo , barisan pemberontakan rakyat indonesia ( bpri ) , barisan pemuda indonesia ( bpi ) , serta pemuda republik indonesia ( pri ) .
+passage 5 score = 5.0
+sentence 1: untuk menghapus kesimpangsiuran , markas besar tkr pada tanggal 6 desember 1945 mengeluarkan sebuah maklumat .
+sentence 2: isi maklumat ini menyebutkan bahwa disamping tentara resmi ( tkr ) diperbolehkan adanya lascar-laskar sebab hak serta keharusan mempertahankan negara bukanlah monopoli tentara .
+sentence 3: pada tanggal 18 desember 1945 pemerintah melantik kolonel sudirman sebagai panglima besar tkr dengan pelantikan jenderal .
+sentence 4: sebagai kepala staf tkr dilantik urip sumoharjo dengan pangkat letnan jenderal .
+sentence 5: tugas mutlak panglima besar tkr adalah meninjau kembali struktur organisasi , struktur kerja , serta landasan perjuangan tkr agar diadakan penyempurnaan lebih lanjut .
+passage 4 score = 1.5
+sentence 1: dengan maklumat pemerintah tanggal 6 oktober 1945 , supriyadi , pemimpin perlawanan peta di blitar ( febuari 1945 ) , diangkat sebagai menteri keamanan rakyat .
+sentence 2: sebab supriyadi tak memenuhi panggilan serta tak terdengar berita beritanya , pada tanggal 20 oktober 1945 , pemerintah kembali memberitahukan para pejabat pemimpin di lingkungan kementerian keamanan rakyat antara lain menteri keamanan rakyat ad interim , muhammmad suroadikusumo , pemimpin paling atas tentara keamanan rakyat , supriyadi , serta sebagai kepala staf umum tentara keamanan rakyat adalah urip sumoharjo .
+sentence 3: dalam konferensi tkr yang diselenggarakan di yogyakarta pada tanggal 12 november 1945 , kolonel sudirman , panglima divisi v banyumas dipilih menjadi pemimpin paling atas tkr sedangkan kepal staf dipilih urip sumoharjo .
+sentence 4: pelantikan kolonel sudirman dalam jabatan tersebut baru terlaksana seusai berakhir pertempuran di ambarawa .
+sentence 5: untuk menghapus kesimpangsiuran , markas besar tkr pada tanggal 6 desember 1945 mengeluarkan sebuah maklumat .
+passage 8 score = 1.5
+sentence 1: pada tanggal 7 juni 1947 keluar sebuah penetapan presiden yang membentuk sebuahorganisasi tentara yang bernama tentara nasional indonesia ( tni ) sebagai penyempurna tri .
+sentence 2: didalam penetapan itu , antara lain diputuskan bahwa mulai tanggal 3 juni 1947 dengan cara resmi tentara nasional indonesia dengan segenap anak buah angkatan perang yang ada sebagai inti kekuatannya .
+sentence 3: tidak hanya itu , anak buah lascar bersenjata , baik yang telah maupun yang belum bergabung dalam biro perjuangan dimasukan serentak dalam tentara nasional indonesia , dengan kepal a pucuk pemimpin , panglima besar jenderal soedirman .
+sentence 4: [ gs ]
+passage 6 score = 0.0
+sentence 1: tugas mutlak panglima besar tkr adalah meninjau kembali struktur organisasi , struktur kerja , serta landasan perjuangan tkr agar diadakan penyempurnaan lebih lanjut .
+sentence 2: untuk itu , diadakan rapat dengan para panglima divisi .
+sentence 3: hasil rapat ceo pada tanggal 1 januari 1946 menyebabkan pemerintah merubah nama tentara keamanan rakyat menjadi tentara keselamatan rakyat , kementerian keamanan rakyat menjadi kementerian pertahanan .
+sentence 4: belum hingga sebulan dikeluarkan lagi maklumat pemerintah tanggal 23 januari 1945 untuk mengganti nam tentara keselamatan rakyat dengan nama tentara republik indonesia ( tri ) .
+sentence 5: tanggal 19 juli 1946 terbentuklah angkatan laut republik indonesia disingkat alri .
+
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 passage 9 score = 8.5
 sentence 1: pemerintah berhasil menumpas apra , tetapi pada tanggal 22 februari 1950 westerling berhasil meloloskan diri melalui malaya menuju negara belanda .
@@ -695,7 +679,7 @@ sentence 3: simatupang , namun gerakan itu dapat digagalkan .
 sentence 4: gerakan republik maluku selatan ( rms ) pemberontakan rms dipimpin oleh dr. soumokil , ia adalah mantan jaksa agung nit yang memproklamasikan lahirnya republik maluku selatan pada 25 april 1950 dan memisahkan diri dari nkri .
 sentence 5: untuk menumpas rms ditempuh melalui cara damai yaitu dengan mengirim dr. j. leimena .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 passage 10 score = 8.5
 sentence 1: untuk menumpas rms ditempuh melalui cara damai yaitu dengan mengirim dr. j. leimena .
@@ -704,7 +688,7 @@ sentence 3: kemudian dalam usaha penumpasannya kekuatan apris dibagi dalam tiga 
 sentence 4: grup iii dipimpin oleh mayor suryo subandrio operasi militer ini akhirnya berhasil melumpuhkan gerakan rms .
 sentence 5: pada tanggal 2 desember 1963 dr. soumokil , pemimpin pemberontakan rms berhasil ditangkap dan dijatuhi hukuman mati .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 title : ancaman disintegrasi bangsa
 passage 8 score = 8.5
 sentence 1: pemerintah mengeluarkan ultimatum agar dalam tempo 4 x 24 jam ia harus mempertanggung jawabkan perbuatannya .
@@ -713,7 +697,7 @@ sentence 3: ia menyatakan berdirinya republik maluku selatan dan memproklamasika
 sentence 4: pemberontakan ini dapat ditumpas setelah dibayar mahal dengan kematian letkol slamet riyadi , letkol s. sudiarto dan mayor abdullah .
 sentence 5: beberapa gambar tentang rms : f. prri/permesta setelah pemilu i dilaksanakan , situasi semakin memburuk dan terjadi pertentangan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 title : ancaman disintegrasi bangsa
 passage 9 score = 8.5
 sentence 1: beberapa gambar tentang rms : f. prri/permesta setelah pemilu i dilaksanakan , situasi semakin memburuk dan terjadi pertentangan .
@@ -722,7 +706,7 @@ sentence 3: beberapa gambar tentang prri/permesta : g. g 30 s/pki pada tanggal 3
 sentence 4: mereka punya tekad ingin menggantikan pancasila sebagai dasar negara dengan komunis-marxis .
 sentence 5: setelah jelas terungkap bahwa pki punya keinginan lain maka diadakan operasi penumpasan : 1 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
 title : perjuangan mempertahankan kemerdekaan dan ancaman disintegrasi
 passage 20 score = 8.5
 sentence 1: ia dan pasukannya menyerang lapangan terbang , kantor telkom , dan pos-pos militer tni .
@@ -731,7 +715,7 @@ sentence 3: rms ( republik maluku selatan ) pemberontakan ini dipimpin oleh dr. 
 sentence 4: ia menyatakan berdirinya republik maluku selatan dan memproklamasikannya pada 25 april 1950 .
 sentence 5: pemberontakan ini dapat ditumpas setelah dibayar mahal dengan kematian letkol slamet riyadi , letkol s. sudiarto dan mayor abdullah .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 passage 1 score = 8.0
 sentence 1: gangguan keamanan dalam negeri dalam upaya menegakkan kemerdekaan bangsa indonesia tidak hanya mengharapkan dari kekuatan asing yang meliputi sekutu dan nica , tetapi juga menghadapi berbagai ancaman dalam negeri tersebut .
@@ -740,7 +724,7 @@ sentence 3: gagasan kartosuwiryo mendirikan negara islam muncul sejak tahun 1942
 sentence 4: setelah terjadi agresi militer belanda i tahun 1947 , kartosuwiryo menyatakan perang fisabililah melawan belanda .
 sentence 5: pasukan hisbullah dan sabilillah dijadikan tentara islam indonesia ( tii ) .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 passage 3 score = 8.0
 sentence 1: pda saat pasukan devisi siliwangi kembali dari jawa tengah dalam usaha melakukan perang gerilya terhadap agresi militer ii yang dilancarkan oleh belanda , mereka menjumpai kesatuan-kesatuan bersenjata yang menamakan dirinya darul islam/tentara islam indonesia ( di/tii ) .
@@ -749,7 +733,7 @@ sentence 3: dalam usaha menyelesaikan perlawanan di/tii , pemerintah melakukan p
 sentence 4: natsir untuk mengajak dan membujur agar kembali ke nkri , tetapi tidak berhasil .
 sentence 5: akhirnya pemerintah terpaksa melakukan perang bharatayuda di bawah pimpinan jenderal nasution .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 passage 11 score = 8.0
 sentence 1: pada tanggal 2 desember 1963 dr. soumokil , pemimpin pemberontakan rms berhasil ditangkap dan dijatuhi hukuman mati .
@@ -758,7 +742,7 @@ sentence 3: pada tanggal 5 april 1950 andi azis beserta pasukannya menyerang apr
 sentence 4: r d. diapari mengundurkan diri , karena tidak menyetujui il : ndakan andi azis .
 sentence 5: pada tanggal 21 april 1950 sukowati , wakil negara nit mengumumkan bahwa nit akan bergabung dengan ri .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 passage 12 score = 8.0
 sentence 1: pada tanggal 21 april 1950 sukowati , wakil negara nit mengumumkan bahwa nit akan bergabung dengan ri .
@@ -767,7 +751,7 @@ sentence 3: pada tanggal 5 agustus 1950 secara tiba-tiba pasukan knil / kl menye
 sentence 4: selanjutnya letkol soeharto mengajukan dua alternatif kepada knil/kl yaitu meninggalkan kota makassar dan menyerahkan semua senjata atau kalau tidak seluruh anggota knil akan di hancurkan .
 sentence 5: pada tanggal 8 agustus 1950 anggota knil menerima syarat-syarat yang diajukan oleh letkol soeharto .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 passage 13 score = 8.0
 sentence 1: pada tanggal 8 agustus 1950 anggota knil menerima syarat-syarat yang diajukan oleh letkol soeharto .
@@ -791,7 +775,7 @@ setelah dilakukan penyelidikan , akhirnya diketahui bahwa ternyata sultan hamid 
 
 memproses passage 9
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 mention ris sri sultan | position = 21
@@ -880,7 +864,7 @@ gerakan republik maluku selatan ( rms ) pemberontakan rms dipimpin oleh <PERSON>
 
 memproses passage 9
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 dr | position = 8
@@ -963,7 +947,7 @@ misi ini ditolak pengikut-pengikutnya , sehingga pemerintah mengirimkan ekspedis
 
 memproses passage 10
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 kolonel kawilarang | position = 10
@@ -1022,7 +1006,7 @@ kemudian dalam usaha penumpasannya kekuatan apris dibagi dalam tiga grup yaitu s
 
 memproses passage 10
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 mayor achmad wiranata | position = 11
@@ -1108,7 +1092,7 @@ grup iii dipimpin oleh <PERSON>mayor suryo subandrio</PERSON> operasi militer in
 
 memproses passage 10
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 mayor suryo subandrio | position = 3
@@ -1151,7 +1135,7 @@ pada <TIME>tanggal 2 desember 1963</TIME> <PERSON>dr. soumokil ,</PERSON> pemimp
 
 memproses passage 10
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 dr soumokil | position = 1
@@ -1194,7 +1178,7 @@ tokenwithtagstemmed = mati
 
 memproses passage 8
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 title : ancaman disintegrasi bangsa
 list jawaban dan posisi dalam passage
 pemerintah | position = 0
@@ -1225,7 +1209,7 @@ beberapa gambar tentang andi azis : e. rms ( republik maluku selatan ) pemberont
 
 memproses passage 8
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 title : ancaman disintegrasi bangsa
 list jawaban dan posisi dalam passage
 dr christian robert stevenson | position = 10
@@ -1310,7 +1294,7 @@ beberapa daerah merasa seolah-olah diberlakukan secara tidak adil ( merasa diana
 
 memproses passage 9
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 title : ancaman disintegrasi bangsa
 list jawaban dan posisi dalam passage
 kolonel ahmad husen | position = 18
@@ -1397,7 +1381,7 @@ beberapa gambar tentang prri/permesta : g. g 30 s/pki pada <TIME>tanggal 30 sept
 
 memproses passage 9
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 title : ancaman disintegrasi bangsa
 list jawaban dan posisi dalam passage
 dn aidit | position = 13
@@ -1470,7 +1454,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 20
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
 title : perjuangan mempertahankan kemerdekaan dan ancaman disintegrasi
 list jawaban dan posisi dalam passage
 pemerintah | position = 0
@@ -1501,7 +1485,7 @@ rms ( republik maluku selatan ) pemberontakan ini dipimpin oleh <PERSON>dr. chri
 
 memproses passage 20
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
 title : perjuangan mempertahankan kemerdekaan dan ancaman disintegrasi
 list jawaban dan posisi dalam passage
 dr christian robert stevenson | position = 6
@@ -1566,7 +1550,7 @@ gangguan keamanan dalam negeri dalam upaya menegakkan kemerdekaan <PERSON>bangsa
 
 memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 bangsa indonesia | position = 6
@@ -1627,7 +1611,7 @@ setelah terjadi agresi militer belanda i <TIME>tahun 1947</TIME> , kartosuwiryo 
 
 memproses passage 1
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 belanda | position = 11
@@ -1672,7 +1656,7 @@ pda saat pasukan devisi siliwangi kembali dari jawa tengah dalam usaha melakukan
 
 memproses passage 3
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 belanda | position = 15
@@ -1747,7 +1731,7 @@ dalam usaha menyelesaikan perlawanan di/tii , <PERSON>pemerintah</PERSON> melaku
 
 memproses passage 3
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 pemerintah | position = 4
@@ -1798,7 +1782,7 @@ pada <TIME>tanggal 2 desember 1963</TIME> <PERSON>dr. soumokil ,</PERSON> pemimp
 
 memproses passage 11
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 dr soumokil | position = 1
@@ -1871,7 +1855,7 @@ pada <TIME>tanggal 8 april 1950</TIME> <PERSON>pemerintah</PERSON> menginstruksi
 
 memproses passage 12
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 pemerintah | position = 1
@@ -1950,7 +1934,7 @@ pada <TIME>tanggal 5 agustus 1950</TIME> secara tiba-tiba pasukan knil / kl meny
 
 memproses passage 12
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 letkol soeharto | position = 22
@@ -2017,7 +2001,7 @@ pada <TIME>tanggal 8 agustus 1950</TIME> anggota knil menerima syarat-syarat yan
 
 memproses passage 12
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 letkol soeharto | position = 7
@@ -2048,7 +2032,7 @@ pada <TIME>tanggal 8 agustus 1950</TIME> anggota knil menerima syarat-syarat yan
 
 memproses passage 13
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 letkol soeharto | position = 7
@@ -2079,7 +2063,7 @@ pemberontakan prri dan permesta pemberontakan pemerintah revolusioner republik i
 
 memproses passage 13
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 letkol achmad husein | position = 10
@@ -2142,7 +2126,7 @@ pemberontakan prri ini diawali dengan adanya hubungan yang tidak harmonic antara
 
 memproses passage 13
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 pemerintah pusat | position = 5
@@ -2177,7 +2161,7 @@ mereka menganggap bahwa alokasi biaya pembangunan dari <PERSON>pusat</PERSON> di
 
 memproses passage 13
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 title : gangguan keamanan dalam negeri
 list jawaban dan posisi dalam passage
 pusat | position = 4
@@ -2217,7 +2201,7 @@ doc rank = 1
 total Score = 3
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = kolonel kawilarang
@@ -2227,7 +2211,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = mayor achmad wiranata
@@ -2237,7 +2221,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = letkol slamet riyadi
@@ -2247,7 +2231,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = mayor suryo subandrio
@@ -2257,7 +2241,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = letkol suprapto sukowati
@@ -2267,7 +2251,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = letkol achmad husein
@@ -2277,47 +2261,47 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = dr christian robert stevenson
 passage rank = 3
 distance = 1
-doc rank = 3
-total Score = 7
+doc rank = 2
+total Score = 6
 frequency = 1
 order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 document Title = ancaman disintegrasi bangsa
 
 this.answer = kolonel ahmad husen
 passage rank = 4
 distance = 1
-doc rank = 3
-total Score = 8
+doc rank = 2
+total Score = 7
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 document Title = ancaman disintegrasi bangsa
 
 this.answer = dn aidit
 passage rank = 4
 distance = 1
-doc rank = 3
-total Score = 8
+doc rank = 2
+total Score = 7
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 document Title = ancaman disintegrasi bangsa
 
 this.answer = dr christian robert stevenson
 passage rank = 5
 distance = 1
-doc rank = 5
-total Score = 11
+doc rank = 3
+total Score = 9
 frequency = 1
 order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
 document Title = perjuangan mempertahankan kemerdekaan dan ancaman disintegrasi
 
 this.answer = dr
@@ -2327,7 +2311,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = dr
@@ -2337,17 +2321,17 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = 7 perwira tinggi
 passage rank = 4
 distance = 4
-doc rank = 3
-total Score = 11
+doc rank = 2
+total Score = 10
 frequency = 1
 order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 document Title = ancaman disintegrasi bangsa
 
 this.answer = letkol slamet riyadi
@@ -2357,27 +2341,27 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 this.answer = dr christian robert stevenson
 passage rank = 3
 distance = 6
-doc rank = 3
-total Score = 12
+doc rank = 2
+total Score = 11
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
 document Title = ancaman disintegrasi bangsa
 
 this.answer = dr christian robert stevenson
 passage rank = 5
 distance = 6
-doc rank = 5
-total Score = 16
+doc rank = 3
+total Score = 14
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
 document Title = perjuangan mempertahankan kemerdekaan dan ancaman disintegrasi
 
 this.answer = mr syafruddin prawiranegara
@@ -2387,7 +2371,7 @@ doc rank = 1
 total Score = 19
 frequency = 1
 order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
 document Title = gangguan keamanan dalam negeri
 
 

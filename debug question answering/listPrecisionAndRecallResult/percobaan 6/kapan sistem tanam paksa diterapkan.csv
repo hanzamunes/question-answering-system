@@ -1,12 +1,12 @@
 rank,document,verdict,Precision,Recall
-1,dok24.txt,WA,0.0,0.0
-2,dok95.txt,WA,0.0,0.0
-3,dok79.txt,WA,0.0,0.0
-4,dok8.txt,WA,0.0,0.0
-5,dok28.txt,WA,0.0,0.0
-6,dok99.txt,AC,0.16666666666666666,0.25
-7,dok131.txt,AC,0.2857142857142857,0.5
-8,dok60.txt,AC,0.375,0.75
-9,dok388.txt,WA,0.3333333333333333,0.75
-10,dok188.txt,AC,0.4,1.0
-average precision,0.15607142857142856
+1,dok270.txt,WA,0.0,0.0
+2,dok188.txt,AC,0.5,0.25
+3,dok131.txt,AC,0.6666666666666666,0.5
+4,dok60.txt,AC,0.75,0.75
+5,dok229.txt,WA,0.6,0.75
+6,dok348.txt,WA,0.5,0.75
+7,dok28.txt,WA,0.42857142857142855,0.75
+8,dok99.txt,AC,0.5,1.0
+9,dok271.txt,WA,0.4444444444444444,1.0
+10,dok327.txt,WA,0.4,1.0
+average precision,0.47896825396825393

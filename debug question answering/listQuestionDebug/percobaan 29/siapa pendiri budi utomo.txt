@@ -1,109 +1,109 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok139.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok68.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok229.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok348.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok69.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok271.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok327.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok144.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok281.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok234.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok220.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok104.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok33.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok328.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok197.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok128.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok57.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok92.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok161.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok28.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok99.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok211.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok354.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok110.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok39.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok106.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok35.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok361.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok292.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok284.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok168.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok226.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok320.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok321.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok170.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok299.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok191.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok326.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok225.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok370.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok292.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok229.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok348.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok1.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok72.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok131.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok28.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok60.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok99.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok5.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok76.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok330.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok208.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok12.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok83.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok391.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok13.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok84.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok333.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok375.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok180.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok382.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok239.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok246.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok237.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok313.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok137.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok254.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok355.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok387.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok66.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok295.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok344.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok233.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok304.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok117.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok152.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok282.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok340.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok358.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok361.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok392.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok46.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok115.txt
 
 
 query token : 
 diri budi utomo 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 title : sejarah budi utomo
 passage 1 score = 8.5
 sentence 1: sejarah budi utomo – budi utomo kehadiran budi utomo pada tanggal 20 mei 1908 menandai permulaan pergerakan nasional di indonesia .
@@ -166,7 +166,7 @@ sentence 3: rajiman memandang bahwa bangsa barat lebih cerdas daripada bangsa ti
 sentence 4: sebaliknya , cipto berpandangan bahwa bangsa timur tidak lebih bodoh jika dibandingkan dengan bangsa barat , masalahnya hanya terletak pada kesempatan saja .
 sentence 5: oleh karena itu , pendidikan bangsa indonesia harus bisa lebih ditingkatkan dengan cara memanfaatkan pendidikan barat .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 title : budi utomo
 passage 1 score = 8.5
 sentence 1: budi utomo kehadiran budi utomo pada tanggal 20 mei 1908 menandai permulaan pergerakan nasional di indonesia .
@@ -229,7 +229,73 @@ sentence 3: rajiman memandang bahwa bangsa barat lebih cerdas daripada bangsa ti
 sentence 4: sebaliknya , cipto berpandangan bahwa bangsa timur tidak lebih bodoh jika dibandingkan dengan bangsa barat , masalahnya hanya terletak pada kesempatan saja .
 sentence 5: oleh karena itu , pendidikan bangsa indonesia harus bisa lebih ditingkatkan dengan cara memanfaatkan pendidikan barat .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 2 score = 8.5
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+passage 3 score = 8.0
+sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
+sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
+sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
+sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+passage 4 score = 7.333333333333333
+sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
+sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
+sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
+sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+passage 1 score = 6.833333333333333
+sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
+sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
+sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
+sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
+sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+passage 5 score = 6.5
+sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
+sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
+sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
+sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 2 score = 8.5
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+passage 3 score = 8.0
+sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
+sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
+sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
+sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+passage 4 score = 7.333333333333333
+sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
+sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
+sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
+sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+passage 1 score = 6.833333333333333
+sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
+sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
+sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
+sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
+sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+passage 5 score = 6.5
+sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
+sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
+sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
+sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 1 score = 8.5
 sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
@@ -292,133 +358,133 @@ sentence 3: soekarno pada tahun 1925 telah mendorong para pemimpin lainnya untuk
 sentence 4: pni didirikan di bandung pada tanggal 4 juli 1927 oleh 8 pemimpin , yakni dr. cipto mangunkusumo , ir .
 sentence 5: anwari , mr. sartono , mr. iskak , mr. sunaryo , mr. budiarto , dr. samsi , dan ir .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-passage 1 score = 8.5
+passage 1 score = 7.5
 sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
 sentence 2: budi utomo organisasi budi utomo ( bu ) didirikan pada tanggal 20 mei 1908 oleh para mahasiswa stovia di batavia dengan sutomo sebagai ketuanya .
 sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo yang sebelumnya telah berkeliling jawa untuk menawarkan idenya membentuk studiefounds .
 sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
 sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
-passage 3 score = 8.5
+passage 3 score = 7.5
 sentence 1: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
 sentence 2: untuk mengonsolidasi diri ( dengan dihadiri 7 cabangnya ) , budi utomo mengadakan kongres yang pertama di yogyakarta pada tanggal 3-5 oktober 1908 .
 sentence 3: kongres memutuskan hal-hal sebagai berikut .
 sentence 4: 1 ) budi utomo tidak ikut dalam mengadakan kegiatan politik .
 sentence 5: 2 ) kegiatan budi utomo terutama ditujukan pada bidang pendidikan dan kebudayaan .
-passage 5 score = 8.5
+passage 5 score = 7.5
 sentence 1: sampai dengan akhir tahun 1909 , telah berdiri 40 cabang budi utomo dengan jumlah anggota mencapai 10.000 orang .
 sentence 2: akan tetapi , dengan adanya kongres tersebut tampaknya terjadi pergeseran pimpinan dari generasi muda ke generasi tua .
 sentence 3: banyak anggota muda yang menyingkir dari barisan depan , dan anggota budi utomo kebanyakan dari golongan priayi dan pegawai negeri .
 sentence 4: dengan demikian , sifat protonasionalisme dari para pemimpin yang tampak pada awal berdirinya budi utomo terdesak ke belakang .
 sentence 5: strategi perjuangan bu pada dasarnya bersifat kooperatif .
-passage 21 score = 8.5
+passage 21 score = 7.5
 sentence 1: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
 sentence 2: 5 .
 sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh golongan tua ( kaum priayi dan pegawai negeri ) sehingga para pemuda kecewa dan keluar dari organisasi tersebut .
 sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
 sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
-passage 43 score = 8.5
+passage 43 score = 7.5
 sentence 1: siti walidah ahmad dahlan ( 1917 ) .
 sentence 2: tujuannya untuk memajukan pendidikan dan keagamaan kaum wanita .
 sentence 3: 5 ) organisasi kewanitaan lain yang berdiri cukup banyak , misalnya pawiyatan wanito di magelang ( 1915 ) , wanito susilo di pemalang ( 1918 ) , wanito rukun santoso di malang , budi wanito di solo , putri budi sejati di surabaya ( 1919 ) , wanito mulyo di yogyakarta ( 1920 ) , wanito utomo dan wanito katolik di yogyakarta ( 1921 ) , dan wanito taman siswa ( 1922 ) .
 sentence 4: organisasi wanita juga muncul di sulawesi selatan dengan nama gorontalosche mohammadaanche vrouwenvereeniging .
 sentence 5: di ambon dikenal dengan nama ina tani yang lebih condong ke politik .
-passage 6 score = 8.166666666666668
+passage 6 score = 7.166666666666667
 sentence 1: strategi perjuangan bu pada dasarnya bersifat kooperatif .
 sentence 2: mulai tahun 1912 dengan tampilnya notodirjo sebagai ketua menggantikan r.t. notokusumo , budi utomo ingin mengejar ketinggalannya .
 sentence 3: akan tetapi , hasilnya tidak begitu besar karena pada saat itu telah muncul organisasi-organisasi nasional lainnya , seperti sarekat islam ( si ) dan indiche partij ( ip ) .
 sentence 4: namun demikian , budi utomo tetap mempunyai andil dan jasa yang besar dalam sejarah pergerakan nasional , yakni telah membuka jalan dan memelopori gerakan kebangsaan indonesia .
 sentence 5: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
-passage 12 score = 8.166666666666668
+passage 12 score = 7.166666666666667
 sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
 sentence 2: 1 ) kelompok nasionalis religius ( nasionalis keagamaan ) yang dikenal dengan sarekat islam putih dengan asas perjuangan islam di bawah pimpinan h.o.s. cokroaminoto .
 sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam merah dengan haluan sosialis kiri di bawah pimpinan semaun dan darsono .
 sentence 4: 3 .
 sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
-passage 13 score = 8.166666666666668
+passage 13 score = 7.166666666666667
 sentence 1: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
 sentence 2: organisasi ini mempunyai cita-cita untuk menyatukan semua golongan yang ada di indonesia , baik golongan indonesia asli maupun golongan indo , cina , arab , dan sebagainya .
 sentence 3: mereka akan dipadukan dalam kesatuan bangsa dengan membutuhkan semangat nasionalisme indonesia .
 sentence 4: cita-cita indische partij banyak disebar-luaskan melalui surat kabar de expres .
 sentence 5: di samping itu juga disusun program kerja sebagai berikut : 1 ) meresapkan cita-cita nasional hindia ( indonesia ) .
-passage 22 score = 8.166666666666668
+passage 22 score = 7.166666666666667
 sentence 1: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
 sentence 2: trikoro dharmo , artinya tiga tujuan mulia , yakni sakti , budi , dan bakti .
 sentence 3: tujuan perkumpulan ini adalah sebagai berikut : 1 ) mempererat tali persaudaraan antar siswa-siswi bumi putra pada sekolah menengah dan perguruan kejuruan ; 2 ) menambah pengetahuan umum bagi para anggotanya ; 3 ) membangkitkan dan mempertajam peranan untuk segala bahasa dan budaya .
 sentence 4: tujuan tersebut sebenarnya baru merupakan tujuan perantara .
 sentence 5: adapun tujuan yang sebenarnya adalah seperti apa yang termuat dalam majalah trikoro dharmo yakni mencapai jawa raya dengan jalan memperkokoh rasa persatuan antara pemuda-pemuda jawa , sunda , madura , bali , dan lombok .
-passage 32 score = 8.166666666666668
+passage 32 score = 7.166666666666667
 sentence 1: 8 .
 sentence 2: partai nasional indonesia ( pni ) algemene studie club di bandung yang didirikan oleh ir .
 sentence 3: soekarno pada tahun 1925 telah mendorong para pemimpin lainnya untuk mendirikan partai politik , yakni partai nasional indonesia ( pni ) .
 sentence 4: pni didirikan di bandung pada tanggal 4 juli 1927 oleh 8 pemimpin , yakni dr. cipto mangunkusumo , ir .
 sentence 5: anwari , mr. sartono , mr. iskak , mr. sunaryo , mr. budiarto , dr. samsi , dan ir .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
 title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-passage 24 score = 8.5
+passage 24 score = 7.5
 sentence 1: gerakan turki muda memberikan pengaruh politis bagi pergerakan bangsa indonesia sebab mengarah pada pembaruan-pembaruan dan modernisasi .
 sentence 2: b. perkembangan pergerakan nasional masa pergerakan nasional di indonesia ditandai dengan berdirinya organisasi-organisasi pergerakan .
 sentence 3: masa pergerakan nasional ( 1908 - 1942 ) , dibagi dalam tiga tahap berikut .
 sentence 4: 1 .
 sentence 5: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
-passage 25 score = 8.5
+passage 25 score = 7.5
 sentence 1: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
 sentence 2: 2 .
 sentence 3: masa radikal/nonkooperasi ( 1920 - 1930 ) , berdiri organisasi seperti partai komunis indonesia ( pki ) , perhimpunan indonesia ( pi ) , dan partai nasional indonesia ( pni ) .
 sentence 4: 3 .
 sentence 5: masa moderat/kooperasi ( 1930 - 1942 ) , berdiri organisasi seperti parindra , partindo , dan gapi .
-passage 26 score = 8.5
+passage 26 score = 7.5
 sentence 1: masa moderat/kooperasi ( 1930 - 1942 ) , berdiri organisasi seperti parindra , partindo , dan gapi .
 sentence 2: di samping itu juga berdiri organisasi keagamaan , organisasi pemuda , dan organisasi perempuan .
 sentence 3: 1 .
 sentence 4: budi utomo ( bu ) pada tahun 1906 mas ngabehi wahidin sudirohusodo , merintis mengadakan kampanye menghimpun dana pelajar ( studie fund ) di kalangan priyayi di pulau jawa .
 sentence 5: upaya dr. wahidin ini bertujuan untuk meningkatkan martabat rakyat dan membantu para pelajar yang kekurangan dana .
-passage 71 score = 8.5
+passage 71 score = 7.5
 sentence 1: peranan pni dalam pergerakan nasional indonesia sangat besar .
 sentence 2: menyadari perlunya pernyataan segala potensi rakyat , pni memelopori berdirinya permufakatan perhimpunan-perhimpunan politik kebangsaan indonesia ( pppki ) .
 sentence 3: pppki diikuti oleh psii ( partai sarekat islam indonesia ) , budi utomo , pasundan , sumatranen bond , kaum betawi , indonesische studi club , dan algemeene studie club .
 sentence 4: berikut ini ada dua jenis tindakan yang dilaksanakan untuk memperkokoh diri dan berpengaruh di masyarakat .
 sentence 5: 1 .
-passage 99 score = 8.5
+passage 99 score = 7.5
 sentence 1: c. membangkitkan dan mempertajam bahasa dan budaya indonesia .
 sentence 2: organisasi kepemudaan lainnya yang bersifat kedaerahan banyak bermunculan seperti pasundan , jong sumatranen bond , jong minahasa , jong batak , jong ambon , jong celebes , timorees ver bond , pppi ( perhimpunan pelajar pelajar indonesia ) , pemuda indonesia , jong islamienten bond , kepanduan , dan sebagainya .
 sentence 3: di samping gerakan para pemuda , kaum wanita juga tidak mau ketinggalan .
 sentence 4: pergerakan wanita dipelopori oleh r.a.kartini dari jepara dengan mendirikan sekolah kartini .
 sentence 5: perkumpulan wanita yang didirikan sebelum tahun 1920 antara lain putri mardika yang didirikan atas bantuan budi utomo .
-passage 30 score = 8.166666666666668
+passage 30 score = 7.166666666666667
 sentence 1: d. menyusun pengurus besar organisasi yang diketuai oleh r.t. tirtokusumo .
 sentence 2: e. merumuskan tujuan utama budi utomo yaitu kemajuan yang selaras untuk negara dan bangsa .
 sentence 3: terpilihnya r.t. tirtokusumo yang seorang bupati sebagai ketua rupanya dimaksudkan agar lebih memberikan kekuatan pada budi utomo .
 sentence 4: kedudukan bupati memberi dampak positif dalam rangka menggalang dana dan keanggotaan dari budi utomo .
 sentence 5: untuk usaha memantapkan keberadaan budi utomo diusahakan untuk segera mendapatkan badan hukum dari pemerintah belanda .
-passage 33 score = 8.166666666666668
+passage 33 score = 7.166666666666667
 sentence 1: berikut ini ada beberapa faktor yang menyebabkan semakin lambannya budi utomo .
 sentence 2: a. budi utomo cenderung memajukan pendidikan untuk kalangan priyayi daripada penduduk umumnya .
 sentence 3: b. lebih mementingkan pemerintah kolonial belanda dari pada kepentingan rakyat indonesia .
 sentence 4: c. menonjolnya kaum priyayi yang lebih mengutamakan jabatan menyebabkan kaum terpelajar tersisih .
 sentence 5: ketika meletus perang dunia i tahun 1914 , budi utomo mulai terjun dalam bidang politik .
-passage 35 score = 8.166666666666668
+passage 35 score = 7.166666666666667
 sentence 1: c. mengirimkan komite indie weerbaar ke belanda untuk pertahanan hindia .
 sentence 2: d. ikut duduk dalam volksraad ( dewan rakyat ) .
 sentence 3: e. membentuk komite nasional untuk menghadapi pemilihan anggota volksraad .
 sentence 4: budi utomo mampu menerbitkan majalah bulanan goeroe desa yang memiliki kiprah masih terbatas di kalangan penduduk pribumi .
 sentence 5: sejalan dengan kemerosotan aktivitas dan dukungan pribumi pada budi utomo , maka pada tahun 1935 budi utomo mengadakan fusi ke dalam partai indonesia raya ( parindra ) .
-passage 66 score = 8.166666666666668
+passage 66 score = 7.166666666666667
 sentence 1: rapat pendirian partai ini dihadiri ir .
 sentence 2: soekarno , dr. cipto mangunkusumo , soedjadi , mr. iskaq tjokrodisuryo , mr. budiarto , dan mr. soenarjo .
 sentence 3: pada awal berdirinya , pni berkembang sangat pesat karena didorong oleh faktor-faktor berikut .
 sentence 4: a. pergerakan yang ada lemah sehingga kurang bisa menggerakkan massa .
 sentence 5: b. pki sebagai partai massa telah dilarang .
-passage 76 score = 8.166666666666668
+passage 76 score = 7.166666666666667
 sentence 1: namun di antara keduanya terdapat perbedaan dalam hal strategi perjuangan .
 sentence 2: pni baru lebih mengutaman pendidikan politik dan sosial , sedangkan partindo mengutamakan aksi massa sebagai senjata yang tepat untuk mencapai kemerdekaan .
 sentence 3: 7 .
 sentence 4: permufakatan perhimpunan-perhimpunan politik kebangsaan indonesia ( pppki ) pppki dibentuk di bandung pada tanggal 17 - 18 desember 1927 .
 sentence 5: beranggotakan organisasi-organisasi seperti partai sarekat islam indonesia ( psii ) , budi utomo ( bu ) , pni , pasundan , sumatranen bond , kaum betawi , dan kaum studi indonesia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 passage 1 score = 7.5
 sentence 1: sejarah organisasi dalam bidang politik pada masa pergerakan – pada kesempatan ini admin pengertian sejarah akan berbagi informasi mengenai sejarah organisasi dalam bidang politik pada masa pergerakan .
@@ -481,186 +547,132 @@ sentence 3: perhimpunan bangsa indonesia ( pbi ) berdiri tahun 1935 .
 sentence 4: pbi didirikan di surabaya oleh dr. sutomo .
 sentence 5: selanjutnya pbi disatukan menjadi parindra yang lahir pada bulan desember 1935 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-title : upaya mempersiapkan kemerdekaan indonesia
-passage 1 score = 6.833333333333333
-sentence 1: upaya mempersiapkan kemerdekaan indonesia - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada 1 maret 1945 jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) .
-sentence 2: badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka .
-sentence 3: anggota dari bupki terdiri atas 60 orang tokoh bangsa indonesia dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh krt radjiman widyodiningrat dan wakil ketua r. surono dan seorang lagi orang jepang .
-sentence 4: bpupki diresmikan pada tanggal 29 mei 1945 .
-sentence 5: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
-passage 2 score = 5.5
-sentence 1: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
-sentence 2: tokoh-tokoh yang mengusulkan dasar negara ini , yakni : mr. muh .
-sentence 3: yamin pada sidang tanggal 29 mei 1945 , mr. muh .
-sentence 4: yamin mengajukan lima rancangan dasar negara indonesia , yakni : peri kebangsaan peri kemanusiaan peri ketuhanan peri kerakyatan kesejahteraan rakyat prof. dr. supomo pada sidang tanggal 31 mei 1945 , prof. dr. supomo mengajukan lima rancangan dasar negara , yakni : persatuan kekeluargaan mufakat dan demokrasi musyawarah keadilan sosial ir .
-sentence 5: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
-passage 4 score = 5.5
-sentence 1: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
-sentence 2: panitia sembilan ini menghasilkan dokumen yang berisi asas dan tujuan indonesia merdeka .
-sentence 3: dokumen ini lebih dikenal dengan nama piagam djakarta , yang isinya sebagai berikut : ketuhanan dengan berkewajiban menjalankan syariat-syariat islam bagi para pemeluknya .
-sentence 4: kemanusian yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan atau perwakilan keadilan sosial bagi seluruh rakyat indonesia .
-sentence 5: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
-passage 6 score = 5.333333333333333
-sentence 1: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
-sentence 2: landasan dasar internasional piagam atlantik ( 14 agustus 1941 ) yang ditanda tangani oleh franklin delano roosevelt ( presiden as ) dengan winston churchill ( pm inggris ) .
-sentence 3: yang berisi : tidak boleh ada perluasan daerah tampa persetujuan dari penduduk asli .
-sentence 4: setiap bangsa berhak menentukan dan menetapkan bentuk pemerintahannya sendiri .
-sentence 5: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
-passage 7 score = 5.333333333333333
-sentence 1: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
-sentence 2: piagam san fransisco , merupakan piagam pbb yang diresmikan dan ditandatangani oleh 50 negara sebagai negara yang pertama menjadi anggotanya .
-sentence 3: dalam piagam pbb ini disebutkan : “ … kami akan meneguhkan keyakinan akan dasar-dasar hak manusia sebagai manusia sesuai dengan harkat dan derajat manusia berdasarkan atas hak-hak yang sama … .
-sentence 4: serta berusaha memajukan rakyat dan tingkat kehidupan yang lebih baik dalam suasana kemerdekaan yang lebih luas ” .
-sentence 5: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
-passage 8 score = 5.333333333333333
-sentence 1: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
-sentence 2: maka berdasarkan piagam tersebut pula , proklamasi kemerdekaan indonesia memiliki kedudukan yang kuat , baik secara nasional maupun internasional .
-sentence 3: [ gs ]
-passage 3 score = 5.0
-sentence 1: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
-sentence 2: namun pada tanggal 22 juni 1945 , sembilan orang anggota yaitu ir .
-sentence 3: soekarno , drs. moch .
-sentence 4: hatta , mr. muh .
-sentence 5: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
-passage 5 score = 0.0
-sentence 1: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
-sentence 2: adapun pokok-pokok isi pembukaan uud 1945 : bahwa kemerdekaan itu adalah hak segala bangsa … .
-sentence 3: dan perjuangan kemerdekaan indonesia telah sampailah kepada saat yang berbahagia … .
-sentence 4: atas berkat rahmat allah yang maha kuasa … kemudian daripada itu untuk membentuk suatu pemerintahan negara indonesia … .
-sentence 5: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok139.txt
-title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
-passage 2 score = 7.5
-sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
-sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
-sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
-sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
-sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
-passage 3 score = 7.0
-sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
-sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
-sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
-sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
-sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
-passage 4 score = 6.333333333333333
-sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
-sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
-sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
-sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
-sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
-passage 1 score = 5.833333333333333
-sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
-sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
-sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
-sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
-sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
-passage 5 score = 5.5
-sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
-sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
-sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
-sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
-sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok68.txt
-title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
-passage 2 score = 7.5
-sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
-sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
-sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
-sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
-sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
-passage 3 score = 7.0
-sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
-sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
-sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
-sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
-sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
-passage 4 score = 6.333333333333333
-sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
-sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
-sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
-sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
-sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
-passage 1 score = 5.833333333333333
-sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
-sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
-sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
-sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
-sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
-passage 5 score = 5.5
-sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
-sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
-sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
-sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
-sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok229.txt
-title : pengaruh revolusi industri di indonesia
-passage 9 score = 6.833333333333333
-sentence 1: sementara itu , gerakan-gerakan humanis yang berkembang di negeri belanda mendorong diberlakukannya politik balas budi terhadap bangsa indonesia .
-sentence 2: salah satu politik balas budi tersebut adalah program yang dikemukakan oleh mr. c. th .
-sentence 3: van deventer .
-sentence 4: gagasannya yang diterbitkan oleh majalah de gids pada tahun 1899 memaparkan perlunya bangsa belanda melakukan balas budi terhadap indonesia .
-sentence 5: balas budi dilakukan dengan jalan membantu bangsa indonesia untuk mencerdaskan dan memakmurkan rakyatnya .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+title : keragaman ideologi pergerakan kebangsaan indonesia
 passage 8 score = 6.333333333333333
-sentence 1: akan tetapi dengan pembangunan prasarana tersebut , terutama pembangunan jaringan jalan raya telah menimbulkan pengaruh bagi tumbuhnya mobilitas penduduk .
-sentence 2: pembangunan jalan raya dan kereta api memungkinkan pertumbuhan dan hubungan antarkota secara cepat .
-sentence 3: dampaknya adalah lahirnya kota-kota baru di daerah pedalaman seperti malang , bandung , sukabumi , dan sebagainya .
-sentence 4: lahirnya kota-kota baru tersebut memicu pertumbuhan urbanisasi yaitu gerak perpindahan penduduk dari desa ke kota .
-sentence 5: sementara itu , gerakan-gerakan humanis yang berkembang di negeri belanda mendorong diberlakukannya politik balas budi terhadap bangsa indonesia .
+sentence 1: kelas atas ini mendapat berbagai hak istimewa untuk diterapkan kepada rakyat kecil di bawah perlindungan kekuasaan kolonial belanda .
+sentence 2: kelas kedua atau kelas menengah adalah golongan timur asing , seperti cina dan arab , sedangkan kelas ketiga atau rendah adalah pribumi .
+sentence 3: kondisi pendidikan .
+sentence 4: sampai akhir abad ke-19 masalah pendidikan bangsa indonesia tidaklah mendapat perhatian dari pemerintah hindia-belanda .
+sentence 5: beberapa sekolah yang didirikan hanya ditujukan untuk pemenuhan kebutuhan tenaga kerja yang bisa membaca dan menulis saja .
+passage 9 score = 6.333333333333333
+sentence 1: beberapa sekolah yang didirikan hanya ditujukan untuk pemenuhan kebutuhan tenaga kerja yang bisa membaca dan menulis saja .
+sentence 2: begitu pula pada masa ekonomi liberal , sekolah yang didirikan hanya untuk mendidik para mantri cacar atau kolera .
+sentence 3: hal tersebut dilakukan karena pada masa itu , kedua penyakit tersebut sering menjadi wabah di beberapa daerah .
+sentence 4: pada awal abad ke-20 dengan penerapan politik etis , barulah pendidikan mendapat perhatian dari pemerintah hindia-belanda .
+sentence 5: sekolah-sekolah yang didirikan disesuaikan dengan status sosial yang ada dalam masyarakat dengan sistem pendidikan yang tidak jauh dari kepentingan kolonial .
 passage 10 score = 6.333333333333333
-sentence 1: balas budi dilakukan dengan jalan membantu bangsa indonesia untuk mencerdaskan dan memakmurkan rakyatnya .
-sentence 2: terdapat tiga cara yang dapat dilakukan untuk mewujudkan hal tersebut , yaitu : 1 .
-sentence 3: memajukan pengajaran ( edukasi ) ; 2 .
-sentence 4: memperbaiki pengairan ( irigasi ) ; 3 .
-sentence 5: melakukan perpindahan penduduk ( transmigrasi ) .
-passage 17 score = 5.833333333333333
-sentence 1: perkembangan paham-paham baru seperti nasionalisme , demokrasi , liberalisme , sosialisme serta penegakan hak-hak asasi manusia menumbuhkan keinginan untuk mendobrak kondisi pada saat itu dengan cara menegakkan kemerdekaan bagi bangsanya .
-sentence 2: kita akan lihat bahwa munculnya organisasiorganisasi pergerakan nasional pada tahun 1908 dipelopori oleh golongan cendekiawan nasionalis , seperti wahidin sudirohusodo , sutomo , tjipto mangunkusumo , ki hadjar dewantara , dan lain-lain adalah orang-orang nasionalis yang mendapatkan pencerahan sebagai akibat proses pendidikan barat yang mereka terima .
-sentence 3: dengan kata lain , tidak akan muncul organisasi pergerakan nasional apabila tidak diawali dengan penerapan pendidikan barat yang mereka terima pada saat itu .
-sentence 4: [ gs ]
-passage 2 score = 5.5
-sentence 1: selain karena desakan kebutuhan aman yang menuntut diikutinya arus revolusi industri , muncul pula kritikan dari kaum humanis dan demokrat di negeri belanda tentang pemberlakuan sistem tanam paksa di indonesia .
-sentence 2: desakandesakan tersebut pada akhirnya mendorong untuk dihapuskannya sistem tanam paksa pada tahun 1870 .
-sentence 3: sebagai penggantinya , diterapkanlah sistem ekonomi terbuka di hindia belanda .
-sentence 4: dengan sistem ekonomi tersebut , dimulailah aman liberalisasi dalam perekonomian indonesia yang ditandai dengan derasnya arus pemasukan modal yang ditanamkan oleh pengusaha-pengusaha asing .
-sentence 5: sistem ekonomi terbuka memungkinkankan siapa saja dapat menanamkan modalnya di indonesia , tidak hanya orang-orang belanda saja .
-passage 3 score = 5.5
-sentence 1: sistem ekonomi terbuka memungkinkankan siapa saja dapat menanamkan modalnya di indonesia , tidak hanya orang-orang belanda saja .
-sentence 2: akibatnya , pengusaha-pengusaha di luar belanda seperti inggris , perancis , belgia , amerika serikat , cina , dan jepang turut menanamkan modalnya di indonesia .
-sentence 3: tentu saja penanaman modal tersebut dilandasi dengan tujuan untuk memperoleh keuntungan sebesar-besarnya .
-sentence 4: kondisi ini pada akhirnya menciptakan cara baru dalam hal penindasan dan pengisapan bangsa indonesia .
-sentence 5: kalau dulu yang melakukan penindasan adalah orang-orang belanda maka pada masa ini indonesia dieksploitasi oleh kaum swasta dan para kapitalis asing lainnya .
-passage 4 score = 5.5
-sentence 1: kalau dulu yang melakukan penindasan adalah orang-orang belanda maka pada masa ini indonesia dieksploitasi oleh kaum swasta dan para kapitalis asing lainnya .
-sentence 2: penanaman modal di indonesia , sebagian besar diarahkan untuk pembangunan perkebunan-perkebunan yang dapat menghasilkan komoditi yang diperlukan bagi bahan dasar industri .
-sentence 3: lalu dibangunlah perkebunanperkebunan yang sebagian besar dibangun di daerah jawa dan sumatera .
-sentence 4: pembangunan perkebunan ini membutuhkan tenaga kerja yang akan digunakan untuk mengurus perkebunan .
-sentence 5: dengan demikian , banyak penduduk yang diangkat menjadi tenaga kerja perkebunan , bahkan untuk perkebunan di sumatera diangkat tenaga kerja yang berasal dari jawa .
-passage 5 score = 5.5
-sentence 1: dengan demikian , banyak penduduk yang diangkat menjadi tenaga kerja perkebunan , bahkan untuk perkebunan di sumatera diangkat tenaga kerja yang berasal dari jawa .
-sentence 2: terjadilan arus transmigrasi dari pulau jawa ke sumatera yang dilakukan secara paksa .
-sentence 3: bahkan ada di antara orang-orang jawa ini yang dikirim ke daerah madagaskar dan suriname .
-sentence 4: eksploitasi yang dilakukan oleh para kapitalis terhadap penduduk indonesia dilakukan dengan gaya baru .
-sentence 5: para pekerja dipaksa untuk bekerja di perkebunan-perkebunan dengan upah yang sangat minim dengan beban kerja yang sangat tinggi .
-passage 11 score = 5.5
-sentence 1: melakukan perpindahan penduduk ( transmigrasi ) .
-sentence 2: ide yang dikemukakan oleh van deventer ini kemudian lebih dikenal dengan politik etis .
-sentence 3: setelah melalui perdebatan yang cukup panjang akhirnya politik etis ini mulai dijalankan di indonesia menurut tafsiran dan kemauan pemerintah kolonial belanda .
-sentence 4: program pendidikan tidak ditujukan untuk mencerdaskan bangsa indonesia , tetapi dilakukan untuk memenuhi kebutuhan akan tenaga administrasi rendahan yang akan ditempatkan di industri-industri perkebunan .
-sentence 5: program irigasi tidak diarahkan untuk peningkatan pertanian penduduk indonesia , tetapi diarahkan untuk menunjang perkebunan-perkebunan milik para kapitalis .
-passage 12 score = 5.5
-sentence 1: program irigasi tidak diarahkan untuk peningkatan pertanian penduduk indonesia , tetapi diarahkan untuk menunjang perkebunan-perkebunan milik para kapitalis .
-sentence 2: sementara itu , program transmigrasi bukan diarahkan untuk pemerataan penduduk dan peningkatan kualitas hidup penduduk indonesia , melainkan untuk memenuhi kebutuhan tenaga kerja di perkebunan-perkebunan milik belanda .
-sentence 3: lambat laun program politik etis ini memberikan manfaat yang sangat besar bagi bangsa indonesia , terutama dalam hal program pendidikan ( edukasi ) .
-sentence 4: program pendidikan yang awalnya ditujukan untuk menghasilkan tenaga administratif rendahan , pada akhirnya semakin berkembang .
-sentence 5: tidak hanya jenjang pendidikan semakin tinggi , tetapi juga menjangkau spesialisasi bidang pendidikan lainnya seperti kedokteran , keguruan , teknik , pertanian , dan sebagainya .
+sentence 1: sekolah-sekolah yang didirikan disesuaikan dengan status sosial yang ada dalam masyarakat dengan sistem pendidikan yang tidak jauh dari kepentingan kolonial .
+sentence 2: melalui pendidikan , para pelajar memperoleh banyak wawasan , terutama mengenai perkembangan yang terjadi di barat , kemudian dibandingkan dengan kondisi bangsa indonesia .
+sentence 3: dari perbandingan itulah lahir kesadaran untuk mengadakan perbaikan nasib bangsa melalui berbagai pergerakan nasional seperti yang terdapat di beberapa negara terjajah lainnya .
+sentence 4: selama menjalani proses pendidikan , para golongan terpelajar ini mendapat wawasan baru tentang berbagai paham-paham baru yang berkembang dan berpengaruh kuat di kawasan eropa dan asia-afrika , seperti nasionalisme , liberalisme , sosialisme , dan demokrasi .
+sentence 5: melalui media pendidikan , wawasan para pelajar mengenai berbagai hal menjadi semakin terbuka , termasuk wawasan tentang berbagai pergerakan nasionalisme yang terjadi di berbagai negara .
+passage 6 score = 5.5
+sentence 1: kondisi ekonomi pada awal abad ke-20 ditandai dengan kemiskinan , kesengsaraan , dan kelaparan yang merajarela .
+sentence 2: semua itu menyebabkan bangsa indonesia banyak yang mengalami berbagai penderitaan , bahkan kematian .
+sentence 3: hal tersebut timbul sebagai akibat adanya pengerukan kekayaan alam dan tenaga manusia secara besar-besaran yang dilakukan oleh kolonial belanda .
+sentence 4: puncak penderitaan rakyat indonesia terjadi ketika ditetapkannya pelaksanaan sistem tanam paksa dan kemudian dilanjutkan pada masa sistem ekonomi liberal .
+sentence 5: kondisi sosial-budaya .
+passage 4 score = 5.0
+sentence 1: sejak kolonial menanamkan kekuasaannya di indonesia , kekuasaan pribumi tradisional yang berada dibawah seorang raja atau sultan sedikit demi sedikit mulai dihapus dan akhirnya hilang sama sekali .
+sentence 2: kekuasaan mulai berganti kepada tangan kolonial .
+sentence 3: raja-raja diangkat dan diberhentikan berdasarkan kebijakan yang dikeluarkan oleh pemerintahan kolonial .
+sentence 4: setiap penguasa lokal yang diangkat dan diberhentikan oleh kolonial pada dasarnya telah terikat oleh kontrak politik yang menyatakan bahwa daerah yang mereka kuasai harus diakui sebagai bagian dari kekuasaan kolonial belanda .
+sentence 5: begitu pula dengan para bupati dan lurah , mereka dijadikan sebagai pegawai negeri yang mendapat gaji dan harus taat terhadap setiap kebijakan yang ditetapkan oleh pemerintahan kolonial .
+passage 11 score = 5.0
+sentence 1: melalui media pendidikan , wawasan para pelajar mengenai berbagai hal menjadi semakin terbuka , termasuk wawasan tentang berbagai pergerakan nasionalisme yang terjadi di berbagai negara .
+sentence 2: selanjutnya para pelajar ini mencoba mencontoh dan menerapkan semangat paham-paham baru tersebut , terutama paham nasionalisme yang telah diperjuangkan oleh negara-negara lain ke dalam perjuangan indonesia .
+sentence 3: melalui paham nasionalisme ini , para pelajar sebagai golongan elit berusaha untuk mengubah pandangan masyarakat yang bersifat kedaerahan menjadi bersifat nasional .
+sentence 4: hal tersebut didorong adanya keyakinan bahwa untuk mencapai keberhasilan cita-cita kemerdekaan indonesia , hanya dapat dicapai apabila ada persatuan dan kesatuan bangsa .
+sentence 5: keyakinan akan semangat persatuan dan kesatuan bangsa tersebut kemudian mereka wujudkan dalam pergerakan nasional , yaitu suatu pergerakan yang bertujuan untuk mencapai indonesia merdeka .
+passage 12 score = 1.6666666666666665
+sentence 1: keyakinan akan semangat persatuan dan kesatuan bangsa tersebut kemudian mereka wujudkan dalam pergerakan nasional , yaitu suatu pergerakan yang bertujuan untuk mencapai indonesia merdeka .
+sentence 2: masa pergerakan nasional ini ditandai dengan lahirnya berbagai organisasi .
+sentence 3: organisasi-organisasi pergerakan tersebut awalnya bersifat sosial-budaya seperti budi utomo dan sosial ekonomi seperti sarekat dagang islam .
+sentence 4: tetapi perkembangan berikutnya , muncul organisasi politik yang jelas-jelas menentang kolonialisme dan imperialisme barat di indonesia .
+sentence 5: organisasi dalam bidang sosial-budaya dan sosial-ekonomi organisasi dalam bidang politik pada masa pergerakan organisasi kepemudaan pada masa pergerakan nasional sarekat islam budi utomo .
+passage 13 score = 1.6666666666666665
+sentence 1: organisasi dalam bidang sosial-budaya dan sosial-ekonomi organisasi dalam bidang politik pada masa pergerakan organisasi kepemudaan pada masa pergerakan nasional sarekat islam budi utomo .
+sentence 2: [ gs ]
+passage 7 score = 1.3333333333333333
+sentence 1: kondisi sosial-budaya .
+sentence 2: pada awal abad ke-20 , pemerintah kolonial menerapkan politik diskriminasi yang didasarkan pada pembagian ras dan golongan yang terdapat dalam masyarakat , bahkan berdasarkan suku bangsa .
+sentence 3: pada masa itu , masyarakat terbagi ke dalam beberapa kelas sosial , yaitu kelas pertama atau kelas atas , kelas kedua , dan kelas ketiga .
+sentence 4: kelas pertama terdiri atas bangsa kulit putih eropa .
+sentence 5: kelas atas ini mendapat berbagai hak istimewa untuk diterapkan kepada rakyat kecil di bawah perlindungan kekuasaan kolonial belanda .
+passage 1 score = 0.0
+sentence 1: keragaman ideologi pergerakan kebangsaan indonesia abad xx merupakan abad kebangkitan dan munculnya nasionalisme di kawasan asia afrika .
+sentence 2: penderitaan rakyat sebagai akibat dari penjajahan bangsa eropa telah mengalami puncaknya .
+sentence 3: proses munculnya paham-paham nasionalisme di eropa dikembangkan di asia .
+sentence 4: dari perkembangan nasionalisme di asia ada yang mempengaruhi perkembangan nasionalisme di indonesia .
+sentence 5: aspek-aspek yang berkembang di asia dipelajari , khususnya dalam menumbuhkan semangat nasionalisme .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+title : sejarah keragaman ideologi pergerakan kebangsaan indonesia
+passage 9 score = 6.333333333333333
+sentence 1: kelas kedua atau kelas menengah adalah golongan timur asing , seperti cina dan arab , sedangkan kelas ketiga atau rendah adalah pribumi .
+sentence 2: 4 .
+sentence 3: kondisi pendidikan .
+sentence 4: sampai akhir abad ke-19 masalah pendidikan bangsa indonesia tidaklah mendapat perhatian dari pemerintah hindia-belanda .
+sentence 5: beberapa sekolah yang didirikan hanya ditujukan untuk pemenuhan kebutuhan tenaga kerja yang bisa membaca dan menulis saja .
+passage 10 score = 6.333333333333333
+sentence 1: beberapa sekolah yang didirikan hanya ditujukan untuk pemenuhan kebutuhan tenaga kerja yang bisa membaca dan menulis saja .
+sentence 2: begitu pula pada masa ekonomi liberal , sekolah yang didirikan hanya untuk mendidik para mantri cacar atau kolera .
+sentence 3: hal tersebut dilakukan karena pada masa itu , kedua penyakit tersebut sering menjadi wabah di beberapa daerah .
+sentence 4: pada awal abad ke-20 dengan penerapan politik etis , barulah pendidikan mendapat perhatian dari pemerintah hindia-belanda .
+sentence 5: sekolah-sekolah yang didirikan disesuaikan dengan status sosial yang ada dalam masyarakat dengan sistem pendidikan yang tidak jauh dari kepentingan kolonial .
+passage 11 score = 6.333333333333333
+sentence 1: sekolah-sekolah yang didirikan disesuaikan dengan status sosial yang ada dalam masyarakat dengan sistem pendidikan yang tidak jauh dari kepentingan kolonial .
+sentence 2: melalui pendidikan , para pelajar memperoleh banyak wawasan , terutama mengenai perkembangan yang terjadi di barat , kemudian dibandingkan dengan kondisi bangsa indonesia .
+sentence 3: dari perbandingan itulah lahir kesadaran untuk mengadakan perbaikan nasib bangsa melalui berbagai pergerakan nasional seperti yang terdapat di beberapa negara terjajah lainnya .
+sentence 4: selama menjalani proses pendidikan , para golongan terpelajar ini mendapat wawasan baru tentang berbagai paham-paham baru yang berkembang dan berpengaruh kuat di kawasan eropa dan asia-afrika , seperti nasionalisme , liberalisme , sosialisme , dan demokrasi .
+sentence 5: melalui media pendidikan , wawasan para pelajar mengenai berbagai hal menjadi semakin terbuka , termasuk wawasan tentang berbagai pergerakan nasionalisme yang terjadi di berbagai negara .
+passage 6 score = 5.5
+sentence 1: 2 .
+sentence 2: kondisi ekonomi .
+sentence 3: kondisi ekonomi pada awal abad ke-20 ditandai dengan kemiskinan , kesengsaraan , dan kelaparan yang merajarela .
+sentence 4: semua itu menyebabkan bangsa indonesia banyak yang mengalami berbagai penderitaan , bahkan kematian .
+sentence 5: hal tersebut timbul sebagai akibat adanya pengerukan kekayaan alam dan tenaga manusia secara besar-besaran yang dilakukan oleh kolonial belanda .
+passage 7 score = 5.5
+sentence 1: hal tersebut timbul sebagai akibat adanya pengerukan kekayaan alam dan tenaga manusia secara besar-besaran yang dilakukan oleh kolonial belanda .
+sentence 2: puncak penderitaan rakyat indonesia terjadi ketika ditetapkannya pelaksanaan sistem tanam paksa dan kemudian dilanjutkan pada masa sistem ekonomi liberal .
+sentence 3: 3 .
+sentence 4: kondisi sosial-budaya .
+sentence 5: pada awal abad ke-20 , pemerintah kolonial menerapkan politik diskriminasi yang didasarkan pada pembagian ras dan golongan yang terdapat dalam masyarakat , bahkan berdasarkan suku bangsa .
+passage 4 score = 5.0
+sentence 1: kondisi politik yang dimaksud adalah kondisi yang berhubungan dengan masalah kekuasaan pemerintahan kolonial .
+sentence 2: sejak kolonial menanamkan kekuasaannya di indonesia , kekuasaan pribumi tradisional yang berada dibawah seorang raja atau sultan sedikit demi sedikit mulai dihapus dan akhirnya hilang sama sekali .
+sentence 3: kekuasaan mulai berganti kepada tangan kolonial .
+sentence 4: raja-raja diangkat dan diberhentikan berdasarkan kebijakan yang dikeluarkan oleh pemerintahan kolonial .
+sentence 5: setiap penguasa lokal yang diangkat dan diberhentikan oleh kolonial pada dasarnya telah terikat oleh kontrak politik yang menyatakan bahwa daerah yang mereka kuasai harus diakui sebagai bagian dari kekuasaan kolonial belanda .
+passage 5 score = 5.0
+sentence 1: setiap penguasa lokal yang diangkat dan diberhentikan oleh kolonial pada dasarnya telah terikat oleh kontrak politik yang menyatakan bahwa daerah yang mereka kuasai harus diakui sebagai bagian dari kekuasaan kolonial belanda .
+sentence 2: begitu pula dengan para bupati dan lurah , mereka dijadikan sebagai pegawai negeri yang mendapat gaji dan harus taat terhadap setiap kebijakan yang ditetapkan oleh pemerintahan kolonial .
+sentence 3: dalam kondisi yang demikianlah wibawa seorang raja , sultan , bupati , dan juga lurah menjadi merosot di mata rakyat .
+sentence 4: mereka dipandang lemah dan tidak mempunyai kekuatan , sehingga menjalankan pemerintahan sesuai dengan keinginan pemerintah kolonial .
+sentence 5: 2 .
+passage 12 score = 5.0
+sentence 1: melalui media pendidikan , wawasan para pelajar mengenai berbagai hal menjadi semakin terbuka , termasuk wawasan tentang berbagai pergerakan nasionalisme yang terjadi di berbagai negara .
+sentence 2: selanjutnya para pelajar ini mencoba mencontoh dan menerapkan semangat paham-paham baru tersebut , terutama paham nasionalisme yang telah diperjuangkan oleh negara-negara lain ke dalam perjuangan indonesia .
+sentence 3: melalui paham nasionalisme ini , para pelajar sebagai golongan elit berusaha untuk mengubah pandangan masyarakat yang bersifat kedaerahan menjadi bersifat nasional .
+sentence 4: hal tersebut didorong adanya keyakinan bahwa untuk mencapai keberhasilan cita-cita kemerdekaan indonesia , hanya dapat dicapai apabila ada persatuan dan kesatuan bangsa .
+sentence 5: keyakinan akan semangat persatuan dan kesatuan bangsa tersebut kemudian mereka wujudkan dalam pergerakan nasional , yaitu suatu pergerakan yang bertujuan untuk mencapai indonesia merdeka .
+passage 13 score = 1.6666666666666665
+sentence 1: keyakinan akan semangat persatuan dan kesatuan bangsa tersebut kemudian mereka wujudkan dalam pergerakan nasional , yaitu suatu pergerakan yang bertujuan untuk mencapai indonesia merdeka .
+sentence 2: masa pergerakan nasional ini ditandai dengan lahirnya berbagai organisasi .
+sentence 3: organisasi-organisasi pergerakan tersebut awalnya bersifat sosial-budaya seperti budi utomo dan sosial ekonomi seperti sarekat dagang islam .
+sentence 4: tetapi perkembangan berikutnya , muncul organisasi politik yang jelas-jelas menentang kolonialisme dan imperialisme barat di indonesia .
+sentence 5: 1 .
+passage 14 score = 1.6666666666666665
+sentence 1: 1 .
+sentence 2: organisasi dalam bidang politik pada masa pergerakan 2 .
+sentence 3: organisasi kepemudaan pada masa pergerakan nasional 3 .
+sentence 4: sarekat islam 4 .
+sentence 5: budi utomo .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 title : sejarah budi utomo
 passage 1 score = 8.5
 sentence 1: sejarah budi utomo – budi utomo kehadiran budi utomo pada tanggal 20 mei 1908 menandai permulaan pergerakan nasional di indonesia .
@@ -669,7 +681,7 @@ sentence 3: pada tempat-tempat yang dikunjungi , ia menganjurkan perluasan penga
 sentence 4: menurutnya , tujuan itu bisa dilakukan tidak hanya dengan menuntut kepada pemerintah , tetapi juga dapat dilaksanakan dengan usaha sendiri , yaitu dengan membentuk dana pelajar ( studiefonds ) .
 sentence 5: hasilnya digunakan untuk membantu pelajar-pelajar yang kurang mampu .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 title : sejarah budi utomo
 passage 3 score = 8.5
 sentence 1: gagasan dan cita-cita tersebut kemudian dituangkan ke dalam suatu bentuk organisasi yang diberi nama budi utomo .
@@ -678,7 +690,7 @@ sentence 3: untuk selanjutnya tanggal 20 mei oleh bangsa indonesia diperingati s
 sentence 4: pada awalnya , organisasi budi utomo hanya bergerak dalam bidang pendidikan dan sosial-budaya , seperti mendirikan sekolah-sekolah dan berusaha memelihara serta memajukan kebudayaan jawa .
 sentence 5: selain itu , budi utomo juga melakukan usaha-usaha untuk meningkatkan perekonomian dan bidang lainnya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 title : sejarah budi utomo
 passage 11 score = 8.5
 sentence 1: masih banyak lagi perubahan yang dialami oleh organisasi budi utomo , terutama dengan mengutamakan pentingnya pengajaran bahasa belanda sebagai syarat untuk diterima menjadi pegawai negeri .
@@ -687,7 +699,7 @@ sentence 3: budi utomo menyadari pentingnya organisasi pergerakan bagi rakyat , 
 sentence 4: dengan demikian , sifat pergerakan budi utomo menjadi pergerakan kerakyatan .
 sentence 5: dibidang politik , budi utomo telah berkembang menjadi sebuah organisasi yang memiliki tujuan dan cita-cita nasional , yakni indonesia merdeka .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 title : budi utomo
 passage 1 score = 8.5
 sentence 1: budi utomo kehadiran budi utomo pada tanggal 20 mei 1908 menandai permulaan pergerakan nasional di indonesia .
@@ -696,7 +708,7 @@ sentence 3: pada tempat-tempat yang dikunjungi , ia menganjurkan perluasan penga
 sentence 4: menurutnya , tujuan itu bisa dilakukan tidak hanya dengan menuntut kepada pemerintah , tetapi juga dapat dilaksanakan dengan usaha sendiri , yaitu dengan membentuk dana pelajar ( studiefonds ) .
 sentence 5: hasilnya digunakan untuk membantu pelajar-pelajar yang kurang mampu .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 title : budi utomo
 passage 3 score = 8.5
 sentence 1: gagasan dan cita-cita tersebut kemudian dituangkan ke dalam suatu bentuk organisasi yang diberi nama budi utomo .
@@ -705,7 +717,7 @@ sentence 3: untuk selanjutnya tanggal 20 mei oleh bangsa indonesia diperingati s
 sentence 4: pada awalnya , organisasi budi utomo hanya bergerak dalam bidang pendidikan dan sosial-budaya , seperti mendirikan sekolah-sekolah dan berusaha memelihara serta memajukan kebudayaan jawa .
 sentence 5: selain itu , budi utomo juga melakukan usaha-usaha untuk meningkatkan perekonomian dan bidang lainnya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 title : budi utomo
 passage 10 score = 8.5
 sentence 1: perhatian budi utomo lebih difokuskan pada reaksi pemerintah hindia-belanda , bukan lagi pada reaksi yang ditunjukkan oleh rakyat .
@@ -714,7 +726,25 @@ sentence 3: pada tahun 1912 , tirtokusumo yang menjabat sebagai ketua budi utomo
 sentence 4: budi utomo menyadari pentingnya organisasi pergerakan bagi rakyat , oleh karenanya sejak tahun 1920 organisasi budi utomo membuka diri untuk menerima anggota dari kalangan rakyat biasa .
 sentence 5: dengan demikian , sifat pergerakan budi utomo menjadi pergerakan kerakyatan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 2 score = 8.5
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 2 score = 8.5
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 1 score = 8.5
 sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
@@ -723,7 +753,7 @@ sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo y
 sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
 sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 3 score = 8.5
 sentence 1: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
@@ -731,24 +761,6 @@ sentence 2: untuk mengonsolidasi diri ( dengan dihadiri 7 cabangnya ) , budi uto
 sentence 3: kongres memutuskan hal-hal sebagai berikut .
 sentence 4: 1 ) budi utomo tidak ikut dalam mengadakan kegiatan politik .
 sentence 5: 2 ) kegiatan budi utomo terutama ditujukan pada bidang pendidikan dan kebudayaan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-passage 5 score = 8.5
-sentence 1: sampai dengan akhir tahun 1909 , telah berdiri 40 cabang budi utomo dengan jumlah anggota mencapai 10.000 orang .
-sentence 2: akan tetapi , dengan adanya kongres tersebut tampaknya terjadi pergeseran pimpinan dari generasi muda ke generasi tua .
-sentence 3: banyak anggota muda yang menyingkir dari barisan depan , dan anggota budi utomo kebanyakan dari golongan priayi dan pegawai negeri .
-sentence 4: dengan demikian , sifat protonasionalisme dari para pemimpin yang tampak pada awal berdirinya budi utomo terdesak ke belakang .
-sentence 5: strategi perjuangan bu pada dasarnya bersifat kooperatif .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-passage 21 score = 8.5
-sentence 1: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
-sentence 2: 5 .
-sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh golongan tua ( kaum priayi dan pegawai negeri ) sehingga para pemuda kecewa dan keluar dari organisasi tersebut .
-sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
-sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
 
 
 Pencarian jawaban
@@ -758,7 +770,7 @@ Pencarian jawaban
 sejarah budi utomo – budi utomo kehadiran budi utomo pada <TIME>tanggal 20 mei 1908</TIME> menandai permulaan pergerakan nasional di <LOCATION>indonesia .</LOCATION> gagasan lahirnya budi utomo diawali dari perjalanan kampanye yang dilakukan oleh <PERSON>dr. wahidin sudirohusodo</PERSON> ke <LOCATION>seluruh pulau jawa .</LOCATION> pada tempat-tempat yang dikunjungi , ia menganjurkan perluasan pengajaran sebagai langkah untuk memajukan kehidupan rakyat . menurutnya , tujuan itu bisa dilakukan tidak hanya dengan menuntut kepada <PERSON>pemerintah</PERSON> , tetapi juga dapat dilaksanakan dengan usaha sendiri , yaitu dengan membentuk dana pelajar ( studiefonds ) . hasilnya digunakan untuk membantu pelajar-pelajar yang kurang mampu .
 
 memproses passage 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 title : sejarah budi utomo
 list jawaban dan posisi dalam passage
 dr wahidin sudirohusodo | position = 22
@@ -973,7 +985,7 @@ tokenwithtagstemmed = kurang
 gagasan dan cita-cita tersebut kemudian dituangkan ke dalam suatu bentuk organisasi yang diberi nama budi utomo . organisasi budi utomo ini didirikan pada <TIME>hari rabu tanggal 20 mei 1908</TIME> dan <PERSON>soetomo</PERSON> terpilih sebagai ketua . untuk selanjutnya tanggal 20 mei oleh <PERSON>bangsa indonesia</PERSON> diperingati sebagai hari kebangkitan nasional . pada awalnya , organisasi budi utomo hanya bergerak dalam bidang pendidikan dan sosial-budaya , seperti mendirikan sekolah-sekolah dan berusaha memelihara serta memajukan kebudayaan jawa . selain itu <PERSON>, budi utomo</PERSON> juga melakukan usaha-usaha untuk meningkatkan perekonomian dan bidang lainnya .
 
 memproses passage 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 title : sejarah budi utomo
 list jawaban dan posisi dalam passage
 soetomo | position = 15
@@ -1197,7 +1209,7 @@ tokenwithtagstemmed = bidang
 masih banyak lagi perubahan yang dialami oleh organisasi budi utomo , terutama dengan mengutamakan pentingnya pengajaran bahasa belanda sebagai syarat untuk diterima menjadi pegawai negeri . pada <TIME>tahun 1912</TIME> , tirtokusumo yang menjabat sebagai ketua budi utomo menyatakan berhenti dari jabatannya , kemudian digantikan oleh <PERSON>noto dirodjo .</PERSON> budi utomo menyadari pentingnya organisasi pergerakan bagi rakyat , oleh karenanya sejak <TIME>tahun 1920</TIME> <PERSON>organisasi budi utomo</PERSON> membuka diri untuk menerima anggota dari kalangan rakyat biasa . dengan demikian , sifat pergerakan budi utomo menjadi pergerakan kerakyatan . dibidang politik , budi utomo telah berkembang menjadi sebuah organisasi yang memiliki tujuan dan cita-cita nasional , yakni indonesia merdeka .
 
 memproses passage 11
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 title : sejarah budi utomo
 list jawaban dan posisi dalam passage
 noto dirodjo | position = 27
@@ -1455,7 +1467,7 @@ tokenwithtagstemmed = merdeka
 budi utomo kehadiran budi utomo pada <TIME>tanggal 20 mei 1908</TIME> menandai permulaan pergerakan nasional di <LOCATION>indonesia .</LOCATION> gagasan lahirnya budi utomo diawali dari perjalanan kampanye yang dilakukan oleh <PERSON>dr. wahidin sudirohusodo</PERSON> ke <LOCATION>seluruh pulau jawa .</LOCATION> pada tempat-tempat yang dikunjungi , ia menganjurkan perluasan pengajaran sebagai langkah untuk memajukan kehidupan rakyat . menurutnya , tujuan itu bisa dilakukan tidak hanya dengan menuntut kepada <PERSON>pemerintah</PERSON> , tetapi juga dapat dilaksanakan dengan usaha sendiri , yaitu dengan membentuk dana pelajar ( studiefonds ) . hasilnya digunakan untuk membantu pelajar-pelajar yang kurang mampu .
 
 memproses passage 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 title : budi utomo
 list jawaban dan posisi dalam passage
 dr wahidin sudirohusodo | position = 19
@@ -1651,7 +1663,7 @@ tokenwithtagstemmed = kurang
 gagasan dan cita-cita tersebut kemudian dituangkan ke dalam suatu bentuk organisasi yang diberi nama budi utomo . organisasi budi utomo ini didirikan pada <TIME>hari rabu tanggal 20 mei 1908</TIME> dan <PERSON>soetomo</PERSON> terpilih sebagai ketua . untuk selanjutnya tanggal 20 mei oleh <PERSON>bangsa indonesia</PERSON> diperingati sebagai hari kebangkitan nasional . pada awalnya , organisasi budi utomo hanya bergerak dalam bidang pendidikan dan sosial-budaya , seperti mendirikan sekolah-sekolah dan berusaha memelihara serta memajukan kebudayaan jawa . selain itu <PERSON>, budi utomo</PERSON> juga melakukan usaha-usaha untuk meningkatkan perekonomian dan bidang lainnya .
 
 memproses passage 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 title : budi utomo
 list jawaban dan posisi dalam passage
 soetomo | position = 15
@@ -1875,7 +1887,7 @@ tokenwithtagstemmed = bidang
 perhatian budi utomo lebih difokuskan pada reaksi pemerintah hindia-belanda , bukan lagi pada reaksi yang ditunjukkan oleh <PERSON>rakyat .</PERSON> masih banyak lagi perubahan yang dialami oleh organisasi budi utomo , terutama dengan mengutamakan pentingnya pengajaran bahasa belanda sebagai syarat untuk diterima menjadi pegawai negeri . pada <TIME>tahun 1912</TIME> , tirtokusumo yang menjabat sebagai ketua budi utomo menyatakan berhenti dari jabatannya , kemudian digantikan oleh <PERSON>noto dirodjo .</PERSON> budi utomo menyadari pentingnya organisasi pergerakan bagi rakyat , oleh karenanya sejak <TIME>tahun 1920</TIME> <PERSON>organisasi budi utomo</PERSON> membuka diri untuk menerima anggota dari kalangan rakyat biasa . dengan demikian , sifat pergerakan budi utomo menjadi pergerakan kerakyatan .
 
 memproses passage 10
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 title : budi utomo
 list jawaban dan posisi dalam passage
 rakyat | position = 10
@@ -2132,10 +2144,692 @@ tokenwithtagstemmed = gera
 tokenwithtagstemmed = rakyat
 
 
+b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan <PERSON>organisasi modern</PERSON> yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan <PERSON>penjajahan</PERSON> untuk digantikan dengan kekuasaan yang dipegang oleh <PERSON>bangsa indonesia</PERSON> sendiri . istilah ” nasional ” dalam hal ini oleh <PERSON>sartono kartodirdjo</PERSON> ( <TIME>1990</TIME> ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan <PERSON>kumpulan individu-individu</PERSON> yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya . c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan . berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode <TIME>sekitar 40 tahun</TIME> yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya <PERSON>bangsa indonesia</PERSON> <TIME>1945</TIME> yang ditandai oleh proklamasi kemerdekaan indonesia . tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+
+memproses passage 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+list jawaban dan posisi dalam passage
+organisasi modern | position = 8
+penjajahan | position = 19
+bangsa indonesia | position = 24
+sartono kartodirdjo | position = 27
+kumpulan individu individu | position = 34
+bangsa indonesia | position = 77
+
+
+melakukan pencarian:
+kata kunci = diri
+tokenwithtagstemmed = b
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = organisasi modern
+tokenwithtagstemmed = cakup
+tokenwithtagstemmed = aspek
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = jajah
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sartono kartodirdjo
+tokenwithtagstemmed = 1990
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = nation
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kumpul individu individu
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ikat
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = c
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = fungsi
+tokenwithtagstemmed = simbolis
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = harus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = erti
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 40 tahun
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = bu
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = 1945
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = dipungkiri
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = fenomena
+tokenwithtagstemmed = historis
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = religius
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = interelasi
+kata kunci = budi
+tokenwithtagstemmed = b
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = organisasi modern
+tokenwithtagstemmed = cakup
+tokenwithtagstemmed = aspek
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = jajah
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sartono kartodirdjo
+tokenwithtagstemmed = 1990
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = nation
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kumpul individu individu
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ikat
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = c
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = fungsi
+tokenwithtagstemmed = simbolis
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = harus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = erti
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 40 tahun
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = budi
+posisi dalam passage = 70
+jarak dengan tiap kandidat jawaban:
+organisasi modern -62
+penjajahan -51
+bangsa indonesia -46
+sartono kartodirdjo -43
+kumpulan individu individu -36
+bangsa indonesia 7
+
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = bu
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = 1945
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = dipungkiri
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = fenomena
+tokenwithtagstemmed = historis
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = religius
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = interelasi
+kata kunci = utomo
+tokenwithtagstemmed = b
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = organisasi modern
+tokenwithtagstemmed = cakup
+tokenwithtagstemmed = aspek
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = jajah
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sartono kartodirdjo
+tokenwithtagstemmed = 1990
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = nation
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kumpul individu individu
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ikat
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = c
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = fungsi
+tokenwithtagstemmed = simbolis
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = harus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = erti
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 40 tahun
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+posisi dalam passage = 71
+jarak dengan tiap kandidat jawaban:
+organisasi modern -63
+penjajahan -52
+bangsa indonesia -47
+sartono kartodirdjo -44
+kumpulan individu individu -37
+bangsa indonesia 6
+
+tokenwithtagstemmed = bu
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = 1945
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = dipungkiri
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = fenomena
+tokenwithtagstemmed = historis
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = religius
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = interelasi
+
+
+b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan <PERSON>organisasi modern</PERSON> yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan <PERSON>penjajahan</PERSON> untuk digantikan dengan kekuasaan yang dipegang oleh <PERSON>bangsa indonesia</PERSON> sendiri . istilah ” nasional ” dalam hal ini oleh <PERSON>sartono kartodirdjo</PERSON> ( <TIME>1990</TIME> ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan <PERSON>kumpulan individu-individu</PERSON> yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya . c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan . berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode <TIME>sekitar 40 tahun</TIME> yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya <PERSON>bangsa indonesia</PERSON> <TIME>1945</TIME> yang ditandai oleh proklamasi kemerdekaan indonesia . tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+
+memproses passage 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+list jawaban dan posisi dalam passage
+organisasi modern | position = 8
+penjajahan | position = 19
+bangsa indonesia | position = 24
+sartono kartodirdjo | position = 27
+kumpulan individu individu | position = 34
+bangsa indonesia | position = 77
+
+
+melakukan pencarian:
+kata kunci = diri
+tokenwithtagstemmed = b
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = organisasi modern
+tokenwithtagstemmed = cakup
+tokenwithtagstemmed = aspek
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = jajah
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sartono kartodirdjo
+tokenwithtagstemmed = 1990
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = nation
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kumpul individu individu
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ikat
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = c
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = fungsi
+tokenwithtagstemmed = simbolis
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = harus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = erti
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 40 tahun
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = bu
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = 1945
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = dipungkiri
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = fenomena
+tokenwithtagstemmed = historis
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = religius
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = interelasi
+kata kunci = budi
+tokenwithtagstemmed = b
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = organisasi modern
+tokenwithtagstemmed = cakup
+tokenwithtagstemmed = aspek
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = jajah
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sartono kartodirdjo
+tokenwithtagstemmed = 1990
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = nation
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kumpul individu individu
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ikat
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = c
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = fungsi
+tokenwithtagstemmed = simbolis
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = harus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = erti
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 40 tahun
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = budi
+posisi dalam passage = 70
+jarak dengan tiap kandidat jawaban:
+organisasi modern -62
+penjajahan -51
+bangsa indonesia -46
+sartono kartodirdjo -43
+kumpulan individu individu -36
+bangsa indonesia 7
+
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = bu
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = 1945
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = dipungkiri
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = fenomena
+tokenwithtagstemmed = historis
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = religius
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = interelasi
+kata kunci = utomo
+tokenwithtagstemmed = b
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = aksi
+tokenwithtagstemmed = organisasi modern
+tokenwithtagstemmed = cakup
+tokenwithtagstemmed = aspek
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = budaya
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = jajah
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = istilah
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sartono kartodirdjo
+tokenwithtagstemmed = 1990
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = nation
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kumpul individu individu
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ikat
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = bahasa
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = c
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = fungsi
+tokenwithtagstemmed = simbolis
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = maju
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = harus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = erti
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = liput
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 40 tahun
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+posisi dalam passage = 71
+jarak dengan tiap kandidat jawaban:
+organisasi modern -63
+penjajahan -52
+bangsa indonesia -47
+sartono kartodirdjo -44
+kumpulan individu individu -37
+bangsa indonesia 6
+
+tokenwithtagstemmed = bu
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = 1945
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = dipungkiri
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = fenomena
+tokenwithtagstemmed = historis
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = sosial
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = kultural
+tokenwithtagstemmed = religius
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = faktor
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = interelasi
+
+
 organisasi pergerakan nasional ( budi utomo , sarekat islam , <PERSON>indische partij , muhammadiyah</PERSON> dan lainnya ) 1 . budi utomo organisasi budi utomo ( bu ) didirikan pada <TIME>tanggal 20 mei 1908</TIME> oleh <PERSON>para mahasiswa</PERSON> stovia di <LOCATION>batavia</LOCATION> dengan <PERSON>sutomo</PERSON> sebagai ketuanya . terbentuknya organisasi tersebut atas ide <PERSON>dr. wahidin sudirohusodo</PERSON> yang sebelumnya telah berkeliling jawa untuk menawarkan idenya membentuk studiefounds . gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi <PERSON>pelajar yang berprestasi ,</PERSON> namun tidak mampu melanjutnya studinya . gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
 
 memproses passage 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 indische partij muhammadiyah | position = 7
@@ -2382,7 +3076,7 @@ pelajar berprestasi -8
 sampai menjelang kongresnya yang pertama di <LOCATION>yogyakarta</LOCATION> telah berdiri tujuh cabang budi utomo , yakni di <LOCATION>batavia ,</LOCATION> bogor , bandung , magelang , yogyakarta , surabaya , dan <PERSON>ponorogo .</PERSON> untuk mengonsolidasi diri ( dengan dihadiri 7 cabangnya ) , budi utomo mengadakan kongres yang pertama di <LOCATION>yogyakarta</LOCATION> pada <TIME>tanggal 3-5 oktober 1908</TIME> . kongres memutuskan hal-hal sebagai berikut . 1 ) budi <PERSON>utomo</PERSON> tidak ikut dalam mengadakan kegiatan politik . 2 ) kegiatan budi utomo terutama ditujukan pada bidang pendidikan dan kebudayaan .
 
 memproses passage 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 ponorogo | position = 15
@@ -2580,416 +3274,15 @@ tokenwithtagstemmed = bidang
 tokenwithtagstemmed = didik
 tokenwithtagstemmed = budaya
 
-
-sampai dengan <TIME>akhir tahun 1909</TIME> , telah berdiri 40 cabang budi utomo dengan jumlah anggota mencapai 10.000 orang . akan tetapi , dengan adanya kongres tersebut tampaknya terjadi pergeseran pimpinan dari generasi muda ke generasi tua . banyak anggota muda yang menyingkir dari barisan depan , dan anggota budi utomo kebanyakan dari golongan priayi dan pegawai negeri <PERSON>.</PERSON> dengan demikian , sifat protonasionalisme dari <PERSON>para pemimpin</PERSON> yang tampak pada awal berdirinya budi utomo terdesak ke belakang . strategi perjuangan bu pada dasarnya bersifat kooperatif .
-
-memproses passage 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-list jawaban dan posisi dalam passage
- | position = 32
-pemimpin | position = 35
-
-
-melakukan pencarian:
-kata kunci = diri
-tokenwithtagstemmed = akhir tahun 1909
-tokenwithtagstemmed = diri
-posisi dalam passage = 1
-jarak dengan tiap kandidat jawaban:
- 31
-pemimpin 34
-
-tokenwithtagstemmed = 40
-tokenwithtagstemmed = cabang
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = jumlah
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = capai
-tokenwithtagstemmed = 10.000
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = kongres
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = geser
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = generasi
-tokenwithtagstemmed = muda
-tokenwithtagstemmed = generasi
-tokenwithtagstemmed = tua
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = muda
-tokenwithtagstemmed = singkir
-tokenwithtagstemmed = baris
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = banyak
-tokenwithtagstemmed = golong
-tokenwithtagstemmed = priayi
-tokenwithtagstemmed = pegawai
-tokenwithtagstemmed = negeri
-tokenwithtagstemmed = 
-tokenwithtagstemmed = sifat
-tokenwithtagstemmed = protonasionalisme
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = awal
-tokenwithtagstemmed = diri
-posisi dalam passage = 38
-jarak dengan tiap kandidat jawaban:
- -6
-pemimpin -3
-
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = desak
-tokenwithtagstemmed = belakang
-tokenwithtagstemmed = strategi
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = bu
-tokenwithtagstemmed = dasar
-tokenwithtagstemmed = sifat
-tokenwithtagstemmed = kooperatif
-kata kunci = budi
-tokenwithtagstemmed = akhir tahun 1909
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = 40
-tokenwithtagstemmed = cabang
-tokenwithtagstemmed = budi
-posisi dalam passage = 4
-jarak dengan tiap kandidat jawaban:
- 28
-pemimpin 31
-
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = jumlah
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = capai
-tokenwithtagstemmed = 10.000
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = kongres
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = geser
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = generasi
-tokenwithtagstemmed = muda
-tokenwithtagstemmed = generasi
-tokenwithtagstemmed = tua
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = muda
-tokenwithtagstemmed = singkir
-tokenwithtagstemmed = baris
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = budi
-posisi dalam passage = 25
-jarak dengan tiap kandidat jawaban:
- 7
-pemimpin 10
-
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = banyak
-tokenwithtagstemmed = golong
-tokenwithtagstemmed = priayi
-tokenwithtagstemmed = pegawai
-tokenwithtagstemmed = negeri
-tokenwithtagstemmed = 
-tokenwithtagstemmed = sifat
-tokenwithtagstemmed = protonasionalisme
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = awal
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = budi
-posisi dalam passage = 39
-jarak dengan tiap kandidat jawaban:
- -7
-pemimpin -4
-
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = desak
-tokenwithtagstemmed = belakang
-tokenwithtagstemmed = strategi
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = bu
-tokenwithtagstemmed = dasar
-tokenwithtagstemmed = sifat
-tokenwithtagstemmed = kooperatif
-kata kunci = utomo
-tokenwithtagstemmed = akhir tahun 1909
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = 40
-tokenwithtagstemmed = cabang
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-posisi dalam passage = 5
-jarak dengan tiap kandidat jawaban:
- 27
-pemimpin 30
-
-tokenwithtagstemmed = jumlah
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = capai
-tokenwithtagstemmed = 10.000
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = kongres
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = geser
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = generasi
-tokenwithtagstemmed = muda
-tokenwithtagstemmed = generasi
-tokenwithtagstemmed = tua
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = muda
-tokenwithtagstemmed = singkir
-tokenwithtagstemmed = baris
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-posisi dalam passage = 26
-jarak dengan tiap kandidat jawaban:
- 6
-pemimpin 9
-
-tokenwithtagstemmed = banyak
-tokenwithtagstemmed = golong
-tokenwithtagstemmed = priayi
-tokenwithtagstemmed = pegawai
-tokenwithtagstemmed = negeri
-tokenwithtagstemmed = 
-tokenwithtagstemmed = sifat
-tokenwithtagstemmed = protonasionalisme
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = awal
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-posisi dalam passage = 40
-jarak dengan tiap kandidat jawaban:
- -8
-pemimpin -5
-
-tokenwithtagstemmed = desak
-tokenwithtagstemmed = belakang
-tokenwithtagstemmed = strategi
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = bu
-tokenwithtagstemmed = dasar
-tokenwithtagstemmed = sifat
-tokenwithtagstemmed = kooperatif
-
-
-pada <TIME>tahun 1935</TIME> <PERSON>, muhammadiyah</PERSON> sudah mempunyai 710 cabang yang tersebar di <LOCATION>pulau jawa</LOCATION> , sumatra , kalimantan dan sulawesi . 5 . gerakan pemuda gerakan <PERSON>pemuda indonesia ,</PERSON> sebenarnya telah dimulai sejak berdirinya budi utomo , namun sejak kongresnya yang pertama perannya telah diambil oleh <PERSON>golongan tua ( kaum priayi dan pegawai negeri )</PERSON> sehingga <PERSON>para pemuda</PERSON> kecewa dan keluar dari organisasi tersebut . baru beberapa tahun kemudian , tepatnya pada <TIME>tanggal 7 maret 1915</TIME> di <LOCATION>batavia berdiri trikoro</LOCATION> dharmo oleh <PERSON>r. satiman wiryosanjoyo , kadarman</PERSON> , dan sunardi . trikoro dharmo yang diketui oleh <PERSON>r. satiman wiryosanjoyo</PERSON> merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas <PERSON>para siswa sekolah menengah</PERSON> berasal dari jawa dan madura .
-
-memproses passage 21
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-list jawaban dan posisi dalam passage
-muhammadiyah | position = 1
-pemuda indonesia | position = 14
-golongan tua kaum priayi pegawai negeri | position = 23
-pemuda | position = 24
-r satiman wiryosanjoyo kadarman | position = 34
-r satiman wiryosanjoyo | position = 39
-siswa sekolah menengah | position = 45
-
-
-melakukan pencarian:
-kata kunci = diri
-tokenwithtagstemmed = tahun 1935
-tokenwithtagstemmed = muhammadiyah
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = 710
-tokenwithtagstemmed = cabang
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = pulau jawa
-tokenwithtagstemmed = sumatra
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = 5
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = pemuda indonesia
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = diri
-posisi dalam passage = 16
-jarak dengan tiap kandidat jawaban:
-muhammadiyah -15
-pemuda indonesia -2
-golongan tua kaum priayi pegawai negeri 7
-pemuda 8
-r satiman wiryosanjoyo kadarman 18
-r satiman wiryosanjoyo 23
-siswa sekolah menengah 29
-
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = kongres
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = peran
-tokenwithtagstemmed = ambil
-tokenwithtagstemmed = golong tua kaum priayi pegawai negeri
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kecewa
-tokenwithtagstemmed = keluar
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = baru
-tokenwithtagstemmed = tahun
-tokenwithtagstemmed = tepat
-tokenwithtagstemmed = tanggal 7 maret 1915
-tokenwithtagstemmed = batavia diri trikoro
-tokenwithtagstemmed = dharmo
-tokenwithtagstemmed = r satiman wiryosanjoyo kadarman
-tokenwithtagstemmed = sunardi
-tokenwithtagstemmed = trikoro
-tokenwithtagstemmed = dharmo
-tokenwithtagstemmed = ketu
-tokenwithtagstemmed = r satiman wiryosanjoyo
-tokenwithtagstemmed = oeganisasi
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = siswa sekolah tengah
-tokenwithtagstemmed = asal
-tokenwithtagstemmed = jawa
-tokenwithtagstemmed = madura
-kata kunci = budi
-tokenwithtagstemmed = tahun 1935
-tokenwithtagstemmed = muhammadiyah
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = 710
-tokenwithtagstemmed = cabang
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = pulau jawa
-tokenwithtagstemmed = sumatra
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = 5
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = pemuda indonesia
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = budi
-posisi dalam passage = 17
-jarak dengan tiap kandidat jawaban:
-muhammadiyah -16
-pemuda indonesia -3
-golongan tua kaum priayi pegawai negeri 6
-pemuda 7
-r satiman wiryosanjoyo kadarman 17
-r satiman wiryosanjoyo 22
-siswa sekolah menengah 28
-
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = kongres
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = peran
-tokenwithtagstemmed = ambil
-tokenwithtagstemmed = golong tua kaum priayi pegawai negeri
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kecewa
-tokenwithtagstemmed = keluar
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = baru
-tokenwithtagstemmed = tahun
-tokenwithtagstemmed = tepat
-tokenwithtagstemmed = tanggal 7 maret 1915
-tokenwithtagstemmed = batavia diri trikoro
-tokenwithtagstemmed = dharmo
-tokenwithtagstemmed = r satiman wiryosanjoyo kadarman
-tokenwithtagstemmed = sunardi
-tokenwithtagstemmed = trikoro
-tokenwithtagstemmed = dharmo
-tokenwithtagstemmed = ketu
-tokenwithtagstemmed = r satiman wiryosanjoyo
-tokenwithtagstemmed = oeganisasi
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = siswa sekolah tengah
-tokenwithtagstemmed = asal
-tokenwithtagstemmed = jawa
-tokenwithtagstemmed = madura
-kata kunci = utomo
-tokenwithtagstemmed = tahun 1935
-tokenwithtagstemmed = muhammadiyah
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = 710
-tokenwithtagstemmed = cabang
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = pulau jawa
-tokenwithtagstemmed = sumatra
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = 5
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = pemuda indonesia
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-posisi dalam passage = 18
-jarak dengan tiap kandidat jawaban:
-muhammadiyah -17
-pemuda indonesia -4
-golongan tua kaum priayi pegawai negeri 5
-pemuda 6
-r satiman wiryosanjoyo kadarman 16
-r satiman wiryosanjoyo 21
-siswa sekolah menengah 27
-
-tokenwithtagstemmed = kongres
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = peran
-tokenwithtagstemmed = ambil
-tokenwithtagstemmed = golong tua kaum priayi pegawai negeri
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = kecewa
-tokenwithtagstemmed = keluar
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = baru
-tokenwithtagstemmed = tahun
-tokenwithtagstemmed = tepat
-tokenwithtagstemmed = tanggal 7 maret 1915
-tokenwithtagstemmed = batavia diri trikoro
-tokenwithtagstemmed = dharmo
-tokenwithtagstemmed = r satiman wiryosanjoyo kadarman
-tokenwithtagstemmed = sunardi
-tokenwithtagstemmed = trikoro
-tokenwithtagstemmed = dharmo
-tokenwithtagstemmed = ketu
-tokenwithtagstemmed = r satiman wiryosanjoyo
-tokenwithtagstemmed = oeganisasi
-tokenwithtagstemmed = pemuda
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = siswa sekolah tengah
-tokenwithtagstemmed = asal
-tokenwithtagstemmed = jawa
-tokenwithtagstemmed = madura
-
 Pengurutan kandidat jawaban
 this.answer = utomo
-passage rank = 8
+passage rank = 10
 distance = 1
-doc rank = 3
-total Score = 12
+doc rank = 5
+total Score = 16
 frequency = 1
-order process = 126
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 130
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = soetomo
@@ -2999,7 +3292,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = soetomo
@@ -3009,17 +3302,17 @@ doc rank = 2
 total Score = 9
 frequency = 1
 order process = 57
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = mahasiswa
-passage rank = 7
+passage rank = 9
 distance = 2
-doc rank = 3
-total Score = 12
+doc rank = 5
+total Score = 16
 frequency = 1
-order process = 91
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 95
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = soetomo
@@ -3029,7 +3322,7 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 31
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = soetomo
@@ -3039,17 +3332,17 @@ doc rank = 2
 total Score = 10
 frequency = 1
 order process = 71
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = indische partij muhammadiyah
-passage rank = 7
+passage rank = 9
 distance = 3
-doc rank = 3
-total Score = 13
+doc rank = 5
+total Score = 17
 frequency = 1
-order process = 108
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 112
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = soetomo
@@ -3059,7 +3352,7 @@ doc rank = 1
 total Score = 7
 frequency = 1
 order process = 24
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = soetomo
@@ -3069,27 +3362,27 @@ doc rank = 2
 total Score = 11
 frequency = 1
 order process = 64
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = indische partij muhammadiyah
-passage rank = 7
+passage rank = 9
 distance = 4
-doc rank = 3
-total Score = 14
+doc rank = 5
+total Score = 18
 frequency = 1
-order process = 95
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 99
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = mahasiswa
-passage rank = 7
+passage rank = 9
 distance = 4
-doc rank = 3
-total Score = 14
+doc rank = 5
+total Score = 18
 frequency = 1
-order process = 117
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 121
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = dr wahidin sudirohusodo
@@ -3099,7 +3392,7 @@ doc rank = 1
 total Score = 7
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = noto dirodjo
@@ -3109,7 +3402,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 42
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = dr wahidin sudirohusodo
@@ -3119,7 +3412,7 @@ doc rank = 2
 total Score = 11
 frequency = 1
 order process = 55
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = noto dirodjo
@@ -3129,37 +3422,27 @@ doc rank = 2
 total Score = 13
 frequency = 1
 order process = 88
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = sutomo
-passage rank = 7
+passage rank = 9
 distance = 5
-doc rank = 3
-total Score = 15
+doc rank = 5
+total Score = 19
 frequency = 1
-order process = 92
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 96
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = mahasiswa
-passage rank = 7
+passage rank = 9
 distance = 5
-doc rank = 3
-total Score = 15
+doc rank = 5
+total Score = 19
 frequency = 1
-order process = 104
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = golongan tua kaum priayi pegawai negeri
-passage rank = 10
-distance = 5
-doc rank = 3
-total Score = 18
-frequency = 1
-order process = 148
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 108
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = dr wahidin sudirohusodo
@@ -3169,7 +3452,7 @@ doc rank = 1
 total Score = 8
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = soetomo
@@ -3179,7 +3462,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 28
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = noto dirodjo
@@ -3189,7 +3472,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 37
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = dr wahidin sudirohusodo
@@ -3199,7 +3482,7 @@ doc rank = 2
 total Score = 12
 frequency = 1
 order process = 49
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = soetomo
@@ -3209,7 +3492,7 @@ doc rank = 2
 total Score = 13
 frequency = 1
 order process = 68
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = noto dirodjo
@@ -3219,38 +3502,28 @@ doc rank = 2
 total Score = 14
 frequency = 1
 order process = 80
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
-this.answer = 
-passage rank = 9
+this.answer = bangsa indonesia
+passage rank = 7
 distance = 6
 doc rank = 3
+total Score = 16
+frequency = 2
+order process = 92
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+document Title = pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+
+this.answer = bangsa indonesia
+passage rank = 8
+distance = 6
+doc rank = 4
 total Score = 18
-frequency = 1
-order process = 136
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = golongan tua kaum priayi pegawai negeri
-passage rank = 10
-distance = 6
-doc rank = 3
-total Score = 19
-frequency = 1
-order process = 143
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = pemuda
-passage rank = 10
-distance = 6
-doc rank = 3
-total Score = 19
-frequency = 1
-order process = 149
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+frequency = 2
+order process = 94
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+document Title = pengertian dan latar belakang lahirnya pergerakan nasional indonesia
 
 this.answer = soetomo
 passage rank = 2
@@ -3259,7 +3532,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 21
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = organisasi budi utomo
@@ -3269,7 +3542,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 44
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = soetomo
@@ -3279,7 +3552,7 @@ doc rank = 2
 total Score = 14
 frequency = 1
 order process = 61
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = organisasi budi utomo
@@ -3289,67 +3562,57 @@ doc rank = 2
 total Score = 15
 frequency = 1
 order process = 90
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
-this.answer = mahasiswa
+this.answer = bangsa indonesia
 passage rank = 7
 distance = 7
 doc rank = 3
 total Score = 17
+frequency = 2
+order process = 91
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+document Title = pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+
+this.answer = bangsa indonesia
+passage rank = 8
+distance = 7
+doc rank = 4
+total Score = 19
+frequency = 2
+order process = 93
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+document Title = pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+
+this.answer = mahasiswa
+passage rank = 9
+distance = 7
+doc rank = 5
+total Score = 21
 frequency = 1
-order process = 113
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 117
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = sutomo
-passage rank = 7
+passage rank = 9
 distance = 7
-doc rank = 3
-total Score = 17
+doc rank = 5
+total Score = 21
 frequency = 1
-order process = 118
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 122
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = ponorogo
-passage rank = 8
-distance = 7
-doc rank = 3
-total Score = 18
-frequency = 1
-order process = 127
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = 
-passage rank = 9
-distance = 7
-doc rank = 3
-total Score = 19
-frequency = 1
-order process = 132
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = golongan tua kaum priayi pegawai negeri
 passage rank = 10
 distance = 7
-doc rank = 3
-total Score = 20
+doc rank = 5
+total Score = 22
 frequency = 1
-order process = 138
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = pemuda
-passage rank = 10
-distance = 7
-doc rank = 3
-total Score = 20
-frequency = 1
-order process = 144
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 131
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = budi utomo
@@ -3359,7 +3622,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = organisasi budi utomo
@@ -3369,7 +3632,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 39
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = budi utomo
@@ -3379,7 +3642,7 @@ doc rank = 2
 total Score = 15
 frequency = 1
 order process = 60
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = organisasi budi utomo
@@ -3389,7 +3652,7 @@ doc rank = 2
 total Score = 16
 frequency = 1
 order process = 82
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = rakyat
@@ -3399,47 +3662,37 @@ doc rank = 2
 total Score = 16
 frequency = 1
 order process = 83
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = mahasiswa
-passage rank = 7
+passage rank = 9
 distance = 8
-doc rank = 3
-total Score = 18
+doc rank = 5
+total Score = 22
 frequency = 1
-order process = 100
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 104
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = sutomo
-passage rank = 7
+passage rank = 9
 distance = 8
-doc rank = 3
-total Score = 18
+doc rank = 5
+total Score = 22
 frequency = 1
-order process = 105
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 109
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = ponorogo
-passage rank = 8
-distance = 8
-doc rank = 3
-total Score = 19
-frequency = 1
-order process = 123
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = pemuda
 passage rank = 10
 distance = 8
-doc rank = 3
-total Score = 21
+doc rank = 5
+total Score = 23
 frequency = 1
-order process = 139
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 127
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = rakyat
@@ -3449,18 +3702,8 @@ doc rank = 2
 total Score = 17
 frequency = 1
 order process = 75
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
-
-this.answer = pemimpin
-passage rank = 9
-distance = 9
-doc rank = 3
-total Score = 21
-frequency = 1
-order process = 137
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = bangsa indonesia
 passage rank = 2
@@ -3469,7 +3712,7 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = bangsa indonesia
@@ -3479,27 +3722,17 @@ doc rank = 2
 total Score = 17
 frequency = 1
 order process = 58
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = sutomo
-passage rank = 7
-distance = 10
-doc rank = 3
-total Score = 20
-frequency = 1
-order process = 114
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = pemimpin
 passage rank = 9
 distance = 10
-doc rank = 3
-total Score = 22
+doc rank = 5
+total Score = 24
 frequency = 1
-order process = 133
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 118
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = bangsa indonesia
@@ -3509,7 +3742,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 32
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = bangsa indonesia
@@ -3519,37 +3752,37 @@ doc rank = 2
 total Score = 18
 frequency = 1
 order process = 72
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = dr wahidin sudirohusodo
-passage rank = 7
+passage rank = 9
 distance = 11
-doc rank = 3
-total Score = 21
+doc rank = 5
+total Score = 25
 frequency = 1
-order process = 93
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 97
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = sutomo
-passage rank = 7
+passage rank = 9
 distance = 11
-doc rank = 3
-total Score = 21
+doc rank = 5
+total Score = 25
 frequency = 1
-order process = 101
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 105
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = ponorogo
-passage rank = 8
+passage rank = 10
 distance = 11
-doc rank = 3
-total Score = 22
+doc rank = 5
+total Score = 26
 frequency = 1
-order process = 121
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 125
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = bangsa indonesia
@@ -3559,7 +3792,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 25
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = bangsa indonesia
@@ -3569,37 +3802,37 @@ doc rank = 2
 total Score = 19
 frequency = 1
 order process = 65
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = utomo
-passage rank = 8
+passage rank = 10
 distance = 12
-doc rank = 3
-total Score = 23
+doc rank = 5
+total Score = 27
 frequency = 1
-order process = 125
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 129
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = mahasiswa
-passage rank = 7
+passage rank = 9
 distance = 13
-doc rank = 3
-total Score = 23
+doc rank = 5
+total Score = 27
 frequency = 1
-order process = 109
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 113
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = dr wahidin sudirohusodo
-passage rank = 7
+passage rank = 9
 distance = 13
-doc rank = 3
-total Score = 23
+doc rank = 5
+total Score = 27
 frequency = 1
-order process = 119
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 123
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = bangsa indonesia
@@ -3609,7 +3842,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 29
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = budi utomo
@@ -3619,7 +3852,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 34
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = organisasi budi utomo
@@ -3629,7 +3862,7 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 43
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = bangsa indonesia
@@ -3639,7 +3872,7 @@ doc rank = 2
 total Score = 21
 frequency = 1
 order process = 69
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = budi utomo
@@ -3649,7 +3882,7 @@ doc rank = 2
 total Score = 21
 frequency = 1
 order process = 74
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = organisasi budi utomo
@@ -3659,27 +3892,27 @@ doc rank = 2
 total Score = 22
 frequency = 1
 order process = 89
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = mahasiswa
-passage rank = 7
+passage rank = 9
 distance = 14
-doc rank = 3
-total Score = 24
+doc rank = 5
+total Score = 28
 frequency = 1
-order process = 96
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 100
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = dr wahidin sudirohusodo
-passage rank = 7
+passage rank = 9
 distance = 14
-doc rank = 3
-total Score = 24
+doc rank = 5
+total Score = 28
 frequency = 1
-order process = 106
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 110
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = dr wahidin sudirohusodo
@@ -3689,7 +3922,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = bangsa indonesia
@@ -3699,7 +3932,7 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 22
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = budi utomo
@@ -3709,7 +3942,7 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 27
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = organisasi budi utomo
@@ -3719,7 +3952,7 @@ doc rank = 1
 total Score = 19
 frequency = 1
 order process = 38
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = dr wahidin sudirohusodo
@@ -3729,7 +3962,7 @@ doc rank = 2
 total Score = 21
 frequency = 1
 order process = 53
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = bangsa indonesia
@@ -3739,7 +3972,7 @@ doc rank = 2
 total Score = 22
 frequency = 1
 order process = 62
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = budi utomo
@@ -3749,7 +3982,7 @@ doc rank = 2
 total Score = 22
 frequency = 1
 order process = 67
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = organisasi budi utomo
@@ -3759,7 +3992,7 @@ doc rank = 2
 total Score = 23
 frequency = 1
 order process = 81
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = dr wahidin sudirohusodo
@@ -3769,7 +4002,7 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = dr wahidin sudirohusodo
@@ -3779,67 +4012,47 @@ doc rank = 2
 total Score = 22
 frequency = 1
 order process = 47
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = sutomo
-passage rank = 7
+passage rank = 9
 distance = 16
-doc rank = 3
-total Score = 26
+doc rank = 5
+total Score = 30
 frequency = 1
-order process = 110
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 114
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = dr wahidin sudirohusodo
-passage rank = 7
+passage rank = 9
 distance = 16
-doc rank = 3
-total Score = 26
+doc rank = 5
+total Score = 30
 frequency = 1
-order process = 115
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = r satiman wiryosanjoyo kadarman
-passage rank = 10
-distance = 16
-doc rank = 3
-total Score = 29
-frequency = 1
-order process = 150
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 119
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = sutomo
-passage rank = 7
+passage rank = 9
 distance = 17
-doc rank = 3
-total Score = 27
+doc rank = 5
+total Score = 31
 frequency = 1
-order process = 97
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 101
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = dr wahidin sudirohusodo
-passage rank = 7
+passage rank = 9
 distance = 17
-doc rank = 3
-total Score = 27
+doc rank = 5
+total Score = 31
 frequency = 1
-order process = 102
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = r satiman wiryosanjoyo kadarman
-passage rank = 10
-distance = 17
-doc rank = 3
-total Score = 30
-frequency = 1
-order process = 145
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 106
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = dr wahidin sudirohusodo
@@ -3849,7 +4062,7 @@ doc rank = 1
 total Score = 20
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = dr wahidin sudirohusodo
@@ -3859,18 +4072,8 @@ doc rank = 2
 total Score = 24
 frequency = 1
 order process = 51
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
-
-this.answer = r satiman wiryosanjoyo kadarman
-passage rank = 10
-distance = 18
-doc rank = 3
-total Score = 31
-frequency = 1
-order process = 140
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = dr wahidin sudirohusodo
 passage rank = 1
@@ -3879,7 +4082,7 @@ doc rank = 1
 total Score = 21
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = dr wahidin sudirohusodo
@@ -3889,7 +4092,7 @@ doc rank = 2
 total Score = 25
 frequency = 1
 order process = 45
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = dr wahidin sudirohusodo
@@ -3899,7 +4102,7 @@ doc rank = 1
 total Score = 22
 frequency = 1
 order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = dr wahidin sudirohusodo
@@ -3909,18 +4112,8 @@ doc rank = 1
 total Score = 23
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
-
-this.answer = r satiman wiryosanjoyo
-passage rank = 10
-distance = 21
-doc rank = 3
-total Score = 34
-frequency = 1
-order process = 151
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pemerintah
 passage rank = 1
@@ -3929,7 +4122,7 @@ doc rank = 1
 total Score = 24
 frequency = 1
 order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = pemerintah
@@ -3939,27 +4132,17 @@ doc rank = 2
 total Score = 28
 frequency = 1
 order process = 56
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = dr wahidin sudirohusodo
-passage rank = 7
+passage rank = 9
 distance = 22
-doc rank = 3
-total Score = 32
+doc rank = 5
+total Score = 36
 frequency = 1
-order process = 111
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = r satiman wiryosanjoyo
-passage rank = 10
-distance = 22
-doc rank = 3
-total Score = 35
-frequency = 1
-order process = 146
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 115
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pemerintah
@@ -3969,7 +4152,7 @@ doc rank = 1
 total Score = 25
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = noto dirodjo
@@ -3979,7 +4162,7 @@ doc rank = 1
 total Score = 27
 frequency = 1
 order process = 40
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = pemerintah
@@ -3989,7 +4172,7 @@ doc rank = 2
 total Score = 29
 frequency = 1
 order process = 50
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = noto dirodjo
@@ -3999,27 +4182,17 @@ doc rank = 2
 total Score = 31
 frequency = 1
 order process = 86
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = dr wahidin sudirohusodo
-passage rank = 7
+passage rank = 9
 distance = 23
-doc rank = 3
-total Score = 33
+doc rank = 5
+total Score = 37
 frequency = 1
-order process = 98
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = r satiman wiryosanjoyo
-passage rank = 10
-distance = 23
-doc rank = 3
-total Score = 36
-frequency = 1
-order process = 141
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 102
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = noto dirodjo
@@ -4029,7 +4202,7 @@ doc rank = 1
 total Score = 28
 frequency = 1
 order process = 35
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = noto dirodjo
@@ -4039,137 +4212,57 @@ doc rank = 2
 total Score = 32
 frequency = 1
 order process = 78
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = utomo
-passage rank = 8
-distance = 26
-doc rank = 3
-total Score = 37
-frequency = 1
-order process = 124
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = 
-passage rank = 9
-distance = 27
-doc rank = 3
-total Score = 39
-frequency = 1
-order process = 134
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = siswa sekolah menengah
 passage rank = 10
-distance = 27
-doc rank = 3
-total Score = 40
+distance = 26
+doc rank = 5
+total Score = 41
 frequency = 1
-order process = 152
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 128
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pelajar berprestasi
-passage rank = 7
-distance = 28
-doc rank = 3
-total Score = 38
-frequency = 1
-order process = 94
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = 
 passage rank = 9
 distance = 28
-doc rank = 3
-total Score = 40
+doc rank = 5
+total Score = 42
 frequency = 1
-order process = 130
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = siswa sekolah menengah
-passage rank = 10
-distance = 28
-doc rank = 3
-total Score = 41
-frequency = 1
-order process = 147
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 98
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = utomo
-passage rank = 8
-distance = 29
-doc rank = 3
-total Score = 40
-frequency = 1
-order process = 122
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = siswa sekolah menengah
 passage rank = 10
 distance = 29
-doc rank = 3
-total Score = 42
+doc rank = 5
+total Score = 44
 frequency = 1
-order process = 142
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 126
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pelajar berprestasi
-passage rank = 7
-distance = 30
-doc rank = 3
-total Score = 40
-frequency = 1
-order process = 120
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = pemimpin
 passage rank = 9
 distance = 30
-doc rank = 3
-total Score = 42
+doc rank = 5
+total Score = 44
 frequency = 1
-order process = 135
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 124
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pelajar berprestasi
-passage rank = 7
-distance = 31
-doc rank = 3
-total Score = 41
-frequency = 1
-order process = 107
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = 
 passage rank = 9
 distance = 31
-doc rank = 3
-total Score = 43
+doc rank = 5
+total Score = 45
 frequency = 1
-order process = 128
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = pemimpin
-passage rank = 9
-distance = 31
-doc rank = 3
-total Score = 43
-frequency = 1
-order process = 131
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 111
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pemerintah
@@ -4179,7 +4272,7 @@ doc rank = 1
 total Score = 34
 frequency = 1
 order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = budi utomo
@@ -4189,7 +4282,7 @@ doc rank = 1
 total Score = 35
 frequency = 1
 order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = organisasi budi utomo
@@ -4199,7 +4292,7 @@ doc rank = 1
 total Score = 36
 frequency = 1
 order process = 41
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = pemerintah
@@ -4209,7 +4302,7 @@ doc rank = 2
 total Score = 38
 frequency = 1
 order process = 54
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = budi utomo
@@ -4219,7 +4312,7 @@ doc rank = 2
 total Score = 39
 frequency = 1
 order process = 59
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = organisasi budi utomo
@@ -4229,7 +4322,7 @@ doc rank = 2
 total Score = 40
 frequency = 1
 order process = 87
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = pemerintah
@@ -4239,7 +4332,7 @@ doc rank = 1
 total Score = 35
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = budi utomo
@@ -4249,7 +4342,7 @@ doc rank = 1
 total Score = 36
 frequency = 1
 order process = 33
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = organisasi budi utomo
@@ -4259,7 +4352,7 @@ doc rank = 1
 total Score = 37
 frequency = 1
 order process = 36
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = pemerintah
@@ -4269,7 +4362,7 @@ doc rank = 2
 total Score = 39
 frequency = 1
 order process = 48
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = budi utomo
@@ -4279,7 +4372,7 @@ doc rank = 2
 total Score = 40
 frequency = 1
 order process = 73
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = organisasi budi utomo
@@ -4289,17 +4382,17 @@ doc rank = 2
 total Score = 41
 frequency = 1
 order process = 79
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = pelajar berprestasi
-passage rank = 7
+passage rank = 9
 distance = 33
-doc rank = 3
-total Score = 43
+doc rank = 5
+total Score = 47
 frequency = 1
-order process = 116
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 120
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = budi utomo
@@ -4309,7 +4402,7 @@ doc rank = 1
 total Score = 37
 frequency = 1
 order process = 26
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = budi utomo
@@ -4319,27 +4412,17 @@ doc rank = 2
 total Score = 41
 frequency = 1
 order process = 66
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = pelajar berprestasi
-passage rank = 7
-distance = 34
-doc rank = 3
-total Score = 44
-frequency = 1
-order process = 103
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = pemimpin
 passage rank = 9
 distance = 34
-doc rank = 3
-total Score = 46
+doc rank = 5
+total Score = 48
 frequency = 1
-order process = 129
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 107
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pemerintah
@@ -4349,7 +4432,7 @@ doc rank = 1
 total Score = 37
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = pemerintah
@@ -4359,7 +4442,7 @@ doc rank = 2
 total Score = 41
 frequency = 1
 order process = 52
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = pemerintah
@@ -4369,7 +4452,7 @@ doc rank = 1
 total Score = 38
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = budi utomo
@@ -4379,7 +4462,7 @@ doc rank = 1
 total Score = 39
 frequency = 1
 order process = 30
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = pemerintah
@@ -4389,7 +4472,7 @@ doc rank = 2
 total Score = 42
 frequency = 1
 order process = 46
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = budi utomo
@@ -4399,7 +4482,7 @@ doc rank = 2
 total Score = 43
 frequency = 1
 order process = 70
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = noto dirodjo
@@ -4409,7 +4492,7 @@ doc rank = 2
 total Score = 44
 frequency = 1
 order process = 84
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = pemerintah
@@ -4419,7 +4502,7 @@ doc rank = 1
 total Score = 39
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = budi utomo
@@ -4429,7 +4512,7 @@ doc rank = 1
 total Score = 40
 frequency = 1
 order process = 23
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = budi utomo
@@ -4439,7 +4522,7 @@ doc rank = 2
 total Score = 44
 frequency = 1
 order process = 63
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = noto dirodjo
@@ -4449,7 +4532,7 @@ doc rank = 2
 total Score = 45
 frequency = 1
 order process = 76
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = pemerintah
@@ -4459,27 +4542,27 @@ doc rank = 1
 total Score = 40
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok315.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
 document Title = sejarah budi utomo
 
 this.answer = pelajar berprestasi
-passage rank = 7
+passage rank = 9
 distance = 39
-doc rank = 3
-total Score = 49
+doc rank = 5
+total Score = 53
 frequency = 1
-order process = 112
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 116
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pelajar berprestasi
-passage rank = 7
+passage rank = 9
 distance = 40
-doc rank = 3
-total Score = 50
+doc rank = 5
+total Score = 54
 frequency = 1
-order process = 99
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 103
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = organisasi budi utomo
@@ -4489,7 +4572,7 @@ doc rank = 2
 total Score = 53
 frequency = 1
 order process = 85
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 this.answer = organisasi budi utomo
@@ -4499,7 +4582,7 @@ doc rank = 2
 total Score = 54
 frequency = 1
 order process = 77
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok273.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
 document Title = budi utomo
 
 

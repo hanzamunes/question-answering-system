@@ -7,8 +7,14 @@ package rocchio;
 import core.Query;
 import core.ScoreComparator;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
+import java.io.Writer;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -42,7 +48,6 @@ import java.util.AbstractMap.SimpleEntry;
 
 public class RocchioExpander implements QueryExpander {
 
-	private static final double doclimit = 0;
 	private final double alpha;
 	private final double beta;
 	private final double gama;
@@ -50,6 +55,7 @@ public class RocchioExpander implements QueryExpander {
 	private final int termsLimit;
 	private Analyzer analyzer;
 	private final String field;
+	//public static Writer out1 ;
 
 	public RocchioExpander(Analyzer analyzer, final String field,
 			       double alpha, double beta, double gama,
@@ -61,6 +67,14 @@ public class RocchioExpander implements QueryExpander {
 		this.gama = gama;
 		this.docsLimit = docsLimit;
 		this.termsLimit = termsLimit;
+		/*try
+		{
+			out1 = new BufferedWriter (new OutputStreamWriter(new FileOutputStream("rocchioDebug.txt"),"UTF-8"));
+		} catch (UnsupportedEncodingException | FileNotFoundException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}*/
 	}
 
 	@Override
@@ -84,8 +98,20 @@ public class RocchioExpander implements QueryExpander {
 				newQVector.add(new SimpleEntry<String, Double>(term, score));
 			}
 		}
+		/*out1.write("\n");
+		out1.write("sebelum disort\n");
+		for (int i=0;i<newQVector.size();i++)
+		{
+			out1.write(newQVector.get(i).getKey()+" "+newQVector.get(i).getValue()+"\n");
+		}*/
 		Collections.sort(newQVector, new ScoreComparator<String>());
 		Collections.reverse(newQVector);
+		/*out1.write("\n");
+		out1.write("setelah disort dan direverse\n");
+		for (int i=0;i<newQVector.size();i++)
+		{
+			out1.write(newQVector.get(i).getKey()+" "+newQVector.get(i).getValue()+"\n");
+		}*/
 		StringBuilder rocchioTerms = new StringBuilder();
 		for (int limit = 0; limit < termsLimit && limit < newQVector.size(); limit++) {
 			rocchioTerms.append(' ').append(newQVector.get(limit).getKey());
@@ -93,12 +119,13 @@ public class RocchioExpander implements QueryExpander {
 		Query rocchioQuery = new Query(original.getQid(), Utils.normalizeQuery(rocchioTerms.toString(), field, analyzer));
 		return rocchioQuery;
 	}
+	
 
 	private Directory createIndex(String indexDirectoryPath, List<Document> relevantDocs)
 		throws CorruptIndexException, LockObtainFailedException, IOException {
 		Directory indexDirectory = 
 		         FSDirectory.open(new File(indexDirectoryPath));
-		      StopWord stop = new StopWord("stopword_list_tala.txt");
+		      //StopWord stop = new StopWord("stopword_list_tala.txt");
 		      
 		      //create the indexer
 		      IndexWriter idxWriter = new IndexWriter(indexDirectory, new IndexWriterConfig(Version.LUCENE_36, new IndonesianAnalyzer(Version.LUCENE_36)).setSimilarity(new DefaultSimilarity()).setOpenMode(OpenMode.CREATE));
@@ -115,16 +142,28 @@ public class RocchioExpander implements QueryExpander {
 		TermEnum termEnum = idxreader.terms();
 		TermDocs termDocs = idxreader.termDocs();
 		int docsnum = idxreader.numDocs();
+		int i=0;
 		while (termEnum.next()) {
 			termDocs.seek(termEnum);
+			//out1.write("term = "+termEnum.term().text()+"\n");
 			while (termDocs.next()) {
+				//out1.write("doc "+i+"\n");
 				String term = termEnum.term().text();
 				int tf = termDocs.freq();
 				int df = termEnum.docFreq();
 				float idf = Similarity.getDefault().idf(df, docsnum);
 				float tfidf = tf * idf;
-				termScoreMap.put(term, (beta/(double)doclimit) * tfidf);
+				/*out1.write("tf = "+tf+"\n");
+				out1.write("df = "+df+"\n");
+				out1.write("idf = "+idf+"\n");
+				out1.write("tfidf = "+tfidf+"\n");
+				out1.write("doc limit = "+docsLimit+"\n");
+				out1.write("beta = "+beta+"\n");
+				out1.write("score for relevant doc = "+((beta/(double)docsLimit)*tfidf)+"\n");
+				out1.write("\n");*/
+				termScoreMap.put(term, (beta/(double)docsLimit) * tfidf);
 			}
+			//out1.write("\n\n");
 		}
 		idxreader.close();
 		return new ArrayList<Entry<String, Double>>(termScoreMap.entrySet());

@@ -1,60 +1,109 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok102.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok31.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok5.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok76.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok4.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok75.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok108.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok242.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok357.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok37.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok387.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok147.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok153.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok289.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok58.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok226.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok320.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok321.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok381.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok224.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok370.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok377.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok244.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok296.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok341.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok123.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok52.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok176.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok299.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok349.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok173.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok323.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok274.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok175.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok137.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok66.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok234.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok238.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok241.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok246.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok163.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok211.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok300.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok344.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok354.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok382.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok395.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok19.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok223.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok229.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok324.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok348.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok90.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok194.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok168.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok303.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok193.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok3.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok306.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok335.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok380.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok1.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok100.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok109.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok118.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
 
 
 query token : 
 mana pattimura lahir 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 passage 2 score = 7.833333333333333
 sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
@@ -85,7 +134,7 @@ sentence 3: pasukan belanda terus mengadakan penggempuran dan berhasil menguasai
 sentence 4: perlawanan semakin mereda setelah banyak para pemimpin tertawan , seperti thomas matulessi ( pattimura ) , anthonie rhebok , thomas pattiweal , lucas latumahina , dan johanes matulessi .
 sentence 5: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok58.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 passage 2 score = 7.833333333333333
 sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
@@ -116,100 +165,102 @@ sentence 3: pasukan belanda terus mengadakan penggempuran dan berhasil menguasai
 sentence 4: perlawanan semakin mereda setelah banyak para pemimpin tertawan , seperti thomas matulessi ( pattimura ) , anthonie rhebok , thomas pattiweal , lucas latumahina , dan johanes matulessi .
 sentence 5: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
-title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
-passage 2 score = 6.5
-sentence 1: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
-sentence 2: dalam pertempuran ini pangeran hidayat berada di pihak rakyat .
-sentence 3: tokoh-tokoh lain dalam pertempuran ini , antara lain kiai demang leman , haji nasrun , haji buyasin , tumenggung suropati , dan kiai langlang .
-sentence 4: pasukan antasari menyerbu pos-pos belanda yang ada di martapura dan pangron pada akhir april 1859 .
-sentence 5: di bawah pimpinan kiai demang leman dan haji buyasin pada bulan agustus 1859 pasukan banjar berhasil merebut benteng belanda di tabanio .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+title : perkembangan politik di dunia dan di indonesia pasca perang dunia ii
+passage 4 score = 7.833333333333333
+sentence 1: adalah ketegangan - ketegangan yang terjadi antara amerika dan uni sovyet di berbagai kawasan .
+sentence 2: kejadian yang berhubungan dengan perang dingin diantaranya : perang vietnam , perang korea , perang soviet-afganistan , perang sipil kamboja , perang sipil angola , perang sipil yunani , krisis kongo , runtuhnya tembok berlin , revolusi hongaria , krisis iran , krisis misil kuba bagaimana dengan negara indonesia ?
+sentence 3: pengaruh polarisasi dunia bagi perkembangan di indonesia sebagai negara yang baru merdeka amat dirasakan.negara kita juga menjadi ajang perebutan pengaruh dari negara adikuasa tersebut.hal ini dapat dilihat dari beberapa hal pada periode waktu tertentu .
+sentence 4: pada masa perang kemerdekaan ( 1945-1949 ) : setelah amerika , belgia dan australia yang tergabung dalam ktn 1947 membantu menyelesaikan konflik indonesia – belanda , maka terjadilah pemberontakan pki madiun 1948 dimana tokoh-tokoh komunis banyak yang melarikan diri ke uni sovyet .
+sentence 5: pada masa demokrasi liberal 1950-1959 : pada awalnya negara kita mencari dukungan ke barat untuk menyelesaikan masalah irian ( terutama masa kabinet sukiman ) , sistem ekonomi yang diterapkan juga terpengaruh sistem liberal.percobaan sistem ini berujung pada instabilitas politik sehingga presiden soekarno mengeluarkan dekrit 5 juli 1959 dan kita memasuki sistem baru .
+passage 5 score = 7.333333333333333
+sentence 1: pada masa demokrasi liberal 1950-1959 : pada awalnya negara kita mencari dukungan ke barat untuk menyelesaikan masalah irian ( terutama masa kabinet sukiman ) , sistem ekonomi yang diterapkan juga terpengaruh sistem liberal.percobaan sistem ini berujung pada instabilitas politik sehingga presiden soekarno mengeluarkan dekrit 5 juli 1959 dan kita memasuki sistem baru .
+sentence 2: pada masa demokrasi terpimpin ( 1959-1965 ) : kegagalan sistem liberal mendorong sikap anti kolonialisme dan anti barat ( amerika dkk ) dan mendorong indonesia lebih dekat dengan negara sosialis komunis/blok timur ( uni sovyet dkk ) .
+sentence 3: pada masa ini persaingan blok barat dan blok timur mencapai puncak nya .
+sentence 4: pemerintah indonesia memainkan peran dengan merintis berdirinya gerakan non blok ( gnb ) tahun 1961 pertama kali ktt diselenggarakan di beograd.namun demikian dilain sisi terutama dalam perebutan irian barat persenjataan kita dibantu oleh uni sovyet.selesai masalah irian barat tahun 1963 selesai tak lama kemudian meletuslah g. 30 s pki 1965 .
+sentence 5: periode orde baru 1966-1998 : penegasan politik luar negeri bebas – aktif agaknya mengurangi pengaruh kedua blok dimana kita menciptakan stabilitas kawasan asia tenggara dan merintis berdirinya asean tahun 1968 .
+passage 1 score = 2.6666666666666665
+sentence 1: dampak dari perang dunia ii sangat luas dalam berbagai aspek kehidupan , misalnya : 1 .
+sentence 2: lahirnya organisasi perdamaian dunia ( pbb ) organisasi ini fokus memelihara perdamaian dunia yang dirintis oleh the big five country.namun perkembangan sekarangatut dipertanyakan kesanggupannya/kinerjanya , karena lebih didominasi oleh pengaruh negara besar terutama amerika .
+sentence 3: 2 .
+sentence 4: kemerdekaan bagi bangsa-bangsa asia-afrika .
+sentence 5: bangsa iniyang sebelumnya menjadi objek penjajahan.proses dekolonisasi ini dipercepat adanya kesadaran akan persamaan hak sesama bangsa sebagaimana tercantum dalam piagam pbb .
+passage 2 score = 2.6666666666666665
+sentence 1: bangsa iniyang sebelumnya menjadi objek penjajahan.proses dekolonisasi ini dipercepat adanya kesadaran akan persamaan hak sesama bangsa sebagaimana tercantum dalam piagam pbb .
+sentence 2: 3 .
+sentence 3: polarisai dunia .
+sentence 4: hal ini ditandai dengan fenomena baru lahirnya negara adikuasa dan perang dingin .
+sentence 5: apa itu negara adikuasa/superpower ?
+passage 6 score = 2.333333333333333
+sentence 1: periode orde baru 1966-1998 : penegasan politik luar negeri bebas – aktif agaknya mengurangi pengaruh kedua blok dimana kita menciptakan stabilitas kawasan asia tenggara dan merintis berdirinya asean tahun 1968 .
+sentence 2: didalam membangun perekonomian kita minta bantuan imf yang cenderung didominir oleh negara-negara barat.hal ini kadang berakibat kebijakan makro ekonomi kita juga mendapat tekanan dari imf tadi.kondisi ini berlangsung terus hingga orde baru runtuh karena krisis yang dipicu oleh masalah ekonomi ini terutama tahun 1998 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok201.txt
+title : perbedaan pendapat dan penculikan
 passage 3 score = 6.5
-sentence 1: di bawah pimpinan kiai demang leman dan haji buyasin pada bulan agustus 1859 pasukan banjar berhasil merebut benteng belanda di tabanio .
-sentence 2: ketika pertempuran sedang berlangsung , belanda memecat pangeran hidayat sebagai mangkubumi karena menolak untuk menghentikan perlawanan .
-sentence 3: pada tanggal 11 juni 1860 jabatan sultan kosong ( karena sultan tamjidillah diturunkan dari takhtanya oleh pihak belanda , andresen ) dan jabatan mangkubumi dihapuskan .
-sentence 4: dengan demikian , kerajaan banjar dihapuskan dan dimasukkan dalam wilayah kekuasaan belanda .
-sentence 5: pertempuran terus meluas ke berbagai daerah , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan .
+sentence 1: pada tanggal 16 agustus 1945 di asrama baperpi jalan cikini 74 jakarta , golongan muda mengadakan rapat yang dihadiri oleh sukarni , jusuf kunto , dr. muwardi , dan shudanco singgih dan paidan peta jakarta .
+sentence 2: rapat ini membikin keputusan untuk mengasingkan ir .
+sentence 3: soekarno dan mohammad hatta ke luar kota dengan tujuan untuk menjauhkan mereka dan segala pengaruh jepang .
+sentence 4: untuk menghindari kecurigaan dari pihak jepang , shudanco singgih memperoleh kepercayaan untuk melaksanakan rencana tersebut .
+sentence 5: rencana tersebut berlangsung lancar sebab mendapat dukungan perlengkapan tentara peta dan cudanco latief hendraningrat jadi cocok pada tanggal 16 agustus 1945 pukul 04.30 , ir.soekarno , mohammad hattaa , dan sekelompok golongan pemuda tiba di rengasdengklok .
 passage 4 score = 6.5
-sentence 1: pertempuran terus meluas ke berbagai daerah , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan .
-sentence 2: dalam menghadapi serangan-serangan ini , belanda mengalami kesulitan , namun setelah mendapatkan bantuan dari luar akhirnya belanda berhasil mematahkan perlawanan rakyat .
-sentence 3: pada tanggal 3 februari 1862 , pangeran hidayat tertangkap dan dibuang ke jawa .
-sentence 4: pangeran antasari yang pada tanggal 14 maret 1862 diangkat oleh rakyat sebagai pemimpin tertinggi agama islam dengan gelar panembahan amiruddin khalifahtul mukminin gugur dalam pertempuran di hulu teweh pada tanggal 11 oktober 1862 .
-sentence 5: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
-passage 1 score = 1.0
-sentence 1: sejarah perlawanan rakyat kalimantan selatan terhadap belanda ( 1859 – 1905 ) - di kalimantan selatan , belanda telah lama melakukan campur tangan dalam urusan istana banjar .
-sentence 2: puncak kebencian terhadap belanda dan akhirnya meletus menjadi perlawanan , ketika terjadi kericuan pergantian takhta kerajaan banjar setelah wafatnya sultan adam tahun 1857 .
-sentence 3: dalam hal ini belanda mengangkat pangeran tamjidillah sebagai sultan banjar .
-sentence 4: rakyat tidak mau menerima sebab pangeran hidayat yang lebih berhak dan lebih disenangi rakyat .
-sentence 5: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
-passage 5 score = 1.0
-sentence 1: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
-sentence 2: perlawanan rakyat benar-benar dapat dikatakan padam setelah gugurnya gusti matseman tahun 1905 .
+sentence 1: rencana tersebut berlangsung lancar sebab mendapat dukungan perlengkapan tentara peta dan cudanco latief hendraningrat jadi cocok pada tanggal 16 agustus 1945 pukul 04.30 , ir.soekarno , mohammad hattaa , dan sekelompok golongan pemuda tiba di rengasdengklok .
+sentence 2: atasan mereka mengangkat ir .
+sentence 3: soekarno dan mohammad hatta untuk mengamankan mereka dari situasi genting yang terjadi di bunda kota .
+sentence 4: di rengasdengklok , akhirnya in .
+sentence 5: soekarno dan mohammad hatta bersedia untuk menyebutkan kemerdekaan seusai kembali ke jakarta .
+passage 5 score = 6.5
+sentence 1: soekarno dan mohammad hatta bersedia untuk menyebutkan kemerdekaan seusai kembali ke jakarta .
+sentence 2: sementara itu , di jakarta terjadi perundingan antara golongan tua dan golongan muda .
+sentence 3: golongan tua diwakili oleh ahmad subardjo , sedangkan golongan muda diwakili wikana .
+sentence 4: dan perundingan tersebut , diperoleh kesepakatan bahwa proklamasi kemerdekaan wajib dilaksanakan di jakarta .
+sentence 5: ahmad subardjo bersedia memberiikan jaminan bahwa proklamasi kemerdekaan indonesia bakal diumumkan pada keesokan harinya tanggal 17 agustus 1945 , maka komandan kompi peta rengasdengklok cudanco subeno bersedia melepaskan ir .
+passage 2 score = 6.0
+sentence 1: momen rengasdengklok dikarenakan oleh adanya perbedaan pendapat antara golongan tua dan golongan muda berkaitan dengan waktu yang cocok untuk mengumandangkan proklamasi kemerdekaan .
+sentence 2: menurut pendapat golongan tua , untuk memproklamasikan kemerdekaan , indonesia wajib menantikan waktu yang diberbagi oleh pemerintah jepang sebab mereka sudah memberbagi janji kemerdekaan , sedangkan menurut golongan muda , secepat mungkin dilaksanakan proklamasi kemerdekaan dengan mekegunaaankan kekosongan kekuasaan alias vacuum of power .
+sentence 3: dampak munculnya perbedaan pendapat tersebut , maka golongan pemuda meperbuat penculikan kepada golongan tua , yaitu ir .
+sentence 4: soekarno dan mohammad hatta yang diasingkan di rengasdengklok .
+sentence 5: pada tanggal 16 agustus 1945 di asrama baperpi jalan cikini 74 jakarta , golongan muda mengadakan rapat yang dihadiri oleh sukarni , jusuf kunto , dr. muwardi , dan shudanco singgih dan paidan peta jakarta .
+passage 1 score = 2.6666666666666665
+sentence 1: perbedaan pendapat dan penculikan - momen rengasdengklok adalah sejarah bagi indonesia karna momen rengasdengklok awal lahirnya alias tahap dari proses dalam kemerdekaan indonesia , mengapa ??
+sentence 2: .
+sentence 3: karna momen rengasdengklok tonggak lahirnya kemerdekaan indonesia yang digaungkan oleh para pemuda-pemudi indonesia untuk segera memerdekakan indonesia , momen rengasdengklok adalah momen-momen penting yang mengawarnai kemerdekaan indonesia dimana terkesan beberapa usaha-usaha yang diperbuat para pemuda-pemudi indonesia hingga-sampai presiden dan wakil presiden diculik untuk fokus dalam memerdekaan indonesia supaya terhindar dari pengaruh negara luar .
+sentence 4: untuk mengenal sejarah momen rengasdengklok dan usaha-usaha yang diperbuat para pemuda-pemudi dalam kemerdekaan indonesia dan apa tujuan dari momen rengasdengklok , mari kami lihat pembahasannya yang dirangkum dalam postingan sejarah momen rengasdengklok semacam yang ada dibawah ini .
+sentence 5: momen rengasdengklok dikarenakan oleh adanya perbedaan pendapat antara golongan tua dan golongan muda berkaitan dengan waktu yang cocok untuk mengumandangkan proklamasi kemerdekaan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
-title : sejarah perlawanan rakyat kalimantan selatan terhadap belanda (1859–1905)
-passage 2 score = 6.5
-sentence 1: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
-sentence 2: dalam pertempuran ini pangeran hidayat berada di pihak rakyat .
-sentence 3: tokoh-tokoh lain dalam pertempuran ini , antara lain kiai demang leman , haji nasrun , haji buyasin , tumenggung suropati , dan kiai langlang .
-sentence 4: pasukan antasari menyerbu pos-pos belanda yang ada di martapura dan pangron pada akhir april 1859 .
-sentence 5: di bawah pimpinan kiai demang leman dan haji buyasin pada bulan agustus 1859 pasukan banjar berhasil merebut benteng belanda di tabanio .
-passage 3 score = 6.5
-sentence 1: di bawah pimpinan kiai demang leman dan haji buyasin pada bulan agustus 1859 pasukan banjar berhasil merebut benteng belanda di tabanio .
-sentence 2: ketika pertempuran sedang berlangsung , belanda memecat pangeran hidayat sebagai mangkubumi karena menolak untuk menghentikan perlawanan .
-sentence 3: pada tanggal 11 juni 1860 jabatan sultan kosong ( karena sultan tamjidillah diturunkan dari takhtanya oleh pihak belanda , andresen ) dan jabatan mangkubumi dihapuskan .
-sentence 4: dengan demikian , kerajaan banjar dihapuskan dan dimasukkan dalam wilayah kekuasaan belanda .
-sentence 5: pertempuran terus meluas ke berbagai daerah , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan .
-passage 4 score = 6.5
-sentence 1: pertempuran terus meluas ke berbagai daerah , seperti tanah laut , barito , hulu sungai kapuas , dan kahayan .
-sentence 2: dalam menghadapi serangan-serangan ini , belanda mengalami kesulitan , namun setelah mendapatkan bantuan dari luar akhirnya belanda berhasil mematahkan perlawanan rakyat .
-sentence 3: pada tanggal 3 februari 1862 , pangeran hidayat tertangkap dan dibuang ke jawa .
-sentence 4: pangeran antasari yang pada tanggal 14 maret 1862 diangkat oleh rakyat sebagai pemimpin tertinggi agama islam dengan gelar panembahan amiruddin khalifahtul mukminin gugur dalam pertempuran di hulu teweh pada tanggal 11 oktober 1862 .
-sentence 5: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
-passage 1 score = 1.0
-sentence 1: sejarah perlawanan rakyat kalimantan selatan terhadap belanda ( 1859 – 1905 ) - di kalimantan selatan , belanda telah lama melakukan campur tangan dalam urusan istana banjar .
-sentence 2: puncak kebencian terhadap belanda dan akhirnya meletus menjadi perlawanan , ketika terjadi kericuan pergantian takhta kerajaan banjar setelah wafatnya sultan adam tahun 1857 .
-sentence 3: dalam hal ini belanda mengangkat pangeran tamjidillah sebagai sultan banjar .
-sentence 4: rakyat tidak mau menerima sebab pangeran hidayat yang lebih berhak dan lebih disenangi rakyat .
-sentence 5: pertempuran rakyat banjar melawan belanda berkobar pada tahun 1859 di bawah pimpinan pangeran antasari .
-passage 5 score = 1.0
-sentence 1: sepeninggal pangeran antasari , perjuangan rakyat banjar dilanjutkan oleh teman-teman seperjuangan .
-sentence 2: perlawanan rakyat benar-benar dapat dikatakan padam setelah gugurnya gusti matseman tahun 1905 .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok226.txt
+title : dampak perkembangan revolusi industri
+passage 1 score = 7.833333333333333
+sentence 1: dampak revolusi industri - revolusi industri yang dimulai di inggris kemudian menyebar ke hampir seluruh negara eropa lainnya dan juga sampai ke amerika utara .
+sentence 2: revolusi industri ini pada akhirnya mempengaruhi lahirnya perubahan-perubahan yang cepat dalam berbagai bidang kehidupan masyarakat .
+sentence 3: perubahan-perubahan tersebut pada akhirnya menimbulkan dampak-dampak sebagai berikut .
+sentence 4: perubahan sistem perekonomian berlangsungnya revolusi industri , memicu pula terjadinya revolusi dalam sistem perekonomian .
+sentence 5: sebelum terjadinya revolusi industri , sebagian besar negara lebih banyak menggantungkan perekonomian pada sektor pertanian .
+passage 11 score = 7.333333333333333
+sentence 1: lahirnya paham-paham baru berkembangnya revolusi industri mendorong lahirnya paham-paham baru , yaitu sebagai berikut : kapitalisme .
+sentence 2: kapitalisme adalah paham yang berpendapat bahwa untuk meningkatkan perekonomian , perlu dibangun sektor-sektor industri yang ditunjang dengan modal yang besar .
+sentence 3: penguasaan sektor industri tersebut perlu juga didukung dengan ketersediaan sumber bahan baku dan daerah pemasaran yang luas .
+sentence 4: aliran ini berkembang setelah terjadinya revolusi industri dan mencapai puncaknya para kapitalis ini pada akhirnya mendorong perkembangan ekonomi nasional , sehingga dengan cepat eropa mencapai taraf perekonomian yang sangat tinggi bila dibandingkan dengan negara-negara lainnya di dunia .
+sentence 5: ketika bangsa-bangsa lainnya sedang berada dalam cengkeraman kolonialisme , eropa pada saat yang sama sedang menikmati kemakmuran yang dihasilkan oleh industrialisasi .
+passage 7 score = 6.5
+sentence 1: hal ini dapat terlihat dari table berikut : perubahan sistem sosial kemasyarakatan pada fase awal terjadinya revolusi industri timbul gejolak-gejolak dalam kehidupan masyarakat .
+sentence 2: dibukanya industri-industri menimbulkan minat dari masyarakat untuk mengalihkan mata pencahariannya dari bidang pertanian menjadi pekerja industri .
+sentence 3: kondisi ini memicu arus urbanisasi yang cukup tinggi di inggris , sehingga rakyat dari pedesaan berbondong-bondong pindah ke perkotaan untuk menjadi pekerja di sektor-sektor industri yang berada di perkotaan .
+sentence 4: tidak semua para urban tersebut berhasil ditampung di industri-industri .
+sentence 5: banyak di antara mereka yang akhirnya menjadi pengangguran di perkotaan , sebab mereka tidak mau kembali ke desa asalnya dan tetap bertahan di kota dengan harapan suatu saat akan mendapatkan pekerjaan di sektor-sektor industri tersebut .
+passage 18 score = 6.5
+sentence 1: setelah itu daerah jajahan dijadikan pula sebagai tempat memasarkan hasil-hasil industrinya .
+sentence 2: pada perkembangan selanjutnya , imperialisme modern melirik tanah jajahan sebagai tempat penanaman modal ( investasi ) .
+sentence 3: hal ini dilakukan dengan tujuan untuk lebih memberdayakan tanah jajahan , sehingga negara imperialis dapat meningkatkan pendapatan dari bidang industrialisasi yang berkembang di tanah jajahan .
+sentence 4: pasca terjadinya revolusi industri , terjadi ledakan penduduk yang cukup hebat di eropa .
+sentence 5: ledakan penduduk tersebut menyebabkan semakin sesaknya daerah-daerah perkotaan di eropa .
+passage 19 score = 6.5
+sentence 1: ledakan penduduk tersebut menyebabkan semakin sesaknya daerah-daerah perkotaan di eropa .
+sentence 2: hal ini pada akhirnya mendorong negaranegara eropa untuk memindahkan kelebihan penduduk tersebut ke tanah jajahan .
+sentence 3: antara tahun 1815-1914 terjadi arus migrasi sekitar 60 juta penduduk eropa ke berbagai negara-negara jajahan di dunia .
+sentence 4: [ gs ]
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 61 score = 7.333333333333333
-sentence 1: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
-sentence 2: sukarni mengusulkan bahwa lapangan ikada ( sekarang bagian tenggara lapangan monumen nasional ) telah dipersiapkan bagi berkumpulnya masyarakat jakarta untuk mendengar pembacaan naskah proklamasi .
-sentence 3: namun ir .
-sentence 4: sukarno menganggap lapangan ikada adalah salah satu lapangan umum yang dapat menimbulkan bentrokan antara rakyat dengan pihak militer jepang .
-sentence 5: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
-passage 50 score = 6.833333333333333
-sentence 1: dengan adanya jaminan itu , maka komandan kompi peta rengasdengklok , cudanco subeno bersedia melepaskan ir .
-sentence 2: sukarno dan drs. moh hatta kembali ke jakarta .
-sentence 3: g. perumusan teks proklamasi rombongan tiba kembali di jakarta pada pukul 23.30 waktu jawa .
-sentence 4: setelah sukarno dan hatta singgah di rumah masing-masing rombongan kemudian menuju ke rumah laksamana maeda di jalan imam bonjol no. 1 , jakarta ( sekarang perpustakaan nasional ) .
-sentence 5: hal itu juga disebabkan laksamana tadashi maeda telah menyampaikan kepada ahmad subardjo ( sebagai salah satu pekerja di kantor laksamana maeda ) bahwa ia menjamin keselamatan mereka selama berada di rumahnya .
-passage 53 score = 6.833333333333333
-sentence 1: akhirnya mereka hanya mengharapkan pihak jepang tidak menghalang-halangi pelaksanaan proklamasi yang akan dilaksanakan oleh rakyat indonesia sendiri .
-sentence 2: maka mereka kembali ke rumah laksamana maeda .
-sentence 3: sebagai tuan rumah maeda mengundurkan diri ke lantai dua .
-sentence 4: sedangkan di ruang makan , naskah proklamasi dirumuskan oleh tiga tokoh golongan tua , yaitu : ir .
-sentence 5: sukarno , drs. moh .
-passage 62 score = 6.833333333333333
-sentence 1: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
-sentence 2: h. pelaksanaan proklamasi kemerdekaan 17 agustus 1945 pada pukul 05.00 waktu jawa tanggal 17 agustus 1945 , para pemimpin indonesia dari golongan tua dan golongan muda keluar dari rumah laksamana maeda .
-sentence 3: mereka pulang ke rumah masing-masing setelah berhasil merumuskan naskah proklamasi .
-sentence 4: mereka telah sepakat untuk memproklamasikan kemerdekaan pada pukul 10.30 waktu jawa atau pukul 10.00 wib sekarang .
-sentence 5: sebelum pulang bung hatta berpesan kepada para pemuda yang bekerja di kantor berita dan pers , utamanya b.m. diah untuk memperbanyak teks proklamasi dan menyiarkannya ke seluruh dunia .
-passage 1 score = 6.5
-sentence 1: a. pembentukan bpupki pada tahun 1944 saipan jatuh ke tangan sekutu .
-sentence 2: demikian halnya dengan pasukan jepang di papua nugini , kepulauan solomon dan kepulauan marshall , dipukul mundur oleh pasukan sekutu .
-sentence 3: dengan demikian seluruh garis pertahanan jepang di pasifik sudah hancur dan bayang-bayang kekalahan jepang mulai nampak .
-sentence 4: selanjutnya jepang mengalami serangan udara di kota ambon , makasar , menado dan surabaya .
-sentence 5: bahkan pasukan sekutu telah mendarat di daerah-daerah minyak seperti tarakan dan balikpapan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
 title : kerajaan kediri
 passage 1 score = 6.333333333333333
 sentence 1: pada tahun 1019 m airlangga dinobatkan menjadi raja medang kamulan .
@@ -242,141 +293,141 @@ sentence 3: kertajaya raja yang mulia serta sangat peduli dengan rakyat .
 sentence 4: kertajaya dikenal dengan catur marganya yang berarti empat jalan yaitu darma , arta , kama , moksa .
 sentence 5: b. runtuhnya kerajaan kediri runtuhnya kerajaan kediri dikarenakan pada masa pemerintahan kertajaya , terjadi pertentangan dengan kaum brahmana .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
-title : sejarah kerajaan ternate dan tidore
-passage 12 score = 6.833333333333333
-sentence 1: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
-sentence 2: b. kehidupan ekonomi kerajaan ternate dan tidore kehidupan rakyat maluku yang utama adalah pertanian dan perdagangan .
-sentence 3: tanah di kepulauan maluku sangat subur dengan hasil utamanya cengkih dan pala .
-sentence 4: keduanya merupakan rempah-rempah yang sangat diperlukan untuk ramuan obat-obatan dan bumbu masak karena mengandung bahan pemanas .
-sentence 5: oleh karena itu , rempah-rempah banyak diperlukan di daerah dingin , seperti di eropa .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok320.txt
+title : sejarah dampak perkembangan revolusi industri
+passage 1 score = 6.833333333333333
+sentence 1: sejarah dampak perkembangan revolusi industri – revolusi industri yang dimulai di inggris kemudian menyebar ke hampir seluruh negara eropa lainnya dan juga sampai ke amerika utara .
+sentence 2: revolusi industri ini pada akhirnya mempengaruhi lahirnya perubahan-perubahan yang cepat dalam berbagai bidang kehidupan masyarakat .
+sentence 3: perubahan-perubahan tersebut pada akhirnya menimbulkan dampak-dampak sebagai berikut .
+sentence 4: berlangsungnya revolusi industri , memicu pula terjadinya revolusi dalam sistem perekonomian .
+sentence 5: sebelum terjadinya revolusi industri , sebagian besar negara lebih banyak menggantungkan perekonomian pada sektor pertanian .
 passage 11 score = 6.333333333333333
-sentence 1: jika melawan portugis kasultanan dan rakyat ternate yanga memegang peranan penting maka untuk melawan vocsebaliknya , kasultanan dan rakyat tidore yang memimpinnya .
-sentence 2: pada tahun 1780 rakyat tidore bangkit melawan voc di bawah pimpinan sultan nuku .
-sentence 3: selanjutnya , sultan nuku juga berhasil menyatukan ternate dengan tidore .
-sentence 4: setelah sultan nuku meninggal ( 1805 ) , tidak ada lagi perlawaan yang kuat menentang voc , maka mulailah voc memperkokoh kekuasaannya kembali di maluku .
-sentence 5: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
-passage 2 score = 5.5
-sentence 1: a. kehidupan politik kerajaan ternate dan tidore di maluku yang terletak di antara sulawesi dan papua terdapat dua kerajaan , yakni ternate dan tidore .
-sentence 2: kedua kerajaan ini terletak di sebelah barat pulau halmahera di maluku utara .
-sentence 3: kedua kerajaan itu pusatnya masing-masing di pulau ternate dan tidore , tetapi wilayah kekuasaannya mencakup sejumlah pulau di kepulauan maluku dan papua .
-sentence 4: kerajaan ternate sebagai pemimpin persekutuan uli lima , yaitu persekutuan lima bersaudara dengan wilayahnya mencakup pulau-pulau ternate , obi , bacan , seram dan ambon .
-sentence 5: kerajaan tidore sebagai pemimpin persekutuan uli siwa ( persekutuan sembilan saudara ) wilayahnya meliputi pulau-pulau makyan , jailolo atau halmahera , dan pulau-pulau di daerah itu sampai dengan papua barat .
+sentence 1: berkembangnya revolusi industri mendorong lahirnya paham-paham baru , yaitu sebagai berikut : 1 .
+sentence 2: kapitalisme .
+sentence 3: kapitalisme adalah paham yang berpendapat bahwa untuk meningkatkan perekonomian , perlu dibangun sektor-sektor industri yang ditunjang dengan modal yang besar .
+sentence 4: penguasaan sektor industri tersebut perlu juga didukung dengan ketersediaan sumber bahan baku dan daerah pemasaran yang luas .
+sentence 5: aliran ini berkembang setelah terjadinya revolusi industri dan mencapai puncaknya para kapitalis ini pada akhirnya mendorong perkembangan ekonomi nasional , sehingga dengan cepat eropa mencapai taraf perekonomian yang sangat tinggi bila dibandingkan dengan negara-negara lainnya di dunia .
+passage 12 score = 6.333333333333333
+sentence 1: aliran ini berkembang setelah terjadinya revolusi industri dan mencapai puncaknya para kapitalis ini pada akhirnya mendorong perkembangan ekonomi nasional , sehingga dengan cepat eropa mencapai taraf perekonomian yang sangat tinggi bila dibandingkan dengan negara-negara lainnya di dunia .
+sentence 2: ketika bangsa-bangsa lainnya sedang berada dalam cengkeraman kolonialisme , eropa pada saat yang sama sedang menikmati kemakmuran yang dihasilkan oleh industrialisasi .
+sentence 3: selain itu , dalam sistem perekonomian , lahirnya golongan kapitalis ini telah mendorong semakin berkembangnya aliran ekonomi liberal .
+sentence 4: para kapitalis menuntut agar pemerintah tidak ikut campur tangan terlalu besar dalam kehidupan perekonomian .
+sentence 5: perekonomian sepenuhnya diserahkan pada pasar , sehingga akan menggantungkan pada sistem penawaran dan permintaan .
 passage 7 score = 5.5
-sentence 1: orang-orang portugis yang menyerah tidak dibunuh , tetapi harus meninggalkan ternate .
-sentence 2: mereka pun pindah ke ambon , maluku .
-sentence 3: sultan baabullah dapat meluaskan daerah kekuasaannya di maluku .
-sentence 4: daerah kekuasaannya terbentang antara sulawesi dan papua ; ke arah timur sampai papua ; barat sampai ke pulau buton ; utara sampai ke mindanao selatan ( filipina ) ; selatan sampai ke pulau bima ( nusa tenggara ) sehingga ia mendapat julukan tuan dari tujuh pulau dua pulau .
-sentence 5: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
-passage 8 score = 5.5
-sentence 1: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
-sentence 2: belanda akhirnya berhasil menduduki benteng portugis di ambon dan dapat mengusir portugis dari maluku ( 1605 ) .
-sentence 3: belanda yang tampa ada saingan kemudian juga melakukan tindakan yang sewenang-wenang , seperti berikut ini .
-sentence 4: 1 ) melaksanakan sistem penyerahan wajib sebagian hasil bumi ( rempahrempah ) kepada voc ( contingenten ) .
-sentence 5: 2 ) adanya perintah penebangan/pemusnahan tanaman rempah-rempah jika harga rempah-rempah di pasaran turun ( hak ekstirpasi ) dan penanaman kembali secara serentak apabila harga rempah-rempah di pasaran naik/meningkat .
+sentence 1: hal ini dapat terlihat dari table berikut : pada fase awal terjadinya revolusi industri timbul gejolak-gejolak dalam kehidupan masyarakat .
+sentence 2: dibukanya industri-industri menimbulkan minat dari masyarakat untuk mengalihkan mata pencahariannya dari bidang pertanian menjadi pekerja industri .
+sentence 3: kondisi ini memicu arus urbanisasi yang cukup tinggi di inggris , sehingga rakyat dari pedesaan berbondong-bondong pindah ke perkotaan untuk menjadi pekerja di sektor-sektor industri yang berada di perkotaan .
+sentence 4: tidak semua para urban tersebut berhasil ditampung di industri-industri .
+sentence 5: banyak di antara mereka yang akhirnya menjadi pengangguran di perkotaan , sebab mereka tidak mau kembali ke desa asalnya dan tetap bertahan di kota dengan harapan suatu saat akan mendapatkan pekerjaan di sektor-sektor industri tersebut .
+passage 19 score = 5.5
+sentence 1: hal ini dilakukan dengan tujuan untuk lebih memberdayakan tanah jajahan , sehingga negara imperialis dapat meningkatkan pendapatan dari bidang industrialisasi yang berkembang di tanah jajahan .
+sentence 2: pasca terjadinya revolusi industri , terjadi ledakan penduduk yang cukup hebat di eropa .
+sentence 3: ledakan penduduk tersebut menyebabkan semakin sesaknya daerah-daerah perkotaan di eropa .
+sentence 4: hal ini pada akhirnya mendorong negaranegara eropa untuk memindahkan kelebihan penduduk tersebut ke tanah jajahan .
+sentence 5: antara tahun 1815-1914 terjadi arus migrasi sekitar 60 juta penduduk eropa ke berbagai negara-negara jajahan di dunia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
-title : sejarah kerajaan ternate dan tidore
-passage 12 score = 6.833333333333333
-sentence 1: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
-sentence 2: b. kehidupan ekonomi kerajaan ternate dan tidore kehidupan rakyat maluku yang utama adalah pertanian dan perdagangan .
-sentence 3: tanah di kepulauan maluku sangat subur dengan hasil utamanya cengkih dan pala .
-sentence 4: keduanya merupakan rempah-rempah yang sangat diperlukan untuk ramuan obat-obatan dan bumbu masak karena mengandung bahan pemanas .
-sentence 5: oleh karena itu , rempah-rempah banyak diperlukan di daerah dingin , seperti di eropa .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok321.txt
+title : sejarah dampak revolusi industri
+passage 1 score = 6.833333333333333
+sentence 1: sejarah dampak revolusi industri – revolusi industri yang dimulai di inggris kemudian menyebar ke hampir seluruh negara eropa lainnya dan juga sampai ke amerika utara .
+sentence 2: revolusi industri ini pada akhirnya mempengaruhi lahirnya perubahan-perubahan yang cepat dalam berbagai bidang kehidupan masyarakat .
+sentence 3: perubahan-perubahan tersebut pada akhirnya menimbulkan dampak-dampak sebagai berikut .
+sentence 4: berlangsungnya revolusi industri , memicu pula terjadinya revolusi dalam sistem perekonomian .
+sentence 5: sebelum terjadinya revolusi industri , sebagian besar negara lebih banyak menggantungkan perekonomian pada sektor pertanian .
 passage 11 score = 6.333333333333333
-sentence 1: jika melawan portugis kasultanan dan rakyat ternate yanga memegang peranan penting maka untuk melawan vocsebaliknya , kasultanan dan rakyat tidore yang memimpinnya .
-sentence 2: pada tahun 1780 rakyat tidore bangkit melawan voc di bawah pimpinan sultan nuku .
-sentence 3: selanjutnya , sultan nuku juga berhasil menyatukan ternate dengan tidore .
-sentence 4: setelah sultan nuku meninggal ( 1805 ) , tidak ada lagi perlawaan yang kuat menentang voc , maka mulailah voc memperkokoh kekuasaannya kembali di maluku .
-sentence 5: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
-passage 2 score = 5.5
-sentence 1: a. kehidupan politik kerajaan ternate dan tidore di maluku yang terletak di antara sulawesi dan papua terdapat dua kerajaan , yakni ternate dan tidore .
-sentence 2: kedua kerajaan ini terletak di sebelah barat pulau halmahera di maluku utara .
-sentence 3: kedua kerajaan itu pusatnya masing-masing di pulau ternate dan tidore , tetapi wilayah kekuasaannya mencakup sejumlah pulau di kepulauan maluku dan papua .
-sentence 4: kerajaan ternate sebagai pemimpin persekutuan uli lima , yaitu persekutuan lima bersaudara dengan wilayahnya mencakup pulau-pulau ternate , obi , bacan , seram dan ambon .
-sentence 5: kerajaan tidore sebagai pemimpin persekutuan uli siwa ( persekutuan sembilan saudara ) wilayahnya meliputi pulau-pulau makyan , jailolo atau halmahera , dan pulau-pulau di daerah itu sampai dengan papua barat .
+sentence 1: berkembangnya revolusi industri mendorong lahirnya paham-paham baru , yaitu sebagai berikut : 1 .
+sentence 2: kapitalisme .
+sentence 3: kapitalisme adalah paham yang berpendapat bahwa untuk meningkatkan perekonomian , perlu dibangun sektor-sektor industri yang ditunjang dengan modal yang besar .
+sentence 4: penguasaan sektor industri tersebut perlu juga didukung dengan ketersediaan sumber bahan baku dan daerah pemasaran yang luas .
+sentence 5: aliran ini berkembang setelah terjadinya revolusi industri dan mencapai puncaknya para kapitalis ini pada akhirnya mendorong perkembangan ekonomi nasional , sehingga dengan cepat eropa mencapai taraf perekonomian yang sangat tinggi bila dibandingkan dengan negara-negara lainnya di dunia .
+passage 12 score = 6.333333333333333
+sentence 1: aliran ini berkembang setelah terjadinya revolusi industri dan mencapai puncaknya para kapitalis ini pada akhirnya mendorong perkembangan ekonomi nasional , sehingga dengan cepat eropa mencapai taraf perekonomian yang sangat tinggi bila dibandingkan dengan negara-negara lainnya di dunia .
+sentence 2: ketika bangsa-bangsa lainnya sedang berada dalam cengkeraman kolonialisme , eropa pada saat yang sama sedang menikmati kemakmuran yang dihasilkan oleh industrialisasi .
+sentence 3: selain itu , dalam sistem perekonomian , lahirnya golongan kapitalis ini telah mendorong semakin berkembangnya aliran ekonomi liberal .
+sentence 4: para kapitalis menuntut agar pemerintah tidak ikut campur tangan terlalu besar dalam kehidupan perekonomian .
+sentence 5: perekonomian sepenuhnya diserahkan pada pasar , sehingga akan menggantungkan pada sistem penawaran dan permintaan .
 passage 7 score = 5.5
-sentence 1: orang-orang portugis yang menyerah tidak dibunuh , tetapi harus meninggalkan ternate .
-sentence 2: mereka pun pindah ke ambon , maluku .
-sentence 3: sultan baabullah dapat meluaskan daerah kekuasaannya di maluku .
-sentence 4: daerah kekuasaannya terbentang antara sulawesi dan papua ; ke arah timur sampai papua ; barat sampai ke pulau buton ; utara sampai ke mindanao selatan ( filipina ) ; selatan sampai ke pulau bima ( nusa tenggara ) sehingga ia mendapat julukan tuan dari tujuh pulau dua pulau .
-sentence 5: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
-passage 8 score = 5.5
-sentence 1: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
-sentence 2: belanda akhirnya berhasil menduduki benteng portugis di ambon dan dapat mengusir portugis dari maluku ( 1605 ) .
-sentence 3: belanda yang tampa ada saingan kemudian juga melakukan tindakan yang sewenang-wenang , seperti berikut ini .
-sentence 4: 1 ) melaksanakan sistem penyerahan wajib sebagian hasil bumi ( rempahrempah ) kepada voc ( contingenten ) .
-sentence 5: 2 ) adanya perintah penebangan/pemusnahan tanaman rempah-rempah jika harga rempah-rempah di pasaran turun ( hak ekstirpasi ) dan penanaman kembali secara serentak apabila harga rempah-rempah di pasaran naik/meningkat .
+sentence 1: hal ini dapat terlihat dari table berikut : pada fase awal terjadinya revolusi industri timbul gejolak-gejolak dalam kehidupan masyarakat .
+sentence 2: dibukanya industri-industri menimbulkan minat dari masyarakat untuk mengalihkan mata pencahariannya dari bidang pertanian menjadi pekerja industri .
+sentence 3: kondisi ini memicu arus urbanisasi yang cukup tinggi di inggris , sehingga rakyat dari pedesaan berbondong-bondong pindah ke perkotaan untuk menjadi pekerja di sektor-sektor industri yang berada di perkotaan .
+sentence 4: tidak semua para urban tersebut berhasil ditampung di industri-industri .
+sentence 5: banyak di antara mereka yang akhirnya menjadi pengangguran di perkotaan , sebab mereka tidak mau kembali ke desa asalnya dan tetap bertahan di kota dengan harapan suatu saat akan mendapatkan pekerjaan di sektor-sektor industri tersebut .
+passage 19 score = 5.5
+sentence 1: hal ini dilakukan dengan tujuan untuk lebih memberdayakan tanah jajahan , sehingga negara imperialis dapat meningkatkan pendapatan dari bidang industrialisasi yang berkembang di tanah jajahan .
+sentence 2: pasca terjadinya revolusi industri , terjadi ledakan penduduk yang cukup hebat di eropa .
+sentence 3: ledakan penduduk tersebut menyebabkan semakin sesaknya daerah-daerah perkotaan di eropa .
+sentence 4: hal ini pada akhirnya mendorong negaranegara eropa untuk memindahkan kelebihan penduduk tersebut ke tanah jajahan .
+sentence 5: antara tahun 1815-1914 terjadi arus migrasi sekitar 60 juta penduduk eropa ke berbagai negara-negara jajahan di dunia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok16.txt
+title : penjelasan teori (pendapat) masuknya islam di indonesia
+passage 1 score = 7.166666666666667
+sentence 1: penjelasan teori ( pendapat ) masuknya islam di indonesia - proses islamisasi yang terjadi di indonesia beriringan dengan proses perdagangan yang terjadi antara bangsa indonesia dengan bangsa asing .
+sentence 2: sebagaimana telah dikemukakan bahwa secara geografis , indonesia merupakan sebuah wilayah kepulauan yang terbuka bagi terjadinya interaksi perdagangan .
+sentence 3: salah satu dampak dari interaksi tersebut adalah masuknya islam ke indonesia .
+sentence 4: hal-hal yang menjadi pertanyaan mengenai proses islamisasi tersebut ialah dari manakah asalnya bangsa indonesia menerima islam , dan kapan islam itu datang ?
+sentence 5: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+passage 2 score = 6.833333333333333
+sentence 1: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+sentence 2: berita-berita dari bangsa asing menunjukkan bahwa para pedagang islam diperkirakan pertama kali datang ke indonesia pada abad ke-7 m , yaitu ketika berkuasanya kerajaan sriwijaya .
+sentence 3: pada saat itu , di pusat kerajaan sriwijaya telah dijumpai perkampungan-perkampungan pedagang arab .
+sentence 4: menurut berita ibn hordadzbeth ( 844-848 m ) , pedagang sulaiman ( 902 m ) , ibn rosteh ( 903 m ) , abu yazid ( 916 m ) , dan ahli geografi mas ’ udi ( 955 m ) , kerajaan sriwijaya ( sribu a ) berada di bawah kekuasaan raja zabag yang kaya dan menguasai jalur perdagangan dengan kerajaan oman .
+sentence 5: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+passage 12 score = 5.833333333333333
+sentence 1: sementara itu morrison dan arnold mengatakan bahwa islam di indonesia dibawa oleh orang-orang coromandel dan malabar .
+sentence 2: pendapat lain mengatakan bahwa islam berasal langsung dari mekkah , arab , sebagaimana dikemukakan oleh crawford .
+sentence 3: pendapat crawford didukung oleh sejarawan indonesia , seperti hamka yang berpendapat bahwa islam yang masuk ke indonesia itu langsung dari arab .
+sentence 4: tetapi husein djajadiningrat lebih berpendapat bahwa islam di indonesia berasal dari parsi atau persia .
+sentence 5: ia lebih menitikberatkan pada kesamaan kebudayaan dan tradisi yang berkembang antara masyarakat persia dan indonesia , seperti tradisi perayaan 10 muharam dan pengaruh bahasa yang banyak dipakai di indonesia .
 passage 3 score = 5.5
-sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
-sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
-sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
-sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
-sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
-passage 9 score = 5.5
-sentence 1: semua pemberontakan tersebut dapat dipadamkan .
-sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
-sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
-sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
-sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
-passage 10 score = 5.5
-sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
-sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
-sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
-sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
-sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
-passage 22 score = 5.5
-sentence 1: setelah mengalami kemunduran , akhirnya majapahit runtuh .
-sentence 2: dalam hal ini ada dua pendapat : a ) tahun 1478 , yakni adanya serangan girindrawardana dari kediri .
-sentence 3: peristiwa tersebut diberi candrasengkala " hilang sirnakertaning bhumi " yang berarti tahun 1400 saka/1478 m. b ) tahun 1526 , yakni adanya serangan tentara dari demak di bawah pimpinan raden patah .
-sentence 4: serangan demak ini menandai berakhirnya kekuasaan hindu di jawa .
-sentence 5: pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke daerah badandea .
-passage 25 score = 5.5
-sentence 1: pemberontakan ini dapat dipadamkan oleh gajah mada .
-sentence 2: sebagai penghargaan atas jasanya , gajah mada diangkat menjadi mahapatih di majapahit oleh tribhuanatunggadewi .
-sentence 3: di hadapan raja dan para pembesar majapahit , gajah mada mengucapkan sumpah yang terkenal dengan nama sumpah palapa .
-sentence 4: isi sumpahnya , ia tidak akan amukti palapa sebelum ia dapat menundukkan nusantara , yaitu gurun , seran , panjungpura , haru , pahang , dompo , bali , sunda , palembang , dan tumasik .
-sentence 5: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 1: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+sentence 2: pedagang-pedagang gujarat dari india yang datang ke indonesia bukan hanya untuk berdagang , tetapi juga untuk menyebarkan agama yang mereka anut .
+sentence 3: di samping itu , para saudagar yang datang dari persia juga ikut menyebarkan agama islam di indonesia .
+sentence 4: teknologi pelayaran pada masa itu tidak secanggih sekarang , pelayaran pada masa lalu sangat tergantung pada angin musim yang membantu kapal mereka bergerak sesuai tujuan .
+sentence 5: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
+passage 4 score = 5.5
+sentence 1: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
+sentence 2: selama masa tunggu itu , mereka bergaul dengan penduduk setempat .
+sentence 3: kesempatan itu digunakan oleh para pedagang dari arab , gujarat , dan persia untuk menyebarkan agama islam .
+sentence 4: penyebaran agama islam di indonesia terjadi secara berangsur-angsur selama beberapa abad lamanya .
+sentence 5: waktu masuknya agama islam ke indonesia di tiap-tiap daerah tidak sama .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok266.txt
+title : pendapat-pendapat tentang proses awal penyebaran islam di indonesia
+passage 1 score = 7.166666666666667
+sentence 1: pendapat-pendapat tentang proses awal penyebaran islam di indonesia - proses islamisasi yang terjadi di indonesia beriringan dengan proses perdagangan yang terjadi antara bangsa indonesia dengan bangsa asing .
+sentence 2: sebagaimana telah dikemukakan bahwa secara geografis , indonesia merupakan sebuah wilayah kepulauan yang terbuka bagi terjadinya interaksi perdagangan .
+sentence 3: salah satu dampak dari interaksi tersebut adalah masuknya islam ke indonesia .
+sentence 4: hal-hal yang menjadi pertanyaan mengenai proses islamisasi tersebut ialah dari manakah asalnya bangsa indonesia menerima islam , dan kapan islam itu datang ?
+sentence 5: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+passage 2 score = 6.833333333333333
+sentence 1: untuk menjawab pertanyaan-pertanyaan tersebut , lahirlah beberapa pendapat atau teori tentang islamisasi di indonesia .
+sentence 2: berita-berita dari bangsa asing menunjukkan bahwa para pedagang islam diperkirakan pertama kali datang ke indonesia pada abad ke-7 m , yaituketika berkuasanya kerajaan sriwijaya .
+sentence 3: pada saat itu , di pusat kerajaan sriwijaya telah dijumpai perkampungan-perkampungan pedagang arab .
+sentence 4: menurut berita ibn hordadzbeth ( 844-848 m ) , pedagang sulaiman ( 902 m ) , ibn rosteh ( 903 m ) , abu yazid ( 916 m ) , dan ahli geografi mas ’ udi ( 955 m ) , kerajaan sriwijaya ( sribu a ) berada di bawah kekuasaan raja zabag yang kaya dan menguasai jalur perdagangan dengan kerajaan oman .
+sentence 5: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+passage 11 score = 5.833333333333333
+sentence 1: pendapat mouquette dibantah oleh fattiniyang berpendapat bahwa gaya batu nisan malik al-saleh memiliki corak yang berbeda dengan batu nisan di gujarat .
+sentence 2: batu nisan malik al-saleh lebih mirip dengan batu nisan yang ada di bengala .
+sentence 3: dengan demikian , fattini menyimpulkan bahwa tempat asal para penyebar islam di indonesia adalah dari bengala yang kini lebih dikenal dengan sebutan bangladesh .
+sentence 4: sementara itu morrisondan arnold mengatakan bahwa islam di indonesia dibawa oleh orang-orang coromandel dan malabar .
+sentence 5: pendapat lain mengatakan bahwa islam berasal langsung dari mekkah , arab , sebagaimana dikemukakan oleh crawford .
+passage 12 score = 5.833333333333333
+sentence 1: pendapat lain mengatakan bahwa islam berasal langsung dari mekkah , arab , sebagaimana dikemukakan oleh crawford .
+sentence 2: pendapat crawford didukung oleh sejarawan indonesia , seperti hamkayang berpendapat bahwa islam yang masuk ke indonesia itu langsung dari arab .
+sentence 3: tetapi husein djajadiningrat lebih berpendapat bahwa islam di indonesia berasal dari parsi atau persia .
+sentence 4: ia lebih menitikberatkan pada kesamaan kebudayaan dan tradisi yang berkembang antara masyarakat persia dan indonesia , seperti tradisi perayaan 10 muharam dan pengaruh bahasa yang banyak dipakai di indonesia .
+sentence 5: kata bang , abdas , dan mesigit adalah istilah yang ada dalam bahasa persia .
 passage 3 score = 5.5
-sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
-sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
-sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
-sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
-sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
-passage 9 score = 5.5
-sentence 1: semua pemberontakan tersebut dapat dipadamkan .
-sentence 2: d ) pemberontakan kuti ( 1319 ) merupakan pemberontakan yang paling membahayakan karena kuti dapat menduduki istana kerajaan dan jayanegara terpaksa menyingkir ke bedander .
-sentence 3: namun , pasukan bayangkari kerajaan di bawah pimpinan gajah mada berhasil merebut kembali istana .
-sentence 4: jayanegara dapat kembali ke istana lagi dan berkuasa hingga tahun 1328 .
-sentence 5: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
-passage 10 score = 5.5
-sentence 1: sebagai penghargaan atas jasa-jasanya , gajah mada kemudian diangkat menjadi patih di kahuripan dan kemudian di daha .
-sentence 2: 3 ) tribhuanatunggadewi ( 1328 – 1350 ) pada tahun 1328 jayanegara wafat .
-sentence 3: ia tidak mempunyai putra sehingga takhta kerajaan diserahkan kepada gayatri .
-sentence 4: oleh karena gayatri telah menjadi bhiksuni maka yang tampil adalah putrinya , bhre kahuripan yang bertindak sebagai wali ibunya .
-sentence 5: bhre kahuripan bergelar tribhuanatunggadewi .
-passage 22 score = 5.5
-sentence 1: setelah mengalami kemunduran , akhirnya majapahit runtuh .
-sentence 2: dalam hal ini ada dua pendapat : a ) tahun 1478 , yakni adanya serangan girindrawardana dari kediri .
-sentence 3: peristiwa tersebut diberi candrasengkala " hilang sirnakertaning bhumi " yang berarti tahun 1400 saka/1478 m. b ) tahun 1526 , yakni adanya serangan tentara dari demak di bawah pimpinan raden patah .
-sentence 4: serangan demak ini menandai berakhirnya kekuasaan hindu di jawa .
-sentence 5: pemberontakan kuti merupakan pemberontakan yang paling berbahaya karena kuti berhasil menduduki ibu kota majapahit , sehingga raja jayanegara terpaksa melarikan diri ke daerah badandea .
-passage 25 score = 5.5
-sentence 1: pemberontakan ini dapat dipadamkan oleh gajah mada .
-sentence 2: sebagai penghargaan atas jasanya , gajah mada diangkat menjadi mahapatih di majapahit oleh tribhuanatunggadewi .
-sentence 3: di hadapan raja dan para pembesar majapahit , gajah mada mengucapkan sumpah yang terkenal dengan nama sumpah palapa .
-sentence 4: isi sumpahnya , ia tidak akan amukti palapa sebelum ia dapat menundukkan nusantara , yaitu gurun , seran , panjungpura , haru , pahang , dompo , bali , sunda , palembang , dan tumasik .
-sentence 5: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 1: dari sribu a , para pedagang arab memperoleh kayu gaharu , kayu cendana , kapur barus , gading , timah , kayu hitam , kayu sapan , dan rempah-rempah ( cengkeh , lada , pala dan merica ) .
+sentence 2: pedagang-pedagang gujarat dari india yang datang ke indonesia bukan hanya untuk berdagang , tetapi juga untuk menyebarkan agama yang mereka anut .
+sentence 3: di samping itu , para saudagar yang datang dari persia juga ikut menyebarkan agama islam di indonesia .
+sentence 4: teknologi pelayaran pada masa itu tidak secanggih sekarang , pelayaran pada masa lalu sangat tergantung pada angin musim yang membantu kapal mereka bergerak sesuai tujuan .
+sentence 5: selama beberapa bulan , para pedagang dari berbagai bangsa tinggal di malaka dan mereka harus menunggu angin musim yang baik untuk kembali ke tanah air mereka .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 passage 2 score = 7.833333333333333
 sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
@@ -385,7 +436,7 @@ sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperia
 sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
 sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok58.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 passage 2 score = 7.833333333333333
 sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
@@ -394,7 +445,25 @@ sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperia
 sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
 sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+title : perkembangan politik di dunia dan di indonesia pasca perang dunia ii
+passage 4 score = 7.833333333333333
+sentence 1: adalah ketegangan - ketegangan yang terjadi antara amerika dan uni sovyet di berbagai kawasan .
+sentence 2: kejadian yang berhubungan dengan perang dingin diantaranya : perang vietnam , perang korea , perang soviet-afganistan , perang sipil kamboja , perang sipil angola , perang sipil yunani , krisis kongo , runtuhnya tembok berlin , revolusi hongaria , krisis iran , krisis misil kuba bagaimana dengan negara indonesia ?
+sentence 3: pengaruh polarisasi dunia bagi perkembangan di indonesia sebagai negara yang baru merdeka amat dirasakan.negara kita juga menjadi ajang perebutan pengaruh dari negara adikuasa tersebut.hal ini dapat dilihat dari beberapa hal pada periode waktu tertentu .
+sentence 4: pada masa perang kemerdekaan ( 1945-1949 ) : setelah amerika , belgia dan australia yang tergabung dalam ktn 1947 membantu menyelesaikan konflik indonesia – belanda , maka terjadilah pemberontakan pki madiun 1948 dimana tokoh-tokoh komunis banyak yang melarikan diri ke uni sovyet .
+sentence 5: pada masa demokrasi liberal 1950-1959 : pada awalnya negara kita mencari dukungan ke barat untuk menyelesaikan masalah irian ( terutama masa kabinet sukiman ) , sistem ekonomi yang diterapkan juga terpengaruh sistem liberal.percobaan sistem ini berujung pada instabilitas politik sehingga presiden soekarno mengeluarkan dekrit 5 juli 1959 dan kita memasuki sistem baru .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok226.txt
+title : dampak perkembangan revolusi industri
+passage 1 score = 7.833333333333333
+sentence 1: dampak revolusi industri - revolusi industri yang dimulai di inggris kemudian menyebar ke hampir seluruh negara eropa lainnya dan juga sampai ke amerika utara .
+sentence 2: revolusi industri ini pada akhirnya mempengaruhi lahirnya perubahan-perubahan yang cepat dalam berbagai bidang kehidupan masyarakat .
+sentence 3: perubahan-perubahan tersebut pada akhirnya menimbulkan dampak-dampak sebagai berikut .
+sentence 4: perubahan sistem perekonomian berlangsungnya revolusi industri , memicu pula terjadinya revolusi dalam sistem perekonomian .
+sentence 5: sebelum terjadinya revolusi industri , sebagian besar negara lebih banyak menggantungkan perekonomian pada sektor pertanian .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 passage 1 score = 7.333333333333333
 sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
@@ -402,24 +471,6 @@ sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya te
 sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
 sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
 sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
-passage 1 score = 7.333333333333333
-sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
-sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
-sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
-sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
-sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 61 score = 7.333333333333333
-sentence 1: hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , hari 17 boelan 8 tahoen ‘ 05 atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
-sentence 2: sukarni mengusulkan bahwa lapangan ikada ( sekarang bagian tenggara lapangan monumen nasional ) telah dipersiapkan bagi berkumpulnya masyarakat jakarta untuk mendengar pembacaan naskah proklamasi .
-sentence 3: namun ir .
-sentence 4: sukarno menganggap lapangan ikada adalah salah satu lapangan umum yang dapat menimbulkan bentrokan antara rakyat dengan pihak militer jepang .
-sentence 5: oleh karena itu bung karno mengusulkan agar upacara proklamasi dilaksanakan di rumahnya , di jalan pegangsaan timur no. 56 dan disetujui oleh para hadirin .
 
 
 Pencarian jawaban
@@ -430,7 +481,7 @@ b. sebab psikologis , yaitu adanya pemecatan <PERSON>guru-guru sekolah</PERSON> 
 
 memproses passage 2
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 list jawaban dan posisi dalam passage
 batavia | position = 15
@@ -506,7 +557,7 @@ aksi perlawanan meletus pada <TIME>tanggal 15 mei 1817</TIME> dengan menyerang b
 
 memproses passage 2
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 list jawaban dan posisi dalam passage
 saparua | position = 7
@@ -552,7 +603,7 @@ b. sebab psikologis , yaitu adanya pemecatan <PERSON>guru-guru sekolah</PERSON> 
 
 memproses passage 2
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok58.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 list jawaban dan posisi dalam passage
 batavia | position = 15
@@ -628,7 +679,7 @@ aksi perlawanan meletus pada <TIME>tanggal 15 mei 1817</TIME> dengan menyerang b
 
 memproses passage 2
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok58.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 list jawaban dan posisi dalam passage
 saparua | position = 7
@@ -670,6 +721,289 @@ setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan 
 tidak ada entitas jawaban, skip
 
 
+adalah ketegangan - ketegangan yang terjadi antara amerika dan uni sovyet di berbagai kawasan .
+
+
+tidak ada entitas jawaban, skip
+
+
+kejadian yang berhubungan dengan perang dingin diantaranya : perang vietnam , perang korea , perang soviet-afganistan , perang sipil kamboja , perang sipil angola , perang sipil yunani , krisis kongo , runtuhnya tembok berlin , revolusi hongaria , krisis iran , krisis misil kuba bagaimana dengan negara indonesia ?
+
+
+tidak ada entitas jawaban, skip
+
+
+pengaruh polarisasi dunia bagi perkembangan di <LOCATION>indonesia</LOCATION> sebagai negara yang baru merdeka amat dirasakan.negara kita juga menjadi ajang perebutan pengaruh dari negara adikuasa tersebut.hal ini dapat dilihat dari beberapa hal pada periode waktu tertentu .
+
+memproses passage 4
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+title : perkembangan politik di dunia dan di indonesia pasca perang dunia ii
+list jawaban dan posisi dalam passage
+indonesia | position = 4
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = polarisasi
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = dirasakan.negara
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = ajang
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = adikuasa
+tokenwithtagstemmed = tersebut.hal
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = waktu
+kata kunci = pattimura
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = polarisasi
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = dirasakan.negara
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = ajang
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = adikuasa
+tokenwithtagstemmed = tersebut.hal
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = waktu
+kata kunci = lahir
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = polarisasi
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = dirasakan.negara
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = ajang
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = adikuasa
+tokenwithtagstemmed = tersebut.hal
+tokenwithtagstemmed = lihat
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = waktu
+
+
+pada masa perang kemerdekaan ( <TIME>1945-1949</TIME> ) : setelah amerika , belgia dan <PERSON>australia</PERSON> yang tergabung dalam <TIME>ktn 1947</TIME> membantu menyelesaikan konflik <PERSON>indonesia</PERSON> – belanda , maka terjadilah pemberontakan pki <TIME>madiun 1948</TIME> dimana <PERSON>tokoh-tokoh komunis</PERSON> banyak yang melarikan diri ke uni sovyet .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada masa demokrasi liberal <TIME>1950-1959</TIME> : pada awalnya negara kita mencari dukungan ke <LOCATION>barat</LOCATION> untuk menyelesaikan masalah irian ( terutama masa kabinet sukiman ) , sistem ekonomi yang diterapkan juga terpengaruh sistem liberal.percobaan sistem ini berujung pada instabilitas politik sehingga presiden soekarno mengeluarkan dekrit <TIME>5 juli 1959</TIME> dan kita memasuki sistem baru .
+
+memproses passage 4
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+title : perkembangan politik di dunia dan di indonesia pasca perang dunia ii
+list jawaban dan posisi dalam passage
+barat | position = 8
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = liberal
+tokenwithtagstemmed = 1950 1959
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = iri
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = sukiman
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = terap
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = liberal.percobaan
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = ujung
+tokenwithtagstemmed = instabilitas
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = dekrit
+tokenwithtagstemmed = 5 juli 1959
+tokenwithtagstemmed = pasuk
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = baru
+kata kunci = pattimura
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = liberal
+tokenwithtagstemmed = 1950 1959
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = iri
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = sukiman
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = terap
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = liberal.percobaan
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = ujung
+tokenwithtagstemmed = instabilitas
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = dekrit
+tokenwithtagstemmed = 5 juli 1959
+tokenwithtagstemmed = pasuk
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = baru
+kata kunci = lahir
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = liberal
+tokenwithtagstemmed = 1950 1959
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = masalah
+tokenwithtagstemmed = iri
+tokenwithtagstemmed = utama
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = sukiman
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = ekonomi
+tokenwithtagstemmed = terap
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = liberal.percobaan
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = ujung
+tokenwithtagstemmed = instabilitas
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = dekrit
+tokenwithtagstemmed = 5 juli 1959
+tokenwithtagstemmed = pasuk
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = baru
+
+
+dampak revolusi industri - revolusi industri yang dimulai di inggris kemudian menyebar ke <LOCATION>hampir seluruh negara eropa lainnya</LOCATION> dan juga sampai ke <LOCATION>amerika utara .</LOCATION>
+
+memproses passage 1
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok226.txt
+title : dampak perkembangan revolusi industri
+list jawaban dan posisi dalam passage
+negara eropa | position = 8
+amerika utara | position = 9
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = dampak
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = industri
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = industri
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = negara eropa
+tokenwithtagstemmed = amerika utara
+kata kunci = pattimura
+tokenwithtagstemmed = dampak
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = industri
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = industri
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = negara eropa
+tokenwithtagstemmed = amerika utara
+kata kunci = lahir
+tokenwithtagstemmed = dampak
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = industri
+tokenwithtagstemmed = revolusi
+tokenwithtagstemmed = industri
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = negara eropa
+tokenwithtagstemmed = amerika utara
+
+
+revolusi industri ini pada akhirnya mempengaruhi lahirnya perubahan-perubahan yang cepat dalam berbagai bidang kehidupan masyarakat .
+
+
+tidak ada entitas jawaban, skip
+
+
+perubahan-perubahan tersebut pada akhirnya menimbulkan dampak-dampak sebagai berikut .
+
+
+tidak ada entitas jawaban, skip
+
+
+perubahan sistem perekonomian berlangsungnya revolusi industri , memicu pula terjadinya revolusi dalam sistem perekonomian .
+
+
+tidak ada entitas jawaban, skip
+
+
+sebelum terjadinya revolusi industri , sebagian besar negara lebih banyak menggantungkan perekonomian pada sektor pertanian .
+
+
+tidak ada entitas jawaban, skip
+
+
 #sejarah _ kelas_11 sejarah perlawanan <PERSON>rakyat maluku</PERSON> di bawah thomas matullesi ( pattimura ) <TIME>1817</TIME> - sejak <TIME>abad ke-17</TIME> perlawanan <PERSON>rakyat maluku</PERSON> terhadap <PERSON>kompeni</PERSON> sudah terjadi , namun perlawanan yang dahsyat baru muncul pada <TIME>permulaan abad ke-19</TIME> , di bawah pimpinan <PERSON>thomas matulessi</PERSON> ( lebih dikenal dengan nama pattimura ) .
 
 
@@ -698,7 +1032,7 @@ b. sebab psikologis , yaitu adanya pemecatan <PERSON>guru-guru sekolah</PERSON> 
 
 memproses passage 1
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
 title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
 list jawaban dan posisi dalam passage
 batavia | position = 15
@@ -756,173 +1090,6 @@ tokenwithtagstemmed = untuk
 tokenwithtagstemmed = dinas
 tokenwithtagstemmed = militer
 tokenwithtagstemmed = batavia
-
-
-#sejarah _ kelas_11 sejarah perlawanan <PERSON>rakyat maluku</PERSON> di bawah thomas matullesi ( pattimura ) <TIME>1817</TIME> - sejak <TIME>abad ke-17</TIME> perlawanan <PERSON>rakyat maluku</PERSON> terhadap <PERSON>kompeni</PERSON> sudah terjadi , namun perlawanan yang dahsyat baru muncul pada <TIME>permulaan abad ke-19</TIME> , di bawah pimpinan <PERSON>thomas matulessi</PERSON> ( lebih dikenal dengan nama pattimura ) .
-
-
-tidak ada entitas jawaban, skip
-
-
-latar belakang timbulnya perlawanan <PERSON>pattimura ,</PERSON> di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
-
-
-tidak ada entitas jawaban, skip
-
-
-a. sebab ekonomis , yakni adanya tindakan-tindakan <PERSON>pemerintah belanda</PERSON> yang memperberat kehidupan <PERSON>rakyat</PERSON> , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
-
-
-tidak ada entitas jawaban, skip
-
-
-selain itu , beredarnya uang kertas yang menyebabkan <PERSON>rakyat maluku</PERSON> tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
-
-
-tidak ada entitas jawaban, skip
-
-
-b. sebab psikologis , yaitu adanya pemecatan <PERSON>guru-guru sekolah</PERSON> akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke <LOCATION>batavia .</LOCATION>
-
-memproses passage 1
-sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
-list jawaban dan posisi dalam passage
-batavia | position = 15
-
-
-melakukan pencarian:
-kata kunci = mana
-tokenwithtagstemmed = b
-tokenwithtagstemmed = psikologis
-tokenwithtagstemmed = pecat
-tokenwithtagstemmed = guru guru sekolah
-tokenwithtagstemmed = akibat
-tokenwithtagstemmed = kurang
-tokenwithtagstemmed = sekolah
-tokenwithtagstemmed = gereja
-tokenwithtagstemmed = kirim
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = dinas
-tokenwithtagstemmed = militer
-tokenwithtagstemmed = batavia
-kata kunci = pattimura
-tokenwithtagstemmed = b
-tokenwithtagstemmed = psikologis
-tokenwithtagstemmed = pecat
-tokenwithtagstemmed = guru guru sekolah
-tokenwithtagstemmed = akibat
-tokenwithtagstemmed = kurang
-tokenwithtagstemmed = sekolah
-tokenwithtagstemmed = gereja
-tokenwithtagstemmed = kirim
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = dinas
-tokenwithtagstemmed = militer
-tokenwithtagstemmed = batavia
-kata kunci = lahir
-tokenwithtagstemmed = b
-tokenwithtagstemmed = psikologis
-tokenwithtagstemmed = pecat
-tokenwithtagstemmed = guru guru sekolah
-tokenwithtagstemmed = akibat
-tokenwithtagstemmed = kurang
-tokenwithtagstemmed = sekolah
-tokenwithtagstemmed = gereja
-tokenwithtagstemmed = kirim
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = dinas
-tokenwithtagstemmed = militer
-tokenwithtagstemmed = batavia
-
-
-hal-hal jang mengenai pemindahan kekoeasaan d.l.l. , diselengarakan dengan tjara seksama dan dalam tempoh jang sesingkat-singkatnja djakarta , <TIME>hari 17 boelan 8 tahoen ‘ 05</TIME> atas nama bangsa indonesia , soekarno/hatta ( tandatangan sukarno ) ( tandatangan hatta ) selanjutnya timbul persoalan dimanakah proklamasi akan diselenggarakan .
-
-
-tidak ada entitas jawaban, skip
-
-
-sukarni mengusulkan bahwa lapangan ikada ( sekarang bagian tenggara lapangan monumen nasional ) telah dipersiapkan bagi berkumpulnya masyarakat jakarta untuk mendengar pembacaan naskah proklamasi .
-
-
-tidak ada entitas jawaban, skip
-
-
-namun ir .
-
-
-tidak ada entitas jawaban, skip
-
-
-sukarno menganggap lapangan ikada adalah salah satu lapangan umum yang dapat menimbulkan bentrokan antara rakyat dengan pihak militer jepang .
-
-
-tidak ada entitas jawaban, skip
-
-
-oleh karena itu <PERSON>bung karno</PERSON> mengusulkan agar upacara proklamasi dilaksanakan di <LOCATION>rumahnya ,</LOCATION> di jalan pegangsaan timur no. 56 dan disetujui oleh <PERSON>para hadirin .</PERSON>
-
-memproses passage 61
-sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-list jawaban dan posisi dalam passage
-rumahnya | position = 5
-
-
-melakukan pencarian:
-kata kunci = mana
-tokenwithtagstemmed = bung karno
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = upacara
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = jalan
-tokenwithtagstemmed = gangsa
-tokenwithtagstemmed = timur
-tokenwithtagstemmed = no
-tokenwithtagstemmed = 56
-tokenwithtagstemmed = tuju
-tokenwithtagstemmed = hadirin
-kata kunci = pattimura
-tokenwithtagstemmed = bung karno
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = upacara
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = jalan
-tokenwithtagstemmed = gangsa
-tokenwithtagstemmed = timur
-tokenwithtagstemmed = no
-tokenwithtagstemmed = 56
-tokenwithtagstemmed = tuju
-tokenwithtagstemmed = hadirin
-kata kunci = lahir
-tokenwithtagstemmed = bung karno
-tokenwithtagstemmed = usul
-tokenwithtagstemmed = upacara
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = jalan
-tokenwithtagstemmed = gangsa
-tokenwithtagstemmed = timur
-tokenwithtagstemmed = no
-tokenwithtagstemmed = 56
-tokenwithtagstemmed = tuju
-tokenwithtagstemmed = hadirin
 
 Pengurutan kandidat jawaban
 

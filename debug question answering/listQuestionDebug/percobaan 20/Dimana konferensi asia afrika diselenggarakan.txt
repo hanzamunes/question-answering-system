@@ -1,367 +1,121 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok293.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok338.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok219.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok234.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok379.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok358.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok169.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok151.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok150.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok310.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok375.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok314.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok205.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok172.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok181.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok123.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok52.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok239.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok337.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok148.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok285.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok245.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok102.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok31.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok360.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok312.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok194.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok377.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok187.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok237.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok233.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok4.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok75.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok378.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok318.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok271.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok327.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok132.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok61.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok197.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok282.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok214.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok178.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok69.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok299.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok313.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok241.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok141.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok70.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok193.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok306.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok242.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok357.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok122.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok51.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok208.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok340.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok293.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok338.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok358.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok377.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok234.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok231.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok351.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok205.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok375.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok123.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok52.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok314.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok239.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok360.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok249.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok228.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok204.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok237.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok219.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok227.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok194.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok359.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok117.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok46.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok148.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok285.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok304.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok193.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok306.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok378.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok122.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok51.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok146.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok370.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok257.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok282.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok381.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok245.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok312.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok352.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok191.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok326.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok134.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok63.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok226.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
 
 searching dari query expansion
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok338.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok293.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
+query hasil ekspansi = suez konferensi sekutu jerman janji asia afrika mesir usan selenggara
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok338.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok219.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok134.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok63.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok107.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok36.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
 
 query token : 
 mana konferensi asia afrika selenggara 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-passage 6 score = 6.9
-sentence 1: bentrokan dengan jepang terjadi di berbagai daerah .
-sentence 2: demikian juga dengan sekutu yang ternyata diboncengi oleh nica .
-sentence 3: perang kemerdekaan pun terjadi di mana-mana bahkan hampir di seluruh wilayah indonesia .
-sentence 4: usaha-usaha belanda untuk menghancurkan ri pada pertengahan september 1945 rombongan pertama pasukan sekutu mulai mendarat .
-sentence 5: mereka merupakan bagian dari south east asia command ( seac ) di bawah pimpinan laksamana mountbatten .
-passage 40 score = 6.9
-sentence 1: perundingan berjalan sangat lamban , sehingga drs. hatta didatangkan dari bangka untuk langsung berunding dengan dr. van royen .
-sentence 2: dengan demikian pada bulan mei 1949 dicapai persetujuan roem-royen dan pemerintah indonesia dikembalikan ke yogyakarta , setelah cara-cara pengosongan yogyakarta oleh tentara belanda disepakati .
-sentence 3: setelah perundingan dengan pihak bfo yang sudah dimulai sejak di bangka , maka pada bulan juli 1949 di yogyakarta dicapai persetujuan bahwa akan dibentuk negara federal yang bernama ris .
-sentence 4: kemudian diselenggarakan konferensi antar indonesia di jakara ( juli ) yang dipimpin drs. hatta dan berhasil memutuskan untuk membentuk panitia persiapan nasional sebelum maju ke kmb ( konferensi meja bundar ) .
-sentence 5: konferensi meja bundar dimulai di den haag pada tanggal 23 agustus 1949 dan berakhir pada tanggal 2 november 1949 .
-passage 2 score = 6.5
-sentence 1: masa indonesia merdeka memasuki bulan agustus 1945 kedudukan jepang semakin kritis .
-sentence 2: pada 6 agustus 1945 kota hiroshima dibom oleh sekutu dan disusul kota nagasaki pada 8 agustus 1945 .
-sentence 3: akibatnya jepang bertekuk lutut kepada sekutu tanggal 14 agustus 1945 .
-sentence 4: dengan penyerahan jepang itu terjadi kevakuman kekuasaan di indonesia .
-sentence 5: bangsa indonesia kemudian mempergunakan kesempatan tersebut untuk memproklamasikan kemerdekaan pada 17 agustus 1945 .
-passage 13 score = 6.5
-sentence 1: urusan ke luar commenwealth itu dipegang oleh kerajaan belanda sedangkan urusan ke dalam dipegang oleh masing-masing negara .
-sentence 2: pada perundingan bulan mei 1946 , van mook mengusulkan agar republik indonesia bersedia membentuk commentwealth dan pengakuan belanda atas kekuasaan ri di jawa dan madura dikurangi kota-kota yang telah diduduki sekutu .
-sentence 3: usul ini tentu saja ditolak oleh pihak ri .
-sentence 4: pemerintah tetap menolak ide commentwealth dan tetap menuntut pengakuan kedaulatan atas jawa , madura , dan sumatera .
-sentence 5: kesulitan-kesulitan yang dihadapi di meja perundingan antara indonesia dan belanda mengenai pengakuan kedaulatan ri dan intimidasi belanda di luar jawa dan sumatera .
-passage 14 score = 6.5
-sentence 1: kesulitan-kesulitan yang dihadapi di meja perundingan antara indonesia dan belanda mengenai pengakuan kedaulatan ri dan intimidasi belanda di luar jawa dan sumatera .
-sentence 2: di samping itu munculnya oposisi tan malaka dengan persatuan perjuangannya yang dengan gencar menyerang pemerintah .
-sentence 3: sikap ini memuncak dengan meletusnya pergolakan di daerah-daerah solo untuk menghapuskan daerah istimewa surakarta .
-sentence 4: keadaan sedemikian kritisnya , sehingga presiden merasa perlu mengumumkan keadaan bahaya .
-sentence 5: status keadaan bahaya diperlakukan untuk seluruh indonesia karena pihak tan malaka berhasil menculik sutan syahrir bersama mayor jenderal sudibyo , dr. darmasetiawan , dan dr sumitri .
-passage 21 score = 6.5
-sentence 1: tentara republik indonesia bertahan dengan melancarkan perang gerilya .
-sentence 2: pada akhir juli 1947 india dan australia mengajukan tuntutan mengenai agresi belanda itu pada dewan keamanan pbb dan dk-pbb memerintahkan gencatan senjata pada tanggal 4 agustus 1947 .
-sentence 3: selain itu suatu komisi konsuler yang terdiri atas konsul-konsul amerika serikat , cina , belgia , perancis , inggris , dan australia di jakarta , ditugaskan pbb untuk menyelidiki masalah-masalah itu dan melaporkan pada dewan keamanan .
-sentence 4: amerika serikat kemudian mengusulkan pada dewan keamanan untuk membentuk suatu komisi yang mengawasi pelaksanaan gencatan senjata .
-sentence 5: komisi yang terdiri atas dr. frank graham ( as ) , richard kirby ( australia ) dan paul vanzeelant ( belgia ) , di indonesia dikenal dengan nama komisi tiga negara ( ktn ) atau komisi jasa baik .
-passage 35 score = 6.5
-sentence 1: dalam serbuan ke yogyakarta , presiden dan wakil presiden tertangkap oleh belanda .
-sentence 2: meskipun begitu pemerintah berhasil mengirimkan telegram kepada mr. syafruddin prawiranegara di sumatera barat agar membentuk pemerintahan darurat republik indonesia ( pdri ) .
-sentence 3: sementara panglima besar sudirman masih terus bergerilya .
-sentence 4: sebulan setelah serangan belanda , tni berhasil mengadakan konsolidasi .
-sentence 5: perang gerilya dilancarkan dengan cara menghadang garis komunikasi logistik pasukan belanda , memutuskan telepon , dan merusak jalan kereta api .
-passage 38 score = 6.5
-sentence 1: dr. supomo dan anggota-anggota delegasi ri pada perundingan renville .
-sentence 2: selain itu antara ri dan negara-negara buatan belanda yang tergolong dalam bfo ( bjeenkomst voor federal overleg ) juga diadakan pendekatan .
-sentence 3: bfo kemudian menemui presiden dan wakil presiden yang sedang ditawan di bangka .
-sentence 4: pihak ri mengajukan usul agar dibicarakan tentang pengakuan kedaulatan , penarikan pasukan belanda dan pengembalian pemerintahan ri di yogyakarta .
-sentence 5: bfo menyatakan dukungan pengembalian pemerintahan ri di yogyakarta dn menyerukan agar pbb membentuk suatu panitia untuk membantu melaksanakan resolusi pbb di indonesia .
-passage 39 score = 6.5
-sentence 1: bfo menyatakan dukungan pengembalian pemerintahan ri di yogyakarta dn menyerukan agar pbb membentuk suatu panitia untuk membantu melaksanakan resolusi pbb di indonesia .
-sentence 2: pada bulan april perundingan dimulai antara delegasi indonesia yang dipimpin oleh mr. mohammad roem dan dr. j. h. van royen dari pihak belanda .
-sentence 3: pertemuan di hotel des indes ( kini duta merlin ) itu diawasi dan dipimpin marle cochran , wakil dari amerika serikat dalam komisi pbb ( unci : united nations commision of indonesia ) .
-sentence 4: dalam perundingan ini pihak indonesia menuntut agar presiden dan wakil presiden dikembalikan ke yogyakarta dan agar belanda mengakui ri .
-sentence 5: perundingan berjalan sangat lamban , sehingga drs. hatta didatangkan dari bangka untuk langsung berunding dengan dr. van royen .
-passage 69 score = 6.5
-sentence 1: dengan demikian diharapkan kemakmuran di jawa berkembang dan terbuka kemakmuran baru di sumatera .
-sentence 2: dasar politik ekonomi pemerintah adalah pasa 33 undang-undang dasar 1945 , karena semua perusahaan vital harus dikuasai oleh negara .
-sentence 3: perusahaan-perusahaan itu adalah perusahaan listrik dan air , perusahaan kereta api dan term , pos dan telekomunikasi serta bank sirkulasi .
-sentence 4: selama masa perang kemerdekaan , kegiatan ekonomi dikuasai pemerintah sehingga partisipasi pengusaha-pengusaha swasta kurang menggembirakan .
-sentence 5: karena itu di dalam kongres persatuan tenaga ekonomi di malang , wakil presiden moh .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 5 score = 8.3
-sentence 1: negara indonesia memilih sifat politik luar negerinya bebas aktif sebab setelah perang dunia ii berakhir di dunia telah muncul dua kekuatan adidaya baru yang saling berhadapan , yaitu negara amerika serikat dan uni soviet .
-sentence 2: amerika serikat memelopori berdirinya blok barat atau blok kapitalis ( liberal ) , sedangkan uni soviet memelopori kemunculan blok timur atau blok sosialis ( komunis ) .
-sentence 3: dalam upaya meredakan ketegangan dan untuk mewujudkan perdamaian dunia , pemerintah indonesia memprakarsai dan menyelenggarakan konferensi asia afrika .
-sentence 4: usaha ini mendapat dukungan dari negara-negara di asia dan afrika .
-sentence 5: bangsa-bangsa di asia dan afrika pada umumnya pernah menderita karena penindasan imperialis barat .
-passage 8 score = 8.3
-sentence 1: sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi asia afrika mempunyai arti penting , baik bagi bangsa-bangsa di asia dan afrika pada khususnya maupun dunia pada umumnya .
-sentence 2: prakarsa untuk mengadakan konferensi asia afrika dikemukakan pertama kali oleh perdana menteri ri ali sastroamijoyo yang kemudian mendapat dukungan dari negara india , pakistan , sri lanka , dan burma ( myanmar ) dalam konferensi colombo .
-sentence 3: b. konferensi pendahuluan sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan .
-sentence 4: konferensi pendahuluan tersebut , antara lain sebagai berikut .
-sentence 5: 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
-passage 9 score = 8.3
-sentence 1: 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
-sentence 2: konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
-sentence 3: a ) perdana menteri pakistan : muhammad ali jinnah b ) perdana menteri sri lanka : sir john kotelawala c ) perdana menteri burma ( myanmar ) : u nu d ) perdana menteri indonesia : ali sastroamijoyo e ) perdana menteri india : jawaharlal nehru konferensi kolombo membahas masalah vietnam , sebagai persiapan untuk menghadapi konferensi di jenewa .
-sentence 4: di samping itu konferensi kolombo secara aklamasi memutuskan akan mengadakan konferensi asia afrika dan pemerintah indonesia ditunjuk sebagai penyelenggaranya .
-sentence 5: kelima negara yang wakilnya hadir dalam konferensi kolombo kemudian dikenal dengan nama pancanegara .
-passage 7 score = 8.1
-sentence 1: bangsa-bangsa di asia dan afrika yang telah merdeka tidak melupakan masa lampaunya .
-sentence 2: mereka tetap merasa senasib dan sependeritaan .
-sentence 3: lebih-lebih apabila mengingat masih banyak negara di asia dan afrika yang belum merdeka .
-sentence 4: rasa setia kawan itu dicetuskan dalam konferensi asia afrika .
-sentence 5: sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi asia afrika mempunyai arti penting , baik bagi bangsa-bangsa di asia dan afrika pada khususnya maupun dunia pada umumnya .
-passage 15 score = 8.1
-sentence 1: 3 ) meningkatnya kesadaran berbangsa yang dimotori oleh golongan elite nasional/terpelajar dan intelektual .
-sentence 2: 4 ) adanya perang dingin antara blok barat dengan blok timur .
-sentence 3: 5 ) memiliki pokok-pokok yang kuat dalam hal bangsa , agama , dan budaya .
-sentence 4: 6 ) secara geografis letaknya berdekatan dan saling melengkapi satu sama lain .
-sentence 5: tujuan diadakannya konferensi asia afrika , antara lain : 1 ) memajukan kerja sama bangsa-bangsa di asia dan afrika dalam bidang sosial , ekonomi , dan kebudayaan ; 2 ) memberantas diskriminasi ras dan kolonialisme ; 3 ) memperbesar peranan bangsa asia dan afrika di dunia dan ikut serta mengusahakan perdamaian dunia dan kerja sama internasional .
-passage 16 score = 8.1
-sentence 1: tujuan diadakannya konferensi asia afrika , antara lain : 1 ) memajukan kerja sama bangsa-bangsa di asia dan afrika dalam bidang sosial , ekonomi , dan kebudayaan ; 2 ) memberantas diskriminasi ras dan kolonialisme ; 3 ) memperbesar peranan bangsa asia dan afrika di dunia dan ikut serta mengusahakan perdamaian dunia dan kerja sama internasional .
-sentence 2: 4 ) bekerja sama dalam bidang sosial , ekonomi , dan budaya , 5 ) membicarakan masalah-masalah khusus yang menyangkut kepentingan bersama seperti kedaulatan negara , rasionalisme , dan kolonialisme .
-sentence 3: konferensi asia afrika membicarakan hal-hal yang menyangkut kepentingan bersama negara-negara di asia dan afrika , terutama kerja sama ekonomi dan kebudayaan , serta masalah kolonialisme dan perdamaian dunia .
-sentence 4: kerja sama ekonomi dalam lingkungan bangsa-bangsa asia dan afrika dilakukan dengan saling memberikan bantuan teknik dan tenaga ahli .
-sentence 5: konferensi berpendapat bahwa negara-negara di asia dan afrika perlu memperluas perdagangan dan pertukaran delegasi dagang .
-passage 20 score = 8.1
-sentence 1: selain menetapkan keputusan tersebut , konferensi juga mengajak setiap bangsa di dunia untuk menjalankan beberapa prinsip bersama , seperti : 1 ) menghormati hak-hak dasar manusia , tujuan , serta asas yang termuat dalam piagam pbb ; 2 ) menghormati kedaulatan dan integritas teritorial semua bangsa ; 3 ) mengakui persamaan ras dan persamaan semua bangsa , baik bangsa besar maupun bangsa kecil ; 4 ) tidak melakukan intervensi atau ikut campur tangan dalam persoalan dalam negeri negara lain ; 5 ) menghormati hak-hak tiap bangsa untuk mempertahankan diri , baik secara sendirian maupun secara kolektif sesuai dengan piagam pbb ; 6 .
-sentence 2: a ) tidak menggunakan peraturan-peraturan dari pertahanan kolektif untuk bertindak bagi kepentingan khusus salah satu negara besar ; b ) tidak melakukan tekanan terhadap negara lain ; 7 ) tidak melakukan tindakan atau ancaman agresi ataupun penggunaan kekerasan terhadap integritas teritorial atas kemerdekaan politik suatu negara ; 8 ) menyelesaikan segala perselisihan internasional secara damai sesuai dengan piagam pbb ; 9 ) memajukan kepentingan bersama dan kerja sama internasional ; 10 ) menghormati hukum dan kewajiban internasional lainnya .
-sentence 3: kesepuluh prinsip yang dinyatakan dalam konferensi asia afrika itu dikenal dengan nama dasasila bandung atau bandung declaration .
-sentence 4: d. pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika konferensi asia afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
-sentence 5: pengaruh konferensi asia afrika adalah sebagai berikut .
-passage 21 score = 8.1
-sentence 1: pengaruh konferensi asia afrika adalah sebagai berikut .
-sentence 2: 1 ) perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai .
-sentence 3: 2 ) cetusan rasa setia kawan dan kebangsaan bangsa-bangsa asia afrika untuk menggalang persatuan .
-sentence 4: 3 ) penjelmaan kebangkitan kembali bangsa-bangsa di asia dan afrika .
-sentence 5: 4 ) pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
-passage 22 score = 8.1
-sentence 1: 4 ) pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
-sentence 2: 6 ) memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di asia dan afrika dalam mencapai kemerdekaannya .
-sentence 3: 7 ) banyak negara-negara asia-afrika yang merdeka kemudian masuk menjadi anggota pbb .
-sentence 4: selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika , konferensi asia afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya .
-sentence 5: pengaruh atau dampak itu , antara lain sebagai berikut .
-passage 24 score = 8.1
-sentence 1: 4 ) belanda cemas dalam menghadapi kelompok asia afrika di pbb sebab dalam sidang umum pbb , kelompok tersebut mendukung tuntutan indonesia atas kembalinya irian barat ke pangkuan ri .
-sentence 2: 5 ) australia dan amerika serikat mulai berusaha menghapuskan diskriminasi ras di negaranya .
-sentence 3: konferensi asia afrika dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di asia dan afrika , tetapi juga bergema ke seluruh dunia .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-title : sejarah perjuangan pembebasan irian barat
-passage 2 score = 7.6
-sentence 1: perundingan ( diplomasi ) dengan pemerintah belanda terjadi pertama kali pada masa kabineg natsir tahun 1950 tetapi gagal , bahkan pada tahun 1952 secara sepihak belanda memasukkan irian barat dalam wilayah kerajaan belanda .
-sentence 2: upaya diplomasi internasional dilakukan oleh kabinet sastroamijoyo yaitu dengan membawa masalah irian barat ke forum pbb , tapi tidak membawa hasil .
-sentence 3: pada masa kabinet burhanuddin , belanda menanggapi bahwa masalah irian barat merupakan masalah antara indonesia – belanda dan mengajukan usul yang berisi tentang penempatan irian barat di bawah uni indonesia – belanda .
-sentence 4: disamping membawa masalah irian barat ke forum pbb indonesia juga melakukan pendekatan dengan negara-negara asia afrika dan ini membawa hasil yang positif , antara lain sebagai berikut : 1 .
-sentence 5: dalam konferensi pancanegara ii di bogor lima negara peserta sepakat mendukung indonesia dalam mengembalikan irian barat ke dalam wilayah indonesia 2 .
-passage 3 score = 6.7
-sentence 1: dalam konferensi pancanegara ii di bogor lima negara peserta sepakat mendukung indonesia dalam mengembalikan irian barat ke dalam wilayah indonesia 2 .
-sentence 2: dalam kaa para peserta mengakui bahwa wilayah irian barat merupakan bagian dari negara kesatuan republik indonesia .
-sentence 3: karena belanda tidak pernah menunjukkan etikad baik dalam menyelesa masalah irian barat maka pemerintah ri mengambil langkah-langkah sebagai berikut : 1 .
-sentence 4: hubungan indonesia – belanda diubah dari united status menjadi hubungan biasa .
-sentence 5: 2 .
-passage 11 score = 6.7
-sentence 1: konsolidasi , dilakukan pada tahun 1964 dengan mendudukkan kekuasaan ri secara mutlak di iran barat .
-sentence 2: dalam tahapan infiltrasi dilakukan serangan operasi pendaratan di irian barat balk melalui laut maupun penerjunan udara yaitu , operasi banteng dengan sasaran wilayah fak-fak dan kaimana , operasi srigala di sekitar sorong dan teminabuan , operasi naga di daerah merauke , dan operasi jatayu diarahkan ke daerah sorong , kalimantan , dan merauke .
-sentence 3: operasi infiltrasi pasgka ri dan pare gerilyawan trikora di antaranya diambil dari kalangan mahasiswa .
-sentence 4: ontuk merebut kembali irian barat dari tangan belanda , memang telah dibentuk kesatuan­kesatuan sukarelawan di kantor-kantor , sekolah , organisasi mesa dan lain sebagainya .
-sentence 5: sebagian dari sukarelawan ini bersama-same dengan abri turlit serta dalam operasi infiltrasi .
-passage 5 score = 6.5
-sentence 1: 4 .
-sentence 2: pada tanggal 5 desember 1957 melarang semua film yang berbahasa belanda , kapal terbang belanda juga dilarang mendarat dan terbang di wilayah ri .
-sentence 3: 5 .
-sentence 4: pada tanggal 5 desember 1958 melakukan penghentian semua kegiatan konsuler belanda di indonesia .
-sentence 5: 6 .
-passage 7 score = 6.5
-sentence 1: pada tanggal 17 agustus 1960 memutuskan hubungan diplomatik dengan belanda 9 .
-sentence 2: menasionalisasi 700 perusahaan milik belanda di indonesia sementara itu pemerintah belanda meningkatkan kekuatan militernya dengan mengirimkan kapal induk karel doorman ke irian barat .
-sentence 3: situasi semakin memanas dan pada sidang majelis umum pbb tahun 1961 kembali dibicarakan masalah irian barat kepada indonesia dengan perantara pbb .
-sentence 4: pemerintah indonesia menyetujui usul tersebut dengan syarat waktunya dipercepat .
-sentence 5: sedangkan belanda menyatakan akan melepaskan irian barat untuk dilanjutkan di dewan perwakilan pbb kemudian membentuk negara papua .
-passage 8 score = 6.5
-sentence 1: sedangkan belanda menyatakan akan melepaskan irian barat untuk dilanjutkan di dewan perwakilan pbb kemudian membentuk negara papua .
-sentence 2: pemerintah berkesimpulan belanda tidak ingin menyerahkan irian barat pada indonesia , sehingga tidak ada jalan lain dan harus diselesaikan dengan kekerasan senjata .
-sentence 3: perjuangan bersenjata pada tanggal 19 desember 1961 presiden soekarno daiam pidatonya di jogjakarta menyampaikan suatu komando dalam rangka perjuangan pembebasan irian barat yang dikenal dengan tri komando rakyat ( trikora ) yang isinya sebagai berikut : 1 .
-sentence 4: gagalkan pembentukan negara boneka papua buatan kolonial belanda 2 .
-sentence 5: kibarkan sang merah putih di irian barat tanah air indonesia 3 .
-passage 13 score = 6.5
-sentence 1: sejak itu , operasi pembebasan irian barat semakin ditingkatkan .
-sentence 2: namun sebelum operasi jaya wijaya dilaksanakan , datang perintah dari presiden untuk menghentikan tembak-menembak pada tanggal 18 maret 1962 , karma pada tanggal 19 agustus 1962 telah tercapai persetujuan antara indonesia dengan belanda mengenai irian barat di markas besar pbb di kota new york dengan pokok-pokok kesepakatan , antara lain sebagai berikut : 1 .
-sentence 3: akan dibentuk pemerintah pbb irian barat dengan nama untea ( united nations temporaty ex­ecutive authority ) selambat-lambatnya 1 oktober 1962 tiba di irian barat .
-sentence 4: 2 .
-sentence 5: untea memakai tenaga indonesia 3 .
-passage 15 score = 6.5
-sentence 1: pada tanggat 31 desember 1962 bendera ri berkibar di samping bendera pbb 7 .
-sentence 2: selambat-lambatnya 1 mei 1963 rl secara resmi menerima pemerintahan irian barat 8 .
-sentence 3: ri berkewajiban melakukan pepera ( penentuan pendapatan rakyat ) untuk menjamin keamanan di irian barat .
-sentence 4: pbb membentuk pasukan keamanan dengan nama united nations security forces ( unsf ) di bawah komando brigjend said udin khan dari pakistan .
-sentence 5: penyerahan kekuasaan irian barat dari pbb kepadda pemerintah indonesia dilaksanakan pada tanggal 1 mei 1963 di kota baru .
-passage 9 score = 6.2
-sentence 1: kibarkan sang merah putih di irian barat tanah air indonesia 3 .
-sentence 2: bersiap-siap untuk mobilisasi umum mempertahankan kemerdekaan dan kesatuan tanah air in­donesia realisasi pertama dari tri kora adalah pembentukan komando operasi yang diberi nama komando mandala pembebasan irian barat pada tanggal 2 januari 1962 dan mayjend .
-sentence 3: soeharto ditunjuk sebagai komandannya dengan tugas antara lain sebagai berikut : 1 .
-sentence 4: merencanakan , mempersiapkan dan menyelenggarakan operasi militer guna mengembalikan wilayah irian barat ke dalam kesatuan ri .
-sentence 5: operasi militer itu dinamakan operasi jaya wijaya .
-passage 16 score = 6.2
-sentence 1: penyerahan kekuasaan irian barat dari pbb kepadda pemerintah indonesia dilaksanakan pada tanggal 1 mei 1963 di kota baru .
-sentence 2: dan pada hari yang sama , di makasar ( ujung pandang ) dilaksanakan upacara pembubaran komando mandala .
-sentence 3: pepera ( penentuan pendapatan rakyat ) pepera merupakan salah satu ketentuan persetujua - 1962 mengenai penyeraha­n kekuasaan pemerintahan atas irian barat oleh belanda kepada indonesia .
-sentence 4: pepera diselenggaraka­n melalui tiga tahap , antara lain sebagai berikut : 1 .
-sentence 5: tahap pertama , dimulai pada tanggal 24 maret 1969 , yaitu mengadakan konsultasi denga dewan kabupaten di jayapura mengenai tata cara penyelenggaraan pepera 2 .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-title : perjuangan pembebasan irian barat
-passage 2 score = 8.1
-sentence 1: upaya diplomasi internasional dilakukan oleh kabinet sastroamijoyo yaitu dengan membawa masalah irian barat ke forum pbb , tapi tidak membawa hasil .
-sentence 2: pada masa kabinet burhanuddin , belanda menanggapi bahwa masalah irian barat merupakan masalah antara indonesia - belanda dan mengajukan usul yang berisi tentang penempatan irian barat di bawah uni indonesia - belanda .
-sentence 3: disamping membawa masalah irian barat ke forum pbb indonesia juga melakukan pendekatan dengan negara-negara asia afrika dan ini membawa hasil yang positif , antara lain sebagai berikut : dalam konferensi pancanegara ii di bogor lima negara peserta sepakat mendukung indonesia dalam mengembalikan irian barat ke dalam wilayah indonesia dalam kaa para peserta mengakui bahwa wilayah irian barat merupakan bagian dari negara kesatuan republik indonesia .
-sentence 4: karena belanda tidak pernah menunjukkan etikad baik dalam menyelesa masalah irian barat maka pemerintah ri mengambil langkah-langkah sebagai berikut : hubungan indonesia - belanda diubah dari united status menjadi hubungan biasa .
-sentence 5: pada tanggal 3 mei 1956 melakukan pembatalan hasil-hasil kmb \ pada tanggal 17 agustus 1956 membentuk provinsi irian barat yang berkedudukan di saosiu dan menunjuk sultan tidore , zaenal abidin syah sebagai gubernurnya .
-passage 5 score = 6.7
-sentence 1: sedangkan belanda menyatakan akan melepaskan irian barat untuk dilanjutkan di dewan perwakilan pbb kemudian membentuk negara papua .
-sentence 2: pemerintah berkesimpulan belanda tidak ingin menyerahkan irian barat pada indonesia , sehingga tidak ada jalan lain dan harus diselesaikan dengan kekerasan senjata .
-sentence 3: perjuangan bersenjata pada tanggal 19 desember 1961 presiden soekarno daiam pidatonya di jogjakarta menyampaikan suatu komando dalam rangka perjuangan pembebasan irian barat yang dikenal dengan tri komando rakyat ( trikora ) yang isinya sebagai berikut : gagalkan pembentukan negara boneka papua buatan kolonial belanda kibarkan sang merah putih di irian barat tanah air indonesia bersiap-siap untuk mobilisasi umum mempertahankan kemerdekaan dan kesatuan tanah air in­donesia realisasi pertama dari tri kora adalah pembentukan komando operasi yang diberi nama komando mandala pembebasan irian barat pada tanggal 2 januari 1962 dan mayjend .
-sentence 4: soeharto ditunjuk sebagai komandannya dengan tugas antara lain sebagai berikut : merencanakan , mempersiapkan dan menyelenggarakan operasi militer guna mengembalikan wilayah irian barat ke dalam kesatuan ri .
-sentence 5: operasi militer itu dinamakan operasi jaya wijaya .
-passage 6 score = 6.7
-sentence 1: operasi militer itu dinamakan operasi jaya wijaya .
-sentence 2: eksploitasi , dimulai awal tahun 1963 dengan mengadakan serangan terbuka guna menguasai pos-pos musuh yang penting .
-sentence 3: konsolidasi , dilakukan pada tahun 1964 dengan mendudukkan kekuasaan ri secara mutlak di iran barat .
-sentence 4: dalam tahapan infiltrasi dilakukan serangan operasi pendaratan di irian barat balk melalui laut maupun penerjunan udara yaitu , operasi banteng dengan sasaran wilayah fak-fak dan kaimana , operasi srigala di sekitar sorong dan teminabuan , operasi naga di daerah merauke , dan operasi jatayu diarahkan ke daerah sorong , kalimantan , dan merauke .
-sentence 5: operasi infiltrasi pasgka ri dan pare gerilyawan trikora di antaranya diambil dari kalangan mahasiswa .
-passage 3 score = 6.5
-sentence 1: pada tanggal 3 mei 1956 melakukan pembatalan hasil-hasil kmb \ pada tanggal 17 agustus 1956 membentuk provinsi irian barat yang berkedudukan di saosiu dan menunjuk sultan tidore , zaenal abidin syah sebagai gubernurnya .
-sentence 2: pada tanggal 18 november 1957 diadakan rapat umum penbebasan irian barat .
-sentence 3: pada tanggal 5 desember 1957 melarang semua film yang berbahasa belanda , kapal terbang belanda juga dilarang mendarat dan terbang di wilayah ri .
-sentence 4: pada tanggal 5 desember 1958 melakukan penghentian semua kegiatan konsuler belanda di indonesia .
-sentence 5: dengan peraturan pemerintah no. 23 tahun 1958 dilakukan pengambilalihan modal belanda di indonesia .
-passage 4 score = 6.5
-sentence 1: dengan peraturan pemerintah no. 23 tahun 1958 dilakukan pengambilalihan modal belanda di indonesia .
-sentence 2: pada tanggal 19 februari 1958 dibentuk front nasional pembebasan irian barat pada tanggal 17 agustus 1960 memutuskan hubungan diplomatik dengan belanda menasionalisasi 700 perusahaan milik belanda di indonesia sementara itu pemerintah belanda meningkatkan kekuatan militernya dengan mengirimkan kapal induk karel doorman ke irian barat .
-sentence 3: situasi semakin memanas dan pada sidang majelis umum pbb tahun 1961 kembali dibicarakan masalah irian barat kepada indonesia dengan perantara pbb .
-sentence 4: pemerintah indonesia menyetujui usul tersebut dengan syarat waktunya dipercepat .
-sentence 5: sedangkan belanda menyatakan akan melepaskan irian barat untuk dilanjutkan di dewan perwakilan pbb kemudian membentuk negara papua .
-passage 8 score = 6.5
-sentence 1: dalam pertempuran tersebut komando yos sudarso dan kapten wiranto gugur .
-sentence 2: mereka turut tenggelam bersama kapal ri macan tutul .
-sentence 3: sejak itu , operasi pembebasan irian barat semakin ditingkatkan .
-sentence 4: namun sebelum operasi jaya wijaya dilaksanakan , datang perintah dari presiden untuk menghentikan tembak-menembak pada tanggal 18 maret 1962 , karma pada tanggal 19 agustus 1962 telah tercapai persetujuan antara indonesia dengan belanda mengenai irian barat di markas besar pbb di kota new york dengan pokok-pokok kesepakatan , antara lain sebagai berikut : akan dibentuk pemerintah pbb irian barat dengan nama untea ( united nations temporaty ex­ecutive authority ) selambat-lambatnya 1 oktober 1962 tiba di irian barat .
-sentence 5: untea memakai tenaga indonesia pasukan ri yang berada di irian barat tetap berada di sana , di wilayah komando pbb tentara belanda secara berangsur-angsur dikembalikan antara irian barat dan daerah indonesia lainnya berlaku lalu lintas bebas pada tanggat 31 desember 1962 bendera ri berkibar di samping bendera pbb selambat-lambatnya 1 mei 1963 rl secara resmi menerima pemerintahan irian barat ri berkewajiban melakukan pepera ( penentuan pendapatan rakyat ) untuk menjamin keamanan di irian barat .
-passage 9 score = 6.5
-sentence 1: untea memakai tenaga indonesia pasukan ri yang berada di irian barat tetap berada di sana , di wilayah komando pbb tentara belanda secara berangsur-angsur dikembalikan antara irian barat dan daerah indonesia lainnya berlaku lalu lintas bebas pada tanggat 31 desember 1962 bendera ri berkibar di samping bendera pbb selambat-lambatnya 1 mei 1963 rl secara resmi menerima pemerintahan irian barat ri berkewajiban melakukan pepera ( penentuan pendapatan rakyat ) untuk menjamin keamanan di irian barat .
-sentence 2: pbb membentuk pasukan keamanan dengan nama united nations security forces ( unsf ) di bawah komando brigjend said udin khan dari pakistan .
-sentence 3: penyerahan kekuasaan irian barat dari pbb kepadda pemerintah indonesia dilaksanakan pada tanggal 1 mei 1963 di kota baru .
-sentence 4: dan pada hari yang sama , di makasar ( ujung pandang ) dilaksanakan upacara pembubaran komando mandala .
-sentence 5: pepera ( penentuan pendapatan rakyat ) pepera merupakan salah satu ketentuan persetujua - 1962 mengenai penyeraha­n kekuasaan pemerintahan atas irian barat oleh belanda kepada indonesia .
-passage 10 score = 6.2
-sentence 1: pepera ( penentuan pendapatan rakyat ) pepera merupakan salah satu ketentuan persetujua - 1962 mengenai penyeraha­n kekuasaan pemerintahan atas irian barat oleh belanda kepada indonesia .
-sentence 2: pepera diselenggaraka­n melalui tiga tahap , antara lain sebagai berikut : tahap pertama , dimulai pada tanggal 24 maret 1969 , yaitu mengadakan konsultasi denga dewan kabupaten di jayapura mengenai tata cara penyelenggaraan pepera tahap kedua , berupa pemilihan anggota dewan musyawarah pepera yang berakhir pada bulan juni 1969 .
-sentence 3: tahap ketiga , adalah pelaksanaan pepera pada tanggal 4 juli 1969 berakhir pada tanggal agustus 1969 .
-sentence 4: pelaksanaan pepera disaksikan oleh utusan sekretaris jenderal duta besar ortis zans melalui pepera ternyata rakyat irian barat secara bulat tetap menyatakan bagian dari negara ri .
-sentence 5: hasil pepera di bawa oleh duta besar orti zans untuk dilaporkan umum pbb , untukl mengenang perjuangan merebut irian barat pada tanggal 21 desember 1995 presiden soeharto meresmikan monumen mandala di makassar .
-passage 7 score = 6.0
-sentence 1: operasi infiltrasi pasgka ri dan pare gerilyawan trikora di antaranya diambil dari kalangan mahasiswa .
-sentence 2: ontuk merebut kembali irian barat dari tangan belanda , memang telah dibentuk kesatuan­kesatuan sukarelawan di kantor-kantor , sekolah , organisasi mesa dan lain sebagainya .
-sentence 3: sebagian dari sukarelawan ini bersama-same dengan abri turlit serta dalam operasi infiltrasi .
-sentence 4: pada tanggal 15 januari 1962 terjadi pertempuran di laut arafuru antara angkatan laut ri melawan kapal perusak dan frega ' belanda .
-sentence 5: dalam pertempuran tersebut komando yos sudarso dan kapten wiranto gugur .
-passage 11 score = 6.0
-sentence 1: hasil pepera di bawa oleh duta besar orti zans untuk dilaporkan umum pbb , untukl mengenang perjuangan merebut irian barat pada tanggal 21 desember 1995 presiden soeharto meresmikan monumen mandala di makassar .
-sentence 2: [ gs ]
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok338.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok338.txt
 title : sejarah krisis suez dan peran indonesia
 passage 6 score = 6.2
 sentence 1: tindakan gamal abdul nasser ini tentu saja dianggap sebagai pelanggaran serius yang segera mendapat reaksi dari inggris dan prancis .
@@ -424,151 +178,455 @@ sentence 3: inggris dan prancis memandang bahwa mesir secara sepihak telah melak
 sentence 4: oleh karena itu , inggris dan prancis secara bersamaan menyerang wilayah mesir .
 sentence 5: serangan gabungan itu berhasil menduduki daerah sepanjang terusan suez dan port said .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
-title : sejarah pelaksanaan konferensi asia afrika
-passage 4 score = 7.1
-sentence 1: 5 ) memiliki pokok-pokok yang kuat dalam hal bangsa , agama , dan budaya .
-sentence 2: 6 ) secara geografis letaknya berdekatan dan saling melengkapi satu sama lain .
-sentence 3: tujuan diadakannya konferensi asia afrika , antara lain : 1 ) memajukan kerja sama bangsa-bangsa di asia dan afrika dalam bidang sosial , ekonomi , dan kebudayaan ; 2 ) memberantas diskriminasi ras dan kolonialisme ; 3 ) memperbesar peranan bangsa asia dan afrika di dunia dan ikut serta mengusahakan perdamaian dunia dan kerja sama internasional .
-sentence 4: 4 ) bekerja sama dalam bidang sosial , ekonomi , dan budaya , 5 ) membicarakan masalah-masalah khusus yang menyangkut kepentingan bersama seperti kedaulatan negara , rasionalisme , dan kolonialisme .
-sentence 5: konferensi asia afrika membicarakan hal-hal yang menyangkut kepentingan bersama negara-negara di asia dan afrika , terutama kerja sama ekonomi dan kebudayaan , serta masalah kolonialisme dan perdamaian dunia .
-passage 5 score = 7.1
-sentence 1: konferensi asia afrika membicarakan hal-hal yang menyangkut kepentingan bersama negara-negara di asia dan afrika , terutama kerja sama ekonomi dan kebudayaan , serta masalah kolonialisme dan perdamaian dunia .
-sentence 2: kerja sama ekonomi dalam lingkungan bangsa-bangsa asia dan afrika dilakukan dengan saling memberikan bantuan teknik dan tenaga ahli .
-sentence 3: konferensi berpendapat bahwa negara-negara di asia dan afrika perlu memperluas perdagangan dan pertukaran delegasi dagang .
-sentence 4: dalam konferensi tersebut ditegaskan juga pentingnya masalah perhubungan antarnegara karena kelancaran perhubungan dapat memajukan ekonomi .
-sentence 5: konferensi juga menyetujui penggunaan beberapa organisasi internasional yang telah ada untuk memajukan ekonomi .
-passage 1 score = 6.8
-sentence 1: sejarah pelaksanaan konferensi asia afrika – sesuai dengan rencana , konferensi asia afrika diselenggarakan di bandung pada tanggal 18 – 24 april 1955 .
-sentence 2: konferensi asia afrika dihadiri oleh wakilwakil dari 29 negara yang terdiri atas negara pengundang dan negara yang diundang .
-sentence 3: 1 ) negara pengundang meliputi indonesia , india , pakistan , sri lanka , dan burma ( myanmar ) .
-sentence 4: 2 ) negara yang diundang 24 negara terdiri atas 6 negara afrika dan 18 negara meliputi asia ( filipina , thailand , kampuchea , laos , rrc , jepang , vietnam utara , vietnam selatan , nepal , afghanistan , iran , irak , saudi arabia , syria ( suriah ) , yordania , lebanon , turki , yaman ) , dan afrika ( mesir , sudan , etiopia , liberia , libia , dan pantai emas/gold coast ) .
-sentence 5: negara yang diundang , tetapi tidak hadir pada konferensi asia afrika adalah rhodesia/federasi afrika tengah .
-passage 2 score = 6.8
-sentence 1: negara yang diundang , tetapi tidak hadir pada konferensi asia afrika adalah rhodesia/federasi afrika tengah .
-sentence 2: ketidakhadiran itu disebabkan federasi afrika tengah masih dilanda pertikaian dalam negara/dikuasai oleh orang-orang inggris .
-sentence 3: semua persidangan konferensi asia afrika diselenggarakan di gedung merdeka , bandung .
-sentence 4: latar belakang dan dasar pertimbangan diadakan kaa adalah sebagai berikut .
-sentence 5: 1 ) kenangan kejayaan masa lampau dari beberapa negara di kawasan asiaafrika .
-passage 3 score = 5.4
-sentence 1: 1 ) kenangan kejayaan masa lampau dari beberapa negara di kawasan asiaafrika .
-sentence 2: 2 ) perasaan senasib sepenanggungan karena sama-sama merasakan masa penjajahan dan penindasan bangsa barat , kecuali thailand .
-sentence 3: 3 ) meningkatnya kesadaran berbangsa yang dimotori oleh golongan elite nasional/terpelajar dan intelektual .
-sentence 4: 4 ) adanya perang dingin antara blok barat dengan blok timur .
-sentence 5: 5 ) memiliki pokok-pokok yang kuat dalam hal bangsa , agama , dan budaya .
-passage 6 score = 1.8
-sentence 1: konferensi juga menyetujui penggunaan beberapa organisasi internasional yang telah ada untuk memajukan ekonomi .
-sentence 2: konferensi asia afrika menyokong sepenuhnya prinsip dasar hak asasi manusia yang tercantum dalam piagam pbb .
-sentence 3: oleh karena itu , sangat disesalkan masih adanya rasialisme dan diskriminasi warna kulit di beberapa negara .
-sentence 4: konferensi mendukung usaha untuk melenyapkan rasialisme dan diskriminasi warna kulit di mana pun di dunia ini .
-sentence 5: konferensi juga menyatakan bahwa kolonialisme dalam segala bentuk harus diakhiri dan setiap perjuangan kemerdekaan harus dibantu sampai berhasil .
-passage 8 score = 1.6
-sentence 1: demi perdamaian pula , konferensi menganjurkan agar negara yang memenuhi syarat segera dapat diterima menjadi anggota pbb .
-sentence 2: konferensi setelah membicarakan beberapa masalah yang menyangkut kepentingan negara-negara asia afrika khususnya dan negara-negara di dunia pada umumnya , segera mengambil beberapa keputusan penting , antara lain : 1 ) memajukan kerja sama bangsa-bangsa asia afrika di bidang sosial , ekonomi , dan kebudayaan ; 2 ) menuntut kemerdekaan bagi aljazair , tunisia , dan maroko ; 3 ) mendukung tuntutan indonesia atas irian barat dan tuntutan yaman atas aden ; 4 ) menentang diskriminasi ras dan kolonialisme dalam segala bentuk ; 5 ) aktif mengusahakan perdamaian dunia .
-sentence 3: selain menetapkan keputusan tersebut , konferensi juga mengajak setiap bangsa di dunia untuk menjalankan beberapa prinsip bersama , seperti : 1 ) menghormati hak-hak dasar manusia , tujuan , serta asas yang termuat dalam piagam pbb ; 2 ) menghormati kedaulatan dan integritas teritorial semua bangsa ; 3 ) mengakui persamaan ras dan persamaan semua bangsa , baik bangsa besar maupun bangsa kecil ; 4 ) tidak melakukan intervensi atau ikut campur tangan dalam persoalan dalam negeri negara lain ; 5 ) menghormati hak-hak tiap bangsa untuk mempertahankan diri , baik secara sendirian maupun secara kolektif sesuai dengan piagam pbb ; 6 ) a ) tidak menggunakan peraturan-peraturan dari pertahanan kolektif untuk bertindak bagi kepentingan khusus salah satu negara besar ; b ) tidak melakukan tekanan terhadap negara lain ; 7 ) tidak melakukan tindakan atau ancaman agresi ataupun penggunaan kekerasan terhadap integritas teritorial atas kemerdekaan politik suatu negara ; 8 ) menyelesaikan segala perselisihan internasional secara damai sesuai dengan piagam pbb ; 9 ) memajukan kepentingan bersama dan kerja sama internasional ; 10 ) menghormati hukum dan kewajiban internasional lainnya .
-sentence 4: kesepuluh prinsip yang dinyatakan dalam konferensi asia afrika itu dikenal dengan nama dasasila bandung atau bandung declaration .
-passage 7 score = 0.2
-sentence 1: konferensi juga menyatakan bahwa kolonialisme dalam segala bentuk harus diakhiri dan setiap perjuangan kemerdekaan harus dibantu sampai berhasil .
-sentence 2: demi perdamaian dunia , konferensi mendukung adanya perlucutan senjata .
-sentence 3: juga diserukan agar percobaan senjata nuklir dihentikan dan masalah perdamaian juga merupakan masalah yang sangat penting dalam pergaulan internasional .
-sentence 4: oleh karena itu , semua bangsa di dunia hendaknya menjalankan toleransi dan hidup berdampingan secara damai .
-sentence 5: demi perdamaian pula , konferensi menganjurkan agar negara yang memenuhi syarat segera dapat diterima menjadi anggota pbb .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok219.txt
+title : konferensi london tentang terusan suez
+passage 1 score = 1.2
+sentence 1: konferensi london tentang terusan suez terusan suez memiliki arti yang sangat besar bagi kepentingan ekonomi dan letaknya sangat strategiz .
+sentence 2: terusan ini menghubungkan laut merah dan laut tengah , sehingga sangat penting bagi pelayaran 3 : perdagangan internasional .
+sentence 3: terusan suez mulai digali pada mesa raja muda muhammad said , oleh ferdirar de lessers ( perancis ) serta dikelola oleh perusahaan compagnie universal de canal maritim de suez ( par ~ 25 april 1959 dan diresmikan 17 november 1969 oleh permaisuri napoleon iii ) .
+sentence 4: karena kedudukan tenrusan suez sangat penting , maka pada tanggal 29 oktober 1988 bangsa inggris , perancis , jerman , turki , spanyol , hon-aria , australia , rusia , belanda dan italia mengadakan konferensi di istambul yang menetapkan hal berikut : kebebasan berlayar bagi semua kapal dagang maupun kapal perang baik dalam keadaan damai maupun perang semua kapal yang melalui terusan suez tidak boleh memperlihatkan kekerasan tidak boleh menempatkan kapal perang di sepanjang terusan suez pemerintah mesir harus mengambil tindakan yang diperlukan guna menjaga pelaksanaan konferensi istambul .
+sentence 5: tindakan presiden mesir gamal abdul nasser yang menasionalisasikan terusan suez pada 26 juli 1956 , dianggap sangat merugikan negara-negara yang menggunakan terusan tersebut .
+passage 2 score = 1.2
+sentence 1: tindakan presiden mesir gamal abdul nasser yang menasionalisasikan terusan suez pada 26 juli 1956 , dianggap sangat merugikan negara-negara yang menggunakan terusan tersebut .
+sentence 2: inggris dan perancis merupakan dua negara yang mengajukan protes atas terhadap tindakan mesir yang disebut dengan tindakan sepihak .
+sentence 3: protes-protes itu ditolak oleh pemerintah mesir , untuk menyelesaikan krisis ini inggris , perancis dan israel yang juga memiliki kepentingan terhadap terusan suez , untuk menyelesaikan krisis ini , inggris dan perancis yang dibantu oleh amerika serikat , london i bulan agustus 1956 dengan tujuan untuk tetap mempertahankan internasionalisasi suez .
+sentence 4: akan tetapi konferensi itu gagal dalam mencari penyelesaian .
+sentence 5: demikian juga dengan demikian konferensi london ii bulan september 1956 .
+passage 3 score = 1.2
+sentence 1: demikian juga dengan demikian konferensi london ii bulan september 1956 .
+sentence 2: karena konferensi london tidak dapat menyelesaikan masalah terusan suez , maka diambil alih oleh pbb dan diproses melalui dewan keamanan bulan oktober 1956 .
+sentence 3: resolus !
+sentence 4: dewan keamanan pbb tetap masih menganjurkan agar terusan suez memiliki status internasional .
+sentence 5: namur mesir menolak resolusi tersebut , sehingga situasi memanas lagi setelah inggris dan perancis menyerbu port said dan israel menyerang terusan suez dan sinai .
+passage 4 score = 1.0
+sentence 1: namur mesir menolak resolusi tersebut , sehingga situasi memanas lagi setelah inggris dan perancis menyerbu port said dan israel menyerang terusan suez dan sinai .
+sentence 2: kemudian atas usul menteri , luar negeri kanada dibentuk pasukan pbb yang bertugas memelihara perdamaian dunia dikawasan garis perbatasan mesir - israel .
+sentence 3: [ gs ]
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
-title : menggalang kerjasama internasional dan solideritas antar bangsa
-passage 1 score = 7.3
-sentence 1: penggalangan kerja sama internasional dan solidaritas antarbangsa konferensi asia afrika dilatarbelakangi oleh adanya perebutan pengaruh antara dua blok raksasa yaitu blok barat ( amerika ) dan blok timur ( uni soviet ) .
-sentence 2: dengan berakhirnya perang dunia ii dan semakin meningkatnya perjuangan bangsa-bangsa asia afrika untuk mencapai kemerdekaan .
-sentence 3: gagasan untuk menyelenggarakan konferensi asia afrika muncul dari beberapa tokoh negarawan asia yang mengadakan konferensi pancanegara dikota kolombo , srilangka pada tanggal 24 - 25 april 1954 , tokoh-tokoh dalam konferensi asia afrika antara lain sebagai berikut : perdana menteri srilanka , sir john kotelawala perdana menteri indonesia , mr. ali sastroamijoyo perdana menteri india , pandit jawaharal nehru perdana menteri pakistan , mohammad ali jinnah perdana menteri birma ( myanmar ) , unu dalam konferensi kolombo perdana menteri indonesia mr. ali-sastroamijoyo mengusulkan agar diadakan konferensi yang lebih leluasa jangkauannya , yaitu tidak hanya mencakup negara-negara asia saja , tetapi juga negara-negara afrika .
-sentence 4: usul tersebut diselenggarakan konferensi pancanegara ii pada tanggal 28 - 29 desember 1954 di kota bogor , yang dikenal dengan konferensi bogor .
-sentence 5: dalam konferensi bogor dirumuskan tentang hal berikut : tujuan konferensi asia afrika negara-negara peserta kaa ( 30 negara ) waktu dan acara kaa negara-negara sponsor mendukung indonesia menuntut kembali irian barat setelah melalui berbagai persiapan , maka kaa akhirnya dapat dilaksanakan di kota bandung pada tanggal 24 april 1955 , panitia pelaksanaan konferensi asia afrika ( kaa ) adalah perdana menteri ali sastroamijoy sebagai ketua dan ruslan abdulgani sebagai sekjennya .
-passage 2 score = 7.3
-sentence 1: dalam konferensi bogor dirumuskan tentang hal berikut : tujuan konferensi asia afrika negara-negara peserta kaa ( 30 negara ) waktu dan acara kaa negara-negara sponsor mendukung indonesia menuntut kembali irian barat setelah melalui berbagai persiapan , maka kaa akhirnya dapat dilaksanakan di kota bandung pada tanggal 24 april 1955 , panitia pelaksanaan konferensi asia afrika ( kaa ) adalah perdana menteri ali sastroamijoy sebagai ketua dan ruslan abdulgani sebagai sekjennya .
-sentence 2: konferensi asia afrika yang dibuka oleh presiden soekarno , seharusnya dihadiri oleh 30 negara di kawasan asia dan afrika , yang terdiri dari 5 negara sponor ( rhodesa ) , karena situasi dan kondisi politik dalam negerinya belum stabil .
-sentence 3: walaupun demikian kaa fete berlangsung dengan dihadiri 29 negara .
-sentence 4: konferensi asia afrika merupakan konferensi kulit berwarna yang terbesar , maka disebut the afro asian conference .
-sentence 5: hasil keputusan yang diambil dalam kaa , terdiri dari sepuluh ( 10 ) keputusan yang lebih dikenal dengan dasa sila bandung , antara lain sebagai berikut : menghormati hak dasar manusia sebagaimana tercantum dalam piagam pbb menghormati kedaulatan dan integritas nasional semua warga mengakui persamaan semua bangsa , baik besar maupun kecil tidak melakukan intervensi atau campur tangan persoalan dalam negeri negara lain menghormati hak setiap bangsa untuk mempertahankan diri , baik secara sendirian maupun kolektif sesuai dengan piagam pbb tidak melakukan tekanan-tekanan terhadap negara lain tidak melakukan tindakan-tindakan ancaman-ancaman agresi terhadap keutuhan wilayah dan kemerdekaan negara lain menyelesaikan perselisihan internasional jalan damai sesuai dengan piagam pbb memajukan kerja sama untuk kepentingan bersama menghormati hukum dan kewajiban-kewajiban internasional setelah berakhirnya konferensi asia afrika , banyak negara yang belum merdeka , mulai memperjuangkan nasibnya untuk mencapai kemerdekaan dan kedudukan sebagai negara yang berdais penuh .
-passage 3 score = 1.8
-sentence 1: hasil keputusan yang diambil dalam kaa , terdiri dari sepuluh ( 10 ) keputusan yang lebih dikenal dengan dasa sila bandung , antara lain sebagai berikut : menghormati hak dasar manusia sebagaimana tercantum dalam piagam pbb menghormati kedaulatan dan integritas nasional semua warga mengakui persamaan semua bangsa , baik besar maupun kecil tidak melakukan intervensi atau campur tangan persoalan dalam negeri negara lain menghormati hak setiap bangsa untuk mempertahankan diri , baik secara sendirian maupun kolektif sesuai dengan piagam pbb tidak melakukan tekanan-tekanan terhadap negara lain tidak melakukan tindakan-tindakan ancaman-ancaman agresi terhadap keutuhan wilayah dan kemerdekaan negara lain menyelesaikan perselisihan internasional jalan damai sesuai dengan piagam pbb memajukan kerja sama untuk kepentingan bersama menghormati hukum dan kewajiban-kewajiban internasional setelah berakhirnya konferensi asia afrika , banyak negara yang belum merdeka , mulai memperjuangkan nasibnya untuk mencapai kemerdekaan dan kedudukan sebagai negara yang berdais penuh .
-sentence 2: selain itu konferensi asia afrika juga memiliki pengarun internasional antara lain sebagai berikut : berkurangnya ketegangan dunia , misainya cina ( rrc ) bersedia berunding dengan usa mengenai taiwan kaa menentang ras diskriminasi , sehingga australia menghapus politik white australian policydan amei mengadakan kelas campuran medorong lahirnya organisasi gerakan nonblok .
-sentence 3: dengan demikian , konferensi asia afrika sangat besar pengaruhnya dalam usaha untuk menciptao perdamaian dunia .
-sentence 4: [ gs ]
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+title : konferensi dan perjanjian pasca perang dunia ii
+passage 12 score = 6.2
+sentence 1: c ) abbesynia dan albania memperoleh kemerdekaannya kembali .
+sentence 2: d ) semua jajahan italia dan afrika utara dikuasai inggris .
+sentence 3: e ) italia harus membayar ganti rugi akibat perang yang ditimbulkannya .
+sentence 4: 2 ) perjanjian sekutu – austria dilaksanakan di austria pada tahun 1945 dengan berbagai keputusan , antara lain sebagai berikut .
+sentence 5: a ) kota wina dibagi menjadi empat wilayah pendudukan dan dikuasai oleh amerika serikat , inggris , prancis , dan uni soviet .
+passage 7 score = 6.0
+sentence 1: jerman timur , 1 zona dikuasai oleh uni soviet , sedangkan jerman barat , 3 zona dikuasai oleh amerika serikat , inggris , dan prancis .
+sentence 2: 2 ) kota berlin yang terletak di tengah daerah pendudukan uni soviet juga dibagi dua .
+sentence 3: berlin timur diduduki oleh uni soviet dan berlin barat dikuasai oleh amerika serikat , inggris , dan prancis .
+sentence 4: 3 ) wilayah danziq dan daerah jerman di sebelah timur sungai oder dan niesse diberikan kepada polandia .
+sentence 5: 4 ) demiliterisasi bagi jerman .
+passage 9 score = 6.0
+sentence 1: perjanjian tersebut berisi , sebagai berikut .
+sentence 2: 1 ) kepulauan jepang diperintah oleh tentara pendudukan amerika serikat ( untuk sementara ) .
+sentence 3: 2 ) kepulauan kuril dan sakhalin selatan diserahkan kepada uni soviet , sedangkan manchuria dan taiwan diserahkan kepada cina .
+sentence 4: kepulauan jepang di pasifik diserahkan kepada amerika serikat .
+sentence 5: korea akan dimerdekakan dan untuk sementara waktu dibagi dua wilayah pendudukan dengan batas 38 ° lintang utara .
+passage 10 score = 6.0
+sentence 1: korea akan dimerdekakan dan untuk sementara waktu dibagi dua wilayah pendudukan dengan batas 38 ° lintang utara .
+sentence 2: di bagian utara diduduki uni soviet , sedangkan di selatan dikuasai oleh amerika serikat .
+sentence 3: 3 ) penjahat perang harus dihukum .
+sentence 4: 4 ) jepang harus membayar ganti rugi perang .
+sentence 5: c. perjanjian sekutu dengan negara lainnya selain mengadakan perjanjian dengan jerman dan jepang , sekutu juga mengadakan perjanjian dengan negara-negara lain yang kalah berperang dalam perang dunia ii .
+passage 11 score = 6.0
+sentence 1: c. perjanjian sekutu dengan negara lainnya selain mengadakan perjanjian dengan jerman dan jepang , sekutu juga mengadakan perjanjian dengan negara-negara lain yang kalah berperang dalam perang dunia ii .
+sentence 2: 1 ) perjanjian sekutu – italia dilaksanakan di paris pada tahun 1945 dengan beberapa keputusan , antara lain sebagai berikut .
+sentence 3: a ) wilayah italia diperkecil .
+sentence 4: b ) triastie menjadi negara merdeka di bawah perwalian pbb .
+sentence 5: c ) abbesynia dan albania memperoleh kemerdekaannya kembali .
+passage 13 score = 6.0
+sentence 1: a ) kota wina dibagi menjadi empat wilayah pendudukan dan dikuasai oleh amerika serikat , inggris , prancis , dan uni soviet .
+sentence 2: b ) persyaratan lain menyusul karena belum ada keputusan dan persetujuan dari keempat negara pemenang perang dunia ii di wina .
+sentence 3: 3 ) perjanjian sekutu dengan hongaria , rumania , bulgaria , dan finlandia ditentukan di paris tahun 1945 dengan beberapa keputusan yang pada intinya sama , yaitu : a ) setiap negara wilayahnya diperkecil ; b ) setiap negara harus mengganti biaya perang .
+passage 1 score = 1.4
+sentence 1: konferensi dan perjanjian pasca perang dunia ii - perang dunia ii diakhiri dengan berbagai perjanjian antara pihak yang kalah perang ( jerman , jepang , dan italia ) dan yang menang perang ( pihak sekutu : as , uni soviet , inggris , prancis , dll ) .
+sentence 2: perjanjian yang penting adalah perjanjian sekutu dengan jerman dan sekutu dengan jepang .
+sentence 3: selain itu , pasca-perang dunia ii juga ditandai dengan berbagai konferensi .
+sentence 4: 1 .
+sentence 5: berbagai konferensi selama perang dunia ii beberapa konferensi yang diselenggarakan selama perang dunia ii tentang strategi pertempuran ataupun perdamaian dunia , antara lain sebagai berikut .
+passage 2 score = 1.4
+sentence 1: berbagai konferensi selama perang dunia ii beberapa konferensi yang diselenggarakan selama perang dunia ii tentang strategi pertempuran ataupun perdamaian dunia , antara lain sebagai berikut .
+sentence 2: a. konferensi atlantik konferensi atlantik diselenggarakan pada tanggal 14 agustus 1941 antara franklin delano roosevelt ( presiden amerika serikat ) dan winston churcill ( perdana menteri inggris ) .
+sentence 3: konferensi atlantik menghasilkan piagam perdamaian yang disebut piagam atlantik ( atlantik charter ) .
+sentence 4: piagam atlantik sebagai fondasi berdirinya pbb .
+sentence 5: b. konferensi casablanca konferensi casablanca diselenggarakan pada bulan januari 1943 antara franklin delano roosevelt dan winston churcill .
+passage 3 score = 1.4
+sentence 1: b. konferensi casablanca konferensi casablanca diselenggarakan pada bulan januari 1943 antara franklin delano roosevelt dan winston churcill .
+sentence 2: konferensi itu membahas perencanaan penyerbuan tentara sekutu ke eropa guna mengalahkan tentara blok sentral ( poros atau blok jerman ) .
+sentence 3: c. konferensi moskow konferensi moskow diselenggarakan pada bulan oktober 1943 yang dihadiri oleh menteri luar negeri rusia ( vyacheslav mikhailovich molotov ) , menteri luar negeri amerika serikat ( cordel hull ) , dan menteri luar negeri inggris ( anthony eden ) .
+sentence 4: konferensi itu membahas tentang rencana pembentukan organisasi internasional yang menjamin perdamaian .
+sentence 5: d. konferensi kairo konferensi kairo diselenggarakan pada bulan november 1943 antara franklin delano roosevelt , winston churcill , dan chiang kai-shek ( cina ) .
+passage 4 score = 1.4
+sentence 1: d. konferensi kairo konferensi kairo diselenggarakan pada bulan november 1943 antara franklin delano roosevelt , winston churcill , dan chiang kai-shek ( cina ) .
+sentence 2: konferensi itu memutuskan bahwa mereka akan menggempur jepang sampai menyerah .
+sentence 3: e. konferensi teheran konferensi teheran diselenggarakan pada desember 1943 yang dihadiri josep stalin , franklin delano roosevelt , dan winston churcill .
+sentence 4: pada prinsipnya konferensi itu mendukung keputusan konferensi kairo dan bertekad melanjutkan kerja sama meskipun perang telah berakhir .
+sentence 5: f. konferensi yalta konferensi yalta diselenggarakan pada bulan februari 1945 antara josep stalin , franklin delano roosevelt , dan winston churcill .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok293.txt
-title : pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika
-passage 1 score = 7.1
-sentence 1: pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika – konferensi asia afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
-sentence 2: pengaruh konferensi asia afrika adalah sebagai berikut .
-sentence 3: 1 .
-sentence 4: perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai .
-sentence 5: 2 .
-passage 7 score = 7.1
-sentence 1: 5 .
-sentence 2: australia dan amerika serikat mulai berusaha menghapuskan diskriminasi ras di negaranya .
-sentence 3: konferensi asia afrika dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di asia dan afrika , tetapi juga bergema ke seluruh dunia .
-passage 4 score = 6.6
-sentence 1: 6 .
-sentence 2: banyak negara-negara asia-afrika yang merdeka kemudian masuk menjadi anggota pbb .
-sentence 3: selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika , konferensi asia afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya .
-sentence 4: pengaruh atau dampak itu , antara lain sebagai berikut .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+title : sejarah akhir perang dunia ii
+passage 12 score = 6.5
+sentence 1: kepulauan jepang di pasifik diserahkan kepada amerika serikat .
+sentence 2: korea akan dimerdekakan dan untuk sementara waktu dibagi dua wilayah pendudukan dengan batas 38 ° lintang utara .
+sentence 3: di bagian utara diduduki uni soviet , sedangkan di selatan dikuasai oleh amerika serikat .
+sentence 4: 3 .
+sentence 5: penjahat perang harus dihukum .
+passage 16 score = 6.2
+sentence 1: semua jajahan italia dan afrika utara dikuasai inggris .
+sentence 2: 5 .
+sentence 3: italia harus membayar ganti rugi akibat perang yang ditimbulkannya .
+sentence 4: 2 ) perjanjian sekutu – austria dilaksanakan di austria pada tahun 1945 dengan berbagai keputusan , antara lain sebagai berikut .
 sentence 5: 1 .
-passage 2 score = 6.4
-sentence 1: 2 .
-sentence 2: cetusan rasa setia kawan dan kebangsaan bangsa-bangsa asia afrika untuk menggalang persatuan .
-sentence 3: 3 .
-sentence 4: penjelmaan kebangkitan kembali bangsa-bangsa di asia dan afrika .
-sentence 5: 4 .
-passage 3 score = 5.9
-sentence 1: 4 .
-sentence 2: pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
-sentence 3: 5 .
-sentence 4: memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di asia dan afrika dalam mencapai kemerdekaannya .
-sentence 5: 6 .
-passage 5 score = 1.6
+passage 11 score = 6.0
 sentence 1: 1 .
-sentence 2: konferensi asia afrika mampu menjadi penengah dua blok yang saling berseteru sehingga dapat mengurangi ketegangan/d étenteakibat perang dingin dan mencegah terjadinya perang terbuka .
+sentence 2: kepulauan jepang diperintah oleh tentara pendudukan amerika serikat ( untuk sementara ) .
 sentence 3: 2 .
-sentence 4: gagasan konferensi asia afrika berkembang lebih luas lagi dan diwujudkan dalam gerakan non blok .
-sentence 5: 3 .
-passage 6 score = 1.4
-sentence 1: 3 .
-sentence 2: politik bebas aktif yang dijalankan indonesia , india , burma ( myanmar ) , dan sri lanka tampak mulai diikuti oleh negara-negara yang tidak bersedia masuk blok timur ataupun blok barat .
-sentence 3: 4 .
-sentence 4: belanda cemas dalam menghadapi kelompok asia afrika di pbb sebab dalam sidang umum pbb , kelompok tersebut mendukung tuntutan indonesia atas kembalinya irian barat ke pangkuan ri .
-sentence 5: 5 .
+sentence 4: kepulauan kuril dan sakhalin selatan diserahkan kepada uni soviet , sedangkan manchuria dan taiwan diserahkan kepada cina .
+sentence 5: kepulauan jepang di pasifik diserahkan kepada amerika serikat .
+passage 13 score = 6.0
+sentence 1: penjahat perang harus dihukum .
+sentence 2: 4 .
+sentence 3: jepang harus membayar ganti rugi perang .
+sentence 4: c. perjanjian sekutu dengan negara lainnya selain mengadakan perjanjian dengan jerman dan jepang , sekutu juga mengadakan perjanjian dengan negara-negara lain yang kalah berperang dalam perang dunia ii .
+sentence 5: 1 ) perjanjian sekutu – italia dilaksanakan di paris pada tahun 1945 dengan beberapa keputusan , antara lain sebagai berikut .
+passage 14 score = 6.0
+sentence 1: 1 ) perjanjian sekutu – italia dilaksanakan di paris pada tahun 1945 dengan beberapa keputusan , antara lain sebagai berikut .
+sentence 2: 1 .
+sentence 3: wilayah italia diperkecil .
+sentence 4: 2 .
+sentence 5: triastie menjadi negara merdeka di bawah perwalian pbb .
+passage 17 score = 6.0
+sentence 1: 1 .
+sentence 2: kota wina dibagi menjadi empat wilayah pendudukan dan dikuasai oleh amerika serikat , inggris , prancis , dan uni soviet .
+sentence 3: 2 .
+sentence 4: persyaratan lain menyusul karena belum ada keputusan dan persetujuan dari keempat negara pemenang perang dunia ii di wina .
+sentence 5: 3 ) perjanjian sekutu dengan hongaria , rumania , bulgaria , dan finlandia ditentukan di paris tahun 1945 dengan beberapa keputusan yang pada intinya sama , yaitu : 1 .
+passage 1 score = 1.4
+sentence 1: sejarah akhir perang dunia ii – perang dunia ii diakhiri dengan berbagai perjanjian antara pihak yang kalah perang ( jerman , jepang , dan italia ) dan yang menang perang ( pihak sekutu : as , uni soviet , inggris , prancis , dll ) .
+sentence 2: perjanjian yang penting adalah perjanjian sekutu dengan jerman dan sekutu dengan jepang .
+sentence 3: selain itu , pasca-perang dunia ii juga ditandai dengan berbagai konferensi .
+sentence 4: beberapa konferensi yang diselenggarakan selama perang dunia ii tentang strategi pertempuran ataupun perdamaian dunia , antara lain sebagai berikut .
+sentence 5: a. konferensi atlantik konferensi atlantik diselenggarakan pada tanggal 14 agustus 1941 antara franklin delano roosevelt ( presiden amerika serikat ) dan winston churcill ( perdana menteri inggris ) .
+passage 2 score = 1.4
+sentence 1: a. konferensi atlantik konferensi atlantik diselenggarakan pada tanggal 14 agustus 1941 antara franklin delano roosevelt ( presiden amerika serikat ) dan winston churcill ( perdana menteri inggris ) .
+sentence 2: konferensi atlantik menghasilkan piagam perdamaian yang disebut piagam atlantik ( atlantik charter ) .
+sentence 3: piagam atlantik sebagai fondasi berdirinya pbb .
+sentence 4: b. konferensi casablanca konferensi casablanca diselenggarakan pada bulan januari 1943 antara franklin delano roosevelt dan winston churcill .
+sentence 5: konferensi itu membahas perencanaan penyerbuan tentara sekutu ke eropa guna mengalahkan tentara blok sentral ( poros atau blok jerman ) .
+passage 3 score = 1.4
+sentence 1: konferensi itu membahas perencanaan penyerbuan tentara sekutu ke eropa guna mengalahkan tentara blok sentral ( poros atau blok jerman ) .
+sentence 2: c. konferensi moskow konferensi moskow diselenggarakan pada bulan oktober 1943 yang dihadiri oleh menteri luar negeri rusia ( vyacheslav mikhailovich molotov ) , menteri luar negeri amerika serikat ( cordel hull ) , dan menteri luar negeri inggris ( anthony eden ) .
+sentence 3: konferensi itu membahas tentang rencana pembentukan organisasi internasional yang menjamin perdamaian .
+sentence 4: d. konferensi kairo konferensi kairo diselenggarakan pada bulan november 1943 antara franklin delano roosevelt , winston churcill , dan chiang kai-shek ( cina ) .
+sentence 5: konferensi itu memutuskan bahwa mereka akan menggempur jepang sampai menyerah .
+passage 4 score = 1.4
+sentence 1: konferensi itu memutuskan bahwa mereka akan menggempur jepang sampai menyerah .
+sentence 2: e. konferensi teheran konferensi teheran diselenggarakan pada desember 1943 yang dihadiri josep stalin , franklin delano roosevelt , dan winston churcill .
+sentence 3: pada prinsipnya konferensi itu mendukung keputusan konferensi kairo dan bertekad melanjutkan kerja sama meskipun perang telah berakhir .
+sentence 4: f. konferensi yalta konferensi yalta diselenggarakan pada bulan februari 1945 antara josep stalin , franklin delano roosevelt , dan winston churcill .
+sentence 5: konferensi berhasil mengambil keputusan , antara lain : 1 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-title : sejarah latar belakang pelaksanaan konferensi asia afrika
-passage 4 score = 7.1
-sentence 1: sementara itu , masih banyak pula negara yang berada di kawasan asia dan afrika belum dapat mencapai kemerdekaan .
-sentence 2: bangsa-bangsa di asia dan afrika yang telah merdeka tidak melupakan masa lampaunya .
-sentence 3: mereka tetap merasa senasib dan sependeritaan .
-sentence 4: lebih-lebih apabila mengingat masih banyak negara di asia dan afrika yang belum merdeka .
-sentence 5: rasa setia kawan itu dicetuskan dalam konferensi asia afrika .
-passage 1 score = 6.8
-sentence 1: sejarah latar belakang pelaksanaan konferensi asia afrika – politik luar negeri indonesia adalah bebas aktif .
-sentence 2: bebas , artinya bangsa indonesia tidak memihak pada salah satu blok yang ada di dunia .
-sentence 3: jadi , bangsa indonesia berhak bersahabat dengan negara mana pun asal tanpa ada unsur ikatan tertentu .
-sentence 4: bebas juga berarti bahwa bangsa indonesia mempunyai cara sendiri dalam menanggapi masalah internasional .
-sentence 5: aktifberarti bahwa bangsa indonesia secara aktif ikut mengusahakan terwujudnya perdamaian dunia .
-passage 2 score = 6.8
-sentence 1: aktifberarti bahwa bangsa indonesia secara aktif ikut mengusahakan terwujudnya perdamaian dunia .
-sentence 2: negara indonesia memilih sifat politik luar negerinya bebas aktif sebab setelah perang dunia ii berakhir di dunia telah muncul dua kekuatan adidaya baru yang saling berhadapan , yaitu negara amerika serikat dan uni soviet .
-sentence 3: amerika serikat memelopori berdirinya blok barat atau blok kapitalis ( liberal ) , sedangkan uni soviet memelopori kemunculan blok timur atau blok sosialis ( komunis ) .
-sentence 4: dalam upaya meredakan ketegangan dan untuk mewujudkan perdamaian dunia , pemerintah indonesia memprakarsai dan menyelenggarakan konferensi asia afrika .
-sentence 5: usaha ini mendapat dukungan dari negara-negara di asia dan afrika .
-passage 5 score = 6.6
-sentence 1: rasa setia kawan itu dicetuskan dalam konferensi asia afrika .
-sentence 2: sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi asia afrika mempunyai arti penting , baik bagi bangsa-bangsa di asia dan afrika pada khususnya maupun dunia pada umumnya .
-sentence 3: prakarsa untuk mengadakan konferensi asia afrika dikemukakan pertama kali oleh perdana menteri ri ali sastroamijoyo yang kemudian mendapat dukungan dari negara india , pakistan , sri lanka , dan burma ( myanmar ) dalam konferensi colombo .
-passage 3 score = 5.9
-sentence 1: usaha ini mendapat dukungan dari negara-negara di asia dan afrika .
-sentence 2: bangsa-bangsa di asia dan afrika pada umumnya pernah menderita karena penindasan imperialis barat .
-sentence 3: persamaan nasib itu menimbulkan rasa setia kawan .
-sentence 4: setelah perang dunia ii berakhir , banyak negara di asia dan afrika yang berhasil mencapai kemerdekaan , di antaranya adalah india , indonesia , filipina , pakistan , burma ( myanmar ) , sri lanka , vietnam , dan libia .
-sentence 5: sementara itu , masih banyak pula negara yang berada di kawasan asia dan afrika belum dapat mencapai kemerdekaan .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok134.txt
+title : perkembangan nasionalisme mesir
+passage 7 score = 6.7
+sentence 1: ketika perang dunia i selesai , partai wafd menuntut mesir sebagai negara merdeka dan ikut serta dalam konferensi perdamaian di prancis .
+sentence 2: inggris menolak , bahkan mengasingkan zaghlul pasha ke malta .
+sentence 3: pada tahun 1919 di mesir timbul pemberontakan dan zaghlul pasha dibebaskan kembali .
+sentence 4: kaum nasionalise mesir menuntut kemerdekaan penuh .
+sentence 5: pemberontakan berkobar lagi , zaghlul pasha ditangkap lagi dan diasingkan ke gibraltar .
+passage 6 score = 6.2
+sentence 1: sekalipun pemberontakan arabi pasha berhasil dipadamkan , namun cita-cita perjuangan arabi pasha merupakan sumber aspirasi semangat nasionalisme bangsa mesir .
+sentence 2: hal ini terbukti pada tanggal 7 desember 1907 telah diadakan kongres nasional yang pertama di bawah pimpinan mustafa kamil .
+sentence 3: tujuannya adalah pembangunan mesir secara liberal untuk mencapai kemerdekaan penuh .
+sentence 4: pemerintah mesir yang dipengaruhi oleh inggris berusaha untuk menindas gerakan ini , akan tetapi gerakan nasional ini tetap hidup dan makin kuat bahkan kemudian menjelma menjadi partai wafd ( utusan ) di bawah pimpinan saad zaghlul pasha .
+sentence 5: ketika perang dunia i selesai , partai wafd menuntut mesir sebagai negara merdeka dan ikut serta dalam konferensi perdamaian di prancis .
+passage 3 score = 6.0
+sentence 1: mula-mula gerakan ini antiorang asing ( inggris , prancis dan turki ) , tetapi akhirnya menjadi gerakan untuk menuntut perubahan sistem pemerintahan .
+sentence 2: gerakan arabi ini timbul karena pengaruh jamaluddin al afghani yang ketika itu mengajar di mesir .
+sentence 3: perlawanan rakyat yang dipimpin oleh arabi pasha ini sangat membahayakan kedudukan inggris dan prancis di mesir .
+sentence 4: inggris akhirnya bertindak dan berhasil menumpas pemberontakan arabi pasha .
+sentence 5: b. timbulnya nasionalime mesir mesir termasuk negara arab sehingga bangkitnya nasionalisme mesir merupakan hal yang sama dengan bangkitnya nasionalisme arab .
+passage 8 score = 6.0
+sentence 1: pemberontakan berkobar lagi , zaghlul pasha ditangkap lagi dan diasingkan ke gibraltar .
+sentence 2: inggris yang tidak dapat menekan nasionalisme mesir , terpaksa mengeluarkan pernyataan unilateral ( unilateral declaration ) pada tanggal 28 februari 1922 .
+sentence 3: isi uniteral declaration adalah sebagai berikut : 1 ) inggris mengakui kemerdekaan dan kedaulatan mesir .
+sentence 4: 2 ) inggris berhak atas empat masalah pokok , seperti berikut : a ) mempertahakan terusan suez ; b ) mempergunakan daerah militer untuk operasi militer ; c ) mempertahankan mesir terhadap agresi bangsa lain ; d ) melindungi bangsa asing di mesir dan kepentingannya .
+sentence 5: uniteral declaration 1922 merupakan saat yang bersejarah bagi mesi sebab sejak itu dunia internasional menganggap mesir telah merdeka , meskipun belum penuh .
+passage 1 score = 1.0
+sentence 1: perkembangan nasionalisme mesir - sejak dibukanya terusan suez pada tahun 1869 , negara-negara barat terutama inggris dan prancis saling berlomba memperebutkan pengaruhnya di mesir .
+sentence 2: pengaruh kekuasaan inggris makin kuat mulai tahun 1875 , yakni saat khedive ismail ( 1863 – 1879 ) membutuhkan uang sehubungan dengan krisisnya keuangan mesir .
+sentence 3: khedive ismail kemudian menjual sebagian besar saham mersir pada terusan suez kepada inggris .
+sentence 4: di samping itu , mesir juga meminjam uang dari inggris dan prancis .
+sentence 5: mesir karena tidak dapat membayar hutang-hutangnya maka inggris dan prancis masuk ke mesir dan memberesi hutang-hutangnya .
+passage 2 score = 1.0
+sentence 1: mesir karena tidak dapat membayar hutang-hutangnya maka inggris dan prancis masuk ke mesir dan memberesi hutang-hutangnya .
+sentence 2: dengan demikian , sejak tahun 1876 , inggris dan prancis telah ikut campur dalam pemerintahan di mesir .
+sentence 3: a. krisis keuangan mesir adanya campur tangan inggris dan prancis dalam pemerintahan , khususnya pada saham-saham terusan suez menimbulkan kekecewaan yang kemudian muncul perlawanan rakyat .
+sentence 4: kebangkitan nasional mesir ditandai dengan adanya pemberontakan arabi pasha ( 1881 – 1882 ) .
+sentence 5: mula-mula gerakan ini antiorang asing ( inggris , prancis dan turki ) , tetapi akhirnya menjadi gerakan untuk menuntut perubahan sistem pemerintahan .
+passage 4 score = 1.0
+sentence 1: b. timbulnya nasionalime mesir mesir termasuk negara arab sehingga bangkitnya nasionalisme mesir merupakan hal yang sama dengan bangkitnya nasionalisme arab .
+sentence 2: adapun sebab-sebab timbulnya nasionalisme mesir adalah sebagai berikut .
+sentence 3: 1 ) adanya gerakan wahabi , semula merupakan gerakan agama yang kemudian memberontak pemerintahan turki .
+sentence 4: dengan demikian , secara politik membangkitkan tumbuhnya nasionalisme mesir .
+sentence 5: 2 ) adanya pengaruh revolusi prancis .
+passage 5 score = 1.0
+sentence 1: 2 ) adanya pengaruh revolusi prancis .
+sentence 2: ketika napoleon bonaparte mendarat di mesir , ia juga membawa suara revolusi prancis yang kemudian menimbulkan paham liberal dan nasionalisme mesir .
+sentence 3: 3 ) munculnya kaum intelektual yang berpaham modern .
+sentence 4: 4 ) adanya gerakan pan arab , yang dirintis oleh amir chetib arslan dengan yang menganjurkan persatuan semua bangsa arab dengan tujuan untuk mencapai kemerdekaan bangsanya .
+sentence 5: sekalipun pemberontakan arabi pasha berhasil dipadamkan , namun cita-cita perjuangan arabi pasha merupakan sumber aspirasi semangat nasionalisme bangsa mesir .
+passage 9 score = 1.0
+sentence 1: uniteral declaration 1922 merupakan saat yang bersejarah bagi mesi sebab sejak itu dunia internasional menganggap mesir telah merdeka , meskipun belum penuh .
+sentence 2: sebaliknya , di pihak kaum nasionalis mesir tetap tetap menentangnya sebab inggris tetap berhak atas empat masalah pokok tersebut di atas .
+sentence 3: itulah sebabnya , kaum nasionalisme mesir terus berjuang melawan inggris untuk mencapai kemerdekaan penuh .
+sentence 4: hal ini baru terwujud setelah perang dunia ii berakhir ( oktober 1954 ) .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok336.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok63.txt
+title : perkembangan nasionalisme mesir
+passage 7 score = 5.7
+sentence 1: ketika perang dunia i selesai , partai wafd menuntut mesir sebagai negara merdeka dan ikut serta dalam konferensi perdamaian di prancis .
+sentence 2: inggris menolak , bahkan mengasingkan zaghlul pasha ke malta .
+sentence 3: pada tahun 1919 di mesir timbul pemberontakan dan zaghlul pasha dibebaskan kembali .
+sentence 4: kaum nasionalise mesir menuntut kemerdekaan penuh .
+sentence 5: pemberontakan berkobar lagi , zaghlul pasha ditangkap lagi dan diasingkan ke gibraltar .
+passage 6 score = 5.2
+sentence 1: sekalipun pemberontakan arabi pasha berhasil dipadamkan , namun cita-cita perjuangan arabi pasha merupakan sumber aspirasi semangat nasionalisme bangsa mesir .
+sentence 2: hal ini terbukti pada tanggal 7 desember 1907 telah diadakan kongres nasional yang pertama di bawah pimpinan mustafa kamil .
+sentence 3: tujuannya adalah pembangunan mesir secara liberal untuk mencapai kemerdekaan penuh .
+sentence 4: pemerintah mesir yang dipengaruhi oleh inggris berusaha untuk menindas gerakan ini , akan tetapi gerakan nasional ini tetap hidup dan makin kuat bahkan kemudian menjelma menjadi partai wafd ( utusan ) di bawah pimpinan saad zaghlul pasha .
+sentence 5: ketika perang dunia i selesai , partai wafd menuntut mesir sebagai negara merdeka dan ikut serta dalam konferensi perdamaian di prancis .
+passage 3 score = 5.0
+sentence 1: mula-mula gerakan ini antiorang asing ( inggris , prancis dan turki ) , tetapi akhirnya menjadi gerakan untuk menuntut perubahan sistem pemerintahan .
+sentence 2: gerakan arabi ini timbul karena pengaruh jamaluddin al afghani yang ketika itu mengajar di mesir .
+sentence 3: perlawanan rakyat yang dipimpin oleh arabi pasha ini sangat membahayakan kedudukan inggris dan prancis di mesir .
+sentence 4: inggris akhirnya bertindak dan berhasil menumpas pemberontakan arabi pasha .
+sentence 5: b. timbulnya nasionalime mesir mesir termasuk negara arab sehingga bangkitnya nasionalisme mesir merupakan hal yang sama dengan bangkitnya nasionalisme arab .
+passage 8 score = 5.0
+sentence 1: pemberontakan berkobar lagi , zaghlul pasha ditangkap lagi dan diasingkan ke gibraltar .
+sentence 2: inggris yang tidak dapat menekan nasionalisme mesir , terpaksa mengeluarkan pernyataan unilateral ( unilateral declaration ) pada tanggal 28 februari 1922 .
+sentence 3: isi uniteral declaration adalah sebagai berikut : 1 ) inggris mengakui kemerdekaan dan kedaulatan mesir .
+sentence 4: 2 ) inggris berhak atas empat masalah pokok , seperti berikut : a ) mempertahakan terusan suez ; b ) mempergunakan daerah militer untuk operasi militer ; c ) mempertahankan mesir terhadap agresi bangsa lain ; d ) melindungi bangsa asing di mesir dan kepentingannya .
+sentence 5: uniteral declaration 1922 merupakan saat yang bersejarah bagi mesi sebab sejak itu dunia internasional menganggap mesir telah merdeka , meskipun belum penuh .
+passage 1 score = 0.0
+sentence 1: perkembangan nasionalisme mesir - sejak dibukanya terusan suez pada tahun 1869 , negara-negara barat terutama inggris dan prancis saling berlomba memperebutkan pengaruhnya di mesir .
+sentence 2: pengaruh kekuasaan inggris makin kuat mulai tahun 1875 , yakni saat khedive ismail ( 1863 – 1879 ) membutuhkan uang sehubungan dengan krisisnya keuangan mesir .
+sentence 3: khedive ismail kemudian menjual sebagian besar saham mersir pada terusan suez kepada inggris .
+sentence 4: di samping itu , mesir juga meminjam uang dari inggris dan prancis .
+sentence 5: mesir karena tidak dapat membayar hutang-hutangnya maka inggris dan prancis masuk ke mesir dan memberesi hutang-hutangnya .
+passage 2 score = 0.0
+sentence 1: mesir karena tidak dapat membayar hutang-hutangnya maka inggris dan prancis masuk ke mesir dan memberesi hutang-hutangnya .
+sentence 2: dengan demikian , sejak tahun 1876 , inggris dan prancis telah ikut campur dalam pemerintahan di mesir .
+sentence 3: a. krisis keuangan mesir adanya campur tangan inggris dan prancis dalam pemerintahan , khususnya pada saham-saham terusan suez menimbulkan kekecewaan yang kemudian muncul perlawanan rakyat .
+sentence 4: kebangkitan nasional mesir ditandai dengan adanya pemberontakan arabi pasha ( 1881 – 1882 ) .
+sentence 5: mula-mula gerakan ini antiorang asing ( inggris , prancis dan turki ) , tetapi akhirnya menjadi gerakan untuk menuntut perubahan sistem pemerintahan .
+passage 4 score = 0.0
+sentence 1: b. timbulnya nasionalime mesir mesir termasuk negara arab sehingga bangkitnya nasionalisme mesir merupakan hal yang sama dengan bangkitnya nasionalisme arab .
+sentence 2: adapun sebab-sebab timbulnya nasionalisme mesir adalah sebagai berikut .
+sentence 3: 1 ) adanya gerakan wahabi , semula merupakan gerakan agama yang kemudian memberontak pemerintahan turki .
+sentence 4: dengan demikian , secara politik membangkitkan tumbuhnya nasionalisme mesir .
+sentence 5: 2 ) adanya pengaruh revolusi prancis .
+passage 5 score = 0.0
+sentence 1: 2 ) adanya pengaruh revolusi prancis .
+sentence 2: ketika napoleon bonaparte mendarat di mesir , ia juga membawa suara revolusi prancis yang kemudian menimbulkan paham liberal dan nasionalisme mesir .
+sentence 3: 3 ) munculnya kaum intelektual yang berpaham modern .
+sentence 4: 4 ) adanya gerakan pan arab , yang dirintis oleh amir chetib arslan dengan yang menganjurkan persatuan semua bangsa arab dengan tujuan untuk mencapai kemerdekaan bangsanya .
+sentence 5: sekalipun pemberontakan arabi pasha berhasil dipadamkan , namun cita-cita perjuangan arabi pasha merupakan sumber aspirasi semangat nasionalisme bangsa mesir .
+passage 9 score = 0.0
+sentence 1: uniteral declaration 1922 merupakan saat yang bersejarah bagi mesi sebab sejak itu dunia internasional menganggap mesir telah merdeka , meskipun belum penuh .
+sentence 2: sebaliknya , di pihak kaum nasionalis mesir tetap tetap menentangnya sebab inggris tetap berhak atas empat masalah pokok tersebut di atas .
+sentence 3: itulah sebabnya , kaum nasionalisme mesir terus berjuang melawan inggris untuk mencapai kemerdekaan penuh .
+sentence 4: hal ini baru terwujud setelah perang dunia ii berakhir ( oktober 1954 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
+passage 5 score = 7.3
+sentence 1: negara indonesia memilih sifat politik luar negerinya bebas aktif sebab setelah perang dunia ii berakhir di dunia telah muncul dua kekuatan adidaya baru yang saling berhadapan , yaitu negara amerika serikat dan uni soviet .
+sentence 2: amerika serikat memelopori berdirinya blok barat atau blok kapitalis ( liberal ) , sedangkan uni soviet memelopori kemunculan blok timur atau blok sosialis ( komunis ) .
+sentence 3: dalam upaya meredakan ketegangan dan untuk mewujudkan perdamaian dunia , pemerintah indonesia memprakarsai dan menyelenggarakan konferensi asia afrika .
+sentence 4: usaha ini mendapat dukungan dari negara-negara di asia dan afrika .
+sentence 5: bangsa-bangsa di asia dan afrika pada umumnya pernah menderita karena penindasan imperialis barat .
+passage 8 score = 7.3
+sentence 1: sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi asia afrika mempunyai arti penting , baik bagi bangsa-bangsa di asia dan afrika pada khususnya maupun dunia pada umumnya .
+sentence 2: prakarsa untuk mengadakan konferensi asia afrika dikemukakan pertama kali oleh perdana menteri ri ali sastroamijoyo yang kemudian mendapat dukungan dari negara india , pakistan , sri lanka , dan burma ( myanmar ) dalam konferensi colombo .
+sentence 3: b. konferensi pendahuluan sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan .
+sentence 4: konferensi pendahuluan tersebut , antara lain sebagai berikut .
+sentence 5: 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
+passage 9 score = 7.3
+sentence 1: 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
+sentence 2: konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
+sentence 3: a ) perdana menteri pakistan : muhammad ali jinnah b ) perdana menteri sri lanka : sir john kotelawala c ) perdana menteri burma ( myanmar ) : u nu d ) perdana menteri indonesia : ali sastroamijoyo e ) perdana menteri india : jawaharlal nehru konferensi kolombo membahas masalah vietnam , sebagai persiapan untuk menghadapi konferensi di jenewa .
+sentence 4: di samping itu konferensi kolombo secara aklamasi memutuskan akan mengadakan konferensi asia afrika dan pemerintah indonesia ditunjuk sebagai penyelenggaranya .
+sentence 5: kelima negara yang wakilnya hadir dalam konferensi kolombo kemudian dikenal dengan nama pancanegara .
+passage 7 score = 7.1
+sentence 1: bangsa-bangsa di asia dan afrika yang telah merdeka tidak melupakan masa lampaunya .
+sentence 2: mereka tetap merasa senasib dan sependeritaan .
+sentence 3: lebih-lebih apabila mengingat masih banyak negara di asia dan afrika yang belum merdeka .
+sentence 4: rasa setia kawan itu dicetuskan dalam konferensi asia afrika .
+sentence 5: sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi asia afrika mempunyai arti penting , baik bagi bangsa-bangsa di asia dan afrika pada khususnya maupun dunia pada umumnya .
+passage 15 score = 7.1
+sentence 1: 3 ) meningkatnya kesadaran berbangsa yang dimotori oleh golongan elite nasional/terpelajar dan intelektual .
+sentence 2: 4 ) adanya perang dingin antara blok barat dengan blok timur .
+sentence 3: 5 ) memiliki pokok-pokok yang kuat dalam hal bangsa , agama , dan budaya .
+sentence 4: 6 ) secara geografis letaknya berdekatan dan saling melengkapi satu sama lain .
+sentence 5: tujuan diadakannya konferensi asia afrika , antara lain : 1 ) memajukan kerja sama bangsa-bangsa di asia dan afrika dalam bidang sosial , ekonomi , dan kebudayaan ; 2 ) memberantas diskriminasi ras dan kolonialisme ; 3 ) memperbesar peranan bangsa asia dan afrika di dunia dan ikut serta mengusahakan perdamaian dunia dan kerja sama internasional .
+passage 16 score = 7.1
+sentence 1: tujuan diadakannya konferensi asia afrika , antara lain : 1 ) memajukan kerja sama bangsa-bangsa di asia dan afrika dalam bidang sosial , ekonomi , dan kebudayaan ; 2 ) memberantas diskriminasi ras dan kolonialisme ; 3 ) memperbesar peranan bangsa asia dan afrika di dunia dan ikut serta mengusahakan perdamaian dunia dan kerja sama internasional .
+sentence 2: 4 ) bekerja sama dalam bidang sosial , ekonomi , dan budaya , 5 ) membicarakan masalah-masalah khusus yang menyangkut kepentingan bersama seperti kedaulatan negara , rasionalisme , dan kolonialisme .
+sentence 3: konferensi asia afrika membicarakan hal-hal yang menyangkut kepentingan bersama negara-negara di asia dan afrika , terutama kerja sama ekonomi dan kebudayaan , serta masalah kolonialisme dan perdamaian dunia .
+sentence 4: kerja sama ekonomi dalam lingkungan bangsa-bangsa asia dan afrika dilakukan dengan saling memberikan bantuan teknik dan tenaga ahli .
+sentence 5: konferensi berpendapat bahwa negara-negara di asia dan afrika perlu memperluas perdagangan dan pertukaran delegasi dagang .
+passage 20 score = 7.1
+sentence 1: selain menetapkan keputusan tersebut , konferensi juga mengajak setiap bangsa di dunia untuk menjalankan beberapa prinsip bersama , seperti : 1 ) menghormati hak-hak dasar manusia , tujuan , serta asas yang termuat dalam piagam pbb ; 2 ) menghormati kedaulatan dan integritas teritorial semua bangsa ; 3 ) mengakui persamaan ras dan persamaan semua bangsa , baik bangsa besar maupun bangsa kecil ; 4 ) tidak melakukan intervensi atau ikut campur tangan dalam persoalan dalam negeri negara lain ; 5 ) menghormati hak-hak tiap bangsa untuk mempertahankan diri , baik secara sendirian maupun secara kolektif sesuai dengan piagam pbb ; 6 .
+sentence 2: a ) tidak menggunakan peraturan-peraturan dari pertahanan kolektif untuk bertindak bagi kepentingan khusus salah satu negara besar ; b ) tidak melakukan tekanan terhadap negara lain ; 7 ) tidak melakukan tindakan atau ancaman agresi ataupun penggunaan kekerasan terhadap integritas teritorial atas kemerdekaan politik suatu negara ; 8 ) menyelesaikan segala perselisihan internasional secara damai sesuai dengan piagam pbb ; 9 ) memajukan kepentingan bersama dan kerja sama internasional ; 10 ) menghormati hukum dan kewajiban internasional lainnya .
+sentence 3: kesepuluh prinsip yang dinyatakan dalam konferensi asia afrika itu dikenal dengan nama dasasila bandung atau bandung declaration .
+sentence 4: d. pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika konferensi asia afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
+sentence 5: pengaruh konferensi asia afrika adalah sebagai berikut .
+passage 21 score = 7.1
+sentence 1: pengaruh konferensi asia afrika adalah sebagai berikut .
+sentence 2: 1 ) perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai .
+sentence 3: 2 ) cetusan rasa setia kawan dan kebangsaan bangsa-bangsa asia afrika untuk menggalang persatuan .
+sentence 4: 3 ) penjelmaan kebangkitan kembali bangsa-bangsa di asia dan afrika .
+sentence 5: 4 ) pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
+passage 22 score = 7.1
+sentence 1: 4 ) pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
+sentence 2: 6 ) memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di asia dan afrika dalam mencapai kemerdekaannya .
+sentence 3: 7 ) banyak negara-negara asia-afrika yang merdeka kemudian masuk menjadi anggota pbb .
+sentence 4: selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika , konferensi asia afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya .
+sentence 5: pengaruh atau dampak itu , antara lain sebagai berikut .
+passage 24 score = 7.1
+sentence 1: 4 ) belanda cemas dalam menghadapi kelompok asia afrika di pbb sebab dalam sidang umum pbb , kelompok tersebut mendukung tuntutan indonesia atas kembalinya irian barat ke pangkuan ri .
+sentence 2: 5 ) australia dan amerika serikat mulai berusaha menghapuskan diskriminasi ras di negaranya .
+sentence 3: konferensi asia afrika dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di asia dan afrika , tetapi juga bergema ke seluruh dunia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok107.txt
+title : perang koalisi dan pengaruh revolusi perancis
+passage 18 score = 5.7
+sentence 1: napoleon dengan pasukannya ke luar menghadapi tentara koaliasi .
+sentence 2: di ligny , pasukan napoleon mendapatkan kemenangan .
+sentence 3: namun , dalam pertempuran di waterlo pada tahun 1815 , napoleon dapat dikalahkan .
+sentence 4: napoleon dapat ditangkap dan diasingkan ke pulau saint herlena ( sebelah barat afrika ) sampai meninggalnya pada tanggal 5 mei 1815 .
+sentence 5: pengaruh revolusi prancis revolusi prancis telah membawa pengaruh yang besar , baik di dalam negeri maupun di luar negeri yang meliputi bidang politik , ekonomi dan sosial .
+passage 14 score = 5.5
+sentence 1: napoleon menyerahkan dan ia turun dari takhta kekaisaran .
+sentence 2: napoleon kemudian dibuang ke pulau elba di selatan prancis ( 1814 ) .
+sentence 3: sebagai raja prancis diangkatlah seorang bourbon yakni louis xviii ( adik louis xvi ) .
+sentence 4: pada tahun 1814 , louis xviii kemudian mengadakan perjanjian paris yang isinya sebagai berikut .
+sentence 5: 1 ) penetapan batas-batas kekuasaan prancis seperti sebelum tahun 1792 .
+passage 5 score = 5.2
+sentence 1: ia menjadi konsul seumur hidup dan pada tahun 1804 diangkat sebagai kaisar .
+sentence 2: c. perang koalisi iii ( 1805 ) dalam perang koalisi iii ini , prancis berhadapan dengan austria , inggris , rusia , dan swedia .
+sentence 3: dalam menghadapi inggris , napoleon memusatkan pasukannya di boulogne .
+sentence 4: namun , angkatan laut prancis dapat dihancurkan oleh pasukan inggris di bawah pimpinan laksamana nelson .
+sentence 5: pasukan austria dan rusia akan menyeberang ke inggris .
+passage 2 score = 5.0
+sentence 1: napoleon berhasil mengalahkan lawan-lawannya dan diakhiri perjanjian compo formio ( 1797 ) .
+sentence 2: perang koalisi i berakhir tahun 1797 , musuh prancis dapat dikalahkan , kecuali inggris .
+sentence 3: inggris tidak mau menandatangani perjanjian perdamaian sehingga sejak saat itu inggris menjadi lawan napoleon .
+sentence 4: napoleon bermaksud untuk mengalahkan inggris dengan menyerang kedudukannya di india dengan menyerbu mesir sebagai batu locatan .
+sentence 5: kedatangan napoleon di mesir mempunyai arti penting , seperti ditemukan batu rosetta yang membuka tabir sejarah mesir kuno , adanya ide untuk membuat terusan yang kemudian dapat direalisasi yakni terusan suez .
+passage 4 score = 5.0
+sentence 1: dalam perang ini , napoleon juga tampil sebagai pemimpin perang prancis .
+sentence 2: prancis berhasil mengalahkan austria dalam pertempuran di marengo tahun1800 .
+sentence 3: sekutu austria yang lain , kemudian menghentikan perang setelah terjadi perjanjian armien tahun 1802 .
+sentence 4: kemenangan ini mengantarkan napoleon ke puncak kekuasaan absolutnya .
+sentence 5: ia menjadi konsul seumur hidup dan pada tahun 1804 diangkat sebagai kaisar .
+passage 6 score = 5.0
+sentence 1: pasukan austria dan rusia akan menyeberang ke inggris .
+sentence 2: dengan tipu muslihat , napoleon berhasil menduduki jerman .
+sentence 3: austria dan rusia akhirnya dapat dikalahkan setelah terjadi pertempuran di austetlitz .
+sentence 4: pertempuran berakhir dengan perjanjian preszburg tahun 1805 .
+sentence 5: dengan kemenangan ini , napoleon mengubah peta eropa menurut kehendaknya sendiri .
+passage 7 score = 5.0
+sentence 1: dengan kemenangan ini , napoleon mengubah peta eropa menurut kehendaknya sendiri .
+sentence 2: di negara-negara yang telah berhasil dikalahkannya , napoleon menempatkan saudara-saudaranya untuk mendukung politik dinastinya .
+sentence 3: d. perang koalisi iv ( 1806 – 1807 ) perang koalisi iv , dipusatkan untuk mengalahkan prusia dan inggris .
+sentence 4: pasukan prusia berhasil dihancurkan dalam pertempuran di jena dan auerstadt pada tahun 1806 .
+sentence 5: berlin dapat diduduki oleh napoleon dalam usaha memperlemah inggris , naopleon di berlin mengeluarkan dekrit berlin yang berisi continental stelsel , yakni suatu usaha blokade ekonomi terhadap inggris dengan melarang negara-negara eropa untuk mengadakan hubungan dagang dengan inggris dan menerima kapal-kapal inggris untuk berlabuh di kawasan eropa .
+passage 8 score = 5.0
+sentence 1: berlin dapat diduduki oleh napoleon dalam usaha memperlemah inggris , naopleon di berlin mengeluarkan dekrit berlin yang berisi continental stelsel , yakni suatu usaha blokade ekonomi terhadap inggris dengan melarang negara-negara eropa untuk mengadakan hubungan dagang dengan inggris dan menerima kapal-kapal inggris untuk berlabuh di kawasan eropa .
+sentence 2: siapa yang melanggar ketentuan ini akan dihancurkan oleh prancis .
+sentence 3: e. perang koalisi v ( 1809 ) dalam perang koalisi v , prancis berhadapan dengan austria , inggris , spanyol , dan portugal .
+sentence 4: dalam perang ini pasukan austria berhasil dihancurkan oleh napoleon dalam pertempuran di ulagram dan diakhiri dengan perjanjian schonkrunn tahun 1809 .
+sentence 5: namun , napoleon gagal mematahkan kekuatan spanyol .
+passage 9 score = 5.0
+sentence 1: namun , napoleon gagal mematahkan kekuatan spanyol .
+sentence 2: bahkan , di spanyol muncul gerakan nasionalisme untuk menenatang kekuasaan prancis .
+sentence 3: gerakan nasionalisme ini menjalar ke negara-negara lain , seperti prusia dan austria .
+sentence 4: gerakan ini merupakan ancaman bagi dominasi kekuasaan napoleon di eropa .
+sentence 5: rusia ternyata tidak mematuhui adanya continental stelsel .
+passage 10 score = 5.0
+sentence 1: rusia ternyata tidak mematuhui adanya continental stelsel .
+sentence 2: pada tahun 1812 napoleon menyerang rusia dengan kekuatan 600.000 orang pasukan yang disebut grande armee .
+sentence 3: rusia menggunakan taktik bumi hangus sehingga ketika tentara napoleon tiba di moskow , banungunan di kota itu tinggal puing-puing .
+sentence 4: hal inilah yang mempersulit tentara napoleon .
+sentence 5: kondisi ini diperburuk dengan datangnya musim dingin .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok36.txt
+title : perang koalisi dan pengaruh revolusi perancis
+passage 18 score = 5.7
+sentence 1: napoleon dengan pasukannya ke luar menghadapi tentara koaliasi .
+sentence 2: di ligny , pasukan napoleon mendapatkan kemenangan .
+sentence 3: namun , dalam pertempuran di waterlo pada tahun 1815 , napoleon dapat dikalahkan .
+sentence 4: napoleon dapat ditangkap dan diasingkan ke pulau saint herlena ( sebelah barat afrika ) sampai meninggalnya pada tanggal 5 mei 1815 .
+sentence 5: pengaruh revolusi prancis revolusi prancis telah membawa pengaruh yang besar , baik di dalam negeri maupun di luar negeri yang meliputi bidang politik , ekonomi dan sosial .
+passage 14 score = 5.5
+sentence 1: napoleon menyerahkan dan ia turun dari takhta kekaisaran .
+sentence 2: napoleon kemudian dibuang ke pulau elba di selatan prancis ( 1814 ) .
+sentence 3: sebagai raja prancis diangkatlah seorang bourbon yakni louis xviii ( adik louis xvi ) .
+sentence 4: pada tahun 1814 , louis xviii kemudian mengadakan perjanjian paris yang isinya sebagai berikut .
+sentence 5: 1 ) penetapan batas-batas kekuasaan prancis seperti sebelum tahun 1792 .
+passage 5 score = 5.2
+sentence 1: ia menjadi konsul seumur hidup dan pada tahun 1804 diangkat sebagai kaisar .
+sentence 2: c. perang koalisi iii ( 1805 ) dalam perang koalisi iii ini , prancis berhadapan dengan austria , inggris , rusia , dan swedia .
+sentence 3: dalam menghadapi inggris , napoleon memusatkan pasukannya di boulogne .
+sentence 4: namun , angkatan laut prancis dapat dihancurkan oleh pasukan inggris di bawah pimpinan laksamana nelson .
+sentence 5: pasukan austria dan rusia akan menyeberang ke inggris .
+passage 2 score = 5.0
+sentence 1: napoleon berhasil mengalahkan lawan-lawannya dan diakhiri perjanjian compo formio ( 1797 ) .
+sentence 2: perang koalisi i berakhir tahun 1797 , musuh prancis dapat dikalahkan , kecuali inggris .
+sentence 3: inggris tidak mau menandatangani perjanjian perdamaian sehingga sejak saat itu inggris menjadi lawan napoleon .
+sentence 4: napoleon bermaksud untuk mengalahkan inggris dengan menyerang kedudukannya di india dengan menyerbu mesir sebagai batu locatan .
+sentence 5: kedatangan napoleon di mesir mempunyai arti penting , seperti ditemukan batu rosetta yang membuka tabir sejarah mesir kuno , adanya ide untuk membuat terusan yang kemudian dapat direalisasi yakni terusan suez .
+passage 4 score = 5.0
+sentence 1: dalam perang ini , napoleon juga tampil sebagai pemimpin perang prancis .
+sentence 2: prancis berhasil mengalahkan austria dalam pertempuran di marengo tahun1800 .
+sentence 3: sekutu austria yang lain , kemudian menghentikan perang setelah terjadi perjanjian armien tahun 1802 .
+sentence 4: kemenangan ini mengantarkan napoleon ke puncak kekuasaan absolutnya .
+sentence 5: ia menjadi konsul seumur hidup dan pada tahun 1804 diangkat sebagai kaisar .
+passage 6 score = 5.0
+sentence 1: pasukan austria dan rusia akan menyeberang ke inggris .
+sentence 2: dengan tipu muslihat , napoleon berhasil menduduki jerman .
+sentence 3: austria dan rusia akhirnya dapat dikalahkan setelah terjadi pertempuran di austetlitz .
+sentence 4: pertempuran berakhir dengan perjanjian preszburg tahun 1805 .
+sentence 5: dengan kemenangan ini , napoleon mengubah peta eropa menurut kehendaknya sendiri .
+passage 7 score = 5.0
+sentence 1: dengan kemenangan ini , napoleon mengubah peta eropa menurut kehendaknya sendiri .
+sentence 2: di negara-negara yang telah berhasil dikalahkannya , napoleon menempatkan saudara-saudaranya untuk mendukung politik dinastinya .
+sentence 3: d. perang koalisi iv ( 1806 – 1807 ) perang koalisi iv , dipusatkan untuk mengalahkan prusia dan inggris .
+sentence 4: pasukan prusia berhasil dihancurkan dalam pertempuran di jena dan auerstadt pada tahun 1806 .
+sentence 5: berlin dapat diduduki oleh napoleon dalam usaha memperlemah inggris , naopleon di berlin mengeluarkan dekrit berlin yang berisi continental stelsel , yakni suatu usaha blokade ekonomi terhadap inggris dengan melarang negara-negara eropa untuk mengadakan hubungan dagang dengan inggris dan menerima kapal-kapal inggris untuk berlabuh di kawasan eropa .
+passage 8 score = 5.0
+sentence 1: berlin dapat diduduki oleh napoleon dalam usaha memperlemah inggris , naopleon di berlin mengeluarkan dekrit berlin yang berisi continental stelsel , yakni suatu usaha blokade ekonomi terhadap inggris dengan melarang negara-negara eropa untuk mengadakan hubungan dagang dengan inggris dan menerima kapal-kapal inggris untuk berlabuh di kawasan eropa .
+sentence 2: siapa yang melanggar ketentuan ini akan dihancurkan oleh prancis .
+sentence 3: e. perang koalisi v ( 1809 ) dalam perang koalisi v , prancis berhadapan dengan austria , inggris , spanyol , dan portugal .
+sentence 4: dalam perang ini pasukan austria berhasil dihancurkan oleh napoleon dalam pertempuran di ulagram dan diakhiri dengan perjanjian schonkrunn tahun 1809 .
+sentence 5: namun , napoleon gagal mematahkan kekuatan spanyol .
+passage 9 score = 5.0
+sentence 1: namun , napoleon gagal mematahkan kekuatan spanyol .
+sentence 2: bahkan , di spanyol muncul gerakan nasionalisme untuk menenatang kekuasaan prancis .
+sentence 3: gerakan nasionalisme ini menjalar ke negara-negara lain , seperti prusia dan austria .
+sentence 4: gerakan ini merupakan ancaman bagi dominasi kekuasaan napoleon di eropa .
+sentence 5: rusia ternyata tidak mematuhui adanya continental stelsel .
+passage 10 score = 5.0
+sentence 1: rusia ternyata tidak mematuhui adanya continental stelsel .
+sentence 2: pada tahun 1812 napoleon menyerang rusia dengan kekuatan 600.000 orang pasukan yang disebut grande armee .
+sentence 3: rusia menggunakan taktik bumi hangus sehingga ketika tentara napoleon tiba di moskow , banungunan di kota itu tinggal puing-puing .
+sentence 4: hal inilah yang mempersulit tentara napoleon .
+sentence 5: kondisi ini diperburuk dengan datangnya musim dingin .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
 title : sejarah konferensi pendahuluan asia afrika
 passage 1 score = 6.8
 sentence 1: sejarah konferensi pendahuluan asia afrika – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah konferensi pendahuluan asia afrika , sebelumnya admin juga sudah berbagi tentang sejarah latar belakang pelaksanaan konferensi asia afrika .
@@ -612,90 +670,90 @@ sentence 2: konferensi bogor juga terkenal dengan nama konferensi pancanegara ii
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 5 score = 8.3
+passage 5 score = 7.3
 sentence 1: negara indonesia memilih sifat politik luar negerinya bebas aktif sebab setelah perang dunia ii berakhir di dunia telah muncul dua kekuatan adidaya baru yang saling berhadapan , yaitu negara amerika serikat dan uni soviet .
 sentence 2: amerika serikat memelopori berdirinya blok barat atau blok kapitalis ( liberal ) , sedangkan uni soviet memelopori kemunculan blok timur atau blok sosialis ( komunis ) .
 sentence 3: dalam upaya meredakan ketegangan dan untuk mewujudkan perdamaian dunia , pemerintah indonesia memprakarsai dan menyelenggarakan konferensi asia afrika .
 sentence 4: usaha ini mendapat dukungan dari negara-negara di asia dan afrika .
 sentence 5: bangsa-bangsa di asia dan afrika pada umumnya pernah menderita karena penindasan imperialis barat .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 8 score = 8.3
+passage 8 score = 7.3
 sentence 1: sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi asia afrika mempunyai arti penting , baik bagi bangsa-bangsa di asia dan afrika pada khususnya maupun dunia pada umumnya .
 sentence 2: prakarsa untuk mengadakan konferensi asia afrika dikemukakan pertama kali oleh perdana menteri ri ali sastroamijoyo yang kemudian mendapat dukungan dari negara india , pakistan , sri lanka , dan burma ( myanmar ) dalam konferensi colombo .
 sentence 3: b. konferensi pendahuluan sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan .
 sentence 4: konferensi pendahuluan tersebut , antara lain sebagai berikut .
 sentence 5: 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 9 score = 8.3
+passage 9 score = 7.3
 sentence 1: 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di kolombo , ibu kota negara sri lanka pada tanggal 28 april – 2 mei 1954 .
 sentence 2: konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut .
 sentence 3: a ) perdana menteri pakistan : muhammad ali jinnah b ) perdana menteri sri lanka : sir john kotelawala c ) perdana menteri burma ( myanmar ) : u nu d ) perdana menteri indonesia : ali sastroamijoyo e ) perdana menteri india : jawaharlal nehru konferensi kolombo membahas masalah vietnam , sebagai persiapan untuk menghadapi konferensi di jenewa .
 sentence 4: di samping itu konferensi kolombo secara aklamasi memutuskan akan mengadakan konferensi asia afrika dan pemerintah indonesia ditunjuk sebagai penyelenggaranya .
 sentence 5: kelima negara yang wakilnya hadir dalam konferensi kolombo kemudian dikenal dengan nama pancanegara .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 7 score = 8.1
+passage 7 score = 7.1
 sentence 1: bangsa-bangsa di asia dan afrika yang telah merdeka tidak melupakan masa lampaunya .
 sentence 2: mereka tetap merasa senasib dan sependeritaan .
 sentence 3: lebih-lebih apabila mengingat masih banyak negara di asia dan afrika yang belum merdeka .
 sentence 4: rasa setia kawan itu dicetuskan dalam konferensi asia afrika .
 sentence 5: sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi asia afrika mempunyai arti penting , baik bagi bangsa-bangsa di asia dan afrika pada khususnya maupun dunia pada umumnya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 15 score = 8.1
+passage 15 score = 7.1
 sentence 1: 3 ) meningkatnya kesadaran berbangsa yang dimotori oleh golongan elite nasional/terpelajar dan intelektual .
 sentence 2: 4 ) adanya perang dingin antara blok barat dengan blok timur .
 sentence 3: 5 ) memiliki pokok-pokok yang kuat dalam hal bangsa , agama , dan budaya .
 sentence 4: 6 ) secara geografis letaknya berdekatan dan saling melengkapi satu sama lain .
 sentence 5: tujuan diadakannya konferensi asia afrika , antara lain : 1 ) memajukan kerja sama bangsa-bangsa di asia dan afrika dalam bidang sosial , ekonomi , dan kebudayaan ; 2 ) memberantas diskriminasi ras dan kolonialisme ; 3 ) memperbesar peranan bangsa asia dan afrika di dunia dan ikut serta mengusahakan perdamaian dunia dan kerja sama internasional .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 16 score = 8.1
+passage 16 score = 7.1
 sentence 1: tujuan diadakannya konferensi asia afrika , antara lain : 1 ) memajukan kerja sama bangsa-bangsa di asia dan afrika dalam bidang sosial , ekonomi , dan kebudayaan ; 2 ) memberantas diskriminasi ras dan kolonialisme ; 3 ) memperbesar peranan bangsa asia dan afrika di dunia dan ikut serta mengusahakan perdamaian dunia dan kerja sama internasional .
 sentence 2: 4 ) bekerja sama dalam bidang sosial , ekonomi , dan budaya , 5 ) membicarakan masalah-masalah khusus yang menyangkut kepentingan bersama seperti kedaulatan negara , rasionalisme , dan kolonialisme .
 sentence 3: konferensi asia afrika membicarakan hal-hal yang menyangkut kepentingan bersama negara-negara di asia dan afrika , terutama kerja sama ekonomi dan kebudayaan , serta masalah kolonialisme dan perdamaian dunia .
 sentence 4: kerja sama ekonomi dalam lingkungan bangsa-bangsa asia dan afrika dilakukan dengan saling memberikan bantuan teknik dan tenaga ahli .
 sentence 5: konferensi berpendapat bahwa negara-negara di asia dan afrika perlu memperluas perdagangan dan pertukaran delegasi dagang .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 20 score = 8.1
+passage 20 score = 7.1
 sentence 1: selain menetapkan keputusan tersebut , konferensi juga mengajak setiap bangsa di dunia untuk menjalankan beberapa prinsip bersama , seperti : 1 ) menghormati hak-hak dasar manusia , tujuan , serta asas yang termuat dalam piagam pbb ; 2 ) menghormati kedaulatan dan integritas teritorial semua bangsa ; 3 ) mengakui persamaan ras dan persamaan semua bangsa , baik bangsa besar maupun bangsa kecil ; 4 ) tidak melakukan intervensi atau ikut campur tangan dalam persoalan dalam negeri negara lain ; 5 ) menghormati hak-hak tiap bangsa untuk mempertahankan diri , baik secara sendirian maupun secara kolektif sesuai dengan piagam pbb ; 6 .
 sentence 2: a ) tidak menggunakan peraturan-peraturan dari pertahanan kolektif untuk bertindak bagi kepentingan khusus salah satu negara besar ; b ) tidak melakukan tekanan terhadap negara lain ; 7 ) tidak melakukan tindakan atau ancaman agresi ataupun penggunaan kekerasan terhadap integritas teritorial atas kemerdekaan politik suatu negara ; 8 ) menyelesaikan segala perselisihan internasional secara damai sesuai dengan piagam pbb ; 9 ) memajukan kepentingan bersama dan kerja sama internasional ; 10 ) menghormati hukum dan kewajiban internasional lainnya .
 sentence 3: kesepuluh prinsip yang dinyatakan dalam konferensi asia afrika itu dikenal dengan nama dasasila bandung atau bandung declaration .
 sentence 4: d. pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika konferensi asia afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
 sentence 5: pengaruh konferensi asia afrika adalah sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 21 score = 8.1
+passage 21 score = 7.1
 sentence 1: pengaruh konferensi asia afrika adalah sebagai berikut .
 sentence 2: 1 ) perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai .
 sentence 3: 2 ) cetusan rasa setia kawan dan kebangsaan bangsa-bangsa asia afrika untuk menggalang persatuan .
 sentence 4: 3 ) penjelmaan kebangkitan kembali bangsa-bangsa di asia dan afrika .
 sentence 5: 4 ) pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 22 score = 8.1
+passage 22 score = 7.1
 sentence 1: 4 ) pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
 sentence 2: 6 ) memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di asia dan afrika dalam mencapai kemerdekaannya .
 sentence 3: 7 ) banyak negara-negara asia-afrika yang merdeka kemudian masuk menjadi anggota pbb .
 sentence 4: selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika , konferensi asia afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya .
 sentence 5: pengaruh atau dampak itu , antara lain sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
-passage 24 score = 8.1
+passage 24 score = 7.1
 sentence 1: 4 ) belanda cemas dalam menghadapi kelompok asia afrika di pbb sebab dalam sidang umum pbb , kelompok tersebut mendukung tuntutan indonesia atas kembalinya irian barat ke pangkuan ri .
 sentence 2: 5 ) australia dan amerika serikat mulai berusaha menghapuskan diskriminasi ras di negaranya .
 sentence 3: konferensi asia afrika dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di asia dan afrika , tetapi juga bergema ke seluruh dunia .
@@ -708,7 +766,7 @@ Pencarian jawaban
 negara indonesia memilih sifat politik luar negerinya bebas aktif sebab setelah perang dunia ii berakhir di dunia telah muncul dua kekuatan adidaya baru yang saling berhadapan , yaitu negara amerika serikat dan uni soviet . amerika serikat memelopori berdirinya blok barat atau blok kapitalis ( liberal ) , sedangkan uni soviet memelopori kemunculan blok timur atau <PERSON>blok sosialis</PERSON> ( komunis ) . dalam upaya meredakan ketegangan dan untuk mewujudkan perdamaian dunia , <PERSON>pemerintah indonesia</PERSON> memprakarsai dan menyelenggarakan konferensi asia afrika . usaha ini mendapat dukungan dari negara-negara di <LOCATION>asia dan afrika .</LOCATION> bangsa-bangsa di <LOCATION>asia</LOCATION> dan afrika pada umumnya pernah menderita karena penindasan imperialis barat .
 
 memproses passage 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 asia afrika | position = 60
@@ -1106,7 +1164,7 @@ tokenwithtagstemmed = barat
 sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi <PERSON>asia afrika</PERSON> mempunyai arti penting , baik bagi bangsa-bangsa di <LOCATION>asia</LOCATION> dan afrika pada khususnya maupun dunia pada umumnya . prakarsa untuk mengadakan konferensi asia afrika dikemukakan pertama kali oleh <PERSON>perdana menteri ri ali sastroamijoyo</PERSON> yang kemudian mendapat dukungan dari negara india , pakistan , sri lanka , dan burma ( myanmar ) dalam konferensi colombo . b. konferensi pendahuluan sebelum konferensi asia afrika dilaksanakan , terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan . konferensi pendahuluan tersebut , antara lain sebagai berikut . 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di <LOCATION>kolombo</LOCATION> , ibu kota negara sri lanka pada <TIME>tanggal 28 april – 2 mei 1954</TIME> .
 
 memproses passage 8
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 asia | position = 18
@@ -1579,7 +1637,7 @@ tokenwithtagstemmed = tanggal 28 april 2 mei 1954
 1 ) konferensi kolombo ( konferensi pancanegara i ) konferensi pendahuluan yang pertama diselenggarakan di <LOCATION>kolombo</LOCATION> , ibu kota negara sri lanka pada <TIME>tanggal 28 april – 2 mei 1954</TIME> . konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut . a ) perdana menteri pakistan : muhammad ali jinnah b ) perdana menteri sri lanka : sir john kotelawala c ) perdana menteri burma ( myanmar ) : u nu d ) <PERSON>perdana menteri indonesia</PERSON> : ali sastroamijoyo e ) perdana menteri india : jawaharlal nehru konferensi kolombo membahas masalah vietnam , sebagai persiapan untuk menghadapi konferensi di <LOCATION>jenewa .</LOCATION> di samping itu konferensi kolombo secara aklamasi memutuskan akan mengadakan konferensi asia afrika dan <PERSON>pemerintah indonesia</PERSON> ditunjuk sebagai penyelenggaranya . kelima negara yang wakilnya hadir dalam konferensi kolombo kemudian dikenal dengan nama pancanegara .
 
 memproses passage 9
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 kolombo | position = 10
@@ -2107,7 +2165,7 @@ tokenwithtagstemmed = pancanegara
 bangsa-bangsa di <LOCATION>asia</LOCATION> dan afrika yang telah merdeka tidak melupakan masa lampaunya . mereka tetap merasa senasib dan sependeritaan . lebih-lebih apabila mengingat masih banyak negara di <LOCATION>asia</LOCATION> dan afrika yang belum merdeka . rasa setia kawan itu dicetuskan dalam konferensi asia afrika . sebagai cetusan rasa setia kawan dan sebagai usaha untuk menjaga perdamaian dunia , pelaksanaan konferensi <PERSON>asia afrika</PERSON> mempunyai arti penting , baik bagi bangsa-bangsa di <LOCATION>asia</LOCATION> dan afrika pada khususnya maupun dunia pada umumnya .
 
 memproses passage 7
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 asia | position = 2
@@ -2416,7 +2474,7 @@ tokenwithtagstemmed = umum
 3 ) meningkatnya kesadaran berbangsa yang dimotori oleh <PERSON>golongan elite nasional/terpelajar</PERSON> dan intelektual . 4 ) adanya perang dingin antara <PERSON>blok barat</PERSON> dengan blok timur . 5 ) memiliki pokok-pokok yang kuat dalam hal bangsa , agama , dan budaya . 6 ) secara geografis letaknya berdekatan dan saling melengkapi satu sama lain . tujuan diadakannya konferensi asia afrika , antara lain : 1 ) memajukan kerja sama bangsa-bangsa di <LOCATION>asia</LOCATION> dan afrika dalam bidang sosial , ekonomi , dan kebudayaan ; 2 ) memberantas diskriminasi ras dan kolonialisme ; 3 ) memperbesar peranan <PERSON>bangsa asia dan afrika</PERSON> di <LOCATION>dunia</LOCATION> dan ikut serta mengusahakan perdamaian dunia dan kerja sama internasional .
 
 memproses passage 15
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 asia | position = 38
@@ -2759,7 +2817,7 @@ tokenwithtagstemmed = internasional
 tujuan diadakannya konferensi asia afrika , antara lain : 1 ) memajukan kerja sama bangsa-bangsa di <LOCATION>asia</LOCATION> dan afrika dalam bidang sosial , ekonomi , dan kebudayaan ; 2 ) memberantas diskriminasi ras dan kolonialisme ; 3 ) memperbesar peranan <PERSON>bangsa asia dan afrika</PERSON> di <LOCATION>dunia</LOCATION> dan ikut serta mengusahakan perdamaian dunia dan kerja sama internasional . 4 ) bekerja sama dalam bidang sosial , ekonomi , dan budaya , 5 ) membicarakan masalah-masalah khusus yang menyangkut kepentingan bersama seperti kedaulatan negara , rasionalisme , dan kolonialisme . konferensi asia afrika membicarakan hal-hal yang menyangkut kepentingan bersama negara-negara di <LOCATION>asia</LOCATION> dan afrika , terutama kerja sama ekonomi dan kebudayaan , serta masalah kolonialisme dan perdamaian dunia . kerja sama ekonomi dalam lingkungan <PERSON>bangsa-bangsa asia</PERSON> dan afrika dilakukan dengan saling memberikan bantuan teknik dan tenaga ahli . konferensi berpendapat bahwa negara-negara di <LOCATION>asia</LOCATION> dan afrika perlu memperluas perdagangan dan pertukaran delegasi dagang .
 
 memproses passage 16
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 asia | position = 10
@@ -3327,7 +3385,7 @@ tokenwithtagstemmed = dagang
 selain menetapkan keputusan tersebut , konferensi juga mengajak setiap bangsa di dunia untuk menjalankan beberapa prinsip bersama , seperti : 1 ) menghormati hak-hak dasar manusia , tujuan , serta asas yang termuat dalam piagam pbb ; 2 ) menghormati kedaulatan dan integritas teritorial semua bangsa ; 3 ) mengakui persamaan ras dan persamaan semua bangsa , baik bangsa besar maupun bangsa kecil ; 4 ) tidak melakukan intervensi atau ikut campur tangan dalam persoalan dalam negeri negara lain ; 5 ) menghormati hak-hak tiap bangsa untuk mempertahankan diri , baik secara sendirian maupun secara kolektif sesuai dengan piagam pbb ; 6 . a ) tidak menggunakan peraturan-peraturan dari pertahanan kolektif untuk bertindak bagi kepentingan khusus salah satu negara besar ; b ) tidak melakukan tekanan terhadap negara lain ; 7 ) tidak melakukan tindakan atau ancaman agresi ataupun penggunaan kekerasan terhadap integritas teritorial atas kemerdekaan politik suatu negara ; 8 ) menyelesaikan segala perselisihan internasional secara damai sesuai dengan piagam pbb ; 9 ) memajukan kepentingan bersama dan kerja sama internasional ; 10 ) menghormati hukum dan kewajiban internasional lainnya . kesepuluh prinsip yang dinyatakan dalam konferensi asia afrika itu dikenal dengan nama dasasila bandung atau bandung declaration . d. pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di <LOCATION>asia</LOCATION> dan afrika konferensi asia afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di <LOCATION>asia</LOCATION> dan afrika . pengaruh konferensi asia afrika adalah sebagai berikut .
 
 memproses passage 20
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 asia | position = 132
@@ -4185,7 +4243,7 @@ tokenwithtagstemmed = ikut
 pengaruh konferensi asia afrika adalah sebagai berikut . 1 ) perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai . 2 ) cetusan rasa setia kawan dan kebangsaan bangsa-bangsa asia afrika untuk menggalang persatuan . 3 ) penjelmaan kebangkitan kembali <PERSON>bangsa-bangsa</PERSON> di <LOCATION>asia</LOCATION> dan afrika . 4 ) pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di <LOCATION>asia</LOCATION> dan afrika khususnya .
 
 memproses passage 21
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 asia | position = 40
@@ -4503,7 +4561,7 @@ tokenwithtagstemmed = afrika
 4 ) pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di <LOCATION>asia</LOCATION> dan afrika khususnya . 6 ) memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di <LOCATION>asia</LOCATION> dan afrika dalam mencapai kemerdekaannya . 7 ) banyak negara-negara asia-afrika yang merdeka kemudian masuk menjadi anggota pbb . selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di <LOCATION>asia</LOCATION> dan afrika , konferensi asia afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya . pengaruh atau dampak itu , antara lain sebagai berikut .
 
 memproses passage 22
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 asia | position = 7
@@ -4838,7 +4896,7 @@ tokenwithtagstemmed = ikut
 4 ) belanda cemas dalam menghadapi kelompok asia afrika di pbb sebab dalam sidang umum pbb , kelompok tersebut mendukung tuntutan indonesia atas kembalinya irian barat ke pangkuan ri . 5 ) australia dan amerika serikat mulai berusaha menghapuskan diskriminasi ras di negaranya . konferensi <PERSON>asia afrika</PERSON> dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di <LOCATION>asia</LOCATION> dan afrika , tetapi juga bergema ke <LOCATION>seluruh dunia .</LOCATION>
 
 memproses passage 24
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 list jawaban dan posisi dalam passage
 asia | position = 39
@@ -5096,1001 +5154,1001 @@ Pengurutan kandidat jawaban
 this.answer = kolombo
 passage rank = 2
 distance = 1
-doc rank = 2
-total Score = 5
+doc rank = 7
+total Score = 10
 frequency = 1
 order process = 25
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = jenewa
 passage rank = 3
 distance = 1
-doc rank = 2
-total Score = 6
+doc rank = 7
+total Score = 11
 frequency = 1
 order process = 34
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 3
 distance = 1
-doc rank = 2
-total Score = 6
+doc rank = 7
+total Score = 11
 frequency = 1
 order process = 35
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 10
 distance = 2
-doc rank = 2
-total Score = 14
+doc rank = 7
+total Score = 19
 frequency = 1
 order process = 100
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 10
 distance = 3
-doc rank = 2
-total Score = 15
+doc rank = 7
+total Score = 20
 frequency = 1
 order process = 97
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 4
-doc rank = 2
-total Score = 12
+doc rank = 7
+total Score = 17
 frequency = 3
 order process = 56
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 4
-doc rank = 2
-total Score = 8
+doc rank = 7
+total Score = 13
 frequency = 1
 order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 3
 distance = 4
-doc rank = 2
-total Score = 9
+doc rank = 7
+total Score = 14
 frequency = 1
 order process = 30
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 5
-doc rank = 2
-total Score = 14
+doc rank = 7
+total Score = 19
 frequency = 2
 order process = 79
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 6
-doc rank = 2
-total Score = 14
+doc rank = 7
+total Score = 19
 frequency = 3
 order process = 59
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 6
-doc rank = 2
-total Score = 14
+doc rank = 7
+total Score = 19
 frequency = 3
 order process = 66
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia afrika
 passage rank = 1
 distance = 6
-doc rank = 2
-total Score = 9
+doc rank = 7
+total Score = 14
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 5
 distance = 6
-doc rank = 2
-total Score = 13
+doc rank = 7
+total Score = 18
 frequency = 1
 order process = 47
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 7
-doc rank = 2
-total Score = 16
+doc rank = 7
+total Score = 21
 frequency = 2
 order process = 74
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia afrika
 passage rank = 1
 distance = 7
-doc rank = 2
-total Score = 10
+doc rank = 7
+total Score = 15
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 7
-doc rank = 2
-total Score = 11
+doc rank = 7
+total Score = 16
 frequency = 1
 order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 3
 distance = 7
-doc rank = 2
-total Score = 12
+doc rank = 7
+total Score = 17
 frequency = 1
 order process = 28
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 4
 distance = 8
-doc rank = 2
-total Score = 14
+doc rank = 7
+total Score = 19
 frequency = 3
 order process = 38
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 8
-doc rank = 2
-total Score = 16
+doc rank = 7
+total Score = 21
 frequency = 3
 order process = 50
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 8
-doc rank = 2
-total Score = 16
+doc rank = 7
+total Score = 21
 frequency = 3
 order process = 54
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 9
 distance = 8
-doc rank = 2
-total Score = 19
+doc rank = 7
+total Score = 24
 frequency = 3
 order process = 90
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 8
-doc rank = 2
-total Score = 17
+doc rank = 7
+total Score = 22
 frequency = 2
 order process = 82
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 8
 distance = 8
-doc rank = 2
-total Score = 18
+doc rank = 7
+total Score = 23
 frequency = 2
 order process = 89
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia afrika
 passage rank = 1
 distance = 8
-doc rank = 2
-total Score = 11
+doc rank = 7
+total Score = 16
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 2
 distance = 8
-doc rank = 2
-total Score = 12
+doc rank = 7
+total Score = 17
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 5
 distance = 8
-doc rank = 2
-total Score = 15
+doc rank = 7
+total Score = 20
 frequency = 1
 order process = 43
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 10
 distance = 8
-doc rank = 2
-total Score = 20
+doc rank = 7
+total Score = 25
 frequency = 1
 order process = 94
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 8
 distance = 9
-doc rank = 2
-total Score = 19
+doc rank = 7
+total Score = 24
 frequency = 2
 order process = 87
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 1
 distance = 9
-doc rank = 2
-total Score = 12
+doc rank = 7
+total Score = 17
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia afrika
 passage rank = 1
 distance = 9
-doc rank = 2
-total Score = 12
+doc rank = 7
+total Score = 17
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 9
-doc rank = 2
-total Score = 13
+doc rank = 7
+total Score = 18
 frequency = 1
 order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 3
 distance = 9
-doc rank = 2
-total Score = 14
+doc rank = 7
+total Score = 19
 frequency = 1
 order process = 26
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = jenewa
 passage rank = 3
 distance = 9
-doc rank = 2
-total Score = 14
+doc rank = 7
+total Score = 19
 frequency = 1
 order process = 33
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 10
-doc rank = 2
-total Score = 19
+doc rank = 7
+total Score = 24
 frequency = 2
 order process = 76
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 4
 distance = 11
-doc rank = 2
-total Score = 17
+doc rank = 7
+total Score = 22
 frequency = 3
 order process = 39
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 11
-doc rank = 2
-total Score = 19
+doc rank = 7
+total Score = 24
 frequency = 3
 order process = 69
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 11
-doc rank = 2
-total Score = 20
+doc rank = 7
+total Score = 25
 frequency = 2
 order process = 81
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 1
 distance = 11
-doc rank = 2
-total Score = 14
+doc rank = 7
+total Score = 19
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 10
 distance = 11
-doc rank = 2
-total Score = 23
+doc rank = 7
+total Score = 28
 frequency = 1
 order process = 95
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 9
 distance = 12
-doc rank = 2
-total Score = 23
+doc rank = 7
+total Score = 28
 frequency = 3
 order process = 93
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 1
 distance = 12
-doc rank = 2
-total Score = 15
+doc rank = 7
+total Score = 20
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 13
-doc rank = 2
-total Score = 17
+doc rank = 7
+total Score = 22
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 5
 distance = 14
-doc rank = 2
-total Score = 21
+doc rank = 7
+total Score = 26
 frequency = 1
 order process = 49
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 6
 distance = 14
-doc rank = 2
-total Score = 22
+doc rank = 7
+total Score = 27
 frequency = 1
 order process = 63
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 5
 distance = 15
-doc rank = 2
-total Score = 22
+doc rank = 7
+total Score = 27
 frequency = 1
 order process = 46
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 6
 distance = 15
-doc rank = 2
-total Score = 23
+doc rank = 7
+total Score = 28
 frequency = 1
 order process = 58
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 16
-doc rank = 2
-total Score = 25
+doc rank = 7
+total Score = 30
 frequency = 2
 order process = 77
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 16
-doc rank = 2
-total Score = 20
+doc rank = 7
+total Score = 25
 frequency = 1
 order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 17
-doc rank = 2
-total Score = 26
+doc rank = 7
+total Score = 31
 frequency = 2
 order process = 80
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 18
-doc rank = 2
-total Score = 27
+doc rank = 7
+total Score = 32
 frequency = 2
 order process = 72
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 8
 distance = 18
-doc rank = 2
-total Score = 28
+doc rank = 7
+total Score = 33
 frequency = 2
 order process = 88
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 4
 distance = 19
-doc rank = 2
-total Score = 25
+doc rank = 7
+total Score = 30
 frequency = 3
 order process = 42
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 9
 distance = 19
-doc rank = 2
-total Score = 30
+doc rank = 7
+total Score = 35
 frequency = 3
 order process = 92
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 19
-doc rank = 2
-total Score = 28
+doc rank = 7
+total Score = 33
 frequency = 2
 order process = 75
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 19
-doc rank = 2
-total Score = 23
+doc rank = 7
+total Score = 28
 frequency = 1
 order process = 24
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 20
-doc rank = 2
-total Score = 24
+doc rank = 7
+total Score = 29
 frequency = 1
 order process = 21
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 4
 distance = 21
-doc rank = 2
-total Score = 27
+doc rank = 7
+total Score = 32
 frequency = 3
 order process = 37
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 21
-doc rank = 2
-total Score = 25
+doc rank = 7
+total Score = 30
 frequency = 1
 order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 5
 distance = 21
-doc rank = 2
-total Score = 28
+doc rank = 7
+total Score = 33
 frequency = 1
 order process = 48
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 6
 distance = 21
-doc rank = 2
-total Score = 29
+doc rank = 7
+total Score = 34
 frequency = 1
 order process = 60
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 5
 distance = 22
-doc rank = 2
-total Score = 29
+doc rank = 7
+total Score = 34
 frequency = 1
 order process = 45
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 6
 distance = 22
-doc rank = 2
-total Score = 30
+doc rank = 7
+total Score = 35
 frequency = 1
 order process = 57
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 23
-doc rank = 2
-total Score = 27
+doc rank = 7
+total Score = 32
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 5
 distance = 23
-doc rank = 2
-total Score = 30
+doc rank = 7
+total Score = 35
 frequency = 1
 order process = 44
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 6
 distance = 23
-doc rank = 2
-total Score = 31
+doc rank = 7
+total Score = 36
 frequency = 1
 order process = 51
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 24
-doc rank = 2
-total Score = 32
+doc rank = 7
+total Score = 37
 frequency = 3
 order process = 68
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 26
-doc rank = 2
-total Score = 30
+doc rank = 7
+total Score = 35
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 4
 distance = 27
-doc rank = 2
-total Score = 33
+doc rank = 7
+total Score = 38
 frequency = 3
 order process = 41
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 9
 distance = 28
-doc rank = 2
-total Score = 39
+doc rank = 7
+total Score = 44
 frequency = 3
 order process = 91
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 28
-doc rank = 2
-total Score = 37
+doc rank = 7
+total Score = 42
 frequency = 2
 order process = 78
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 30
-doc rank = 2
-total Score = 39
+doc rank = 7
+total Score = 44
 frequency = 2
 order process = 73
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 31
-doc rank = 2
-total Score = 39
+doc rank = 7
+total Score = 44
 frequency = 3
 order process = 67
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 33
-doc rank = 2
-total Score = 41
+doc rank = 7
+total Score = 46
 frequency = 3
 order process = 55
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 10
 distance = 33
-doc rank = 2
-total Score = 45
+doc rank = 7
+total Score = 50
 frequency = 1
 order process = 98
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 10
 distance = 36
-doc rank = 2
-total Score = 48
+doc rank = 7
+total Score = 53
 frequency = 1
 order process = 99
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 8
 distance = 37
-doc rank = 2
-total Score = 47
+doc rank = 7
+total Score = 52
 frequency = 2
 order process = 85
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = dunia
 passage rank = 10
 distance = 37
-doc rank = 2
-total Score = 49
+doc rank = 7
+total Score = 54
 frequency = 1
 order process = 96
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 4
 distance = 39
-doc rank = 2
-total Score = 45
+doc rank = 7
+total Score = 50
 frequency = 3
 order process = 40
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 8
 distance = 39
-doc rank = 2
-total Score = 49
+doc rank = 7
+total Score = 54
 frequency = 2
 order process = 83
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 40
-doc rank = 2
-total Score = 44
+doc rank = 7
+total Score = 49
 frequency = 1
 order process = 23
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 41
-doc rank = 2
-total Score = 45
+doc rank = 7
+total Score = 50
 frequency = 1
 order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 42
-doc rank = 2
-total Score = 46
+doc rank = 7
+total Score = 51
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 46
-doc rank = 2
-total Score = 54
+doc rank = 7
+total Score = 59
 frequency = 3
 order process = 64
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 8
 distance = 46
-doc rank = 2
-total Score = 56
+doc rank = 7
+total Score = 61
 frequency = 2
 order process = 86
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 8
 distance = 48
-doc rank = 2
-total Score = 58
+doc rank = 7
+total Score = 63
 frequency = 2
 order process = 84
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 48
-doc rank = 2
-total Score = 52
+doc rank = 7
+total Score = 57
 frequency = 1
 order process = 22
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 49
-doc rank = 2
-total Score = 53
+doc rank = 7
+total Score = 58
 frequency = 1
 order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = jenewa
 passage rank = 3
 distance = 49
-doc rank = 2
-total Score = 54
+doc rank = 7
+total Score = 59
 frequency = 1
 order process = 32
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 53
-doc rank = 2
-total Score = 61
+doc rank = 7
+total Score = 66
 frequency = 3
 order process = 61
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 55
-doc rank = 2
-total Score = 63
+doc rank = 7
+total Score = 68
 frequency = 3
 order process = 52
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = kolombo
 passage rank = 2
 distance = 57
-doc rank = 2
-total Score = 61
+doc rank = 7
+total Score = 66
 frequency = 1
 order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = jenewa
 passage rank = 3
 distance = 57
-doc rank = 2
-total Score = 62
+doc rank = 7
+total Score = 67
 frequency = 1
 order process = 36
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = jenewa
 passage rank = 3
 distance = 60
-doc rank = 2
-total Score = 65
+doc rank = 7
+total Score = 70
 frequency = 1
 order process = 31
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = jenewa
 passage rank = 3
 distance = 63
-doc rank = 2
-total Score = 68
+doc rank = 7
+total Score = 73
 frequency = 1
 order process = 29
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = jenewa
 passage rank = 3
 distance = 65
-doc rank = 2
-total Score = 70
+doc rank = 7
+total Score = 75
 frequency = 1
 order process = 27
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 71
-doc rank = 2
-total Score = 79
+doc rank = 7
+total Score = 84
 frequency = 3
 order process = 65
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 78
-doc rank = 2
-total Score = 86
+doc rank = 7
+total Score = 91
 frequency = 3
 order process = 62
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 6
 distance = 80
-doc rank = 2
-total Score = 88
+doc rank = 7
+total Score = 93
 frequency = 3
 order process = 53
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 130
-doc rank = 2
-total Score = 139
+doc rank = 7
+total Score = 144
 frequency = 2
 order process = 70
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 this.answer = asia
 passage rank = 7
 distance = 142
-doc rank = 2
-total Score = 151
+doc rank = 7
+total Score = 156
 frequency = 2
 order process = 71
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 document Title = sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 
 

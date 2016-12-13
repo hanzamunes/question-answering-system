@@ -1,372 +1,121 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok132.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok61.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok136.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok65.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok28.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok99.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok359.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok10.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok81.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok187.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok191.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok326.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok381.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok194.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok206.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok226.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok320.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok321.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok380.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok295.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok193.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok196.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok177.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok136.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok65.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok191.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok326.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok58.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok28.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok99.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok5.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok76.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok330.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok381.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok208.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok226.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok320.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok321.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok131.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok60.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok12.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok83.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok391.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok13.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok84.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok333.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok375.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok180.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok382.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok239.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok246.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok237.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok313.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok137.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok254.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok355.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok387.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok66.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok295.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok344.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok233.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok304.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
 
 searching dari query expansion
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok132.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok61.txt
+query hasil ekspansi = mataram buwana sultan inggris amangkurat voc jelajah mas buwono paku
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
 
 query token : 
 voc diri 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-title : sejarah kerajaan mataram islam
-passage 5 score = 8.5
-sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
-sentence 2: sultan agung bercita-cita mempersatukan seluruh jawa di bawah kekuasaan mataram dan mengusir kompeni ( voc ) dari batavia .
-sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas dua periode , yaitu masa penyatuan kerajaan dan masa pembangunan .
-sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
-sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
-passage 13 score = 8.5
-sentence 1: pada saat itu tronojoyo telah berhasil mendirikan istana di kediri dengan gelar prabu maduretno .
-sentence 2: tentara voc di bantu oleh tentara aru palaka dari makasar dan kapten jonker dari ambon bersama tentara mataram akhirnya menyerang kediri .
-sentence 3: tronojoyo tidak mampu menghadapi gempuran tentara mataram dan voc , terus terdesak ke daerah pegunungan dan bertahan di gunung wilis .
-sentence 4: trunojoyo menyerah pada tanggal 25 desember 1679 dan akhirnya gugur ditikam keris oleh amangkurat ii pada tanggal 2 januari 1680 .
-sentence 5: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
-passage 14 score = 8.5
-sentence 1: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
-sentence 2: perlawanan untung suropati ( 1686 – 1706 ) untung suropati , demikianlah nama pejuang pada masa mataram di bawah pemerintahan amangkurat ii .
-sentence 3: sikap benci untung kepada voc telah muncul sejak di batavia .
-sentence 4: untung kemudian melarikan diri ke cirebon dan terjadi perkelahian dengan suropati maka namanya menjadi untung suropati .
-sentence 5: dari cirebon untung terus melanjutkan perjalanan ke kartasura .
-passage 19 score = 8.5
-sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
-sentence 2: pada tahun 1719 sunan paku buwono i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
-sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada kompeni .
-sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
-sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
-passage 20 score = 8.5
-sentence 1: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
-sentence 2: pada masa pemerintahan paku buwono ii ( 1727 – 1749 ) mataram diguncang lagi perlawanan yang dipimpin oleh mas garendi ( cucu sunan mas ) .
-sentence 3: perlawanan ini di dukung oleh orang-orang tionghoa yang gagal mengadakan pemberontakan terhadap voc di batavia .
-sentence 4: mas garendi berhasil menduduki ibu kota kartasura .
-sentence 5: paku buwono ii melarikan diri ke ponorogo .
-passage 3 score = 8.0
-sentence 1: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
-sentence 2: hal ini disebabkan kota-kota pesisir terus memperkuat diri dan erusaha melepaskan dari kekuasaan pajang .
-sentence 3: setelah sultan hadiwijoyo meninggal ( 1586 ) takhta pajang digantikan oleh putranya , yakni pangeran benowo .
-sentence 4: ternyata , pangeran benowo tidak dapat mengatasi kekacauan-kekacauan sehingga kekuasaan diserahkan kepada sutowijoyo .
-sentence 5: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
-passage 4 score = 8.0
-sentence 1: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
-sentence 2: sutowijoyo mengangkat dirinya sebagai raja mataram pertama dengan gelar panembahan senopati ( 1586 – 1601 ) dengan kotagede sebagai ibukotnya .
-sentence 3: tindakan-tindakannya yang penting , antara lain sebagai berikut : 1 ) meletakkan dasar-dasar kerajaan mataram ; 2 ) memperluas wilayah kekuasaan dengan menundukkan surabaya , madiun , dan ponorogo ke timur dan ke barat berhasil menundukkan cirebon dan galuh .
-sentence 4: pengganti panembahan senopati ialah mas jolang gugur di daerah krapyak sehingga disebut panembahan seda krapyak .
-sentence 5: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
-passage 7 score = 8.0
-sentence 1: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
-sentence 2: batavia dikepung dari darat dan laut selama dua bulan , namun tidak mau menyera , h bahkan sebaliknya tentara mataram dipukul mundur .
-sentence 3: dipersiapkan serangan yang kedua lebih matang dengan membuat pusat-pusat perbekalan makanan di tegal , cirebon , dan krawang .
-sentence 4: serangan kedua dilancarkan bulan september 1629 di bawah pimpinan bupati sura agul-agul , mandurarejo , dan uposonto .
-sentence 5: namun , voc telah mengetahui lebih dahulu rencana tersebut .
-passage 10 score = 8.0
-sentence 1: trunojoyo adalah pangeran dari madura yang tidak senang terhadap tindakan amangkurat i sehingga menghimpun kekuatan untuk menyerang mataram .
-sentence 2: pada tahun 1677 pasukan trunojoyo berhasil menduduki plered , ibu kota mataram .
-sentence 3: amangkuat i bermaksud minta bantuan voc ke batavia , namun baru sampai di tegalarum meninggal sehingga dimakamkan di tempat itu juga .
-sentence 4: oleh karena itu , amangkurat i dikenal juga sebagai sultan tegalarum .
-sentence 5: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
-passage 11 score = 8.0
-sentence 1: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
-sentence 2: untuk menghadapi trunojoyo , amangkurat ii meminta bantuan voc di semarang .
-sentence 3: pimpinan voc , speelman menyetujui permintan amangkurat ii dengan suatu perjanjian ( 1670 ) yang isinya sebagai berikut .
-sentence 4: 1 ) voc mengakui amangkurat ii sebagai raja mataram .
-sentence 5: 2 ) voc mendapatkan monopoli di mataram .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-title : sejarah kerajaan mataram islam
-passage 5 score = 8.5
-sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
-sentence 2: sultan agung bercita-cita mempersatukan seluruh jawa di bawah kekuasaan mataram dan mengusir kompeni ( voc ) dari batavia .
-sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas dua periode , yaitu masa penyatuan kerajaan dan masa pembangunan .
-sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
-sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
-passage 13 score = 8.5
-sentence 1: pada saat itu tronojoyo telah berhasil mendirikan istana di kediri dengan gelar prabu maduretno .
-sentence 2: tentara voc di bantu oleh tentara aru palaka dari makasar dan kapten jonker dari ambon bersama tentara mataram akhirnya menyerang kediri .
-sentence 3: tronojoyo tidak mampu menghadapi gempuran tentara mataram dan voc , terus terdesak ke daerah pegunungan dan bertahan di gunung wilis .
-sentence 4: trunojoyo menyerah pada tanggal 25 desember 1679 dan akhirnya gugur ditikam keris oleh amangkurat ii pada tanggal 2 januari 1680 .
-sentence 5: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
-passage 14 score = 8.5
-sentence 1: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
-sentence 2: perlawanan untung suropati ( 1686 – 1706 ) untung suropati , demikianlah nama pejuang pada masa mataram di bawah pemerintahan amangkurat ii .
-sentence 3: sikap benci untung kepada voc telah muncul sejak di batavia .
-sentence 4: untung kemudian melarikan diri ke cirebon dan terjadi perkelahian dengan suropati maka namanya menjadi untung suropati .
-sentence 5: dari cirebon untung terus melanjutkan perjalanan ke kartasura .
-passage 19 score = 8.5
-sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
-sentence 2: pada tahun 1719 sunan paku buwono i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
-sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada kompeni .
-sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
-sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
-passage 20 score = 8.5
-sentence 1: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
-sentence 2: pada masa pemerintahan paku buwono ii ( 1727 – 1749 ) mataram diguncang lagi perlawanan yang dipimpin oleh mas garendi ( cucu sunan mas ) .
-sentence 3: perlawanan ini di dukung oleh orang-orang tionghoa yang gagal mengadakan pemberontakan terhadap voc di batavia .
-sentence 4: mas garendi berhasil menduduki ibu kota kartasura .
-sentence 5: paku buwono ii melarikan diri ke ponorogo .
-passage 3 score = 8.0
-sentence 1: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
-sentence 2: hal ini disebabkan kota-kota pesisir terus memperkuat diri dan erusaha melepaskan dari kekuasaan pajang .
-sentence 3: setelah sultan hadiwijoyo meninggal ( 1586 ) takhta pajang digantikan oleh putranya , yakni pangeran benowo .
-sentence 4: ternyata , pangeran benowo tidak dapat mengatasi kekacauan-kekacauan sehingga kekuasaan diserahkan kepada sutowijoyo .
-sentence 5: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
-passage 4 score = 8.0
-sentence 1: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
-sentence 2: sutowijoyo mengangkat dirinya sebagai raja mataram pertama dengan gelar panembahan senopati ( 1586 – 1601 ) dengan kotagede sebagai ibukotnya .
-sentence 3: tindakan-tindakannya yang penting , antara lain sebagai berikut : 1 ) meletakkan dasar-dasar kerajaan mataram ; 2 ) memperluas wilayah kekuasaan dengan menundukkan surabaya , madiun , dan ponorogo ke timur dan ke barat berhasil menundukkan cirebon dan galuh .
-sentence 4: pengganti panembahan senopati ialah mas jolang gugur di daerah krapyak sehingga disebut panembahan seda krapyak .
-sentence 5: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
-passage 7 score = 8.0
-sentence 1: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
-sentence 2: batavia dikepung dari darat dan laut selama dua bulan , namun tidak mau menyera , h bahkan sebaliknya tentara mataram dipukul mundur .
-sentence 3: dipersiapkan serangan yang kedua lebih matang dengan membuat pusat-pusat perbekalan makanan di tegal , cirebon , dan krawang .
-sentence 4: serangan kedua dilancarkan bulan september 1629 di bawah pimpinan bupati sura agul-agul , mandurarejo , dan uposonto .
-sentence 5: namun , voc telah mengetahui lebih dahulu rencana tersebut .
-passage 10 score = 8.0
-sentence 1: trunojoyo adalah pangeran dari madura yang tidak senang terhadap tindakan amangkurat i sehingga menghimpun kekuatan untuk menyerang mataram .
-sentence 2: pada tahun 1677 pasukan trunojoyo berhasil menduduki plered , ibu kota mataram .
-sentence 3: amangkuat i bermaksud minta bantuan voc ke batavia , namun baru sampai di tegalarum meninggal sehingga dimakamkan di tempat itu juga .
-sentence 4: oleh karena itu , amangkurat i dikenal juga sebagai sultan tegalarum .
-sentence 5: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
-passage 11 score = 8.0
-sentence 1: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
-sentence 2: untuk menghadapi trunojoyo , amangkurat ii meminta bantuan voc di semarang .
-sentence 3: pimpinan voc , speelman menyetujui permintan amangkurat ii dengan suatu perjanjian ( 1670 ) yang isinya sebagai berikut .
-sentence 4: 1 ) voc mengakui amangkurat ii sebagai raja mataram .
-sentence 5: 2 ) voc mendapatkan monopoli di mataram .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
-title : sejarah kerajaan makassar (goa-tallo)
-passage 5 score = 8.5
-sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
-sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
-sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
-sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
-sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
-passage 4 score = 8.0
-sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
-sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
-sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
-sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
-sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
-passage 7 score = 7.5
-sentence 1: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
-sentence 2: 4 ) semua benteng harus dihancurkan , kecuali satu yakni benteng ujung pandang yang kemudian namanya diganti menjadi benteng rotterdam .
-sentence 3: 5 ) makassar harus mengganti kerugian perang sebesar 250 ribu ringgit .
-sentence 4: walaupun sultan hasanuddin telah menandatangani perjanjian tersebut , perlawanan terhadap voc muncul lagi ( 1667 – 1669 ) .
-sentence 5: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
-passage 2 score = 6.5
-sentence 1: 1 ) terletak di tepi sungai .
-sentence 2: 2 ) letak makasar yang sangat strategis dalam lalu lintas perdagangan malaka – maluku .
-sentence 3: 3 ) jatuhnya malaka ke tangan portugis 1511 .
-sentence 4: 4 ) beralihnya sistem pemerintahan di jawa tengah ke corak agraris .
-sentence 5: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
-passage 3 score = 6.5
-sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
-sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
-sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
-sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
-sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
-passage 1 score = 6.0
-sentence 1: sejarah kerajaan makassar ( goa-tallo ) a. kehidupan politik kerajaan makassar pada abad ke-17 di sulawesi selatan telah muncul beberapa kerajaan kecil , seperti goa , tallo , sopeng , dan bone .
-sentence 2: di antara kerajaan-kerajaan tersebut yang kemudian muncul sebagai kerajaan besar ialah goa dan tallo .
-sentence 3: keduanya lebih dikenal dengan nama kerajaan makassar .
-sentence 4: faktor yang membawa perkembangan makassar , antara lain sebagai berikut .
-sentence 5: 1 ) terletak di tepi sungai .
-passage 6 score = 2.5
-sentence 1: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
-sentence 2: 1 ) wilayah makassar terbatas pada goa .
-sentence 3: wilayah bone dikembalikan kepada aru palaka .
-sentence 4: 2 ) kapal makassar dilarang berlayar tanpa seizin voc .
-sentence 5: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
-passage 8 score = 2.5
-sentence 1: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
-sentence 2: b. kehidupan ekonomi kerajaan makassar untuk menunjang makassar sebagai pelabuhan transit dan untuk mencukupi kebutuhannya maka kerajaan ini menguasai daerah-daerah sekitarnya .
-sentence 3: di sebelah timur ditaklukanlah kerajaan bone , sedangan untuk memperlancar dan memperluas jalan perdagangan , makasar mengusai daerah-daerah selatan , seperti pulau selayar , buton , lombok , dan sumbawa di nusa tenggara barat .
-sentence 4: dengan demikian , jalan perdagangan pada waktu musim barat yang melalui sebelah utara kepulauan nusa tenggara dan jalan perdagangan waktu musim timur yang melalui sebelah selatan dapat dikuasainya .
-sentence 5: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
-passage 9 score = 1.0
-sentence 1: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
-sentence 2: dengan jenis perahu-perahunya seperti pinisi dan lambo , pedagang makassar memegang peranan penting dalam perdagangan di indonesia .
-sentence 3: hal ini menyebabkan mereka berhadapan dengan belanda sehingga menimbulkan beberapa kali peperangan .
-sentence 4: pihak belanda yang merasa berkuasa atas maluku sebagai sumber rempah rempah , menganggap makasar sebagai pelabuhan gelap .
-sentence 5: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
-passage 10 score = 1.0
-sentence 1: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
-sentence 2: untuk mengatur pelayaran dan perniagaan dalam wilayahnya disusunlah hukum niaga dan perniagaan yang disebut ade allopioping bicarance pabbalu'e dan sebuah naskah lontar karya amanna gappa .
-sentence 3: c. aspek sosial – budaya kerajaan makassar mengingat makaasar sebagai kerajaan maritim dengan sumber kehidupan masyarakat pada aktivitas pelayaran perdagangan maka sebagian besar kebudayaannya dipengaruhi oleh keadaan tersebut .
-sentence 4: hasil kebudayaan yang terkenal dari makasar adalah perahu pinisi dan lambo .
-sentence 5: selain itu juga berkembang kebudayaan lain , seperti seni bangun , seni sastra , seni suara , dan sebagainya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
-title : sejarah kerajaan makassar (goa-tallo)
-passage 5 score = 8.5
-sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
-sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
-sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
-sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
-sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
-passage 4 score = 8.0
-sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
-sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
-sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
-sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
-sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
-passage 7 score = 7.5
-sentence 1: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
-sentence 2: 4 ) semua benteng harus dihancurkan , kecuali satu yakni benteng ujung pandang yang kemudian namanya diganti menjadi benteng rotterdam .
-sentence 3: 5 ) makassar harus mengganti kerugian perang sebesar 250 ribu ringgit .
-sentence 4: walaupun sultan hasanuddin telah menandatangani perjanjian tersebut , perlawanan terhadap voc muncul lagi ( 1667 – 1669 ) .
-sentence 5: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
-passage 2 score = 6.5
-sentence 1: 1 ) terletak di tepi sungai .
-sentence 2: 2 ) letak makasar yang sangat strategis dalam lalu lintas perdagangan malaka – maluku .
-sentence 3: 3 ) jatuhnya malaka ke tangan portugis 1511 .
-sentence 4: 4 ) beralihnya sistem pemerintahan di jawa tengah ke corak agraris .
-sentence 5: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
-passage 3 score = 6.5
-sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
-sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
-sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
-sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
-sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
-passage 1 score = 6.0
-sentence 1: sejarah kerajaan makassar ( goa-tallo ) a. kehidupan politik kerajaan makassar pada abad ke-17 di sulawesi selatan telah muncul beberapa kerajaan kecil , seperti goa , tallo , sopeng , dan bone .
-sentence 2: di antara kerajaan-kerajaan tersebut yang kemudian muncul sebagai kerajaan besar ialah goa dan tallo .
-sentence 3: keduanya lebih dikenal dengan nama kerajaan makassar .
-sentence 4: faktor yang membawa perkembangan makassar , antara lain sebagai berikut .
-sentence 5: 1 ) terletak di tepi sungai .
-passage 6 score = 2.5
-sentence 1: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
-sentence 2: 1 ) wilayah makassar terbatas pada goa .
-sentence 3: wilayah bone dikembalikan kepada aru palaka .
-sentence 4: 2 ) kapal makassar dilarang berlayar tanpa seizin voc .
-sentence 5: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
-passage 8 score = 2.5
-sentence 1: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
-sentence 2: b. kehidupan ekonomi kerajaan makassar untuk menunjang makassar sebagai pelabuhan transit dan untuk mencukupi kebutuhannya maka kerajaan ini menguasai daerah-daerah sekitarnya .
-sentence 3: di sebelah timur ditaklukanlah kerajaan bone , sedangan untuk memperlancar dan memperluas jalan perdagangan , makasar mengusai daerah-daerah selatan , seperti pulau selayar , buton , lombok , dan sumbawa di nusa tenggara barat .
-sentence 4: dengan demikian , jalan perdagangan pada waktu musim barat yang melalui sebelah utara kepulauan nusa tenggara dan jalan perdagangan waktu musim timur yang melalui sebelah selatan dapat dikuasainya .
-sentence 5: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
-passage 9 score = 1.0
-sentence 1: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
-sentence 2: dengan jenis perahu-perahunya seperti pinisi dan lambo , pedagang makassar memegang peranan penting dalam perdagangan di indonesia .
-sentence 3: hal ini menyebabkan mereka berhadapan dengan belanda sehingga menimbulkan beberapa kali peperangan .
-sentence 4: pihak belanda yang merasa berkuasa atas maluku sebagai sumber rempah rempah , menganggap makasar sebagai pelabuhan gelap .
-sentence 5: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
-passage 10 score = 1.0
-sentence 1: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
-sentence 2: untuk mengatur pelayaran dan perniagaan dalam wilayahnya disusunlah hukum niaga dan perniagaan yang disebut ade allopioping bicarance pabbalu'e dan sebuah naskah lontar karya amanna gappa .
-sentence 3: c. aspek sosial – budaya kerajaan makassar mengingat makaasar sebagai kerajaan maritim dengan sumber kehidupan masyarakat pada aktivitas pelayaran perdagangan maka sebagian besar kebudayaannya dipengaruhi oleh keadaan tersebut .
-sentence 4: hasil kebudayaan yang terkenal dari makasar adalah perahu pinisi dan lambo .
-sentence 5: selain itu juga berkembang kebudayaan lain , seperti seni bangun , seni sastra , seni suara , dan sebagainya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
 title : kerajaan mataram islam
 passage 12 score = 8.5
 sentence 1: pada tahun 1674 pecahlah perang trunajaya yang didukung para ulama dan bangsawan , bahkan termasuk putra mahkota sendiri .
@@ -429,208 +178,594 @@ sentence 3: selama pemerintahannya boleh dikatakan terus-menerus berperang menun
 sentence 4: kasultanan demak menyerah , panaraga , pasuruan , kediri , surabaya , berturut-turut direbut .
 sentence 5: cirebon pun berada di bawah pengaruhnya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
-passage 1 score = 7.0
-sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
-sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
-sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
-sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
-sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
-passage 2 score = 5.0
-sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
-sentence 2: hal-hal tersebut di atas merupakan tindakan penindasan pemerintah belanda terhadap rakyat maluku .
-sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperialisme belanda .
-sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
-sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
-passage 3 score = 5.0
-sentence 1: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
-sentence 2: banyak korban di pihak belanda termasuk residen belanda , van den berg ikut terbunuh dalam pertempuran .
-sentence 3: kemenangan atas pemerintah kolonial belanda memperbesar semangat perlawanan rakyat sehingga perlawanan meluas ke ambon , seram dan pulau-pulau lain .
-sentence 4: di hitu perlawanan rakyat muncul pada permulaan bulan juni 1817 di bawah pimpinan ulupaha .
-sentence 5: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
-passage 5 score = 5.0
-sentence 1: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
-sentence 2: sebagai pahlawan rakyat yang tertindas oleh penjajah .
-sentence 3: tepat pada tanggal 16 desember 1817 , thomas matulessi dan kawan-kawan seperjuangannya menjalani hukuman mati di tiang gantungan .
-passage 4 score = 0.0
-sentence 1: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
-sentence 2: situasi pertempuran berbalik setelah datangnya bala bantuan dari batavia di bawah pimpinan buyskes .
-sentence 3: pasukan belanda terus mengadakan penggempuran dan berhasil menguasai kembali daerah-daerah maluku .
-sentence 4: perlawanan semakin mereda setelah banyak para pemimpin tertawan , seperti thomas matulessi ( pattimura ) , anthonie rhebok , thomas pattiweal , lucas latumahina , dan johanes matulessi .
-sentence 5: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+title : sejarah kerajaan mataram islam
+passage 5 score = 8.5
+sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+sentence 2: sultan agung bercita-cita mempersatukan seluruh jawa di bawah kekuasaan mataram dan mengusir kompeni ( voc ) dari batavia .
+sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas dua periode , yaitu masa penyatuan kerajaan dan masa pembangunan .
+sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
+sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
+passage 13 score = 8.5
+sentence 1: pada saat itu tronojoyo telah berhasil mendirikan istana di kediri dengan gelar prabu maduretno .
+sentence 2: tentara voc di bantu oleh tentara aru palaka dari makasar dan kapten jonker dari ambon bersama tentara mataram akhirnya menyerang kediri .
+sentence 3: tronojoyo tidak mampu menghadapi gempuran tentara mataram dan voc , terus terdesak ke daerah pegunungan dan bertahan di gunung wilis .
+sentence 4: trunojoyo menyerah pada tanggal 25 desember 1679 dan akhirnya gugur ditikam keris oleh amangkurat ii pada tanggal 2 januari 1680 .
+sentence 5: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
+passage 14 score = 8.5
+sentence 1: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
+sentence 2: perlawanan untung suropati ( 1686 – 1706 ) untung suropati , demikianlah nama pejuang pada masa mataram di bawah pemerintahan amangkurat ii .
+sentence 3: sikap benci untung kepada voc telah muncul sejak di batavia .
+sentence 4: untung kemudian melarikan diri ke cirebon dan terjadi perkelahian dengan suropati maka namanya menjadi untung suropati .
+sentence 5: dari cirebon untung terus melanjutkan perjalanan ke kartasura .
+passage 19 score = 8.5
+sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
+sentence 2: pada tahun 1719 sunan paku buwono i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
+sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada kompeni .
+sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
+sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+passage 20 score = 8.5
+sentence 1: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+sentence 2: pada masa pemerintahan paku buwono ii ( 1727 – 1749 ) mataram diguncang lagi perlawanan yang dipimpin oleh mas garendi ( cucu sunan mas ) .
+sentence 3: perlawanan ini di dukung oleh orang-orang tionghoa yang gagal mengadakan pemberontakan terhadap voc di batavia .
+sentence 4: mas garendi berhasil menduduki ibu kota kartasura .
+sentence 5: paku buwono ii melarikan diri ke ponorogo .
+passage 3 score = 8.0
+sentence 1: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
+sentence 2: hal ini disebabkan kota-kota pesisir terus memperkuat diri dan erusaha melepaskan dari kekuasaan pajang .
+sentence 3: setelah sultan hadiwijoyo meninggal ( 1586 ) takhta pajang digantikan oleh putranya , yakni pangeran benowo .
+sentence 4: ternyata , pangeran benowo tidak dapat mengatasi kekacauan-kekacauan sehingga kekuasaan diserahkan kepada sutowijoyo .
+sentence 5: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+passage 4 score = 8.0
+sentence 1: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+sentence 2: sutowijoyo mengangkat dirinya sebagai raja mataram pertama dengan gelar panembahan senopati ( 1586 – 1601 ) dengan kotagede sebagai ibukotnya .
+sentence 3: tindakan-tindakannya yang penting , antara lain sebagai berikut : 1 ) meletakkan dasar-dasar kerajaan mataram ; 2 ) memperluas wilayah kekuasaan dengan menundukkan surabaya , madiun , dan ponorogo ke timur dan ke barat berhasil menundukkan cirebon dan galuh .
+sentence 4: pengganti panembahan senopati ialah mas jolang gugur di daerah krapyak sehingga disebut panembahan seda krapyak .
+sentence 5: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+passage 7 score = 8.0
+sentence 1: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
+sentence 2: batavia dikepung dari darat dan laut selama dua bulan , namun tidak mau menyera , h bahkan sebaliknya tentara mataram dipukul mundur .
+sentence 3: dipersiapkan serangan yang kedua lebih matang dengan membuat pusat-pusat perbekalan makanan di tegal , cirebon , dan krawang .
+sentence 4: serangan kedua dilancarkan bulan september 1629 di bawah pimpinan bupati sura agul-agul , mandurarejo , dan uposonto .
+sentence 5: namun , voc telah mengetahui lebih dahulu rencana tersebut .
+passage 10 score = 8.0
+sentence 1: trunojoyo adalah pangeran dari madura yang tidak senang terhadap tindakan amangkurat i sehingga menghimpun kekuatan untuk menyerang mataram .
+sentence 2: pada tahun 1677 pasukan trunojoyo berhasil menduduki plered , ibu kota mataram .
+sentence 3: amangkuat i bermaksud minta bantuan voc ke batavia , namun baru sampai di tegalarum meninggal sehingga dimakamkan di tempat itu juga .
+sentence 4: oleh karena itu , amangkurat i dikenal juga sebagai sultan tegalarum .
+sentence 5: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+passage 11 score = 8.0
+sentence 1: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+sentence 2: untuk menghadapi trunojoyo , amangkurat ii meminta bantuan voc di semarang .
+sentence 3: pimpinan voc , speelman menyetujui permintan amangkurat ii dengan suatu perjanjian ( 1670 ) yang isinya sebagai berikut .
+sentence 4: 1 ) voc mengakui amangkurat ii sebagai raja mataram .
+sentence 5: 2 ) voc mendapatkan monopoli di mataram .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-title : sejarah perlawanan rakyat maluku di bawah thomas matullesi (pattimura) 1817
-passage 1 score = 7.0
-sentence 1: #sejarah _ kelas_11 sejarah perlawanan rakyat maluku di bawah thomas matullesi ( pattimura ) 1817 - sejak abad ke-17 perlawanan rakyat maluku terhadap kompeni sudah terjadi , namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19 , di bawah pimpinan thomas matulessi ( lebih dikenal dengan nama pattimura ) .
-sentence 2: latar belakang timbulnya perlawanan pattimura , di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan voc juga dikarenakan hal sebagai berikut .
-sentence 3: a. sebab ekonomis , yakni adanya tindakan-tindakan pemerintah belanda yang memperberat kehidupan rakyat , seperti sistem penyerahan secara paksa , kewajiban kerja blandong , penyerahan atap dan gaba-gaba , penyerahan ikan asin , dendeng dan kopi .
-sentence 4: selain itu , beredarnya uang kertas yang menyebabkan rakyat maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa .
-sentence 5: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
-passage 2 score = 5.0
-sentence 1: b. sebab psikologis , yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja , serta pengiriman orang-orang maluku untuk dinas militer ke batavia .
-sentence 2: hal-hal tersebut di atas merupakan tindakan penindasan pemerintah belanda terhadap rakyat maluku .
-sentence 3: oleh karena itu , rakyat maluku bangkit dan berjuang melawan imperialisme belanda .
-sentence 4: aksi perlawanan meletus pada tanggal 15 mei 1817 dengan menyerang benteng duurstede di saparua .
-sentence 5: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
-passage 3 score = 5.0
-sentence 1: setelah terjadi pertempuran sengit , akhirnya benteng duurstede jatuh ke tangan rakyat maluku di bawah pimpinan pattimura .
-sentence 2: banyak korban di pihak belanda termasuk residen belanda , van den berg ikut terbunuh dalam pertempuran .
-sentence 3: kemenangan atas pemerintah kolonial belanda memperbesar semangat perlawanan rakyat sehingga perlawanan meluas ke ambon , seram dan pulau-pulau lain .
-sentence 4: di hitu perlawanan rakyat muncul pada permulaan bulan juni 1817 di bawah pimpinan ulupaha .
-sentence 5: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
-passage 5 score = 5.0
-sentence 1: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
-sentence 2: sebagai pahlawan rakyat yang tertindas oleh penjajah .
-sentence 3: tepat pada tanggal 16 desember 1817 , thomas matulessi dan kawan-kawan seperjuangannya menjalani hukuman mati di tiang gantungan .
-passage 4 score = 0.0
-sentence 1: rakyat haruku di bawah pimpinan kapten lucas selano , aron dan patti saba .
-sentence 2: situasi pertempuran berbalik setelah datangnya bala bantuan dari batavia di bawah pimpinan buyskes .
-sentence 3: pasukan belanda terus mengadakan penggempuran dan berhasil menguasai kembali daerah-daerah maluku .
-sentence 4: perlawanan semakin mereda setelah banyak para pemimpin tertawan , seperti thomas matulessi ( pattimura ) , anthonie rhebok , thomas pattiweal , lucas latumahina , dan johanes matulessi .
-sentence 5: dalam perlawanan ini juga muncul tokoh wanita yakni christina martha tiahahu .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+title : sejarah kerajaan mataram islam
+passage 5 score = 8.5
+sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+sentence 2: sultan agung bercita-cita mempersatukan seluruh jawa di bawah kekuasaan mataram dan mengusir kompeni ( voc ) dari batavia .
+sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas dua periode , yaitu masa penyatuan kerajaan dan masa pembangunan .
+sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
+sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
+passage 13 score = 8.5
+sentence 1: pada saat itu tronojoyo telah berhasil mendirikan istana di kediri dengan gelar prabu maduretno .
+sentence 2: tentara voc di bantu oleh tentara aru palaka dari makasar dan kapten jonker dari ambon bersama tentara mataram akhirnya menyerang kediri .
+sentence 3: tronojoyo tidak mampu menghadapi gempuran tentara mataram dan voc , terus terdesak ke daerah pegunungan dan bertahan di gunung wilis .
+sentence 4: trunojoyo menyerah pada tanggal 25 desember 1679 dan akhirnya gugur ditikam keris oleh amangkurat ii pada tanggal 2 januari 1680 .
+sentence 5: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
+passage 14 score = 8.5
+sentence 1: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
+sentence 2: perlawanan untung suropati ( 1686 – 1706 ) untung suropati , demikianlah nama pejuang pada masa mataram di bawah pemerintahan amangkurat ii .
+sentence 3: sikap benci untung kepada voc telah muncul sejak di batavia .
+sentence 4: untung kemudian melarikan diri ke cirebon dan terjadi perkelahian dengan suropati maka namanya menjadi untung suropati .
+sentence 5: dari cirebon untung terus melanjutkan perjalanan ke kartasura .
+passage 19 score = 8.5
+sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
+sentence 2: pada tahun 1719 sunan paku buwono i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
+sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada kompeni .
+sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
+sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+passage 20 score = 8.5
+sentence 1: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+sentence 2: pada masa pemerintahan paku buwono ii ( 1727 – 1749 ) mataram diguncang lagi perlawanan yang dipimpin oleh mas garendi ( cucu sunan mas ) .
+sentence 3: perlawanan ini di dukung oleh orang-orang tionghoa yang gagal mengadakan pemberontakan terhadap voc di batavia .
+sentence 4: mas garendi berhasil menduduki ibu kota kartasura .
+sentence 5: paku buwono ii melarikan diri ke ponorogo .
+passage 3 score = 8.0
+sentence 1: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
+sentence 2: hal ini disebabkan kota-kota pesisir terus memperkuat diri dan erusaha melepaskan dari kekuasaan pajang .
+sentence 3: setelah sultan hadiwijoyo meninggal ( 1586 ) takhta pajang digantikan oleh putranya , yakni pangeran benowo .
+sentence 4: ternyata , pangeran benowo tidak dapat mengatasi kekacauan-kekacauan sehingga kekuasaan diserahkan kepada sutowijoyo .
+sentence 5: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+passage 4 score = 8.0
+sentence 1: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+sentence 2: sutowijoyo mengangkat dirinya sebagai raja mataram pertama dengan gelar panembahan senopati ( 1586 – 1601 ) dengan kotagede sebagai ibukotnya .
+sentence 3: tindakan-tindakannya yang penting , antara lain sebagai berikut : 1 ) meletakkan dasar-dasar kerajaan mataram ; 2 ) memperluas wilayah kekuasaan dengan menundukkan surabaya , madiun , dan ponorogo ke timur dan ke barat berhasil menundukkan cirebon dan galuh .
+sentence 4: pengganti panembahan senopati ialah mas jolang gugur di daerah krapyak sehingga disebut panembahan seda krapyak .
+sentence 5: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+passage 7 score = 8.0
+sentence 1: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
+sentence 2: batavia dikepung dari darat dan laut selama dua bulan , namun tidak mau menyera , h bahkan sebaliknya tentara mataram dipukul mundur .
+sentence 3: dipersiapkan serangan yang kedua lebih matang dengan membuat pusat-pusat perbekalan makanan di tegal , cirebon , dan krawang .
+sentence 4: serangan kedua dilancarkan bulan september 1629 di bawah pimpinan bupati sura agul-agul , mandurarejo , dan uposonto .
+sentence 5: namun , voc telah mengetahui lebih dahulu rencana tersebut .
+passage 10 score = 8.0
+sentence 1: trunojoyo adalah pangeran dari madura yang tidak senang terhadap tindakan amangkurat i sehingga menghimpun kekuatan untuk menyerang mataram .
+sentence 2: pada tahun 1677 pasukan trunojoyo berhasil menduduki plered , ibu kota mataram .
+sentence 3: amangkuat i bermaksud minta bantuan voc ke batavia , namun baru sampai di tegalarum meninggal sehingga dimakamkan di tempat itu juga .
+sentence 4: oleh karena itu , amangkurat i dikenal juga sebagai sultan tegalarum .
+sentence 5: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+passage 11 score = 8.0
+sentence 1: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+sentence 2: untuk menghadapi trunojoyo , amangkurat ii meminta bantuan voc di semarang .
+sentence 3: pimpinan voc , speelman menyetujui permintan amangkurat ii dengan suatu perjanjian ( 1670 ) yang isinya sebagai berikut .
+sentence 4: 1 ) voc mengakui amangkurat ii sebagai raja mataram .
+sentence 5: 2 ) voc mendapatkan monopoli di mataram .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
-passage 1 score = 5.5
-sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
-sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
-sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
-sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
-sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
-passage 6 score = 5.0
-sentence 1: 1 .
-sentence 2: bangsa melayu tua ( proto melayu ) .
-sentence 3: bangsa melayu tua adalah orang-orang austronesia dari asia ( yunan ) yang pertama kali ke nusantara pada sekitar 1500 sm .
-sentence 4: mereka datang ke nusantara melalui dua jalan .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+title : perkembangan kolonialisme di indonesia
+passage 6 score = 8.0
+sentence 1: dari myanmar inilah ia menjalin hubungan dagang dengan maluku .
+sentence 2: dipihak lain , spanyol pun tidak mau ketinggalan untuk melakukan penjelajahan samudera ke dunia timur yang terkenal dengan sumber rempahrempah .
+sentence 3: sama halnya dengan portugis , spanyol segera mengirimkan para penjelajahnya seperti : ferdinand magelhaens ( 1480-1521 ) .
+sentence 4: magelhaens yang dibantu oleh kapten juan sebastian del cano dan pigafetta mulai berlayar ke arah barat-daya dengan mengikuti rute christopher columbus ( orang italia yang mengabdikan dirinya pada raja spanyol dan berhasil sampai ke benua amerika yang diyakininya sebagai india ) dengan melintasi samudera atlantik terus ke ujung selatan amerika dan sampailah di kepulauan filipina pada tahun 1521 .
+sentence 5: di filipina ( pulau cebu ) , magelhaens tewas terbunuh oleh suku mactan .
+passage 10 score = 8.0
+sentence 1: dengan demikian , situasi tersebut telah menyebabkan belanda berusaha untuk datang sendiri ke kepulauan rempah-rempah , yaitu indonesia .
+sentence 2: selengkapnya tentang voc di indoenesia : lahirnya voc kekuasaan voc di indonesia pemerintahan voc di nusantara kekuatan baru voc voc bangkrut prancis sesudah voc dibubarkan , pemerintahan di nusantara langsung berada di bawah pemerintahan belanda .
+sentence 3: namun semenjak tahun 1806 , ketika raja louis napoleon diangkat menjadi raja belanda , sehingga indonesia secara tidak langsung telah berada di bawah kekuasaan prancis .
+sentence 4: di eropa , musuh bebuyutan prancis adalah inggris .
+sentence 5: prancis di bawah napoleon bonaparte masih belum mampu menaklukkan inggris .
+passage 18 score = 8.0
+sentence 1: eic ini mengemban misi untuk mengadakan hubungan dagang dengan indonesia .
+sentence 2: pada tahun 1602 , armada inggris sampai di banten dan berhasil mendirikan loji di sana .
+sentence 3: pada tahun 1604 , inggris mengadakan perdagangan dengan ambon dan banda , tahun 1609 mendirikan pos di sukadana ( kalimantan ) , tahun 1613 berdagang dengan makassar , dan pada tahun 1614 mendirikan loji di batavia .
+sentence 4: dalam usaha perdagangan itu , inggris mendapat perlawanan kuat dari belanda .
+sentence 5: belanda tidak segan-segan menggunakan kekerasan untuk mengusir inggris dari indonesia .
+passage 19 score = 8.0
+sentence 1: belanda tidak segan-segan menggunakan kekerasan untuk mengusir inggris dari indonesia .
+sentence 2: setelah terjadi peristiwa ambon massacre , eic mengundurkan diri dari indonesia dan mengarahkan perhatiannya ke daerah lainnya di asia tenggara , seperti singapura , malaysia , dan brunei sampai memperoleh kesuksesan .
+sentence 3: inggris kembali berkuasa di indonesia melalui keberhasilannya memenangkan perjanjian tuntang pada tahun 1811 .
+sentence 4: selama lima tahun ( 1811-1816 ) , inggris memegang pemerintahan dan kekuasaannya di indonesia .
+sentence 5: selengkapnya di kekuasaan inggris di indonesia .
+passage 8 score = 7.5
+sentence 1: pertentangan di antara mereka berakhir setelah ditandatanganinya perjanjian saragosa ( 1534 ) di indonesia .
+sentence 2: dalam perjanjian itu diputuskan bahwa wilayah portugis tetap di maluku , dan filipina juga daerah portugis .
+sentence 3: tetapi disebabkan spanyol merasa berhak atas kepulauan itu maka spanyol berkuasa di filipina .
+sentence 4: voc ( belanda ) dengan adanya keberhasilan yang diraih oleh para penjelajah portugis dan spanyol maka negara-negara eropa lainnya mencoba untuk datang ke dunia timur , khususnya indonesia .
+sentence 5: pada kurun waktu berikutnya , belanda mulai mengadakan penjelajahan samudera .
+passage 13 score = 7.5
+sentence 1: selain membangun jalan raya , daendels juga mendirikan pabrik senjata dan mesiu , serta membangun pangkalan angkatan laut di ujung kulon .
+sentence 2: herman william daendels ; pada masa pemerintahannya , rakyat indonesia banyak yang dijadikan sebagai tenaga rodi di bidang pemerintahan , daendels mengubah sistem pemerintahan tradisional dengan sistem pemerintahan eropa .
+sentence 3: dalam pelaksanaannya , pulau jawa dibagi menjadi sembilan wilayah yang disebut perfektur .
+sentence 4: setiap perfektur dikepalai oleh seorang residen , dan setiap residen membawahi beberapa bupati .
+sentence 5: para bupati diberi gaji tetap dan tidak diperkenankan meminta upeti kepada rakyat .
+passage 3 score = 6.5
+sentence 1: proses kolonialisme yang selalu dihubungkan dengan imperialisme yang terjadi di beberapa kawasan , seperti di asia , afrika , dan amerika dipelopori oleh inggris , kemudian disusul oleh portugis dan spanyol , belanda , inggris , dan prancis .
+sentence 2: negara-negara tersebut mengirimkan para penjelajahnya untuk mengarungi samudera dan mencari jalan menuju ke dunia timur yang terkenal itu .
+sentence 3: selengkapnya tentang penjajahan portugis di indonesia : portugis di maluku dampak dikuasainya malaka oleh portugis dalam penjelajahan tersebut portugis mengirimkan para penjelajahnya , yaitu sebagai berikut .
+sentence 4: bartholomeus diaz ( 1487-1488 ) yang diutus raja portugis untuk mengatur perjalanannya ke afrika barat .
+sentence 5: hal ini didasarkan pada kenyataan bahwa sampai abad ke-15 para pelaut portugis hanya mampu mendarat di pantai emas saja .
+passage 4 score = 6.5
+sentence 1: hal ini didasarkan pada kenyataan bahwa sampai abad ke-15 para pelaut portugis hanya mampu mendarat di pantai emas saja .
+sentence 2: dengan perjalanan inilah , bartholomeus dia akhirnya berhasil sampai ke ujung selatan afrika yang disebut tanjung pengharapan ( cape of good hope ) .
+sentence 3: vasco da gama ( 1497-1498 ) yang diutus raja portugis yang bernama manuel i , karena merasa penasaran atas hasil penjelajahan yang dilakukan oleh columbus .
+sentence 4: perjalanan vasco da gama ini bertolak dari lisabon menuju kepulauan tanjung varde dan akhirnya tiba di tanjung harapan baik tahun 1497 .
+sentence 5: pada tahun 1498 , vasco da gama beserta rombongannya berhasil berlabuh di kalikut , pantai malabar india yang pada masa itu terkenal sebagai kota dagang .
+passage 5 score = 6.5
+sentence 1: pada tahun 1498 , vasco da gama beserta rombongannya berhasil berlabuh di kalikut , pantai malabar india yang pada masa itu terkenal sebagai kota dagang .
+sentence 2: alfonso d’albuquerque ( 1510-1515 ) .
+sentence 3: ia berhasil menaklukkan goa di pantai barat india pada tahun 1510 dan malaka ( 1511 ) .
+sentence 4: dari malaka ia meneruskan penguasaan atas myanmar .
+sentence 5: dari myanmar inilah ia menjalin hubungan dagang dengan maluku .
+passage 7 score = 6.5
+sentence 1: di filipina ( pulau cebu ) , magelhaens tewas terbunuh oleh suku mactan .
+sentence 2: juan sebastian del cano .
+sentence 3: pada tahun 1522 ia sampai di maluku , tetapi kedatangan mereka itu telah menimbulkan pertentangan antara spanyol dan portugis yang kedua-keduanya saling menuduh telah melanggar perjanjian tordesillas , yaitu perjanjian antara bangsa portugis dan spanyol yang mengakhiri peperangan selama puluhan tahun antara kedua negara yang bertikai di eropa untuk memperebutkan daerah jajahan .
+sentence 4: perjanjian ini diprakarsai oleh paus paulus yang membagi rute pelayaran spanyol ke timur dan portugis ke arah barat ) .
+sentence 5: pertentangan di antara mereka berakhir setelah ditandatanganinya perjanjian saragosa ( 1534 ) di indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+title : sejarah kerajaan banjar (kesultanan banjarmasin)
+passage 9 score = 8.0
+sentence 1: ( 1660-1663 ) sultan ri’ayatullah / tahalidullah bin sultan mustainbillah nama kecilnya raden halit .
+sentence 2: dia menjadi pelaksana tugas bagi raden bagus kasuma , putra mahkota yang belum dewasa .
+sentence 3: sebagai penjabat sultan dengan gelar resmi dalam khutbah sultan rakyatullah ( rakyat allah ) .
+sentence 4: pemerintahannya dibantu mangkubumi keponakan tirinya pangeran mas dipati .
+sentence 5: tahun 1663 dia dipaksa menyerahkan tahta kepada kemenakannya pangeran dipati anom ii/sultan agung yang berpura-pura akan menyerahkan tahta kepada putra mahkota raden bagus kesuma , tetapi ternyata untuk dirinya sendiri yang hendak menjadi sultan .
+passage 10 score = 8.0
+sentence 1: tahun 1663 dia dipaksa menyerahkan tahta kepada kemenakannya pangeran dipati anom ii/sultan agung yang berpura-pura akan menyerahkan tahta kepada putra mahkota raden bagus kesuma , tetapi ternyata untuk dirinya sendiri yang hendak menjadi sultan .
+sentence 2: ( 1663-1679 ) sultan amrullah bin sultan saidullah .
+sentence 3: nama kecil raden bagus kasuma .
+sentence 4: masa pemerintahannya sering ditulis tahun 1660-1700 .
+sentence 5: pada tahun 1660-1663 dia diwakilkan oleh sultan rakyatullah dalam menjalankan pemerintahan karena dia belum dewasa .
+passage 11 score = 8.0
+sentence 1: pada tahun 1660-1663 dia diwakilkan oleh sultan rakyatullah dalam menjalankan pemerintahan karena dia belum dewasa .
+sentence 2: tahun 1663 paman tirinya pangeran dipati anom ii/sultan agung merampas tahta dari sultan rakyatullah yang semestinya dirinyalah sebagai ahli waris yang sah sebagai sultan banjar berikutnya .
+sentence 3: tahun 1663-1679 sebagai raja pelarian dia memerintah dari pedalaman ( alay ) ( 1663-1679 ) sultan agung/pangeran suryanata ii bin sultan inayatullah .
+sentence 4: nama kecil raden kasuma lalana .
+sentence 5: mengkudeta kemenakannya raden bagus kasuma sebagai sultan banjar .
+passage 17 score = 8.0
+sentence 1: gelar lain sultan muhammadillah/sul ­tan aminullah/muhammad iya’uddin aminullah/muhammad iya’uddin amir ulatie ketika mangkat anak-anaknya masih belum dewasa tahta kerajaan kembali di bawah kekuasaan tamjidillah i tetapi dijalankan oleh anaknya pangeran nata dilaga sebagai wali putra mahkota .
+sentence 2: ( 1761-1801 ) sultan tahmidullah ii/sultan nata bin sultan tamjidullah i. semula sebagai wali putra mahkota dengan gelar panembahan kaharuddin halilullah .
+sentence 3: pemerintahan di­bantu oleh perdana menteri/mangkubumi ratu anom ismail .
+sentence 4: gelar lain susuhunan nata alam ( 1772 ) pangeran nata dilaga/pangeran wira nata/pangeran nata negara/akamuddin saidullah ( 1762 ) / amirul mu ’ ­mi­nin abdullah ( 1762 ) sulaiman sai­dullah i ( 1787 ) panembahan batu ( 1797 ) = panembahan anom .
+sentence 5: mendapat bantuan voc untuk menangkap pangeran amir bin sultan muhammad aliuddin aminullah yang menuntut tahta dengan bantuan suku bugis-paser yang gagal .
+passage 18 score = 8.0
+sentence 1: mendapat bantuan voc untuk menangkap pangeran amir bin sultan muhammad aliuddin aminullah yang menuntut tahta dengan bantuan suku bugis-paser yang gagal .
+sentence 2: dia kemudian menjalin hubungan dengan suku bakumpai dan akhirnya ditangkap kompeni belanda 14 mei 1787 dan diasingkan ke srilangka .
+sentence 3: ( 1801-1825 ) sultan sulaiman al-mutamidullah/sultan sulaiman saidullah ii bin tahmidullah ii .
+sentence 4: mendapat gelar sultan muda atau pangeran ratu sultan sulaiman sejak tahun 1767 ketika berusia 6 tahun .
+sentence 5: dibantu adiknya pangeran mangku dilaga dengan gelar ratu anum mangku dilaga sebagai mangkubumi ( dihukum bunuh karena merencanakan kudeta ) , dilanjutkan puteranya pangeran husin mangkubumi nata bin sultan sulaiman .
+passage 29 score = 8.0
+sentence 1: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
+sentence 2: perpindahan pusat pemerintahan kesultanan banjar juga terjadi pada masa pemerintahan sultan-sultan berikutnya .
+sentence 3: pada akhir masa pemerintahan sultan hidayatullah ( 1650 ) , pusat pemerintahan dipindahkan ke batang mangapan , yang sekarang bernama muara tambangan , dekat martapura .
+sentence 4: pada masa pemerintahan sultan tamjidillah ( 1745-1778 ) pusat pemerintahan dipindahkan ke martapura pada tahun 1766 , pada masa pemerintahan sultan sulaiman ( 1808-1825 ) dipindahkan ke karang intan , dan pada pemerintahan sultan adam al-wasi ’ billah ( 1825-1857 ) dipindahkan kembali ke martapura .
+sentence 5: islam yang telah dianut oleh tokoh dan pembesar-pembesar kesultanan ini , berkembang terus di kalimantan .
+passage 28 score = 7.5
+sentence 1: akibatnya , pada tahun 1595 terjadi perang saudara yang berakhir dengan kemenangan di pihak pangeran samudera .
+sentence 2: keberhasilan pangeran samudera tidak terlepas dari dukungan umat islam di wilayah banjar serta dukungan patih masih dengan prajurit kerajaan demak .
+sentence 3: setelah masuk islam , pangeran samudera berganti nama menjadi pangeran suriansyah .
+sentence 4: kemudian ia memindahkan pusat pemerintahan ke suatu tempat yang diberi nama bandar masih , sekarang banjarmasin .
+sentence 5: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
+passage 2 score = 6.5
+sentence 1: berikut beberapa sultan yang pernah memerintah kesultanan banjarmasin .
+sentence 2: ( 1520-1546 ) sultan suriansyah .
+sentence 3: nama kecil raden samudra .
+sentence 4: raja banjar pertama yang memindahkan pusat pemerintahan di kampung banjarmasih ( kuin ) menggantikan maharaja tumenggung ( raden panjang ) , dia ahli waris yang sah sesuai wasiat kakeknya maharaja sukarama ( raden paksa ) dari kerajaan negara daha dibantu mangkubumi aria taranggana .
+sentence 5: raden samudera memeluk islam pada 24 september 1526 .
+passage 3 score = 6.5
+sentence 1: raden samudera memeluk islam pada 24 september 1526 .
+sentence 2: makamnya di kompleks makam sultan suriansyah dengan gelar anumerta sunan batu habang .
+sentence 3: dalam agama lama , pangeran samudra dianggap hidup membegawan di alam gaib sebagai sangiang digelari perbata batu habang .
+sentence 4: ( 1546-1570 ) sultan rahmatullah bin sultan suriansyah .
+sentence 5: pemerintahannya dibantu mangkubumi aria taranggana .
+passage 7 score = 6.5
+sentence 1: trah keturunannya menjadi raja-raja kotawaringin , tanah bumbu dan bangkalaan .
+sentence 2: ( 1638-1645 ) sultan inayatullah bin mustainbillah .
+sentence 3: pemerintahannya dibantu adiknya pangeran di darat sebagai mangkubumi .
+sentence 4: gelar lain ratu agung/ratu lama dimakamkan di kampung keraton , martapura .
+sentence 5: adiknya pangeran dipati anta kasuma diangkat menjadi raja muda di wilayah sebelah barat yang disebut kerajaan kotawaringin ( 1645-1660 ) sultan saidullah bin sultan inayatullah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+title : sejarah kerajaan banjar (kesultanan banjarmasin)
+passage 9 score = 7.0
+sentence 1: ( 1660-1663 ) sultan ri’ayatullah / tahalidullah bin sultan mustainbillah nama kecilnya raden halit .
+sentence 2: dia menjadi pelaksana tugas bagi raden bagus kasuma , putra mahkota yang belum dewasa .
+sentence 3: sebagai penjabat sultan dengan gelar resmi dalam khutbah sultan rakyatullah ( rakyat allah ) .
+sentence 4: pemerintahannya dibantu mangkubumi keponakan tirinya pangeran mas dipati .
+sentence 5: tahun 1663 dia dipaksa menyerahkan tahta kepada kemenakannya pangeran dipati anom ii/sultan agung yang berpura-pura akan menyerahkan tahta kepada putra mahkota raden bagus kesuma , tetapi ternyata untuk dirinya sendiri yang hendak menjadi sultan .
+passage 10 score = 7.0
+sentence 1: tahun 1663 dia dipaksa menyerahkan tahta kepada kemenakannya pangeran dipati anom ii/sultan agung yang berpura-pura akan menyerahkan tahta kepada putra mahkota raden bagus kesuma , tetapi ternyata untuk dirinya sendiri yang hendak menjadi sultan .
+sentence 2: ( 1663-1679 ) sultan amrullah bin sultan saidullah .
+sentence 3: nama kecil raden bagus kasuma .
+sentence 4: masa pemerintahannya sering ditulis tahun 1660-1700 .
+sentence 5: pada tahun 1660-1663 dia diwakilkan oleh sultan rakyatullah dalam menjalankan pemerintahan karena dia belum dewasa .
+passage 11 score = 7.0
+sentence 1: pada tahun 1660-1663 dia diwakilkan oleh sultan rakyatullah dalam menjalankan pemerintahan karena dia belum dewasa .
+sentence 2: tahun 1663 paman tirinya pangeran dipati anom ii/sultan agung merampas tahta dari sultan rakyatullah yang semestinya dirinyalah sebagai ahli waris yang sah sebagai sultan banjar berikutnya .
+sentence 3: tahun 1663-1679 sebagai raja pelarian dia memerintah dari pedalaman ( alay ) ( 1663-1679 ) sultan agung/pangeran suryanata ii bin sultan inayatullah .
+sentence 4: nama kecil raden kasuma lalana .
+sentence 5: mengkudeta kemenakannya raden bagus kasuma sebagai sultan banjar .
+passage 17 score = 7.0
+sentence 1: gelar lain sultan muhammadillah/sul ­tan aminullah/muhammad iya’uddin aminullah/muhammad iya’uddin amir ulatie ketika mangkat anak-anaknya masih belum dewasa tahta kerajaan kembali di bawah kekuasaan tamjidillah i tetapi dijalankan oleh anaknya pangeran nata dilaga sebagai wali putra mahkota .
+sentence 2: ( 1761-1801 ) sultan tahmidullah ii/sultan nata bin sultan tamjidullah i. semula sebagai wali putra mahkota dengan gelar panembahan kaharuddin halilullah .
+sentence 3: pemerintahan di­bantu oleh perdana menteri/mangkubumi ratu anom ismail .
+sentence 4: gelar lain susuhunan nata alam ( 1772 ) pangeran nata dilaga/pangeran wira nata/pangeran nata negara/akamuddin saidullah ( 1762 ) / amirul mu ’ ­mi­nin abdullah ( 1762 ) sulaiman sai­dullah i ( 1787 ) panembahan batu ( 1797 ) = panembahan anom .
+sentence 5: mendapat bantuan voc untuk menangkap pangeran amir bin sultan muhammad aliuddin aminullah yang menuntut tahta dengan bantuan suku bugis-paser yang gagal .
+passage 18 score = 7.0
+sentence 1: mendapat bantuan voc untuk menangkap pangeran amir bin sultan muhammad aliuddin aminullah yang menuntut tahta dengan bantuan suku bugis-paser yang gagal .
+sentence 2: dia kemudian menjalin hubungan dengan suku bakumpai dan akhirnya ditangkap kompeni belanda 14 mei 1787 dan diasingkan ke srilangka .
+sentence 3: ( 1801-1825 ) sultan sulaiman al-mutamidullah/sultan sulaiman saidullah ii bin tahmidullah ii .
+sentence 4: mendapat gelar sultan muda atau pangeran ratu sultan sulaiman sejak tahun 1767 ketika berusia 6 tahun .
+sentence 5: dibantu adiknya pangeran mangku dilaga dengan gelar ratu anum mangku dilaga sebagai mangkubumi ( dihukum bunuh karena merencanakan kudeta ) , dilanjutkan puteranya pangeran husin mangkubumi nata bin sultan sulaiman .
+passage 29 score = 7.0
+sentence 1: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
+sentence 2: perpindahan pusat pemerintahan kesultanan banjar juga terjadi pada masa pemerintahan sultan-sultan berikutnya .
+sentence 3: pada akhir masa pemerintahan sultan hidayatullah ( 1650 ) , pusat pemerintahan dipindahkan ke batang mangapan , yang sekarang bernama muara tambangan , dekat martapura .
+sentence 4: pada masa pemerintahan sultan tamjidillah ( 1745-1778 ) pusat pemerintahan dipindahkan ke martapura pada tahun 1766 , pada masa pemerintahan sultan sulaiman ( 1808-1825 ) dipindahkan ke karang intan , dan pada pemerintahan sultan adam al-wasi ’ billah ( 1825-1857 ) dipindahkan kembali ke martapura .
+sentence 5: islam yang telah dianut oleh tokoh dan pembesar-pembesar kesultanan ini , berkembang terus di kalimantan .
+passage 28 score = 6.5
+sentence 1: akibatnya , pada tahun 1595 terjadi perang saudara yang berakhir dengan kemenangan di pihak pangeran samudera .
+sentence 2: keberhasilan pangeran samudera tidak terlepas dari dukungan umat islam di wilayah banjar serta dukungan patih masih dengan prajurit kerajaan demak .
+sentence 3: setelah masuk islam , pangeran samudera berganti nama menjadi pangeran suriansyah .
+sentence 4: kemudian ia memindahkan pusat pemerintahan ke suatu tempat yang diberi nama bandar masih , sekarang banjarmasin .
+sentence 5: peristiwa ini tercatat sebagai awal berdirinya kerajaan banjar yang bercorak islam dan masa kebangkitan orang-orang islam di kalimantan .
+passage 2 score = 5.5
+sentence 1: berikut beberapa sultan yang pernah memerintah kesultanan banjarmasin .
+sentence 2: ( 1520-1546 ) sultan suriansyah .
+sentence 3: nama kecil raden samudra .
+sentence 4: raja banjar pertama yang memindahkan pusat pemerintahan di kampung banjarmasih ( kuin ) menggantikan maharaja tumenggung ( raden panjang ) , dia ahli waris yang sah sesuai wasiat kakeknya maharaja sukarama ( raden paksa ) dari kerajaan negara daha dibantu mangkubumi aria taranggana .
+sentence 5: raden samudera memeluk islam pada 24 september 1526 .
+passage 3 score = 5.5
+sentence 1: raden samudera memeluk islam pada 24 september 1526 .
+sentence 2: makamnya di kompleks makam sultan suriansyah dengan gelar anumerta sunan batu habang .
+sentence 3: dalam agama lama , pangeran samudra dianggap hidup membegawan di alam gaib sebagai sangiang digelari perbata batu habang .
+sentence 4: ( 1546-1570 ) sultan rahmatullah bin sultan suriansyah .
+sentence 5: pemerintahannya dibantu mangkubumi aria taranggana .
+passage 7 score = 5.5
+sentence 1: trah keturunannya menjadi raja-raja kotawaringin , tanah bumbu dan bangkalaan .
+sentence 2: ( 1638-1645 ) sultan inayatullah bin mustainbillah .
+sentence 3: pemerintahannya dibantu adiknya pangeran di darat sebagai mangkubumi .
+sentence 4: gelar lain ratu agung/ratu lama dimakamkan di kampung keraton , martapura .
+sentence 5: adiknya pangeran dipati anta kasuma diangkat menjadi raja muda di wilayah sebelah barat yang disebut kerajaan kotawaringin ( 1645-1660 ) sultan saidullah bin sultan inayatullah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+passage 7 score = 7.0
+sentence 1: kongsi-kongsi perdagangan tersebut berusaha untuk menguasai perdagangan rempah-rempah di indonesia melalui praktik monopoli .
+sentence 2: a. masuknya bangsa portugis ke indonesia bangsa portugis telah berhasil mencapai india ( kalikut ) 1498 .
+sentence 3: bangsa portugis berhasil mendirikan kantor dagangnya di gowa pada tahun1509 .
+sentence 4: pada tahun 1511 di bawah pimpinan d'albuquerque portugis berhasil menguasai malaka .
+sentence 5: dari malaka di bawah pimpinan d'abreu tahun 1512 portugis telah sampai di maluku dan diterima baik oleh sultan ternate yang pada waktu itu sedang bermusuhan dengan tidore .
+passage 8 score = 7.0
+sentence 1: dari malaka di bawah pimpinan d'abreu tahun 1512 portugis telah sampai di maluku dan diterima baik oleh sultan ternate yang pada waktu itu sedang bermusuhan dengan tidore .
+sentence 2: portugis berhasil mendirikan benteng dan mendapatkan hak monopoli perdagangan rempah-rempah .
+sentence 3: selain mengadakan monopoli perdagangan rempah-rempah di maluku , portugis juga aktif menyebarkan agama kristen ( katolik ) dengan tokohnya yang terkenal ialah franciscus xaverius .
+sentence 4: portugis ini tidak hanya memusatkan kegiatannya di indonesia bagian timur ( maluku ) , tetapi juga ke indonesia bagian barat ( pajajaran ) .
+sentence 5: pada tahun 1522 portugis datang ke pajajaran di bawah pimpinan henry leme dan disambut baik oleh pajajaran dengan maksud agar portugis mau membantu dalam menghadapi ekspansi demak .
+passage 9 score = 7.0
+sentence 1: pada tahun 1522 portugis datang ke pajajaran di bawah pimpinan henry leme dan disambut baik oleh pajajaran dengan maksud agar portugis mau membantu dalam menghadapi ekspansi demak .
+sentence 2: terjadilah perjanjian sunda kelapa ( 1522 ) antara portugis dan pajajaran , yang isinya sebagai berikut .
+sentence 3: 1 ) portugis diijinkan mendirikan benteng di sunda kelapa .
+sentence 4: 2 ) pajajaran akan menerima barang-barang yang dibutuhkan dari portugis termasuk senjata .
+sentence 5: 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
+passage 18 score = 7.0
+sentence 1: melihat gelagat yang demikian , olden barneveld menyarankan untuk membentuk perserikatan dagang yang mengurusi perdagangan di hindia timur .
+sentence 2: pada tahun 1602 secara resmi terbentuklah vereenigde oost indiesche compagnie ( voc ) atau perserikatan dagang hindia timur .
+sentence 3: voc membuka kantor dagangnya yang pertama di di banten ( 1602 ) di kepalai oleh francois wittert .
+sentence 4: tujuan dibentuknya voc adalah sebagai berikut .
 sentence 5: 1 .
-passage 15 score = 1.5
-sentence 1: mereka hidup dari meramu ( mengumpulkan hasil hutan ) dan berkebudayaan sederhana .
-sentence 2: mereka juga sulit sekali menyesuaikan diri dengan masyarakat modern .
-sentence 3: 3 .
-sentence 4: suku negroid .
-sentence 5: di indonesia sudah tidak terdapat lagi sisa-sisa kehidupan suku negroid .
-passage 3 score = 0.5
-sentence 1: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
-sentence 2: pendukung kebudayaan dongson adalah orang-orang austronesia yang tinggal di pulau-pulau di benua asia dan australia .
-sentence 3: nenek moyang bangsa indonesia meninggalkan daerah yunan di sekitar hulu sungai salween dan sungai mekong yang tanahnya subur sehingga mereka pandai bercocok tanam , berlayar , dan berdagang .
-sentence 4: dalam perkembangan selanjutnya , berbagai suku bangsa yang mendiami wilayah indonesia kemudian membentuk komunitas sendiri-sendiri sehingga mereka mendapat sebutan tersendiri .
-sentence 5: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-passage 2 score = 0.0
-sentence 1: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
-sentence 2: pendapat van heine geldern ini diperkuat dengan penemuan peralatan manusia purba berupa beliung batu yang berbentuk persegi di sumatra , jawa , kalimantan , dan sulawesi di bagian barat .
-sentence 3: beliung seperti itu juga banyak ditemukan di asia , yakni di malaysia , birma ( myanmar ) , vietnam , kampuchea , dan terutama di daerah yunan ( daerah cina selatan ) .
-sentence 4: perpindahan penduduk pada gelombang kedua terjadi sekitar 500 sm bersamaan dengan zaman perunggu .
-sentence 5: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
-passage 4 score = 0.0
-sentence 1: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-sentence 2: mereka berlayar secara berkelompok tanpa mengenal rasa takut dan selanjutnya menempati berbagai kepulauan di nusantara .
-sentence 3: hal ini memperjelas bahwa nenek moyang bangsa indonesia adalah pelaut-pelaut ulung yang memiliki jiwa kelautan yang kuat .
-sentence 4: mereka memiliki kepandaian dalam berlayar , navigasi , serta ilmu perbintangan yang penuh .
-sentence 5: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
-passage 5 score = 0.0
-sentence 1: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
-sentence 2: orang-orang austronesia yang memasuki wilayah nusantara dan kemudian menetap di nusantara tersebut mendapat sebutan bangsa melayu austronesia atau bangsa melayu indonesia .
-sentence 3: mereka yang masuk ke daerah aceh menjadi suku aceh , yang masuk ke daerah kalimantan disebut suku dayak , yang ke jawa barat disebut suku sunda , yang masuk ke sulawesi disebut suku bugis dan tanah toraja , dan mereka yang masuk ke daerah jambi disebut suku kubu ( lubu ) .
-sentence 4: bangsa melayu dapat dibedakan menjadi dua , yakni bangsa melayu tua dan melayu muda .
+passage 5 score = 5.5
+sentence 1: adanya keinginan untuk melanjutkan perang salib dan menyebarkan agama nasrani ke daerah-daerah yang dikunjungi .
+sentence 2: 5 .
+sentence 3: adanya jiwa petualangan sehingga menggugah semangat untuk melakukan penjelajahan samudra .
+sentence 4: masuknya kekuasaan asing ke wilayah indonesia lewat kongsi-kongsi perdagangan pada permulaan abad pertengahan , orang-orang eropa sudah mengenal hasil bumi dari dunia timur , terutama rempah-rempah dari indonesia .
+sentence 5: dengan jatuhnya konstantinopel ke tangan turki usmani ( 1453 ) mengakibatkan hubungan perdagangan antara eropa dan asia barat ( timur tengah ) terputus .
+passage 6 score = 5.5
+sentence 1: dengan jatuhnya konstantinopel ke tangan turki usmani ( 1453 ) mengakibatkan hubungan perdagangan antara eropa dan asia barat ( timur tengah ) terputus .
+sentence 2: hal ini mendorong orang-orang eropa mencari jalan sendiri ke dunia timur untuk mendapatkan rempah-rempah yang sangat mereka butuhkan .
+sentence 3: melalui penjelajahan samudra , akhirnya bangsa-bangsa barat berhasil mencapai indonesia .
+sentence 4: kedatangan bangsa-bangsa barat di indonesia pada mulanya lewat kongsi-kongsi perdagangan .
+sentence 5: kongsi-kongsi perdagangan tersebut berusaha untuk menguasai perdagangan rempah-rempah di indonesia melalui praktik monopoli .
+passage 10 score = 5.5
+sentence 1: 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
+sentence 2: awal tahun 1527 portugis datang lagi ke pajajaran untuk merealisasi perjanjian sunda kelapa , namun disambut dengan pertempuran oleh pasukan demak di bawah pimpinan fatahilah .
+sentence 3: pertempuran berakhir dan namanya diganti menjadi jayakarta , artinya pekerjaan yang jaya ( menang ) .
+sentence 4: b. masuknya bangsa spanyol ke indonesia kedatangan bangsa portugis sampai di indonesia ( maluku ) segera diikuti oleh bangsa spanyol .
+sentence 5: ekspedisi bangsa spanyol di bawah pimpinan magelhaen , pada tanggal 7 april 1521 telah sampai di pulau cebu .
+passage 11 score = 5.5
+sentence 1: ekspedisi bangsa spanyol di bawah pimpinan magelhaen , pada tanggal 7 april 1521 telah sampai di pulau cebu .
+sentence 2: rombongan magelhaen diterima baik oleh raja cebu sebab pada waktu itu cebu sedang bermusuhan dengan mactan .
+sentence 3: persekutuan dengan cebu ini harus dibayar mahal spanyol sebab dalam peperangan ini magelhaen terbunuh .
+sentence 4: dengan meninggalnya magelhaen , ekspedisi bangsa spanyol di bawah pimpinan sebastian del cano melanjutkan usahanya untuk menemukan daerah asal rempah-rempah .
+sentence 5: dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di maluku ( 1521 ) .
+passage 12 score = 5.5
+sentence 1: dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di maluku ( 1521 ) .
+sentence 2: kedatangan bangsa spanyol ini diterima baik oleh sultan tidore yang saat itu sedang bermusuhan dengan portugis .
+sentence 3: sebaliknya , kedatangan spanyol di maluku bagi portugis merupakan pelanggaran atas " hak monopoli " .
+sentence 4: oleh karena itu , timbullah persaingan antara portugis dan spanyol .
+sentence 5: sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( 22 april 1529 ) yang isinya sebagai berikut .
+passage 14 score = 5.5
+sentence 1: pada waktu itu belanda masih berada di bawah penjajahan spanyol .
+sentence 2: mulai tahun 1585 , belanda tidak lagi mengambil rempah-rempah dari lisabon karena portugis dikuasai oleh spanyol .
+sentence 3: dengan putusnya hubungan perdagangan rempah-rempah antara belanda dan spanyol mendorong bangsa belanda untuk mengadakan penjelajahan samudra .
+sentence 4: pada bulan april 1595 , belanda memulai pelayaran menuju nusantara dengan empat buah kapal di bawah pimpinan cornelis de houtman .
+sentence 5: dalam pelayarannya menuju ke timur , belanda menempuh rute pantai barat afrika – tanjung harapan – samudra hindia – selat sunda – banten .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+passage 7 score = 7.0
+sentence 1: kongsi-kongsi perdagangan tersebut berusaha untuk menguasai perdagangan rempah-rempah di indonesia melalui praktik monopoli .
+sentence 2: a. masuknya bangsa portugis ke indonesia bangsa portugis telah berhasil mencapai india ( kalikut ) 1498 .
+sentence 3: bangsa portugis berhasil mendirikan kantor dagangnya di gowa pada tahun1509 .
+sentence 4: pada tahun 1511 di bawah pimpinan d'albuquerque portugis berhasil menguasai malaka .
+sentence 5: dari malaka di bawah pimpinan d'abreu tahun 1512 portugis telah sampai di maluku dan diterima baik oleh sultan ternate yang pada waktu itu sedang bermusuhan dengan tidore .
+passage 8 score = 7.0
+sentence 1: dari malaka di bawah pimpinan d'abreu tahun 1512 portugis telah sampai di maluku dan diterima baik oleh sultan ternate yang pada waktu itu sedang bermusuhan dengan tidore .
+sentence 2: portugis berhasil mendirikan benteng dan mendapatkan hak monopoli perdagangan rempah-rempah .
+sentence 3: selain mengadakan monopoli perdagangan rempah-rempah di maluku , portugis juga aktif menyebarkan agama kristen ( katolik ) dengan tokohnya yang terkenal ialah franciscus xaverius .
+sentence 4: portugis ini tidak hanya memusatkan kegiatannya di indonesia bagian timur ( maluku ) , tetapi juga ke indonesia bagian barat ( pajajaran ) .
+sentence 5: pada tahun 1522 portugis datang ke pajajaran di bawah pimpinan henry leme dan disambut baik oleh pajajaran dengan maksud agar portugis mau membantu dalam menghadapi ekspansi demak .
+passage 9 score = 7.0
+sentence 1: pada tahun 1522 portugis datang ke pajajaran di bawah pimpinan henry leme dan disambut baik oleh pajajaran dengan maksud agar portugis mau membantu dalam menghadapi ekspansi demak .
+sentence 2: terjadilah perjanjian sunda kelapa ( 1522 ) antara portugis dan pajajaran , yang isinya sebagai berikut .
+sentence 3: 1 ) portugis diijinkan mendirikan benteng di sunda kelapa .
+sentence 4: 2 ) pajajaran akan menerima barang-barang yang dibutuhkan dari portugis termasuk senjata .
+sentence 5: 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
+passage 18 score = 7.0
+sentence 1: melihat gelagat yang demikian , olden barneveld menyarankan untuk membentuk perserikatan dagang yang mengurusi perdagangan di hindia timur .
+sentence 2: pada tahun 1602 secara resmi terbentuklah vereenigde oost indiesche compagnie ( voc ) atau perserikatan dagang hindia timur .
+sentence 3: voc membuka kantor dagangnya yang pertama di di banten ( 1602 ) di kepalai oleh francois wittert .
+sentence 4: tujuan dibentuknya voc adalah sebagai berikut .
 sentence 5: 1 .
-passage 7 score = 0.0
-sentence 1: 1 .
-sentence 2: jalan barat dari yunan ( cina selatan ) melalui selat malaka ( malaysia ) masuk kesumatra masuk ke jawa .
-sentence 3: mereka membawa alat berupa kapak persegi .
-sentence 4: 2 .
-sentence 5: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
-passage 8 score = 0.0
-sentence 1: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
-sentence 2: mereka membawa alat kapak lonjong .
-sentence 3: bangsa melayu tua ini memiliki kebudayaan batu sebab alat-alatnya terbuat dari batu yang sudah maju , yakni sudah dihaluskan , berbeda dengan manusia purba yang alatnya masih kasar dan sederhana .
-sentence 4: hasil budaya mereka dikenal dengan kapak persegi yang banyak ditemukan di indonesia , seperti sumatra , jawa , bali , dan kalimantan .
-sentence 5: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
+passage 5 score = 5.5
+sentence 1: adanya keinginan untuk melanjutkan perang salib dan menyebarkan agama nasrani ke daerah-daerah yang dikunjungi .
+sentence 2: 5 .
+sentence 3: adanya jiwa petualangan sehingga menggugah semangat untuk melakukan penjelajahan samudra .
+sentence 4: masuknya kekuasaan asing ke wilayah indonesia lewat kongsi-kongsi perdagangan pada permulaan abad pertengahan , orang-orang eropa sudah mengenal hasil bumi dari dunia timur , terutama rempah-rempah dari indonesia .
+sentence 5: dengan jatuhnya konstantinopel ke tangan turki usmani ( 1453 ) mengakibatkan hubungan perdagangan antara eropa dan asia barat ( timur tengah ) terputus .
+passage 6 score = 5.5
+sentence 1: dengan jatuhnya konstantinopel ke tangan turki usmani ( 1453 ) mengakibatkan hubungan perdagangan antara eropa dan asia barat ( timur tengah ) terputus .
+sentence 2: hal ini mendorong orang-orang eropa mencari jalan sendiri ke dunia timur untuk mendapatkan rempah-rempah yang sangat mereka butuhkan .
+sentence 3: melalui penjelajahan samudra , akhirnya bangsa-bangsa barat berhasil mencapai indonesia .
+sentence 4: kedatangan bangsa-bangsa barat di indonesia pada mulanya lewat kongsi-kongsi perdagangan .
+sentence 5: kongsi-kongsi perdagangan tersebut berusaha untuk menguasai perdagangan rempah-rempah di indonesia melalui praktik monopoli .
+passage 10 score = 5.5
+sentence 1: 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
+sentence 2: awal tahun 1527 portugis datang lagi ke pajajaran untuk merealisasi perjanjian sunda kelapa , namun disambut dengan pertempuran oleh pasukan demak di bawah pimpinan fatahilah .
+sentence 3: pertempuran berakhir dan namanya diganti menjadi jayakarta , artinya pekerjaan yang jaya ( menang ) .
+sentence 4: b. masuknya bangsa spanyol ke indonesia kedatangan bangsa portugis sampai di indonesia ( maluku ) segera diikuti oleh bangsa spanyol .
+sentence 5: ekspedisi bangsa spanyol di bawah pimpinan magelhaen , pada tanggal 7 april 1521 telah sampai di pulau cebu .
+passage 11 score = 5.5
+sentence 1: ekspedisi bangsa spanyol di bawah pimpinan magelhaen , pada tanggal 7 april 1521 telah sampai di pulau cebu .
+sentence 2: rombongan magelhaen diterima baik oleh raja cebu sebab pada waktu itu cebu sedang bermusuhan dengan mactan .
+sentence 3: persekutuan dengan cebu ini harus dibayar mahal spanyol sebab dalam peperangan ini magelhaen terbunuh .
+sentence 4: dengan meninggalnya magelhaen , ekspedisi bangsa spanyol di bawah pimpinan sebastian del cano melanjutkan usahanya untuk menemukan daerah asal rempah-rempah .
+sentence 5: dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di maluku ( 1521 ) .
+passage 12 score = 5.5
+sentence 1: dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di maluku ( 1521 ) .
+sentence 2: kedatangan bangsa spanyol ini diterima baik oleh sultan tidore yang saat itu sedang bermusuhan dengan portugis .
+sentence 3: sebaliknya , kedatangan spanyol di maluku bagi portugis merupakan pelanggaran atas " hak monopoli " .
+sentence 4: oleh karena itu , timbullah persaingan antara portugis dan spanyol .
+sentence 5: sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( 22 april 1529 ) yang isinya sebagai berikut .
+passage 14 score = 5.5
+sentence 1: pada waktu itu belanda masih berada di bawah penjajahan spanyol .
+sentence 2: mulai tahun 1585 , belanda tidak lagi mengambil rempah-rempah dari lisabon karena portugis dikuasai oleh spanyol .
+sentence 3: dengan putusnya hubungan perdagangan rempah-rempah antara belanda dan spanyol mendorong bangsa belanda untuk mengadakan penjelajahan samudra .
+sentence 4: pada bulan april 1595 , belanda memulai pelayaran menuju nusantara dengan empat buah kapal di bawah pimpinan cornelis de houtman .
+sentence 5: dalam pelayarannya menuju ke timur , belanda menempuh rute pantai barat afrika – tanjung harapan – samudra hindia – selat sunda – banten .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 7.5
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+passage 4 score = 7.0
+sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
+sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
+sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
+sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+passage 7 score = 6.5
+sentence 1: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+sentence 2: 4 ) semua benteng harus dihancurkan , kecuali satu yakni benteng ujung pandang yang kemudian namanya diganti menjadi benteng rotterdam .
+sentence 3: 5 ) makassar harus mengganti kerugian perang sebesar 250 ribu ringgit .
+sentence 4: walaupun sultan hasanuddin telah menandatangani perjanjian tersebut , perlawanan terhadap voc muncul lagi ( 1667 – 1669 ) .
+sentence 5: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+passage 2 score = 5.5
+sentence 1: 1 ) terletak di tepi sungai .
+sentence 2: 2 ) letak makasar yang sangat strategis dalam lalu lintas perdagangan malaka – maluku .
+sentence 3: 3 ) jatuhnya malaka ke tangan portugis 1511 .
+sentence 4: 4 ) beralihnya sistem pemerintahan di jawa tengah ke corak agraris .
+sentence 5: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+passage 3 score = 5.5
+sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
+sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
+sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
+sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+passage 1 score = 5.0
+sentence 1: sejarah kerajaan makassar ( goa-tallo ) a. kehidupan politik kerajaan makassar pada abad ke-17 di sulawesi selatan telah muncul beberapa kerajaan kecil , seperti goa , tallo , sopeng , dan bone .
+sentence 2: di antara kerajaan-kerajaan tersebut yang kemudian muncul sebagai kerajaan besar ialah goa dan tallo .
+sentence 3: keduanya lebih dikenal dengan nama kerajaan makassar .
+sentence 4: faktor yang membawa perkembangan makassar , antara lain sebagai berikut .
+sentence 5: 1 ) terletak di tepi sungai .
+passage 6 score = 1.5
+sentence 1: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+sentence 2: 1 ) wilayah makassar terbatas pada goa .
+sentence 3: wilayah bone dikembalikan kepada aru palaka .
+sentence 4: 2 ) kapal makassar dilarang berlayar tanpa seizin voc .
+sentence 5: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+passage 8 score = 1.5
+sentence 1: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+sentence 2: b. kehidupan ekonomi kerajaan makassar untuk menunjang makassar sebagai pelabuhan transit dan untuk mencukupi kebutuhannya maka kerajaan ini menguasai daerah-daerah sekitarnya .
+sentence 3: di sebelah timur ditaklukanlah kerajaan bone , sedangan untuk memperlancar dan memperluas jalan perdagangan , makasar mengusai daerah-daerah selatan , seperti pulau selayar , buton , lombok , dan sumbawa di nusa tenggara barat .
+sentence 4: dengan demikian , jalan perdagangan pada waktu musim barat yang melalui sebelah utara kepulauan nusa tenggara dan jalan perdagangan waktu musim timur yang melalui sebelah selatan dapat dikuasainya .
+sentence 5: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
 passage 9 score = 0.0
-sentence 1: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
-sentence 2: menurut penelitian von heekern , di kalumpang , sulawesi utara telah terjadi perpaduan antara tradisi kapak persegi dan kapak lonjong yang dibawa orang austronesia yang datang dari arah utara indonesia melalui formosa ( taiwan ) , filipina , dan sulawesi .
-sentence 3: 2 .
-sentence 4: bangsa melayu muda ( deutero melayu ) bangsa melayu muda yang disebut juga deutero melayu datang dari daerah yunan ( cina selatan ) sekitar 500 sm .
-sentence 5: mereka masuk ke nusantara melalui jalan barat saja .
+sentence 1: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+sentence 2: dengan jenis perahu-perahunya seperti pinisi dan lambo , pedagang makassar memegang peranan penting dalam perdagangan di indonesia .
+sentence 3: hal ini menyebabkan mereka berhadapan dengan belanda sehingga menimbulkan beberapa kali peperangan .
+sentence 4: pihak belanda yang merasa berkuasa atas maluku sebagai sumber rempah rempah , menganggap makasar sebagai pelabuhan gelap .
+sentence 5: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+passage 10 score = 0.0
+sentence 1: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+sentence 2: untuk mengatur pelayaran dan perniagaan dalam wilayahnya disusunlah hukum niaga dan perniagaan yang disebut ade allopioping bicarance pabbalu'e dan sebuah naskah lontar karya amanna gappa .
+sentence 3: c. aspek sosial – budaya kerajaan makassar mengingat makaasar sebagai kerajaan maritim dengan sumber kehidupan masyarakat pada aktivitas pelayaran perdagangan maka sebagian besar kebudayaannya dipengaruhi oleh keadaan tersebut .
+sentence 4: hasil kebudayaan yang terkenal dari makasar adalah perahu pinisi dan lambo .
+sentence 5: selain itu juga berkembang kebudayaan lain , seperti seni bangun , seni sastra , seni suara , dan sebagainya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok132.txt
-title : perluasan kolonialisme dan imperialisme di indonesia
-passage 1 score = 7.0
-sentence 1: perluasan kolonialisme dan imperialisme di indonesia - voc yang didirikan pada tahun 1602 , oleh pemerintah kerajaan belanda diberikan octrooi ( hak istimewa ) sebagai berikut .
-sentence 2: a. hak monopoli perdagangan .
-sentence 3: b. hak untuk memiliki tentara .
-sentence 4: c. hak untuk melakukan ekspansi ke asia , afrika dan australia .
-sentence 5: d. hak untuk melakukan peperangan , membuat perdamaian , dan mengadakan perjanjian dengan raja-raja yang dikuasainya .
-passage 2 score = 6.5
-sentence 1: d. hak untuk melakukan peperangan , membuat perdamaian , dan mengadakan perjanjian dengan raja-raja yang dikuasainya .
-sentence 2: e. hak untuk mencetak uang .
-sentence 3: dengan hak-hak istimewa tersebut , voc bukan saja sebagai kongsi dagang , tetapi juga merupakan pemerintahan semiresmi .
-sentence 4: pada tahun 1605 , voc di bawah pimpinan steven van der haagen berhasil merebut benteng portugis di ambon .
-sentence 5: untuk memperkuat kedudukannya maka voc mengangkat seorang pimpinan yang berpangkat gubernur jenderal .
-passage 4 score = 6.5
-sentence 1: perhatian voc ditujukan ke jayakarta , kota pelabuhan kerajaan banten .
-sentence 2: di bawah pimpinan gubernur jenderal jan pieterzoon coen ( j.p. coen ) pada tahun 1619 , voc berhasil merebut jayakarta dan dijadikan sebagai markas besar voc .
-sentence 3: j.p. coen kemudian mengganti nama jayakarta menjadi batavia sesuai dengan nama salah satu suku di negeri belanda , yakni suku batavir .
-sentence 4: selanjutnya , batavia dijadikan markas besar voc sebagi tempat kedudukan gubernur jenderal dan menjadi pangkalan imperialisme belanda di indonesia .
-sentence 5: dengan batavia sebagai markas besar voc maka kedudukannya semakin kuat .
-passage 3 score = 1.5
-sentence 1: untuk memperkuat kedudukannya maka voc mengangkat seorang pimpinan yang berpangkat gubernur jenderal .
-sentence 2: untuk membantu gubernur jenderal di daerah-daerah penting diangkatkan seorang gubernur .
-sentence 3: gubernur jenderal voc yang pertama ialah pieter both dan berkedudukan di ambon dengan alasana ambon merupakan pangkalan dagang voc yang paling kuat dan strategis .
-sentence 4: dalam perkembangannya , ambon dinilai tidak strategis lagi .
-sentence 5: perhatian voc ditujukan ke jayakarta , kota pelabuhan kerajaan banten .
-passage 5 score = 1.5
-sentence 1: dengan batavia sebagai markas besar voc maka kedudukannya semakin kuat .
-sentence 2: voc terus mengadakan perluasan wilayah kekuasaannya .
-sentence 3: untuk mendapatkan keuntungan sebesar-besarnya melalui perdagangan , voc melaksanakan sistem monopoli .
-sentence 4: pelaksanaan sistem monopoli voc lebih keras daripada bangsa portugis , terutama di maluku .
-sentence 5: untuk mencegah terjadinya pelanggaran terhadap peraturan monopolinya , voc melakukan pelayaran hongi .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 7.5
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+passage 4 score = 7.0
+sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
+sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
+sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
+sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+passage 7 score = 6.5
+sentence 1: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+sentence 2: 4 ) semua benteng harus dihancurkan , kecuali satu yakni benteng ujung pandang yang kemudian namanya diganti menjadi benteng rotterdam .
+sentence 3: 5 ) makassar harus mengganti kerugian perang sebesar 250 ribu ringgit .
+sentence 4: walaupun sultan hasanuddin telah menandatangani perjanjian tersebut , perlawanan terhadap voc muncul lagi ( 1667 – 1669 ) .
+sentence 5: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+passage 2 score = 5.5
+sentence 1: 1 ) terletak di tepi sungai .
+sentence 2: 2 ) letak makasar yang sangat strategis dalam lalu lintas perdagangan malaka – maluku .
+sentence 3: 3 ) jatuhnya malaka ke tangan portugis 1511 .
+sentence 4: 4 ) beralihnya sistem pemerintahan di jawa tengah ke corak agraris .
+sentence 5: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+passage 3 score = 5.5
+sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
+sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
+sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
+sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+passage 1 score = 5.0
+sentence 1: sejarah kerajaan makassar ( goa-tallo ) a. kehidupan politik kerajaan makassar pada abad ke-17 di sulawesi selatan telah muncul beberapa kerajaan kecil , seperti goa , tallo , sopeng , dan bone .
+sentence 2: di antara kerajaan-kerajaan tersebut yang kemudian muncul sebagai kerajaan besar ialah goa dan tallo .
+sentence 3: keduanya lebih dikenal dengan nama kerajaan makassar .
+sentence 4: faktor yang membawa perkembangan makassar , antara lain sebagai berikut .
+sentence 5: 1 ) terletak di tepi sungai .
 passage 6 score = 1.5
-sentence 1: untuk mencegah terjadinya pelanggaran terhadap peraturan monopolinya , voc melakukan pelayaran hongi .
-sentence 2: praktik monopoli dan pelayaran hongi itu kemudian menimbulkan kebencian di kalangan rakyat .
-sentence 3: rakyat yang hidup tertekan dan tertindas , akhirnya melakukan perlawanan terhadap voc .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok61.txt
-title : perluasan kolonialisme dan imperialisme di indonesia
-passage 1 score = 7.0
-sentence 1: perluasan kolonialisme dan imperialisme di indonesia - voc yang didirikan pada tahun 1602 , oleh pemerintah kerajaan belanda diberikan octrooi ( hak istimewa ) sebagai berikut .
-sentence 2: a. hak monopoli perdagangan .
-sentence 3: b. hak untuk memiliki tentara .
-sentence 4: c. hak untuk melakukan ekspansi ke asia , afrika dan australia .
-sentence 5: d. hak untuk melakukan peperangan , membuat perdamaian , dan mengadakan perjanjian dengan raja-raja yang dikuasainya .
-passage 2 score = 6.5
-sentence 1: d. hak untuk melakukan peperangan , membuat perdamaian , dan mengadakan perjanjian dengan raja-raja yang dikuasainya .
-sentence 2: e. hak untuk mencetak uang .
-sentence 3: dengan hak-hak istimewa tersebut , voc bukan saja sebagai kongsi dagang , tetapi juga merupakan pemerintahan semiresmi .
-sentence 4: pada tahun 1605 , voc di bawah pimpinan steven van der haagen berhasil merebut benteng portugis di ambon .
-sentence 5: untuk memperkuat kedudukannya maka voc mengangkat seorang pimpinan yang berpangkat gubernur jenderal .
-passage 4 score = 6.5
-sentence 1: perhatian voc ditujukan ke jayakarta , kota pelabuhan kerajaan banten .
-sentence 2: di bawah pimpinan gubernur jenderal jan pieterzoon coen ( j.p. coen ) pada tahun 1619 , voc berhasil merebut jayakarta dan dijadikan sebagai markas besar voc .
-sentence 3: j.p. coen kemudian mengganti nama jayakarta menjadi batavia sesuai dengan nama salah satu suku di negeri belanda , yakni suku batavir .
-sentence 4: selanjutnya , batavia dijadikan markas besar voc sebagi tempat kedudukan gubernur jenderal dan menjadi pangkalan imperialisme belanda di indonesia .
-sentence 5: dengan batavia sebagai markas besar voc maka kedudukannya semakin kuat .
-passage 3 score = 1.5
-sentence 1: untuk memperkuat kedudukannya maka voc mengangkat seorang pimpinan yang berpangkat gubernur jenderal .
-sentence 2: untuk membantu gubernur jenderal di daerah-daerah penting diangkatkan seorang gubernur .
-sentence 3: gubernur jenderal voc yang pertama ialah pieter both dan berkedudukan di ambon dengan alasana ambon merupakan pangkalan dagang voc yang paling kuat dan strategis .
-sentence 4: dalam perkembangannya , ambon dinilai tidak strategis lagi .
-sentence 5: perhatian voc ditujukan ke jayakarta , kota pelabuhan kerajaan banten .
-passage 5 score = 1.5
-sentence 1: dengan batavia sebagai markas besar voc maka kedudukannya semakin kuat .
-sentence 2: voc terus mengadakan perluasan wilayah kekuasaannya .
-sentence 3: untuk mendapatkan keuntungan sebesar-besarnya melalui perdagangan , voc melaksanakan sistem monopoli .
-sentence 4: pelaksanaan sistem monopoli voc lebih keras daripada bangsa portugis , terutama di maluku .
-sentence 5: untuk mencegah terjadinya pelanggaran terhadap peraturan monopolinya , voc melakukan pelayaran hongi .
-passage 6 score = 1.5
-sentence 1: untuk mencegah terjadinya pelanggaran terhadap peraturan monopolinya , voc melakukan pelayaran hongi .
-sentence 2: praktik monopoli dan pelayaran hongi itu kemudian menimbulkan kebencian di kalangan rakyat .
-sentence 3: rakyat yang hidup tertekan dan tertindas , akhirnya melakukan perlawanan terhadap voc .
+sentence 1: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+sentence 2: 1 ) wilayah makassar terbatas pada goa .
+sentence 3: wilayah bone dikembalikan kepada aru palaka .
+sentence 4: 2 ) kapal makassar dilarang berlayar tanpa seizin voc .
+sentence 5: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+passage 8 score = 1.5
+sentence 1: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+sentence 2: b. kehidupan ekonomi kerajaan makassar untuk menunjang makassar sebagai pelabuhan transit dan untuk mencukupi kebutuhannya maka kerajaan ini menguasai daerah-daerah sekitarnya .
+sentence 3: di sebelah timur ditaklukanlah kerajaan bone , sedangan untuk memperlancar dan memperluas jalan perdagangan , makasar mengusai daerah-daerah selatan , seperti pulau selayar , buton , lombok , dan sumbawa di nusa tenggara barat .
+sentence 4: dengan demikian , jalan perdagangan pada waktu musim barat yang melalui sebelah utara kepulauan nusa tenggara dan jalan perdagangan waktu musim timur yang melalui sebelah selatan dapat dikuasainya .
+sentence 5: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+passage 9 score = 0.0
+sentence 1: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+sentence 2: dengan jenis perahu-perahunya seperti pinisi dan lambo , pedagang makassar memegang peranan penting dalam perdagangan di indonesia .
+sentence 3: hal ini menyebabkan mereka berhadapan dengan belanda sehingga menimbulkan beberapa kali peperangan .
+sentence 4: pihak belanda yang merasa berkuasa atas maluku sebagai sumber rempah rempah , menganggap makasar sebagai pelabuhan gelap .
+sentence 5: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+passage 10 score = 0.0
+sentence 1: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+sentence 2: untuk mengatur pelayaran dan perniagaan dalam wilayahnya disusunlah hukum niaga dan perniagaan yang disebut ade allopioping bicarance pabbalu'e dan sebuah naskah lontar karya amanna gappa .
+sentence 3: c. aspek sosial – budaya kerajaan makassar mengingat makaasar sebagai kerajaan maritim dengan sumber kehidupan masyarakat pada aktivitas pelayaran perdagangan maka sebagian besar kebudayaannya dipengaruhi oleh keadaan tersebut .
+sentence 4: hasil kebudayaan yang terkenal dari makasar adalah perahu pinisi dan lambo .
+sentence 5: selain itu juga berkembang kebudayaan lain , seperti seni bangun , seni sastra , seni suara , dan sebagainya .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 12 score = 8.5
+sentence 1: pada tahun 1674 pecahlah perang trunajaya yang didukung para ulama dan bangsawan , bahkan termasuk putra mahkota sendiri .
+sentence 2: ibukota kerta jatuh dan amangkurat i ( bersama putra mahkota yang akhirnya berbalik memihak ayahnya ) melarikan diri untuk mencari bantuan voc .
+sentence 3: akan tetapi sampai di tegalarum , ( dekat tegal , jawa tengah ) amangkurat i jatuh sakit dan akhirnya wafat .
+sentence 4: ia digantikan oleh putra mahkota yang bergelar amangkurat ii atau dikenal juga dengan sebutan sunan amral .
+sentence 5: sunan amangkurat ii bertahta pada tahun 1677-1703 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 18 score = 8.5
+sentence 1: hal ini membuat paku buwana ii merasa ketakutan dan berganti berpihak kepada voc .
+sentence 2: hal ini menyebabkan timbulnya pemberontakan raden mas garendi yang bersama pemberontak china menggempur kraton , hingga paku buwana ii melarikan diri ke panaraga .
+sentence 3: dengan bantuan voc kraton dapat direbut kembali ( 1743 ) tetapi kraton telah porak poranda yang memaksanya untuk memindahkan kraton ke surakarta ( 1744 ) .
+sentence 4: hubungan manis paku buwana ii dengan voc menyebabkan rasa tidak suka golongan bangsawan .
+sentence 5: dengan dipimpin raden mas said terjadilah pemberontakan terhadap raja .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 passage 5 score = 8.5
 sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
@@ -639,7 +774,7 @@ sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas d
 sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
 sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 passage 13 score = 8.5
 sentence 1: pada saat itu tronojoyo telah berhasil mendirikan istana di kediri dengan gelar prabu maduretno .
@@ -648,7 +783,7 @@ sentence 3: tronojoyo tidak mampu menghadapi gempuran tentara mataram dan voc , 
 sentence 4: trunojoyo menyerah pada tanggal 25 desember 1679 dan akhirnya gugur ditikam keris oleh amangkurat ii pada tanggal 2 januari 1680 .
 sentence 5: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 passage 14 score = 8.5
 sentence 1: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
@@ -657,7 +792,7 @@ sentence 3: sikap benci untung kepada voc telah muncul sejak di batavia .
 sentence 4: untung kemudian melarikan diri ke cirebon dan terjadi perkelahian dengan suropati maka namanya menjadi untung suropati .
 sentence 5: dari cirebon untung terus melanjutkan perjalanan ke kartasura .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 passage 19 score = 8.5
 sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
@@ -666,7 +801,7 @@ sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada
 sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
 sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 passage 20 score = 8.5
 sentence 1: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
@@ -675,7 +810,7 @@ sentence 3: perlawanan ini di dukung oleh orang-orang tionghoa yang gagal mengad
 sentence 4: mas garendi berhasil menduduki ibu kota kartasura .
 sentence 5: paku buwono ii melarikan diri ke ponorogo .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
 title : sejarah kerajaan mataram islam
 passage 5 score = 8.5
 sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
@@ -684,7 +819,7 @@ sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas d
 sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
 sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
 title : sejarah kerajaan mataram islam
 passage 13 score = 8.5
 sentence 1: pada saat itu tronojoyo telah berhasil mendirikan istana di kediri dengan gelar prabu maduretno .
@@ -693,7 +828,7 @@ sentence 3: tronojoyo tidak mampu menghadapi gempuran tentara mataram dan voc , 
 sentence 4: trunojoyo menyerah pada tanggal 25 desember 1679 dan akhirnya gugur ditikam keris oleh amangkurat ii pada tanggal 2 januari 1680 .
 sentence 5: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
 title : sejarah kerajaan mataram islam
 passage 14 score = 8.5
 sentence 1: sultan amangkurat ii kemudian memindahkan pusat pemerintahan dari plered ke kartasura .
@@ -701,35 +836,170 @@ sentence 2: perlawanan untung suropati ( 1686 – 1706 ) untung suropati , demik
 sentence 3: sikap benci untung kepada voc telah muncul sejak di batavia .
 sentence 4: untung kemudian melarikan diri ke cirebon dan terjadi perkelahian dengan suropati maka namanya menjadi untung suropati .
 sentence 5: dari cirebon untung terus melanjutkan perjalanan ke kartasura .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-title : sejarah kerajaan mataram islam
-passage 19 score = 8.5
-sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
-sentence 2: pada tahun 1719 sunan paku buwono i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
-sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada kompeni .
-sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
-sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-title : sejarah kerajaan mataram islam
-passage 20 score = 8.5
-sentence 1: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
-sentence 2: pada masa pemerintahan paku buwono ii ( 1727 – 1749 ) mataram diguncang lagi perlawanan yang dipimpin oleh mas garendi ( cucu sunan mas ) .
-sentence 3: perlawanan ini di dukung oleh orang-orang tionghoa yang gagal mengadakan pemberontakan terhadap voc di batavia .
-sentence 4: mas garendi berhasil menduduki ibu kota kartasura .
-sentence 5: paku buwono ii melarikan diri ke ponorogo .
 
 
 Pencarian jawaban
 ---------------------
 
 
+pada <TIME>tahun 1674</TIME> pecahlah perang trunajaya yang didukung <PERSON>para ulama</PERSON> dan bangsawan , bahkan termasuk putra mahkota sendiri .
+
+memproses passage 12
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1674 | position = 0
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = tahun 1674
+tokenwithtagstemmed = pecah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = trunajaya
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+kata kunci = diri
+tokenwithtagstemmed = tahun 1674
+tokenwithtagstemmed = pecah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = trunajaya
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+
+
+ibukota kerta jatuh dan amangkurat i ( bersama putra mahkota yang akhirnya berbalik memihak ayahnya ) melarikan diri untuk mencari bantuan voc .
+
+
+tidak ada entitas jawaban, skip
+
+
+akan tetapi sampai di <LOCATION>tegalarum ,</LOCATION> ( dekat tegal , jawa tengah ) amangkurat i jatuh sakit dan akhirnya wafat .
+
+
+tidak ada entitas jawaban, skip
+
+
+ia digantikan oleh putra mahkota yang bergelar amangkurat ii atau dikenal juga dengan sebutan sunan amral .
+
+
+tidak ada entitas jawaban, skip
+
+
+sunan amangkurat ii bertahta pada <TIME>tahun 1677-1703 .</TIME>
+
+memproses passage 12
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1677 1703 | position = 4
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = tahun 1677 1703
+kata kunci = diri
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = tahun 1677 1703
+
+
+hal ini membuat paku buwana ii merasa ketakutan dan berganti berpihak kepada voc .
+
+
+tidak ada entitas jawaban, skip
+
+
+hal ini menyebabkan timbulnya pemberontakan <PERSON>raden mas garendi</PERSON> yang bersama pemberontak china menggempur kraton , hingga <PERSON>paku buwana ii</PERSON> melarikan diri ke panaraga .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan bantuan voc kraton dapat direbut kembali ( <TIME>1743</TIME> ) tetapi kraton telah porak poranda yang memaksanya untuk memindahkan kraton ke <LOCATION>surakarta</LOCATION> ( <TIME>1744</TIME> ) .
+
+memproses passage 18
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1743 | position = 5
+1744 | position = 14
+
+
+melakukan pencarian:
+kata kunci = voc
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = voc
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+1743 4
+1744 13
+
+tokenwithtagstemmed = kraton
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = 1743
+tokenwithtagstemmed = kraton
+tokenwithtagstemmed = porak
+tokenwithtagstemmed = poranda
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = kraton
+tokenwithtagstemmed = surakarta
+tokenwithtagstemmed = 1744
+kata kunci = diri
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = kraton
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = 1743
+tokenwithtagstemmed = kraton
+tokenwithtagstemmed = porak
+tokenwithtagstemmed = poranda
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = kraton
+tokenwithtagstemmed = surakarta
+tokenwithtagstemmed = 1744
+
+
+hubungan manis paku buwana ii dengan voc menyebabkan rasa tidak <PERSON>suka golongan bangsawan .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan dipimpin <PERSON>raden mas</PERSON> said terjadilah pemberontakan terhadap <PERSON>raja .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
 raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( <TIME>1613 – 1645</TIME> ) .
 
 memproses passage 5
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 1613 1645 | position = 10
@@ -772,7 +1042,7 @@ masa <PERSON>pemerintahan sultan agung</PERSON> yang selama <TIME>32 tahun</TIME
 
 memproses passage 5
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 32 tahun | position = 2
@@ -811,7 +1081,7 @@ masa penyatuan kerajaan ( <TIME>1613 – 1629</TIME> ) merupakan masa peperangan
 
 memproses passage 5
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 1613 1629 | position = 3
@@ -874,7 +1144,7 @@ trunojoyo menyerah pada <TIME>tanggal 25 desember 1679</TIME> dan akhirnya gugur
 
 memproses passage 13
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 tanggal 25 desember 1679 | position = 2
@@ -920,7 +1190,7 @@ perlawanan untung suropati ( <TIME>1686 – 1706</TIME> ) untung suropati , demi
 
 memproses passage 14
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 1686 1706 | position = 3
@@ -980,7 +1250,7 @@ sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( <TIME>1708
 
 memproses passage 19
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 1708 | position = 7
@@ -1011,7 +1281,7 @@ pada <TIME>tahun 1719</TIME> <PERSON>sunan paku buwono</PERSON> i wafat dan diga
 
 memproses passage 19
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 tahun 1719 | position = 0
@@ -1078,7 +1348,7 @@ pada <TIME>masa pemerintahan paku buwono ii</TIME> ( <TIME>1727 – 1749</TIME> 
 
 memproses passage 20
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 masa pemerintahan paku buwono ii | position = 0
@@ -1132,7 +1402,7 @@ raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hany
 
 memproses passage 5
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 1613 1645 | position = 10
@@ -1175,7 +1445,7 @@ masa <PERSON>pemerintahan sultan agung</PERSON> yang selama <TIME>32 tahun</TIME
 
 memproses passage 5
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 32 tahun | position = 2
@@ -1214,7 +1484,7 @@ masa penyatuan kerajaan ( <TIME>1613 – 1629</TIME> ) merupakan masa peperangan
 
 memproses passage 5
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 1613 1629 | position = 3
@@ -1277,7 +1547,7 @@ trunojoyo menyerah pada <TIME>tanggal 25 desember 1679</TIME> dan akhirnya gugur
 
 memproses passage 13
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 tanggal 25 desember 1679 | position = 2
@@ -1323,7 +1593,7 @@ perlawanan untung suropati ( <TIME>1686 – 1706</TIME> ) untung suropati , demi
 
 memproses passage 14
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
 title : sejarah kerajaan mataram islam
 list jawaban dan posisi dalam passage
 1686 1706 | position = 3
@@ -1374,163 +1644,31 @@ tidak ada entitas jawaban, skip
 
 
 dari cirebon untung terus melanjutkan perjalanan ke <LOCATION>kartasura .</LOCATION>
-
-
-tidak ada entitas jawaban, skip
-
-
-sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( <TIME>1708</TIME> ) .
-
-memproses passage 19
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-title : sejarah kerajaan mataram islam
-list jawaban dan posisi dalam passage
-1708 | position = 7
-
-
-melakukan pencarian:
-kata kunci = voc
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = mas
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = buang
-tokenwithtagstemmed = sailan
-tokenwithtagstemmed = sri
-tokenwithtagstemmed = langka
-tokenwithtagstemmed = 1708
-kata kunci = diri
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = mas
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = buang
-tokenwithtagstemmed = sailan
-tokenwithtagstemmed = sri
-tokenwithtagstemmed = langka
-tokenwithtagstemmed = 1708
-
-
-pada <TIME>tahun 1719</TIME> <PERSON>sunan paku buwono</PERSON> i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
-
-memproses passage 19
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-title : sejarah kerajaan mataram islam
-list jawaban dan posisi dalam passage
-tahun 1719 | position = 0
-
-
-melakukan pencarian:
-kata kunci = voc
-tokenwithtagstemmed = tahun 1719
-tokenwithtagstemmed = sunan paku buwono
-tokenwithtagstemmed = i
-tokenwithtagstemmed = wafat
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = amangkurat
-tokenwithtagstemmed = iv
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = prabu
-tokenwithtagstemmed = bawah
-tokenwithtagstemmed = mandat
-tokenwithtagstemmed = voc
-posisi dalam passage = 11
-jarak dengan tiap kandidat jawaban:
-tahun 1719 -11
-
-kata kunci = diri
-tokenwithtagstemmed = tahun 1719
-tokenwithtagstemmed = sunan paku buwono
-tokenwithtagstemmed = i
-tokenwithtagstemmed = wafat
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = amangkurat
-tokenwithtagstemmed = iv
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = prabu
-tokenwithtagstemmed = bawah
-tokenwithtagstemmed = mandat
-tokenwithtagstemmed = voc
-
-
-makin eratnya hubungan denganvoc membuat <PERSON>para bangsawan</PERSON> benci kepada <PERSON>kompeni .</PERSON>
-
-
-tidak ada entitas jawaban, skip
-
-
-mereka mengadakan perlawanan , antara lain <PERSON>pangeran purboyo</PERSON> ( adik sunan ) dan <PERSON>pangeran mangkunegoro</PERSON> ( putra sunan sendiri ) .
-
-
-tidak ada entitas jawaban, skip
-
-
-perlawanan terhadap <PERSON>kompeni</PERSON> dapat dipadamkan dan <PERSON>para pemimpinya</PERSON> ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
-
-
-tidak ada entitas jawaban, skip
-
-
-perlawanan terhadap <PERSON>kompeni</PERSON> dapat dipadamkan dan <PERSON>para pemimpinya</PERSON> ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
-
-
-tidak ada entitas jawaban, skip
-
-
-pada <TIME>masa pemerintahan paku buwono ii</TIME> ( <TIME>1727 – 1749</TIME> ) mataram diguncang lagi perlawanan yang dipimpin oleh <PERSON>mas garendi</PERSON> ( cucu sunan mas ) .
-
-memproses passage 20
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-title : sejarah kerajaan mataram islam
-list jawaban dan posisi dalam passage
-masa pemerintahan paku buwono ii | position = 0
-1727 1749 | position = 1
-
-
-melakukan pencarian:
-kata kunci = voc
-tokenwithtagstemmed = masa perintah paku buwono ii
-tokenwithtagstemmed = 1727 1749
-tokenwithtagstemmed = mataram
-tokenwithtagstemmed = guncang
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = mas garendi
-tokenwithtagstemmed = cucu
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = mas
-kata kunci = diri
-tokenwithtagstemmed = masa perintah paku buwono ii
-tokenwithtagstemmed = 1727 1749
-tokenwithtagstemmed = mataram
-tokenwithtagstemmed = guncang
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = mas garendi
-tokenwithtagstemmed = cucu
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = mas
-
-
-perlawanan ini di <LOCATION>dukung</LOCATION> oleh <PERSON>orang-orang tionghoa</PERSON> yang gagal mengadakan pemberontakan terhadap voc di <LOCATION>batavia .</LOCATION>
-
-
-tidak ada entitas jawaban, skip
-
-
-mas garendi berhasil menduduki ibu kota kartasura .
-
-
-tidak ada entitas jawaban, skip
-
-
-<PERSON>paku buwono ii</PERSON> melarikan diri ke <LOCATION>ponorogo .</LOCATION>
 
 
 tidak ada entitas jawaban, skip
 
 Pengurutan kandidat jawaban
+this.answer = 1743
+passage rank = 2
+distance = 4
+doc rank = 1
+total Score = 7
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+document Title = kerajaan mataram islam
+
+this.answer = 1744
+passage rank = 2
+distance = 13
+doc rank = 1
+total Score = 16
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+document Title = kerajaan mataram islam
+
 
 
 selesai

@@ -1,120 +1,121 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok5.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok76.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok112.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok41.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok92.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok370.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok329.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok108.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok37.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok194.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok344.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok168.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok135.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok64.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok192.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok191.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok326.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok235.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok389.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok233.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok232.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok260.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok107.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok36.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok148.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok267.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok308.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok285.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok305.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok258.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok121.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok50.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok380.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok161.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok245.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok211.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok354.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok5.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok76.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok300.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok380.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok302.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok280.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok121.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok50.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok14.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok167.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok316.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok85.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok305.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok291.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok329.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok3.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok381.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok179.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok108.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok37.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok194.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok196.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok105.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok34.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok130.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok59.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok211.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok354.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok330.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok375.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok332.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok299.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok279.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok245.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok131.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok60.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok119.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok48.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok21.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok92.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok314.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok349.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok312.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok313.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok233.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok264.txt
 
 searching dari query expansion
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok112.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok41.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok5.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok76.txt
+query hasil ekspansi = majapahit rtagama mada raja negara bhre daerah tulis m gajah
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok22.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok93.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
 
 query token : 
 tulis kitab negara kertagama 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 45 score = 7.0
 sentence 1: mereka dibantu oleh lima upapatti ( pembantu ) .
@@ -177,7 +178,7 @@ sentence 3: sebelum putri dyah pitaloka dan ayahnya beserta para pembesar keraja
 sentence 4: di sana terjadi perselisihan antara gajah mada yang menghendaki agar putri itu dipersembahkan oleh raja pajajaran kepada raja majapahit .
 sentence 5: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 45 score = 7.0
 sentence 1: mereka dibantu oleh lima upapatti ( pembantu ) .
@@ -240,7 +241,7 @@ sentence 3: sebelum putri dyah pitaloka dan ayahnya beserta para pembesar keraja
 sentence 4: di sana terjadi perselisihan antara gajah mada yang menghendaki agar putri itu dipersembahkan oleh raja pajajaran kepada raja majapahit .
 sentence 5: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 17 score = 7.75
 sentence 1: dikatakan babad tanah jawi dan serat kanda yang ditulis abad xvii dijaman mataram itu tanpa konsultasi sumber sejarah yang dapat dipercaya .
@@ -303,406 +304,437 @@ sentence 3: soalnya gajah mada sudah meninggal tahun 1364 masehi atau 1286 saka 
 sentence 4: penuturan buku “ dari panggung sejarah ” terjemahan ip simanjuntak yang bersumber dari tulisan h.j. van den berg ternyata juga runtuhnya majapahit bukan akibat serangan demak atau tentara islam .
 sentence 5: ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi majapahit tahun 1413 masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari gujarat dan malaka .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-title : bentuk bentuk kebudayaan hindu buddha yang masuk ke indonesia
-passage 32 score = 6.75
-sentence 1: tidak mustahil bahwa sekembalinya para pelajar ini ke sriwijaya maka mereka akan menyebarluaskan hasil pendidikannya tersebut kepada masyarakat sriwijaya dengan jalan membentuk asrama-asrama sebagai pusat pengajaran dan pendidikan agama buddha .
-sentence 2: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
-sentence 3: tujuannya adalah untuk bekerja sama dengan pendeta ho-ling yaitu jnanabhadra untuk menerjemahkan bagian terakhir kitab nirwanasutra .
-sentence 4: dari berita ini menunjukkan bahwa di jawa pun telah dikenal pendidikan agama buddha yang kemudian menjadi rujukan bagi pendeta yang berasal dari daerah lain untuk bersamasama mempelajari agama dengan pendeta yang berasal dari indonesia .
-sentence 5: d. pada prasasti turun hyang , yaitu prasasti yang dikeluarkan oleh raja airlangga menyebutkan tentang pembuatan sriwijaya asrama oleh raja airlangga .
-passage 1 score = 6.5
-sentence 1: bentuk bentuk kebudayaan hindu buddha yang masuk ke indonesia - masuknya kebudayaan india ke indonesia telah membawa pengaruh terhadap perkembangan kebudayaan di indonesia .
-sentence 2: bangsa indonesia yang sebelumnya memiliki kebudayaan asli , banyak mengadopsi dan mengembangkan budaya india dalam kehidupan sehari-hari .
-sentence 3: namun , masyarakat tidak begitu saja menerima budaya-budaya baru tersebut .
-sentence 4: kebudayaan yang datang dari india mengalami proses penyesuaian dengan kebudayaan yang ada di indonesia yang disebut dengan proses akulturasi kebudayaan .
-sentence 5: dalam bidang agama juga lahir sinkretisme , yaitu perpaduan antara agama hindu-buddha dengan kepercayaan yang telah ada dan berkembang di masyarakat indonesia pada saat itu .
-passage 2 score = 6.5
-sentence 1: dalam bidang agama juga lahir sinkretisme , yaitu perpaduan antara agama hindu-buddha dengan kepercayaan yang telah ada dan berkembang di masyarakat indonesia pada saat itu .
-sentence 2: sehingga agama hindu-buddha yang dianut oleh bangsa indonesia pada aman kerajaan-kerajaan sangat berbeda dengan agama hindu-buddha yang ada di india .
-sentence 3: masuknya agama hindu dan buddha tidak serta merta menghilangkan unsur budaya lama yang telah berkembang dalam masyarakat indonesia .
-sentence 4: salah satu contoh yang sangat mencolok dalam kehidupan masyarakat hindu di indonesia misalnya dalam sistem kasta .
-sentence 5: sistem kasta di indonesia yang mengadopsi dari agama hindu tidak sama dengan sistem kasta yang berkembang dari tanah kelahiran agama tersebut yaitu india .
-passage 5 score = 6.5
-sentence 1: pembuatan candi di india selalu menunjukkan fungsinya yang utama yaitu sebagai tempat peribadatan .
-sentence 2: sementara candi-candi yang terdapat di indonesia tidak hanya difungsikan sebagai tempat peribadatan tetapi juga tempat pemakaman raja atau orang-orang yang dimuliakan .
-sentence 3: hal ini tampaknya dipahami oleh masyarakat indonesia bahwa kata candi berasal dari nama durga sebagai dewi maut yaitu candika .
-sentence 4: dari kata candika menunjukkan bahwa candi merupakan tempat untuk memuliakan orang yang telah meninggal , khususnya untuk para raja dan orang-orang terkemuka .
-sentence 5: terdapat perbedaan fungsi candi antara agama hindu dan buddha .
-passage 11 score = 6.5
-sentence 1: tahap-tahap tersebut terdiri atas dua bagian yaitu dasyabodhisatwabhumi disebut tingkat lokattara ( tingkat di atas dunia ) , sebelum sampai ke tingkat lokattara lebih dahulu harus menjalani tingkat persiapan .
-sentence 2: tingkat persiapan tersebut terdiri atas dua tahap pula , yaitu sambharamarga dan prayogamarga .
-sentence 3: kedua tahap ini merupakan tahap kehidupan di dunia atau laukika .
-sentence 4: jadi dari paham tersebut dapat diterangkan bahwa candi borobudur yang bersifat lokattara dibangun di atas bukit , sedangkan candi mendut dan candi pawon yang bersifat laukika dan masing masing menggambarkan sambharamarga dan prayogamarga dibangun di atas permukaan bumi ( daerah pedataran ) .
-sentence 5: candi prambanan dikenal pula dengan .
-passage 31 score = 6.5
-sentence 1: b. prasasti nalanda yang dibuat pada sekitar pertengahan abad ke-9 , dan ditemukan di india .
-sentence 2: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
-sentence 3: berdasarkan prasasti tersebut , kita bisa melihat begitu besarnya perhatian raja sriwijaya terhadap pendidikan dan pengajaran agama buddha di kerajaannya .
-sentence 4: hal ini terlihat dengan dikirimkannya beberapa pelajar dari sriwijaya untuk belajar agama buddha langsung ke daerah kelahirannya yaitu india .
-sentence 5: tidak mustahil bahwa sekembalinya para pelajar ini ke sriwijaya maka mereka akan menyebarluaskan hasil pendidikannya tersebut kepada masyarakat sriwijaya dengan jalan membentuk asrama-asrama sebagai pusat pengajaran dan pendidikan agama buddha .
-passage 33 score = 6.5
-sentence 1: d. pada prasasti turun hyang , yaitu prasasti yang dikeluarkan oleh raja airlangga menyebutkan tentang pembuatan sriwijaya asrama oleh raja airlangga .
-sentence 2: sriwijaya asrama merupakan suatu tempat yang dibangun sebagai pusat pendidikan dan pengajaran keagamaan .
-sentence 3: hal ini menunjukkan besarnya perhatian raja airlangga terhadap pendidikan keagamaan bagi rakyatnya dengan memberikan fasilitas berupa pembuatan bangunan yang akan digunakan sebagai sarana pendidikan dan pengajaran .
-sentence 4: e. istilah surau yang digunakan oleh orang islam untuk menunjuk lembaga pendidikan islam tradisional di minangkabau sebenarnya berasal dari pengaruh hindu-buddha .
-sentence 5: surau merupakan tempat yang dibangun sebagai tempat beribadah orang hindu-buddha pada masa raja adityawarman .
-passage 39 score = 6.5
-sentence 1: hiasan relief candi penataran pada masa kediri mengambil epik kisah mahabharata .
-sentence 2: sementara itu , kisah mahabharata juga menjadi epik yang dipilih sebagai relief pada dua candi peninggalan kerajaan majapahit , yaitu candi tigawangi dan candi sukuh .
-sentence 3: seni arca dan patung , sebagai akibat akulturasi budaya pemujaan arwah leluhur dengan agama hindu-buddha maka beberapa keluarga raja diperdewa dalam bentuk arca yang ditempatkan di candi makam .
-sentence 4: arcaarca dewa tersebut dipercaya merupakan lambang keluarga raja yang dicandikan dan tidak mustahil termasuk di dalamnya kepribadian dan watak dari keluarga raja tersebut .
-sentence 5: oleh karena itu , arca dewa tersebut sering diidentikkan dengan arca keluarga raja .
-passage 42 score = 6.5
-sentence 1: f. arca ganesa , yaitu dewa yang berkepala gajah sebagai dewa ilmu pengetahuan .
-sentence 2: seni pertunjukan , terutama seni wayang sampai sekarang merupakan salah satu bentuk seni yang masih populer di kalangan masyarakat indonesia .
-sentence 3: seni wayang beragam bentuknya seperti wayang kulit , wayang golek , dan wayang orang .
-sentence 4: seni pertunjukan wayang tampaknya telah dikenal oleh bangsa indonesia sejak aman prasejarah .
-sentence 5: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-passage 43 score = 6.5
-sentence 1: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-sentence 2: kedatangan arwah nenek moyang diwujudkan dalam bentuk bayangan dari sebuah wayang yang terbuat dari kulit .
-sentence 3: lakon wayang pada masa ini lebih banyak menceritakan tentang kepahlawanan dan petualangan nenek moyang , seperti lakon-lakon “ dewi sri ” atau “ murwakala ” .
-sentence 4: pertunjukan wayang diadakan pada malam hari di tempattempat yang dianggap keramat .
-sentence 5: pada masa hindu-buddha , kebudayaan pertunjukan wayang ini terus dilanjutkan dan lebih berkembang lagi dengan cerita-cerita yang lebih kaya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-title : pengaruh kebudayaan hindu-buddha terhadap seni sastra
-passage 3 score = 6.75
-sentence 1: kitab ini terdiri atas tujuh jilid ( kanda ) dan digubah dalam bentuk syair sebanyak 24.000 seloka .
-sentence 2: kitab ini berisi perjuangan rama dalam merebut kembali istrinya , dewi sinta ( sita ) , yang diculik oleh rahwana .
-sentence 3: dalam perjuangannya , rama yang selalu ditemani laksmana ( adiknya ) itu mendapat bantuan dari pasukan kera yang dipimpin oleh sugriwa .
-sentence 4: selain itu , rama juga dibantu oleh gunawan wibhisana , adik rahwana yang diusir oleh kakaknya karena bermaksud membela kebenaran ( rama ) .
-sentence 5: perjuangan tersebut menimbulkan peperangan besar dan banyak korban berjatuhan .
-passage 4 score = 6.5
-sentence 1: perjuangan tersebut menimbulkan peperangan besar dan banyak korban berjatuhan .
-sentence 2: di akhir cerita , rahwana beserta anak buahnya gugur dan dewi sinta kembali kepada rama .
-sentence 3: akulturasi di bidang sastra dapat dilihat pada adanya modifikasi cerita-cerita asli india dengan unsur tokoh-tokoh indonesia serta peristiwa-peristiwa yang seolah-olah terjadi di indonesia .
-sentence 4: contohnya adalah penambahan tokoh punakawan ( semar , bagong , gareng , petruk ) dalam kisah mahabharata .
-sentence 5: bahkan , dalam literatur-literatur keagamaan hindu-buddha di indonesia sulit kita temukan cerita asli seperti yang ada di negeri asalnya .
-passage 1 score = 6.25
-sentence 1: pengaruh kebudayaan hindu-buddha terhadap seni sastra – wiracarita atau kisah kepahlawanan india yang memasyarakat di indonesia dan memengaruhi kehidupan serta perkembangan sosial budaya adalah cerita mahabharata dan ramayana .
-sentence 2: kitab mahabharataterdiri atas delapan belas jilid ( parwa ) .
-sentence 3: setiap jilid terbagi lagi menjadi beberapa bagian ( juga disebut parwa ) yang digubah dalam bentuk syair .
-sentence 4: cerita pokoknya meliputi 24.000 seloka .
-sentence 5: sebagian besar isi kitab ini menceritakan peperangan sengit selama delapan hari antara pandawa dan kurawa .
-passage 2 score = 6.25
-sentence 1: sebagian besar isi kitab ini menceritakan peperangan sengit selama delapan hari antara pandawa dan kurawa .
-sentence 2: kata mahabharatayudha sendiri berarti peperangan besar antarkeluarga bharata .
-sentence 3: menurut cerita , kitab ini dihimpun oleh wiyasa dwipayana .
-sentence 4: akan tetapi , para ahli sejarah beranggapan bahwa lebih masuk akal jika kitab itu merupakan kumpulan berbagai cerita brahmana antara tahun 400 sm sampai 400 m. kitab ramayanadikarang oleh walmiki .
-sentence 5: kitab ini terdiri atas tujuh jilid ( kanda ) dan digubah dalam bentuk syair sebanyak 24.000 seloka .
-passage 5 score = 1.0
-sentence 1: bahkan , dalam literatur-literatur keagamaan hindu-buddha di indonesia sulit kita temukan cerita asli seperti yang ada di negeri asalnya .
-sentence 2: pengaruh kebudayaan india yang dipertahankan dalam kesusastraan adalah gagasan , konsep , dan pandangan-pandangannya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok112.txt
-title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
-passage 5 score = 6.0
-sentence 1: menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
-sentence 2: kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di indonesia .
-sentence 3: salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa masyarakat india telah mengenal beberapa tempat di indonesia pada abad ke-3 masehi .
-sentence 4: dalam kitab geographike yang ditulis pada abad ke-2 juga disebutkan telah ada hubungan dagang antara india dan indonesia .
-sentence 5: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
-passage 8 score = 6.0
-sentence 1: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
-sentence 2: dalam kitabnya yang berjudul geographike yang ditulis pada abad ke-2 , ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
-sentence 3: mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
-sentence 4: dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
-sentence 5: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
-passage 9 score = 6.0
-sentence 1: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
-sentence 2: sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara indonesia dengan india dan cina , antara lain sebagai berikut .
-sentence 3: 1 ) prasasti prasasti-prasasti tertua di indonesia yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
-sentence 4: demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di jawa barat .
-sentence 5: semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
-passage 3 score = 5.75
-sentence 1: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
-sentence 2: proses percampuran antara dua atau lebih kebudayaan yang saling bertemu dan mempengaruhi itu disebut akulturasi kebudayaan .
-sentence 3: adanya hubungan dagang pada awal abad tarikh masehi , didasarkan adanya sumber-sumber baik luar negeri maupun dalam negeri .
-sentence 4: a. sumber dari luar negeri 1 ) sumber dari india menurut van leur dan wolters , kegiatan hubungan dagang indonesia dengan bangsa-bangsa asia pertama kali dilakukan dengan india , kemudian cina .
-sentence 5: bukti adanya hubungan dagang tersebut dapat diketahui dari kitab jataka dan kitab ramayana .
-passage 6 score = 5.75
-sentence 1: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
-sentence 2: 2 ) sumber dari cina kontak hubungan indonesia dengan cina diperkirakan telah berkembang pada abad ke-5 .
-sentence 3: bukti-bukti yang memperkuat hubungan itu di antaranya adalah perjalanan seorang pendeta buddha , fa hien .
-sentence 4: pada sekitar tahun 413 m , fa hien melakukan perjalanan dari india ke ye-po-ti ( tarumanegara ) dan kembali ke cina melalui jalur laut .
-sentence 5: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
-passage 1 score = 5.5
-sentence 1: pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha .
-sentence 2: - agama dan kebudayaan hindu – budha lahir dan berkembang di india .
-sentence 3: agama dan kebudayaan hindu – budha mewarnai kehidupan sosial , budaya , ekonomi , dan politik masyarakat india .
-sentence 4: agama dan kebudayaan hindu di india mencapai puncak kejayaan semasa pemerintahan candragupta dari dinasti maurya .
-sentence 5: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
-passage 2 score = 5.5
-sentence 1: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
-sentence 2: dari india , agama dan kebudayaan hindu – budha kemudian berkembang ke asia selatan , asia timur dan asia tenggara termasuk juga ke indonesia .
-sentence 3: pada awal abad tarikh masehi , negeri kepulauan nusantara telah menjalin hubungan dengan bangsa-bangsa di asia .
-sentence 4: bentuk hubungan dagang yang berlangsung pada saat itu bermula dari kegiatan perdagangan dan pelayaran .
-sentence 5: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
-passage 7 score = 5.5
-sentence 1: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
-sentence 2: berdasarkan bukti-bukti tersebut dapat disimpulkan bahwa pada abad ke-5 telah dilakukan hubungan perdagangan dan pelayaran secara langsung antara indonesia dan cina .
-sentence 3: barang-barang yang diperdagangkan dari cina berupa sutra , kertas , kulit binatang berbulu , kulit manis , dan barang-barang porselin .
-sentence 4: barang-barang dagangan dari india berupa ukiran , gading , perhiasan , kain tenun , gelas , permata , dan wol halus yang ditukar dengan komoditas dari indonesia seperti rempah-rempah , emas , dan perak .
-sentence 5: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
-passage 11 score = 5.5
-sentence 1: banyak peninggalan bangunan-bangunan kuno yang bercorak hindu atau buddha di indonesia .
-sentence 2: demikian juga benda-benda peninggalan dinasti-dinasti cina .
-sentence 3: hal ini menunjukkan adanya hubungan antara indonesia , india , dan cina .
-sentence 4: hubungan dagang indonesia dengan india dan cina telah menempatkan indonesia di kancah perdagangan dan pelayaran masa kuno .
-sentence 5: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
-passage 12 score = 5.5
-sentence 1: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
-sentence 2: hal itu disebabkan dalam perkembangan selanjutnya , para pedagang india di samping berdagang , mereka juga menyebarkan agama dan kebudayaan hindu – buddha .
-sentence 3: para brahmana atau pendeta dengan ikut para pedagang berlayar , mereka singgah di daerah-daerah untuk menyebarkan agama dan kebudayaan hindu dan buddha .
-sentence 4: dengan demikian , hubungan dagang dengan india telah memunculkan perubahan besar dalam tatanan kehidupan bangsa indonesia , baik di bidang sosial , budaya , maupun politik sebagai dampak dari persebaran agama dan kebudayaan hindu – buddha .
-sentence 5: terbukti di indonesia muncullah kerajaan-kerajaan yang bercorak hindu dan buddha yang tersebar di berbagai daerah di indonesia , seperti kalimantan , jawa , sumatera , dan bali .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok41.txt
-title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
-passage 5 score = 6.0
-sentence 1: menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
-sentence 2: kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di indonesia .
-sentence 3: salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa masyarakat india telah mengenal beberapa tempat di indonesia pada abad ke-3 masehi .
-sentence 4: dalam kitab geographike yang ditulis pada abad ke-2 juga disebutkan telah ada hubungan dagang antara india dan indonesia .
-sentence 5: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
-passage 8 score = 6.0
-sentence 1: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
-sentence 2: dalam kitabnya yang berjudul geographike yang ditulis pada abad ke-2 , ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
-sentence 3: mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
-sentence 4: dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
-sentence 5: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
-passage 9 score = 6.0
-sentence 1: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
-sentence 2: sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara indonesia dengan india dan cina , antara lain sebagai berikut .
-sentence 3: 1 ) prasasti prasasti-prasasti tertua di indonesia yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
-sentence 4: demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di jawa barat .
-sentence 5: semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
-passage 3 score = 5.75
-sentence 1: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
-sentence 2: proses percampuran antara dua atau lebih kebudayaan yang saling bertemu dan mempengaruhi itu disebut akulturasi kebudayaan .
-sentence 3: adanya hubungan dagang pada awal abad tarikh masehi , didasarkan adanya sumber-sumber baik luar negeri maupun dalam negeri .
-sentence 4: a. sumber dari luar negeri 1 ) sumber dari india menurut van leur dan wolters , kegiatan hubungan dagang indonesia dengan bangsa-bangsa asia pertama kali dilakukan dengan india , kemudian cina .
-sentence 5: bukti adanya hubungan dagang tersebut dapat diketahui dari kitab jataka dan kitab ramayana .
-passage 6 score = 5.75
-sentence 1: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
-sentence 2: 2 ) sumber dari cina kontak hubungan indonesia dengan cina diperkirakan telah berkembang pada abad ke-5 .
-sentence 3: bukti-bukti yang memperkuat hubungan itu di antaranya adalah perjalanan seorang pendeta buddha , fa hien .
-sentence 4: pada sekitar tahun 413 m , fa hien melakukan perjalanan dari india ke ye-po-ti ( tarumanegara ) dan kembali ke cina melalui jalur laut .
-sentence 5: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
-passage 1 score = 5.5
-sentence 1: pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha .
-sentence 2: - agama dan kebudayaan hindu – budha lahir dan berkembang di india .
-sentence 3: agama dan kebudayaan hindu – budha mewarnai kehidupan sosial , budaya , ekonomi , dan politik masyarakat india .
-sentence 4: agama dan kebudayaan hindu di india mencapai puncak kejayaan semasa pemerintahan candragupta dari dinasti maurya .
-sentence 5: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
-passage 2 score = 5.5
-sentence 1: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
-sentence 2: dari india , agama dan kebudayaan hindu – budha kemudian berkembang ke asia selatan , asia timur dan asia tenggara termasuk juga ke indonesia .
-sentence 3: pada awal abad tarikh masehi , negeri kepulauan nusantara telah menjalin hubungan dengan bangsa-bangsa di asia .
-sentence 4: bentuk hubungan dagang yang berlangsung pada saat itu bermula dari kegiatan perdagangan dan pelayaran .
-sentence 5: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
-passage 7 score = 5.5
-sentence 1: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
-sentence 2: berdasarkan bukti-bukti tersebut dapat disimpulkan bahwa pada abad ke-5 telah dilakukan hubungan perdagangan dan pelayaran secara langsung antara indonesia dan cina .
-sentence 3: barang-barang yang diperdagangkan dari cina berupa sutra , kertas , kulit binatang berbulu , kulit manis , dan barang-barang porselin .
-sentence 4: barang-barang dagangan dari india berupa ukiran , gading , perhiasan , kain tenun , gelas , permata , dan wol halus yang ditukar dengan komoditas dari indonesia seperti rempah-rempah , emas , dan perak .
-sentence 5: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
-passage 11 score = 5.5
-sentence 1: banyak peninggalan bangunan-bangunan kuno yang bercorak hindu atau buddha di indonesia .
-sentence 2: demikian juga benda-benda peninggalan dinasti-dinasti cina .
-sentence 3: hal ini menunjukkan adanya hubungan antara indonesia , india , dan cina .
-sentence 4: hubungan dagang indonesia dengan india dan cina telah menempatkan indonesia di kancah perdagangan dan pelayaran masa kuno .
-sentence 5: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
-passage 12 score = 5.5
-sentence 1: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
-sentence 2: hal itu disebabkan dalam perkembangan selanjutnya , para pedagang india di samping berdagang , mereka juga menyebarkan agama dan kebudayaan hindu – buddha .
-sentence 3: para brahmana atau pendeta dengan ikut para pedagang berlayar , mereka singgah di daerah-daerah untuk menyebarkan agama dan kebudayaan hindu dan buddha .
-sentence 4: dengan demikian , hubungan dagang dengan india telah memunculkan perubahan besar dalam tatanan kehidupan bangsa indonesia , baik di bidang sosial , budaya , maupun politik sebagai dampak dari persebaran agama dan kebudayaan hindu – buddha .
-sentence 5: terbukti di indonesia muncullah kerajaan-kerajaan yang bercorak hindu dan buddha yang tersebar di berbagai daerah di indonesia , seperti kalimantan , jawa , sumatera , dan bali .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-title : perkembangan dan budaya buddha
-passage 9 score = 5.25
-sentence 1: raja ashoka sadar dari kekeliruannya dan masuk agama buddha .
-sentence 2: bahkan , ia menjadi raja yang saleh dan menetapkan agama buddha sebagai agama negara .
-sentence 3: ia pun mengajarkan ahimsa , yaitu larangan membunuh dan melukai makhluk .
-sentence 4: berkat raja ini , agama buddha dapat disiarkan ke seluruh dunia .
-passage 1 score = 0.5
-sentence 1: perkembangan dan budaya buddha – ketika agama hindu mengalami kemunduran , muncullah agama buddha di india yang disiarkan oleh siddharta gautama .
-sentence 2: ajaran buddha ditulis dalam kitab suci tripitakayang berarti tiga keranjang atau tiga himpunan nikmat .
-sentence 3: isi kitab suci tripitaka sebagai berikut .
-sentence 4: 1 .
-sentence 5: suttapitaka , berisikan himpunan ajaran dan khotbah buddha .
-passage 2 score = 0.25
-sentence 1: suttapitaka , berisikan himpunan ajaran dan khotbah buddha .
-sentence 2: bagian terbesar adalah percakapan antara buddha dan beberapa orang muridnya .
-sentence 3: di dalamnya terdapat pula kitab meditasi dan peribadatan .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+passage 16 score = 6.75
+sentence 1: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
+sentence 2: b. struktur pemerintahan majapahit yang mirip dengan sistem negara serikat pada masa modern dan banyaknya kebebasan yang diberikan kepada daerah memudahkan wilayah-wilayah jajahan untuk melepaskan diri begitu diketahui bahwa di pusat pemerintahan sedang kosong kekuasaan .
+sentence 3: c. terjadinya perang saudara , di antaranya yang terkenal adalah perang paregreg ( 1401-1406 ) yang dilakukan oleh bhre wirabhumi melawan pusat kerajaan majapahit .
+sentence 4: bhre wirabhumi diberi kekuasaan di wilayah blambangan .
+sentence 5: namun , ia berambisi untuk menjadi raja majapahit .
+passage 24 score = 6.75
+sentence 1: kerajaan majapahit berdiri tahun 1293 oleh raden wijaya .
+sentence 2: raja-rajanya adalah raden wijaya , jayanegara , tribhuwanatunggadewi , hayam wuruk , wikramawardhana , suhita , dan brawijaya .
+sentence 3: kejayaan majapahit terjadi pada masa hayam wuruk dan patih gajah mada .
+passage 9 score = 6.5
+sentence 1: bukti mengenai kemunduran ekonomi dan perdagangan sriwijaya dapat diketahui dari berita chou ku-fei tahun 1178 .
+sentence 2: berita tersebut menyatakan bahwa harga barang-barang dari sriwijaya mahal karena rupanya tidak lagi menghasilkan hasil-hasil alamnya .
+sentence 3: untuk mencegah kemunduran ekonomi dan perdagangan , kerajaan sriwijaya kemudian membuat peraturan cukai yang lebih berat bagi kapal dagang yang singgah ke daerah pelabuhannya .
+sentence 4: kemunduran sriwijaya di bidang perdagangan dan politik dipercepat oleh usaha-usaha kerajaan singasari untuk memperkecil kekuasaan sriwijaya dengan mengadakan ekspedisi pamalayu pada tahun 1275 .
+sentence 5: usaha tersebut dimanfaatkan oleh daerah-daerah lain untuk melepaskan diri dari kekuasaan sriwijaya .
+passage 10 score = 6.5
+sentence 1: usaha tersebut dimanfaatkan oleh daerah-daerah lain untuk melepaskan diri dari kekuasaan sriwijaya .
+sentence 2: sejalan dengan itu para pedagang muslim ( mungkin disertai para mubalignya pula ) mempergunakan kesempatan ini untuk memperoleh keuntungan dari perdagangan dan politik .
+sentence 3: mereka mendukung daerah-daerah yang melepaskan diri tersebut dan memunculkan kekuatan-kekuatan baru berupa kerajaan-kerajaan bercorak islam , seperti samudra pasai yang terletak di pesisir timur laut aceh , termasuk kabupaten aceh utara dekat lhokseumawe .
 sentence 4: 2 .
-sentence 5: winayapitaka , berisikan tata hidup setiap anggota biara ( sangha ) .
-passage 3 score = 0.0
-sentence 1: winayapitaka , berisikan tata hidup setiap anggota biara ( sangha ) .
-sentence 2: 3 .
-sentence 3: abhidharmapitaka , ditujukan bagi lapisan terpelajar dalam agama buddha sebab merupakan pelajaran lanjutan .
-sentence 4: ada empat tempat yang dianggap suci dalam agama buddha .
-sentence 5: 1 .
-passage 4 score = 0.0
+sentence 5: penyebab runtuhnya kerajaan mataram kuno peranan kerajaan mataram kuno di jawa tengah mundur ketika pusat kekuasaannya pindah dari jawa tengah ke jawa timur .
+passage 11 score = 6.5
+sentence 1: penyebab runtuhnya kerajaan mataram kuno peranan kerajaan mataram kuno di jawa tengah mundur ketika pusat kekuasaannya pindah dari jawa tengah ke jawa timur .
+sentence 2: ada beberapa pendapat mengenai pemindahan pusat kerajaan ini .
+sentence 3: pendapat lama mengatakan bahwa pemindahan pusat kerajaan ini sehubungan dengan adanya bencana alam berupa banjir atau gunung meletus atau adanya wabah penyakit .
+sentence 4: namun , pendapat ini tidak dapat dibuktikan sebab tidak didukung oleh bukti-bukti sejarah .
+sentence 5: pendapat lain menyebutkan bahwa rakyat menyingkir ke jawa timur akibat adanya paksaan terhadap para penganut hindu untuk membangun candi buddha .
+passage 17 score = 6.5
+sentence 1: namun , ia berambisi untuk menjadi raja majapahit .
+sentence 2: dalam cerita rakyat , bhre wirabhumi dikenal sebagai minak jingga yang dikalahkan oleh raden gajah atau damarwulan .
+sentence 3: selain perang saudara , terjadi juga usaha memisahkan diri yang dilakukan girindrawardhana dari kediri ( 1478 ) .
+sentence 4: d. masuknya agama islam sejak zaman kerajaan kediri di jawa timur menimbulkan kekuatan baru yang menentang kekuasaan majapahit .
+sentence 5: banyak bupati di wilayah pantai yang masuk islam karena kepentingan dagang dan berbalik melawan majapahit .
+passage 18 score = 6.5
+sentence 1: banyak bupati di wilayah pantai yang masuk islam karena kepentingan dagang dan berbalik melawan majapahit .
+sentence 2: penting untuk diingat 1 .
+sentence 3: kerajaan kutai berdiri pada abad ke-5 .
+sentence 4: raja-raja yang pernah berkuasa adalah kudungga , asmawarman , dan mulawarman .
+sentence 5: 2 .
+passage 8 score = 6.25
+sentence 1: berita cina dari zaman dinasti tang menyebutkan bahwa pada abad ke-7 , di kanton dan sumatra sudah ada orang muslim .
+sentence 2: hal ini berkaitan dengan perkembangan perdagangan dan pelayaran yang bersifat internasional antara negara-negara asia barat dan asia timur , yaitu antara kerajaan islam bani umayyah , kerajaan cina dinasti tang , dan kerajaan sriwijaya .
+sentence 3: pada abad ke-7 sampai ke-12 masehi , kerajaan sriwijaya memang memegang peranan penting di bidang ekonomi dan perdagangan untuk daerah asia tenggara .
+sentence 4: namun pada abad ke-12 , peranan tersebut mulai menunjukkan kemunduran .
+sentence 5: bukti mengenai kemunduran ekonomi dan perdagangan sriwijaya dapat diketahui dari berita chou ku-fei tahun 1178 .
+passage 12 score = 6.25
+sentence 1: pendapat lain menyebutkan bahwa rakyat menyingkir ke jawa timur akibat adanya paksaan terhadap para penganut hindu untuk membangun candi buddha .
+sentence 2: pendapat baru menyebutkan dua faktor berikut .
+sentence 3: a. keadaan alam bumi mataram yang tertutup secara alamiah berakibat negara ini sulit berkembang .
+sentence 4: sementara , keadaan alam jawa timur lebih terbuka untuk perdagangan luar , tidak ada pegunungan atau gunung yang merintangi , bahkan didukung adanya sungai bengawan solo dan brantas yang memperlancar lalu lintas dari pedalaman ke pantai .
+sentence 5: apalagi , alam jawa timur belum banyak diusahakan sehingga tanahnya lebih subur dibandingkan dengan tanah di jawa tengah .
+passage 23 score = 6.25
+sentence 1: 7 .
+sentence 2: kerajaan singasari didirikan oleh ken arok pada tahun 1222 setelah mengalahkan kertajaya ( kediri ) .
+sentence 3: singasari mengalami kejayaan pada masa kertanegara dan runtuh pada tahun 1292 setelah dikalahkan oleh jayakatwang ( kediri ) .
+sentence 4: 8 .
+sentence 5: kerajaan majapahit berdiri tahun 1293 oleh raden wijaya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+passage 16 score = 6.75
+sentence 1: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
+sentence 2: b. struktur pemerintahan majapahit yang mirip dengan sistem negara serikat pada masa modern dan banyaknya kebebasan yang diberikan kepada daerah memudahkan wilayah-wilayah jajahan untuk melepaskan diri begitu diketahui bahwa di pusat pemerintahan sedang kosong kekuasaan .
+sentence 3: c. terjadinya perang saudara , di antaranya yang terkenal adalah perang paregreg ( 1401-1406 ) yang dilakukan oleh bhre wirabhumi melawan pusat kerajaan majapahit .
+sentence 4: bhre wirabhumi diberi kekuasaan di wilayah blambangan .
+sentence 5: namun , ia berambisi untuk menjadi raja majapahit .
+passage 24 score = 6.75
+sentence 1: kerajaan majapahit berdiri tahun 1293 oleh raden wijaya .
+sentence 2: raja-rajanya adalah raden wijaya , jayanegara , tribhuwanatunggadewi , hayam wuruk , wikramawardhana , suhita , dan brawijaya .
+sentence 3: kejayaan majapahit terjadi pada masa hayam wuruk dan patih gajah mada .
+passage 9 score = 6.5
+sentence 1: bukti mengenai kemunduran ekonomi dan perdagangan sriwijaya dapat diketahui dari berita chou ku-fei tahun 1178 .
+sentence 2: berita tersebut menyatakan bahwa harga barang-barang dari sriwijaya mahal karena rupanya tidak lagi menghasilkan hasil-hasil alamnya .
+sentence 3: untuk mencegah kemunduran ekonomi dan perdagangan , kerajaan sriwijaya kemudian membuat peraturan cukai yang lebih berat bagi kapal dagang yang singgah ke daerah pelabuhannya .
+sentence 4: kemunduran sriwijaya di bidang perdagangan dan politik dipercepat oleh usaha-usaha kerajaan singasari untuk memperkecil kekuasaan sriwijaya dengan mengadakan ekspedisi pamalayu pada tahun 1275 .
+sentence 5: usaha tersebut dimanfaatkan oleh daerah-daerah lain untuk melepaskan diri dari kekuasaan sriwijaya .
+passage 10 score = 6.5
+sentence 1: usaha tersebut dimanfaatkan oleh daerah-daerah lain untuk melepaskan diri dari kekuasaan sriwijaya .
+sentence 2: sejalan dengan itu para pedagang muslim ( mungkin disertai para mubalignya pula ) mempergunakan kesempatan ini untuk memperoleh keuntungan dari perdagangan dan politik .
+sentence 3: mereka mendukung daerah-daerah yang melepaskan diri tersebut dan memunculkan kekuatan-kekuatan baru berupa kerajaan-kerajaan bercorak islam , seperti samudra pasai yang terletak di pesisir timur laut aceh , termasuk kabupaten aceh utara dekat lhokseumawe .
+sentence 4: 2 .
+sentence 5: penyebab runtuhnya kerajaan mataram kuno peranan kerajaan mataram kuno di jawa tengah mundur ketika pusat kekuasaannya pindah dari jawa tengah ke jawa timur .
+passage 11 score = 6.5
+sentence 1: penyebab runtuhnya kerajaan mataram kuno peranan kerajaan mataram kuno di jawa tengah mundur ketika pusat kekuasaannya pindah dari jawa tengah ke jawa timur .
+sentence 2: ada beberapa pendapat mengenai pemindahan pusat kerajaan ini .
+sentence 3: pendapat lama mengatakan bahwa pemindahan pusat kerajaan ini sehubungan dengan adanya bencana alam berupa banjir atau gunung meletus atau adanya wabah penyakit .
+sentence 4: namun , pendapat ini tidak dapat dibuktikan sebab tidak didukung oleh bukti-bukti sejarah .
+sentence 5: pendapat lain menyebutkan bahwa rakyat menyingkir ke jawa timur akibat adanya paksaan terhadap para penganut hindu untuk membangun candi buddha .
+passage 17 score = 6.5
+sentence 1: namun , ia berambisi untuk menjadi raja majapahit .
+sentence 2: dalam cerita rakyat , bhre wirabhumi dikenal sebagai minak jingga yang dikalahkan oleh raden gajah atau damarwulan .
+sentence 3: selain perang saudara , terjadi juga usaha memisahkan diri yang dilakukan girindrawardhana dari kediri ( 1478 ) .
+sentence 4: d. masuknya agama islam sejak zaman kerajaan kediri di jawa timur menimbulkan kekuatan baru yang menentang kekuasaan majapahit .
+sentence 5: banyak bupati di wilayah pantai yang masuk islam karena kepentingan dagang dan berbalik melawan majapahit .
+passage 18 score = 6.5
+sentence 1: banyak bupati di wilayah pantai yang masuk islam karena kepentingan dagang dan berbalik melawan majapahit .
+sentence 2: penting untuk diingat 1 .
+sentence 3: kerajaan kutai berdiri pada abad ke-5 .
+sentence 4: raja-raja yang pernah berkuasa adalah kudungga , asmawarman , dan mulawarman .
+sentence 5: 2 .
+passage 8 score = 6.25
+sentence 1: berita cina dari zaman dinasti tang menyebutkan bahwa pada abad ke-7 , di kanton dan sumatra sudah ada orang muslim .
+sentence 2: hal ini berkaitan dengan perkembangan perdagangan dan pelayaran yang bersifat internasional antara negara-negara asia barat dan asia timur , yaitu antara kerajaan islam bani umayyah , kerajaan cina dinasti tang , dan kerajaan sriwijaya .
+sentence 3: pada abad ke-7 sampai ke-12 masehi , kerajaan sriwijaya memang memegang peranan penting di bidang ekonomi dan perdagangan untuk daerah asia tenggara .
+sentence 4: namun pada abad ke-12 , peranan tersebut mulai menunjukkan kemunduran .
+sentence 5: bukti mengenai kemunduran ekonomi dan perdagangan sriwijaya dapat diketahui dari berita chou ku-fei tahun 1178 .
+passage 12 score = 6.25
+sentence 1: pendapat lain menyebutkan bahwa rakyat menyingkir ke jawa timur akibat adanya paksaan terhadap para penganut hindu untuk membangun candi buddha .
+sentence 2: pendapat baru menyebutkan dua faktor berikut .
+sentence 3: a. keadaan alam bumi mataram yang tertutup secara alamiah berakibat negara ini sulit berkembang .
+sentence 4: sementara , keadaan alam jawa timur lebih terbuka untuk perdagangan luar , tidak ada pegunungan atau gunung yang merintangi , bahkan didukung adanya sungai bengawan solo dan brantas yang memperlancar lalu lintas dari pedalaman ke pantai .
+sentence 5: apalagi , alam jawa timur belum banyak diusahakan sehingga tanahnya lebih subur dibandingkan dengan tanah di jawa tengah .
+passage 23 score = 6.25
+sentence 1: 7 .
+sentence 2: kerajaan singasari didirikan oleh ken arok pada tahun 1222 setelah mengalahkan kertajaya ( kediri ) .
+sentence 3: singasari mengalami kejayaan pada masa kertanegara dan runtuh pada tahun 1292 setelah dikalahkan oleh jayakatwang ( kediri ) .
+sentence 4: 8 .
+sentence 5: kerajaan majapahit berdiri tahun 1293 oleh raden wijaya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok22.txt
+title : sejarah kerajaan bali (kehidupan politik ekonomi sosial budaya dan kepercayaan)
+passage 6 score = 5.5
+sentence 1: pernikahannya dengan gunapriya menghasilkan tiga orang putra yaitu , airlangga yang menikah dengan putri dharmawangsa ( raja jawa timur ) , marakata , dan anak wungsu .
+sentence 2: airlangga tidak memerintah di bali , ia menjadi raja di jawa timur .
+sentence 3: anak udayana yang memerintah di bali , yaitu marakata memerintah dari tahun 1011-1022 , ia bergelar dharmawangsawardhana marakata pangkajasthana uttuganggadewa .
+sentence 4: masa pemerintahan marakata bersamaan dengan masa pemerintahan airlangga di jawa timur .
+sentence 5: marakata adalah raja yang sangat memperhatikan kehidupan rakyatnya , sehingga ia dicintai dan dihormati oleh rakyatnya .
+passage 7 score = 5.5
+sentence 1: marakata adalah raja yang sangat memperhatikan kehidupan rakyatnya , sehingga ia dicintai dan dihormati oleh rakyatnya .
+sentence 2: untuk kepentingan peribadatan , ia membangun prasada atau bangunan suci di gunung kawi daerah tampak siring , bali .
+sentence 3: marakata digantikan oleh adiknya anak wungsu , yang memerintah dari tahun 1049-1077 .
+sentence 4: pada masa pemerintahannya , keadaan negeri sangat aman dan tenteram .
+sentence 5: rakyat hidup dengan bercocok tanam , seperti padi gaga , kelapa , enau , pinang , bambu , dan kemiri .
+passage 9 score = 5.5
+sentence 1: beberapa raja yang memerintah kerajaan bali setelah anak wungsu , diantaranya sri maharaja sri walaprahu , sri maharaja sri sakalendukirana , sri suradhipa , sri jayasakti , ragajaya , dan yang lain sampai pada paduka bhatara sri asta asura ratna sebagai raja terakhir bali .
+sentence 2: sebab pada tahun 1430 m , bali ditaklukkan oleh gajah mada dari kerajaan majapahit .
+sentence 3: sejak bali ditaklukkan oleh majapahit , kerajaan di bali diperintah oleh raja-raja yang berasal dari keturunan jawa ( jawa timur ) .
+sentence 4: oleh karena itu , raja-raja yang memerintah selanjutnya menganggap dirinya sebagai wong majapahit artinya keturunan majapahit .
+sentence 5: 2 .
+passage 12 score = 5.5
+sentence 1: 4 .
+sentence 2: kepercayaan kerajaan bali masyarakat bali banyak mendapat pengaruh dari kebudayaan india , terutama hindu .
+sentence 3: sampai sekarang , masyarakat bali masih banyak yang menganut agama hindu .
+sentence 4: namun demikian , agama hindu yang mereka anut telah bercampur dengan budaya masyarakat asli bali sebelum hindu .
+sentence 5: masyarakat bali sebelum hindu merupakan kelompok masyarakat yang terikat oleh hubungan keluarga dan memuja roh-roh nenek moyang yang mereka anggap dapat menolong dan melindungi kehidupan keluarga yang masih hidup .
+passage 13 score = 5.5
+sentence 1: masyarakat bali sebelum hindu merupakan kelompok masyarakat yang terikat oleh hubungan keluarga dan memuja roh-roh nenek moyang yang mereka anggap dapat menolong dan melindungi kehidupan keluarga yang masih hidup .
+sentence 2: melalui proses sinkretisme ini , lahirlah agama hindu bali yang bernama hindu dharma .
+passage 1 score = 5.25
+sentence 1: sejarah kerajaan bali ( kehidupan politik ekonomi sosial budaya dan kepercayaan ) a. kehidupan politik kerajaan bali nama bali sudah lama dikenal dalam beberapa sumber kuno .
+sentence 2: dalam berita cina abad ke-7 disebut adanya nama daerah yang bernama dwapa - tan , yang terletak di sebelah timur kerajaan holing ( jawa ) .
+sentence 3: menurut para ahli nama dwa-pa-tan ini sama dengan bali .
+sentence 4: adat istiadat penduduk dwapa - tan ini sama dengan di holing , yaitu setiap bulan padi sudah dipetik , penduduknya menulis dengan daun lontar , orang yang meninggal dihiasi dengan emas , dan ke dalam mulutnya dimasukkan sepotong emas serta diberi harumharuman , kemudian mayat itu dibakar .
+sentence 5: berdasarkan prasasti-prasasti yang ditemukan , pengaruh buddha datang terlebih dahulu dibandingkan dengan pengaruh hindu .
+passage 3 score = 5.25
+sentence 1: prasasti yang menceritakan raja yang berkuasa di bali ditemukan di desa blanjong , dekat sanur .
+sentence 2: dalam prasasti ini disebutkan bahwa raja yang bernama khesari warmadewa , istananya terletak di sanghadwala .
+sentence 3: prasasti ini ditulis dengan huruf nagari ( india ) dan sebagian lagi berhuruf bali kuno , tetapi berbahasa sanskerta .
+sentence 4: prasasti ini berangka tahun 914 m ( 836 saka ) , dalam candrasengkala berbunyi khecara-wahni-murti .
+sentence 5: raja selanjutnya yang berkuasa adalah adalah ugrasena pada tahun 915 m. ugrasena digantikan oleh tabanendra warmadewa ( 955-967 m ) .
+passage 2 score = 5.0
+sentence 1: berdasarkan prasasti-prasasti yang ditemukan , pengaruh buddha datang terlebih dahulu dibandingkan dengan pengaruh hindu .
+sentence 2: prasasti yang berangka tahun 882 m , menggunakan bahasa bali menerangkan tentang pemberian i in kepada para biksu untuk mendirikan pertapaan di bukit cintamani .
+sentence 3: pengaruh hindu di bali berasal dari jawa timur , ketika bali berada di bawah kekuasaan majapahit .
+sentence 4: ketika majapahit runtuh , ada sebagian penduduk yang melarikan diri ke bali , sehingga banyak penduduk bali sekarang yang menganggap dirinya keturunan dari majapahit .
+sentence 5: prasasti yang menceritakan raja yang berkuasa di bali ditemukan di desa blanjong , dekat sanur .
+passage 5 score = 5.0
+sentence 1: jayasadhu digantikan oleh adiknya sri maharaja sri wijaya mahadewi , seorang raja perempuan .
+sentence 2: ia kemudian digantikan oleh dharmodayana yang terkenal dengan nama udayana yang naik takhta pada tahun 989 m. dharmodayana memerintah bersama permaisurinya bernama gunapriyadharmapadmi , anak dari raja makutawangsawardhana dari jawa timur .
+sentence 3: gunapriyadharmapadmi meninggal pada tahun 1001 m dan dicandikan di burwan .
+sentence 4: udayana memerintah sampai tahun 1011 m. pada tahun itu , ia meninggal dan dicandikan di banu weka .
+sentence 5: pernikahannya dengan gunapriya menghasilkan tiga orang putra yaitu , airlangga yang menikah dengan putri dharmawangsa ( raja jawa timur ) , marakata , dan anak wungsu .
+passage 8 score = 5.0
+sentence 1: rakyat hidup dengan bercocok tanam , seperti padi gaga , kelapa , enau , pinang , bambu , dan kemiri .
+sentence 2: selain itu , rakyat juga memelihara binatang seperti kerbau , kambing , lembu , babi , bebek , kuda , ayam , dan anjing .
+sentence 3: anak wungsu tidak memiliki anak dari permaisurinya .
+sentence 4: ia meninggal pada tahun 1077 m dan didharmakan di gunung kawi dekat tampak siring .
+sentence 5: beberapa raja yang memerintah kerajaan bali setelah anak wungsu , diantaranya sri maharaja sri walaprahu , sri maharaja sri sakalendukirana , sri suradhipa , sri jayasakti , ragajaya , dan yang lain sampai pada paduka bhatara sri asta asura ratna sebagai raja terakhir bali .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok93.txt
+title : sejarah kerajaan bali (kehidupan politik ekonomi sosial budaya dan kepercayaan)
+passage 6 score = 5.5
+sentence 1: pernikahannya dengan gunapriya menghasilkan tiga orang putra yaitu , airlangga yang menikah dengan putri dharmawangsa ( raja jawa timur ) , marakata , dan anak wungsu .
+sentence 2: airlangga tidak memerintah di bali , ia menjadi raja di jawa timur .
+sentence 3: anak udayana yang memerintah di bali , yaitu marakata memerintah dari tahun 1011-1022 , ia bergelar dharmawangsawardhana marakata pangkajasthana uttuganggadewa .
+sentence 4: masa pemerintahan marakata bersamaan dengan masa pemerintahan airlangga di jawa timur .
+sentence 5: marakata adalah raja yang sangat memperhatikan kehidupan rakyatnya , sehingga ia dicintai dan dihormati oleh rakyatnya .
+passage 7 score = 5.5
+sentence 1: marakata adalah raja yang sangat memperhatikan kehidupan rakyatnya , sehingga ia dicintai dan dihormati oleh rakyatnya .
+sentence 2: untuk kepentingan peribadatan , ia membangun prasada atau bangunan suci di gunung kawi daerah tampak siring , bali .
+sentence 3: marakata digantikan oleh adiknya anak wungsu , yang memerintah dari tahun 1049-1077 .
+sentence 4: pada masa pemerintahannya , keadaan negeri sangat aman dan tenteram .
+sentence 5: rakyat hidup dengan bercocok tanam , seperti padi gaga , kelapa , enau , pinang , bambu , dan kemiri .
+passage 9 score = 5.5
+sentence 1: beberapa raja yang memerintah kerajaan bali setelah anak wungsu , diantaranya sri maharaja sri walaprahu , sri maharaja sri sakalendukirana , sri suradhipa , sri jayasakti , ragajaya , dan yang lain sampai pada paduka bhatara sri asta asura ratna sebagai raja terakhir bali .
+sentence 2: sebab pada tahun 1430 m , bali ditaklukkan oleh gajah mada dari kerajaan majapahit .
+sentence 3: sejak bali ditaklukkan oleh majapahit , kerajaan di bali diperintah oleh raja-raja yang berasal dari keturunan jawa ( jawa timur ) .
+sentence 4: oleh karena itu , raja-raja yang memerintah selanjutnya menganggap dirinya sebagai wong majapahit artinya keturunan majapahit .
+sentence 5: 2 .
+passage 12 score = 5.5
+sentence 1: 4 .
+sentence 2: kepercayaan kerajaan bali masyarakat bali banyak mendapat pengaruh dari kebudayaan india , terutama hindu .
+sentence 3: sampai sekarang , masyarakat bali masih banyak yang menganut agama hindu .
+sentence 4: namun demikian , agama hindu yang mereka anut telah bercampur dengan budaya masyarakat asli bali sebelum hindu .
+sentence 5: masyarakat bali sebelum hindu merupakan kelompok masyarakat yang terikat oleh hubungan keluarga dan memuja roh-roh nenek moyang yang mereka anggap dapat menolong dan melindungi kehidupan keluarga yang masih hidup .
+passage 13 score = 5.5
+sentence 1: masyarakat bali sebelum hindu merupakan kelompok masyarakat yang terikat oleh hubungan keluarga dan memuja roh-roh nenek moyang yang mereka anggap dapat menolong dan melindungi kehidupan keluarga yang masih hidup .
+sentence 2: melalui proses sinkretisme ini , lahirlah agama hindu bali yang bernama hindu dharma .
+passage 1 score = 5.25
+sentence 1: sejarah kerajaan bali ( kehidupan politik ekonomi sosial budaya dan kepercayaan ) a. kehidupan politik kerajaan bali nama bali sudah lama dikenal dalam beberapa sumber kuno .
+sentence 2: dalam berita cina abad ke-7 disebut adanya nama daerah yang bernama dwapa - tan , yang terletak di sebelah timur kerajaan holing ( jawa ) .
+sentence 3: menurut para ahli nama dwa-pa-tan ini sama dengan bali .
+sentence 4: adat istiadat penduduk dwapa - tan ini sama dengan di holing , yaitu setiap bulan padi sudah dipetik , penduduknya menulis dengan daun lontar , orang yang meninggal dihiasi dengan emas , dan ke dalam mulutnya dimasukkan sepotong emas serta diberi harumharuman , kemudian mayat itu dibakar .
+sentence 5: berdasarkan prasasti-prasasti yang ditemukan , pengaruh buddha datang terlebih dahulu dibandingkan dengan pengaruh hindu .
+passage 3 score = 5.25
+sentence 1: prasasti yang menceritakan raja yang berkuasa di bali ditemukan di desa blanjong , dekat sanur .
+sentence 2: dalam prasasti ini disebutkan bahwa raja yang bernama khesari warmadewa , istananya terletak di sanghadwala .
+sentence 3: prasasti ini ditulis dengan huruf nagari ( india ) dan sebagian lagi berhuruf bali kuno , tetapi berbahasa sanskerta .
+sentence 4: prasasti ini berangka tahun 914 m ( 836 saka ) , dalam candrasengkala berbunyi khecara-wahni-murti .
+sentence 5: raja selanjutnya yang berkuasa adalah adalah ugrasena pada tahun 915 m. ugrasena digantikan oleh tabanendra warmadewa ( 955-967 m ) .
+passage 2 score = 5.0
+sentence 1: berdasarkan prasasti-prasasti yang ditemukan , pengaruh buddha datang terlebih dahulu dibandingkan dengan pengaruh hindu .
+sentence 2: prasasti yang berangka tahun 882 m , menggunakan bahasa bali menerangkan tentang pemberian i in kepada para biksu untuk mendirikan pertapaan di bukit cintamani .
+sentence 3: pengaruh hindu di bali berasal dari jawa timur , ketika bali berada di bawah kekuasaan majapahit .
+sentence 4: ketika majapahit runtuh , ada sebagian penduduk yang melarikan diri ke bali , sehingga banyak penduduk bali sekarang yang menganggap dirinya keturunan dari majapahit .
+sentence 5: prasasti yang menceritakan raja yang berkuasa di bali ditemukan di desa blanjong , dekat sanur .
+passage 5 score = 5.0
+sentence 1: jayasadhu digantikan oleh adiknya sri maharaja sri wijaya mahadewi , seorang raja perempuan .
+sentence 2: ia kemudian digantikan oleh dharmodayana yang terkenal dengan nama udayana yang naik takhta pada tahun 989 m. dharmodayana memerintah bersama permaisurinya bernama gunapriyadharmapadmi , anak dari raja makutawangsawardhana dari jawa timur .
+sentence 3: gunapriyadharmapadmi meninggal pada tahun 1001 m dan dicandikan di burwan .
+sentence 4: udayana memerintah sampai tahun 1011 m. pada tahun itu , ia meninggal dan dicandikan di banu weka .
+sentence 5: pernikahannya dengan gunapriya menghasilkan tiga orang putra yaitu , airlangga yang menikah dengan putri dharmawangsa ( raja jawa timur ) , marakata , dan anak wungsu .
+passage 8 score = 5.0
+sentence 1: rakyat hidup dengan bercocok tanam , seperti padi gaga , kelapa , enau , pinang , bambu , dan kemiri .
+sentence 2: selain itu , rakyat juga memelihara binatang seperti kerbau , kambing , lembu , babi , bebek , kuda , ayam , dan anjing .
+sentence 3: anak wungsu tidak memiliki anak dari permaisurinya .
+sentence 4: ia meninggal pada tahun 1077 m dan didharmakan di gunung kawi dekat tampak siring .
+sentence 5: beberapa raja yang memerintah kerajaan bali setelah anak wungsu , diantaranya sri maharaja sri walaprahu , sri maharaja sri sakalendukirana , sri suradhipa , sri jayasakti , ragajaya , dan yang lain sampai pada paduka bhatara sri asta asura ratna sebagai raja terakhir bali .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+title : nusantara sebelum kedatangan islam
+passage 8 score = 5.75
+sentence 1: dalam konsepsi hindu-buddha , hubungan antara manusia dan jagad raya bagaikan hubungan kesejajaran antara makrokosmos dan mikrokosmos .
+sentence 2: manusia adalah mikrokosmos dan jagad raya adalah makrokosmos .
+sentence 3: menurut kepercayaan ini , manusia senantiasa berada di bawah pengaruh tenaga-tenaga yang bersumber pada penjuru mata angin , bintang-bintang dan planet-planet .
+sentence 4: tenaga-tenaga ini mungkin menghasilkan kemakmuran dan kesejahteraan atau berakibat kehancuran .
+sentence 5: terjadinya kesejahteraan atau kehancuran tergantung pada dapat tidaknya individu-individu dan kelompok-kelompok masyarakat terutama sekali negara , berhasil menyelaraskan kehidupan dan kegiatan mereka dengan jagad raya .
+passage 9 score = 5.75
+sentence 1: terjadinya kesejahteraan atau kehancuran tergantung pada dapat tidaknya individu-individu dan kelompok-kelompok masyarakat terutama sekali negara , berhasil menyelaraskan kehidupan dan kegiatan mereka dengan jagad raya .
+sentence 2: keselarasan antara kerajaan dan jagad raya dapat dicapai dengan menyusun kerajaan itu sebagai gambaran sebuah jagad raya dalam bentuk kecil .
+sentence 3: penguasa makrokosmos adalah dewa , sedangkan penguasa mikrokosmos adalah raja , sehingga lahirlah konsep dewa-raja .
+sentence 4: raja adalah wakil dewa di muka bumi .
+sentence 5: kedudukan raja dianggap sebagai titisan ( inkarnasi ) dari dewa atau sebagai keturunan , atau sebagai kedua-duanya , baik sebagai penitisan maupun keturunan dewa .
+passage 12 score = 5.5
+sentence 1: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+sentence 2: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
+sentence 3: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+sentence 4: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
+sentence 5: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
+passage 3 score = 5.0
 sentence 1: 1 .
-sentence 2: taman lumbini di kapilawastu , tempat lahirnya siddharta ( 563 sm ) .
-sentence 3: 2 .
-sentence 4: bodhgaya , tempat siddharta menerima wahyu buddha .
-sentence 5: 3 .
-passage 5 score = 0.0
-sentence 1: 3 .
-sentence 2: kusinagara , tempat wafatnya siddharta pada tahun 482 sm .
-sentence 3: 4 .
-sentence 4: benares , tempat siddharta pertama kali berkhotbah .
-sentence 5: ajaran buddha seperti yang dikhotbahkan siddharta di taman menjangan , benares , berisikan hal-hal berikut .
-passage 6 score = 0.0
-sentence 1: ajaran buddha seperti yang dikhotbahkan siddharta di taman menjangan , benares , berisikan hal-hal berikut .
-sentence 2: aryastyani , yakni empat kebenaran utama dan delapan jalan tengah ( astavida ) .
-sentence 3: empat kebenaran utama , yaitu 1 ) hidup adalah derita ( duka ) atau samsara , 2 ) samsara disebabkan oleh hasrat keinginan ( tresna ) atau tanha , 3 ) tresna harus dihilangkan , dan 4 ) cara menghilangkan tresnaadalah dengan delapan jalan tengah .
-sentence 4: delapan jalan tengah , yaitu 1 ) pengertian yang benar , 2 ) maksud yang benar , 3 ) bicara yang benar , 4 ) laku yang benar , 5 ) kerja yang benar , 6 ) ikhtiar yang benar , 8 ) renungan yang benar .
-sentence 5: 7 ) ingatan yang benar , dan 1 .
-passage 7 score = 0.0
-sentence 1: 7 ) ingatan yang benar , dan 1 .
-sentence 2: pratityasamudpada , artinya rantai sebab akibat yang terdiri atas dua belas rantai dan masing-masing merupakan sebab dari hal berikutnya .
-sentence 3: pada bangunan peribadatan buddha akan kita temui stupa , yaitu bangunan berbentuk kubah yang berdiri di atas sebuah lapik dan diberi payung .
-sentence 4: fungsi bangunan ini adalah sebagai lambang suci agama buddha , tanda peringatan terjadinya suatu peristiwa dalam hidup buddha , tempat penyimpanan tulang jenazah buddha , dan tempat menyimpan benda suci .
-sentence 5: agama buddha berkembang pesat di india pada masa wangsa maurya di bawah raja ashoka .
-passage 8 score = 0.0
-sentence 1: agama buddha berkembang pesat di india pada masa wangsa maurya di bawah raja ashoka .
-sentence 2: raja ini pada awalnya memusuhi agama buddha .
-sentence 3: ia menciptakan “ neraka ashoka ” , yaitu hukuman rebus bagi penganut buddha .
-sentence 4: namun , pada suatu ketika orang yang diperintahkannya untuk direbus tidak mati .
-sentence 5: raja ashoka sadar dari kekeliruannya dan masuk agama buddha .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok5.txt
-title : sejarah kerajaan kediri (kehidupan politik, sosial, ekonomi dan sastra)
-passage 5 score = 5.25
-sentence 1: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
-sentence 2: berdasarkan kronik-kronik cina maka kehidupan perekonomian rakyat kediri dapat dikemukakan sebagai berikut .
-sentence 3: 1 .
-sentence 4: rakyat hidup dari pertanian , peternakan dan perdagangan .
-sentence 5: 2 .
-passage 3 score = 1.5
-sentence 1: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
-sentence 2: ramalannya terkenal dengan istilah “ jangka jayabaya " .
-sentence 3: raja kediri yang juga memperhatikan kesusastraan ialah kameswara .
-sentence 4: empu tan akung menulis kitab wartasancaya dan lubdaka , sedangkan empu dharmaja menulis kitab smaradahana .
-sentence 5: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
-passage 9 score = 1.5
-sentence 1: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
-sentence 2: selain itu juga disusun kitab hukum yang bernama siwasasana .
-sentence 3: 2 ) di zaman airlangga disusun kitab arjuna wiwaha karya empu kanwa .
-sentence 4: 3 ) masa jayabaya berhasil digubah kitab bharatayudha oleh empu sedah dan empu panuluh .
-sentence 5: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
-passage 10 score = 1.5
-sentence 1: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
-sentence 2: 4 ) masa kameswara berhasil ditulis kitab smaradhahana oleh empu dharmaja .
-sentence 3: kitab lubdaka dan wertasancaya oleh empu tan akung .
+sentence 2: kondisi sosial budaya sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+sentence 3: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
+sentence 4: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
+sentence 5: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+passage 6 score = 5.0
+sentence 1: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
+sentence 2: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
+sentence 3: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 4: masyarakat yang dibentuk dalam peradaban ini adalah masyarakat yang memiliki struktur hierarkis .
+sentence 5: dalam masyarakat seperti ini , terdapat lapisan-lapisan sosial yang sangat ketat .
+passage 10 score = 5.0
+sentence 1: kedudukan raja dianggap sebagai titisan ( inkarnasi ) dari dewa atau sebagai keturunan , atau sebagai kedua-duanya , baik sebagai penitisan maupun keturunan dewa .
+sentence 2: raja memiliki kedudukan yang sangat sentral .
+sentence 3: hubungan antara raja dengan rakyat membentuk struktur yang patrimonial .
+sentence 4: dalam hubungan ini tercipta hubungan kawula dan gusti .
+sentence 5: rakyat lebih banyak melakukan kewajibannya .
+passage 16 score = 5.0
+sentence 1: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
+sentence 2: pada tahun 1478 , majapahit mengalami keruntuhannya .
+sentence 3: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 4: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
+sentence 5: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
+passage 17 score = 5.0
+sentence 1: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
+sentence 2: [ gs ]
+passage 1 score = 0.25
+sentence 1: nusantara sebelum kedatangan islam - munculnya agama islam di indonesia tidak terlepas dari pengaruh persentuhan kebudayaan antara daerah nusantara dengan negara yang membawa pengaruh islam .
+sentence 2: persentuhan kebudayaan ini terjadi sebagai salah satu akibat dari hubungan yang dilakukan antara orang-orang islam dengan orang-orang yang ada di nusantara .
+sentence 3: sebab , daerah nusantara merupakan jalur perdagangan strategis yang menghubungkan antara dua negara , yaitu laut tengah dan cina .
+sentence 4: hubungan perdagangan yang semakin lama semakin intensif menimbulkan pengaruh terhadap masuknya pengaruh-pengaruh kebudayaan arab , parsi , india , dan cina di nusantara .
+sentence 5: dengan kata lain , terjadilah proses akulturasi antara kebudayaan negara-negara itu dengan kebudayaan nusantara .
 passage 2 score = 0.25
-sentence 1: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
-sentence 2: pada masa pemerintahannya kesusastraan diperhatikan .
-sentence 3: empu sedah dan empu panuluh menggubah karya sastra kitab bharatayudha yang menggambarkan peperangan antara pandawa dan kurawa yang untuk menggambarkan peperangan antara jenggala dan kediri .
-sentence 4: empu panuluh juga menggubah kakawin hariwangsa dan gatotkacasraya .
-sentence 5: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
-passage 4 score = 0.25
-sentence 1: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
-sentence 2: raja kediri yang terakhir ialah kertajaya yang pada tahun 1222 kekuasaannya dihancurkan oleh ken arok sehingga berakhirlah kerajaan kediri dan muncul kerajaan singasari .
-sentence 3: b. kehidupan sosial ekonomi kerajaan kediri pada masa kejayaan kediri , perhatian raja terhadap kehidupan sosial ekonomi rakyat juga besar .
-sentence 4: hal ini dapat dibuktikan dengan karya-karya sastra saat itu , yang mencerminkan kehidupan sosial ekonomi masyarakat saat itu .
-sentence 5: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
-passage 8 score = 0.25
-sentence 1: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
-sentence 2: 2 .
-sentence 3: hukuman yang dilaksanakan ada dua macam , yakni hukuman denda ( berupa emas ) dan hukuman mati ( khususnya bagi pencuri dan perampok ) .
-sentence 4: c. kehidupan kebudayaan , khususnya sastra kerajaan kediri di bidang kebudayaan , khususnya sastra , masa kahuripan dan kediri berkembang pesat , antara lain sebagai berikut .
-sentence 5: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
-passage 1 score = 0.0
-sentence 1: sejarah kerajaan kediri ( kehidupan politik , sosial , ekonomi dan sastra ) a. kehidupan politik kerajaan kediri dalam persaingan antara panjalu dan kediri , ternyata kediri yang unggul dan menjadi kerajaan yang besar kekuasaannya .
-sentence 2: raja terbesar dari kerajaan kediri adalah jayabaya ( 1135 – 1157 ) .
-sentence 3: jayabaya ingin mengembalikan kejayaan seperti masa airlangga dan berhasil .
-sentence 4: panjalu dan jenggala dapat bersatu kembali .
-sentence 5: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
-passage 6 score = 0.0
-sentence 1: 2 .
-sentence 2: kediri banyak menghasilkan beras .
-sentence 3: 3 .
-sentence 4: barang-barang dagangan yang laku di pasaran saat itu antara lain emas , perak , gading dan kayu cendana .
-sentence 5: 4 .
-passage 7 score = 0.0
-sentence 1: 4 .
-sentence 2: pajak rakyat berupa hasil bumi , seperti besar dan palawija .
-sentence 3: adapun kehidupan sosialnya sebagai berikut .
-sentence 4: 1 .
-sentence 5: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
+sentence 1: dengan kata lain , terjadilah proses akulturasi antara kebudayaan negara-negara itu dengan kebudayaan nusantara .
+sentence 2: proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
+sentence 3: secara geografis wilayah nusantara memiliki arti yang sangat penting bagi masuknya unsurunsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
+sentence 4: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
+sentence 5: 1 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok76.txt
-title : sejarah kerajaan kediri (kehidupan politik, sosial, ekonomi dan sastra)
-passage 5 score = 5.25
-sentence 1: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
-sentence 2: berdasarkan kronik-kronik cina maka kehidupan perekonomian rakyat kediri dapat dikemukakan sebagai berikut .
-sentence 3: 1 .
-sentence 4: rakyat hidup dari pertanian , peternakan dan perdagangan .
-sentence 5: 2 .
-passage 3 score = 1.5
-sentence 1: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
-sentence 2: ramalannya terkenal dengan istilah “ jangka jayabaya " .
-sentence 3: raja kediri yang juga memperhatikan kesusastraan ialah kameswara .
-sentence 4: empu tan akung menulis kitab wartasancaya dan lubdaka , sedangkan empu dharmaja menulis kitab smaradahana .
-sentence 5: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
-passage 9 score = 1.5
-sentence 1: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
-sentence 2: selain itu juga disusun kitab hukum yang bernama siwasasana .
-sentence 3: 2 ) di zaman airlangga disusun kitab arjuna wiwaha karya empu kanwa .
-sentence 4: 3 ) masa jayabaya berhasil digubah kitab bharatayudha oleh empu sedah dan empu panuluh .
-sentence 5: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
-passage 10 score = 1.5
-sentence 1: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
-sentence 2: 4 ) masa kameswara berhasil ditulis kitab smaradhahana oleh empu dharmaja .
-sentence 3: kitab lubdaka dan wertasancaya oleh empu tan akung .
-passage 2 score = 0.25
-sentence 1: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
-sentence 2: pada masa pemerintahannya kesusastraan diperhatikan .
-sentence 3: empu sedah dan empu panuluh menggubah karya sastra kitab bharatayudha yang menggambarkan peperangan antara pandawa dan kurawa yang untuk menggambarkan peperangan antara jenggala dan kediri .
-sentence 4: empu panuluh juga menggubah kakawin hariwangsa dan gatotkacasraya .
-sentence 5: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
-passage 4 score = 0.25
-sentence 1: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
-sentence 2: raja kediri yang terakhir ialah kertajaya yang pada tahun 1222 kekuasaannya dihancurkan oleh ken arok sehingga berakhirlah kerajaan kediri dan muncul kerajaan singasari .
-sentence 3: b. kehidupan sosial ekonomi kerajaan kediri pada masa kejayaan kediri , perhatian raja terhadap kehidupan sosial ekonomi rakyat juga besar .
-sentence 4: hal ini dapat dibuktikan dengan karya-karya sastra saat itu , yang mencerminkan kehidupan sosial ekonomi masyarakat saat itu .
-sentence 5: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
-passage 8 score = 0.25
-sentence 1: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
-sentence 2: 2 .
-sentence 3: hukuman yang dilaksanakan ada dua macam , yakni hukuman denda ( berupa emas ) dan hukuman mati ( khususnya bagi pencuri dan perampok ) .
-sentence 4: c. kehidupan kebudayaan , khususnya sastra kerajaan kediri di bidang kebudayaan , khususnya sastra , masa kahuripan dan kediri berkembang pesat , antara lain sebagai berikut .
-sentence 5: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+passage 13 score = 5.75
+sentence 1: manusia adalah mikrokosmos dan jagad raya adalah makrokosmos .
+sentence 2: menurut kepercayaan ini , manusia senantiasa berada di bawah pengaruh tenaga-tenaga yang bersumber pada penjuru mata angin , bintang-bintang dan planet-planet .
+sentence 3: tenaga-tenaga ini mungkin menghasilkan kemakmuran dan kesejahteraan atau berakibat kehancuran .
+sentence 4: terjadinya kesejahteraan atau kehancuran tergantung pada dapat tidaknya individu-individu dan kelompok-kelompok masyarakat terutama sekali negara , berhasil menyelaraskan kehidupan dan kegiatan mereka dengan jagad raya .
+sentence 5: keselarasan antara kerajaan dan jagad raya dapat dicapai dengan menyusun kerajaan itu sebagai gambaran sebuah jagad raya dalam bentuk kecil .
+passage 3 score = 5.5
+sentence 1: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+sentence 2: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
+sentence 3: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
+sentence 4: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
+sentence 5: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
+passage 14 score = 5.5
+sentence 1: keselarasan antara kerajaan dan jagad raya dapat dicapai dengan menyusun kerajaan itu sebagai gambaran sebuah jagad raya dalam bentuk kecil .
+sentence 2: penguasa makrokosmos adalah dewa , sedangkan penguasa mikrokosmos adalah raja , sehingga lahirlah konsep dewa-raja .
+sentence 3: raja adalah wakil dewa di muka bumi .
+sentence 4: kedudukan raja dianggap sebagai titisan ( inkarnasi ) dari dewa atau sebagai keturunan , atau sebagai kedua-duanya , baik sebagai penitisan maupun keturunan dewa .
+sentence 5: raja memiliki kedudukan yang sangat sentral .
+passage 2 score = 5.0
+sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
+sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
+sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+passage 7 score = 5.0
+sentence 1: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 2: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
+sentence 3: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
+sentence 4: 2 .
+sentence 5: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+passage 8 score = 5.0
+sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
+sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
+sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+passage 11 score = 5.0
+sentence 1: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
+sentence 2: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 3: masyarakat yang dibentuk dalam peradaban ini adalah masyarakat yang memiliki struktur hierarkis .
+sentence 4: dalam masyarakat seperti ini , terdapat lapisan-lapisan sosial yang sangat ketat .
+sentence 5: masyarakat terbagi atas kasta yaitu kasta brahmana , ksatria , waisya dan sudra .
+passage 15 score = 5.0
+sentence 1: raja memiliki kedudukan yang sangat sentral .
+sentence 2: hubungan antara raja dengan rakyat membentuk struktur yang patrimonial .
+sentence 3: dalam hubungan ini tercipta hubungan kawula dan gusti .
+sentence 4: rakyat lebih banyak melakukan kewajibannya .
+sentence 5: pemikiran konsep ini tidak memungkinkan adanya suatu bentuk perjanjian sosial ( social contract ) atau konsep mengenai kewajiban-kewajiban timbal balik antara atasan dan bawahan .
 passage 1 score = 0.0
-sentence 1: sejarah kerajaan kediri ( kehidupan politik , sosial , ekonomi dan sastra ) a. kehidupan politik kerajaan kediri dalam persaingan antara panjalu dan kediri , ternyata kediri yang unggul dan menjadi kerajaan yang besar kekuasaannya .
-sentence 2: raja terbesar dari kerajaan kediri adalah jayabaya ( 1135 – 1157 ) .
-sentence 3: jayabaya ingin mengembalikan kejayaan seperti masa airlangga dan berhasil .
-sentence 4: panjalu dan jenggala dapat bersatu kembali .
-sentence 5: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
-passage 6 score = 0.0
-sentence 1: 2 .
-sentence 2: kediri banyak menghasilkan beras .
-sentence 3: 3 .
-sentence 4: barang-barang dagangan yang laku di pasaran saat itu antara lain emas , perak , gading dan kayu cendana .
-sentence 5: 4 .
-passage 7 score = 0.0
-sentence 1: 4 .
-sentence 2: pajak rakyat berupa hasil bumi , seperti besar dan palawija .
-sentence 3: adapun kehidupan sosialnya sebagai berikut .
+sentence 1: kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam - proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
+sentence 2: secara geografis wilayah indonesia memiliki arti yang sangat penting bagi masuknya unsur-unsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
+sentence 3: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
 sentence 4: 1 .
-sentence 5: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
+sentence 5: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+passage 4 score = 0.0
+sentence 1: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
+sentence 2: tindakan sriwijaya ini ternyata tidak memberikan keuntungan bagi kerajaannya , justru sebaliknya .
+sentence 3: kapal-kapal asing mencoba menghindar untuk berlabuh di pelabuhan-pelabuhan sriwijaya .
+sentence 4: kemunduran sriwijaya diperburuk lagi oleh serangan kerajaan singosari dari jawa melalui ekspedisi pamalayu .
+sentence 5: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+passage 13 score = 5.75
+sentence 1: manusia adalah mikrokosmos dan jagad raya adalah makrokosmos .
+sentence 2: menurut kepercayaan ini , manusia senantiasa berada di bawah pengaruh tenaga-tenaga yang bersumber pada penjuru mata angin , bintang-bintang dan planet-planet .
+sentence 3: tenaga-tenaga ini mungkin menghasilkan kemakmuran dan kesejahteraan atau berakibat kehancuran .
+sentence 4: terjadinya kesejahteraan atau kehancuran tergantung pada dapat tidaknya individu-individu dan kelompok-kelompok masyarakat terutama sekali negara , berhasil menyelaraskan kehidupan dan kegiatan mereka dengan jagad raya .
+sentence 5: keselarasan antara kerajaan dan jagad raya dapat dicapai dengan menyusun kerajaan itu sebagai gambaran sebuah jagad raya dalam bentuk kecil .
+passage 3 score = 5.5
+sentence 1: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+sentence 2: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
+sentence 3: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
+sentence 4: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
+sentence 5: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
+passage 14 score = 5.5
+sentence 1: keselarasan antara kerajaan dan jagad raya dapat dicapai dengan menyusun kerajaan itu sebagai gambaran sebuah jagad raya dalam bentuk kecil .
+sentence 2: penguasa makrokosmos adalah dewa , sedangkan penguasa mikrokosmos adalah raja , sehingga lahirlah konsep dewa-raja .
+sentence 3: raja adalah wakil dewa di muka bumi .
+sentence 4: kedudukan raja dianggap sebagai titisan ( inkarnasi ) dari dewa atau sebagai keturunan , atau sebagai kedua-duanya , baik sebagai penitisan maupun keturunan dewa .
+sentence 5: raja memiliki kedudukan yang sangat sentral .
+passage 2 score = 5.0
+sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
+sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
+sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+passage 7 score = 5.0
+sentence 1: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 2: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
+sentence 3: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
+sentence 4: 2 .
+sentence 5: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+passage 8 score = 5.0
+sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
+sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
+sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+passage 11 score = 5.0
+sentence 1: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
+sentence 2: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 3: masyarakat yang dibentuk dalam peradaban ini adalah masyarakat yang memiliki struktur hierarkis .
+sentence 4: dalam masyarakat seperti ini , terdapat lapisan-lapisan sosial yang sangat ketat .
+sentence 5: masyarakat terbagi atas kasta yaitu kasta brahmana , ksatria , waisya dan sudra .
+passage 15 score = 5.0
+sentence 1: raja memiliki kedudukan yang sangat sentral .
+sentence 2: hubungan antara raja dengan rakyat membentuk struktur yang patrimonial .
+sentence 3: dalam hubungan ini tercipta hubungan kawula dan gusti .
+sentence 4: rakyat lebih banyak melakukan kewajibannya .
+sentence 5: pemikiran konsep ini tidak memungkinkan adanya suatu bentuk perjanjian sosial ( social contract ) atau konsep mengenai kewajiban-kewajiban timbal balik antara atasan dan bawahan .
+passage 1 score = 0.0
+sentence 1: kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam - proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
+sentence 2: secara geografis wilayah indonesia memiliki arti yang sangat penting bagi masuknya unsur-unsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
+sentence 3: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
+sentence 4: 1 .
+sentence 5: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+passage 4 score = 0.0
+sentence 1: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
+sentence 2: tindakan sriwijaya ini ternyata tidak memberikan keuntungan bagi kerajaannya , justru sebaliknya .
+sentence 3: kapal-kapal asing mencoba menghindar untuk berlabuh di pelabuhan-pelabuhan sriwijaya .
+sentence 4: kemunduran sriwijaya diperburuk lagi oleh serangan kerajaan singosari dari jawa melalui ekspedisi pamalayu .
+sentence 5: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 17 score = 7.75
 sentence 1: dikatakan babad tanah jawi dan serat kanda yang ditulis abad xvii dijaman mataram itu tanpa konsultasi sumber sejarah yang dapat dipercaya .
@@ -711,7 +743,7 @@ sentence 3: karena itu tidak mengherankan jika uraiannya tentang majapahit banya
 sentence 4: “ prasasti petak ” dan “ trailokyapuri ” menerangkan , raja majapahit terakhir adalah dyah suraprahawa , runtuh akibat serangan tentara keling pimpinan girindrawardhana pada tahun 1478 masehi , sesuai pararaton .
 sentence 5: sejak itu majapahit telah berhenti sebagai ibu kota kerajaan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 8 score = 7.5
 sentence 1: majapahit menaklukkan hampir seluruh nusantara dan melebarkan sayapnya hingga ke seluruh asia tenggara .
@@ -720,7 +752,7 @@ sentence 3: menurut para ahli di malang ditempatkan seorang penguasa yang disebu
 sentence 4: dalam negara kertagama dikisahkan hayam wuruk sebagai raja majapahit melakukan ziarah ke makam leluhurnya ( yang berada disekitar daerah malang ) , salah satunya di dekat makam ken arok .
 sentence 5: ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 45 score = 7.0
 sentence 1: mereka dibantu oleh lima upapatti ( pembantu ) .
@@ -729,7 +761,7 @@ sentence 3: seperti juga isi prasasti pada umumnya , prasasti dari masa majapahi
 sentence 4: meskipun demikian , banyak hal yang menarik untuk diungkapkan di sini , antara lain , yaitu : prasasti kudadu ( 1294 m ) mengenai pengalaman raden wijaya sebelum menjadi raja majapahit yang telah ditolong oleh rama kudadu dari kejaran balatentara yayakatwang setelah raden wijaya menjadi raja dan bergelar krtajaya jayawardhana anantawikramottunggadewa , penduduk desa kudadu dan kepala desanya ( rama ) diberi hadiah tanah sima .
 sentence 5: prasasti sukamerta ( 1296 m ) dan prasasti balawi ( 1305 m ) mengenai raden wijaya yang telah memperisteri keempat putri kertanegara yaitu sri paduka parameswari dyah sri tribhuwaneswari , sri paduka mahadewi dyah dewi narendraduhita , sri paduka jayendradewi dyah dewi prajnaparamita , dan sri paduka rajapadni dyah dewi gayatri , serta menyebutkan anaknya dari permaisuri bernama sri jayanegara yang dijadikan raja muda di daha .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 45 score = 7.0
 sentence 1: mereka dibantu oleh lima upapatti ( pembantu ) .
@@ -738,7 +770,7 @@ sentence 3: seperti juga isi prasasti pada umumnya , prasasti dari masa majapahi
 sentence 4: meskipun demikian , banyak hal yang menarik untuk diungkapkan di sini , antara lain , yaitu : prasasti kudadu ( 1294 m ) mengenai pengalaman raden wijaya sebelum menjadi raja majapahit yang telah ditolong oleh rama kudadu dari kejaran balatentara yayakatwang setelah raden wijaya menjadi raja dan bergelar krtajaya jayawardhana anantawikramottunggadewa , penduduk desa kudadu dan kepala desanya ( rama ) diberi hadiah tanah sima .
 sentence 5: prasasti sukamerta ( 1296 m ) dan prasasti balawi ( 1305 m ) mengenai raden wijaya yang telah memperisteri keempat putri kertanegara yaitu sri paduka parameswari dyah sri tribhuwaneswari , sri paduka mahadewi dyah dewi narendraduhita , sri paduka jayendradewi dyah dewi prajnaparamita , dan sri paduka rajapadni dyah dewi gayatri , serta menyebutkan anaknya dari permaisuri bernama sri jayanegara yang dijadikan raja muda di daha .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 5 score = 6.75
 sentence 1: orang-orang yang pernah berjasa dalam perjuangan diberi kedudukan dalam pemerintahan .
@@ -747,7 +779,7 @@ sentence 3: demikian juga teman seperjuangannya yang lain , diberi kedudukan , a
 sentence 4: untuk memperkuat kedudukannya , kempat putri kertanegara dijadikan istrinya , yakni dewi tribhuanaeswari , dewi narendraduhita , dewi prajnaparamita dan dewi gayatri .
 sentence 5: tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan kebo anabrang kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 13 score = 6.75
 sentence 1: selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan .
@@ -756,7 +788,7 @@ sentence 3: pada masa pemerintahannya bersama patih gajah mada , kerajaan majapa
 sentence 4: pemerintahan terlaksana secara teratur , baik di tingkat pusat ( ibu kota ) , tingkat menengah ( vasal ) , dan tingkat desa .
 sentence 5: sistem pemerintahan daerah ( tingkat menengah dan desa ) tidak berubah , sedangkan di tingkat pusat diatur sebagai berikut : a ) dewan saptap prabu , merupakan penasihat raja yang terdiri atas kerabat keraton dengan jabatan rakryan i hino , rakryan i halu , dan rakryan i sirikan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 24 score = 6.75
 sentence 1: pada tahun 1328 , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat .
@@ -765,7 +797,7 @@ sentence 3: ia dinobatkan menjadi raja majapahit dengan gelar tribhuanatunggadew
 sentence 4: pada masa pemerintahannya , terjadi pemberontakan sadeng dan keta pada tahun 1331 .
 sentence 5: pemberontakan ini dapat dipadamkan oleh gajah mada .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 44 score = 6.75
 sentence 1: bab xx : fitnah ( duwilatek ) .
@@ -774,7 +806,7 @@ sentence 3: dalam soal pengadilan , raja dibantu oleh dua orang dharmadhyaksa , 
 sentence 4: kedudukan dharmadhyaksa sama dengan hakim tinggi .
 sentence 5: mereka dibantu oleh lima upapatti ( pembantu ) .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 5 score = 6.75
 sentence 1: orang-orang yang pernah berjasa dalam perjuangan diberi kedudukan dalam pemerintahan .
@@ -783,7 +815,7 @@ sentence 3: demikian juga teman seperjuangannya yang lain , diberi kedudukan , a
 sentence 4: untuk memperkuat kedudukannya , kempat putri kertanegara dijadikan istrinya , yakni dewi tribhuanaeswari , dewi narendraduhita , dewi prajnaparamita dan dewi gayatri .
 sentence 5: tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan kebo anabrang kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 13 score = 6.75
 sentence 1: selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan .
@@ -800,7 +832,7 @@ Pencarian jawaban
 dikatakan babad tanah jawi dan <PERSON>serat kanda</PERSON> yang ditulis abad xvii dijaman mataram itu tanpa konsultasi sumber sejarah yang dapat dipercaya . sumber sejarah itu antara lain beberapa prasasti dan karya sejarah tentang majapahit , seperti “ negara kertagama dan pararaton ” . karena itu tidak mengherankan jika uraiannya tentang majapahit banyak yang cacat . “ prasasti petak ” dan “ trailokyapuri ” menerangkan , raja majapahit terakhir adalah dyah suraprahawa , runtuh akibat serangan tentara keling pimpinan girindrawardhana pada <TIME>tahun 1478</TIME> masehi , sesuai pararaton . sejak itu majapahit telah berhenti sebagai ibu kota kerajaan .
 
 memproses passage 17
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 serat kanda | position = 4
@@ -1036,7 +1068,7 @@ tokenwithtagstemmed = raja
 majapahit menaklukkan hampir seluruh nusantara dan melebarkan sayapnya hingga ke <LOCATION>seluruh asia tenggara .</LOCATION> pada masa ini daerah malang tidak lagi menjadi pusat kekuasaan karena diduga telah pindah ke <LOCATION>daerah</LOCATION> nganjuk . menurut <PERSON>para ahli</PERSON> di <LOCATION>malang</LOCATION> ditempatkan seorang penguasa yang disebut raja pula . dalam negara kertagama dikisahkan hayam wuruk sebagai raja majapahit melakukan ziarah ke <LOCATION>makam leluhurnya</LOCATION> ( yang berada disekitar daerah malang ) , salah satunya di dekat makam ken arok . ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
 
 memproses passage 8
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 ahli | position = 17
@@ -1272,7 +1304,7 @@ tokenwithtagstemmed = dewa
 mereka dibantu oleh lima upapatti ( pembantu ) . e. sumber sejarah ( prasasti ) kerajaan majapahit prasasti adalah bukti sumber tertulis yang sangat penting dari masa lalu yang isinya antara lain mengenai kehidupan <PERSON>masyarakat</PERSON> misalnya tentang administrasi dan birokrasi pemerintahan , kehidupan ekonomi , pelaksanaan hukum dan keadilan , sistem pembagian bekerja , perdagangan , agama , kesenian , maupun adat istiadat . seperti juga isi prasasti pada umumnya , prasasti dari masa majapahit lebih banyak berisi tentang ketentuan suatu daerah menjadi daerah perdikan atau sima . meskipun demikian , banyak hal yang menarik untuk diungkapkan di sini , antara lain , yaitu : prasasti kudadu ( <TIME>1294</TIME> m ) mengenai pengalaman <PERSON>raden wijaya</PERSON> sebelum menjadi raja majapahit yang telah ditolong oleh <PERSON>rama kudadu</PERSON> dari kejaran balatentara yayakatwang setelah raden wijaya menjadi raja dan bergelar krtajaya jayawardhana anantawikramottunggadewa , penduduk desa kudadu dan kepala desanya ( rama ) diberi hadiah tanah sima . prasasti sukamerta ( <TIME>1296</TIME> m ) dan prasasti balawi ( <TIME>1305</TIME> m ) mengenai raden wijaya yang telah memperisteri keempat putri kertanegara yaitu sri paduka parameswari dyah sri tribhuwaneswari , sri paduka mahadewi dyah dewi narendraduhita , sri paduka jayendradewi dyah dewi prajnaparamita , dan sri paduka rajapadni dyah dewi gayatri , serta menyebutkan anaknya dari permaisuri bernama sri jayanegara yang dijadikan raja muda di daha .
 
 memproses passage 45
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 masyarakat | position = 19
@@ -1836,7 +1868,7 @@ tokenwithtagstemmed = daha
 mereka dibantu oleh lima upapatti ( pembantu ) . e. sumber sejarah ( prasasti ) kerajaan majapahit prasasti adalah bukti sumber tertulis yang sangat penting dari masa lalu yang isinya antara lain mengenai kehidupan <PERSON>masyarakat</PERSON> misalnya tentang administrasi dan birokrasi pemerintahan , kehidupan ekonomi , pelaksanaan hukum dan keadilan , sistem pembagian bekerja , perdagangan , agama , kesenian , maupun adat istiadat . seperti juga isi prasasti pada umumnya , prasasti dari masa majapahit lebih banyak berisi tentang ketentuan suatu daerah menjadi daerah perdikan atau sima . meskipun demikian , banyak hal yang menarik untuk diungkapkan di sini , antara lain , yaitu : prasasti kudadu ( <TIME>1294</TIME> m ) mengenai pengalaman <PERSON>raden wijaya</PERSON> sebelum menjadi raja majapahit yang telah ditolong oleh <PERSON>rama kudadu</PERSON> dari kejaran balatentara yayakatwang setelah raden wijaya menjadi raja dan bergelar krtajaya jayawardhana anantawikramottunggadewa , penduduk desa kudadu dan kepala desanya ( rama ) diberi hadiah tanah sima . prasasti sukamerta ( <TIME>1296</TIME> m ) dan prasasti balawi ( <TIME>1305</TIME> m ) mengenai raden wijaya yang telah memperisteri keempat putri kertanegara yaitu sri paduka parameswari dyah sri tribhuwaneswari , sri paduka mahadewi dyah dewi narendraduhita , sri paduka jayendradewi dyah dewi prajnaparamita , dan sri paduka rajapadni dyah dewi gayatri , serta menyebutkan anaknya dari permaisuri bernama sri jayanegara yang dijadikan raja muda di daha .
 
 memproses passage 45
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 masyarakat | position = 19
@@ -2400,7 +2432,7 @@ tokenwithtagstemmed = daha
 orang-orang yang pernah berjasa dalam perjuangan diberi kedudukan dalam pemerintahan . misalnya <PERSON>, aria wiraraja</PERSON> diberi tambahan wilayah di <LOCATION>lumajang</LOCATION> sampai dengan blambangan , desa kudadu dijadikan desa perdikan ( bebas pajak dan mengatur daerahnya sendiri ) . demikian juga teman seperjuangannya yang lain , diberi kedudukan , ada yang dijadikan menteri , kepala wilayah dan sebagainya . untuk memperkuat kedudukannya , kempat putri kertanegara dijadikan istrinya , yakni dewi tribhuanaeswari , dewi narendraduhita , dewi prajnaparamita dan dewi gayatri . tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan <PERSON>kebo anabrang</PERSON> kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
 
 memproses passage 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 aria wiraraja | position = 8
@@ -2673,7 +2705,7 @@ tokenwithtagstemmed = jingga
 selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan . 4 ) hayam wuruk ( <TIME>1350 – 1389</TIME> ) pada <TIME>tahun 1350</TIME> gayatri wafat sehingga tribhuanatunggadewi turun takhta dan digantikan oleh putranya , yakni hayam wuruk dengan gelar <PERSON>rajasanegara .</PERSON> pada masa pemerintahannya bersama patih gajah mada , kerajaan majapahit mencapai masa kejayaannya . pemerintahan terlaksana secara teratur , baik di tingkat pusat ( ibu kota ) , tingkat menengah ( vasal ) , dan tingkat desa . sistem pemerintahan daerah ( tingkat menengah dan desa ) tidak berubah , sedangkan di tingkat pusat diatur sebagai berikut : a ) dewan saptap prabu , merupakan penasihat raja yang terdiri atas <PERSON>kerabat keraton</PERSON> dengan jabatan rakryan i hino , rakryan i halu , dan rakryan i sirikan .
 
 memproses passage 13
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 rajasanegara | position = 23
@@ -2998,7 +3030,7 @@ tokenwithtagstemmed = siri
 pada <TIME>tahun 1328</TIME> , jayanegara tewas dibunuh oleh tabib israna ratanca , ia didharmakan di dalam pura di sila petak dan bubat . jayanegara tidak mempunyai <PERSON>putra ,</PERSON> maka takhta kerajaan digantikan oleh adik perempuannya yang bernama tribhuanatunggadewi . ia dinobatkan menjadi <PERSON>raja</PERSON> majapahit dengan gelar tribhuanatunggadewi jaya wisnu wardhani . pada <TIME>masa pemerintahannya ,</TIME> terjadi pemberontakan sadeng dan keta pada <TIME>tahun 1331</TIME> . pemberontakan ini dapat dipadamkan oleh gajah mada .
 
 memproses passage 24
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 putra | position = 14
@@ -3179,7 +3211,7 @@ tokenwithtagstemmed = mada
 bab xx : fitnah ( duwilatek ) . proses pengadilan , semua keputusan dalam pengadilan diambil atas nama raja yang disebut sang amawabhumi , artinya orang yang mempunyai/menguasai negara . dalam soal pengadilan , raja dibantu oleh dua orang dharmadhyaksa , yakni <PERSON>dharmadhyaksa ring kasaiwan</PERSON> dan dharmadhyaksa ring kasogatan , yakni <PERSON>kepala agama siwa</PERSON> dan kepala agama buddha . kedudukan dharmadhyaksa sama dengan hakim tinggi . mereka dibantu oleh lima upapatti ( pembantu ) .
 
 memproses passage 44
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 dharmadhyaksa ring kasaiwan | position = 27
@@ -3373,7 +3405,7 @@ tokenwithtagstemmed = bantu
 orang-orang yang pernah berjasa dalam perjuangan diberi kedudukan dalam pemerintahan . misalnya <PERSON>, aria wiraraja</PERSON> diberi tambahan wilayah di <LOCATION>lumajang</LOCATION> sampai dengan blambangan , desa kudadu dijadikan desa perdikan ( bebas pajak dan mengatur daerahnya sendiri ) . demikian juga teman seperjuangannya yang lain , diberi kedudukan , ada yang dijadikan menteri , kepala wilayah dan sebagainya . untuk memperkuat kedudukannya , kempat putri kertanegara dijadikan istrinya , yakni dewi tribhuanaeswari , dewi narendraduhita , dewi prajnaparamita dan dewi gayatri . tidak lama kemudian tentara singasari yang ikut ekspedisi pamalayu di bawah pimpinan <PERSON>kebo anabrang</PERSON> kembali membawa dua putri boyongan , yakni dara petak dan dara jingga .
 
 memproses passage 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 aria wiraraja | position = 8
@@ -3646,7 +3678,7 @@ tokenwithtagstemmed = jingga
 selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan . 4 ) hayam wuruk ( <TIME>1350 – 1389</TIME> ) pada <TIME>tahun 1350</TIME> gayatri wafat sehingga tribhuanatunggadewi turun takhta dan digantikan oleh putranya , yakni hayam wuruk dengan gelar <PERSON>rajasanegara .</PERSON> pada masa pemerintahannya bersama patih gajah mada , kerajaan majapahit mencapai masa kejayaannya . pemerintahan terlaksana secara teratur , baik di tingkat pusat ( ibu kota ) , tingkat menengah ( vasal ) , dan tingkat desa . sistem pemerintahan daerah ( tingkat menengah dan desa ) tidak berubah , sedangkan di tingkat pusat diatur sebagai berikut : a ) dewan saptap prabu , merupakan penasihat raja yang terdiri atas <PERSON>kerabat keraton</PERSON> dengan jabatan rakryan i hino , rakryan i halu , dan rakryan i sirikan .
 
 memproses passage 13
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 rajasanegara | position = 23
@@ -3975,7 +4007,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = masyarakat
@@ -3985,7 +4017,7 @@ doc rank = 2
 total Score = 12
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = dharmadhyaksa ring kasaiwan
@@ -3995,7 +4027,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = kepala agama siwa
@@ -4005,7 +4037,7 @@ doc rank = 1
 total Score = 21
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = raden wijaya
@@ -4015,7 +4047,7 @@ doc rank = 1
 total Score = 50
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = raden wijaya
@@ -4025,7 +4057,7 @@ doc rank = 2
 total Score = 52
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = rama kudadu
@@ -4035,7 +4067,7 @@ doc rank = 1
 total Score = 55
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = rama kudadu
@@ -4045,7 +4077,7 @@ doc rank = 2
 total Score = 57
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 

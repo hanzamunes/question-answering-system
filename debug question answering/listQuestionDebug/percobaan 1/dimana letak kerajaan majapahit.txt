@@ -1,186 +1,121 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok263.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok383.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok265.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok322.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok79.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok8.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok80.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok9.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok22.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok93.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok20.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok91.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok268.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok325.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok92.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok102.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok31.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok304.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok23.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok94.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok356.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok14.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok167.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok316.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok85.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok5.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok76.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok139.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok68.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok119.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok48.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok333.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok389.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok303.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok328.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok382.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok184.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok123.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok52.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok387.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok69.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok201.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok391.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok378.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok339.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok22.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok93.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok383.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok21.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok92.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok356.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok265.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok322.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok332.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok19.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok90.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok13.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok84.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok304.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok162.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok14.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok167.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok316.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok85.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok388.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok392.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok12.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok83.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok159.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok391.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok387.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok119.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok48.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok279.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok381.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok341.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok26.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok97.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok120.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok49.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok290.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok121.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok50.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok303.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok219.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok3.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok224.txt
 
 searching dari query expansion
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok263.txt
+query hasil ekspansi = majapahit ontak bali raja letak sriwijaya tilas makam labuh
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok356.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
 
 query token : 
 mana letak raja majapahit 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 3 score = 8.0
-sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
-sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
-sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
-sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
-sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
-passage 26 score = 8.0
-sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
-sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
-sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
-sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
-sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
-passage 40 score = 7.75
-sentence 1: ( 7 ) kitab tantu panggelaran , tentang pemindahan gunung mahameru ke pulau jawa oleh dewa brahma , wisnu , dan siwa .
-sentence 2: d. kehidupan hukum kerajaan majapahit majapahit di masa pemerintahan hayam wuruk dan patih gajah mada , telah diciptakan hukum/perundangan-undangan majapahit .
-sentence 3: kitab hukum/perundangan-undangan majapahit ini disebut kutaramanawa yang termuat dalam dua piagam , yakni piagam bendasari ( tidak bertarihk ) dan piagam trowulan ( bertarihk 1358 ) .
-sentence 4: kitab kutaramanawa terdiri atas 275 pasal , namun dalam terjemahannya hanya disajikan 272 pasal karena satu pasal rusak dan yang dua lainnya merupakan ulangan pasal yang sejenis .
-sentence 5: kitab perundang-undangan ini meliputi hukum pidana dan perdata dan disusun dalam 20 ( dua puluh ) bab .
-passage 1 score = 7.5
-sentence 1: sejarah kerajaan majapahit ( politik ekonomi sosial budaya dan sumber sejarah ) - berbicara tentang kerajaan majapahit berarti berbicara tetang sebuah puncak kejayaan dari peradaban hindu-buddha yang pernah hidup di indonesia .
-sentence 2: kerajaan majapahit disebut sebagai kerajaan nasional indonesia yang ke dua .
-sentence 3: hal tersebut disebabkan oleh upaya yang besar dari kerajaan ini untuk mewujudkan suatu cita-cita yaitu penyatuan nusantara .
-sentence 4: dalam perjalanan sejarah , upaya integrasi wilayah kepulauan nusantara memang tidak sepenuhnya berlangsung dengan mulus dan dilakukakan dengan cara ksatria .
-sentence 5: peristiwa bubat yang disusul dengan perpecahan internal didalam tubuh majapahit sendiri menyebabkan cita-cita penyatuan tidak sepenuhnya dapat dilakukan .
-passage 28 score = 7.5
-sentence 1: usaha gajah mada dalam melaksanakan politiknya , berakhir pada tahun 1357 dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
-sentence 2: pada waktu itu , hayam wuruk bermaksud untuk menikahi putri dyah pitaloka .
-sentence 3: sebelum putri dyah pitaloka dan ayahnya beserta para pembesar kerajaan pajajaran sampai di majapahit , mereka beristirahat di lapangan bubat .
-sentence 4: di sana terjadi perselisihan antara gajah mada yang menghendaki agar putri itu dipersembahkan oleh raja pajajaran kepada raja majapahit .
-sentence 5: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 3 score = 8.0
-sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
-sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
-sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
-sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
-sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
-passage 26 score = 8.0
-sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
-sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
-sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
-sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
-sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
-passage 40 score = 7.75
-sentence 1: ( 7 ) kitab tantu panggelaran , tentang pemindahan gunung mahameru ke pulau jawa oleh dewa brahma , wisnu , dan siwa .
-sentence 2: d. kehidupan hukum kerajaan majapahit majapahit di masa pemerintahan hayam wuruk dan patih gajah mada , telah diciptakan hukum/perundangan-undangan majapahit .
-sentence 3: kitab hukum/perundangan-undangan majapahit ini disebut kutaramanawa yang termuat dalam dua piagam , yakni piagam bendasari ( tidak bertarihk ) dan piagam trowulan ( bertarihk 1358 ) .
-sentence 4: kitab kutaramanawa terdiri atas 275 pasal , namun dalam terjemahannya hanya disajikan 272 pasal karena satu pasal rusak dan yang dua lainnya merupakan ulangan pasal yang sejenis .
-sentence 5: kitab perundang-undangan ini meliputi hukum pidana dan perdata dan disusun dalam 20 ( dua puluh ) bab .
-passage 1 score = 7.5
-sentence 1: sejarah kerajaan majapahit ( politik ekonomi sosial budaya dan sumber sejarah ) - berbicara tentang kerajaan majapahit berarti berbicara tetang sebuah puncak kejayaan dari peradaban hindu-buddha yang pernah hidup di indonesia .
-sentence 2: kerajaan majapahit disebut sebagai kerajaan nasional indonesia yang ke dua .
-sentence 3: hal tersebut disebabkan oleh upaya yang besar dari kerajaan ini untuk mewujudkan suatu cita-cita yaitu penyatuan nusantara .
-sentence 4: dalam perjalanan sejarah , upaya integrasi wilayah kepulauan nusantara memang tidak sepenuhnya berlangsung dengan mulus dan dilakukakan dengan cara ksatria .
-sentence 5: peristiwa bubat yang disusul dengan perpecahan internal didalam tubuh majapahit sendiri menyebabkan cita-cita penyatuan tidak sepenuhnya dapat dilakukan .
-passage 28 score = 7.5
-sentence 1: usaha gajah mada dalam melaksanakan politiknya , berakhir pada tahun 1357 dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
-sentence 2: pada waktu itu , hayam wuruk bermaksud untuk menikahi putri dyah pitaloka .
-sentence 3: sebelum putri dyah pitaloka dan ayahnya beserta para pembesar kerajaan pajajaran sampai di majapahit , mereka beristirahat di lapangan bubat .
-sentence 4: di sana terjadi perselisihan antara gajah mada yang menghendaki agar putri itu dipersembahkan oleh raja pajajaran kepada raja majapahit .
-sentence 5: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 8 score = 8.0
 sentence 1: majapahit menaklukkan hampir seluruh nusantara dan melebarkan sayapnya hingga ke seluruh asia tenggara .
@@ -213,139 +148,170 @@ sentence 3: soalnya gajah mada sudah meninggal tahun 1364 masehi atau 1286 saka 
 sentence 4: penuturan buku “ dari panggung sejarah ” terjemahan ip simanjuntak yang bersumber dari tulisan h.j. van den berg ternyata juga runtuhnya majapahit bukan akibat serangan demak atau tentara islam .
 sentence 5: ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi majapahit tahun 1413 masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari gujarat dan malaka .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-passage 5 score = 6.5
-sentence 1: pengaruh perkembangan pendidikan barat di indonesia perkembangan sistem pendidikan pada masa hindia belanda tidak dapat dipisahkan dari politik etis .
-sentence 2: ini berarti bahwa terjadinya perubahan di negeri jajahan ( indonesia ) banyak dipengaruhi oleh keadaan yang terjadi di negeri belanda .
-sentence 3: tekanan datang dari partai sosial demokrat yang di dalamnya ada van deventer .
-sentence 4: pada tahun 1899 , mr. courad theodore van deventer melancarkan kritikan-kritikan yang tajam terhadap pemerintah penjajahan belanda .
-sentence 5: kritikan itu ditulis dan dimuat dalam jurnal belanda , de gids dengan judul een eereschuld yang berarti hutang budi atau hutang kehormatan .
-passage 9 score = 6.5
-sentence 1: keduanya diselenggarakan untuk tingkat menengah ke atas .
-sentence 2: berikut ini contoh-contoh sekolah yang didirikan pada zaman kolonial belanda d .
-sentence 3: pengaruh perkembangan pendidikan islam di indonesia perkembangan pendidikan di indonesia juga banyak diwarnai oleh pendidikan yang dikelola umat islam .
-sentence 4: ada tiga macam jenis pendidikan islam di indonesia yaitu pendidikan di surau atau langgar , pesantren , dan madrasah .
-sentence 5: walaupun dasar pendidikan dan pengajarannya berlandaskan ilmu pengetahuan agama islam , mata pelajaran umum lainnya juga mulai disentuh .
-passage 18 score = 6.5
-sentence 1: perjalanan sejarah dunia menunjukkan bahwa ketika pada tahun 1904-1905 terjadi peperangan antara jepang melawan rusia , ternyata yang keluar sebagai pemenang dalam peperangan itu adalah jepang .
-sentence 2: hal ini memberikan semangat juang terhadap para pelopor pergerakan nasional di indonesia .
-sentence 3: b .
-sentence 4: partai kongres india dalam melawan inggris di india , kaum pergerakan nasional di india membentuk all india national congress ( partai kongres india ) , atas inisiatif seorang inggris allan octavian hume pada tahun 1885 .
-sentence 5: di bawah kepemimpinan mahatma gandhi , partai ini kemudian menetapkan garis perjuangan yang meliputi swadesi , ahimsa , satyagraha , dan hartal .
-passage 44 score = 6.5
-sentence 1: 3 .
-sentence 2: indische partij ( ip ) ip didirikan pada tanggal 25 desember 1912 di bandung oleh tokoh tiga serangkai , yaitu e.f.e douwes dekker , dr. cipto mangunkusumo , dan suwardi suryaningrat .
-sentence 3: pendirian ip ini dimaksudkan untuk mengganti indische bond yang merupakan organisasi orang-orang indo dan eropa di indonesia .
-sentence 4: hal ini disebabkan adanya keganjilan-keganjilan yang terjadi ( diskriminasi ) khususnya antara keturunan belanda totok dengan orang belanda campuran ( indo ) .
-sentence 5: ip sebagai organisasi campuran menginginkan adanya kerja sama orang indo dan bumi putera .
-passage 49 score = 6.5
-sentence 1: , berisi tentang kekhawatiran , kekuatan , dan ketakutan .
-sentence 2: dr. tjipto pun ditangkap , yang membuat rekan dalam tiga serangkai , e.f.e. douwes dekker turut mengkritik dalam tulisannya di de express tanggal 5 agustus 1913 yang berjudul onze helden : tjipto mangoenkoesoemo en soewardi soerjaningrat , pahlawan kita : tjipto mangoenkoesoemo dan soewardi soerjaningrat .
-sentence 3: kecaman-kecaman yang menentang pemerintah belanda menyebabkan ketiga tokoh dari indische partij ditangkap .
-sentence 4: pada tahun 1913 mereka diasingkan ke belanda .
-sentence 5: namun pada tahun 1914 cipto mangunkusumo dikembalikan ke indonesia karena sakit .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+title : kehidupan negara negara kerajaan hindu buddha di indonesia
+passage 1 score = 8.25
+sentence 1: kehidupan negara negara kerajaan hindu buddha di indonesia - lahirnya kerajaan-kerajaan yang bercorak hindu-buddha merupakan salah satu perubahan yang penting dengan masuknya pengaruh tradisi hindu-buddha di indonesia .
+sentence 2: kerajaan-kerajaan itu antara lain kerajaan kutai , kerajaan tarumanegara , kerajaan sriwijaya , kerajaan mataram lama ( berpusat di jawa tengah ) , kerajaan mataram lama ( berpusat di jawa timur ) , kerajaan singhasari , kerajaan majapahit , kerajaan sunda , dan kerajaan di bali .
+sentence 3: bagaimana proses munculnya kerajaankerajaan tersebut ?
+sentence 4: kapan kerajaan-kerajaan itu berdiri ?
+sentence 5: tradisi-tradisi apa saja yang telah tumbuh berkembang pada kerajaankerajaan itu ?
+passage 8 score = 7.5
+sentence 1: prasasti ini dikeluarkan oleh wisnu wardhana raja singhasari yang isinya menyebutkan pemberian hadiah desa dandea malurung oleh wisnu wardhana kepada pranaraja .
+sentence 2: kerajaan majapahit .
+sentence 3: berbicara tentang kerajaan majapahit berarti berbicara tetang sebuah puncak kejayaan dari peradaban hindu-buddha yang pernah hidup di indonesia .
+sentence 4: kerajaan majapahit disebut sebagai kerajaan nasional indonesia yang ke dua .
+sentence 5: hal tersebut disebabkan oleh upaya yang besar dari kerajaan ini untuk mewujudkan suatu cita-cita yaitu penyatuan nusantara .
+passage 10 score = 7.0
+sentence 1: berita tentang kerajaan hindu-buddha di jawa barat setelah kerajaan tarumanegara terdapat dalam naskah carita parahyangan , sebuah sumber berbahasa sunda kuno yang ditulis sekitar abad ke-19 .
+sentence 2: kerajaan sunda yang berada di jawa barat dan jawa tengah bagian barat merupakan kerajaan yang bercorak hindu cukup kuat dan sedikit menerima pengaruh buddha .
+sentence 3: kerajaan bali .
+sentence 4: nama bali sudah lama dikenal dalam beberapa sumber kuno .
+sentence 5: dalam berita cina abad ke-7 disebut adanya nama daerah yang bernama dwapa-tan , yang terletak di sebelah timur kerajaan holing ( jawa ) .
+passage 11 score = 7.0
+sentence 1: dalam berita cina abad ke-7 disebut adanya nama daerah yang bernama dwapa-tan , yang terletak di sebelah timur kerajaan holing ( jawa ) .
+sentence 2: menurut para ahli nama dwa-pa-tan ini sama dengan bali .
+sentence 3: adat istiadat penduduk dwapa-tan ini sama dengan di holing , yaitu setiap bulan padi sudah dipetik , penduduknya menulis dengan daun lontar , orang yang meninggal dihiasi dengan emas , dan ke dalam mulutnya dimasukkan sepotong emas serta diberi harumharuman , kemudian mayat itu dibakar .
+sentence 4: [ gs ]
+passage 2 score = 6.5
+sentence 1: tradisi-tradisi apa saja yang telah tumbuh berkembang pada kerajaankerajaan itu ?
+sentence 2: pertanyaan-pertanyaan tersebut dapat kamu jawab dalam pembahasan mengenai kehidupan kerajaan-kerajaan hindu-buddha yang ada di indonesia berikut ini .
+sentence 3: kerajaan kutai .
+sentence 4: kerajaan kutai terletak di dekat sungai mahakam , kalimantan timur .
+sentence 5: keberadaan kerajaan ini dapat diketahui dari tujuh buah prasasti ( yupa ) yang ditemukan di muarakaman , tepi sungai mahakam .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-title : tokoh penyebar islam di indonesia
-passage 7 score = 8.0
-sentence 1: daerah pertama yang dituju adalah desa sembalo ( sekarang daerah leran kecamatan manyar , 9 kilometer dari utara kota gresik ) , daerah yang masih berada di bawah kekuasaan kerajaan majapahit .
-sentence 2: meskipun ia bukan orang jawa , namanya terkenal di kalangan masyarakat jawa , sebab ia yang menjadi pelopor penyebaran islam di jawa dengan pusat kegiatannya di gresik , dekat surabaya .
-sentence 3: dalam proses dakwahnya kepada masyarakat , ia melakukannya dengan penuh hati-hati , bijaksana , dan mengadakan pendekatan personal pada masyarakat jawa .
-sentence 4: kepercayaan sebelumnya yang dipegang oleh masyarakat tidak ditentang begitu saja .
-sentence 5: ia memperkenalkan budi pekerti yang diajarkan islam dengan tutur kata yang sopan , lemah lembut sehingga banyak penduduk jawa yang tertarik memeluk agama islam .
-passage 8 score = 8.0
-sentence 1: ia memperkenalkan budi pekerti yang diajarkan islam dengan tutur kata yang sopan , lemah lembut sehingga banyak penduduk jawa yang tertarik memeluk agama islam .
-sentence 2: maulana malik ibrahim wafat pada tanggal 12 rabiul awal 822 hijriah atau 9 april 1419 m dan dimakamkan di gresik .
-sentence 3: b. sunan ampel sunan ampel nama aslinya raden rahmat , seorang kemenakan dari raja majapahit kertawijaya .
-sentence 4: menurut cerita rakyat , ia berasal dari campa .
-sentence 5: mengenai campa ini ada dua pendapat , pertama champa di indochina , kedua jeumpa di aceh .
-passage 9 score = 8.0
-sentence 1: mengenai campa ini ada dua pendapat , pertama champa di indochina , kedua jeumpa di aceh .
-sentence 2: disebutkan ia adalah anak dari raja cempa ibrahim asmarakandi ( maulana malik ibrahim ) yang diutus ke majapahit dan oleh raja majapahit diperkenankan tinggal dan menetap di ampeldenta ( surabaya ) .
-sentence 3: beberapa versi menyatakan bahwa sunan ampel masuk ke pulau jawa pada tahun 1443 m bersama adiknya , sayid ali murtadha .
-sentence 4: tetapi sebelum sampai ke jawa , ia singgah dahulu di palembang , kemudian berlabuh di daerah gresik , dilanjutkan ke majapahit untuk menemui bibinya yang bernama dwarawati , seorang putri campa yang dipersunting raja majapahit yang bergelar prabu sri kertawijaya .
-sentence 5: pada tahun 1450 , raden rahmat menikah dengan nyi ageng manila , putri bupati tuban yang sudah memeluk agama islam .
-passage 10 score = 8.0
-sentence 1: pada tahun 1450 , raden rahmat menikah dengan nyi ageng manila , putri bupati tuban yang sudah memeluk agama islam .
-sentence 2: selanjutnya raden rahmat menetap di daerah ampeldenta pemberian dari raja majapahit .
-sentence 3: di sana raden rahmat mendirikan masjid dan membuka pondok pesantren , sehingga ia dikenal dengan sunan ampel .
-sentence 4: sesuai dengan tugasnya , ia adalah guru yang mengajarkan budi pekerti kepada para adipati , pembesar keraton , dan bagi masyarakat yang ingin belajar tentang keislaman .
-sentence 5: pada pertengahan abad ke-15 , pesantren tersebut menjadi pusat pendidikan yang sangat berpengaruh di wilayah nusantara .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+passage 5 score = 8.25
+sentence 1: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
+sentence 2: setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
+sentence 3: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
+sentence 4: majapahit pernah tampil sebagai supremasi kekuasaan di wilayah nusantara , setelah sriwijaya runtuh .
+sentence 5: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
 passage 6 score = 7.5
-sentence 1: tetapi pendapat yang lebih kuat ia berasal dari tanah arab , tepatnya maroko .
-sentence 2: maulana malik ibrahim pernah bermukim di campa ( kamboja ) .
-sentence 3: ia menikahi putri campa dan dikaruniai dua orang putra , yaitu raden rahmat ( sunan ampel ) dan sayid ali murtadha alias raden santri .
-sentence 4: merasa cukup menjalankan misi dakwahnya di negeri itu , pada tahun 1329 m , ia hijrah ke pulau jawa .
-sentence 5: daerah pertama yang dituju adalah desa sembalo ( sekarang daerah leran kecamatan manyar , 9 kilometer dari utara kota gresik ) , daerah yang masih berada di bawah kekuasaan kerajaan majapahit .
+sentence 1: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
+sentence 2: dengan sumpah palapanya , gajah mada melakukan perluasan wilayah .
+sentence 3: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
+sentence 4: pada tahun 1478 , majapahit mengalami keruntuhannya .
+sentence 5: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+passage 8 score = 7.0
+sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
+sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
+sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+passage 11 score = 6.75
+sentence 1: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
+sentence 2: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 3: masyarakat yang dibentuk dalam peradaban ini adalah masyarakat yang memiliki struktur hierarkis .
+sentence 4: dalam masyarakat seperti ini , terdapat lapisan-lapisan sosial yang sangat ketat .
+sentence 5: masyarakat terbagi atas kasta yaitu kasta brahmana , ksatria , waisya dan sudra .
+passage 2 score = 6.5
+sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
+sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
+sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
-title : awal penyebaran islam di indonesia
-passage 4 score = 7.0
-sentence 1: 2 .
-sentence 2: proses islamisasi di indonesia islam masuk ke indonesia pada abad ke-7 dan terus berkembang serta prosesnya lebih demokratis dari pada agama hindu .
-sentence 3: itulah sebabnya pada abad ke-16 telah dapat menggeser kekuasaan hindu ( kerajaan majapahit ) .
-sentence 4: adapun proses islamisasi di indonesia dilakukan dengan berbagai bentuk , antara lain sebagai berikut .
-sentence 5: a. melalui perdagangan para pedagang dari arab , persia , dan gujarat memegang peranan penting sebab di samping berdagang , mereka juga menyebarkan agama islam .
-passage 17 score = 7.0
-sentence 1: penyebaran agama islam dilakukan dengan jalan damai , tanpa paksaan , dan kekerasan .
-sentence 2: 6 .
-sentence 3: faktor politik yang turut memperlancar penyebaran agama islam di indonesia ialah runtuhnya kerajaan majapahit ( 1478 ) atau ( 1526 ) dan jatuhnya malaka ke tangan portugis 1511 .
-sentence 4: 3 .
-sentence 5: peta penyebaran agama islam untuk dapat lebih mengetahui dan memahami lokasi daerah-daerah di indonesia yang telah mendapat pengaruh islam dapat dilihat pada peta berikut ini 4 .
-passage 2 score = 6.0
-sentence 1: 2 ) berita dari eropa pada tahun 1292 marco polo ( italia ) adalah orang eropa pertama yang menginjakkan kaki di indonesia ketika kembali dari cina untuk menuju eropa melalui jalan laut .
-sentence 2: ketika ia singgah di perlak ( peureulak ) penduduknya telah memeluk agama islam dan telah terdapat kerajaan bercorak islam , yakni kerajaan samudra pasai .
-sentence 3: 3 ) berita dari india para pedagang gujarat dari india di samping berdagang juga menyebarkan agama islam di pesisir pantai .
-sentence 4: 4 ) berita dari cina dikatakan oleh ma huan ( sekretaris laksamana cheng ho ) bahwa pada tahun 1400 telah ada pedagang-pedagang islam yang tinggal di pantai utara jawa .
-sentence 5: b. sumber internal sumber intern yang menjadi bukti masuknya islam di indonesia , antara lain sebagai berikut .
-passage 18 score = 6.0
-sentence 1: peta penyebaran agama islam untuk dapat lebih mengetahui dan memahami lokasi daerah-daerah di indonesia yang telah mendapat pengaruh islam dapat dilihat pada peta berikut ini 4 .
-sentence 2: proses dan latar belakang munculnya kerajaan islam pertama di indonesia ( peureulak / perlak ) perlak adalah nama kerajaan di wilayah aceh timur yang pusat pemerintahannya dekat muara sungai peuleula dan merupakan kerajaan islam pertama di indonesia .
-sentence 3: adapun faktor-faktor yang dapat mendorong perlak menjadi pusat kerajaan dan perdagangan , antara lain sebagai berikut .
-sentence 4: a. letaknya strategis untuk perdagangan , yaitu di tepi jalur perdagangan internasional .
-sentence 5: b. daerah aceh merupakan daerah penghasil lada yang merupakan bahan ekspor ke india dan timur tengah .
-passage 1 score = 5.75
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+passage 5 score = 8.25
+sentence 1: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
+sentence 2: setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
+sentence 3: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
+sentence 4: majapahit pernah tampil sebagai supremasi kekuasaan di wilayah nusantara , setelah sriwijaya runtuh .
+sentence 5: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
+passage 6 score = 7.5
+sentence 1: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
+sentence 2: dengan sumpah palapanya , gajah mada melakukan perluasan wilayah .
+sentence 3: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
+sentence 4: pada tahun 1478 , majapahit mengalami keruntuhannya .
+sentence 5: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+passage 8 score = 7.0
+sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
+sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
+sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+passage 11 score = 6.75
+sentence 1: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
+sentence 2: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
+sentence 3: masyarakat yang dibentuk dalam peradaban ini adalah masyarakat yang memiliki struktur hierarkis .
+sentence 4: dalam masyarakat seperti ini , terdapat lapisan-lapisan sosial yang sangat ketat .
+sentence 5: masyarakat terbagi atas kasta yaitu kasta brahmana , ksatria , waisya dan sudra .
+passage 2 score = 6.5
+sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
+sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
+sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
+sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+title : nusantara sebelum kedatangan islam
+passage 15 score = 7.5
+sentence 1: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
+sentence 2: majapahit pernah tampil sebagai supremasi kekuasaan di wilayah nusantara , setelah sriwijaya runtuh .
+sentence 3: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
+sentence 4: dengan sumpah palapanya , gajah mada melakukan perluasan wilayah .
+sentence 5: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
+passage 14 score = 6.75
+sentence 1: kapal-kapal asing mencoba menghindar untuk berlabuh di pelabuhan-pelabuhan sriwijaya .
+sentence 2: kemunduran sriwijaya diperburuk lagi oleh serangan kerajaan singhasari dari jawa melalui ekspedisi pamalayu .
+sentence 3: dengan pamalayu , supremasi kerajaan singhasari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatra .
+sentence 4: setelah singhasari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
+sentence 5: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
+passage 1 score = 6.5
+sentence 1: nusantara sebelum kedatangan islam - munculnya agama islam di indonesia tidak terlepas dari pengaruh persentuhan kebudayaan antara daerah nusantara dengan negara yang membawa pengaruh islam .
+sentence 2: persentuhan kebudayaan ini terjadi sebagai salah satu akibat dari hubungan yang dilakukan antara orang-orang islam dengan orang-orang yang ada di nusantara .
+sentence 3: sebab , daerah nusantara merupakan jalur perdagangan strategis yang menghubungkan antara dua negara , yaitu laut tengah dan cina .
+sentence 4: hubungan perdagangan yang semakin lama semakin intensif menimbulkan pengaruh terhadap masuknya pengaruh-pengaruh kebudayaan arab , parsi , india , dan cina di nusantara .
+sentence 5: dengan kata lain , terjadilah proses akulturasi antara kebudayaan negara-negara itu dengan kebudayaan nusantara .
+passage 3 score = 6.5
 sentence 1: 1 .
-sentence 2: proses masuknya islam di indonesia masuknya agama islam ke indonesia dapat diketahi dari beberapa sumber yang dapat memberitakannya .
-sentence 3: sumber sejarah itu dapat digolongkan menjadi sumber ekstern ( dari luar negeri ) dan sumber intern ( dari dalam negeri ) .
-sentence 4: a. sumber eksternal 1 ) berita dari arab pada abad ke-7 ketika kerajaan sriwijaya sedang berkembang telah banyak pedagang arab yang mengadakan hubungan dengan masyarakat kerajaan zabag/sriwijaya .
-sentence 5: 2 ) berita dari eropa pada tahun 1292 marco polo ( italia ) adalah orang eropa pertama yang menginjakkan kaki di indonesia ketika kembali dari cina untuk menuju eropa melalui jalan laut .
+sentence 2: kondisi sosial budaya sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
+sentence 3: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
+sentence 4: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
+sentence 5: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+passage 4 score = 6.5
+sentence 1: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
+sentence 2: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+sentence 3: interaksi antara unit-unit akan membangun struktur sosial yang dinamik , sehingga akan menampakkan adanya suatu perubahan .
+sentence 4: masyarakat di kota pelabuhan merupakan masyarakat yang urban dan kosmopolit .
+sentence 5: terciptalah suatu tatanan masyarakat kota .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
-title : awal penyebaran islam di indonesia
-passage 4 score = 7.0
-sentence 1: 2 .
-sentence 2: proses islamisasi di indonesia islam masuk ke indonesia pada abad ke-7 dan terus berkembang serta prosesnya lebih demokratis dari pada agama hindu .
-sentence 3: itulah sebabnya pada abad ke-16 telah dapat menggeser kekuasaan hindu ( kerajaan majapahit ) .
-sentence 4: adapun proses islamisasi di indonesia dilakukan dengan berbagai bentuk , antara lain sebagai berikut .
-sentence 5: a. melalui perdagangan para pedagang dari arab , persia , dan gujarat memegang peranan penting sebab di samping berdagang , mereka juga menyebarkan agama islam .
-passage 17 score = 7.0
-sentence 1: penyebaran agama islam dilakukan dengan jalan damai , tanpa paksaan , dan kekerasan .
-sentence 2: 6 .
-sentence 3: faktor politik yang turut memperlancar penyebaran agama islam di indonesia ialah runtuhnya kerajaan majapahit ( 1478 ) atau ( 1526 ) dan jatuhnya malaka ke tangan portugis 1511 .
-sentence 4: 3 .
-sentence 5: peta penyebaran agama islam untuk dapat lebih mengetahui dan memahami lokasi daerah-daerah di indonesia yang telah mendapat pengaruh islam dapat dilihat pada peta berikut ini 4 .
-passage 2 score = 6.0
-sentence 1: 2 ) berita dari eropa pada tahun 1292 marco polo ( italia ) adalah orang eropa pertama yang menginjakkan kaki di indonesia ketika kembali dari cina untuk menuju eropa melalui jalan laut .
-sentence 2: ketika ia singgah di perlak ( peureulak ) penduduknya telah memeluk agama islam dan telah terdapat kerajaan bercorak islam , yakni kerajaan samudra pasai .
-sentence 3: 3 ) berita dari india para pedagang gujarat dari india di samping berdagang juga menyebarkan agama islam di pesisir pantai .
-sentence 4: 4 ) berita dari cina dikatakan oleh ma huan ( sekretaris laksamana cheng ho ) bahwa pada tahun 1400 telah ada pedagang-pedagang islam yang tinggal di pantai utara jawa .
-sentence 5: b. sumber internal sumber intern yang menjadi bukti masuknya islam di indonesia , antara lain sebagai berikut .
-passage 18 score = 6.0
-sentence 1: peta penyebaran agama islam untuk dapat lebih mengetahui dan memahami lokasi daerah-daerah di indonesia yang telah mendapat pengaruh islam dapat dilihat pada peta berikut ini 4 .
-sentence 2: proses dan latar belakang munculnya kerajaan islam pertama di indonesia ( peureulak / perlak ) perlak adalah nama kerajaan di wilayah aceh timur yang pusat pemerintahannya dekat muara sungai peuleula dan merupakan kerajaan islam pertama di indonesia .
-sentence 3: adapun faktor-faktor yang dapat mendorong perlak menjadi pusat kerajaan dan perdagangan , antara lain sebagai berikut .
-sentence 4: a. letaknya strategis untuk perdagangan , yaitu di tepi jalur perdagangan internasional .
-sentence 5: b. daerah aceh merupakan daerah penghasil lada yang merupakan bahan ekspor ke india dan timur tengah .
-passage 1 score = 5.75
-sentence 1: 1 .
-sentence 2: proses masuknya islam di indonesia masuknya agama islam ke indonesia dapat diketahi dari beberapa sumber yang dapat memberitakannya .
-sentence 3: sumber sejarah itu dapat digolongkan menjadi sumber ekstern ( dari luar negeri ) dan sumber intern ( dari dalam negeri ) .
-sentence 4: a. sumber eksternal 1 ) berita dari arab pada abad ke-7 ketika kerajaan sriwijaya sedang berkembang telah banyak pedagang arab yang mengadakan hubungan dengan masyarakat kerajaan zabag/sriwijaya .
-sentence 5: 2 ) berita dari eropa pada tahun 1292 marco polo ( italia ) adalah orang eropa pertama yang menginjakkan kaki di indonesia ketika kembali dari cina untuk menuju eropa melalui jalan laut .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok356.txt
+title : sejarah runtuhnya kerajaan sriwijaya
+passage 3 score = 5.5
+sentence 1: dalam bidang politik , sriwijaya hanya memiliki angkatan laut yang diandalkan .
+sentence 2: setelah kekuasaan di jawa timur berkembang pada masa airlangga , sriwijaya terpaksa mengakui jawa timur sebagai pemegang hegemoni di indonesia bagian timur dan sriwijaya di bagian barat .
+sentence 3: 4 .
+sentence 4: adanya serangan militer atas sriwijaya .
+sentence 5: serangan pertama dilakukan oleh teguh dharmawangsa terhadap wilayah selatan sriwijaya ( 992 ) hingga menyebabkan utusan yang dikirim ke cina tidak berani kembali .
+passage 4 score = 5.5
+sentence 1: serangan pertama dilakukan oleh teguh dharmawangsa terhadap wilayah selatan sriwijaya ( 992 ) hingga menyebabkan utusan yang dikirim ke cina tidak berani kembali .
+sentence 2: serangan kedua dilakukan oleh colamandala atas semenanjung malaya pada tahun 1017 kemudian atas pusat sriwijaya pada tahun 1023 – 1030 .
+sentence 3: dalam serangan ini , raja sriwijaya ditawan dan dibawa ke india .
+sentence 4: ketika kertanegara bertakhta di singasari juga ada usaha penyerangan terhadap sriwijaya , namun baru sebatas usaha mengurung sriwijaya dengan pendudukan atas wilayah melayu .
+sentence 5: akhir dari kerajaan sriwijaya adalah pendudukan oleh majapahit dalam usaha menciptakan kesatuan nusantara ( 1377 ) .
+passage 5 score = 5.5
+sentence 1: akhir dari kerajaan sriwijaya adalah pendudukan oleh majapahit dalam usaha menciptakan kesatuan nusantara ( 1377 ) .
+sentence 2: berita cina dari zaman dinasti tang menyebutkan bahwa pada abad ke-7 , di kanton dan sumatra sudah ada orang muslim .
+sentence 3: hal ini berkaitan dengan perkembangan perdagangan dan pelayaran yang bersifat internasional antara negara-negara asia barat dan asia timur , yaitu antara kerajaan islam bani umayyah , kerajaan cina dinasti tang , dan kerajaan sriwijaya .
+sentence 4: pada abad ke-7 sampai ke-12 masehi , kerajaan sriwijaya memang memegang peranan penting di bidang ekonomi dan perdagangan untuk daerah asia tenggara .
+sentence 5: namun pada abad ke-12 , peranan tersebut mulai menunjukkan kemunduran .
+passage 7 score = 5.5
+sentence 1: kemunduran sriwijaya di bidang perdagangan dan politik dipercepat oleh usahausaha kerajaan singasari untuk memperkecil kekuasaan sriwijaya dengan mengadakan ekspedisi pamalayu pada tahun 1275 .
+sentence 2: usaha tersebut dimanfaatkan oleh daerah-daerah lain untuk melepaskan diri dari kekuasaan sriwijaya .
+sentence 3: sejalan dengan itu para pedagang muslim ( mungkin disertai para mubalignya pula ) mempergunakan kesempatan ini untuk memperoleh keuntungan dari perdagangan dan politik .
+sentence 4: mereka mendukung daerah-daerah yang melepaskan diri tersebut dan memunculkan kekuatan-kekuatan baru berupa kerajaankerajaan bercorak islam , seperti samudra pasai yang terletak di pesisir timur laut aceh , termasuk kabupaten aceh utara dekat lhokseumawe .
+passage 1 score = 0.25
+sentence 1: sejarah runtuhnya kerajaan sriwijaya – kerajaan sriwijaya mundur sejak abad ke-10 disebabkan oleh faktor-faktor berikut .
+sentence 2: 1 .
+sentence 3: perubahan keadaan alam di sekitar palembang .
+sentence 4: sungai musi , ogan komering , dan sejumlah anak sungai lainnya membawa lumpur yang diendapkan di sekitar palembang sehingga posisinya menjauh dari laut dan perahu sulit merapat .
+sentence 5: 2 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
 title : bentuk bentuk kebudayaan hindu buddha yang masuk ke indonesia
 passage 16 score = 7.25
 sentence 1: candi panataran merupakan kompleks candi yang terbesar di jawa timur dan merupakan candi siwa .
@@ -378,110 +344,135 @@ sentence 3: bangsa indonesia melaksanakan teori tentang kasta , tetapi tidak mem
 sentence 4: beberapa unsur kebudayaan yang berkembang pada aman kerajaan hindu-buddha antara lain , seni bangunan , seni ukir , seni sastra , dan seni patung .
 sentence 5: salah satu hasil seni bangunan yang paling penting dalam perkembangan seni bangunan di indonesia adalah candi .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-title : s. suhud pengibar bendera pusaka sewaktu proklamasi
-passage 1 score = 0.25
-sentence 1: s. suhud pengibar bendera pusaka sewaktu proklamasi s. suhud atau lengkapnya suhud sastro kusumo , beliau adalah salah seorang pengibar bendera pusaka saat proklamasi kemerdekaan indonesia pada tanggal 17 agustus 1945 .
-sentence 2: tepatnya sebagai pendamping pak latif hendraningrat .
-sentence 3: bagaimana ceritanya soal peristiwa proklamasi ini ?
-sentence 4: soediro ( mantan walikota jakarta tahun 50-an ) , saat tahun 1945 menjabat wakil kepala barisan pelopor , bercerita .
-sentence 5: sejak tanggal 14 agustus 1945 , dia menugaskan soehoed ( foto diatas , tampak dalam proklamasi foto sebagai seorang pemuda bercelana pendek ) dan beberapa orang pelopor istimewa untuk menjaga keluarga soekarno .
-passage 11 score = 0.25
-sentence 1: setelah upacara selesai berlangsung , tiba-tiba masuk sambil berlari kurang lebih 100 orang anggota pelopor yang dipimpin s.brata .
-sentence 2: mereka tidak tahu terjadinya perubahan tempat , sehingga ketinggalan acara .
-sentence 3: namun menuntut terus agar soekarno membacakan lagi proklamasi .
-sentence 4: akhirnya soekarno yang sudah masuk kamar , keluar lagi dan menjelaskan melalui mikrofon bahwa pembacaan proklamasi tidak dapat diulang .
-sentence 5: karena masih kurang puas mereka minta kepada hatta untuk memberikan amanat singkat .
-passage 12 score = 0.25
-sentence 1: karena masih kurang puas mereka minta kepada hatta untuk memberikan amanat singkat .
-sentence 2: hatta kemudian meluluskannya .
-sentence 3: yang juga terlambat adalah dr radjiman wedjodiningrat dan beberapa anggota ppki .
-sentence 4: setelah acara selesai , soediro dan dr muwardi memilih 6 orang anggota barisan pelopor istimewa , pelatih pencak silat menjadi pengawal soekarno-hatta kelompok ini dipimpin oleh soemartojo .
-sentence 5: sampai selesainya proklamasi fihak jepang tidak menyadari apa yang telah terjadi .
-passage 2 score = 0.0
-sentence 1: sejak tanggal 14 agustus 1945 , dia menugaskan soehoed ( foto diatas , tampak dalam proklamasi foto sebagai seorang pemuda bercelana pendek ) dan beberapa orang pelopor istimewa untuk menjaga keluarga soekarno .
-sentence 2: pada tanggal 16 agustus 1945 subuh , soehoed melaporkan bahwa telah datang soekarni dan chaerul saleh dan kawan-kawannya .
-sentence 3: soehoed tidak curiga karena caherul juga anggota pelopor istimewa .
-sentence 4: demikian juga ketika soekarno sekeluarga dibawa pergi tidak ada kecurigaan sebagai peristiwa penculikan .
-sentence 5: pada mereka timbul semangat lagi ketika soekarno kembali pada tanggal 16 agustus 1945 malam hari .
-passage 3 score = 0.0
-sentence 1: pada mereka timbul semangat lagi ketika soekarno kembali pada tanggal 16 agustus 1945 malam hari .
-sentence 2: berkaitan dengan perintah dr muwardi ( pimpinan barisan pelopor jakarta ) untuk melakukan persiapan upacara 17 agustus 1945 , soediro memanggil para pembantunya untuk turut menyebarkan akan adanya acara sangat penting pada tanggal 17 agustus 1945 .
-sentence 3: misalnya k.gunadi diserahkan tugas untuk menyampaikan instruksi tertulis yang ditujukan pada para anggota barisan pelopor istimewa dan eksponen barisan pelopor lainnya .
-sentence 4: sedangkan daitai-daitai ( pimpinan di kawedanaan ) dan cutai-cutai ( pimpinan dikecamatan ) banyak yang sudah dihubungi sendiri , secara pertilpun atau perkurir .
-sentence 5: instruksinya antara lain , berkumpul dilapangan ikada tanpa membawa panji pelopor pada jam 11.00 untuk keperluan menghadiri upacara penting .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+passage 16 score = 6.5
+sentence 1: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
+sentence 2: b. struktur pemerintahan majapahit yang mirip dengan sistem negara serikat pada masa modern dan banyaknya kebebasan yang diberikan kepada daerah memudahkan wilayah-wilayah jajahan untuk melepaskan diri begitu diketahui bahwa di pusat pemerintahan sedang kosong kekuasaan .
+sentence 3: c. terjadinya perang saudara , di antaranya yang terkenal adalah perang paregreg ( 1401-1406 ) yang dilakukan oleh bhre wirabhumi melawan pusat kerajaan majapahit .
+sentence 4: bhre wirabhumi diberi kekuasaan di wilayah blambangan .
+sentence 5: namun , ia berambisi untuk menjadi raja majapahit .
+passage 17 score = 6.5
+sentence 1: namun , ia berambisi untuk menjadi raja majapahit .
+sentence 2: dalam cerita rakyat , bhre wirabhumi dikenal sebagai minak jingga yang dikalahkan oleh raden gajah atau damarwulan .
+sentence 3: selain perang saudara , terjadi juga usaha memisahkan diri yang dilakukan girindrawardhana dari kediri ( 1478 ) .
+sentence 4: d. masuknya agama islam sejak zaman kerajaan kediri di jawa timur menimbulkan kekuatan baru yang menentang kekuasaan majapahit .
+sentence 5: banyak bupati di wilayah pantai yang masuk islam karena kepentingan dagang dan berbalik melawan majapahit .
+passage 7 score = 6.0
+sentence 1: serangan kedua dilakukan oleh colamandala atas semenanjung malaya pada tahun 1017 kemudian atas pusat sriwijaya pada tahun 1023 – 1030 .
+sentence 2: dalam serangan ini , raja sriwijaya ditawan dan dibawa ke india .
+sentence 3: ketika kertanegara bertakhta di singasari juga ada usaha penyerangan terhadap sriwijaya , namun baru sebatas usaha mengurung sriwijaya dengan pendudukan atas wilayah melayu .
+sentence 4: akhir dari kerajaan sriwijaya adalah pendudukan oleh majapahit dalam usaha menciptakan kesatuan nusantara ( 1377 ) .
+sentence 5: berita cina dari zaman dinasti tang menyebutkan bahwa pada abad ke-7 , di kanton dan sumatra sudah ada orang muslim .
+passage 1 score = 5.75
+sentence 1: penyebab runtuhnya kerajaan hindu-buddha di indonesia - setelah memasuki abad ke-10 sampai abad ke-12 , kerajaan-kerajaan yang bercorak hindu maupun buddha di indonesia mulai mengalami kemunduran .
+sentence 2: faktor-faktor penyebab runtuhnya kerajaan-kerajaan yang bercorak hindu-buddha sebagai berikut .
+sentence 3: 1 .
+sentence 4: terdesaknya kerajaan-kerajaan kecil oleh kerajaan-kerajaan besar .
+sentence 5: 2 .
+passage 19 score = 5.75
+sentence 1: 2 .
+sentence 2: kerajaan tarumanegara berdiri pada abad ke-5 di jawa barat .
+sentence 3: sumber sejarah berupa prasasti ciaruteun , jambu , pasar awi , kebon kopi , muara cianten , tugu , dan cidangiang .
+sentence 4: 3 .
+sentence 5: kerajaan sriwijaya berdiri pada abad ke-7 di palembang .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok263.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+passage 16 score = 6.5
+sentence 1: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
+sentence 2: b. struktur pemerintahan majapahit yang mirip dengan sistem negara serikat pada masa modern dan banyaknya kebebasan yang diberikan kepada daerah memudahkan wilayah-wilayah jajahan untuk melepaskan diri begitu diketahui bahwa di pusat pemerintahan sedang kosong kekuasaan .
+sentence 3: c. terjadinya perang saudara , di antaranya yang terkenal adalah perang paregreg ( 1401-1406 ) yang dilakukan oleh bhre wirabhumi melawan pusat kerajaan majapahit .
+sentence 4: bhre wirabhumi diberi kekuasaan di wilayah blambangan .
+sentence 5: namun , ia berambisi untuk menjadi raja majapahit .
+passage 17 score = 6.5
+sentence 1: namun , ia berambisi untuk menjadi raja majapahit .
+sentence 2: dalam cerita rakyat , bhre wirabhumi dikenal sebagai minak jingga yang dikalahkan oleh raden gajah atau damarwulan .
+sentence 3: selain perang saudara , terjadi juga usaha memisahkan diri yang dilakukan girindrawardhana dari kediri ( 1478 ) .
+sentence 4: d. masuknya agama islam sejak zaman kerajaan kediri di jawa timur menimbulkan kekuatan baru yang menentang kekuasaan majapahit .
+sentence 5: banyak bupati di wilayah pantai yang masuk islam karena kepentingan dagang dan berbalik melawan majapahit .
+passage 7 score = 6.0
+sentence 1: serangan kedua dilakukan oleh colamandala atas semenanjung malaya pada tahun 1017 kemudian atas pusat sriwijaya pada tahun 1023 – 1030 .
+sentence 2: dalam serangan ini , raja sriwijaya ditawan dan dibawa ke india .
+sentence 3: ketika kertanegara bertakhta di singasari juga ada usaha penyerangan terhadap sriwijaya , namun baru sebatas usaha mengurung sriwijaya dengan pendudukan atas wilayah melayu .
+sentence 4: akhir dari kerajaan sriwijaya adalah pendudukan oleh majapahit dalam usaha menciptakan kesatuan nusantara ( 1377 ) .
+sentence 5: berita cina dari zaman dinasti tang menyebutkan bahwa pada abad ke-7 , di kanton dan sumatra sudah ada orang muslim .
+passage 1 score = 5.75
+sentence 1: penyebab runtuhnya kerajaan hindu-buddha di indonesia - setelah memasuki abad ke-10 sampai abad ke-12 , kerajaan-kerajaan yang bercorak hindu maupun buddha di indonesia mulai mengalami kemunduran .
+sentence 2: faktor-faktor penyebab runtuhnya kerajaan-kerajaan yang bercorak hindu-buddha sebagai berikut .
+sentence 3: 1 .
+sentence 4: terdesaknya kerajaan-kerajaan kecil oleh kerajaan-kerajaan besar .
+sentence 5: 2 .
+passage 19 score = 5.75
+sentence 1: 2 .
+sentence 2: kerajaan tarumanegara berdiri pada abad ke-5 di jawa barat .
+sentence 3: sumber sejarah berupa prasasti ciaruteun , jambu , pasar awi , kebon kopi , muara cianten , tugu , dan cidangiang .
+sentence 4: 3 .
+sentence 5: kerajaan sriwijaya berdiri pada abad ke-7 di palembang .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+passage 9 score = 7.25
+sentence 1: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+sentence 2: walau demikian samudera pasai diberi keleluasan untuk tetap menguasai perdagangan di selat malaka .
+sentence 3: belakangan diketahui bahwa sebagian wilayah dari kerajaan majapahit sudah memeluk agama islam .
+sentence 4: karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada abad ke-14 dapat dipanen dua kali setahun , berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+sentence 5: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+passage 1 score = 6.0
+sentence 1: sejarah kerajaan samudera pasai - kerajaan samudera pasai dalam sejarah indonesia tercatat sebagai kerajaan islam yang pertama di indonesia .
+sentence 2: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+sentence 3: kerajaan samudera pasai terletak di sebelah utara perlak di daerah lhok seumawe sekarang ( pantai timur aceh ) , berbatasan langsung dengan selat malaka .
+sentence 4: pada tahun 1297 m , sultan malik al-saleh wafat , kemudian kerajaan samudera pasai dipimpin oleh putranya yang bernama sultan malik al-tahir ( 1297-1326 ) .
+sentence 5: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+passage 10 score = 6.0
+sentence 1: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+sentence 2: hubungan perdagangan penduduk pesisir dengan penduduk pedalaman adalah dengan sistem barter .
+sentence 3: karena letaknya yang strategis , di selat malaka , di tengah jalur perdagangan india , gujarat , arab , dan cina , pasai dengan cepat berkembang menjadi besar .
+sentence 4: sebagai kerajaan maritim , pasai menggantungkan perekonomiannya dari pelayaran dan perdagangan .
+sentence 5: letaknya yang strategis di selat malaka membuat kerajaan ini menjadi penghubung antara pusat-pusat dagang di nusantara dengan asia barat , india , dan cina .
+passage 12 score = 6.0
+sentence 1: kehidupan agama masyarakat kerajaan samudera pasai kerajaan samudera pasai merupakan dua kerajaan kembar , yakni samudera dan pasai , kedua-duanya merupakan kerajaan yang berdekatan .
+sentence 2: ketika nazimuddin al-kamil ( laksamana asal mesir ) menetap di pasai , kedua kerajaan tersebut akhirnya dipersatukan dan pemerintahan menjalankan sistem nilai-nilai islam .
+sentence 3: kerajaan samudera pasai adalah kerajaan pesisir sehingga pengaruhnya hanya berada di bagian timur sumatera .
+sentence 4: samudera pasai berjasa menyebarkan agama islam ke seluruh pelosok di sumatera , bahkan menjadi pusat penyebaran agama .
+sentence 5: selain banyaknya orang arab menetap dan banyak ditemui persamaan dengan kebudayaan arab , atas jasa-jasanya menyebarkan agama islam ke seluruh pelosok nusantara wilayah itu dinamakan serambi mekah .
+passage 13 score = 6.0
+sentence 1: selain banyaknya orang arab menetap dan banyak ditemui persamaan dengan kebudayaan arab , atas jasa-jasanya menyebarkan agama islam ke seluruh pelosok nusantara wilayah itu dinamakan serambi mekah .
+sentence 2: berdasarkan catatan batutah , islam telah ada di samudera pasai sejak seabad yang lalu , jadi sekitar abad ke-12 m. raja dan rakyat samudera pasai mengikuti mazhab syafei .
+sentence 3: ketika singgah di pelabuhan pasai , batutah dijemput oleh laksamana muda dari pasai bernama bohruz .
+sentence 4: lalu , laksmana tersebut memberitakan kedatangan batutah kepada raja .
+sentence 5: ia diundang ke istana dan bertemu dengan sultan muhammad , cucu malik as-saleh .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
 title : kehidupan negara negara kerajaan hindu buddha di indonesia
-passage 1 score = 7.25
+passage 1 score = 8.25
 sentence 1: kehidupan negara negara kerajaan hindu buddha di indonesia - lahirnya kerajaan-kerajaan yang bercorak hindu-buddha merupakan salah satu perubahan yang penting dengan masuknya pengaruh tradisi hindu-buddha di indonesia .
 sentence 2: kerajaan-kerajaan itu antara lain kerajaan kutai , kerajaan tarumanegara , kerajaan sriwijaya , kerajaan mataram lama ( berpusat di jawa tengah ) , kerajaan mataram lama ( berpusat di jawa timur ) , kerajaan singhasari , kerajaan majapahit , kerajaan sunda , dan kerajaan di bali .
 sentence 3: bagaimana proses munculnya kerajaankerajaan tersebut ?
 sentence 4: kapan kerajaan-kerajaan itu berdiri ?
 sentence 5: tradisi-tradisi apa saja yang telah tumbuh berkembang pada kerajaankerajaan itu ?
-passage 8 score = 6.5
-sentence 1: prasasti ini dikeluarkan oleh wisnu wardhana raja singhasari yang isinya menyebutkan pemberian hadiah desa dandea malurung oleh wisnu wardhana kepada pranaraja .
-sentence 2: kerajaan majapahit .
-sentence 3: berbicara tentang kerajaan majapahit berarti berbicara tetang sebuah puncak kejayaan dari peradaban hindu-buddha yang pernah hidup di indonesia .
-sentence 4: kerajaan majapahit disebut sebagai kerajaan nasional indonesia yang ke dua .
-sentence 5: hal tersebut disebabkan oleh upaya yang besar dari kerajaan ini untuk mewujudkan suatu cita-cita yaitu penyatuan nusantara .
-passage 10 score = 6.0
-sentence 1: berita tentang kerajaan hindu-buddha di jawa barat setelah kerajaan tarumanegara terdapat dalam naskah carita parahyangan , sebuah sumber berbahasa sunda kuno yang ditulis sekitar abad ke-19 .
-sentence 2: kerajaan sunda yang berada di jawa barat dan jawa tengah bagian barat merupakan kerajaan yang bercorak hindu cukup kuat dan sedikit menerima pengaruh buddha .
-sentence 3: kerajaan bali .
-sentence 4: nama bali sudah lama dikenal dalam beberapa sumber kuno .
-sentence 5: dalam berita cina abad ke-7 disebut adanya nama daerah yang bernama dwapa-tan , yang terletak di sebelah timur kerajaan holing ( jawa ) .
-passage 11 score = 6.0
-sentence 1: dalam berita cina abad ke-7 disebut adanya nama daerah yang bernama dwapa-tan , yang terletak di sebelah timur kerajaan holing ( jawa ) .
-sentence 2: menurut para ahli nama dwa-pa-tan ini sama dengan bali .
-sentence 3: adat istiadat penduduk dwapa-tan ini sama dengan di holing , yaitu setiap bulan padi sudah dipetik , penduduknya menulis dengan daun lontar , orang yang meninggal dihiasi dengan emas , dan ke dalam mulutnya dimasukkan sepotong emas serta diberi harumharuman , kemudian mayat itu dibakar .
-sentence 4: [ gs ]
-passage 2 score = 5.5
-sentence 1: tradisi-tradisi apa saja yang telah tumbuh berkembang pada kerajaankerajaan itu ?
-sentence 2: pertanyaan-pertanyaan tersebut dapat kamu jawab dalam pembahasan mengenai kehidupan kerajaan-kerajaan hindu-buddha yang ada di indonesia berikut ini .
-sentence 3: kerajaan kutai .
-sentence 4: kerajaan kutai terletak di dekat sungai mahakam , kalimantan timur .
-sentence 5: keberadaan kerajaan ini dapat diketahui dari tujuh buah prasasti ( yupa ) yang ditemukan di muarakaman , tepi sungai mahakam .
 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+passage 5 score = 8.25
+sentence 1: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
+sentence 2: setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
+sentence 3: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
+sentence 4: majapahit pernah tampil sebagai supremasi kekuasaan di wilayah nusantara , setelah sriwijaya runtuh .
+sentence 5: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
 
-After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 3 score = 8.0
-sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
-sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
-sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
-sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
-sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+passage 5 score = 8.25
+sentence 1: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
+sentence 2: setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
+sentence 3: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
+sentence 4: majapahit pernah tampil sebagai supremasi kekuasaan di wilayah nusantara , setelah sriwijaya runtuh .
+sentence 5: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 26 score = 8.0
-sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
-sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
-sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
-sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
-sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 3 score = 8.0
-sentence 1: r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
-sentence 2: selanjutnya , ia berhasil menyeberang ke madura minta perlindungan dan bantuan kepada bupati sumenep , aria wiraraja .
-sentence 3: atas saran dan jaminan aria wiraraja , r. wijaya mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
-sentence 4: r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di jawatimur .
-sentence 5: setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 26 score = 8.0
-sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
-sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
-sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
-sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
-sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 8 score = 8.0
 sentence 1: majapahit menaklukkan hampir seluruh nusantara dan melebarkan sayapnya hingga ke seluruh asia tenggara .
@@ -490,646 +481,428 @@ sentence 3: menurut para ahli di malang ditempatkan seorang penguasa yang disebu
 sentence 4: dalam negara kertagama dikisahkan hayam wuruk sebagai raja majapahit melakukan ziarah ke makam leluhurnya ( yang berada disekitar daerah malang ) , salah satunya di dekat makam ken arok .
 sentence 5: ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+passage 9 score = 8.0
+sentence 1: ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
+sentence 2: beberapa prasasti dan arca peninggalan majapahit dikawasan puncak gunung semeru dan juga di gunung arjuna menunjukkan bahwa kawasan gunung tersebut adalah tempat bersemayam para dewa dan hanya keturunan raja yang boleh menginjakkan kaki di wilayah tersebut .
+sentence 3: bisa disimpulkan bahwa berbagai peninggalan tersebut merupakan rangkaian yang saling berhubungan walaupun terpisah oleh masa yang berbeda sepanjang 7 abad .
+sentence 4: keruntuhan majapahit tersebutlah kisah , adipati terung meminta sultan bintara alias raden patah yang masih “ kapernah ” kakaknya , untuk menghadap prabu brawijaya .
+sentence 5: tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
+
 
 Pencarian jawaban
 ---------------------
 
 
-r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
+kehidupan negara negara kerajaan hindu buddha di <LOCATION>indonesia</LOCATION> - lahirnya kerajaan-kerajaan yang bercorak hindu-buddha merupakan salah satu perubahan yang penting dengan masuknya pengaruh tradisi hindu-buddha di <LOCATION>indonesia .</LOCATION>
 
-
-tidak ada entitas jawaban, skip
-
-
-selanjutnya , ia berhasil menyeberang ke <LOCATION>madura minta perlindungan</LOCATION> dan bantuan kepada bupati sumenep , aria wiraraja .
-
-memproses passage 3
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-madura minta perlindungan | position = 3
-
-
-melakukan pencarian:
-kata kunci = mana
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = seberang
-tokenwithtagstemmed = madura minta lindung
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = sumenep
-tokenwithtagstemmed = aria
-tokenwithtagstemmed = wiraraja
-kata kunci = letak
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = seberang
-tokenwithtagstemmed = madura minta lindung
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = sumenep
-tokenwithtagstemmed = aria
-tokenwithtagstemmed = wiraraja
-kata kunci = raja
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = seberang
-tokenwithtagstemmed = madura minta lindung
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = sumenep
-tokenwithtagstemmed = aria
-tokenwithtagstemmed = wiraraja
-kata kunci = majapahit
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = seberang
-tokenwithtagstemmed = madura minta lindung
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = sumenep
-tokenwithtagstemmed = aria
-tokenwithtagstemmed = wiraraja
-
-
-atas saran dan jaminan <PERSON>aria wiraraja , r. wijaya</PERSON> mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
-
-
-tidak ada entitas jawaban, skip
-
-
-r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di <LOCATION>jawatimur .</LOCATION>
-
-memproses passage 3
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-jawatimur | position = 13
-
-
-melakukan pencarian:
-kata kunci = mana
-tokenwithtagstemmed = r
-tokenwithtagstemmed = wijaya
-tokenwithtagstemmed = gabung
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = tahu
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = jawatimur
-kata kunci = letak
-tokenwithtagstemmed = r
-tokenwithtagstemmed = wijaya
-tokenwithtagstemmed = gabung
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = tahu
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = jawatimur
-kata kunci = raja
-tokenwithtagstemmed = r
-tokenwithtagstemmed = wijaya
-tokenwithtagstemmed = gabung
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = tahu
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = jawatimur
-kata kunci = majapahit
-tokenwithtagstemmed = r
-tokenwithtagstemmed = wijaya
-tokenwithtagstemmed = gabung
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = tahu
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = jawatimur
-
-
-setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
-
-
-tidak ada entitas jawaban, skip
-
-
-dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada <TIME>tahun 1334</TIME> , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di <LOCATION>semenanjung malaka .</LOCATION>
-
-memproses passage 26
+memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+title : kehidupan negara negara kerajaan hindu buddha di indonesia
 list jawaban dan posisi dalam passage
-semenanjung malaka | position = 16
+indonesia | position = 6
+indonesia | position = 22
 
 
 melakukan pencarian:
 kata kunci = mana
-tokenwithtagstemmed = rangka
-tokenwithtagstemmed = wujud
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = gajah
-tokenwithtagstemmed = mada
-tokenwithtagstemmed = takluk
-tokenwithtagstemmed = bal
-tokenwithtagstemmed = tahun 1334
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = nusa
-tokenwithtagstemmed = tenggara
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = sumatera
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = semenanjung malaka
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = corak
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = indonesia
 kata kunci = letak
-tokenwithtagstemmed = rangka
-tokenwithtagstemmed = wujud
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = gajah
-tokenwithtagstemmed = mada
-tokenwithtagstemmed = takluk
-tokenwithtagstemmed = bal
-tokenwithtagstemmed = tahun 1334
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = nusa
-tokenwithtagstemmed = tenggara
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = sumatera
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = semenanjung malaka
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = corak
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = indonesia
 kata kunci = raja
-tokenwithtagstemmed = rangka
-tokenwithtagstemmed = wujud
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = gajah
-tokenwithtagstemmed = mada
-tokenwithtagstemmed = takluk
-tokenwithtagstemmed = bal
-tokenwithtagstemmed = tahun 1334
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = nusa
-tokenwithtagstemmed = tenggara
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = sumatera
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = semenanjung malaka
-kata kunci = majapahit
-tokenwithtagstemmed = rangka
-tokenwithtagstemmed = wujud
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = gajah
-tokenwithtagstemmed = mada
-tokenwithtagstemmed = takluk
-tokenwithtagstemmed = bal
-tokenwithtagstemmed = tahun 1334
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = nusa
-tokenwithtagstemmed = tenggara
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = sumatera
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = semenanjung malaka
-
-
-seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas <LOCATION>wilayah republik indonesia</LOCATION> sekarang .
-
-memproses passage 26
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-wilayah republik indonesia | position = 11
-
-
-melakukan pencarian:
-kata kunci = mana
-tokenwithtagstemmed = cantum
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = negarakertagama
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
 tokenwithtagstemmed = raja
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = wilayah republik indonesia
-kata kunci = letak
-tokenwithtagstemmed = cantum
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = negarakertagama
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = wilayah republik indonesia
-kata kunci = raja
-tokenwithtagstemmed = cantum
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = negarakertagama
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = raja
-posisi dalam passage = 5
+posisi dalam passage = 3
 jarak dengan tiap kandidat jawaban:
-wilayah republik indonesia 6
+indonesia 3
+indonesia 19
 
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = wilayah republik indonesia
-kata kunci = majapahit
-tokenwithtagstemmed = cantum
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = negarakertagama
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = lahir
 tokenwithtagstemmed = raja
-tokenwithtagstemmed = majapahit
-posisi dalam passage = 6
+posisi dalam passage = 8
 jarak dengan tiap kandidat jawaban:
-wilayah republik indonesia 5
+indonesia -2
+indonesia 14
 
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = wilayah republik indonesia
+tokenwithtagstemmed = raja
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+indonesia -3
+indonesia 13
 
-
-tribhuanatunggadewi memerintah selama dua puluh dua <TIME>tahun .</TIME>
-
-
-tidak ada entitas jawaban, skip
-
-
-pada <TIME>tahun 1350</TIME> , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
-
-
-tidak ada entitas jawaban, skip
-
-
-pada <TIME>tahun 1350</TIME> m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
-
-
-tidak ada entitas jawaban, skip
-
-
-r. wijaya terdesak oleh serangan tentara jayakatwang di medan utara dan berhasil melarikan diri serta mendapat perlindungan dari kepala desa kudadu .
-
-
-tidak ada entitas jawaban, skip
-
-
-selanjutnya , ia berhasil menyeberang ke <LOCATION>madura minta perlindungan</LOCATION> dan bantuan kepada bupati sumenep , aria wiraraja .
-
-memproses passage 3
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-madura minta perlindungan | position = 3
-
-
-melakukan pencarian:
-kata kunci = mana
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = seberang
-tokenwithtagstemmed = madura minta lindung
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = sumenep
-tokenwithtagstemmed = aria
-tokenwithtagstemmed = wiraraja
-kata kunci = letak
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = seberang
-tokenwithtagstemmed = madura minta lindung
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = sumenep
-tokenwithtagstemmed = aria
-tokenwithtagstemmed = wiraraja
-kata kunci = raja
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = seberang
-tokenwithtagstemmed = madura minta lindung
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = sumenep
-tokenwithtagstemmed = aria
-tokenwithtagstemmed = wiraraja
+tokenwithtagstemmed = corak
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = indonesia
 kata kunci = majapahit
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = hasil
-tokenwithtagstemmed = seberang
-tokenwithtagstemmed = madura minta lindung
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = sumenep
-tokenwithtagstemmed = aria
-tokenwithtagstemmed = wiraraja
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = corak
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = indonesia
 
 
-atas saran dan jaminan <PERSON>aria wiraraja , r. wijaya</PERSON> mengabdikan diri kepada jayakatwang dan memperoleh tanah di desa tarik yang kemudian menjadi pusat kerajaan majapahit tentara kubilai khan sebanyak 200.000 orang dibawah pimpinan shih pie , ike mase , dan kau shing datang untuk menghukum kertanegara .
+kerajaan-kerajaan itu antara lain kerajaan kutai , kerajaan tarumanegara , kerajaan sriwijaya , kerajaan mataram lama ( berpusat di jawa tengah ) , kerajaan mataram lama ( berpusat di jawa timur ) , kerajaan singhasari , kerajaan majapahit , kerajaan sunda , dan kerajaan di bali .
 
 
 tidak ada entitas jawaban, skip
 
 
-r. wijaya bergabung dengan tentara cina dan mengadakan serangan ke kediri karena cina tidak mengetahui terjadinya perubahan kekuasaan di <LOCATION>jawatimur .</LOCATION>
-
-memproses passage 3
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-jawatimur | position = 13
-
-
-melakukan pencarian:
-kata kunci = mana
-tokenwithtagstemmed = r
-tokenwithtagstemmed = wijaya
-tokenwithtagstemmed = gabung
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = tahu
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = jawatimur
-kata kunci = letak
-tokenwithtagstemmed = r
-tokenwithtagstemmed = wijaya
-tokenwithtagstemmed = gabung
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = tahu
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = jawatimur
-kata kunci = raja
-tokenwithtagstemmed = r
-tokenwithtagstemmed = wijaya
-tokenwithtagstemmed = gabung
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = tahu
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = jawatimur
-kata kunci = majapahit
-tokenwithtagstemmed = r
-tokenwithtagstemmed = wijaya
-tokenwithtagstemmed = gabung
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = cina
-tokenwithtagstemmed = tahu
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = ubah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = jawatimur
-
-
-setelah r. wijaya dengan bantuan tentara kubilai khan berhasil mengalahkan jayakatwang , ia menghantam tentara asing tersebut .
+bagaimana proses munculnya kerajaankerajaan tersebut ?
 
 
 tidak ada entitas jawaban, skip
 
 
-dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada <TIME>tahun 1334</TIME> , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di <LOCATION>semenanjung malaka .</LOCATION>
+kapan kerajaan-kerajaan itu berdiri ?
 
-memproses passage 26
+
+tidak ada entitas jawaban, skip
+
+
+tradisi-tradisi apa saja yang telah tumbuh berkembang pada kerajaankerajaan itu ?
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di <LOCATION>sumatera .</LOCATION>
+
+memproses passage 5
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
 list jawaban dan posisi dalam passage
-semenanjung malaka | position = 16
+sumatera | position = 9
 
 
 melakukan pencarian:
 kata kunci = mana
-tokenwithtagstemmed = rangka
-tokenwithtagstemmed = wujud
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = gajah
-tokenwithtagstemmed = mada
-tokenwithtagstemmed = takluk
-tokenwithtagstemmed = bal
-tokenwithtagstemmed = tahun 1334
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = nusa
-tokenwithtagstemmed = tenggara
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = sumatera
+tokenwithtagstemmed = pamalayu
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = singosari
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = bekas
 tokenwithtagstemmed = daerah
-tokenwithtagstemmed = semenanjung malaka
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sumatera
 kata kunci = letak
-tokenwithtagstemmed = rangka
-tokenwithtagstemmed = wujud
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = gajah
-tokenwithtagstemmed = mada
-tokenwithtagstemmed = takluk
-tokenwithtagstemmed = bal
-tokenwithtagstemmed = tahun 1334
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = nusa
-tokenwithtagstemmed = tenggara
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = sumatera
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = semenanjung malaka
-kata kunci = raja
-tokenwithtagstemmed = rangka
-tokenwithtagstemmed = wujud
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = gajah
-tokenwithtagstemmed = mada
-tokenwithtagstemmed = takluk
-tokenwithtagstemmed = bal
-tokenwithtagstemmed = tahun 1334
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = nusa
-tokenwithtagstemmed = tenggara
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = sumatera
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = semenanjung malaka
-kata kunci = majapahit
-tokenwithtagstemmed = rangka
-tokenwithtagstemmed = wujud
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = cita
-tokenwithtagstemmed = gajah
-tokenwithtagstemmed = mada
-tokenwithtagstemmed = takluk
-tokenwithtagstemmed = bal
-tokenwithtagstemmed = tahun 1334
-tokenwithtagstemmed = kalimantan
-tokenwithtagstemmed = nusa
-tokenwithtagstemmed = tenggara
-tokenwithtagstemmed = sulawesi
-tokenwithtagstemmed = malu
-tokenwithtagstemmed = sumatera
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = semenanjung malaka
-
-
-seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas <LOCATION>wilayah republik indonesia</LOCATION> sekarang .
-
-memproses passage 26
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-wilayah republik indonesia | position = 11
-
-
-melakukan pencarian:
-kata kunci = mana
-tokenwithtagstemmed = cantum
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = negarakertagama
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = pamalayu
+tokenwithtagstemmed = supremasi
 tokenwithtagstemmed = raja
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = wilayah republik indonesia
-kata kunci = letak
-tokenwithtagstemmed = cantum
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = negarakertagama
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = liput
-tokenwithtagstemmed = daerah
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = wilayah republik indonesia
-kata kunci = raja
-tokenwithtagstemmed = cantum
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = negarakertagama
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = kuasa
-tokenwithtagstemmed = raja
-posisi dalam passage = 5
+tokenwithtagstemmed = singosari
+tokenwithtagstemmed = letak
+posisi dalam passage = 4
 jarak dengan tiap kandidat jawaban:
-wilayah republik indonesia 6
+sumatera 5
 
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = liput
+tokenwithtagstemmed = bekas
 tokenwithtagstemmed = daerah
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = wilayah republik indonesia
-kata kunci = majapahit
-tokenwithtagstemmed = cantum
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = negarakertagama
-tokenwithtagstemmed = wilayah
-tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sumatera
+kata kunci = raja
+tokenwithtagstemmed = pamalayu
+tokenwithtagstemmed = supremasi
 tokenwithtagstemmed = raja
-tokenwithtagstemmed = majapahit
-posisi dalam passage = 6
+posisi dalam passage = 2
 jarak dengan tiap kandidat jawaban:
-wilayah republik indonesia 5
+sumatera 7
 
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = liput
+tokenwithtagstemmed = singosari
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = bekas
 tokenwithtagstemmed = daerah
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = wilayah republik indonesia
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sumatera
+kata kunci = majapahit
+tokenwithtagstemmed = pamalayu
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = singosari
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = bekas
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sumatera
 
 
-tribhuanatunggadewi memerintah selama dua puluh dua <TIME>tahun .</TIME>
+setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
 
 
 tidak ada entitas jawaban, skip
 
 
-pada <TIME>tahun 1350</TIME> , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
 
 
 tidak ada entitas jawaban, skip
 
 
-pada <TIME>tahun 1350</TIME> m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+majapahit pernah tampil sebagai supremasi kekuasaan di <LOCATION>wilayah nusantara ,</LOCATION> setelah sriwijaya runtuh .
+
+memproses passage 5
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+list jawaban dan posisi dalam passage
+wilayah nusantara | position = 4
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = wilayah nusantara
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = runtuh
+kata kunci = letak
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = wilayah nusantara
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = runtuh
+kata kunci = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = wilayah nusantara
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = runtuh
+kata kunci = majapahit
+tokenwithtagstemmed = majapahit
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+wilayah nusantara 4
+
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = wilayah nusantara
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = runtuh
+
+
+kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di <LOCATION>sumatera .</LOCATION>
+
+memproses passage 5
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+list jawaban dan posisi dalam passage
+sumatera | position = 9
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = pamalayu
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = singosari
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = bekas
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sumatera
+kata kunci = letak
+tokenwithtagstemmed = pamalayu
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = singosari
+tokenwithtagstemmed = letak
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+sumatera 5
+
+tokenwithtagstemmed = bekas
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sumatera
+kata kunci = raja
+tokenwithtagstemmed = pamalayu
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = raja
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+sumatera 7
+
+tokenwithtagstemmed = singosari
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = bekas
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sumatera
+kata kunci = majapahit
+tokenwithtagstemmed = pamalayu
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = singosari
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = bekas
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = sumatera
+
+
+setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
+
+
+tidak ada entitas jawaban, skip
+
+
+kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
+
+
+tidak ada entitas jawaban, skip
+
+
+majapahit pernah tampil sebagai supremasi kekuasaan di <LOCATION>wilayah nusantara ,</LOCATION> setelah sriwijaya runtuh .
+
+memproses passage 5
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+list jawaban dan posisi dalam passage
+wilayah nusantara | position = 4
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = wilayah nusantara
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = runtuh
+kata kunci = letak
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = wilayah nusantara
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = runtuh
+kata kunci = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = wilayah nusantara
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = runtuh
+kata kunci = majapahit
+tokenwithtagstemmed = majapahit
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+wilayah nusantara 4
+
+tokenwithtagstemmed = tampil
+tokenwithtagstemmed = supremasi
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = wilayah nusantara
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = runtuh
+
+
+kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
 
 
 tidak ada entitas jawaban, skip
@@ -1139,7 +912,7 @@ majapahit menaklukkan hampir seluruh nusantara dan melebarkan sayapnya hingga ke
 
 memproses passage 8
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 asia tenggara | position = 5
@@ -1184,7 +957,7 @@ pada masa ini daerah malang tidak lagi menjadi pusat kekuasaan karena diduga tel
 
 memproses passage 8
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 daerah | position = 8
@@ -1241,7 +1014,7 @@ menurut <PERSON>para ahli</PERSON> di <LOCATION>malang</LOCATION> ditempatkan se
 
 memproses passage 8
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 malang | position = 2
@@ -1290,7 +1063,7 @@ dalam negara kertagama dikisahkan hayam wuruk sebagai raja majapahit melakukan z
 
 memproses passage 8
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 makam leluhurnya | position = 9
@@ -1392,76 +1165,302 @@ ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawa
 
 tidak ada entitas jawaban, skip
 
+
+ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
+
+
+tidak ada entitas jawaban, skip
+
+
+beberapa prasasti dan arca peninggalan majapahit dikawasan puncak gunung semeru dan juga di <LOCATION>gunung</LOCATION> arjuna menunjukkan bahwa kawasan gunung tersebut adalah tempat bersemayam <PERSON>para dewa</PERSON> dan hanya keturunan raja yang boleh menginjakkan kaki di <LOCATION>wilayah tersebut .</LOCATION>
+
+memproses passage 9
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+gunung | position = 8
+wilayah | position = 20
+
+
+melakukan pencarian:
+kata kunci = mana
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = meru
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = arjuna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = semayam
+tokenwithtagstemmed = dewa
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = injak
+tokenwithtagstemmed = kaki
+tokenwithtagstemmed = wilayah
+kata kunci = letak
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = meru
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = arjuna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = semayam
+tokenwithtagstemmed = dewa
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = injak
+tokenwithtagstemmed = kaki
+tokenwithtagstemmed = wilayah
+kata kunci = raja
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = meru
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = arjuna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = semayam
+tokenwithtagstemmed = dewa
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = raja
+posisi dalam passage = 17
+jarak dengan tiap kandidat jawaban:
+gunung -9
+wilayah 3
+
+tokenwithtagstemmed = injak
+tokenwithtagstemmed = kaki
+tokenwithtagstemmed = wilayah
+kata kunci = majapahit
+tokenwithtagstemmed = prasasti
+tokenwithtagstemmed = arca
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = majapahit
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+gunung 5
+wilayah 17
+
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = meru
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = arjuna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = gunung
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = semayam
+tokenwithtagstemmed = dewa
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = injak
+tokenwithtagstemmed = kaki
+tokenwithtagstemmed = wilayah
+
+
+bisa disimpulkan bahwa berbagai peninggalan tersebut merupakan rangkaian yang saling berhubungan walaupun terpisah oleh masa yang berbeda sepanjang <TIME>7 abad .</TIME>
+
+
+tidak ada entitas jawaban, skip
+
+
+keruntuhan majapahit tersebutlah kisah , adipati terung meminta sultan bintara alias <PERSON>raden patah</PERSON> yang masih “ kapernah ” kakaknya , untuk menghadap prabu brawijaya .
+
+
+tidak ada entitas jawaban, skip
+
+
+tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
+
+
+tidak ada entitas jawaban, skip
+
 Pengurutan kandidat jawaban
 this.answer = makam leluhurnya
-passage rank = 5
+passage rank = 4
 distance = 3
-doc rank = 3
-total Score = 11
+doc rank = 1
+total Score = 8
 frequency = 1
-order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 document Title = kerajaan majapahit
 
-this.answer = makam leluhurnya
+this.answer = wilayah
 passage rank = 5
+distance = 3
+doc rank = 1
+total Score = 9
+frequency = 1
+order process = 14
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+this.answer = indonesia
+passage rank = 1
+distance = 3
+doc rank = 2
+total Score = 6
+frequency = 2
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+document Title = kehidupan negara negara kerajaan hindu buddha di indonesia
+
+this.answer = makam leluhurnya
+passage rank = 4
 distance = 4
+doc rank = 1
+total Score = 9
+frequency = 1
+order process = 12
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+this.answer = wilayah nusantara
+passage rank = 2
+distance = 4
+doc rank = 3
+total Score = 9
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+document Title = kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+
+this.answer = wilayah nusantara
+passage rank = 3
+distance = 4
+doc rank = 4
+total Score = 11
+frequency = 1
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+document Title = kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+
+this.answer = asia tenggara
+passage rank = 4
+distance = 5
+doc rank = 1
+total Score = 10
+frequency = 1
+order process = 11
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+this.answer = gunung
+passage rank = 5
+distance = 5
+doc rank = 1
+total Score = 11
+frequency = 1
+order process = 15
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+this.answer = sumatera
+passage rank = 2
+distance = 5
+doc rank = 3
+total Score = 10
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+document Title = kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+
+this.answer = sumatera
+passage rank = 3
+distance = 5
+doc rank = 4
+total Score = 12
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+document Title = kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
+
+this.answer = sumatera
+passage rank = 2
+distance = 7
 doc rank = 3
 total Score = 12
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-document Title = kerajaan majapahit
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+document Title = kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
 
-this.answer = wilayah republik indonesia
-passage rank = 2
-distance = 5
-doc rank = 1
-total Score = 8
+this.answer = sumatera
+passage rank = 3
+distance = 7
+doc rank = 4
+total Score = 14
 frequency = 1
-order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+document Title = kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
 
-this.answer = wilayah republik indonesia
-passage rank = 4
-distance = 5
+this.answer = indonesia
+passage rank = 1
+distance = 13
 doc rank = 2
-total Score = 11
-frequency = 1
+total Score = 16
+frequency = 2
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+document Title = kehidupan negara negara kerajaan hindu buddha di indonesia
 
-this.answer = asia tenggara
+this.answer = indonesia
+passage rank = 1
+distance = 14
+doc rank = 2
+total Score = 17
+frequency = 2
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+document Title = kehidupan negara negara kerajaan hindu buddha di indonesia
+
+this.answer = wilayah
 passage rank = 5
-distance = 5
-doc rank = 3
-total Score = 13
+distance = 17
+doc rank = 1
+total Score = 23
 frequency = 1
-order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+order process = 16
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 document Title = kerajaan majapahit
 
-this.answer = wilayah republik indonesia
-passage rank = 2
-distance = 6
-doc rank = 1
-total Score = 9
-frequency = 1
-order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-
-this.answer = wilayah republik indonesia
-passage rank = 4
-distance = 6
+this.answer = indonesia
+passage rank = 1
+distance = 19
 doc rank = 2
-total Score = 12
-frequency = 1
-order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+total Score = 22
+frequency = 2
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+document Title = kehidupan negara negara kerajaan hindu buddha di indonesia
 
 
 

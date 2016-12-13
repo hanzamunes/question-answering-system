@@ -1,11 +1,11 @@
 rank,document,verdict
-1,dok149.txt,AC
-2,dok293.txt,AC
+1,dok336.txt,AC
+2,dok149.txt,AC
 3,dok340.txt,WA
 4,dok216.txt,AC
 5,dok347.txt,AC
-6,dok336.txt,AC
+6,dok293.txt,AC
 7,dok338.txt,WA
-8,dok219.txt,WA
-9,dok253.txt,WA
-10,dok231.txt,WA
+8,dok151.txt,WA
+9,dok310.txt,WA
+10,dok358.txt,WA

@@ -1,109 +1,109 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok314.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok344.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok358.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok235.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok379.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok293.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok352.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok375.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok169.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok338.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok233.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok219.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok245.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok282.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok175.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok350.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok170.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok312.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok370.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok369.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok172.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok349.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok341.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok284.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok360.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok178.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok397.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok187.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok194.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok197.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok318.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok184.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok339.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok313.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok123.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok52.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok144.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok151.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok310.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok358.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok314.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok344.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok352.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok293.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok338.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok375.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok340.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok123.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok52.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok228.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok233.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok175.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok360.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok369.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok135.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok64.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok191.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok326.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok313.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok117.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok46.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok367.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok288.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok350.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok184.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok339.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok349.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok104.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok307.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok33.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok161.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok336.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok395.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok382.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok370.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok170.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok178.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok134.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok63.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok137.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok66.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok168.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok229.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok348.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok57.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok154.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok208.txt
 
 
 query token : 
 gera non blok selenggara 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 1 score = 8.5
 sentence 1: penyelenggaraan konferensi tingkat tinggi gerakan non blok – sejak didirikan tahun 1961 , gerakan non blok telah beberapa kali mengadakan konferensi tingkat tinggi ( ktt ) , antara lain sebagai berikut .
@@ -163,7 +163,43 @@ sentence 3: ktt ini membicarakan masalah masuknya pengaruh blok sosialis ke dala
 sentence 4: hasil penegakan kembali pentingnya perdamaian dunia .
 sentence 5: birma menyatakan keluar dari gnb , sebab gnb dianggap tidak murni lagi .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok314.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok358.txt
+title : sejarah tujuan gerakan non blok
+passage 1 score = 2.75
+sentence 1: sejarah tujuan gerakan non blok – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah tujuan gerakan non blok , sebelumnya admin juga sudah berbagi tentang sejarah organisasi gerakan non blok .
+sentence 2: gerakan non blok mempunyai tujuan , antara lain : 1 .
+sentence 3: meredakan ketegangan dunia sebagai akibat pertentangan dua blok adidaya yang bersengketa ; 2 .
+sentence 4: mengusahakan terciptanya suasana dunia yang aman dan damai ; 3 .
+sentence 5: mengusahakan terwujudnya hubungan antarbangsa secara demokratis ; 4 .
+passage 2 score = 2.75
+sentence 1: mengusahakan terwujudnya hubungan antarbangsa secara demokratis ; 4 .
+sentence 2: menentang kolonialisme , politik apartheid , dan rasialisme ; 5 .
+sentence 3: memperjuangkan kebebasan dalam bidang ekonomi dan kerja sama atas dasar persamaan derajat ; 6 .
+sentence 4: meningkatkan solidaritas di antara negara-negara anggota gerakan non blok ; 7 .
+sentence 5: menggalang kerja sama antara negara berkembang dan negara maju menuju terciptanya tata ekonomi dunia baru .
+passage 6 score = 2.75
+sentence 1: tidak menjadi anggota salah satu pakta militer amerika serikat atau uni soviet .
+sentence 2: demikianlah pembahasan singkat tentang sejarah tujuan gerakan non blok dari admin pengertiansejarah.com , semoga bermanfaat dan jangan lupa lihat juga pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
+passage 3 score = 1.5
+sentence 1: menggalang kerja sama antara negara berkembang dan negara maju menuju terciptanya tata ekonomi dunia baru .
+sentence 2: 1 .
+sentence 3: gnb bukanlah suatu blok tersendiri dan tidak bergabung ke dalam blok dunia yang saling bertentangan .
+sentence 4: 2 .
+sentence 5: gnb merupakan wadah perjuangan negara-negara yang sedang berkembang yang gerakannya tidak pasif .
+passage 4 score = 1.5
+sentence 1: gnb merupakan wadah perjuangan negara-negara yang sedang berkembang yang gerakannya tidak pasif .
+sentence 2: 3 .
+sentence 3: gnb berusaha mendukung perjuangan dekolonisasi di semua tempat , memegang teguh perjuangan melawan imperialisme , kolonialisme , neokolonialisme , rasialisme , apartheid , dan zionisme .
+sentence 4: pada waktu berdirinya , gnb hanya beranggota 25 negara .
+sentence 5: setiap diselenggarakan ktt anggotanya selalu bertambah , sebab setiap negara dapat diterima menjadi anggota gnb dengan memenuhi persyaratan .
+passage 5 score = 1.5
+sentence 1: setiap diselenggarakan ktt anggotanya selalu bertambah , sebab setiap negara dapat diterima menjadi anggota gnb dengan memenuhi persyaratan .
+sentence 2: adapun syarat menjadi anggota gnb adalah sebagai berikut : 1 .
+sentence 3: menganut politik bebas dan hidup berdampingan secara damai ; 2 .
+sentence 4: mendukung gerakan-gerakan kemerdekaan nasional ; 3 .
+sentence 5: tidak menjadi anggota salah satu pakta militer amerika serikat atau uni soviet .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok314.txt
 title : sejarah bentuk organisasi gerakan non blok
 passage 7 score = 6.0
 sentence 1: ( 3 ) kelompok 77 kelompok 77 merupakan kelompok negara berkembang yang berjuang untuk memperoleh keadilan ekonomi atas negara-negara maju .
@@ -206,7 +242,7 @@ sentence 3: menghapus persekutuan militer ; 9 .
 sentence 4: menentang rasialisme dan apartheid .
 sentence 5: kegiatan-kegiatan tersebut diselenggarkan melalui forum pbb , konferensikonferensi internasional dan pendekatan langsung dengan negara-negara yang terlibat .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok344.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok344.txt
 title : sejarah organisasi gerakan non blok
 passage 6 score = 8.0
 sentence 1: adanya kecemasan negara-negara yang baru merdeka dan negara-negara berkembang , sehingga berupaya meredakan ketegangan dunia .
@@ -257,43 +293,7 @@ sentence 3: setiap kelompok telah mengarahkan kekuatan bomnya ke negara lawan .
 sentence 4: akibatnya , situasi dunia tercekam oleh ketakutan akan meletusnya perang dunia iii atau perang nuklir yang jauh lebih mengerikan dibandingkan perang dunia i dan perang dunia ii .
 sentence 5: menghadapi situasi dunia yang penuh konflik tersebut , indonesia menentukan sistem politik luar negeri bebas aktif .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok358.txt
-title : sejarah tujuan gerakan non blok
-passage 1 score = 2.75
-sentence 1: sejarah tujuan gerakan non blok – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah tujuan gerakan non blok , sebelumnya admin juga sudah berbagi tentang sejarah organisasi gerakan non blok .
-sentence 2: gerakan non blok mempunyai tujuan , antara lain : 1 .
-sentence 3: meredakan ketegangan dunia sebagai akibat pertentangan dua blok adidaya yang bersengketa ; 2 .
-sentence 4: mengusahakan terciptanya suasana dunia yang aman dan damai ; 3 .
-sentence 5: mengusahakan terwujudnya hubungan antarbangsa secara demokratis ; 4 .
-passage 2 score = 2.75
-sentence 1: mengusahakan terwujudnya hubungan antarbangsa secara demokratis ; 4 .
-sentence 2: menentang kolonialisme , politik apartheid , dan rasialisme ; 5 .
-sentence 3: memperjuangkan kebebasan dalam bidang ekonomi dan kerja sama atas dasar persamaan derajat ; 6 .
-sentence 4: meningkatkan solidaritas di antara negara-negara anggota gerakan non blok ; 7 .
-sentence 5: menggalang kerja sama antara negara berkembang dan negara maju menuju terciptanya tata ekonomi dunia baru .
-passage 6 score = 2.75
-sentence 1: tidak menjadi anggota salah satu pakta militer amerika serikat atau uni soviet .
-sentence 2: demikianlah pembahasan singkat tentang sejarah tujuan gerakan non blok dari admin pengertiansejarah.com , semoga bermanfaat dan jangan lupa lihat juga pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
-passage 3 score = 1.5
-sentence 1: menggalang kerja sama antara negara berkembang dan negara maju menuju terciptanya tata ekonomi dunia baru .
-sentence 2: 1 .
-sentence 3: gnb bukanlah suatu blok tersendiri dan tidak bergabung ke dalam blok dunia yang saling bertentangan .
-sentence 4: 2 .
-sentence 5: gnb merupakan wadah perjuangan negara-negara yang sedang berkembang yang gerakannya tidak pasif .
-passage 4 score = 1.5
-sentence 1: gnb merupakan wadah perjuangan negara-negara yang sedang berkembang yang gerakannya tidak pasif .
-sentence 2: 3 .
-sentence 3: gnb berusaha mendukung perjuangan dekolonisasi di semua tempat , memegang teguh perjuangan melawan imperialisme , kolonialisme , neokolonialisme , rasialisme , apartheid , dan zionisme .
-sentence 4: pada waktu berdirinya , gnb hanya beranggota 25 negara .
-sentence 5: setiap diselenggarakan ktt anggotanya selalu bertambah , sebab setiap negara dapat diterima menjadi anggota gnb dengan memenuhi persyaratan .
-passage 5 score = 1.5
-sentence 1: setiap diselenggarakan ktt anggotanya selalu bertambah , sebab setiap negara dapat diterima menjadi anggota gnb dengan memenuhi persyaratan .
-sentence 2: adapun syarat menjadi anggota gnb adalah sebagai berikut : 1 .
-sentence 3: menganut politik bebas dan hidup berdampingan secara damai ; 2 .
-sentence 4: mendukung gerakan-gerakan kemerdekaan nasional ; 3 .
-sentence 5: tidak menjadi anggota salah satu pakta militer amerika serikat atau uni soviet .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok235.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
 title : sejarah gerakan non blok
 passage 5 score = 8.25
 sentence 1: dengan demikian faktor-faktor yang melatarbelakangi berdirinya gerakan non blok adalah sebagai berikut .
@@ -342,7 +342,7 @@ sentence 1: setiap diseleng-garakan ktt anggotanya selalu bertambah , sebab seti
 sentence 2: adapun syarat menjadi anggota gnb adalah sebagai berikut : menganut politik bebas dan hidup berdampingan secara damai ; mendukung gerakan-gerakan kemerdekaan nasional ; tidak menjadi anggota salah satu pakta militer amerika serikat atau uni soviet .
 sentence 3: [ am ]
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok379.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
 title : politik luar negeri indonesia
 passage 4 score = 7.25
 sentence 1: ~ tahun 1956 untuk menunjukkan bahwa pemerintah indonesia menganut politik bebas aktif maka presiden soekarno mengunjungi uni soviet .
@@ -387,50 +387,87 @@ sentence 3: sedangkan aktif artinya indonesia berusaha sekuat tenaga untuk ikut 
 sentence 4: politik ini dipilih dalam rangka menjamin kerjasama dan hubungan baik dengan bangsa lain di dunia .
 sentence 5: politik yang dicetuskan mohammad hatta ini dijalankan dari awal terbentuknya indonesia hingga saat ini meskipun dalam pelaksanaannya tidak sesuai karena adanya pengaruh dengan perubahan politik di dunia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok293.txt
-title : pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika
-passage 5 score = 1.75
-sentence 1: 1 .
-sentence 2: konferensi asia afrika mampu menjadi penengah dua blok yang saling berseteru sehingga dapat mengurangi ketegangan/d étenteakibat perang dingin dan mencegah terjadinya perang terbuka .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok352.txt
+title : sejarah pokok pokok penting pesan jakarta (jakarta message)
+passage 1 score = 1.75
+sentence 1: sejarah pokok pokok penting pesan jakarta ( jakarta message ) – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah pokok pokok penting pesan jakarta ( jakarta message ) , sebelumnya admin juga sudah berbagi tentang sejarah bentuk organisasi gerakan non blok .
+sentence 2: para pemimpin negara-negara anggota gerakan non blok ( gnb ) mengakhiri ktt x dengan menelorkan sebuah ” jakarta massage “ ( pesan jakarta ) .
+sentence 3: berikut ini pokok-pokok penting dari 27 pesan .
+sentence 4: 1 .
+sentence 5: gerakan non blok telah membantu memperbaiki iklim politik internasional pada akhir perang dingin , dengan mempertahankan “ validitas dan relevasi ” nonblok .
+passage 2 score = 1.75
+sentence 1: gerakan non blok telah membantu memperbaiki iklim politik internasional pada akhir perang dingin , dengan mempertahankan “ validitas dan relevasi ” nonblok .
+sentence 2: melalui dialog dan kerja sama , akan memproyeksikan gerakan sebagai sebuah semangat , komponen yang saling bergantung yang konstruktif dan sungguh-sungguh dari arus hubungan internasional .
 sentence 3: 2 .
-sentence 4: gagasan konferensi asia afrika berkembang lebih luas lagi dan diwujudkan dalam gerakan non blok .
+sentence 4: dunia masih menghadapi hambatan-hambatan berbahaya untuk menyelaraskan seperti halnya konflik-konflik kekerasan , agresi , dan pencaplokan negara lain , perselisihan antaretnik , bentuk-bentuk baru rasisme , ketidaktoleransian agama dan nasionalisme yang diartikan secara sempit .
 sentence 5: 3 .
-passage 6 score = 0.25
+passage 3 score = 1.75
 sentence 1: 3 .
-sentence 2: politik bebas aktif yang dijalankan indonesia , india , burma ( myanmar ) , dan sri lanka tampak mulai diikuti oleh negara-negara yang tidak bersedia masuk blok timur ataupun blok barat .
-sentence 3: 4 .
-sentence 4: belanda cemas dalam menghadapi kelompok asia afrika di pbb sebab dalam sidang umum pbb , kelompok tersebut mendukung tuntutan indonesia atas kembalinya irian barat ke pangkuan ri .
-sentence 5: 5 .
-passage 1 score = 0.0
-sentence 1: pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika – konferensi asia afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
-sentence 2: pengaruh konferensi asia afrika adalah sebagai berikut .
-sentence 3: 1 .
-sentence 4: perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai .
-sentence 5: 2 .
-passage 2 score = 0.0
-sentence 1: 2 .
-sentence 2: cetusan rasa setia kawan dan kebangsaan bangsa-bangsa asia afrika untuk menggalang persatuan .
-sentence 3: 3 .
-sentence 4: penjelmaan kebangkitan kembali bangsa-bangsa di asia dan afrika .
-sentence 5: 4 .
-passage 3 score = 0.0
-sentence 1: 4 .
-sentence 2: pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
-sentence 3: 5 .
-sentence 4: memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di asia dan afrika dalam mencapai kemerdekaannya .
-sentence 5: 6 .
+sentence 2: gerakan non blok akan membentuk sebuah kelompok untuk memainkan sebuah peran penting dalam membangkitkan kembali , reinstrukturisasi dan demokratisasi pbb .
+sentence 3: para anggota mendesak agar kelima anggota tetap dk pbb membuang hak veto dan meraka mengatakan bahwa keanggotaan dk pbb harus didefinisikan kembali agar mencerminkan perubahan setelah berakhirnya perang dingin .
+sentence 4: 4 .
+sentence 5: menyerukan perang terhadap keadaan di bawah perkembangan , kemiskinan dan kebodohan , dengan mengatakan bahwa mereka harus menghancurkan beban utang ( luar negeri ) , proteksionisme , rendahnya harga-harga komoditas dan mengecilkan gangguan arus uang negaranegara miskin .
 passage 4 score = 0.0
-sentence 1: 6 .
-sentence 2: banyak negara-negara asia-afrika yang merdeka kemudian masuk menjadi anggota pbb .
-sentence 3: selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika , konferensi asia afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya .
-sentence 4: pengaruh atau dampak itu , antara lain sebagai berikut .
-sentence 5: 1 .
+sentence 1: menyerukan perang terhadap keadaan di bawah perkembangan , kemiskinan dan kebodohan , dengan mengatakan bahwa mereka harus menghancurkan beban utang ( luar negeri ) , proteksionisme , rendahnya harga-harga komoditas dan mengecilkan gangguan arus uang negaranegara miskin .
+sentence 2: 5 .
+sentence 3: hal itu menimbulkan kecemasan tentang kegagalan untuk menyelesaikan perundingan perdagangan multilateral dan menyerukan negaranegara maju untuk menguatkan penyelesaian yang memuaskan putaran uruguay .
+sentence 4: 6 .
+sentence 5: untuk meningkatkan kerja sama selatan – selatan , gnb mendesak dilakukannya kerja sama yang kongkrit dan praktis dalam hal produksi makanan dan penduduk , perdagangan dan investasi untuk memahami rasa percaya diri secara bersama-sama .
+passage 5 score = 0.0
+sentence 1: untuk meningkatkan kerja sama selatan – selatan , gnb mendesak dilakukannya kerja sama yang kongkrit dan praktis dalam hal produksi makanan dan penduduk , perdagangan dan investasi untuk memahami rasa percaya diri secara bersama-sama .
+sentence 2: 7 .
+sentence 3: pada bagian lain menganggap koordinasi atas upaya dan strategi dengan kelompok 77 ( forum ekonomi negara-negara berkembang ) mengenai kepentingan-kepentingan yang mendesak melalui komite koordinasi gabungan yang mantap .
+sentence 4: 8 .
+sentence 5: juga diserukan “ persekutuan-persekutuan global yang baru dalam menyeimbangkan sumber keuangan untuk negara-negara miskin dan alih teknologi lingkungan lebih besar . ”
+passage 6 score = 0.0
+sentence 1: juga diserukan “ persekutuan-persekutuan global yang baru dalam menyeimbangkan sumber keuangan untuk negara-negara miskin dan alih teknologi lingkungan lebih besar . ”
+sentence 2: 9 .
+sentence 3: gnb juga menyatakan memberi dukungan yang pantang mundur kepada rakyat palestina untuk berupaya menentukan nasib sendiri dan mengakhiri diskriminasi rasial di afrika selatan .
+sentence 4: 10 .
+sentence 5: tidak ada negara yang boleh menggunakan kekuatannya untuk memaksakan konsep-konsep demokrasi dan hak-hak asasi manusia yang mereka anut kepada negara lain atau menerapkannya sebagai syarat ( pemberian bantuan ) .
 passage 7 score = 0.0
-sentence 1: 5 .
-sentence 2: australia dan amerika serikat mulai berusaha menghapuskan diskriminasi ras di negaranya .
-sentence 3: konferensi asia afrika dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di asia dan afrika , tetapi juga bergema ke seluruh dunia .
+sentence 1: tidak ada negara yang boleh menggunakan kekuatannya untuk memaksakan konsep-konsep demokrasi dan hak-hak asasi manusia yang mereka anut kepada negara lain atau menerapkannya sebagai syarat ( pemberian bantuan ) .
+sentence 2: 11 .
+sentence 3: gnb berjanji untuk tetap memegang teguh komitmen meraka dalam mengupayakan sebuah dunia yang bebas nuklir .
+sentence 4: mereka juga menyatakan keprihatian yang dalam atas pemakaian dana secara besar-besaran untuk persenjataan , padahal dana tersebut mestinya bisa disalurkan untuk pembangunan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+title : perkembangan politik di dunia dan di indonesia pasca perang dunia ii
+passage 5 score = 7.5
+sentence 1: pada masa demokrasi liberal 1950-1959 : pada awalnya negara kita mencari dukungan ke barat untuk menyelesaikan masalah irian ( terutama masa kabinet sukiman ) , sistem ekonomi yang diterapkan juga terpengaruh sistem liberal.percobaan sistem ini berujung pada instabilitas politik sehingga presiden soekarno mengeluarkan dekrit 5 juli 1959 dan kita memasuki sistem baru .
+sentence 2: pada masa demokrasi terpimpin ( 1959-1965 ) : kegagalan sistem liberal mendorong sikap anti kolonialisme dan anti barat ( amerika dkk ) dan mendorong indonesia lebih dekat dengan negara sosialis komunis/blok timur ( uni sovyet dkk ) .
+sentence 3: pada masa ini persaingan blok barat dan blok timur mencapai puncak nya .
+sentence 4: pemerintah indonesia memainkan peran dengan merintis berdirinya gerakan non blok ( gnb ) tahun 1961 pertama kali ktt diselenggarakan di beograd.namun demikian dilain sisi terutama dalam perebutan irian barat persenjataan kita dibantu oleh uni sovyet.selesai masalah irian barat tahun 1963 selesai tak lama kemudian meletuslah g. 30 s pki 1965 .
+sentence 5: periode orde baru 1966-1998 : penegasan politik luar negeri bebas – aktif agaknya mengurangi pengaruh kedua blok dimana kita menciptakan stabilitas kawasan asia tenggara dan merintis berdirinya asean tahun 1968 .
+passage 6 score = 5.75
+sentence 1: periode orde baru 1966-1998 : penegasan politik luar negeri bebas – aktif agaknya mengurangi pengaruh kedua blok dimana kita menciptakan stabilitas kawasan asia tenggara dan merintis berdirinya asean tahun 1968 .
+sentence 2: didalam membangun perekonomian kita minta bantuan imf yang cenderung didominir oleh negara-negara barat.hal ini kadang berakibat kebijakan makro ekonomi kita juga mendapat tekanan dari imf tadi.kondisi ini berlangsung terus hingga orde baru runtuh karena krisis yang dipicu oleh masalah ekonomi ini terutama tahun 1998 .
+passage 4 score = 5.5
+sentence 1: adalah ketegangan - ketegangan yang terjadi antara amerika dan uni sovyet di berbagai kawasan .
+sentence 2: kejadian yang berhubungan dengan perang dingin diantaranya : perang vietnam , perang korea , perang soviet-afganistan , perang sipil kamboja , perang sipil angola , perang sipil yunani , krisis kongo , runtuhnya tembok berlin , revolusi hongaria , krisis iran , krisis misil kuba bagaimana dengan negara indonesia ?
+sentence 3: pengaruh polarisasi dunia bagi perkembangan di indonesia sebagai negara yang baru merdeka amat dirasakan.negara kita juga menjadi ajang perebutan pengaruh dari negara adikuasa tersebut.hal ini dapat dilihat dari beberapa hal pada periode waktu tertentu .
+sentence 4: pada masa perang kemerdekaan ( 1945-1949 ) : setelah amerika , belgia dan australia yang tergabung dalam ktn 1947 membantu menyelesaikan konflik indonesia – belanda , maka terjadilah pemberontakan pki madiun 1948 dimana tokoh-tokoh komunis banyak yang melarikan diri ke uni sovyet .
+sentence 5: pada masa demokrasi liberal 1950-1959 : pada awalnya negara kita mencari dukungan ke barat untuk menyelesaikan masalah irian ( terutama masa kabinet sukiman ) , sistem ekonomi yang diterapkan juga terpengaruh sistem liberal.percobaan sistem ini berujung pada instabilitas politik sehingga presiden soekarno mengeluarkan dekrit 5 juli 1959 dan kita memasuki sistem baru .
+passage 1 score = 0.0
+sentence 1: dampak dari perang dunia ii sangat luas dalam berbagai aspek kehidupan , misalnya : 1 .
+sentence 2: lahirnya organisasi perdamaian dunia ( pbb ) organisasi ini fokus memelihara perdamaian dunia yang dirintis oleh the big five country.namun perkembangan sekarangatut dipertanyakan kesanggupannya/kinerjanya , karena lebih didominasi oleh pengaruh negara besar terutama amerika .
+sentence 3: 2 .
+sentence 4: kemerdekaan bagi bangsa-bangsa asia-afrika .
+sentence 5: bangsa iniyang sebelumnya menjadi objek penjajahan.proses dekolonisasi ini dipercepat adanya kesadaran akan persamaan hak sesama bangsa sebagaimana tercantum dalam piagam pbb .
+passage 2 score = 0.0
+sentence 1: bangsa iniyang sebelumnya menjadi objek penjajahan.proses dekolonisasi ini dipercepat adanya kesadaran akan persamaan hak sesama bangsa sebagaimana tercantum dalam piagam pbb .
+sentence 2: 3 .
+sentence 3: polarisai dunia .
+sentence 4: hal ini ditandai dengan fenomena baru lahirnya negara adikuasa dan perang dingin .
+sentence 5: apa itu negara adikuasa/superpower ?
+passage 3 score = 0.0
+sentence 1: apa itu negara adikuasa/superpower ?
+sentence 2: adalah negara besar yang mampu mempengaruhi negara-negara lain dengan kekuatan/kekuasaan yang dimilikinya .
+sentence 3: ada beberapa faktor yang mendorong negara adikuasa mampu mempengaruhi negara lain : faktor politik faktor ideologi faktor ekonomi faktor militer negara-negara kecil yang menjadi kawan atau sekutu negara adikuasa disebut negara satelit.negara adikuasa yang dimaksud adalah amerika dan uni sovyet.kedua negara tersebut terus melebarkan sayapnya dengan menanamkan pengaruhnya kepada negara-negara lain.politik semacam ini dikenal dengan aliansi ( politik mencari kawan ) .
+sentence 4: apa itu perang dingin ?
+sentence 5: adalah ketegangan - ketegangan yang terjadi antara amerika dan uni sovyet di berbagai kawasan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
 title : sejarah konferensi asia afrika (latar belakang dan pelaksanaan kaa)
 passage 3 score = 5.5
 sentence 1: kebijakan yang menyangkut hubungan dengan negara lain terangkum dalam kebijakan politik luar negeri .
@@ -493,116 +530,52 @@ sentence 3: negara yang diundang , tetapi tidak hadir pada konferensi asia afrik
 sentence 4: ketidakhadiran itu disebabkan federasi afrika tengah masih dilanda pertikaian dalam negara/dikuasai oleh orang-orang inggris .
 sentence 5: semua persidangan konferensi asia afrika diselenggarakan di gedung merdeka , bandung .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-title : sejarah lengkap perang dunia ii
-passage 3 score = 5.75
-sentence 1: kaum fasis merupakan kumpulan pekerja yang menginginkan perubahan dan percaya pda kebanggaan nasional dan kepatuhan kepada pemimpinnya .
-sentence 2: untuk menarik kelas atas dan menengah golongan ini menyerang kelompok komunisme .
-sentence 3: pada tahun 1922 , 50.000 fasis bergerak ke roma , dan mussolini menjadi perdana menteri italia .
-sentence 4: pemerintahan fasis mussolini dalam menjalankan pemerintahannya dilakukan secara diktator sehingga rakyat tidak bisa mengeluarkan pendapatnya secara bebas dan menjalankan politik luar negeri yang agresif .
-sentence 5: pada awalnya mussolini bermusuhan dengan hitler karena takut akan invasi jerman ke austria , namun ketika akan menginvasi ethiopia pada 1935 , mussolini meminta bantuan hitler .
-passage 11 score = 5.75
-sentence 1: hitler menjawab kesepakatan ini dengan mengadakan perjanjian jerman-rusia pada 23 agustus 1939 yang berisi kesepakatan non-agresi , dimana kedua negara tidak akan saling menyerang .
-sentence 2: jerman pada 1 septemer 1939 menyerang polandia .
-sentence 3: serangan yang dilancarkan jerman ini mengawali perang dunia ii di front eropa .
-sentence 4: untuk kawasan asia pasifik , sebab khusus yang mengawali perang dunia ii adalah penyerangan pangkalan angkatan laut amerika serikat di pearl harbour , hawaii oleh jepang pada 7 desember 1941 .
-sentence 5: penyerangan iini mengawali berkobarnya perang pasifik atau perang asia timur raya .
-passage 4 score = 5.5
-sentence 1: pada awalnya mussolini bermusuhan dengan hitler karena takut akan invasi jerman ke austria , namun ketika akan menginvasi ethiopia pada 1935 , mussolini meminta bantuan hitler .
-sentence 2: pada tahun 1936 keduanya membuat pakta kerja sama poros roma berlin .
-sentence 3: pada masa kekaisaran hirohito , perindustrian jepang semakin berkembang dan kehidupan politik bertumpu dengan kuat pada pemerintahan parlementer .
-sentence 4: akan tetapi , kemunculan faktor-faktor baru pada masa itu dapat merusak dan menurunkan wibawa dan pengaruh parati-partai politik , antara lain kehidupan perekonomian bangsa jepang semakin tidak menentu .
-sentence 5: selain itu , kepercayaan rakyat terhadap partai politik semakin merosot karena bebeapa skandal terbuka di muka umum .
-passage 6 score = 5.5
-sentence 1: pada tahun 1932 jepang medirikan republik manchukuo .
-sentence 2: pada tahun 1937 jepang dan cina berperang hingga tahun 1945 , hingga tentara jepang di cina menyerah secara resmi .
-sentence 3: munculnya kelompok sebagai kekuatan baru di jepang lemahnya kontrol parlemen menjadi salah satu yang menyebabkan timbulnya perang asia timur raya ( perang pasifik ) pada 1942 .
-sentence 4: aksi di asia pasifik , diawali dengan serangan jepang secara mendadak pangkalan angkatan laut amerika serikat di pearl harbour pada 7 desember 1941 dibawah pimpinan jenderal isoroku yamamoto .
-sentence 5: tindakan jepang ini menjadikan asia sebagai medan pertempuran perang dunia ii .
-passage 2 score = 5.25
-sentence 1: perancis dan inggris hanya mengamati tanpa ikut campur , karena kondisi ekonomi yang melanda mereka , namun akhirnya terlibat perang untuk menghentikan agresi jerman pada tahun 1939 .
-sentence 2: italia yang berperang bersama sekutu pada perang dunia i , merasa kecewa karena memperoleh bagian yang sedikit dalam perjanjian damai .
-sentence 3: pasca perang dunia i , di italia muncul konflik yang hampir berujung pada perang saudara .
-sentence 4: sebuah gerakan baru , yang dipimpin benito mussolini , fasisme , tumbuh di kota-kota .
-sentence 5: kaum fasis merupakan kumpulan pekerja yang menginginkan perubahan dan percaya pda kebanggaan nasional dan kepatuhan kepada pemimpinnya .
-passage 10 score = 5.25
-sentence 1: perlombaan senjata .
-sentence 2: usai perang dunia i , terutama negara yang kalah perang , membangun angkatan bersenjata dan teknologi perang , seperti yang dilakukan jerman di bawah kepemimpinan hitler jerman tidak mengakui lagi perjanjian versailles sebab khusus berdasarkan perjanjian versailles , wilayah prusia timur dipisahkan dari jerman dengan dibentuknya negara polandia ( jalan keluar jerman menuju laut ) .
-sentence 3: di tengah-tengah negara ini terletak kota danzig yang dituntut jerman karena penduduk wilayah itu berbangsa jerman .
-sentence 4: polandia sendiri menolak untuk menyerahkan wilayah tersebut bahkan kemudian mengadakan perjanjian dengan inggris , perancis , rumania dan yunani yang berisi saling menjamin kemerdekaan masing-masing negara .
-sentence 5: hitler menjawab kesepakatan ini dengan mengadakan perjanjian jerman-rusia pada 23 agustus 1939 yang berisi kesepakatan non-agresi , dimana kedua negara tidak akan saling menyerang .
-passage 1 score = 5.0
-sentence 1: perang dunia ii tahun-tahun setelah perang dunia i usai ditandai dengan kerinduan akan perdamaian , sesuatu yang tidak bisa dijaga oleh liga bangsa-bangsa .
-sentence 2: beberapa negara mencoba-coba sistem pemerintahan baru , seperti komunisme yang jalankan di rusia ( uni soviet ) , nazisme yang dijalankan di jerman , dan fasisme yang dijalankan di italia dan spanyol , dimana para diktator memaksakan kekuasaanya pada semua aspek kehidupan , membungkam kelompok oposisi dengan menggunakan polisi rahasia yang brutal , siksaan dan kamp penjara .
-sentence 3: diktator jerman adolf hitler , pemimpin partai nazi jerman , berupaya untuk mendirikan kembali kekaisaran jerman .
-sentence 4: negara-negara kecil , seperti cekoslovakia dan austria , terancam oleh ekspansi jerman .
-sentence 5: perancis dan inggris hanya mengamati tanpa ikut campur , karena kondisi ekonomi yang melanda mereka , namun akhirnya terlibat perang untuk menghentikan agresi jerman pada tahun 1939 .
-passage 5 score = 5.0
-sentence 1: selain itu , kepercayaan rakyat terhadap partai politik semakin merosot karena bebeapa skandal terbuka di muka umum .
-sentence 2: keadaan ini dimanfaatkan oleh kaum ekstrimis dan kaum militer sehingga memperburuk keadaan jepang saat itu .
-sentence 3: bahkan , partai politik digabungkan dan rakyat dipaksa untuk berperang melawan cina .
-sentence 4: di cina , terutama di manchuria , jepang semakin menyebarkan pengaruhnya lewat perkembangan industri yang berbiaya mahal .
-sentence 5: pada tahun 1932 jepang medirikan republik manchukuo .
-passage 7 score = 0.25
-sentence 1: tindakan jepang ini menjadikan asia sebagai medan pertempuran perang dunia ii .
-sentence 2: amerika serikat yang awalnya tidak ikut perang secara langsung mulai mengangkat senjata melawan blok axis bergabung bersama inggris dan perancis .
-sentence 3: salah satu faktor yang mendorong menjadi negara imperium adalah kebutuhan akan bahan baku industri dan daerah pemasaran hasil-hasil industri ; dan keinginan jepang menguasai dunia , sebagaimana yang dilakukan oleh negara-negara maju lainnya .
-sentence 4: tekad jepang ini dipengaruhi oleh ajaran shinto yang memandang dunia sebagai satu keluarga ( hakko ichi u ) .
-sentence 5: ajaran ini mengartikan bahwa dunia baru disusun sebagai satu keluarga , dengan jepang sebagai pemimpinnya .
-passage 9 score = 0.25
-sentence 1: lbb yang diharapkan mampu menjadi suatu lembaga yang dapat menciptakan perdamaian dunia , ternyata gagal menjalankan perannya dengan baik munculnya politik aliansi ( mencari kawan ) berkembangnya berbagai paham setelah perang dunia i telah menjadikan eropa membentuk persekutuan berdasarkan kepentingan ideologi yang berkembang di negara masing-masing .
-sentence 2: terjadinya blok-blok ini sebagai akibat timbulnya politik mencari kawan yang sepaham .
-sentence 3: dari sinilah muncul sikap saling mencurigai antar negara .
-sentence 4: ketika ketegangan ini mulai menghangat , masing-masing pihak memperkuat dan mencari dukungan negara lain .
-sentence 5: perlombaan senjata .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok352.txt
-title : sejarah pokok pokok penting pesan jakarta (jakarta message)
-passage 1 score = 1.75
-sentence 1: sejarah pokok pokok penting pesan jakarta ( jakarta message ) – pada kesempatan ini admin pengertian sejarah akan berbagi tentang sejarah pokok pokok penting pesan jakarta ( jakarta message ) , sebelumnya admin juga sudah berbagi tentang sejarah bentuk organisasi gerakan non blok .
-sentence 2: para pemimpin negara-negara anggota gerakan non blok ( gnb ) mengakhiri ktt x dengan menelorkan sebuah ” jakarta massage “ ( pesan jakarta ) .
-sentence 3: berikut ini pokok-pokok penting dari 27 pesan .
-sentence 4: 1 .
-sentence 5: gerakan non blok telah membantu memperbaiki iklim politik internasional pada akhir perang dingin , dengan mempertahankan “ validitas dan relevasi ” nonblok .
-passage 2 score = 1.75
-sentence 1: gerakan non blok telah membantu memperbaiki iklim politik internasional pada akhir perang dingin , dengan mempertahankan “ validitas dan relevasi ” nonblok .
-sentence 2: melalui dialog dan kerja sama , akan memproyeksikan gerakan sebagai sebuah semangat , komponen yang saling bergantung yang konstruktif dan sungguh-sungguh dari arus hubungan internasional .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok293.txt
+title : pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika
+passage 5 score = 1.75
+sentence 1: 1 .
+sentence 2: konferensi asia afrika mampu menjadi penengah dua blok yang saling berseteru sehingga dapat mengurangi ketegangan/d étenteakibat perang dingin dan mencegah terjadinya perang terbuka .
 sentence 3: 2 .
-sentence 4: dunia masih menghadapi hambatan-hambatan berbahaya untuk menyelaraskan seperti halnya konflik-konflik kekerasan , agresi , dan pencaplokan negara lain , perselisihan antaretnik , bentuk-bentuk baru rasisme , ketidaktoleransian agama dan nasionalisme yang diartikan secara sempit .
+sentence 4: gagasan konferensi asia afrika berkembang lebih luas lagi dan diwujudkan dalam gerakan non blok .
 sentence 5: 3 .
-passage 3 score = 1.75
+passage 6 score = 0.25
 sentence 1: 3 .
-sentence 2: gerakan non blok akan membentuk sebuah kelompok untuk memainkan sebuah peran penting dalam membangkitkan kembali , reinstrukturisasi dan demokratisasi pbb .
-sentence 3: para anggota mendesak agar kelima anggota tetap dk pbb membuang hak veto dan meraka mengatakan bahwa keanggotaan dk pbb harus didefinisikan kembali agar mencerminkan perubahan setelah berakhirnya perang dingin .
-sentence 4: 4 .
-sentence 5: menyerukan perang terhadap keadaan di bawah perkembangan , kemiskinan dan kebodohan , dengan mengatakan bahwa mereka harus menghancurkan beban utang ( luar negeri ) , proteksionisme , rendahnya harga-harga komoditas dan mengecilkan gangguan arus uang negaranegara miskin .
+sentence 2: politik bebas aktif yang dijalankan indonesia , india , burma ( myanmar ) , dan sri lanka tampak mulai diikuti oleh negara-negara yang tidak bersedia masuk blok timur ataupun blok barat .
+sentence 3: 4 .
+sentence 4: belanda cemas dalam menghadapi kelompok asia afrika di pbb sebab dalam sidang umum pbb , kelompok tersebut mendukung tuntutan indonesia atas kembalinya irian barat ke pangkuan ri .
+sentence 5: 5 .
+passage 1 score = 0.0
+sentence 1: pengaruh konferensi asia afrika bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika – konferensi asia afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika .
+sentence 2: pengaruh konferensi asia afrika adalah sebagai berikut .
+sentence 3: 1 .
+sentence 4: perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai .
+sentence 5: 2 .
+passage 2 score = 0.0
+sentence 1: 2 .
+sentence 2: cetusan rasa setia kawan dan kebangsaan bangsa-bangsa asia afrika untuk menggalang persatuan .
+sentence 3: 3 .
+sentence 4: penjelmaan kebangkitan kembali bangsa-bangsa di asia dan afrika .
+sentence 5: 4 .
+passage 3 score = 0.0
+sentence 1: 4 .
+sentence 2: pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di asia dan afrika khususnya .
+sentence 3: 5 .
+sentence 4: memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di asia dan afrika dalam mencapai kemerdekaannya .
+sentence 5: 6 .
 passage 4 score = 0.0
-sentence 1: menyerukan perang terhadap keadaan di bawah perkembangan , kemiskinan dan kebodohan , dengan mengatakan bahwa mereka harus menghancurkan beban utang ( luar negeri ) , proteksionisme , rendahnya harga-harga komoditas dan mengecilkan gangguan arus uang negaranegara miskin .
-sentence 2: 5 .
-sentence 3: hal itu menimbulkan kecemasan tentang kegagalan untuk menyelesaikan perundingan perdagangan multilateral dan menyerukan negaranegara maju untuk menguatkan penyelesaian yang memuaskan putaran uruguay .
-sentence 4: 6 .
-sentence 5: untuk meningkatkan kerja sama selatan – selatan , gnb mendesak dilakukannya kerja sama yang kongkrit dan praktis dalam hal produksi makanan dan penduduk , perdagangan dan investasi untuk memahami rasa percaya diri secara bersama-sama .
-passage 5 score = 0.0
-sentence 1: untuk meningkatkan kerja sama selatan – selatan , gnb mendesak dilakukannya kerja sama yang kongkrit dan praktis dalam hal produksi makanan dan penduduk , perdagangan dan investasi untuk memahami rasa percaya diri secara bersama-sama .
-sentence 2: 7 .
-sentence 3: pada bagian lain menganggap koordinasi atas upaya dan strategi dengan kelompok 77 ( forum ekonomi negara-negara berkembang ) mengenai kepentingan-kepentingan yang mendesak melalui komite koordinasi gabungan yang mantap .
-sentence 4: 8 .
-sentence 5: juga diserukan “ persekutuan-persekutuan global yang baru dalam menyeimbangkan sumber keuangan untuk negara-negara miskin dan alih teknologi lingkungan lebih besar . ”
-passage 6 score = 0.0
-sentence 1: juga diserukan “ persekutuan-persekutuan global yang baru dalam menyeimbangkan sumber keuangan untuk negara-negara miskin dan alih teknologi lingkungan lebih besar . ”
-sentence 2: 9 .
-sentence 3: gnb juga menyatakan memberi dukungan yang pantang mundur kepada rakyat palestina untuk berupaya menentukan nasib sendiri dan mengakhiri diskriminasi rasial di afrika selatan .
-sentence 4: 10 .
-sentence 5: tidak ada negara yang boleh menggunakan kekuatannya untuk memaksakan konsep-konsep demokrasi dan hak-hak asasi manusia yang mereka anut kepada negara lain atau menerapkannya sebagai syarat ( pemberian bantuan ) .
+sentence 1: 6 .
+sentence 2: banyak negara-negara asia-afrika yang merdeka kemudian masuk menjadi anggota pbb .
+sentence 3: selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di asia dan afrika , konferensi asia afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya .
+sentence 4: pengaruh atau dampak itu , antara lain sebagai berikut .
+sentence 5: 1 .
 passage 7 score = 0.0
-sentence 1: tidak ada negara yang boleh menggunakan kekuatannya untuk memaksakan konsep-konsep demokrasi dan hak-hak asasi manusia yang mereka anut kepada negara lain atau menerapkannya sebagai syarat ( pemberian bantuan ) .
-sentence 2: 11 .
-sentence 3: gnb berjanji untuk tetap memegang teguh komitmen meraka dalam mengupayakan sebuah dunia yang bebas nuklir .
-sentence 4: mereka juga menyatakan keprihatian yang dalam atas pemakaian dana secara besar-besaran untuk persenjataan , padahal dana tersebut mestinya bisa disalurkan untuk pembangunan .
+sentence 1: 5 .
+sentence 2: australia dan amerika serikat mulai berusaha menghapuskan diskriminasi ras di negaranya .
+sentence 3: konferensi asia afrika dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di asia dan afrika , tetapi juga bergema ke seluruh dunia .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 1 score = 8.5
 sentence 1: penyelenggaraan konferensi tingkat tinggi gerakan non blok – sejak didirikan tahun 1961 , gerakan non blok telah beberapa kali mengadakan konferensi tingkat tinggi ( ktt ) , antara lain sebagai berikut .
@@ -611,7 +584,7 @@ sentence 3: ktt dihadiri oleh 25 negara .
 sentence 4: ktt i gerakan non blok menghasilkan beberapa keputusan penting yang disebutdeklarasi beograddan berisi , antara lain sebagai berikut : a ) mengimbau dihentikannya perang dingin antara uni soviet dan amerika serikat bersama sekutunya ; b ) mengimbau uni soviet dan amerika serikat agar hidup berdampingan secara damai dengan menghentikan perlombaan senjata nuklir ; c ) menyerukan kepada dunia ( pbb ) untuk membantu negara yang masih terjajah supaya segera merdeka .
 sentence 5: 2 ) konferensi tingkat tinggi ii gerakan non blok ( ktt ii gerakan non blok ) ktt ii gerakan non blok diselenggarakan pada tanggal 5 – 10 oktober 1964 di kairo , mesir dengan ketua presiden gamal abdul nasser .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 2 score = 8.5
 sentence 1: 2 ) konferensi tingkat tinggi ii gerakan non blok ( ktt ii gerakan non blok ) ktt ii gerakan non blok diselenggarakan pada tanggal 5 – 10 oktober 1964 di kairo , mesir dengan ketua presiden gamal abdul nasser .
@@ -620,7 +593,7 @@ sentence 3: keputusan penting yang dihasilkan dalam ktt ii gerakan non blok anta
 sentence 4: 3 ) konferensi tingkat tinggi iii gerakan non blok ( ktt iii gerakan non blok ) ktt iii gerakan non blok diselenggarakan di lusaka , zambia pada tanggal 8 – 10 oktober 1970 dengan ketua presiden kenneth kaunda zambia .
 sentence 5: ktt dihadiri oleh 59 negara .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 4 score = 8.5
 sentence 1: sasaran yang hendak dicapai dalam ktt iv gerakan non blok , antara lain sebagai berikut : a ) pengajuan rancangan tata ekonomi dunia baru ; b ) meredakan ketegangan dunia atau “ détente ” dan membahas persoalan krisis timur tengah ; c ) pembentukan dana pembangunan bagi negara-negara berkembang ; d ) kerja sama dalam mengatasi masalah lingkungan hidup .
@@ -629,7 +602,7 @@ sentence 3: ktt dihadiri oleh 81 negara .
 sentence 4: hasil ktt v gerakan non blok “ deklarasi kolombo ” antara lain sebagai berikut : a ) berusaha mewujudkan tata ekonomi dunia baru ; b ) program aksi kolombo ; c ) penyelesaian masalah perang vietnam .
 sentence 5: 6 ) konferensi tingkat tinggi vi gerakan non blok ( ktt vi gerakan non blok ) ktt vi gerakan non blok diadakan di havana , kuba ( 1979 ) ketua presiden fidel castro .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 6 score = 8.5
 sentence 1: birma menyatakan keluar dari gnb , sebab gnb dianggap tidak murni lagi .
@@ -638,7 +611,7 @@ sentence 3: menurut keputusan ktt ke vi bahwa ktt vii diselenggarakan di bagdad 
 sentence 4: oleh karena terjadi perang irak-iran , maka ktt vii dialihkan ke new delhi india .
 sentence 5: pembicaraan pada ktt vii gerakan non blok ini masih berkisar pada cara menyelesaikan persengketaan yang timbul di antara anggota gerakan non blok , akibat perang saudara , dan pengaruh kekuatan asing .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 11 score = 8.5
 sentence 1: 11 ) konferensi tingkat tinggi xi gerakan non blok ( ktt xi gerakan non blok ) ktt xi gerakan non blok diselenggarakan di cartagena , kolombia pada tanggal 16 – 22 oktober 1995 dengan ketua presiden ernesto samper .
@@ -647,7 +620,7 @@ sentence 3: 12 ) konferensi tingkat tinggi xii gerakan non blok ( ktt xii geraka
 sentence 4: hasil perjuangan demokratisasi dalam pengakuan serta hubungan internasional bagi negara dunia ketiga .
 sentence 5: 13 ) konferensi tingkat tinggi xiii gerakan non blok ( ktt xiii gerakan non blok ) ktt xiii gerakan non blok diselenggarakan di kuala lumpur , malaysia pada bulan februari 2003 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok235.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
 title : sejarah gerakan non blok
 passage 5 score = 8.25
 sentence 1: dengan demikian faktor-faktor yang melatarbelakangi berdirinya gerakan non blok adalah sebagai berikut .
@@ -656,7 +629,7 @@ sentence 3: adanya kecemasan negara-negara yang baru merdeka dan negara-negara b
 sentence 4: ditandatanganinya “ dokumen brioni ” tahun 1956 oleh presiden joseph broz tito ( yugoslavia ) , pm jawaharlal nehru ( india ) , presiden gamal abdul nasser ( mesir ) , bertujuan mempersatukan negara-negara non blok .
 sentence 5: terjadinya krisis kuba 1961 karena us membangun pangkalan militer di kuba secara besar-besaran , sehingga mengkhawatirkan as .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 3 score = 8.0
 sentence 1: ktt dihadiri oleh 59 negara .
@@ -665,7 +638,7 @@ sentence 3: 4 ) konferensi tingkat tinggi iv gerakan non blok ( ktt iv gerakan n
 sentence 4: ktt iv gerakan non blok dihadiri oleh 76 negara .
 sentence 5: sasaran yang hendak dicapai dalam ktt iv gerakan non blok , antara lain sebagai berikut : a ) pengajuan rancangan tata ekonomi dunia baru ; b ) meredakan ketegangan dunia atau “ détente ” dan membahas persoalan krisis timur tengah ; c ) pembentukan dana pembangunan bagi negara-negara berkembang ; d ) kerja sama dalam mengatasi masalah lingkungan hidup .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 9 score = 8.0
 sentence 1: kelompok pertama yang didukung mayoritas anggota menghendaki irak menaati semua resolusi pbb .
@@ -674,7 +647,7 @@ sentence 3: akan tetapi , akhirnya gerakan non blok gagal menghentikan konflik d
 sentence 4: 10 ) konferensi tingkat tinggi x gerakan non blok ( ktt x gerakan non blok ) ktt x gerakan non blok diselenggarakan di jakarta , indonesia pada tanggal 1 – 6 september 1992 ketua presiden soeharto .
 sentence 5: isu yang muncul dalam ktt x gerakan non blok di jakarta , antara lain sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 10 score = 8.0
 sentence 1: isu yang muncul dalam ktt x gerakan non blok di jakarta , antara lain sebagai berikut .
@@ -683,7 +656,7 @@ sentence 3: b ) menyesalkan tindakan amerika serikat yang membantu israel dalam 
 sentence 4: c ) kegagalan memasukkan masalah sanksi pbb terhadap irak dan libia masih membuktikan lemahnya gerakan non blok dalam mengatasi perbedaan pendapat di kalangan anggotanya .
 sentence 5: 11 ) konferensi tingkat tinggi xi gerakan non blok ( ktt xi gerakan non blok ) ktt xi gerakan non blok diselenggarakan di cartagena , kolombia pada tanggal 16 – 22 oktober 1995 dengan ketua presiden ernesto samper .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 passage 12 score = 8.0
 sentence 1: 13 ) konferensi tingkat tinggi xiii gerakan non blok ( ktt xiii gerakan non blok ) ktt xiii gerakan non blok diselenggarakan di kuala lumpur , malaysia pada bulan februari 2003 .
@@ -698,7 +671,7 @@ penyelenggaraan konferensi tingkat tinggi gerakan non blok – sejak didirikan <
 
 memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tahun 1961 | position = 8
@@ -819,7 +792,7 @@ tokenwithtagstemmed = ikut
 
 memproses passage 1
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 1 6 september 1961 | position = 19
@@ -996,7 +969,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 1
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 5 10 oktober 1964 | position = 19
@@ -1161,7 +1134,7 @@ tokenwithtagstemmed = nasser
 
 memproses passage 2
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 5 10 oktober 1964 | position = 19
@@ -1338,7 +1311,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 2
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 8 10 oktober 1970 | position = 20
@@ -1499,7 +1472,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 4
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 16 19 agustus 1976 | position = 22
@@ -1676,7 +1649,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 4
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 1979 | position = 20
@@ -1835,7 +1808,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 6
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tahun 1982 | position = 22
@@ -1996,7 +1969,7 @@ menurut keputusan ktt ke vi bahwa ktt vii diselenggarakan di bagdad irak pada <T
 
 memproses passage 6
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 akhir tahun 1982 | position = 9
@@ -2069,7 +2042,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 11
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 16 22 oktober 1995 | position = 21
@@ -2236,7 +2209,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 11
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 28 agustus 3 september 1998 | position = 22
@@ -2391,7 +2364,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 11
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 bulan februari 2003 | position = 20
@@ -2550,7 +2523,7 @@ ditandatanganinya “ dokumen brioni ” <TIME>tahun 1956</TIME> oleh <PERSON>pr
 
 memproses passage 5
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok235.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
 title : sejarah gerakan non blok
 list jawaban dan posisi dalam passage
 tahun 1956 | position = 3
@@ -2671,7 +2644,7 @@ terjadinya krisis kuba <TIME>1961</TIME> karena us membangun pangkalan militer d
 
 memproses passage 5
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok235.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
 title : sejarah gerakan non blok
 list jawaban dan posisi dalam passage
 1961 | position = 3
@@ -2756,7 +2729,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 3
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 5 9 september 1973 | position = 21
@@ -2947,7 +2920,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 9
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 1 6 september 1992 | position = 20
@@ -3126,7 +3099,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 10
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 tanggal 16 22 oktober 1995 | position = 21
@@ -3287,7 +3260,7 @@ tokenwithtagstemmed = samper
 
 memproses passage 12
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 title : penyelenggaraan konferensi tingkat tinggi gerakan non blok
 list jawaban dan posisi dalam passage
 bulan februari 2003 | position = 20
@@ -3437,7 +3410,7 @@ doc rank = 1
 total Score = 3
 frequency = 1
 order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -3447,7 +3420,7 @@ doc rank = 1
 total Score = 3
 frequency = 1
 order process = 24
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -3457,7 +3430,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 34
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1961
@@ -3467,7 +3440,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1961
@@ -3477,7 +3450,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -3487,7 +3460,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 23
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -3497,7 +3470,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 33
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -3507,7 +3480,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 44
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -3517,7 +3490,7 @@ doc rank = 1
 total Score = 8
 frequency = 1
 order process = 103
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -3527,7 +3500,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 123
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -3537,7 +3510,7 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 143
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1961
@@ -3547,7 +3520,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1961
@@ -3557,7 +3530,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -3567,7 +3540,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -3577,7 +3550,7 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 30
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -3587,7 +3560,7 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 43
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = 1979
@@ -3597,7 +3570,7 @@ doc rank = 1
 total Score = 7
 frequency = 1
 order process = 63
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = akhir tahun 1982
@@ -3607,7 +3580,7 @@ doc rank = 1
 total Score = 8
 frequency = 1
 order process = 73
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -3617,7 +3590,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 83
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -3627,7 +3600,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 102
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -3637,7 +3610,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 113
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -3647,7 +3620,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 122
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -3657,7 +3630,7 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 133
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -3667,7 +3640,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 142
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1961
@@ -3677,7 +3650,7 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1961
@@ -3687,7 +3660,7 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -3697,7 +3670,7 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -3707,7 +3680,7 @@ doc rank = 1
 total Score = 7
 frequency = 1
 order process = 27
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -3717,7 +3690,7 @@ doc rank = 1
 total Score = 7
 frequency = 1
 order process = 40
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -3727,7 +3700,7 @@ doc rank = 1
 total Score = 8
 frequency = 1
 order process = 54
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = 1979
@@ -3737,7 +3710,7 @@ doc rank = 1
 total Score = 8
 frequency = 1
 order process = 60
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -3747,7 +3720,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 82
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -3757,7 +3730,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 93
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -3767,7 +3740,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 99
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -3777,7 +3750,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 112
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -3787,7 +3760,7 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 119
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -3797,7 +3770,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 132
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -3807,7 +3780,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 139
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -3817,7 +3790,7 @@ doc rank = 1
 total Score = 8
 frequency = 1
 order process = 37
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -3827,7 +3800,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 53
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = 1979
@@ -3837,7 +3810,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 57
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1982
@@ -3847,7 +3820,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 72
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -3857,7 +3830,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 79
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -3867,7 +3840,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 92
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -3877,7 +3850,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 96
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -3887,7 +3860,7 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 109
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -3897,7 +3870,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 116
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -3907,7 +3880,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 129
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -3917,7 +3890,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 136
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -3927,7 +3900,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 50
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1982
@@ -3937,7 +3910,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 69
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -3947,7 +3920,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 76
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -3957,7 +3930,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 89
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -3967,7 +3940,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 106
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -3977,7 +3950,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 126
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1961
@@ -3987,7 +3960,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -3997,7 +3970,7 @@ doc rank = 1
 total Score = 9
 frequency = 1
 order process = 22
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4007,7 +3980,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 32
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -4017,7 +3990,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 47
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1982
@@ -4027,7 +4000,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 66
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -4037,7 +4010,7 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 86
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1961
@@ -4047,7 +4020,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1961
@@ -4057,7 +4030,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4067,7 +4040,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4077,7 +4050,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 29
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -4087,7 +4060,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 42
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = 1979
@@ -4097,7 +4070,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 62
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4107,7 +4080,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 101
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -4117,7 +4090,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 121
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4127,7 +4100,7 @@ doc rank = 1
 total Score = 19
 frequency = 1
 order process = 141
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1961
@@ -4137,7 +4110,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4147,7 +4120,7 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4157,7 +4130,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 26
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -4167,7 +4140,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 39
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = 1979
@@ -4177,7 +4150,7 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 59
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4187,7 +4160,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 81
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4197,7 +4170,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 98
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -4207,7 +4180,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 111
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -4217,7 +4190,7 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 118
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4227,7 +4200,7 @@ doc rank = 1
 total Score = 19
 frequency = 1
 order process = 131
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4237,7 +4210,7 @@ doc rank = 1
 total Score = 20
 frequency = 1
 order process = 138
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -4247,7 +4220,7 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 36
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -4257,7 +4230,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 52
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = 1979
@@ -4267,7 +4240,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 56
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1982
@@ -4277,7 +4250,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 71
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4287,7 +4260,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 78
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -4297,7 +4270,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 91
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4307,7 +4280,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 95
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -4317,7 +4290,7 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 108
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -4327,7 +4300,7 @@ doc rank = 1
 total Score = 19
 frequency = 1
 order process = 115
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4337,7 +4310,7 @@ doc rank = 1
 total Score = 20
 frequency = 1
 order process = 128
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4347,7 +4320,7 @@ doc rank = 1
 total Score = 21
 frequency = 1
 order process = 135
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -4357,7 +4330,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 49
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1982
@@ -4367,7 +4340,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 68
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4377,7 +4350,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 75
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -4387,7 +4360,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 88
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -4397,7 +4370,7 @@ doc rank = 1
 total Score = 19
 frequency = 1
 order process = 105
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4407,7 +4380,7 @@ doc rank = 1
 total Score = 21
 frequency = 1
 order process = 125
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1961
@@ -4417,7 +4390,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4427,7 +4400,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 21
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4437,7 +4410,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 31
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -4447,7 +4420,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 46
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1982
@@ -4457,7 +4430,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 65
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -4467,7 +4440,7 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 85
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1961
@@ -4477,7 +4450,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4487,7 +4460,7 @@ doc rank = 1
 total Score = 15
 frequency = 1
 order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4497,7 +4470,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 28
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -4507,7 +4480,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 41
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = 1979
@@ -4517,7 +4490,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 61
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4527,7 +4500,7 @@ doc rank = 1
 total Score = 19
 frequency = 1
 order process = 100
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -4537,7 +4510,7 @@ doc rank = 1
 total Score = 22
 frequency = 1
 order process = 120
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4547,7 +4520,7 @@ doc rank = 1
 total Score = 24
 frequency = 1
 order process = 140
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1961
@@ -4557,7 +4530,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4567,7 +4540,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 10 oktober 1964
@@ -4577,7 +4550,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 25
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -4587,7 +4560,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 38
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = 1979
@@ -4597,7 +4570,7 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 58
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4607,7 +4580,7 @@ doc rank = 1
 total Score = 20
 frequency = 1
 order process = 80
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4617,7 +4590,7 @@ doc rank = 1
 total Score = 20
 frequency = 1
 order process = 97
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -4627,7 +4600,7 @@ doc rank = 1
 total Score = 22
 frequency = 1
 order process = 110
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -4637,7 +4610,7 @@ doc rank = 1
 total Score = 23
 frequency = 1
 order process = 117
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4647,7 +4620,7 @@ doc rank = 1
 total Score = 24
 frequency = 1
 order process = 130
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4657,7 +4630,7 @@ doc rank = 1
 total Score = 25
 frequency = 1
 order process = 137
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 8 10 oktober 1970
@@ -4667,7 +4640,7 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 35
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -4677,7 +4650,7 @@ doc rank = 1
 total Score = 19
 frequency = 1
 order process = 51
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = 1979
@@ -4687,7 +4660,7 @@ doc rank = 1
 total Score = 19
 frequency = 1
 order process = 55
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1982
@@ -4697,7 +4670,7 @@ doc rank = 1
 total Score = 20
 frequency = 1
 order process = 70
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4707,7 +4680,7 @@ doc rank = 1
 total Score = 21
 frequency = 1
 order process = 77
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -4717,7 +4690,7 @@ doc rank = 1
 total Score = 21
 frequency = 1
 order process = 90
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4727,7 +4700,7 @@ doc rank = 1
 total Score = 21
 frequency = 1
 order process = 94
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -4737,7 +4710,7 @@ doc rank = 1
 total Score = 23
 frequency = 1
 order process = 107
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 1 6 september 1992
@@ -4747,7 +4720,7 @@ doc rank = 1
 total Score = 24
 frequency = 1
 order process = 114
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4757,7 +4730,7 @@ doc rank = 1
 total Score = 25
 frequency = 1
 order process = 127
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = bulan februari 2003
@@ -4767,7 +4740,7 @@ doc rank = 1
 total Score = 26
 frequency = 1
 order process = 134
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -4777,7 +4750,7 @@ doc rank = 1
 total Score = 20
 frequency = 1
 order process = 48
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1982
@@ -4787,7 +4760,7 @@ doc rank = 1
 total Score = 21
 frequency = 1
 order process = 67
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4797,7 +4770,7 @@ doc rank = 1
 total Score = 22
 frequency = 1
 order process = 74
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -4807,7 +4780,7 @@ doc rank = 1
 total Score = 22
 frequency = 1
 order process = 87
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 5 9 september 1973
@@ -4817,7 +4790,7 @@ doc rank = 1
 total Score = 24
 frequency = 1
 order process = 104
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 22 oktober 1995
@@ -4827,7 +4800,7 @@ doc rank = 1
 total Score = 26
 frequency = 1
 order process = 124
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 16 19 agustus 1976
@@ -4837,7 +4810,7 @@ doc rank = 1
 total Score = 21
 frequency = 1
 order process = 45
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tahun 1982
@@ -4847,7 +4820,7 @@ doc rank = 1
 total Score = 22
 frequency = 1
 order process = 64
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 this.answer = tanggal 28 agustus 3 september 1998
@@ -4857,7 +4830,7 @@ doc rank = 1
 total Score = 23
 frequency = 1
 order process = 84
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok298.txt
 document Title = penyelenggaraan konferensi tingkat tinggi gerakan non blok
 
 

@@ -30,7 +30,7 @@ public class Indexer {
       //this directory will contain the indexes
       Directory indexDirectory = 
          FSDirectory.open(new File(indexDirectoryPath));
-      StopWord stop = new StopWord("stopword_list_tala.txt");
+      //StopWord stop = new StopWord("stopword_list_tala.txt");
       
       //create the indexer
       writer = new IndexWriter(indexDirectory, new IndexWriterConfig(Version.LUCENE_36, new IndonesianAnalyzer(Version.LUCENE_36)).setSimilarity(new DefaultSimilarity()).setOpenMode(OpenMode.CREATE));

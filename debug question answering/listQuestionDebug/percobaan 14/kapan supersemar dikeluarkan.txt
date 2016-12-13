@@ -1,109 +1,75 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok398.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok281.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok307.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok144.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok161.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok206.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok295.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok193.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok196.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok177.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok150.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok258.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok169.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok117.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok46.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok296.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok307.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok398.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok161.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok281.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok251.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok100.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok29.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok205.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok144.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok189.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok227.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok274.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok377.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok122.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok147.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok153.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok226.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok228.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok26.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok289.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok320.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok321.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok341.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok51.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok97.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok233.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
 
 
 query token : 
 supersemar keluar 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 passage 1 score = 8.5
 sentence 1: pemerintahan zaman orde baru dan lahirnya supersemar 1 .
@@ -166,55 +132,7 @@ sentence 3: mayjen .
 sentence 4: dr. soemarno : menteri/gubernur jakarta raya .
 sentence 5: tanggal 20 juni sampai 5 juli 1966 diadakan sidang umum iv mprs dengan hasil sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-title : ir soekarno bapak proklamator republik indonesia
-passage 2 score = 8.5
-sentence 1: ia adalah proklamator kemerdekaan indonesia ( bersama dengan mohammad hatta ) yang terjadi pada tanggal 17 agustus 1945 .
-sentence 2: soekarno menandatangani surat perintah 11 maret 1966 supersemar yang kontroversial , yang isinya - berdasarkan versi yang dikeluarkan markas besar angkatan darat - menugaskan letnan jenderal soeharto untuk mengamankan dan menjaga keamanan negara dan institusi kepresidenan .
-sentence 3: supersemar menjadi dasar letnan jenderal soeharto untuk membubarkan partai komunis indonesia ( pki ) dan mengganti anggota-anggotanya yang duduk di parlemen .
-sentence 4: setelah pertanggung jawabannya ditolak majelis permusyawaratan rakyat sementara ( mprs ) pada sidang umum ke empat tahun 1967 , presiden soekarno diberhentikan dari jabatannya sebagai presiden pada sidang istimewa mprs di tahun yang sama dan mengangkat soeharto sebagai pejabat presiden republik indonesia .
-sentence 5: soekarno dilahirkan dengan nama kusno sosrodihardjo .
-passage 1 score = 6.5
-sentence 1: ir soekarno bapak proklamator republik indonesia - ir .
-sentence 2: soekarno atau bung karno lahir di blitar , jawa timur , 6 juni 1901 – meninggal di jakarta , 21 juni 1970 pada umur 69 tahun adalah presiden indonesia pertama yang menjabat pada periode 1945 - 1966 .
-sentence 3: ia memainkan peranan penting untuk memerdekakan bangsa indonesia dari penjajahan belanda .
-sentence 4: ia adalah penggali pancasila .
-sentence 5: ia adalah proklamator kemerdekaan indonesia ( bersama dengan mohammad hatta ) yang terjadi pada tanggal 17 agustus 1945 .
-passage 4 score = 6.5
-sentence 1: di surabaya , soekarno banyak bertemu dengan para pemimpin sarekat islam , organisasi yang dipimpin tjokroaminoto saat itu .
-sentence 2: soekarno kemudian bergabung dengan organisasi jong java ( pemuda jawa ) .
-sentence 3: tamat h.b.s. tahun 1920 , soekarno melanjutkan ke technische hoge school ( sekarang itb ) di bandung , dan tamat pada tahun 1925 .
-sentence 4: saat di bandung , soekarno berinteraksi dengan tjipto mangunkusumo dan dr. douwes dekker , yang saat itu merupakan pemimpin organisasi national indische partij .
-sentence 5: pada tahun 1926 , soekarno mendirikan algemene studie club di bandung .
-passage 5 score = 6.5
-sentence 1: pada tahun 1926 , soekarno mendirikan algemene studie club di bandung .
-sentence 2: organisasi ini menjadi cikal bakal partai nasional indonesia yang didirikan pada tahun 1927 .
-sentence 3: aktivitas soekarno di pni menyebabkannya ditangkap belanda pada bulan desember 1929 , dan memunculkan pledoinya yang fenomenal : indonesia menggugat , hingga dibebaskan kembali pada tanggal 31 desember 1931 .
-sentence 4: pada bulan juli 1932 , soekarno bergabung dengan partai indonesia ( partindo ) , yang merupakan pecahan dari pni .
-sentence 5: soekarno kembali ditangkap pada bulan agustus 1933 , dan diasingkan ke flores .
-passage 6 score = 6.5
-sentence 1: soekarno kembali ditangkap pada bulan agustus 1933 , dan diasingkan ke flores .
-sentence 2: di sini , soekarno hampir dilupakan oleh tokoh-tokoh nasional .
-sentence 3: namun semangatnya tetap membara seperti tersirat dalam setiap suratnya kepada seorang guru persatuan islam bernama ahmad hassan .
-sentence 4: pada tahun 1938 hingga tahun 1942 soekarno diasingkan ke provinsi bengkulu.soekarno baru kembali bebas pada masa penjajahan jepang pada tahun 1942 .
-sentence 5: pada awal masa penjajahan jepang ( 1942-1945 ) , pemerintah jepang sempat tidak memperhatikan tokoh-tokoh pergerakan indonesia terutama untuk " mengamankan " keberadaannya di indonesia .
-passage 7 score = 6.5
-sentence 1: pada awal masa penjajahan jepang ( 1942-1945 ) , pemerintah jepang sempat tidak memperhatikan tokoh-tokoh pergerakan indonesia terutama untuk " mengamankan " keberadaannya di indonesia .
-sentence 2: ini terlihat pada gerakan 3a dengan tokohnya shimizu dan mr. syamsuddin yang kurang begitu populer .
-sentence 3: namun akhirnya , pemerintahan pendudukan jepang memperhatikan dan sekaligus memanfaatkan tokoh tokoh indonesia seperti soekarno , mohammad hatta dan lain-lain dalam setiap organisasi-organisasi dan lembaga lembaga untuk menarik hati penduduk indonesia .
-sentence 4: disebutkan dalam berbagai organisasi seperti jawa hokokai , pusat tenaga rakyat ( putera ) , bpupki dan ppki , tokoh tokoh seperti soekarno , hatta , ki hajar dewantara , k.h mas mansyur dan lain lainnya disebut-sebut dan terlihat begitu aktif .
-sentence 5: dan akhirnya tokoh-tokoh nasional bekerjasama dengan pemerintah pendudukan jepang untuk mencapai kemerdekaan indonesia , meski ada pula yang melakukan gerakan bawah tanah seperti sutan syahrir dan amir sjarifuddin karena menganggap jepang adalah fasis yang berbahaya .
-passage 3 score = 6.0
-sentence 1: soekarno dilahirkan dengan nama kusno sosrodihardjo .
-sentence 2: ayahnya bernama raden soekemi sosrodihardjo , seorang guru di surabaya , jawa .
-sentence 3: ibunya bernama ida ayu nyoman rai berasal dari buleleng , bali ketika kecil soekarno tinggal bersama kakeknya di tulungagung , jawa timur .
-sentence 4: pada usia 14 tahun , seorang kawan bapaknya yang bernama oemar said tjokroaminoto mengajak soekarno tinggal di surabaya dan disekolahkan ke hoogere burger school ( h.b.s. ) di sana sambil mengaji di tempat tjokroaminoto .
-sentence 5: di surabaya , soekarno banyak bertemu dengan para pemimpin sarekat islam , organisasi yang dipimpin tjokroaminoto saat itu .
-passage 8 score = 1.0
-sentence 1: dan akhirnya tokoh-tokoh nasional bekerjasama dengan pemerintah pendudukan jepang untuk mencapai kemerdekaan indonesia , meski ada pula yang melakukan gerakan bawah tanah seperti sutan syahrir dan amir sjarifuddin karena menganggap jepang adalah fasis yang berbahaya .
-sentence 2: [ gs ]
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 passage 1 score = 8.5
 sentence 1: pemerintahan orde baru 1 .
@@ -277,7 +195,7 @@ sentence 3: mereka juga memohon agar presiden soekarno mengambil tindakan untuk 
 sentence 4: kemudian presiden mengeluarkan surat perintah yang ditujukan kepada letnan jenderal soeharto selaku menteri panglima angkatan darat untuk mengambil tindakan menjamin keamanan , ketenangan , dan kestabilan jalannya pemerintahan demi keutuhan bangsa dan negara republik indonesia .
 sentence 5: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
 title : tindak lanjut supersemar
 passage 1 score = 8.5
 sentence 1: tindak lanjut supersemar – sebagai tindak lanjut keluarnya surat perintah 11 maret 1966 , letnan jenderal soeharto sebagai pengemban supersemar segera mengambil tindakan untuk menata kembali kehidupan bermasyarakat , berbangsa , dan bernegara sesuai dengan pancasila dan uud 1945 , yaitu sebagai berikut .
@@ -340,196 +258,149 @@ sentence 3: xx/mprs/1966 tentang sumber tertib hukum ri dan tata urutan perundan
 sentence 4: 7 .
 sentence 5: ketetapan mprs no .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-title : nusantara sebelum kedatangan islam
-passage 11 score = 6.5
-sentence 1: rakyat lebih banyak melakukan kewajibannya .
-sentence 2: pemikiran konsep ini tidak memungkinkan adanya suatu bentuk perjanjian sosial ( social contract ) atau konsep mengenai kewajiban-kewajiban timbal balik antara atasan dan bawahan .
-sentence 3: b. kondisi politik dan ekonomi pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
-sentence 4: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
-sentence 5: sriwijaya merupakan bagian dari jalur perdagangan internasional .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok296.txt
+title : pengertian orde baru dan lahirnya surat perintah 11 maret 1966
+passage 2 score = 8.5
+sentence 1: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
+sentence 2: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+sentence 3: pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+sentence 4: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+sentence 5: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+passage 1 score = 8.0
+sentence 1: pengertian orde baru dan lahirnya surat perintah 11 maret 1966 – pada kesempatan ini admin pengertian sejarah akan berbagi informasi mengenai pengertian orde baru dan lahirnya surat perintah 11 maret 1966 .
+sentence 2: berikut penjelasan lengkap tentang pengertian orde baru dan lahirnya surat perintah 11 maret 1966 .
+sentence 3: orde baru adalah suatu tatanan seluruh perikehidupan rakyat , bangsa dan negara yang diletakkan kembali kepada pelaksanaan pancasila dan uud 1945 secara murni dan konsekuen .
+sentence 4: dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap dan tekad untuk mengabdi pada kepentingan rakyat dan nasional dengan dilandasi oleh semangat dan jiwa pancasila serta uud 1945 .
+sentence 5: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
+passage 5 score = 7.5
+sentence 1: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
+sentence 2: surat itulah yang kemudian dikenal sebagai surat perintah 11 maret 1966 atau supersemar .
+sentence 3: [ ps ]
+passage 4 score = 2.5
+sentence 1: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
+sentence 2: di istana bogor presiden soekarno didampingi dr subandrio , dr j. laimena , dan chaerul saleh serta ketiga perwira tinggi tersebut melaporkan situasi di ibukota jakarta .
+sentence 3: mereka juga memohon agar presiden soekarno mengambil tindakan untuk mengatasi keadaan .
+sentence 4: kemudian presiden mengeluarkan surat perintah yang ditujukan kepada letnan jenderal soeharto selaku menteri panglima angkatan darat untuk mengambil tindakan menjamin keamanan , ketenangan , dan kestabilan jalannya pemerintahan demi keutuhan bangsa dan negara republik indonesia .
+sentence 5: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
+passage 3 score = 1.0
+sentence 1: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+sentence 2: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
+sentence 3: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
+sentence 4: tiga orang perwira tinggi yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud menghadap letnan jenderal soeharto selaku menteri panglima angkatan darat dan panglima komando operasi pemulihan keamanan dan ketertiban ( pangkopkamtib ) untuk minta izin akan menghadap presiden .
+sentence 5: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+title : ir soekarno bapak proklamator republik indonesia
+passage 2 score = 8.5
+sentence 1: ia adalah proklamator kemerdekaan indonesia ( bersama dengan mohammad hatta ) yang terjadi pada tanggal 17 agustus 1945 .
+sentence 2: soekarno menandatangani surat perintah 11 maret 1966 supersemar yang kontroversial , yang isinya - berdasarkan versi yang dikeluarkan markas besar angkatan darat - menugaskan letnan jenderal soeharto untuk mengamankan dan menjaga keamanan negara dan institusi kepresidenan .
+sentence 3: supersemar menjadi dasar letnan jenderal soeharto untuk membubarkan partai komunis indonesia ( pki ) dan mengganti anggota-anggotanya yang duduk di parlemen .
+sentence 4: setelah pertanggung jawabannya ditolak majelis permusyawaratan rakyat sementara ( mprs ) pada sidang umum ke empat tahun 1967 , presiden soekarno diberhentikan dari jabatannya sebagai presiden pada sidang istimewa mprs di tahun yang sama dan mengangkat soeharto sebagai pejabat presiden republik indonesia .
+sentence 5: soekarno dilahirkan dengan nama kusno sosrodihardjo .
+passage 1 score = 6.5
+sentence 1: ir soekarno bapak proklamator republik indonesia - ir .
+sentence 2: soekarno atau bung karno lahir di blitar , jawa timur , 6 juni 1901 – meninggal di jakarta , 21 juni 1970 pada umur 69 tahun adalah presiden indonesia pertama yang menjabat pada periode 1945 - 1966 .
+sentence 3: ia memainkan peranan penting untuk memerdekakan bangsa indonesia dari penjajahan belanda .
+sentence 4: ia adalah penggali pancasila .
+sentence 5: ia adalah proklamator kemerdekaan indonesia ( bersama dengan mohammad hatta ) yang terjadi pada tanggal 17 agustus 1945 .
+passage 4 score = 6.5
+sentence 1: di surabaya , soekarno banyak bertemu dengan para pemimpin sarekat islam , organisasi yang dipimpin tjokroaminoto saat itu .
+sentence 2: soekarno kemudian bergabung dengan organisasi jong java ( pemuda jawa ) .
+sentence 3: tamat h.b.s. tahun 1920 , soekarno melanjutkan ke technische hoge school ( sekarang itb ) di bandung , dan tamat pada tahun 1925 .
+sentence 4: saat di bandung , soekarno berinteraksi dengan tjipto mangunkusumo dan dr. douwes dekker , yang saat itu merupakan pemimpin organisasi national indische partij .
+sentence 5: pada tahun 1926 , soekarno mendirikan algemene studie club di bandung .
+passage 5 score = 6.5
+sentence 1: pada tahun 1926 , soekarno mendirikan algemene studie club di bandung .
+sentence 2: organisasi ini menjadi cikal bakal partai nasional indonesia yang didirikan pada tahun 1927 .
+sentence 3: aktivitas soekarno di pni menyebabkannya ditangkap belanda pada bulan desember 1929 , dan memunculkan pledoinya yang fenomenal : indonesia menggugat , hingga dibebaskan kembali pada tanggal 31 desember 1931 .
+sentence 4: pada bulan juli 1932 , soekarno bergabung dengan partai indonesia ( partindo ) , yang merupakan pecahan dari pni .
+sentence 5: soekarno kembali ditangkap pada bulan agustus 1933 , dan diasingkan ke flores .
+passage 6 score = 6.5
+sentence 1: soekarno kembali ditangkap pada bulan agustus 1933 , dan diasingkan ke flores .
+sentence 2: di sini , soekarno hampir dilupakan oleh tokoh-tokoh nasional .
+sentence 3: namun semangatnya tetap membara seperti tersirat dalam setiap suratnya kepada seorang guru persatuan islam bernama ahmad hassan .
+sentence 4: pada tahun 1938 hingga tahun 1942 soekarno diasingkan ke provinsi bengkulu.soekarno baru kembali bebas pada masa penjajahan jepang pada tahun 1942 .
+sentence 5: pada awal masa penjajahan jepang ( 1942-1945 ) , pemerintah jepang sempat tidak memperhatikan tokoh-tokoh pergerakan indonesia terutama untuk " mengamankan " keberadaannya di indonesia .
+passage 7 score = 6.5
+sentence 1: pada awal masa penjajahan jepang ( 1942-1945 ) , pemerintah jepang sempat tidak memperhatikan tokoh-tokoh pergerakan indonesia terutama untuk " mengamankan " keberadaannya di indonesia .
+sentence 2: ini terlihat pada gerakan 3a dengan tokohnya shimizu dan mr. syamsuddin yang kurang begitu populer .
+sentence 3: namun akhirnya , pemerintahan pendudukan jepang memperhatikan dan sekaligus memanfaatkan tokoh tokoh indonesia seperti soekarno , mohammad hatta dan lain-lain dalam setiap organisasi-organisasi dan lembaga lembaga untuk menarik hati penduduk indonesia .
+sentence 4: disebutkan dalam berbagai organisasi seperti jawa hokokai , pusat tenaga rakyat ( putera ) , bpupki dan ppki , tokoh tokoh seperti soekarno , hatta , ki hajar dewantara , k.h mas mansyur dan lain lainnya disebut-sebut dan terlihat begitu aktif .
+sentence 5: dan akhirnya tokoh-tokoh nasional bekerjasama dengan pemerintah pendudukan jepang untuk mencapai kemerdekaan indonesia , meski ada pula yang melakukan gerakan bawah tanah seperti sutan syahrir dan amir sjarifuddin karena menganggap jepang adalah fasis yang berbahaya .
 passage 3 score = 6.0
-sentence 1: 1 .
-sentence 2: kondisi sosial budaya sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
-sentence 3: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
-sentence 4: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
-sentence 5: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
-passage 12 score = 6.0
-sentence 1: sriwijaya merupakan bagian dari jalur perdagangan internasional .
-sentence 2: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
-sentence 3: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
-sentence 4: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
-sentence 5: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
-passage 13 score = 6.0
-sentence 1: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
-sentence 2: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
-sentence 3: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
-sentence 4: tindakan sriwijaya ini ternyata tidak memberikan keuntungan bagi kerajaannya , justru sebaliknya .
-sentence 5: kapal-kapal asing mencoba menghindar untuk berlabuh di pelabuhan-pelabuhan sriwijaya .
-passage 16 score = 6.0
-sentence 1: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
-sentence 2: pada tahun 1478 , majapahit mengalami keruntuhannya .
-sentence 3: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-sentence 4: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
-sentence 5: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
-passage 1 score = 1.0
-sentence 1: nusantara sebelum kedatangan islam - munculnya agama islam di indonesia tidak terlepas dari pengaruh persentuhan kebudayaan antara daerah nusantara dengan negara yang membawa pengaruh islam .
-sentence 2: persentuhan kebudayaan ini terjadi sebagai salah satu akibat dari hubungan yang dilakukan antara orang-orang islam dengan orang-orang yang ada di nusantara .
-sentence 3: sebab , daerah nusantara merupakan jalur perdagangan strategis yang menghubungkan antara dua negara , yaitu laut tengah dan cina .
-sentence 4: hubungan perdagangan yang semakin lama semakin intensif menimbulkan pengaruh terhadap masuknya pengaruh-pengaruh kebudayaan arab , parsi , india , dan cina di nusantara .
-sentence 5: dengan kata lain , terjadilah proses akulturasi antara kebudayaan negara-negara itu dengan kebudayaan nusantara .
-passage 2 score = 1.0
-sentence 1: dengan kata lain , terjadilah proses akulturasi antara kebudayaan negara-negara itu dengan kebudayaan nusantara .
-sentence 2: proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
-sentence 3: secara geografis wilayah nusantara memiliki arti yang sangat penting bagi masuknya unsurunsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
-sentence 4: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
+sentence 1: soekarno dilahirkan dengan nama kusno sosrodihardjo .
+sentence 2: ayahnya bernama raden soekemi sosrodihardjo , seorang guru di surabaya , jawa .
+sentence 3: ibunya bernama ida ayu nyoman rai berasal dari buleleng , bali ketika kecil soekarno tinggal bersama kakeknya di tulungagung , jawa timur .
+sentence 4: pada usia 14 tahun , seorang kawan bapaknya yang bernama oemar said tjokroaminoto mengajak soekarno tinggal di surabaya dan disekolahkan ke hoogere burger school ( h.b.s. ) di sana sambil mengaji di tempat tjokroaminoto .
+sentence 5: di surabaya , soekarno banyak bertemu dengan para pemimpin sarekat islam , organisasi yang dipimpin tjokroaminoto saat itu .
+passage 8 score = 1.0
+sentence 1: dan akhirnya tokoh-tokoh nasional bekerjasama dengan pemerintah pendudukan jepang untuk mencapai kemerdekaan indonesia , meski ada pula yang melakukan gerakan bawah tanah seperti sutan syahrir dan amir sjarifuddin karena menganggap jepang adalah fasis yang berbahaya .
+sentence 2: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok307.txt
+title : sebab-sebab terjadi reformasi
+passage 1 score = 7.0
+sentence 1: sebab-sebab terjadi reformasi – sejak 13 mei 1998 rakyat meminta agar presiden soeharto mengundurkan diri .
+sentence 2: tanggal 14 mei 1998 terjadi kerusuhan di jakarta dan di surakarta .
+sentence 3: tanggal 15 mei 1998 presiden soeharto pulang dari mengikuti ktt g-15 di kairo , mesir .
+sentence 4: tanggal 18 mei para mahasiswa menduduki gedung mpr/dpr dan pada saat itu ketua dpr/mpr mengeluarkan pernyataan agar presiden soeharto mengundurkan diri .
+sentence 5: hal ini jelas berpengaruh terhadap nilai tukar rupiah yang merosot sampai rp15 .000 per dollar .
+passage 11 score = 6.5
+sentence 1: 3 .
+sentence 2: adanya dualisme : ada pro dan anti pembubaran pki .
+sentence 3: 4 .
+sentence 4: sidang istimewa mprs 1967 didahului turunnya supersemar .
+sentence 5: 2 ) soeharto – habibie , ada beberapa hal , antara lain sebagai berikut .
+passage 9 score = 5.5
+sentence 1: sulitnya mendapatkan barang-barang kebutuhan pokok .
+sentence 2: 3 ) faktor sosial masyarakat : adanya kerusuhan tanggal 13 dan 14 mei 1998 yang melumpuhkan perekonomian rakyat .
+sentence 3: 4 ) faktor hukum : belum adanya keadilan dalam perlakuan hukum yang sama di antara warga negara .
+sentence 4: suksesi ( pergantian pimpinan ) 1 ) sukarno – soeharto , ada beberapa hal , yaitu sebagai berikut .
 sentence 5: 1 .
-passage 4 score = 1.0
-sentence 1: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
-sentence 2: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
-sentence 3: interaksi antara unit-unit akan membangun struktur sosial yang dinamik , sehingga akan menampakkan adanya suatu perubahan .
-sentence 4: masyarakat di kota pelabuhan merupakan masyarakat yang urban dan kosmopolit .
-sentence 5: terciptalah suatu tatanan masyarakat kota .
-passage 5 score = 1.0
-sentence 1: terciptalah suatu tatanan masyarakat kota .
-sentence 2: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
-sentence 3: dengan demikian , kehidupan masyarakat di kota pelabuhan akan menciptakan suatu masyarakat yang terbuka .
-sentence 4: dalam masyarakat yang seperti ini , akan memudahkan masuknya unsur budaya dari luar .
-sentence 5: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
-passage 6 score = 1.0
-sentence 1: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
-sentence 2: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
-sentence 3: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-sentence 4: masyarakat yang dibentuk dalam peradaban ini adalah masyarakat yang memiliki struktur hierarkis .
-sentence 5: dalam masyarakat seperti ini , terdapat lapisan-lapisan sosial yang sangat ketat .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
-passage 1 score = 5.5
-sentence 1: kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam - proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
-sentence 2: secara geografis wilayah indonesia memiliki arti yang sangat penting bagi masuknya unsur-unsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
-sentence 3: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
-sentence 4: 1 .
-sentence 5: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
-passage 2 score = 5.5
-sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
-sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
-sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
-sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
-sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
-passage 3 score = 5.0
-sentence 1: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
-sentence 2: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
-sentence 3: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
-sentence 4: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
-sentence 5: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
-passage 6 score = 5.0
-sentence 1: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
-sentence 2: dengan sumpah palapanya , gajah mada melakukan perluasan wilayah .
-sentence 3: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
-sentence 4: pada tahun 1478 , majapahit mengalami keruntuhannya .
-sentence 5: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-passage 8 score = 5.0
-sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
-sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
-sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
-sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
-sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
+passage 2 score = 5.0
+sentence 1: hal ini jelas berpengaruh terhadap nilai tukar rupiah yang merosot sampai rp15 .000 per dollar .
+sentence 2: dari realita di atas , akhirnya tanggal 21 mei 1998 presiden soeharto menyerahkan kekuasaan kepada b.j. habibie , yang membuka peluang suksesi kepemimpinan nasional kepada b.j. habibie .
+sentence 3: tujuan reformasi adalah terciptanya kehidupan dalam bidang politik , ekonomi , hukum , dan sosial yang lebih baik dari masa sebelumnya .
+sentence 4: tujuan reformasi 1 .
+sentence 5: reformasi politik bertujuan tercapainya demokratisasi .
+passage 24 score = 1.5
+sentence 1: 2 .
+sentence 2: dibentuk peraturan perundang-undangan yang sesuai dengan tuntutan reformasi .
+sentence 3: misal : bidang ekonomi dikeluarkan uu kepailitan , dihapuskan uu subversi , sesuai semangat ham dilepaskan napol-tapol ( amnesti-abolisi ) .
+sentence 4: agenda reformasi bidang hukum agenda reformasi bidang hukum difokuskan pada integrasi nasional .
+sentence 5: agenda reformasi bidang pendidikan agenda reformasi bidang pendidikan ditujukan terutama masalah kurikulum yang harus ditinjau paling sedikit lima tahunan .
+passage 13 score = 0.5
+sentence 1: adanya gerakan reformasi yang menghendaki perubahan radikal karena kkn dalam tubuh pemerintahan .
+sentence 2: nepotisme berarti mengajak keluarga dalam kekuasaan .
+sentence 3: kronisme adalah mengajak teman-teman dalam kekuasaan .
+sentence 4: 3 .
+sentence 5: presiden soeharto ditolak oleh rakyat ditandai dengan didudukinya gedung dpr/mpr oleh mahasiswa , sehingga soeharto menyerahkan jabatan kepada habibie .
+passage 3 score = 0.0
+sentence 1: reformasi politik bertujuan tercapainya demokratisasi .
+sentence 2: 2 .
+sentence 3: reformasi ekonomi bertujuan meningkatkan tercapainya masyarakat .
+sentence 4: 3 .
+sentence 5: reformasi hukum bertujuan tercapainya keadilan bagi seluruh rakyat indonesia .
 passage 4 score = 0.0
-sentence 1: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
-sentence 2: tindakan sriwijaya ini ternyata tidak memberikan keuntungan bagi kerajaannya , justru sebaliknya .
-sentence 3: kapal-kapal asing mencoba menghindar untuk berlabuh di pelabuhan-pelabuhan sriwijaya .
-sentence 4: kemunduran sriwijaya diperburuk lagi oleh serangan kerajaan singosari dari jawa melalui ekspedisi pamalayu .
-sentence 5: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
+sentence 1: reformasi hukum bertujuan tercapainya keadilan bagi seluruh rakyat indonesia .
+sentence 2: 4 .
+sentence 3: reformasi sosial bertujuan terwujudkan integrasi bangsa indonesia .
+sentence 4: faktor pendorong terjadinya reformasi 1 ) faktor politik meliputi hal-hal berikut .
+sentence 5: 1 .
 passage 5 score = 0.0
-sentence 1: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
-sentence 2: setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
-sentence 3: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
-sentence 4: majapahit pernah tampil sebagai supremasi kekuasaan di wilayah nusantara , setelah sriwijaya runtuh .
-sentence 5: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
-passage 7 score = 0.0
-sentence 1: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-sentence 2: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
-sentence 3: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
-sentence 4: 2 .
-sentence 5: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
-passage 9 score = 0.0
-sentence 1: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
-sentence 2: interaksi antara unit-unit akan membangun struktur sosial yang dinamik , sehingga akan menampakkan adanya suatu perubahan .
-sentence 3: masyarakat di kota pelabuhan merupakan masyarakat yang urban dan kosmopolit .
-sentence 4: terciptalah suatu tatanan masyarakat kota .
-sentence 5: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
-passage 10 score = 0.0
-sentence 1: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
-sentence 2: dengan demikian , kehidupan masyarakat di kota pelabuhan akan menciptakan suatu masyarakat yang terbuka .
-sentence 3: dalam masyarakat yang seperti ini , akan memudahkan masuknya unsur budaya dari luar .
-sentence 4: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
-sentence 5: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
+sentence 1: 1 .
+sentence 2: adanya kkn ( korupsi , kolusi , dan nepotisme ) dalam kehidupan pemerintahan .
+sentence 3: 2 .
+sentence 4: adanya rasa tidak percaya kepada pemerintah orba yang penuh dengan nepotisme dan kronisme serta merajalelanya korupsi .
+sentence 5: 3 .
+passage 6 score = 0.0
+sentence 1: 3 .
+sentence 2: kekuasaan orba di bawah soeharto otoriter tertutup .
+sentence 3: 4 .
+sentence 4: adanya keinginan demokratisasi dalam kehidupan berbangsa dan bernegara .
+sentence 5: 5 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
-passage 1 score = 5.5
-sentence 1: kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam - proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
-sentence 2: secara geografis wilayah indonesia memiliki arti yang sangat penting bagi masuknya unsur-unsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
-sentence 3: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
-sentence 4: 1 .
-sentence 5: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
-passage 2 score = 5.5
-sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
-sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
-sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
-sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
-sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
-passage 3 score = 5.0
-sentence 1: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
-sentence 2: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
-sentence 3: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
-sentence 4: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
-sentence 5: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
-passage 6 score = 5.0
-sentence 1: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
-sentence 2: dengan sumpah palapanya , gajah mada melakukan perluasan wilayah .
-sentence 3: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
-sentence 4: pada tahun 1478 , majapahit mengalami keruntuhannya .
-sentence 5: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-passage 8 score = 5.0
-sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
-sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
-sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
-sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
-sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
-passage 4 score = 0.0
-sentence 1: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
-sentence 2: tindakan sriwijaya ini ternyata tidak memberikan keuntungan bagi kerajaannya , justru sebaliknya .
-sentence 3: kapal-kapal asing mencoba menghindar untuk berlabuh di pelabuhan-pelabuhan sriwijaya .
-sentence 4: kemunduran sriwijaya diperburuk lagi oleh serangan kerajaan singosari dari jawa melalui ekspedisi pamalayu .
-sentence 5: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
-passage 5 score = 0.0
-sentence 1: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
-sentence 2: setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
-sentence 3: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
-sentence 4: majapahit pernah tampil sebagai supremasi kekuasaan di wilayah nusantara , setelah sriwijaya runtuh .
-sentence 5: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
-passage 7 score = 0.0
-sentence 1: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-sentence 2: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
-sentence 3: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
-sentence 4: 2 .
-sentence 5: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
-passage 9 score = 0.0
-sentence 1: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
-sentence 2: interaksi antara unit-unit akan membangun struktur sosial yang dinamik , sehingga akan menampakkan adanya suatu perubahan .
-sentence 3: masyarakat di kota pelabuhan merupakan masyarakat yang urban dan kosmopolit .
-sentence 4: terciptalah suatu tatanan masyarakat kota .
-sentence 5: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
-passage 10 score = 0.0
-sentence 1: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
-sentence 2: dengan demikian , kehidupan masyarakat di kota pelabuhan akan menciptakan suatu masyarakat yang terbuka .
-sentence 3: dalam masyarakat yang seperti ini , akan memudahkan masuknya unsur budaya dari luar .
-sentence 4: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
-sentence 5: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok398.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok398.txt
 title : perkembangan pemerintahan orde baru
 passage 1 score = 5.5
 sentence 1: masa orde baru secara resmi presiden soekarno mengakhiri kekuasaan dan menyerahkan kepada letjen soeharto pada tanggal 20 februari 1967 yang dikukuhkan dalam sidang istimewa mprs dengan ketetapan mprs no .
@@ -562,103 +433,180 @@ sentence 3: pemerataan kesempatan berpartisipasi dalam pembangunan khususunya ba
 sentence 4: pemerataan penyebaran pembangunan di seluruh wilayah tanah air 8 .
 sentence 5: pemerataan kesempatan memperoleh keadilan
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-title : pengertian orde baru dan lahirnya surat perintah 11 maret 1966
-passage 2 score = 7.5
-sentence 1: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
-sentence 2: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
-sentence 3: pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
-sentence 4: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
-sentence 5: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok161.txt
+title : perkembangan politik setelah 21 mei 1998
 passage 1 score = 7.0
-sentence 1: pengertian orde baru dan lahirnya surat perintah 11 maret 1966 – pada kesempatan ini admin pengertian sejarah akan berbagi informasi mengenai pengertian orde baru dan lahirnya surat perintah 11 maret 1966 .
-sentence 2: berikut penjelasan lengkap tentang pengertian orde baru dan lahirnya surat perintah 11 maret 1966 .
-sentence 3: orde baru adalah suatu tatanan seluruh perikehidupan rakyat , bangsa dan negara yang diletakkan kembali kepada pelaksanaan pancasila dan uud 1945 secara murni dan konsekuen .
-sentence 4: dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap dan tekad untuk mengabdi pada kepentingan rakyat dan nasional dengan dilandasi oleh semangat dan jiwa pancasila serta uud 1945 .
-sentence 5: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
-passage 5 score = 6.5
-sentence 1: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
-sentence 2: surat itulah yang kemudian dikenal sebagai surat perintah 11 maret 1966 atau supersemar .
-sentence 3: [ ps ]
-passage 4 score = 1.5
-sentence 1: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
-sentence 2: di istana bogor presiden soekarno didampingi dr subandrio , dr j. laimena , dan chaerul saleh serta ketiga perwira tinggi tersebut melaporkan situasi di ibukota jakarta .
-sentence 3: mereka juga memohon agar presiden soekarno mengambil tindakan untuk mengatasi keadaan .
-sentence 4: kemudian presiden mengeluarkan surat perintah yang ditujukan kepada letnan jenderal soeharto selaku menteri panglima angkatan darat untuk mengambil tindakan menjamin keamanan , ketenangan , dan kestabilan jalannya pemerintahan demi keutuhan bangsa dan negara republik indonesia .
-sentence 5: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
-passage 3 score = 0.0
-sentence 1: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
-sentence 2: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
-sentence 3: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
-sentence 4: tiga orang perwira tinggi yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud menghadap letnan jenderal soeharto selaku menteri panglima angkatan darat dan panglima komando operasi pemulihan keamanan dan ketertiban ( pangkopkamtib ) untuk minta izin akan menghadap presiden .
-sentence 5: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
+sentence 1: perkembangan politik setelah 21 mei 1998 1 .
+sentence 2: sebab-sebab terjadi reformasi sejak 13 mei 1998 rakyat meminta agar presiden soeharto mengundurkan diri .
+sentence 3: tanggal 14 mei 1998 terjadi kerusuhan di jakarta dan di surakarta .
+sentence 4: tanggal 15 mei 1998 presiden soeharto pulang dari mengikuti ktt g-15 di kairo , mesir .
+sentence 5: tanggal 18 mei para mahasiswa menduduki gedung mpr/dpr dan pada saat itu ketua dpr/mpr mengeluarkan pernyataan agar presiden soeharto mengundurkan diri .
+passage 2 score = 7.0
+sentence 1: tanggal 18 mei para mahasiswa menduduki gedung mpr/dpr dan pada saat itu ketua dpr/mpr mengeluarkan pernyataan agar presiden soeharto mengundurkan diri .
+sentence 2: hal ini jelas berpengaruh terhadap nilai tukar rupiah yang merosot sampai rp15 .000 per dollar .
+sentence 3: dari realita di atas , akhirnya tanggal 21 mei 1998 presiden soeharto menyerahkan kekuasaan kepada b.j. habibie , yang membuka peluang suksesi kepemimpinan nasional kepada b.j. habibie .
+sentence 4: tujuan reformasi adalah terciptanya kehidupan dalam bidang politik , ekonomi , hukum , dan sosial yang lebih baik dari masa sebelumnya .
+sentence 5: a. tujuan reformasi reformasi politik bertujuan tercapainya demokratisasi .
+passage 8 score = 7.0
+sentence 1: sidang istimewa mprs 1967 didahului turunnya supersemar .
+sentence 2: 2 ) soeharto – habibie , ada beberapa hal , antara lain sebagai berikut .
+sentence 3: problem pokok adanya krisis ekonomi meluas ke bidang politik .
+sentence 4: adanya gerakan reformasi yang menghendaki perubahan radikal karena kkn dalam tubuh pemerintahan .
+sentence 5: nepotisme berarti mengajak keluarga dalam kekuasaan .
+passage 26 score = 7.0
+sentence 1: presiden direncanakan akan memberikan laporan pertanggungjawabannya pada tanggal 23 juli 2003 .
+sentence 2: namun , presiden menolak rencana tersebut dan menyatakan sidang istimewa mpr tidak sah dan ilegal .
+sentence 3: di lain pihak , beberapa pimpinan partai politik lima besar pemenang pemilu minus pkb mulai mendekati dan mendorong wapres megawati sukarnoputri untuk maju menjadi presiden .
+sentence 4: melihat perkembangan politik yang tidak menguntungkan tersebut , presiden k.h. abdurrahman wahid menengarai adanya persekongkolan untuk menjatuhkan dirinya sebagai presiden .
+sentence 5: oleh karena itu , presiden segera bertindak meskipun tidak mendapat dukungan penuh dari kabinetnya untuk mengeluarkan dekret presiden pada tanggal 23 juli 2001 pukul 1.10 wib dini hari .
+passage 27 score = 7.0
+sentence 1: oleh karena itu , presiden segera bertindak meskipun tidak mendapat dukungan penuh dari kabinetnya untuk mengeluarkan dekret presiden pada tanggal 23 juli 2001 pukul 1.10 wib dini hari .
+sentence 2: dekret presiden 23 juli 2001 pada intinya berisi hal sebagai berikut : membekukan mpr dan dpr ri ; mengembalikan kedaulatan ke tangan rakyat dan mengambil tindakan serta menyusun badan-badan yang diperlukan untuk menyelenggarakan pemilihan umum dalam waktu satu tahun ; menyelamatkan gerakan reformasi total dari hambatan unsur-unsur orde baru dengan membekukan partai golkar sambil menunggu keputusan mahkamah agung .
+sentence 3: bangsa indonesia menanggapi dekret presiden itu dengan penuh kebimbangan .
+sentence 4: mpr pada tanggal 23 juli 2001 pukul 8.00 wib , akhirnya bersikap bahwa dekret tidak sah dan presiden jelas-jelas telah melanggar haluan negara yang diembannya .
+sentence 5: pernyataan mpr didukung oleh fatwa mahkamah agung yang langsung dibacakan pada sidang istimewa mpr itu .
+passage 7 score = 6.5
+sentence 1: c. suksesi ( pergantian pimpinan ) 1 ) sukarno – soeharto , ada beberapa hal , yaitu sebagai berikut .
+sentence 2: problem pokok adanya komunis / pki ( nomor 4 sedunia ) .
+sentence 3: peristiwa lubang buaya .
+sentence 4: adanya dualisme : ada pro dan anti pembubaran pki .
+sentence 5: sidang istimewa mprs 1967 didahului turunnya supersemar .
+passage 6 score = 5.5
+sentence 1: naiknya harga barang-barang kebutuhan masyarakat .
+sentence 2: sulitnya mendapatkan barang-barang kebutuhan pokok .
+sentence 3: 3 ) faktor sosial masyarakat : adanya kerusuhan tanggal 13 dan 14 mei 1998 yang melumpuhkan perekonomian rakyat .
+sentence 4: 4 ) faktor hukum : belum adanya keadilan dalam perlakuan hukum yang sama di antara warga negara .
+sentence 5: c. suksesi ( pergantian pimpinan ) 1 ) sukarno – soeharto , ada beberapa hal , yaitu sebagai berikut .
+passage 18 score = 5.5
+sentence 1: terkotak-kotaknya elite politik , maka dibutuhkan kesadaran untuk bersamasama menciptakan kondisi politik yang mantap agar transformasi politik berjalan lancar .
+sentence 2: 2 .
+sentence 3: jatuh bangunnya pemerintahan ri setelah 21 mei 1998 pemilihan umum dilaksanakan pada 7 juni 1999 .
+sentence 4: dari seratus lebih partai politik yang terdaftar , hanya 48 partai politik yang dinyatakan memenuhi persyaratan untuk mengikuti pemilihan umum .
+sentence 5: lima besar hasil pemilu adalah partai demokrasi indonesia perjuangan ( pdi perjuangan ) , partai golongan karya ( partai golkar ) , partai kebangkitan bangsa ( pkb ) , partai persatuan pembangunan ( ppp ) , dan partai amanat nasional ( pan ) dan sekaligus merupakan lima penyusunan keanggotaan mpr yang menempatkan amin rais sebagai ketua mpr dan akbar tanjung sebagai ketua dpr ri .
+passage 19 score = 5.5
+sentence 1: lima besar hasil pemilu adalah partai demokrasi indonesia perjuangan ( pdi perjuangan ) , partai golongan karya ( partai golkar ) , partai kebangkitan bangsa ( pkb ) , partai persatuan pembangunan ( ppp ) , dan partai amanat nasional ( pan ) dan sekaligus merupakan lima penyusunan keanggotaan mpr yang menempatkan amin rais sebagai ketua mpr dan akbar tanjung sebagai ketua dpr ri .
+sentence 2: sidang umum mpr pada tanggal 19 oktober 1999 menolak laporan pertanggungjawaban presiden b.j. habibie yang disampaikan pada tanggal 16 oktober 1999 .
+sentence 3: faktor penting yang menyebabkan ditolaknya laporan pertanggungjawaban presiden b.j. habibie adalah patut diduga bahwa presiden menguraikan indikator pertumbuhan ekonomi yang tidak akurat dan manipulatif .
+sentence 4: sidang umum mpr juga berhasil mengambil keputusan memilih dan menetapkan k.h. abdurrahman wahid ( gus dur ) sebagai presiden ri masa bakti 1999 – 2004 .
+sentence 5: presiden k.h. abdurrahman wahid dalam menjalankan pemerintahan didampingi wapres megawati sukarnoputri .
+passage 25 score = 5.5
+sentence 1: padahal sesuai aturan yang berlaku pengangkatan jabatan setingkat kapolri meskipun itu hak prerogatif presiden harus tetap berkoordinasi dengan dpr .
+sentence 2: presiden sendiri dalam menanggapi rencana sidang istimewa berusaha mencari kompromi politik yang sama-sama menguntungkan .
+sentence 3: namun , jika sampai tanggal 31 juli 1998 kompromi ini tidak didapatkan , presiden akan menyatakan negara dalam keadaan bahaya .
+sentence 4: mpr berencana menggelar sidang istimewa mulai tanggal 21 juli 2001 .
+sentence 5: presiden direncanakan akan memberikan laporan pertanggungjawabannya pada tanggal 23 juli 2003 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-title : s. suhud pengibar bendera pusaka sewaktu proklamasi
-passage 1 score = 6.0
-sentence 1: s. suhud pengibar bendera pusaka sewaktu proklamasi s. suhud atau lengkapnya suhud sastro kusumo , beliau adalah salah seorang pengibar bendera pusaka saat proklamasi kemerdekaan indonesia pada tanggal 17 agustus 1945 .
-sentence 2: tepatnya sebagai pendamping pak latif hendraningrat .
-sentence 3: bagaimana ceritanya soal peristiwa proklamasi ini ?
-sentence 4: soediro ( mantan walikota jakarta tahun 50-an ) , saat tahun 1945 menjabat wakil kepala barisan pelopor , bercerita .
-sentence 5: sejak tanggal 14 agustus 1945 , dia menugaskan soehoed ( foto diatas , tampak dalam proklamasi foto sebagai seorang pemuda bercelana pendek ) dan beberapa orang pelopor istimewa untuk menjaga keluarga soekarno .
-passage 2 score = 6.0
-sentence 1: sejak tanggal 14 agustus 1945 , dia menugaskan soehoed ( foto diatas , tampak dalam proklamasi foto sebagai seorang pemuda bercelana pendek ) dan beberapa orang pelopor istimewa untuk menjaga keluarga soekarno .
-sentence 2: pada tanggal 16 agustus 1945 subuh , soehoed melaporkan bahwa telah datang soekarni dan chaerul saleh dan kawan-kawannya .
-sentence 3: soehoed tidak curiga karena caherul juga anggota pelopor istimewa .
-sentence 4: demikian juga ketika soekarno sekeluarga dibawa pergi tidak ada kecurigaan sebagai peristiwa penculikan .
-sentence 5: pada mereka timbul semangat lagi ketika soekarno kembali pada tanggal 16 agustus 1945 malam hari .
-passage 3 score = 5.5
-sentence 1: pada mereka timbul semangat lagi ketika soekarno kembali pada tanggal 16 agustus 1945 malam hari .
-sentence 2: berkaitan dengan perintah dr muwardi ( pimpinan barisan pelopor jakarta ) untuk melakukan persiapan upacara 17 agustus 1945 , soediro memanggil para pembantunya untuk turut menyebarkan akan adanya acara sangat penting pada tanggal 17 agustus 1945 .
-sentence 3: misalnya k.gunadi diserahkan tugas untuk menyampaikan instruksi tertulis yang ditujukan pada para anggota barisan pelopor istimewa dan eksponen barisan pelopor lainnya .
-sentence 4: sedangkan daitai-daitai ( pimpinan di kawedanaan ) dan cutai-cutai ( pimpinan dikecamatan ) banyak yang sudah dihubungi sendiri , secara pertilpun atau perkurir .
-sentence 5: instruksinya antara lain , berkumpul dilapangan ikada tanpa membawa panji pelopor pada jam 11.00 untuk keperluan menghadiri upacara penting .
-passage 4 score = 5.0
-sentence 1: instruksinya antara lain , berkumpul dilapangan ikada tanpa membawa panji pelopor pada jam 11.00 untuk keperluan menghadiri upacara penting .
-sentence 2: ketika dengan bersepeda soediro pagi harinya menuju ikada , dia heran karena melihat disitu banyak jepang bersenjata .
-sentence 3: timbul pertanyaan dibenaknya , apakah berita sudah bocor ?
-sentence 4: dia lalu menghubungi dr muwardi dirumahnya dan dari penjelasan dr muwardi ternyata proklamasi tidak jadi di ikada tapi dirumah soekarno .
-sentence 5: maka dengan cepat disebarkanlah pembetulan informasi bahwa pelaksanaan proklamasi dipindahkan di pegangsaan timur 56 .
-passage 11 score = 1.5
-sentence 1: setelah upacara selesai berlangsung , tiba-tiba masuk sambil berlari kurang lebih 100 orang anggota pelopor yang dipimpin s.brata .
-sentence 2: mereka tidak tahu terjadinya perubahan tempat , sehingga ketinggalan acara .
-sentence 3: namun menuntut terus agar soekarno membacakan lagi proklamasi .
-sentence 4: akhirnya soekarno yang sudah masuk kamar , keluar lagi dan menjelaskan melalui mikrofon bahwa pembacaan proklamasi tidak dapat diulang .
-sentence 5: karena masih kurang puas mereka minta kepada hatta untuk memberikan amanat singkat .
-passage 5 score = 0.0
-sentence 1: maka dengan cepat disebarkanlah pembetulan informasi bahwa pelaksanaan proklamasi dipindahkan di pegangsaan timur 56 .
-sentence 2: kepada soehoed diperintahkan untuk menyiapkan tiang bendera tepat dimuka kamar depan , hanya beberapa meter dari teritis rumah .
-sentence 3: setelah itu soediro pulang kerumahnya sebentar .
-sentence 4: ketika dia kembali dilihatnya telah hadir walikota soewirjo , dr muwardi , mr wilopo , mr abdul gafar pringgodigdo , tabrani , sk trimurti dan masih banyak lagi .
-sentence 5: tidak tampak wajah wikana , soekarni , chaerul saleh maupun adam malik .
-passage 6 score = 0.0
-sentence 1: tidak tampak wajah wikana , soekarni , chaerul saleh maupun adam malik .
-sentence 2: dimuka beranda rumah sudah terpasang mikrofon dan versterker ( amplifier ) yang disewa dari gunawan pemilik perusahaan jasa penyewaan sound system “ radio satrija ” yang beralamat dijalan salemba tengah no. 24 .
-sentence 3: acara proklamasi sederhana ini mengikuti mata acara yang dipersiapkan yaitu : pembacaan proklamasi oleh soekarno disambung pidato singkat .
-sentence 4: pengerekan bendera merah putih , sambutan soewirjo dan sambutan dr muwardi .
-sentence 5: pada acara yang terjadi , pertama , soekarno membaca proklamasi yang sudah diketik sajuti melik dan telah ditandatangani soekarno-hatta .
-passage 7 score = 0.0
-sentence 1: pada acara yang terjadi , pertama , soekarno membaca proklamasi yang sudah diketik sajuti melik dan telah ditandatangani soekarno-hatta .
-sentence 2: kemudian soekarno berpidato singkat tanpa teks .
-sentence 3: setelah itu beliau berdoa seraya mengangkat kedua telapak tangannya .
-sentence 4: untuk pengerekan bendera awalnya diminta kesediaan trimurti , tapi dia menolak lalu mengusulkan sebaiknya dilakukan oleh seorang prajurit .
-sentence 5: maka latif hendraningrat , yang masih memakai seragam lengkap peta , maju kedepan sampai dekat tiang bendera .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok281.txt
+title : ciri-ciri pokok kebijakan pemerintahan orde baru
+passage 1 score = 6.5
+sentence 1: ciri-ciri pokok kebijakan pemerintahan orde baru – sebagai langkah awal untuk menciptakan stabilitas nasional , sidang umum iv mprs telah memutuskan untuk menugaskan letjen .
+sentence 2: soeharto selaku pengemban surat perintah 11 maret 1966 atau supersemar yang sudah ditingkatkan menjadi ketetapan mprs no .
+sentence 3: ix / mprs untuk membentuk kabinet baru .
+sentence 4: dibentuk kabinet ampera yang bertugas : 1 .
+sentence 5: menciptakan stabilitas politik , 2 .
+passage 6 score = 5.5
+sentence 1: penyerahan kekuasaan tersebut merupakan peristiwa sangat penting dalam usaha mengatasi situasi konflik yang sedang memuncak pada saat itu .
+sentence 2: penyerahan itu tertuang dalam pengumuman presiden mandataris mprs , panglima tertinggi abri tanggal 20 februari 1967 .
+sentence 3: pengumuman itu didasarkan atas ketetapan mprs no .
+sentence 4: xv/mprs/1966 yang menyatakan apabila presiden berhalangan , pemegang surat perintah 11 maret 1966 berfungsi sebagai pemegang jabatan presiden .
+sentence 5: jenderal soeharto selaku pengemban ketetapan mprs no .
+passage 7 score = 5.5
+sentence 1: jenderal soeharto selaku pengemban ketetapan mprs no .
+sentence 2: ix/mprs / 1966 pada tanggal 4 maret 1967 memberikan keterangan pemerintah di hadapan sidang dprgr mengenai terjadinya penyerahan kekuasaan .
+sentence 3: pemerintah tetap berpendirian bahwa penyelesaian konstitusional tentang penyerahan kekuasaan tetap perlu dilaksanakan melalui sidang mprs .
+sentence 4: oleh karena itu , untuk menghindari pertentangan politik yang berlarut-larut , diadakan sidang istimewa mprs dari tanggal 7 sampai dengan 12 maret 1967 di jakarta yang berhasil mengakhiri konflik politik .
+sentence 5: berdasarkan tap mpr xxxiii secara umum , kebijakan pemerintah orde baru terdiri atas kebijakan dalam negeri dan kebijakan luar negeri .
+passage 3 score = 5.0
+sentence 1: memperbaiki perikehidupan rakyat terutama di bidang sandang dan pangan ; 2 .
+sentence 2: melaksanakan pemilihan umum dalam batas waktu seperti tercantum dalam ketetapan mprs no .
+sentence 3: xi/mprs/1966 ( 5 juli 1968 ) ; 3 .
+sentence 4: melaksanakan politik luar negeri yang bebas dan aktif untuk kepentingan nasional sesuai dengan ketetapan mprs no .
+sentence 5: xi/mprs/1966 ; 4 .
+passage 5 score = 5.0
+sentence 1: jadi , di sini terdapat dualisme kepemimpinan dalam kabinet ampera .
+sentence 2: akibatnya , perjalanan tugas kabinet kurang lancar yang berarti pula kurang menguntungkan bagi stabilitas politik .
+sentence 3: pada tanggal 22 februari 1967 dengan penuh kebijaksanaan , presiden soekarno menyerahkan kekuasaan kepada jenderal soeharto sebagai pengemban ketetapan mprs no .
+sentence 4: ix/mprs/1966 .
+sentence 5: penyerahan kekuasaan tersebut merupakan peristiwa sangat penting dalam usaha mengatasi situasi konflik yang sedang memuncak pada saat itu .
+passage 2 score = 0.0
+sentence 1: menciptakan stabilitas politik , 2 .
+sentence 2: menciptakan stabilitas ekonomi .
+sentence 3: tugas pokok itulah yang disebut dwidarma kabinet ampera .
+sentence 4: program yang dicanangkan kabinet ampera disebut caturkarya kabinet ampera , yaitu : 1 .
+sentence 5: memperbaiki perikehidupan rakyat terutama di bidang sandang dan pangan ; 2 .
+passage 4 score = 0.0
+sentence 1: xi/mprs/1966 ; 4 .
+sentence 2: melanjutkan perjuangan antiimperialisme dan antikolonialisme dalam segala bentuk dan manifestasinya .
+sentence 3: kabinet ampera dipimpin oleh presiden soekarno , tetapi pelaksanaannya dilakukan oleh presidium kabinet .
+sentence 4: presidium kabinet dipimpin oleh jenderal soeharto .
+sentence 5: jadi , di sini terdapat dualisme kepemimpinan dalam kabinet ampera .
 passage 8 score = 0.0
-sentence 1: maka latif hendraningrat , yang masih memakai seragam lengkap peta , maju kedepan sampai dekat tiang bendera .
-sentence 2: soehoed didampingi seorang pemudi muncul dari belakang membawa sebuah baki nampan berisi bendera merah putih ( bendera pusaka yang dijahit fatmawati beberapa waktu sebelumnya ) .
-sentence 3: maka dikereklah bendera tersebut oleh latif dibantu soehoed .
-sentence 4: setelah berkibar , spontan hadirin menyanyikan lagu indonesia raya .
-sentence 5: melihat foto proklamasi , nampak membelakangi lensa fatmawati dan trimurti .
-passage 9 score = 0.0
-sentence 1: melihat foto proklamasi , nampak membelakangi lensa fatmawati dan trimurti .
-sentence 2: tampak soekarno bersama hatta lebih maju dari tempat berdiri saat pembacaan proklamasi .
-sentence 3: sebuah foto lain yang diambil dari belakang soekarno , menggambarkan para hadirin lainnya yang berdiri dekat tiang bendera .
-sentence 4: mereka terdiri dari para pemuda-mahasiswa ika dai gakku .
-sentence 5: pada acara ketiga , soewirjo yang dizaman jepang sudah menjabat wakil walikota berpidato .
+sentence 1: berdasarkan tap mpr xxxiii secara umum , kebijakan pemerintah orde baru terdiri atas kebijakan dalam negeri dan kebijakan luar negeri .
+sentence 2: [ ps ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+title : ancaman disintegrasi bangsa
+passage 8 score = 7.0
+sentence 1: pemerintah mengeluarkan ultimatum agar dalam tempo 4 x 24 jam ia harus mempertanggung jawabkan perbuatannya .
+sentence 2: beberapa gambar tentang andi azis : e. rms ( republik maluku selatan ) pemberontakan ini dipimpin oleh dr. christian robert stevenson soumokil bekas jaksa agung nit ( negara indonesia timur ) .
+sentence 3: ia menyatakan berdirinya republik maluku selatan dan memproklamasikannya pada 25 april 1950 .
+sentence 4: pemberontakan ini dapat ditumpas setelah dibayar mahal dengan kematian letkol slamet riyadi , letkol s. sudiarto dan mayor abdullah .
+sentence 5: beberapa gambar tentang rms : f. prri/permesta setelah pemilu i dilaksanakan , situasi semakin memburuk dan terjadi pertentangan .
+passage 7 score = 6.5
+sentence 1: beberapa gambar tentang di/tii : c. apra ( angkatan perang ratu adil ) pemberontakan ini dipimpin oleh kapten raymond westerling bekas tentara knil .
+sentence 2: tujuannya agar pemerintah ris dan negara pasundan mengakui apra sebagai tentara negara pasundan dan agar negara pasundfan tidak dibubarkan/dilebur ke dalam nkri .
+sentence 3: beberapa gambar tentang apra : d. andi azis beliau merupakan komandan kompi apris yang menolak kedatangan tni ke sulawesi selatan karena suasananya tidak aman dan terjadi demonstrasi pro dan kontra terhadap negara federasi .
+sentence 4: ia dan pasukannya menyerang lapangan terbang , kantor telkom , dan pos-pos militer tni .
+sentence 5: pemerintah mengeluarkan ultimatum agar dalam tempo 4 x 24 jam ia harus mempertanggung jawabkan perbuatannya .
+passage 10 score = 6.5
+sentence 1: setelah jelas terungkap bahwa pki punya keinginan lain maka diadakan operasi penumpasan : 1 .
+sentence 2: menginsyafkan kesatuan-keasatuan yang dimanfaatkan oleh pki 2 .
+sentence 3: merebut studio rri dan kantor besar telkom dipimpin kolonel sarwo edhy wibowo dari rpkad 3 .
+sentence 4: gerakan pembersihan terhadap tokoh-tokoh yang terlibat langsung maupun yang mendalanginya .
+sentence 5: akhirnya pki dinyatakan sebagai partai terlarang dan tidak boleh lagi tersebar di seluruh wilayah indonesia berdasarkan sk presiden yang ditanda tangani pengemban supersemar ltjen soeharto yang menetapkan pembubaran pki dan ormas-ormasnya tanggal 12 maret 1966 .
+passage 11 score = 6.5
+sentence 1: akhirnya pki dinyatakan sebagai partai terlarang dan tidak boleh lagi tersebar di seluruh wilayah indonesia berdasarkan sk presiden yang ditanda tangani pengemban supersemar ltjen soeharto yang menetapkan pembubaran pki dan ormas-ormasnya tanggal 12 maret 1966 .
+sentence 2: beberapa gambar tentang g30s/pki :
+passage 1 score = 5.5
+sentence 1: a. pki madiun 1948 munculnya pki merupakan perpecahan pada tubuh si ( sarikat islam ) yang mendapat pengaruh isdv ( internasionalisme sosialisme democratise vereeniging ) yang didirikan oleh hjfm .
+sentence 2: snevliet dkk pada bulan mei 1914 di semarang yang pada bulan desember diubah menjadi pki .
+sentence 3: pada tanggal 13 nopember 1926 melakukan pemberontakan terhadap pemerintah belanda .
+sentence 4: pada tanggal 18 september 1948 muso memimpin pemberontakan terhadap ri di madiun .
+sentence 5: tujuannya ingin mengubah dasar negara pancasila menjadi dasar negara komunis .
+passage 2 score = 5.0
+sentence 1: tujuannya ingin mengubah dasar negara pancasila menjadi dasar negara komunis .
+sentence 2: pemberontakan ini menyebarhampir di seluruh daerah jawa timur namun berhasil di gagalkan dengan ditembak matinya muso sedangkan semaun dan dharsono lari ke rusia .
+sentence 3: beberapa gambar tentang pki 1948 : b. di/tii 1 .
+sentence 4: jawa barat dipimpin oleh sekarmaji marijan kartosuwiryo karena tidak setuj terhadap isi perjanjian renville .
+sentence 5: sewaktu tni hijrah ke daerah ri ( yogyakarta ) ia dan anak buahnya menolak dan tidak mau mengakui republik indonesia dan ingin menyingkirkan pancasila sebagai dasar negara .
+passage 9 score = 5.0
+sentence 1: beberapa gambar tentang rms : f. prri/permesta setelah pemilu i dilaksanakan , situasi semakin memburuk dan terjadi pertentangan .
+sentence 2: beberapa daerah merasa seolah-olah diberlakukan secara tidak adil ( merasa dianaktirikan ) sehingga muncul gerakan separatis di sumatera yaitu prri ( pemerintahan revolusioner republik indonesia ) dipimpin oleh kolonel ahmad husen dan permesta ( piagam perjuangan rakyat semesta ) di sulawesi utara dipimpin oleh d.j. somba dan kolonel ventje sumual .
+sentence 3: beberapa gambar tentang prri/permesta : g. g 30 s/pki pada tanggal 30 september 1965 jam 03.00 dinihari pki melakukan pemberontakan yang dipimpin oleh dn aidit dan berhasil membunuh 7 perwira tinggi .
+sentence 4: mereka punya tekad ingin menggantikan pancasila sebagai dasar negara dengan komunis-marxis .
+sentence 5: setelah jelas terungkap bahwa pki punya keinginan lain maka diadakan operasi penumpasan : 1 .
+passage 3 score = 0.0
+sentence 1: sewaktu tni hijrah ke daerah ri ( yogyakarta ) ia dan anak buahnya menolak dan tidak mau mengakui republik indonesia dan ingin menyingkirkan pancasila sebagai dasar negara .
+sentence 2: untuk itu ia memproklamasikan berdirinya negara islam indonesia dengan nama darul islam ( di ) 2 .
+sentence 3: jawa tengah dipimpin oleh amir fatah dan kyai sumolangu .
+sentence 4: selama agresi militer belanda ke ii amir fatah diberi tugas menggabungkan laskar-laskar untuk masuk dalam tni .
+sentence 5: namun setelah banyak anggotanya ia beserta anak buahnya melarikan diri dan menyatakan bagian dari di/tii .
+passage 4 score = 0.0
+sentence 1: namun setelah banyak anggotanya ia beserta anak buahnya melarikan diri dan menyatakan bagian dari di/tii .
+sentence 2: 3 .
+sentence 3: sulawesi selatan dipimpin oleh abdul kahar muzakar .
+sentence 4: dia berambisi untuk menduduki jabatan sebagai pimpinan apris ( angkatan perang republik indonesia serikat ) dan menuntut aga45r komando gerilya sulawesi selatan ( kgss ) dimasukkan ke dalam apris dengan nama brigade hasanuddin .
+sentence 5: tuntutan tersebut ditolak oleh pemerintah sebab hanya mereka yang memenuhi syarat saja yang akan menjadi tentara maka terjadilah pemberontakan tersebut .
+passage 5 score = 0.0
+sentence 1: tuntutan tersebut ditolak oleh pemerintah sebab hanya mereka yang memenuhi syarat saja yang akan menjadi tentara maka terjadilah pemberontakan tersebut .
+sentence 2: 4 .
+sentence 3: aceh dipimpin oleh daud beureueh gubernur militer aceh , karena status aceh sebagai daerah istimewa diturunkan menjadi sebuah karesidenan di bawah propinsi sumatera utara .
+sentence 4: ia lalu menyusun kekuatan dan menyatakan dirinya bagian dari di/tii .
+sentence 5: pemberontakan ini dapat dihentikan dengan jalan musyawarah kerukunan rakyat aceh ( mkra ) .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 passage 1 score = 8.5
 sentence 1: pemerintahan zaman orde baru dan lahirnya supersemar 1 .
@@ -667,7 +615,7 @@ sentence 3: dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap 
 sentence 4: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
 sentence 5: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 passage 2 score = 8.5
 sentence 1: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
@@ -676,7 +624,7 @@ sentence 3: pidato yang kemudian menjadi pidato 17 agustus presiden soekarno yan
 sentence 4: 2 .
 sentence 5: lahirnya surat perintah 11 maret 1966 ( supersemar ) pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 passage 3 score = 8.5
 sentence 1: lahirnya surat perintah 11 maret 1966 ( supersemar ) pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
@@ -685,7 +633,7 @@ sentence 3: untuk menghindari segala sesuatu yang tidak diinginkan , maka presid
 sentence 4: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
 sentence 5: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 passage 6 score = 8.5
 sentence 1: 3 .
@@ -694,16 +642,7 @@ sentence 3: a. tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang beris
 sentence 4: keputusan tersebut diperkuat dengan keputusan presiden/pangti abri/mandataris mprs no. 1/3/1966 tangal 12 maret 1966 .
 sentence 5: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-title : ir soekarno bapak proklamator republik indonesia
-passage 2 score = 8.5
-sentence 1: ia adalah proklamator kemerdekaan indonesia ( bersama dengan mohammad hatta ) yang terjadi pada tanggal 17 agustus 1945 .
-sentence 2: soekarno menandatangani surat perintah 11 maret 1966 supersemar yang kontroversial , yang isinya - berdasarkan versi yang dikeluarkan markas besar angkatan darat - menugaskan letnan jenderal soeharto untuk mengamankan dan menjaga keamanan negara dan institusi kepresidenan .
-sentence 3: supersemar menjadi dasar letnan jenderal soeharto untuk membubarkan partai komunis indonesia ( pki ) dan mengganti anggota-anggotanya yang duduk di parlemen .
-sentence 4: setelah pertanggung jawabannya ditolak majelis permusyawaratan rakyat sementara ( mprs ) pada sidang umum ke empat tahun 1967 , presiden soekarno diberhentikan dari jabatannya sebagai presiden pada sidang istimewa mprs di tahun yang sama dan mengangkat soeharto sebagai pejabat presiden republik indonesia .
-sentence 5: soekarno dilahirkan dengan nama kusno sosrodihardjo .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 passage 1 score = 8.5
 sentence 1: pemerintahan orde baru 1 .
@@ -712,7 +651,7 @@ sentence 3: dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap 
 sentence 4: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
 sentence 5: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 passage 2 score = 8.5
 sentence 1: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
@@ -721,7 +660,7 @@ sentence 3: lahirnya surat perintah 11 maret 1966 pada tanggal 11 maret 1966 di 
 sentence 4: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
 sentence 5: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada perkembangan masyarakat indonesia pada masa orde baru 3 waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 passage 5 score = 8.5
 sentence 1: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
@@ -730,7 +669,7 @@ sentence 3: 3 .
 sentence 4: tindak lanjut supersemar sebagai tindak lanjut keluarnya surat perintah 11 maret 1966 , letnan jenderal soeharto sebagai pengemban supersemar segera mengambil tindakan untuk menata kembali kehidupan bermasyarakat , berbangsa , dan bernegara sesuai dengan pancasila dan uud 1945 , yaitu sebagai berikut .
 sentence 5: tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 passage 6 score = 8.5
 sentence 1: tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
@@ -739,7 +678,7 @@ sentence 3: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan da
 sentence 4: tanggal 18 maret 1966 pengemban supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam g 30 s/pki dan diragukan etika baiknya yang dituangkan dalam keputusan presiden no. 5 tanggal 18 maret 1966 .
 sentence 5: tanggal 27 maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
 title : tindak lanjut supersemar
 passage 1 score = 8.5
 sentence 1: tindak lanjut supersemar – sebagai tindak lanjut keluarnya surat perintah 11 maret 1966 , letnan jenderal soeharto sebagai pengemban supersemar segera mengambil tindakan untuk menata kembali kehidupan bermasyarakat , berbangsa , dan bernegara sesuai dengan pancasila dan uud 1945 , yaitu sebagai berikut .
@@ -747,6 +686,15 @@ sentence 2: 1 .
 sentence 3: tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
 sentence 4: keputusan tersebut diperkuat dengan keputusan presiden/pangti abri/mandataris mprs no. 1/3/1966 tangal 12 maret 1966 .
 sentence 5: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok296.txt
+title : pengertian orde baru dan lahirnya surat perintah 11 maret 1966
+passage 2 score = 8.5
+sentence 1: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
+sentence 2: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+sentence 3: pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+sentence 4: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+sentence 5: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
 
 
 Pencarian jawaban
@@ -763,7 +711,7 @@ pengertian orde baru orde baru adalah suatu tatanan seluruh perikehidupan rakyat
 
 memproses passage 1
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 list jawaban dan posisi dalam passage
 uud 1945 | position = 14
@@ -814,7 +762,7 @@ dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap dan tekad un
 
 memproses passage 1
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 list jawaban dan posisi dalam passage
 1945 | position = 17
@@ -865,7 +813,7 @@ lahirnya orde baru diawali dengan dikeluarkannya surat perintah <TIME>11 maret 1
 
 memproses passage 1
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 list jawaban dan posisi dalam passage
 11 maret 1966 | position = 7
@@ -912,7 +860,7 @@ pada <TIME>peringatan hari kemerdekaan 17 agustus 1966</TIME> , presiden menguca
 
 memproses passage 2
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 list jawaban dan posisi dalam passage
 peringatan hari kemerdekaan 17 agustus 1966 | position = 0
@@ -969,7 +917,7 @@ lahirnya surat perintah <TIME>11 maret 1966</TIME> ( supersemar ) pada <TIME>tan
 
 memproses passage 2
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 list jawaban dan posisi dalam passage
 11 maret 1966 | position = 3
@@ -1047,7 +995,7 @@ lahirnya surat perintah <TIME>11 maret 1966</TIME> ( supersemar ) pada <TIME>tan
 
 memproses passage 3
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 list jawaban dan posisi dalam passage
 11 maret 1966 | position = 3
@@ -1155,7 +1103,7 @@ tindak lanjut supersemar sebagai tindak lanjut keluarnya surat perintah <TIME>11
 
 memproses passage 6
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 list jawaban dan posisi dalam passage
 11 maret 1966 | position = 8
@@ -1240,7 +1188,7 @@ a. <TIME>tanggal 12 maret 1966</TIME> , dikeluarkanlah surat keputusan yang beri
 
 memproses passage 6
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 list jawaban dan posisi dalam passage
 tanggal 12 maret 1966 | position = 1
@@ -1295,7 +1243,7 @@ keputusan tersebut diperkuat dengan keputusan <PERSON>presiden/pangti abri/manda
 
 memproses passage 6
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 title : pemerintahan zaman orde baru dan lahirnya supersemar
 list jawaban dan posisi dalam passage
 1 3 1966 tangal 12 maret 1966 | position = 4
@@ -1322,187 +1270,6 @@ keputusan pembubaran <PERSON>pki</PERSON> beserta ormas-ormasnya mendapat sambut
 tidak ada entitas jawaban, skip
 
 
-ia adalah proklamator kemerdekaan indonesia ( bersama dengan mohammad hatta ) yang terjadi pada <TIME>tanggal 17 agustus 1945</TIME> .
-
-memproses passage 2
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-title : ir soekarno bapak proklamator republik indonesia
-list jawaban dan posisi dalam passage
-tanggal 17 agustus 1945 | position = 6
-
-
-melakukan pencarian:
-kata kunci = supersemar
-tokenwithtagstemmed = proklamator
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = mohammad
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = tanggal 17 agustus 1945
-kata kunci = keluar
-tokenwithtagstemmed = proklamator
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = mohammad
-tokenwithtagstemmed = hatta
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = tanggal 17 agustus 1945
-
-
-soekarno menandatangani surat perintah <TIME>11 maret 1966</TIME> supersemar yang kontroversial , yang isinya - berdasarkan versi yang dikeluarkan markas besar angkatan darat - menugaskan letnan jenderal soeharto untuk mengamankan dan menjaga keamanan negara dan institusi kepresidenan .
-
-memproses passage 2
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-title : ir soekarno bapak proklamator republik indonesia
-list jawaban dan posisi dalam passage
-11 maret 1966 | position = 4
-
-
-melakukan pencarian:
-kata kunci = supersemar
-tokenwithtagstemmed = soekarno
-tokenwithtagstemmed = menandatangani
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = 11 maret 1966
-tokenwithtagstemmed = supersemar
-posisi dalam passage = 5
-jarak dengan tiap kandidat jawaban:
-11 maret 1966 -1
-
-tokenwithtagstemmed = kontroversial
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = dasar
-tokenwithtagstemmed = versi
-tokenwithtagstemmed = keluar
-tokenwithtagstemmed = markas
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = angkat
-tokenwithtagstemmed = darat
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = letnan
-tokenwithtagstemmed = jenderal
-tokenwithtagstemmed = soeharto
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = jaga
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = negara
-tokenwithtagstemmed = institusi
-tokenwithtagstemmed = presiden
-kata kunci = keluar
-tokenwithtagstemmed = soekarno
-tokenwithtagstemmed = menandatangani
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = 11 maret 1966
-tokenwithtagstemmed = supersemar
-tokenwithtagstemmed = kontroversial
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = dasar
-tokenwithtagstemmed = versi
-tokenwithtagstemmed = keluar
-posisi dalam passage = 10
-jarak dengan tiap kandidat jawaban:
-11 maret 1966 -6
-
-tokenwithtagstemmed = markas
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = angkat
-tokenwithtagstemmed = darat
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = letnan
-tokenwithtagstemmed = jenderal
-tokenwithtagstemmed = soeharto
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = jaga
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = negara
-tokenwithtagstemmed = institusi
-tokenwithtagstemmed = presiden
-
-
-supersemar menjadi dasar letnan jenderal soeharto untuk membubarkan partai komunis indonesia ( pki ) dan mengganti anggota-anggotanya yang duduk di parlemen .
-
-
-tidak ada entitas jawaban, skip
-
-
-setelah pertanggung jawabannya ditolak majelis permusyawaratan rakyat sementara ( mprs ) pada sidang umum ke empat <TIME>tahun 1967</TIME> <PERSON>, presiden soekarno</PERSON> diberhentikan dari jabatannya sebagai presiden pada sidang istimewa mprs di tahun yang sama dan mengangkat soeharto sebagai pejabat presiden republik indonesia .
-
-memproses passage 2
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-title : ir soekarno bapak proklamator republik indonesia
-list jawaban dan posisi dalam passage
-tahun 1967 | position = 10
-
-
-melakukan pencarian:
-kata kunci = supersemar
-tokenwithtagstemmed = tanggung
-tokenwithtagstemmed = jawab
-tokenwithtagstemmed = tolak
-tokenwithtagstemmed = majelis
-tokenwithtagstemmed = musyawarat
-tokenwithtagstemmed = rakyat
-tokenwithtagstemmed = mprs
-tokenwithtagstemmed = sidang
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = empat
-tokenwithtagstemmed = tahun 1967
-tokenwithtagstemmed = presiden soekarno
-tokenwithtagstemmed = henti
-tokenwithtagstemmed = jabat
-tokenwithtagstemmed = presiden
-tokenwithtagstemmed = sidang
-tokenwithtagstemmed = istimewa
-tokenwithtagstemmed = mprs
-tokenwithtagstemmed = tahun
-tokenwithtagstemmed = angkat
-tokenwithtagstemmed = soeharto
-tokenwithtagstemmed = jabat
-tokenwithtagstemmed = presiden
-tokenwithtagstemmed = republik
-tokenwithtagstemmed = indonesia
-kata kunci = keluar
-tokenwithtagstemmed = tanggung
-tokenwithtagstemmed = jawab
-tokenwithtagstemmed = tolak
-tokenwithtagstemmed = majelis
-tokenwithtagstemmed = musyawarat
-tokenwithtagstemmed = rakyat
-tokenwithtagstemmed = mprs
-tokenwithtagstemmed = sidang
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = empat
-tokenwithtagstemmed = tahun 1967
-tokenwithtagstemmed = presiden soekarno
-tokenwithtagstemmed = henti
-tokenwithtagstemmed = jabat
-tokenwithtagstemmed = presiden
-tokenwithtagstemmed = sidang
-tokenwithtagstemmed = istimewa
-tokenwithtagstemmed = mprs
-tokenwithtagstemmed = tahun
-tokenwithtagstemmed = angkat
-tokenwithtagstemmed = soeharto
-tokenwithtagstemmed = jabat
-tokenwithtagstemmed = presiden
-tokenwithtagstemmed = republik
-tokenwithtagstemmed = indonesia
-
-
-soekarno dilahirkan dengan nama kusno sosrodihardjo .
-
-
-tidak ada entitas jawaban, skip
-
-
 pemerintahan orde baru 1 .
 
 
@@ -1513,7 +1280,7 @@ pengertian orde baru orde baru adalah suatu tatanan seluruh perikehidupan rakyat
 
 memproses passage 1
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 uud 1945 | position = 14
@@ -1564,7 +1331,7 @@ dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap dan tekad un
 
 memproses passage 1
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 1945 | position = 17
@@ -1615,7 +1382,7 @@ lahirnya orde baru diawali dengan dikeluarkannya surat perintah <TIME>11 maret 1
 
 memproses passage 1
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 11 maret 1966 | position = 7
@@ -1668,7 +1435,7 @@ lahirnya surat perintah <TIME>11 maret 1966</TIME> pada <TIME>tanggal 11 maret 1
 
 memproses passage 2
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 11 maret 1966 | position = 3
@@ -1745,7 +1512,7 @@ untuk menghindari segala sesuatu yang tidak diinginkan , maka <PERSON>presiden s
 
 memproses passage 2
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 masa orde | position = 9
@@ -1808,7 +1575,7 @@ surat itulah yang kemudian dikenal sebagai surat perintah <TIME>11 maret 1966</T
 
 memproses passage 5
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 11 maret 1966 | position = 4
@@ -1845,7 +1612,7 @@ tindak lanjut supersemar sebagai tindak lanjut keluarnya surat perintah <TIME>11
 
 memproses passage 5
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 11 maret 1966 | position = 8
@@ -1930,7 +1697,7 @@ tokenwithtagstemmed = ikut
 
 memproses passage 5
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 tanggal 12 maret 1966 | position = 0
@@ -1983,7 +1750,7 @@ tokenwithtagstemmed = wilayah indonesia
 
 memproses passage 6
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 tanggal 12 maret 1966 | position = 0
@@ -2036,7 +1803,7 @@ keputusan tersebut diperkuat dengan keputusan <PERSON>presiden/pangti abri/manda
 
 memproses passage 6
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 1 3 1966 tangal 12 maret 1966 | position = 4
@@ -2067,7 +1834,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 6
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 title : pemerintahan orde baru
 list jawaban dan posisi dalam passage
 tanggal 18 maret 1966 | position = 0
@@ -2136,7 +1903,7 @@ tindak lanjut supersemar – sebagai tindak lanjut keluarnya surat perintah <TIM
 
 memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
 title : tindak lanjut supersemar
 list jawaban dan posisi dalam passage
 11 maret 1966 | position = 8
@@ -2227,7 +1994,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 1
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
 title : tindak lanjut supersemar
 list jawaban dan posisi dalam passage
 tanggal 12 maret 1966 | position = 0
@@ -2280,7 +2047,7 @@ keputusan tersebut diperkuat dengan keputusan <PERSON>presiden/pangti abri/manda
 
 memproses passage 1
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
 title : tindak lanjut supersemar
 list jawaban dan posisi dalam passage
 1 3 1966 tangal 12 maret 1966 | position = 4
@@ -2306,6 +2073,120 @@ keputusan pembubaran <PERSON>pki</PERSON> beserta ormas-ormasnya mendapat sambut
 
 tidak ada entitas jawaban, skip
 
+
+lahirnya orde baru diawali dengan dikeluarkannya surat perintah <TIME>11 maret 1966</TIME> .
+
+memproses passage 2
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok296.txt
+title : pengertian orde baru dan lahirnya surat perintah 11 maret 1966
+list jawaban dan posisi dalam passage
+11 maret 1966 | position = 7
+
+
+melakukan pencarian:
+kata kunci = supersemar
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+kata kunci = keluar
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = keluar
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 3
+
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+
+
+dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>tanggal 11 maret 1966</TIME> di <LOCATION>istana negara</LOCATION> diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh <PERSON>presiden soekarno</PERSON> dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+
+memproses passage 2
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok296.txt
+title : pengertian orde baru dan lahirnya surat perintah 11 maret 1966
+list jawaban dan posisi dalam passage
+tanggal 11 maret 1966 | position = 0
+
+
+melakukan pencarian:
+kata kunci = supersemar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = keluar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+posisi dalam passage = 14
+jarak dengan tiap kandidat jawaban:
+tanggal 11 maret 1966 -14
+
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+
+
+ketika sidang tengah berlangsung , ajudan <PERSON>presiden</PERSON> melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+
+
+tidak ada entitas jawaban, skip
+
+
+untuk menghindari segala sesuatu yang tidak diinginkan , maka <PERSON>presiden soekarno</PERSON> menyerahkan pimpinan sidang kepada <PERSON>waperdam ii</PERSON> ( wakil perdana menteri ii ) dr j. laimena .
+
+
+tidak ada entitas jawaban, skip
+
 Pengurutan kandidat jawaban
 this.answer = tanggal 11 maret 1966
 passage rank = 2
@@ -2314,7 +2195,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 document Title = pemerintahan zaman orde baru dan lahirnya supersemar
 
 this.answer = tanggal 11 maret 1966
@@ -2324,7 +2205,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 document Title = pemerintahan zaman orde baru dan lahirnya supersemar
 
 this.answer = 11 maret 1966
@@ -2334,7 +2215,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 document Title = pemerintahan zaman orde baru dan lahirnya supersemar
 
 this.answer = 11 maret 1966
@@ -2344,28 +2225,38 @@ doc rank = 1
 total Score = 8
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 document Title = pemerintahan zaman orde baru dan lahirnya supersemar
 
 this.answer = 11 maret 1966
-passage rank = 6
+passage rank = 5
 distance = 3
-doc rank = 3
-total Score = 12
+doc rank = 2
+total Score = 10
 frequency = 1
 order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 document Title = pemerintahan orde baru
 
 this.answer = 11 maret 1966
-passage rank = 8
+passage rank = 7
 distance = 3
-doc rank = 3
-total Score = 14
+doc rank = 2
+total Score = 12
 frequency = 1
 order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 document Title = pemerintahan orde baru
+
+this.answer = 11 maret 1966
+passage rank = 9
+distance = 3
+doc rank = 3
+total Score = 15
+frequency = 1
+order process = 19
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
+document Title = tindak lanjut supersemar
 
 this.answer = 11 maret 1966
 passage rank = 10
@@ -2373,9 +2264,9 @@ distance = 3
 doc rank = 4
 total Score = 17
 frequency = 1
-order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
-document Title = tindak lanjut supersemar
+order process = 21
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok296.txt
+document Title = pengertian orde baru dan lahirnya surat perintah 11 maret 1966
 
 this.answer = 11 maret 1966
 passage rank = 4
@@ -2384,27 +2275,27 @@ doc rank = 1
 total Score = 11
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 document Title = pemerintahan zaman orde baru dan lahirnya supersemar
 
 this.answer = 11 maret 1966
-passage rank = 8
+passage rank = 7
 distance = 6
-doc rank = 3
-total Score = 17
+doc rank = 2
+total Score = 15
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 document Title = pemerintahan orde baru
 
 this.answer = 11 maret 1966
-passage rank = 10
+passage rank = 9
 distance = 6
-doc rank = 4
-total Score = 20
+doc rank = 3
+total Score = 18
 frequency = 1
 order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
 document Title = tindak lanjut supersemar
 
 this.answer = uud 1945
@@ -2414,37 +2305,37 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 document Title = pemerintahan zaman orde baru dan lahirnya supersemar
 
 this.answer = uud 1945
-passage rank = 8
+passage rank = 7
 distance = 12
-doc rank = 3
-total Score = 23
+doc rank = 2
+total Score = 21
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 document Title = pemerintahan orde baru
 
 this.answer = uud 1945
-passage rank = 10
+passage rank = 9
 distance = 12
-doc rank = 4
-total Score = 26
+doc rank = 3
+total Score = 24
 frequency = 1
 order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
 document Title = tindak lanjut supersemar
 
 this.answer = 5 tanggal 18 maret 1966
-passage rank = 9
+passage rank = 8
 distance = 18
-doc rank = 3
-total Score = 30
+doc rank = 2
+total Score = 28
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 document Title = pemerintahan orde baru
 
 this.answer = uud 1945
@@ -2454,27 +2345,27 @@ doc rank = 1
 total Score = 25
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 document Title = pemerintahan zaman orde baru dan lahirnya supersemar
 
 this.answer = uud 1945
-passage rank = 8
+passage rank = 7
 distance = 20
-doc rank = 3
-total Score = 31
+doc rank = 2
+total Score = 29
 frequency = 1
 order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 document Title = pemerintahan orde baru
 
 this.answer = uud 1945
-passage rank = 10
+passage rank = 9
 distance = 20
-doc rank = 4
-total Score = 34
+doc rank = 3
+total Score = 32
 frequency = 1
 order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
 document Title = tindak lanjut supersemar
 
 this.answer = uud 1945
@@ -2484,27 +2375,27 @@ doc rank = 1
 total Score = 28
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
 document Title = pemerintahan zaman orde baru dan lahirnya supersemar
 
 this.answer = uud 1945
-passage rank = 8
+passage rank = 7
 distance = 23
-doc rank = 3
-total Score = 34
+doc rank = 2
+total Score = 32
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
 document Title = pemerintahan orde baru
 
 this.answer = uud 1945
-passage rank = 10
+passage rank = 9
 distance = 23
-doc rank = 4
-total Score = 37
+doc rank = 3
+total Score = 35
 frequency = 1
 order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok362.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
 document Title = tindak lanjut supersemar
 
 

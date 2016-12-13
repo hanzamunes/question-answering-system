@@ -1,439 +1,457 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok299.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok23.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok94.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok328.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok304.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok213.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok22.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok93.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok121.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok50.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok267.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok308.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok389.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok102.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok31.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok290.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok92.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok383.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok144.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok146.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok164.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok287.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok284.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok380.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok210.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok79.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok8.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok222.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok163.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok214.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok4.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok75.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok397.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok119.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok48.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok238.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok211.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok354.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok304.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok1.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok72.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok19.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok90.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok303.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok121.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok50.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok280.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok309.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok260.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok154.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok168.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok179.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok3.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok274.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok383.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok330.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok116.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok45.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok297.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok219.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok176.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok223.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok324.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok294.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok120.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok391.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok49.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok163.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok189.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok202.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok26.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok97.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok148.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok285.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok237.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok305.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok101.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok129.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok246.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok30.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok349.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok361.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok58.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok211.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok354.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok146.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok100.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok104.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok118.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok119.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok29.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok302.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok33.txt
 
 
 query token : 
 wali songo guna media tunjuk wayang 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-title : tokoh penyebar islam di indonesia
-passage 2 score = 7.0
-sentence 1: dengan memakai gelar sayyid syarif yang menjalankan dakwah dengan motif keagamaan .
-sentence 2: di pulau jawa , proses islamisasi memiliki satu kekhasan .
-sentence 3: islamisasi di jawa dilakukan oleh sekelompok mubalig islam yang dikenal dengan sebutan walisongo .
-sentence 4: wali arti harfiahnya adalah orang yang dekat dengan allah , sedangkan songo menunjukkan jumlah yaitu sembilan .
-sentence 5: jadi walisongo artinya sembilan orang wali .
-passage 3 score = 7.0
-sentence 1: jadi walisongo artinya sembilan orang wali .
-sentence 2: ada pula yang mengartikan songo itu bukan angka sembilan dalam pengertian jumlah , tetapi menunjukkan bahwa sembilan itu ( songo ) menunjukkan angka yang sakral atau suci .
-sentence 3: jadi walisongo bisa diartikan pula dengan orang-orang ( wali ) yang disucikan , karena jumlah wali itu lebih dari sembilan .
-sentence 4: walisongo sangat dihormati serta dimuliakan oleh orang-orang , terutama di pulau jawa , bahkan para walisongo itu diberi gelar sunan atau susuhunan artinya yang dijunjung tinggi atau gelar yang tinggi dan mulia .
-sentence 5: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
-passage 4 score = 7.0
-sentence 1: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
-sentence 2: mereka menggunakan metode-metode yang memudahkan ajaran islam diterima oleh masyarakat luas dari berbagai golongan .
-sentence 3: mereka menggunakan pendekatan kebudayaan untuk memperkenalkan islam kepada masyarakat .
-sentence 4: para wali itu , antara lain sebagai berikut .
-sentence 5: a. maulana malik ibrahim maulana malik ibrahim atau makdum ibrahim , sering pula disebut maulana maghribi , dan ada juga orang menyebutnya dengan sebutan kakek bantal .
-passage 24 score = 7.0
-sentence 1: sejak kecil , dalam diri raden jaka said sudah tampak jiwa luhur yang ditandai dengan selalu taat kepada agama dan berbakti kepada orang tua , serta mempunyai sikap welas asih kepada semua orang .
-sentence 2: ia menjadi murid sunan bonang , kemudian menikah dengan putri maulana ishak .
-sentence 3: berbeda dengan para wali lain , sunan kalijaga menjadi mubalig keliling dan tidak mempunyai pusat dakwah yang tetap .
-sentence 4: dalam melaksanakan dakwahnya , sunan kalijaga menggunakan kesenian wayang kulit yang sangat digemari masyarakat sejak aman hindu .
-sentence 5: kisah mahabharata yang melandasi cerita wayang disesuaikan agar tidak bertentangan dengan ajaran islam .
-passage 34 score = 6.833333333333333
-sentence 1: pada tahun 1570 m , sunan gunung jati wafat dan dimakamkan di gunung jati , cirebon .
-sentence 2: setelah walisongo , proses penyebaran agama islam diteruskan oleh para ulama yang peranannya sama dengan para wali .
-sentence 3: para ulama itu tersebar di berbagai pelosok tanah air , antara lain sebagai berikut .
-sentence 4: 1 ) tokoh ulama dari jawa a ) syekh bentong dengan daerah dakwah di gunung lawu b ) sunan bayat yang banyak menyebarkan islam di daerah klaten dan sekitarnya c ) syekh majagung , sunan prapen , dan sunan sendang yang berperan dalam pendidikan pondok pesantren di daerah jawa 2 ) tokoh ulama dari luar jawa a ) datuk ri bandang yang menyebarkan agama islam di daerah makassar b ) datuk sulaeman yang menyebarkan agama islam di daerah sulawesi c ) tuan tunggang parangang dan penghulu demak yang menyebarkan islam di kalimantan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-title : tokoh penyebar islam di indonesia
-passage 2 score = 7.0
-sentence 1: dengan memakai gelar sayyid syarif yang menjalankan dakwah dengan motif keagamaan .
-sentence 2: di pulau jawa , proses islamisasi memiliki satu kekhasan .
-sentence 3: islamisasi di jawa dilakukan oleh sekelompok mubalig islam yang dikenal dengan sebutan walisongo .
-sentence 4: wali arti harfiahnya adalah orang yang dekat dengan allah , sedangkan songo menunjukkan jumlah yaitu sembilan .
-sentence 5: jadi walisongo artinya sembilan orang wali .
-passage 3 score = 7.0
-sentence 1: jadi walisongo artinya sembilan orang wali .
-sentence 2: ada pula yang mengartikan songo itu bukan angka sembilan dalam pengertian jumlah , tetapi menunjukkan bahwa sembilan itu ( songo ) menunjukkan angka yang sakral atau suci .
-sentence 3: jadi walisongo bisa diartikan pula dengan orang-orang ( wali ) yang disucikan , karena jumlah wali itu lebih dari sembilan .
-sentence 4: walisongo sangat dihormati serta dimuliakan oleh orang-orang , terutama di pulau jawa , bahkan para walisongo itu diberi gelar sunan atau susuhunan artinya yang dijunjung tinggi atau gelar yang tinggi dan mulia .
-sentence 5: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
-passage 4 score = 7.0
-sentence 1: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
-sentence 2: mereka menggunakan metode-metode yang memudahkan ajaran islam diterima oleh masyarakat luas dari berbagai golongan .
-sentence 3: mereka menggunakan pendekatan kebudayaan untuk memperkenalkan islam kepada masyarakat .
-sentence 4: para wali itu , antara lain sebagai berikut .
-sentence 5: a. maulana malik ibrahim maulana malik ibrahim atau makdum ibrahim , sering pula disebut maulana maghribi , dan ada juga orang menyebutnya dengan sebutan kakek bantal .
-passage 24 score = 7.0
-sentence 1: sejak kecil , dalam diri raden jaka said sudah tampak jiwa luhur yang ditandai dengan selalu taat kepada agama dan berbakti kepada orang tua , serta mempunyai sikap welas asih kepada semua orang .
-sentence 2: ia menjadi murid sunan bonang , kemudian menikah dengan putri maulana ishak .
-sentence 3: berbeda dengan para wali lain , sunan kalijaga menjadi mubalig keliling dan tidak mempunyai pusat dakwah yang tetap .
-sentence 4: dalam melaksanakan dakwahnya , sunan kalijaga menggunakan kesenian wayang kulit yang sangat digemari masyarakat sejak aman hindu .
-sentence 5: kisah mahabharata yang melandasi cerita wayang disesuaikan agar tidak bertentangan dengan ajaran islam .
-passage 34 score = 6.833333333333333
-sentence 1: pada tahun 1570 m , sunan gunung jati wafat dan dimakamkan di gunung jati , cirebon .
-sentence 2: setelah walisongo , proses penyebaran agama islam diteruskan oleh para ulama yang peranannya sama dengan para wali .
-sentence 3: para ulama itu tersebar di berbagai pelosok tanah air , antara lain sebagai berikut .
-sentence 4: 1 ) tokoh ulama dari jawa a ) syekh bentong dengan daerah dakwah di gunung lawu b ) sunan bayat yang banyak menyebarkan islam di daerah klaten dan sekitarnya c ) syekh majagung , sunan prapen , dan sunan sendang yang berperan dalam pendidikan pondok pesantren di daerah jawa 2 ) tokoh ulama dari luar jawa a ) datuk ri bandang yang menyebarkan agama islam di daerah makassar b ) datuk sulaeman yang menyebarkan agama islam di daerah sulawesi c ) tuan tunggang parangang dan penghulu demak yang menyebarkan islam di kalimantan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-title : bentuk bentuk kebudayaan hindu buddha yang masuk ke indonesia
-passage 33 score = 6.833333333333333
-sentence 1: d. pada prasasti turun hyang , yaitu prasasti yang dikeluarkan oleh raja airlangga menyebutkan tentang pembuatan sriwijaya asrama oleh raja airlangga .
-sentence 2: sriwijaya asrama merupakan suatu tempat yang dibangun sebagai pusat pendidikan dan pengajaran keagamaan .
-sentence 3: hal ini menunjukkan besarnya perhatian raja airlangga terhadap pendidikan keagamaan bagi rakyatnya dengan memberikan fasilitas berupa pembuatan bangunan yang akan digunakan sebagai sarana pendidikan dan pengajaran .
-sentence 4: e. istilah surau yang digunakan oleh orang islam untuk menunjuk lembaga pendidikan islam tradisional di minangkabau sebenarnya berasal dari pengaruh hindu-buddha .
-sentence 5: surau merupakan tempat yang dibangun sebagai tempat beribadah orang hindu-buddha pada masa raja adityawarman .
-passage 42 score = 6.833333333333333
-sentence 1: f. arca ganesa , yaitu dewa yang berkepala gajah sebagai dewa ilmu pengetahuan .
-sentence 2: seni pertunjukan , terutama seni wayang sampai sekarang merupakan salah satu bentuk seni yang masih populer di kalangan masyarakat indonesia .
-sentence 3: seni wayang beragam bentuknya seperti wayang kulit , wayang golek , dan wayang orang .
-sentence 4: seni pertunjukan wayang tampaknya telah dikenal oleh bangsa indonesia sejak aman prasejarah .
-sentence 5: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-passage 43 score = 6.833333333333333
-sentence 1: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-sentence 2: kedatangan arwah nenek moyang diwujudkan dalam bentuk bayangan dari sebuah wayang yang terbuat dari kulit .
-sentence 3: lakon wayang pada masa ini lebih banyak menceritakan tentang kepahlawanan dan petualangan nenek moyang , seperti lakon-lakon “ dewi sri ” atau “ murwakala ” .
-sentence 4: pertunjukan wayang diadakan pada malam hari di tempattempat yang dianggap keramat .
-sentence 5: pada masa hindu-buddha , kebudayaan pertunjukan wayang ini terus dilanjutkan dan lebih berkembang lagi dengan cerita-cerita yang lebih kaya .
-passage 5 score = 6.666666666666667
-sentence 1: pembuatan candi di india selalu menunjukkan fungsinya yang utama yaitu sebagai tempat peribadatan .
-sentence 2: sementara candi-candi yang terdapat di indonesia tidak hanya difungsikan sebagai tempat peribadatan tetapi juga tempat pemakaman raja atau orang-orang yang dimuliakan .
-sentence 3: hal ini tampaknya dipahami oleh masyarakat indonesia bahwa kata candi berasal dari nama durga sebagai dewi maut yaitu candika .
-sentence 4: dari kata candika menunjukkan bahwa candi merupakan tempat untuk memuliakan orang yang telah meninggal , khususnya untuk para raja dan orang-orang terkemuka .
-sentence 5: terdapat perbedaan fungsi candi antara agama hindu dan buddha .
-passage 31 score = 6.666666666666667
-sentence 1: b. prasasti nalanda yang dibuat pada sekitar pertengahan abad ke-9 , dan ditemukan di india .
-sentence 2: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
-sentence 3: berdasarkan prasasti tersebut , kita bisa melihat begitu besarnya perhatian raja sriwijaya terhadap pendidikan dan pengajaran agama buddha di kerajaannya .
-sentence 4: hal ini terlihat dengan dikirimkannya beberapa pelajar dari sriwijaya untuk belajar agama buddha langsung ke daerah kelahirannya yaitu india .
-sentence 5: tidak mustahil bahwa sekembalinya para pelajar ini ke sriwijaya maka mereka akan menyebarluaskan hasil pendidikannya tersebut kepada masyarakat sriwijaya dengan jalan membentuk asrama-asrama sebagai pusat pengajaran dan pendidikan agama buddha .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-title : penjelasan peninggalan kebudayaan hindu-buddha di indonesia (kedua)
-passage 7 score = 6.833333333333333
-sentence 1: di sriwijaya i-tsing melihat begitu pesatnya pendidikan agama buddha , sehingga dia memutuskan untuk menetap selama beberapa bulan di sriwijaya dan menerjemahkan salah satu kitab agama buddha bersama pendeta buddha yang ternama di sriwijaya , yaitu satyakirti .
-sentence 2: bahkan i-tsing menganjurkan kepada siapa saja yang akan pergi ke india untuk mempelajari agama buddha untuk singgah dan mempelajari terlebih dahulu agama buddha di sriwijaya .
-sentence 3: berita i-tsing ini menunjukkan bahwa pendidikan agama buddha di sriwijaya sudah begitu maju dan tampaknya menjadi yang terbesar di daerah asia tenggara pada saat itu .
-sentence 4: b. prasasti nalanda yang dibuat pada sekitar pertengahan abad ke-9 , dan ditemukan di india .
-sentence 5: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
-passage 20 score = 6.833333333333333
-sentence 1: 8 .
-sentence 2: seni pertunjukan , terutama seni wayang sampai sekarang merupakan salah satu bentuk seni yang masih populer di kalangan masyarakat indonesia .
-sentence 3: seni wayang beragam bentuknya seperti wayang kulit , wayang golek , dan wayang orang .
-sentence 4: seni pertunjukan wayang tampaknya telah dikenal oleh bangsa indonesia sejak aman prasejarah .
-sentence 5: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-passage 21 score = 6.833333333333333
-sentence 1: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-sentence 2: kedatangan arwah nenek moyang diwujudkan dalam bentuk bayangan dari sebuah wayang yang terbuat dari kulit .
-sentence 3: lakon wayang pada masa ini lebih banyak menceritakan tentang kepahlawanan dan petualangan nenek moyang , seperti lakon-lakon “ dewi sri ” atau “ murwakala ” .
-sentence 4: pertunjukan wayang diadakan pada malam hari di tempat-tempat yang dianggap keramat .
-sentence 5: pada masa hindu-buddha , kebudayaan pertunjukan wayang ini terus dilanjutkan dan lebih berkembang lagi dengan cerita-cerita yang lebih kaya .
-passage 8 score = 6.666666666666667
-sentence 1: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
-sentence 2: berdasarkan prasasti tersebut kita bisa melihat begitu besarnya perhatian raja sriwijaya terhadap pendidikan dan pengajaran agama buddha di kerajaannya .
-sentence 3: hal ini terlihat dengan dikirimkannya beberapa pelajar dari sriwijaya untuk belajar agama buddha langsung ke daerah kelahirannya yaitu india .
-sentence 4: tidak mustahil bahwa sekembalinya para pelajar ini ke sriwijaya maka mereka akan menyebarluaskan hasil pendidikannya tersebut kepada masyarakat sriwijaya dengan jalan membentuk asrama-asrama sebagai pusat pengajaran dan pendidikan agama buddha .
-sentence 5: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
-passage 9 score = 6.666666666666667
-sentence 1: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
-sentence 2: tujuannya adalah untuk bekerja sama dengan pendeta ho-ling yaitu jnanabhadra untuk menerjemahkan bagian terakhir kitab nirwanasutra .
-sentence 3: dari berita ini menunjukkan bahwa di jawa pun telah dikenal pendidikan agama buddha yang kemudian menjadi rujukan bagi pendeta yang berasal dari daerah lain untuk bersama-sama mempelajari agama dengan pendeta yang berasal dari indonesia .
-sentence 4: d. pada prasasti turun hyang , yaitu prasasti yang dikeluarkan oleh raja airlangga menyebutkan tentang pembuatan sriwijaya asrama oleh raja airlangga .
-sentence 5: sriwijaya asrama merupakan suatu tempat yang dibangun sebagai pusat pendidikan dan pengajaran keagamaan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-title : penjelasan peninggalan kebudayaan hindu-buddha di indonesia (kedua)
-passage 7 score = 6.833333333333333
-sentence 1: di sriwijaya i-tsing melihat begitu pesatnya pendidikan agama buddha , sehingga dia memutuskan untuk menetap selama beberapa bulan di sriwijaya dan menerjemahkan salah satu kitab agama buddha bersama pendeta buddha yang ternama di sriwijaya , yaitu satyakirti .
-sentence 2: bahkan i-tsing menganjurkan kepada siapa saja yang akan pergi ke india untuk mempelajari agama buddha untuk singgah dan mempelajari terlebih dahulu agama buddha di sriwijaya .
-sentence 3: berita i-tsing ini menunjukkan bahwa pendidikan agama buddha di sriwijaya sudah begitu maju dan tampaknya menjadi yang terbesar di daerah asia tenggara pada saat itu .
-sentence 4: b. prasasti nalanda yang dibuat pada sekitar pertengahan abad ke-9 , dan ditemukan di india .
-sentence 5: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
-passage 20 score = 6.833333333333333
-sentence 1: 8 .
-sentence 2: seni pertunjukan , terutama seni wayang sampai sekarang merupakan salah satu bentuk seni yang masih populer di kalangan masyarakat indonesia .
-sentence 3: seni wayang beragam bentuknya seperti wayang kulit , wayang golek , dan wayang orang .
-sentence 4: seni pertunjukan wayang tampaknya telah dikenal oleh bangsa indonesia sejak aman prasejarah .
-sentence 5: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-passage 21 score = 6.833333333333333
-sentence 1: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-sentence 2: kedatangan arwah nenek moyang diwujudkan dalam bentuk bayangan dari sebuah wayang yang terbuat dari kulit .
-sentence 3: lakon wayang pada masa ini lebih banyak menceritakan tentang kepahlawanan dan petualangan nenek moyang , seperti lakon-lakon “ dewi sri ” atau “ murwakala ” .
-sentence 4: pertunjukan wayang diadakan pada malam hari di tempat-tempat yang dianggap keramat .
-sentence 5: pada masa hindu-buddha , kebudayaan pertunjukan wayang ini terus dilanjutkan dan lebih berkembang lagi dengan cerita-cerita yang lebih kaya .
-passage 8 score = 6.666666666666667
-sentence 1: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
-sentence 2: berdasarkan prasasti tersebut kita bisa melihat begitu besarnya perhatian raja sriwijaya terhadap pendidikan dan pengajaran agama buddha di kerajaannya .
-sentence 3: hal ini terlihat dengan dikirimkannya beberapa pelajar dari sriwijaya untuk belajar agama buddha langsung ke daerah kelahirannya yaitu india .
-sentence 4: tidak mustahil bahwa sekembalinya para pelajar ini ke sriwijaya maka mereka akan menyebarluaskan hasil pendidikannya tersebut kepada masyarakat sriwijaya dengan jalan membentuk asrama-asrama sebagai pusat pengajaran dan pendidikan agama buddha .
-sentence 5: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
-passage 9 score = 6.666666666666667
-sentence 1: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
-sentence 2: tujuannya adalah untuk bekerja sama dengan pendeta ho-ling yaitu jnanabhadra untuk menerjemahkan bagian terakhir kitab nirwanasutra .
-sentence 3: dari berita ini menunjukkan bahwa di jawa pun telah dikenal pendidikan agama buddha yang kemudian menjadi rujukan bagi pendeta yang berasal dari daerah lain untuk bersama-sama mempelajari agama dengan pendeta yang berasal dari indonesia .
-sentence 4: d. pada prasasti turun hyang , yaitu prasasti yang dikeluarkan oleh raja airlangga menyebutkan tentang pembuatan sriwijaya asrama oleh raja airlangga .
-sentence 5: sriwijaya asrama merupakan suatu tempat yang dibangun sebagai pusat pendidikan dan pengajaran keagamaan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok299.txt
-title : perkembangan agama dan budaya hindu
-passage 3 score = 5.0
-sentence 1: kitab suci agama hindu adalah weda , artinya pengetahuan , yang terdiri atas empat bagian .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+title : perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+passage 4 score = 7.333333333333333
+sentence 1: pertunjukan wayang pada mulanya merupakan upacara pemujaan arwah nenek moyang .
+sentence 2: setelah pengaruh hindu-buddha masuk maka pertunjukan wayang mengalami perkembangan .
+sentence 3: pertunjukan wayang kemudian banyak menyadur dari pengaruh hindu-buddha dengan mengambil cerita dari mahabarata dan ramayana .
+sentence 4: ketika pengaruh islam masuk , pertunjukan wayang makin berkembang dan ber - sumberkan pada ajaran agama is - lam .
+sentence 5: para wali sanga , khusus sunan kalijaga menggunakan pertunjukan wayang sebagai media dakwah .
+passage 5 score = 7.333333333333333
+sentence 1: para wali sanga , khusus sunan kalijaga menggunakan pertunjukan wayang sebagai media dakwah .
+sentence 2: jadi , pertunjukan wayang di sam - ping sebagai sarana pendidikan , komunikasi , dan hiburan rakyat juga digunakan untuk menyebarkan agama islam .
+sentence 3: bahkan , sampai zaman modern sekarang ini dengan berbagai peralatan yang canggih , pertunjukan wayang masih tetap eksis sebagai sarana pendidikan , hiburan , dan komunikasi yang efektif untuk menunjang pem - bangunan .2 .
+sentence 4: tradisi garebeg dan sekaten garebeg atau anggerebeg berarti pengawalan terhadap seorang pembesar yang penting , seperti seorang raja .
+sentence 5: pada upacara tersebut raja yogyakarta dan rajasurakarta menampakkan diri di sitinggil dan dikelilingi oleh pengikut - pengikutnya ( kerabat-kerabatnya ) yang berada di pagelaran untuk memberikan penghormatan kepada penguasa .
+passage 3 score = 6.833333333333333
+sentence 1: bentuk-bentuk perpaduan antara tradisi lokal , hindu – buddha , dan islam di dalam kehidupan masyarakat , antara lain sebagai berikut .
 sentence 2: 1 .
-sentence 3: rigweda , berisi syair pujian terhadap para dewa .
-sentence 4: 2 .
-sentence 5: samaweda , berisi syair dan nyanyian suci dalam upacara .
-passage 4 score = 5.0
-sentence 1: samaweda , berisi syair dan nyanyian suci dalam upacara .
-sentence 2: 3 .
-sentence 3: yajurweda , berisi doa-doa pengantar sesaji dalam upacara .
-sentence 4: 4 .
-sentence 5: atharwaweda , berisi mantra untuk menyembuhkan orang sakit dan jampi untuk sihir serta ilmu gaib mengusir penyakit dan para musuh .
-passage 5 score = 5.0
-sentence 1: atharwaweda , berisi mantra untuk menyembuhkan orang sakit dan jampi untuk sihir serta ilmu gaib mengusir penyakit dan para musuh .
-sentence 2: di india , paham trimurti dikembangkan berpasangan dengan trisakti yang meliputi : 1 .
-sentence 3: saraswati , permaisuri brahma , melambangkan dewi kebijaksanaan dan pengetahuan ; 2 .
-sentence 4: laksmi , permaisuri wisnu , melambangkan dewi kecantikan dan kebahagiaan ; 3 .
-sentence 5: parwati , permaisuri syiwa , melambangkan dewi keberanian dan kegarangan ( durga ) .
-passage 7 score = 5.0
-sentence 1: 2 .
-sentence 2: bagi triwangsa ( brahmana , ksatria , waisya ) wajib membaca kitab suci weda .
-sentence 3: 3 .
-sentence 4: melakukan upacara keagamaan yang berupa upacara kurban ( yajnabesar dan yajna kecil ) .
-sentence 5: yajnabesar , misalnya , penobatan raja , menghormati pemetikan buah pertama , dan upacara menyongsong datangnya musim .
-passage 8 score = 5.0
-sentence 1: yajnabesar , misalnya , penobatan raja , menghormati pemetikan buah pertama , dan upacara menyongsong datangnya musim .
-sentence 2: adapun yajna kecil , misalnya , sembahyang di rumah sehari-hari , kelahiran anak , dan cukur rambut .
-sentence 3: agama hindu mengenal adanya upacara pengorbanan , yaitu kurban soma dan kurban asra medha .
-sentence 4: kurban soma adalah upacara kebaktian yang terpandang suci di antara seluruh kebaktian di dalam weda .
-sentence 5: soma adalah sejenis cairan minuman yang memberi sifat kedewaan .
+sentence 3: pertunjukan wayang salah satu bentuk tradisi warisan nenek moyang kita ialah pertunjukan wa - yang yang mampu bertahan berabad-abad lamanya dan mengalami perubahan serta perkembangan sampai dengan bentuknya yang sekarang .
+sentence 4: fungsi pertun - jukan wayang sepanjang perjalanan sejarahnya tidaklah tetap dan bergantung pada kebutuhan tuntutan .
+sentence 5: pertunjukan wayang pada mulanya merupakan upacara pemujaan arwah nenek moyang .
+passage 1 score = 6.5
+sentence 1: sebelum datangnya pengaruh hindu – buddha dan islam , masyarakat indonesia telah mengenal kehidupan religius yang dijadikan pedoman untuk bersikap dan berperilaku dalam kehidupannya .
+sentence 2: hampir setiap kegiatan selalu dilandasi dengan upacara religius , baik dalam kegiatan mata pencaharian , adat istiadat perkawinan , tata cara penguburan , selamatan-selamatan ( jawa = slametan ) , maupun dalam kehidupan lainnya .
+sentence 3: mereka patuh menjalankan pranata-pranata yang berbau religius dan magis tersebut karena mereka beranggapan bahwa apabila terjadi pelanggaran akan mendapatkan kutukan dari arwah nenek moyang yang dampaknya akan mendatangkan bencana terhadap warga masyarakatnya .
+sentence 4: tradisi kehidupan religius ini semula bentuknya masih sangat sederhana ( sebelum pengaruh hindu – buddha merupakan tradisi lokal ) sehingga ketika penga - ruh hindu – buddha masuk ke indonesia , tradisi-tradisi lokal ini tidak musnah melainkan justru makin berkembang .
+sentence 5: hal ini dikerenakan pengaruh hindu – buddha juga menyesuaikan dengan kehidupan masyarakat setempat , hanya saja cara-cara dan upacara religusnya bersumberkan pada ajaran hindu – buddha .
+passage 2 score = 6.5
+sentence 1: hal ini dikerenakan pengaruh hindu – buddha juga menyesuaikan dengan kehidupan masyarakat setempat , hanya saja cara-cara dan upacara religusnya bersumberkan pada ajaran hindu – buddha .
+sentence 2: demikian juga ketika pengaruh islam masuk juga ikut mewarnai kehidupan tradisi-tradisi yang ada di indonesia .
+sentence 3: segala aktivitas kehidupan masyarakat yang menganut agama islam , bersumber pada ajaran agama islam .
+sentence 4: dengan demikian dari masa purba sampai dengan masuknya pengaruh islam , kehidupan tradisi-tradisi tersebut masih tetap berlangsung dan mendapat tempat sendiri-sendiri di kalangan masyarakat sesuai dengan kondisi daerah dan tingkat kepercayaan masyarakat yang bersangkutan .
+sentence 5: bentuk-bentuk perpaduan antara tradisi lokal , hindu – buddha , dan islam di dalam kehidupan masyarakat , antara lain sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
-title : perbandingan konsep kekuasaan di kerajaan hindu buddha dan islam
-passage 6 score = 5.666666666666667
-sentence 1: selanjutnya untuk menjaga kelestarian suatu kekuasaan maka muncul prinsip geneology kinship ( keturuan ) .
-sentence 2: artinya yang berhak menjadi raja adalah keturunannya .
-sentence 3: di samping itu , menurut konsep jawa orang yang menjadi raja ialah orang yang mendapatkan " wahyu " .
-sentence 4: hal ini menunjukkan bahwa kekuasaan raja itu datangnya dari " atas " ( dewa = tuhan ) .
-sentence 5: dengan berlandaskan ajaran hindu buddha maka muncullah " kultus dewa raja " , dalam pengertian kekuasaan raja seperti dewa .
-passage 8 score = 5.666666666666667
-sentence 1: di balik kekuasaannya yang besar raja juga harus mengimbangi dengan kewajibannya yang besar pula , yakni mampu melindungi rakyatnya sehingga tercipta kedamaian dan ketentraman .
-sentence 2: oleh karena itu , kemudian muncul suatu konsep tentang idealnya seorang raja , yakni harus memiliki sifat " astabrata " atau delapan kebajikan sebagai seorang pemimpin seperti yang dimiliki oleh delapan dewa dalam kepercayaan hindu , seperti berikt ini : a. memiliki jiwa dermawan , sifat dewa indra ; b. memiliki kemampuan untuk menekan semua kejahatan , sifat dewa yama ; c. memiliki kebijaksanaan , sifat dewa surya ; d. memiliki sifat kasih sayang , welas asih terhadap rakyat , sifat dewa candra ; e. memiliki pandangan yang luas dan tajam , sifat dewa bayu ; f. mampu menciptakan keamanan , ketenteraman dan kesejerahteraan , sifat dewa kuwera ; g. mampu menghadapi berbagai macam kesulitan , sifat dewa baruna ; h. memiliki keberanian yang menyala-nyala dan tekad yang bulat , sifat dewa brahma .
-sentence 3: 2 .
-sentence 4: konsep kekuasaan di kerajaan-kerajaan islam jika masa hindu – buddha , konsep kekuasaan diwarnai oleh nilai-nilai religius hindu – buddha sehingga muncul kultus dewa raja maka pada masa kerajaan-kerajaan islam , konsep kekuasaan juga diwarnai nilai-nilai religus , yakni islamisme .
-sentence 5: raja pada masa kerajaan-kerajaan islam menggunakan gelar sultan atau susuhunan .
-passage 10 score = 5.666666666666667
-sentence 1: raja pada masa islam juga memiliki kekuasaan yang besar sepertipada masa kerajaan-kerajaan hindu – buddha .
-sentence 2: bahkan , untuk raja-raja jawa umumnya dan mataram islam khususnya , muncul konsep keagung-binatharaan .
-sentence 3: dalam dunia pewayangan kekuasaan yang besar itu bisa digambarkan sebagai gung binathara bau dhendha nyakrawati ( sebesar kekuasaan dewa , pemelihara hukum dan penguasa dunia ) .
-sentence 4: raja tidak hanya berkuasa di bidang politik , tetapi juga di bidang agama sehingga muncul gelar sayidin panatagama .
-sentence 5: raja yang dikatakan baik adalah raja yng menjalankan kekuasaannya dalam keseimbangan antara kewenangannya yang besar dan kewajibannya yang besar juga .
-passage 4 score = 5.5
-sentence 1: konsep kekuasaan di kerajaan-kerajaan bercorak hindu atau buddha sejak zaman prasejarah , yakni sebelum masuknya pengaruh hindu buddha , sebenarnya telah terdapat semacam pola atau sistem tertentu dalam hubungan antara " pemimpin " dan " rakyat " .
-sentence 2: pada zaman megalitikum telah terdapat struktur pemerintahan yang sederhana .
-sentence 3: seorang pemimpin masyarakat yang kurang lebih setingkat dengan desa dipilih berdasarkan asas primus interpares , artinya pemimpin dipilih dari orang yang memiliki kelebihan dan keunggulan dari yang lain ( disegani dan sakti ) sehingga mampu melindungi dan mengayomi masyarakatnya .
-sentence 4: dengan adanya pengaruh hindu buddha dari india menyebabkan terjadinya perubahan-perubahan terhadap kebudayaan indonesia asli .
-sentence 5: pengaruh hindu buddha bukan saja mengantarkan bangsa indonesia memasuki zaman sejarah , tetapi juga membawa perubahan dalam susunan masyarakatnya , yakni timbulnya kedudukan raja dan bentuk pemerintahan kerajaan .
-passage 5 score = 5.5
-sentence 1: pengaruh hindu buddha bukan saja mengantarkan bangsa indonesia memasuki zaman sejarah , tetapi juga membawa perubahan dalam susunan masyarakatnya , yakni timbulnya kedudukan raja dan bentuk pemerintahan kerajaan .
-sentence 2: dengan demikian , pola kepemimpinan yang ada kemudian meningkat menjadi sistem kerajaan .
-sentence 3: itulah sebabnya kemudian muncul sebutan raja .
-sentence 4: untuk memperkuat kedudukan raja maka ada kebiasaan untuk mengundang brahmana untuk pentasbihan ( abhiseka = penobatan ) , dan sekaligus menjadikannya sebagai penasihat spiritual raja .
-sentence 5: selanjutnya untuk menjaga kelestarian suatu kekuasaan maka muncul prinsip geneology kinship ( keturuan ) .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok2.txt
+title : perpaduan tradisi lokal, hindu buddha dan islam di berbagai daerah
+passage 3 score = 6.833333333333333
+sentence 1: dengan demikian dari masa purba sampai dengan masuknya pengaruh islam , kehidupan tradisi-tradisi tersebut masih tetap berlangsung dan mendapat tempat sendiri-sendiri di kalangan masyarakat sesuai dengan kondisi daerah dan tingkat kepercayaan masyarakat yang bersangkutan .
+sentence 2: bentuk-bentuk perpaduan antara tradisi lokal , hindu – buddha , dan islam di dalam kehidupan masyarakat , antara lain sebagai berikut .
+sentence 3: 1 .
+sentence 4: pertunjukan wayang salah satu bentuk tradisi warisan nenek moyang kita ialah pertunjukan wayang yang mampu bertahan berabad-abad lamanya dan mengalami perubahan serta perkembangan sampai dengan bentuknya yang sekarang .
+sentence 5: fungsi pertunjukan wayang sepanjang perjalanan sejarahnya tidaklah tetap dan bergantung pada kebutuhan tuntutan .
+passage 4 score = 6.833333333333333
+sentence 1: fungsi pertunjukan wayang sepanjang perjalanan sejarahnya tidaklah tetap dan bergantung pada kebutuhan tuntutan .
+sentence 2: pertunjukan wayang pada mulanya merupakan upacara pemujaan arwah nenek moyang .
+sentence 3: setelah pengaruh hindu-buddha masuk maka pertunjukan wayang mengalami perkembangan .
+sentence 4: pertunjukan wayang kemudian banyak menyadur dari pengaruh hindu-buddha dengan mengambil cerita dari mahabarata dan ramayana .
+sentence 5: ketika pengaruh islam masuk , pertunjukan wayang makin berkembang dan bersumberkan pada ajaran agama islam .
+passage 14 score = 6.666666666666667
+sentence 1: 3 .
+sentence 2: upacara labuhan tradisi upacara labuhan dilaksanakan setiap tahun sekali oleh kerabat keraton yogyakarta yang biasanya dilaksanakan pada hari penobatan dan pada waktu ulang tahun penobatan raja ( tingalan dalem ) .
+sentence 3: upacara labuhan diselenggarakan di empat tempat yakni di parangkusumo , gunung lawu , gunung merapi , dan dlepih .
+sentence 4: hal ini dilatar belakangi bahwa tempat-tempat tersebut pada zaman dahulu digunakan oleh raja-raja mataram untuk bertapa dan berhubungan dengan roh halus .
+sentence 5: upacara ini merupakan tradisi turun temurun sejak mataram di bawah pemerintahan panembahan senopati sampai sekarang .
+passage 1 score = 6.5
+sentence 1: perpaduan tradisi lokal , hindu buddha dan islam di berbagai daerah - sebelum datangnya pengaruh hindu – buddha dan islam masuk ke indonesia , masyarakat indonesia telah mengenal kehidupan religius yang dijadikan pedoman untuk bersikap dan berperilaku dalam kehidupan .
+sentence 2: setelah masuknya pengaruh hindu , buddha dan islam , terjadilah interaksi dan memengaruhi kehidupan masyarakat di indonesia .
+sentence 3: hampir setiap kegiatan selalu dilandasi dengan upacara religius , baik dalam kegiatan mata pencaharian , adat istiadat perkawinan , tata cara penguburan , selamatan-selamatan ( jawa = slametan ) , maupun dalam kehidupan lainnya .
+sentence 4: mereka patuh menjalankan pranata-pranata yang berbau religius dan magis tersebut karena mereka beranggapan bahwa apabila terjadi pelanggaran akan mendapatkan kutukan dari arwah nenek moyang yang dampaknya akan mendatangkan bencana terhadap warga masyarakatnya .
+sentence 5: tradisi kehidupan religius ini semula bentuknya masih sangat sederhana ( sebelum pengaruh hindu – buddha merupakan tradisi lokal ) sehingga ketika pengaruh hindu – buddha masuk ke indonesia , tradisi lokal ini tidak musnah melainkan justru makin berkembang .
+passage 2 score = 6.5
+sentence 1: tradisi kehidupan religius ini semula bentuknya masih sangat sederhana ( sebelum pengaruh hindu – buddha merupakan tradisi lokal ) sehingga ketika pengaruh hindu – buddha masuk ke indonesia , tradisi lokal ini tidak musnah melainkan justru makin berkembang .
+sentence 2: hal ini dikerenakan pengaruh hindu – buddha juga menyesuaikan dengan kehidupan masyarakat setempat , hanya saja cara-cara dan upacara religusnya bersumberkan pada ajaran hindu – buddha .
+sentence 3: demikian juga ketika pengaruh islam masuk juga ikut mewarnai kehidupan tradisi-tradisi yang ada di indonesia .
+sentence 4: segala aktivitas kehidupan masyarakat yang menganut agama islam , bersumber pada ajaran agama islam .
+sentence 5: dengan demikian dari masa purba sampai dengan masuknya pengaruh islam , kehidupan tradisi-tradisi tersebut masih tetap berlangsung dan mendapat tempat sendiri-sendiri di kalangan masyarakat sesuai dengan kondisi daerah dan tingkat kepercayaan masyarakat yang bersangkutan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
-title : perbandingan konsep kekuasaan di kerajaan hindu buddha dan islam
-passage 6 score = 5.666666666666667
-sentence 1: selanjutnya untuk menjaga kelestarian suatu kekuasaan maka muncul prinsip geneology kinship ( keturuan ) .
-sentence 2: artinya yang berhak menjadi raja adalah keturunannya .
-sentence 3: di samping itu , menurut konsep jawa orang yang menjadi raja ialah orang yang mendapatkan " wahyu " .
-sentence 4: hal ini menunjukkan bahwa kekuasaan raja itu datangnya dari " atas " ( dewa = tuhan ) .
-sentence 5: dengan berlandaskan ajaran hindu buddha maka muncullah " kultus dewa raja " , dalam pengertian kekuasaan raja seperti dewa .
-passage 8 score = 5.666666666666667
-sentence 1: di balik kekuasaannya yang besar raja juga harus mengimbangi dengan kewajibannya yang besar pula , yakni mampu melindungi rakyatnya sehingga tercipta kedamaian dan ketentraman .
-sentence 2: oleh karena itu , kemudian muncul suatu konsep tentang idealnya seorang raja , yakni harus memiliki sifat " astabrata " atau delapan kebajikan sebagai seorang pemimpin seperti yang dimiliki oleh delapan dewa dalam kepercayaan hindu , seperti berikt ini : a. memiliki jiwa dermawan , sifat dewa indra ; b. memiliki kemampuan untuk menekan semua kejahatan , sifat dewa yama ; c. memiliki kebijaksanaan , sifat dewa surya ; d. memiliki sifat kasih sayang , welas asih terhadap rakyat , sifat dewa candra ; e. memiliki pandangan yang luas dan tajam , sifat dewa bayu ; f. mampu menciptakan keamanan , ketenteraman dan kesejerahteraan , sifat dewa kuwera ; g. mampu menghadapi berbagai macam kesulitan , sifat dewa baruna ; h. memiliki keberanian yang menyala-nyala dan tekad yang bulat , sifat dewa brahma .
-sentence 3: 2 .
-sentence 4: konsep kekuasaan di kerajaan-kerajaan islam jika masa hindu – buddha , konsep kekuasaan diwarnai oleh nilai-nilai religius hindu – buddha sehingga muncul kultus dewa raja maka pada masa kerajaan-kerajaan islam , konsep kekuasaan juga diwarnai nilai-nilai religus , yakni islamisme .
-sentence 5: raja pada masa kerajaan-kerajaan islam menggunakan gelar sultan atau susuhunan .
-passage 10 score = 5.666666666666667
-sentence 1: raja pada masa islam juga memiliki kekuasaan yang besar sepertipada masa kerajaan-kerajaan hindu – buddha .
-sentence 2: bahkan , untuk raja-raja jawa umumnya dan mataram islam khususnya , muncul konsep keagung-binatharaan .
-sentence 3: dalam dunia pewayangan kekuasaan yang besar itu bisa digambarkan sebagai gung binathara bau dhendha nyakrawati ( sebesar kekuasaan dewa , pemelihara hukum dan penguasa dunia ) .
-sentence 4: raja tidak hanya berkuasa di bidang politik , tetapi juga di bidang agama sehingga muncul gelar sayidin panatagama .
-sentence 5: raja yang dikatakan baik adalah raja yng menjalankan kekuasaannya dalam keseimbangan antara kewenangannya yang besar dan kewajibannya yang besar juga .
-passage 4 score = 5.5
-sentence 1: konsep kekuasaan di kerajaan-kerajaan bercorak hindu atau buddha sejak zaman prasejarah , yakni sebelum masuknya pengaruh hindu buddha , sebenarnya telah terdapat semacam pola atau sistem tertentu dalam hubungan antara " pemimpin " dan " rakyat " .
-sentence 2: pada zaman megalitikum telah terdapat struktur pemerintahan yang sederhana .
-sentence 3: seorang pemimpin masyarakat yang kurang lebih setingkat dengan desa dipilih berdasarkan asas primus interpares , artinya pemimpin dipilih dari orang yang memiliki kelebihan dan keunggulan dari yang lain ( disegani dan sakti ) sehingga mampu melindungi dan mengayomi masyarakatnya .
-sentence 4: dengan adanya pengaruh hindu buddha dari india menyebabkan terjadinya perubahan-perubahan terhadap kebudayaan indonesia asli .
-sentence 5: pengaruh hindu buddha bukan saja mengantarkan bangsa indonesia memasuki zaman sejarah , tetapi juga membawa perubahan dalam susunan masyarakatnya , yakni timbulnya kedudukan raja dan bentuk pemerintahan kerajaan .
-passage 5 score = 5.5
-sentence 1: pengaruh hindu buddha bukan saja mengantarkan bangsa indonesia memasuki zaman sejarah , tetapi juga membawa perubahan dalam susunan masyarakatnya , yakni timbulnya kedudukan raja dan bentuk pemerintahan kerajaan .
-sentence 2: dengan demikian , pola kepemimpinan yang ada kemudian meningkat menjadi sistem kerajaan .
-sentence 3: itulah sebabnya kemudian muncul sebutan raja .
-sentence 4: untuk memperkuat kedudukan raja maka ada kebiasaan untuk mengundang brahmana untuk pentasbihan ( abhiseka = penobatan ) , dan sekaligus menjadikannya sebagai penasihat spiritual raja .
-sentence 5: selanjutnya untuk menjaga kelestarian suatu kekuasaan maka muncul prinsip geneology kinship ( keturuan ) .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok73.txt
+title : perpaduan tradisi lokal, hindu buddha dan islam di berbagai daerah
+passage 3 score = 6.833333333333333
+sentence 1: dengan demikian dari masa purba sampai dengan masuknya pengaruh islam , kehidupan tradisi-tradisi tersebut masih tetap berlangsung dan mendapat tempat sendiri-sendiri di kalangan masyarakat sesuai dengan kondisi daerah dan tingkat kepercayaan masyarakat yang bersangkutan .
+sentence 2: bentuk-bentuk perpaduan antara tradisi lokal , hindu – buddha , dan islam di dalam kehidupan masyarakat , antara lain sebagai berikut .
+sentence 3: 1 .
+sentence 4: pertunjukan wayang salah satu bentuk tradisi warisan nenek moyang kita ialah pertunjukan wayang yang mampu bertahan berabad-abad lamanya dan mengalami perubahan serta perkembangan sampai dengan bentuknya yang sekarang .
+sentence 5: fungsi pertunjukan wayang sepanjang perjalanan sejarahnya tidaklah tetap dan bergantung pada kebutuhan tuntutan .
+passage 4 score = 6.833333333333333
+sentence 1: fungsi pertunjukan wayang sepanjang perjalanan sejarahnya tidaklah tetap dan bergantung pada kebutuhan tuntutan .
+sentence 2: pertunjukan wayang pada mulanya merupakan upacara pemujaan arwah nenek moyang .
+sentence 3: setelah pengaruh hindu-buddha masuk maka pertunjukan wayang mengalami perkembangan .
+sentence 4: pertunjukan wayang kemudian banyak menyadur dari pengaruh hindu-buddha dengan mengambil cerita dari mahabarata dan ramayana .
+sentence 5: ketika pengaruh islam masuk , pertunjukan wayang makin berkembang dan bersumberkan pada ajaran agama islam .
+passage 14 score = 6.666666666666667
+sentence 1: 3 .
+sentence 2: upacara labuhan tradisi upacara labuhan dilaksanakan setiap tahun sekali oleh kerabat keraton yogyakarta yang biasanya dilaksanakan pada hari penobatan dan pada waktu ulang tahun penobatan raja ( tingalan dalem ) .
+sentence 3: upacara labuhan diselenggarakan di empat tempat yakni di parangkusumo , gunung lawu , gunung merapi , dan dlepih .
+sentence 4: hal ini dilatar belakangi bahwa tempat-tempat tersebut pada zaman dahulu digunakan oleh raja-raja mataram untuk bertapa dan berhubungan dengan roh halus .
+sentence 5: upacara ini merupakan tradisi turun temurun sejak mataram di bawah pemerintahan panembahan senopati sampai sekarang .
+passage 1 score = 6.5
+sentence 1: perpaduan tradisi lokal , hindu buddha dan islam di berbagai daerah - sebelum datangnya pengaruh hindu – buddha dan islam masuk ke indonesia , masyarakat indonesia telah mengenal kehidupan religius yang dijadikan pedoman untuk bersikap dan berperilaku dalam kehidupan .
+sentence 2: setelah masuknya pengaruh hindu , buddha dan islam , terjadilah interaksi dan memengaruhi kehidupan masyarakat di indonesia .
+sentence 3: hampir setiap kegiatan selalu dilandasi dengan upacara religius , baik dalam kegiatan mata pencaharian , adat istiadat perkawinan , tata cara penguburan , selamatan-selamatan ( jawa = slametan ) , maupun dalam kehidupan lainnya .
+sentence 4: mereka patuh menjalankan pranata-pranata yang berbau religius dan magis tersebut karena mereka beranggapan bahwa apabila terjadi pelanggaran akan mendapatkan kutukan dari arwah nenek moyang yang dampaknya akan mendatangkan bencana terhadap warga masyarakatnya .
+sentence 5: tradisi kehidupan religius ini semula bentuknya masih sangat sederhana ( sebelum pengaruh hindu – buddha merupakan tradisi lokal ) sehingga ketika pengaruh hindu – buddha masuk ke indonesia , tradisi lokal ini tidak musnah melainkan justru makin berkembang .
+passage 2 score = 6.5
+sentence 1: tradisi kehidupan religius ini semula bentuknya masih sangat sederhana ( sebelum pengaruh hindu – buddha merupakan tradisi lokal ) sehingga ketika pengaruh hindu – buddha masuk ke indonesia , tradisi lokal ini tidak musnah melainkan justru makin berkembang .
+sentence 2: hal ini dikerenakan pengaruh hindu – buddha juga menyesuaikan dengan kehidupan masyarakat setempat , hanya saja cara-cara dan upacara religusnya bersumberkan pada ajaran hindu – buddha .
+sentence 3: demikian juga ketika pengaruh islam masuk juga ikut mewarnai kehidupan tradisi-tradisi yang ada di indonesia .
+sentence 4: segala aktivitas kehidupan masyarakat yang menganut agama islam , bersumber pada ajaran agama islam .
+sentence 5: dengan demikian dari masa purba sampai dengan masuknya pengaruh islam , kehidupan tradisi-tradisi tersebut masih tetap berlangsung dan mendapat tempat sendiri-sendiri di kalangan masyarakat sesuai dengan kondisi daerah dan tingkat kepercayaan masyarakat yang bersangkutan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
-passage 64 score = 5.833333333333333
-sentence 1: sukarno ) meminta kepada cudanco latief hendraningrat untuk menugaskan anak buahnya berjaga-jaga di sekitar rumah ir .
-sentence 2: sukarno .
-sentence 3: sedangkan wakil walikota suwirjo memerintahkan kepada mr. wilopo untuk mempersiapkan pengeras suara .
-sentence 4: untuk itu mr. wilopo dan nyonopranowo pergi ke rumah gunawan pemilik toko radio satria di jl .
-sentence 5: salemba tengah 24 , untuk meminjam mikrofon dan pengeras suara .
-passage 24 score = 5.666666666666667
-sentence 1: untuk itulah pada tanggal 3 juni 1945 diadakan suatu pertemuan rahasia di jakarta untuk membentuk suatu panitia khusus yang diketuai oleh b.m. diah , dengan anggotanya sukarni , sudiro , sjarif thajeb , harsono tjokroaminoto , wikana , chairul saleh , p. gultom , supeno dan asmara hadi .
-sentence 2: pertemuan semacam itu diadakan lagi pada tanggal 15 juni 1945 , yang menghasilkan pembentukan gerakan angkatan baroe indonesia .
-sentence 3: dalam prakteknya kegiatan organisasi itu banyak dikendalikan oleh para pemuda dari asrama menteng 31 .
-sentence 4: tujuan dari gerakan itu , seperti yang tercantum di dalam surat kabar asia raja pada pertengahan bulan juni 1945 , menunjukkan sifat gerakan yang lebih radikal sebagai berikut : 1 .
-sentence 5: mencapai persatuan kompak di antara seluruh golongan masyarakat indonesia ; 2 .
-passage 26 score = 5.666666666666667
-sentence 1: gerakan rakyat baroe gerakan rakyat baroe dibentuk berdasarkan hasil sidang ke-8 cuo sangi in yang mengusulkan berdirinya suatu gerakan untuk mengobar-ngobarkan semangat cinta kepada tanah air dan semangat perang .
-sentence 2: pembentukan badan ini diperkenankan oleh saiko shikikan yang baru , letnan jenderal y. nagano pada tanggal 2 juli 1945 .
-sentence 3: susunan pengurus pusat organisasi ini terdiri dari 80 orang .
-sentence 4: anggotanya terdiri atas penduduk asli indonesia dan bangsa jepang , golongan cina , golongan arab dan golongan peranakan eropa .
-sentence 5: tokoh-tokoh pemuda radikal seperti chairul saleh , sukarni , b.m. diah , asmara hadi , harsono tjokroaminoto , wikana , sudiro , supeno , adam malik , s.k. trimurti , sutomo dan pandu kartawiguna diikutsertakan dalam organisasi tersebut .
-passage 27 score = 5.666666666666667
-sentence 1: tokoh-tokoh pemuda radikal seperti chairul saleh , sukarni , b.m. diah , asmara hadi , harsono tjokroaminoto , wikana , sudiro , supeno , adam malik , s.k. trimurti , sutomo dan pandu kartawiguna diikutsertakan dalam organisasi tersebut .
-sentence 2: tujuan pemerintah jepang mengangkat wakil-wakil golongan muda di dalam organisasi itu adalah agar pemerintah jepang dapat mengawasi kegiatan-kegiatan mereka .
-sentence 3: sumobuco mayor jenderal nishimura menegaskan bahwa setiap pemuda yang tergabung di dalamnya harus tunduk sepenuhnya kepada gunseikanbu ( pemerintah militer jepang ) dan mereka harus bekerja dibawah pengawasan pejabat-pejabat pemerintah .
-sentence 4: dengan demikian berarti kebebasan bergerak para pemuda dibatasi , sehingga timbullah rasa tidak puas .
-sentence 5: oleh karena itulah , tatkala gerakan rakyat baroe ini diresmikan pada tanggal 28 juli 1945 , tidak seorang pun pemuda radikal yang bersedia memduduki kursi yang telah disediakan .
-passage 30 score = 5.666666666666667
-sentence 1: sedangkan mr. ahmad subardjo ditunjuk sebagai penasehatnya .
-sentence 2: kepada para anggota ppki , gunseikan mayor jenderal yamamoto menegaskan bahwa para anggota ppki tidak hanya dipilih oleh pejabat di lingkungan tentara keenambelas , akan tetapi oleh jenderal besar terauci sendiri yang menjadi penguasa perang tertinggi di seluruh asia tenggara .
-sentence 3: dalam rangka pengangkatan itulah , jenderal besar terauci memanggil tiga tokoh pergerakan nasional , yaitu ir .
-sentence 4: sukarno , drs. moh .
-sentence 5: hatta dan dr. radjiman wediodiningrat .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+title : tokoh penyebar islam di indonesia
+passage 2 score = 7.0
+sentence 1: dengan memakai gelar sayyid syarif yang menjalankan dakwah dengan motif keagamaan .
+sentence 2: di pulau jawa , proses islamisasi memiliki satu kekhasan .
+sentence 3: islamisasi di jawa dilakukan oleh sekelompok mubalig islam yang dikenal dengan sebutan walisongo .
+sentence 4: wali arti harfiahnya adalah orang yang dekat dengan allah , sedangkan songo menunjukkan jumlah yaitu sembilan .
+sentence 5: jadi walisongo artinya sembilan orang wali .
+passage 3 score = 7.0
+sentence 1: jadi walisongo artinya sembilan orang wali .
+sentence 2: ada pula yang mengartikan songo itu bukan angka sembilan dalam pengertian jumlah , tetapi menunjukkan bahwa sembilan itu ( songo ) menunjukkan angka yang sakral atau suci .
+sentence 3: jadi walisongo bisa diartikan pula dengan orang-orang ( wali ) yang disucikan , karena jumlah wali itu lebih dari sembilan .
+sentence 4: walisongo sangat dihormati serta dimuliakan oleh orang-orang , terutama di pulau jawa , bahkan para walisongo itu diberi gelar sunan atau susuhunan artinya yang dijunjung tinggi atau gelar yang tinggi dan mulia .
+sentence 5: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
+passage 4 score = 7.0
+sentence 1: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
+sentence 2: mereka menggunakan metode-metode yang memudahkan ajaran islam diterima oleh masyarakat luas dari berbagai golongan .
+sentence 3: mereka menggunakan pendekatan kebudayaan untuk memperkenalkan islam kepada masyarakat .
+sentence 4: para wali itu , antara lain sebagai berikut .
+sentence 5: a. maulana malik ibrahim maulana malik ibrahim atau makdum ibrahim , sering pula disebut maulana maghribi , dan ada juga orang menyebutnya dengan sebutan kakek bantal .
+passage 24 score = 7.0
+sentence 1: sejak kecil , dalam diri raden jaka said sudah tampak jiwa luhur yang ditandai dengan selalu taat kepada agama dan berbakti kepada orang tua , serta mempunyai sikap welas asih kepada semua orang .
+sentence 2: ia menjadi murid sunan bonang , kemudian menikah dengan putri maulana ishak .
+sentence 3: berbeda dengan para wali lain , sunan kalijaga menjadi mubalig keliling dan tidak mempunyai pusat dakwah yang tetap .
+sentence 4: dalam melaksanakan dakwahnya , sunan kalijaga menggunakan kesenian wayang kulit yang sangat digemari masyarakat sejak aman hindu .
+sentence 5: kisah mahabharata yang melandasi cerita wayang disesuaikan agar tidak bertentangan dengan ajaran islam .
+passage 34 score = 6.833333333333333
+sentence 1: pada tahun 1570 m , sunan gunung jati wafat dan dimakamkan di gunung jati , cirebon .
+sentence 2: setelah walisongo , proses penyebaran agama islam diteruskan oleh para ulama yang peranannya sama dengan para wali .
+sentence 3: para ulama itu tersebar di berbagai pelosok tanah air , antara lain sebagai berikut .
+sentence 4: 1 ) tokoh ulama dari jawa a ) syekh bentong dengan daerah dakwah di gunung lawu b ) sunan bayat yang banyak menyebarkan islam di daerah klaten dan sekitarnya c ) syekh majagung , sunan prapen , dan sunan sendang yang berperan dalam pendidikan pondok pesantren di daerah jawa 2 ) tokoh ulama dari luar jawa a ) datuk ri bandang yang menyebarkan agama islam di daerah makassar b ) datuk sulaeman yang menyebarkan agama islam di daerah sulawesi c ) tuan tunggang parangang dan penghulu demak yang menyebarkan islam di kalimantan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-title : sejarah kerajaan sriwijaya (kehidupan politik, ekonomi, sosial dan budaya)
-passage 7 score = 5.5
-sentence 1: pada tangga 5 asada ( 16 juni ) mereka tiba di muka upang ( sebelah timur palembang ) .
-sentence 2: sesampai di ibu kota , dapunta hyang memerintahkan pembuatan bangunan suci sebagai tanda rasa syukur .
-sentence 3: prasasti ligor a ( 775 ) ditemukan di muangthai selatan “ pujian terhadap raja sriwijaya yang di ibaratkan bagai mnu yang memberi berkah bagi dunia menyerupai indra dan semua raja tetangga taat kepadanya ditulis pula pendirian sebuah bangunan batu trisamayacahtya untuk padma , pani , sakyamuni , dan wajrpani ” .
-sentence 4: prasasti ligor b , pujian bagi raja yang berhasil menaklukkan musuh-musuhnya dan merupakan wujud kembar dewa kasta yang dengan kekuatannya disebut ( sebagai dewa ) wisnu , kedua mematahkan keangkuhan semua musuhnya ( sarwarimadawimthana ) .
-sentence 5: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok86.txt
+title : tokoh penyebar islam di indonesia
+passage 2 score = 7.0
+sentence 1: dengan memakai gelar sayyid syarif yang menjalankan dakwah dengan motif keagamaan .
+sentence 2: di pulau jawa , proses islamisasi memiliki satu kekhasan .
+sentence 3: islamisasi di jawa dilakukan oleh sekelompok mubalig islam yang dikenal dengan sebutan walisongo .
+sentence 4: wali arti harfiahnya adalah orang yang dekat dengan allah , sedangkan songo menunjukkan jumlah yaitu sembilan .
+sentence 5: jadi walisongo artinya sembilan orang wali .
+passage 3 score = 7.0
+sentence 1: jadi walisongo artinya sembilan orang wali .
+sentence 2: ada pula yang mengartikan songo itu bukan angka sembilan dalam pengertian jumlah , tetapi menunjukkan bahwa sembilan itu ( songo ) menunjukkan angka yang sakral atau suci .
+sentence 3: jadi walisongo bisa diartikan pula dengan orang-orang ( wali ) yang disucikan , karena jumlah wali itu lebih dari sembilan .
+sentence 4: walisongo sangat dihormati serta dimuliakan oleh orang-orang , terutama di pulau jawa , bahkan para walisongo itu diberi gelar sunan atau susuhunan artinya yang dijunjung tinggi atau gelar yang tinggi dan mulia .
+sentence 5: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
+passage 4 score = 7.0
+sentence 1: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
+sentence 2: mereka menggunakan metode-metode yang memudahkan ajaran islam diterima oleh masyarakat luas dari berbagai golongan .
+sentence 3: mereka menggunakan pendekatan kebudayaan untuk memperkenalkan islam kepada masyarakat .
+sentence 4: para wali itu , antara lain sebagai berikut .
+sentence 5: a. maulana malik ibrahim maulana malik ibrahim atau makdum ibrahim , sering pula disebut maulana maghribi , dan ada juga orang menyebutnya dengan sebutan kakek bantal .
+passage 24 score = 7.0
+sentence 1: sejak kecil , dalam diri raden jaka said sudah tampak jiwa luhur yang ditandai dengan selalu taat kepada agama dan berbakti kepada orang tua , serta mempunyai sikap welas asih kepada semua orang .
+sentence 2: ia menjadi murid sunan bonang , kemudian menikah dengan putri maulana ishak .
+sentence 3: berbeda dengan para wali lain , sunan kalijaga menjadi mubalig keliling dan tidak mempunyai pusat dakwah yang tetap .
+sentence 4: dalam melaksanakan dakwahnya , sunan kalijaga menggunakan kesenian wayang kulit yang sangat digemari masyarakat sejak aman hindu .
+sentence 5: kisah mahabharata yang melandasi cerita wayang disesuaikan agar tidak bertentangan dengan ajaran islam .
+passage 34 score = 6.833333333333333
+sentence 1: pada tahun 1570 m , sunan gunung jati wafat dan dimakamkan di gunung jati , cirebon .
+sentence 2: setelah walisongo , proses penyebaran agama islam diteruskan oleh para ulama yang peranannya sama dengan para wali .
+sentence 3: para ulama itu tersebar di berbagai pelosok tanah air , antara lain sebagai berikut .
+sentence 4: 1 ) tokoh ulama dari jawa a ) syekh bentong dengan daerah dakwah di gunung lawu b ) sunan bayat yang banyak menyebarkan islam di daerah klaten dan sekitarnya c ) syekh majagung , sunan prapen , dan sunan sendang yang berperan dalam pendidikan pondok pesantren di daerah jawa 2 ) tokoh ulama dari luar jawa a ) datuk ri bandang yang menyebarkan agama islam di daerah makassar b ) datuk sulaeman yang menyebarkan agama islam di daerah sulawesi c ) tuan tunggang parangang dan penghulu demak yang menyebarkan islam di kalimantan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok304.txt
+title : proses awal penyebaran islam di kepulauan indonesia
+passage 15 score = 6.333333333333333
+sentence 1: melalui seni budaya dalam menyebarkan agama islam , sebagian wali menggunakan media seni budaya yang sudah ada dan disenangi masyarakat .
+sentence 2: pada perayaan hari keagamaan seperti maulid nabi , misalnya , seni tari dan peralatan musik tradisional ( gamelan ) dipakai untuk meramaikan suasana .
+sentence 3: sunan kalijaga yang sangat mahir memainkan wayang memanfaatkan kesenian ini sebagai sarana untuk menyampaikan agama islam kepada masyarakat , yaitu memasukkan unsur-unsur islam dalam cerita dan pertunjukannya .
+sentence 4: senjata puntadewa yang bernama jimat kalimasada , misalnya , dihubungkan dengan dua kalimat syahadat yang berisi pengakuan terhadap allah dan nabi muhammad .
+sentence 5: masyarakat yang menyaksikan pertunjukan sunan kalijaga akhirnya mengenal agama islam dan tertarik ingin menjadikan islam sebagai agamanya .
+passage 14 score = 6.0
+sentence 1: melalui pendidikan pendidikan dalam islam dilakukan dalam pondok-pondok pesantren yang diselenggarakan oleh guru-guru agama , kiai-kiai , atau ulama-ulama .
+sentence 2: pesantren ini merupakan lembaga yang penting dalam penyebaran agama islam karena merupakan tempat pembinaan calon guru-guru agama , kiai-kiai , atau ulama-ulama .
+sentence 3: setelah menamatkan pelajarannya di pesantren , murid-murid ( para santri ) akan kembali ke kampung halamannya .
+sentence 4: 5 .
+sentence 5: melalui seni budaya dalam menyebarkan agama islam , sebagian wali menggunakan media seni budaya yang sudah ada dan disenangi masyarakat .
 passage 8 score = 5.5
-sentence 1: ia adalah keturunan dari ( keluarga syailendra ) yang tersohor disebut srimaharaja . ”
-sentence 2: prasasti ligor yang ditemukan di semenanjung tanah melayu menceritakan tentang raja sriwijaya dan pembangunan trisamayacaithya untuk menyembah dewa-dewa agama buddha , serta menyebutkan seorang raja bernama wisnu dengan gelar sarwarimadawimathana atau pembunuh musuh-musuh yang sombong tiada bersisa .
-sentence 3: begitu pula prasasti nalanda yang dikeluarkan oleh raja dewa paladewa .
-sentence 4: isinya menyebutkan tentang pendirian bangunan biara di nalanda oleh raja balaputradewa , raja sriwijaya yang menganut agama buddha .
-sentence 5: daerah kekuasaan sriwijaya meliputi seluruh sumatra , sebagian jawa , semenanjung malaya , dan muangthai selatan .
+sentence 1: 1 .
+sentence 2: melalui perdagangan pedagang-pedagang muslim yang berasal dari arab , persia , dan india telah ikut ambil bagian dalam jalan lalu lintas perdagangan yang menghubungkan asia barat , asia timur , dan asia tenggara , pada abad ke-7 sampai abad ke-16 .
+sentence 3: para pedagang muslim yang akhirnya juga singgah di indonesia ini , ternyata tidak hanya semata-mata melakukan kegiatan dagang .
+sentence 4: melalui hubungan perdagangan tersebut , agama dan kebudayaan islam masuk ke wilayah indonesia .
+sentence 5: pada abad kesembilan , orang-orang islam mulai bergerak mendirikan perkampungan islam di kedah ( malaka ) , aceh , dan palembang .
+passage 10 score = 5.5
+sentence 1: kemudian pada awal abad ke-15 telah berdiri kerajaan malaka .
+sentence 2: sejak saat itu , aceh dan malaka berkembang menjadi pusat perdagangan dan pelayaran yang ramai dan banyak dikunjungi oleh para pedagang islam dan penduduk dari berbagai daerah terjadi interaksi yang akhirnya banyak yang masuk islam .
+sentence 3: setelah pulang ke daerah asal , mereka menyebarkan agama islam ke daerahnya .
+sentence 4: agama dan kebudayaan islam dari malaka menyebar ke wilayah sumatra selatan , jawa , kalimantan , sulawesi , dan maluku .
+sentence 5: dalam suasana demikian , banyak raja daerah dan adipati pesisir yang masuk islam .
 passage 11 score = 5.5
-sentence 1: adapun yang lebih menarik tentang isi prasasti ini , ialah bagian terakhir yang berbunyi : “ tahun saka 608 hari pertama bulan terang bulan waisaka , itulah waktunya sumpah ini dipahat , pada waktu itu tentara sriwijaya berangkat tanah jawa karena tidak mau tunduk kepada sriwijaya . ”
-sentence 2: dari prasasti tersebut dapat ditarik kesimpulan bahwa sriwijaya pernah ada upaya untuk menaklukkan jawa .
-sentence 3: para ahli menerangkan bahwa kerajaan di jawa yang ditaklukkan adalah tarumanegara .
-sentence 4: hubungan dengan india tidak bertahan lama , sebab pada awal abad ke-11 raja rajendracola dari kerajaan colamandala melakukan penyerbuan besar-besaran ke wilayah sriwijaya , antara lain kedah , aceh , nikobar , binanga , melayu , dan palembang .
-sentence 5: berita penyerangan tersebut ada dalam prasasti tanjore di india selatan .
-passage 13 score = 5.5
-sentence 1: menurunnya kekuatan itu dapat terlihat dari ketidakmampuannya mengawasi dan memberi perlindungan bagi pelayaran dan perdagangan yang ada di perairan indonesia .
-sentence 2: keadaan itu dimanfaatkan juga oleh kerajaan-kerajaan vasal ( bawahan ) untuk melepaskan diri dari kekuasaan sriwijaya , seperti yang dilakukan oleh kerajaan malayu ( jambi ) .
-sentence 3: prasasti tanjore ( 1030 ) yang dikeluarkan oleh rjendra berisi tentara colal melakukan serangan dua kali ke beberapa negeri diantaranya ke sriwijaya , pertama tahun 1015 dan kedua 1025 .
-sentence 4: pada serangan kedua berhasil menawan rajanya yang bernama sri sangramwijaya tunggawarman , setelah meminta maaf , dia ditakhtakan kembali .
-sentence 5: sementara itu , prasasti wirarajendra , yang dikeluarkan oleh raja cola ( 1068 ) , berisikan bahwa pasukan cola menyerang kembali sriwijaya tahun 1067 .
-passage 1 score = 5.0
-sentence 1: kerajaan sriwijaya merupakan sebuah kerajaan besar yang terletak di sumatera selatan .
-sentence 2: menurut para ahli , pusat kerajaan sriwijaya ada di palembang dan diperkirakan telah berdiri pada abad ke-7 m. sumber sejarah kerajaan sriwijaya berupa prasasti dan berita cina .
-sentence 3: sumber yang berupa prasasti terdiri atas dua , yaitu prasasti yang berasal dari dalam negeri dan prasasti yang berasal dari luar negeri .
-sentence 4: prasasti yang berasal dari dalam negeri antara lain : prasasti kedukan bukit ( 683 m ) , talang tuwo ( 684 m ) , telaga batu ( 683 ) , kota kapur ( 686 ) , karang berahi ( 686 ) , palas pasemah dan amoghapasa ( 1286 ) .
-sentence 5: sementara itu , prasasti yang berasal dari luar negeri antara lain ; ligor ( 775 ) , nalanda , piagam laiden , tanjore ( 1030 m ) , canton ( 1075 m ) , grahi ( 1183 m ) dan chaiya ( 1230 ) .
+sentence 1: dalam suasana demikian , banyak raja daerah dan adipati pesisir yang masuk islam .
+sentence 2: contohnya , demak ( abad ke-15 ) , ternate ( abad ke-15 ) , gowa ( abad ke-16 ) , dan banjar ( abad ke-16 ) .
+sentence 3: 2 .
+sentence 4: melalui perkawinan para pedagang muslim yang datang di indonesia , ada sebagian di antara mereka yang kemudian menetap di kota-kota pelabuhan dan membentuk perkampungan yang disebut pekojan .
+sentence 5: perkawinan antara putri bangsawan dan pedagang muslim akhirnya berlangsung .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok1.txt
+title : perbandingan konsep kekuasaan di kerajaan hindu buddha dan islam
+passage 6 score = 5.666666666666667
+sentence 1: selanjutnya untuk menjaga kelestarian suatu kekuasaan maka muncul prinsip geneology kinship ( keturuan ) .
+sentence 2: artinya yang berhak menjadi raja adalah keturunannya .
+sentence 3: di samping itu , menurut konsep jawa orang yang menjadi raja ialah orang yang mendapatkan " wahyu " .
+sentence 4: hal ini menunjukkan bahwa kekuasaan raja itu datangnya dari " atas " ( dewa = tuhan ) .
+sentence 5: dengan berlandaskan ajaran hindu buddha maka muncullah " kultus dewa raja " , dalam pengertian kekuasaan raja seperti dewa .
+passage 8 score = 5.666666666666667
+sentence 1: di balik kekuasaannya yang besar raja juga harus mengimbangi dengan kewajibannya yang besar pula , yakni mampu melindungi rakyatnya sehingga tercipta kedamaian dan ketentraman .
+sentence 2: oleh karena itu , kemudian muncul suatu konsep tentang idealnya seorang raja , yakni harus memiliki sifat " astabrata " atau delapan kebajikan sebagai seorang pemimpin seperti yang dimiliki oleh delapan dewa dalam kepercayaan hindu , seperti berikt ini : a. memiliki jiwa dermawan , sifat dewa indra ; b. memiliki kemampuan untuk menekan semua kejahatan , sifat dewa yama ; c. memiliki kebijaksanaan , sifat dewa surya ; d. memiliki sifat kasih sayang , welas asih terhadap rakyat , sifat dewa candra ; e. memiliki pandangan yang luas dan tajam , sifat dewa bayu ; f. mampu menciptakan keamanan , ketenteraman dan kesejerahteraan , sifat dewa kuwera ; g. mampu menghadapi berbagai macam kesulitan , sifat dewa baruna ; h. memiliki keberanian yang menyala-nyala dan tekad yang bulat , sifat dewa brahma .
+sentence 3: 2 .
+sentence 4: konsep kekuasaan di kerajaan-kerajaan islam jika masa hindu – buddha , konsep kekuasaan diwarnai oleh nilai-nilai religius hindu – buddha sehingga muncul kultus dewa raja maka pada masa kerajaan-kerajaan islam , konsep kekuasaan juga diwarnai nilai-nilai religus , yakni islamisme .
+sentence 5: raja pada masa kerajaan-kerajaan islam menggunakan gelar sultan atau susuhunan .
+passage 10 score = 5.666666666666667
+sentence 1: raja pada masa islam juga memiliki kekuasaan yang besar sepertipada masa kerajaan-kerajaan hindu – buddha .
+sentence 2: bahkan , untuk raja-raja jawa umumnya dan mataram islam khususnya , muncul konsep keagung-binatharaan .
+sentence 3: dalam dunia pewayangan kekuasaan yang besar itu bisa digambarkan sebagai gung binathara bau dhendha nyakrawati ( sebesar kekuasaan dewa , pemelihara hukum dan penguasa dunia ) .
+sentence 4: raja tidak hanya berkuasa di bidang politik , tetapi juga di bidang agama sehingga muncul gelar sayidin panatagama .
+sentence 5: raja yang dikatakan baik adalah raja yng menjalankan kekuasaannya dalam keseimbangan antara kewenangannya yang besar dan kewajibannya yang besar juga .
+passage 4 score = 5.5
+sentence 1: konsep kekuasaan di kerajaan-kerajaan bercorak hindu atau buddha sejak zaman prasejarah , yakni sebelum masuknya pengaruh hindu buddha , sebenarnya telah terdapat semacam pola atau sistem tertentu dalam hubungan antara " pemimpin " dan " rakyat " .
+sentence 2: pada zaman megalitikum telah terdapat struktur pemerintahan yang sederhana .
+sentence 3: seorang pemimpin masyarakat yang kurang lebih setingkat dengan desa dipilih berdasarkan asas primus interpares , artinya pemimpin dipilih dari orang yang memiliki kelebihan dan keunggulan dari yang lain ( disegani dan sakti ) sehingga mampu melindungi dan mengayomi masyarakatnya .
+sentence 4: dengan adanya pengaruh hindu buddha dari india menyebabkan terjadinya perubahan-perubahan terhadap kebudayaan indonesia asli .
+sentence 5: pengaruh hindu buddha bukan saja mengantarkan bangsa indonesia memasuki zaman sejarah , tetapi juga membawa perubahan dalam susunan masyarakatnya , yakni timbulnya kedudukan raja dan bentuk pemerintahan kerajaan .
+passage 5 score = 5.5
+sentence 1: pengaruh hindu buddha bukan saja mengantarkan bangsa indonesia memasuki zaman sejarah , tetapi juga membawa perubahan dalam susunan masyarakatnya , yakni timbulnya kedudukan raja dan bentuk pemerintahan kerajaan .
+sentence 2: dengan demikian , pola kepemimpinan yang ada kemudian meningkat menjadi sistem kerajaan .
+sentence 3: itulah sebabnya kemudian muncul sebutan raja .
+sentence 4: untuk memperkuat kedudukan raja maka ada kebiasaan untuk mengundang brahmana untuk pentasbihan ( abhiseka = penobatan ) , dan sekaligus menjadikannya sebagai penasihat spiritual raja .
+sentence 5: selanjutnya untuk menjaga kelestarian suatu kekuasaan maka muncul prinsip geneology kinship ( keturuan ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok72.txt
+title : perbandingan konsep kekuasaan di kerajaan hindu buddha dan islam
+passage 6 score = 5.666666666666667
+sentence 1: selanjutnya untuk menjaga kelestarian suatu kekuasaan maka muncul prinsip geneology kinship ( keturuan ) .
+sentence 2: artinya yang berhak menjadi raja adalah keturunannya .
+sentence 3: di samping itu , menurut konsep jawa orang yang menjadi raja ialah orang yang mendapatkan " wahyu " .
+sentence 4: hal ini menunjukkan bahwa kekuasaan raja itu datangnya dari " atas " ( dewa = tuhan ) .
+sentence 5: dengan berlandaskan ajaran hindu buddha maka muncullah " kultus dewa raja " , dalam pengertian kekuasaan raja seperti dewa .
+passage 8 score = 5.666666666666667
+sentence 1: di balik kekuasaannya yang besar raja juga harus mengimbangi dengan kewajibannya yang besar pula , yakni mampu melindungi rakyatnya sehingga tercipta kedamaian dan ketentraman .
+sentence 2: oleh karena itu , kemudian muncul suatu konsep tentang idealnya seorang raja , yakni harus memiliki sifat " astabrata " atau delapan kebajikan sebagai seorang pemimpin seperti yang dimiliki oleh delapan dewa dalam kepercayaan hindu , seperti berikt ini : a. memiliki jiwa dermawan , sifat dewa indra ; b. memiliki kemampuan untuk menekan semua kejahatan , sifat dewa yama ; c. memiliki kebijaksanaan , sifat dewa surya ; d. memiliki sifat kasih sayang , welas asih terhadap rakyat , sifat dewa candra ; e. memiliki pandangan yang luas dan tajam , sifat dewa bayu ; f. mampu menciptakan keamanan , ketenteraman dan kesejerahteraan , sifat dewa kuwera ; g. mampu menghadapi berbagai macam kesulitan , sifat dewa baruna ; h. memiliki keberanian yang menyala-nyala dan tekad yang bulat , sifat dewa brahma .
+sentence 3: 2 .
+sentence 4: konsep kekuasaan di kerajaan-kerajaan islam jika masa hindu – buddha , konsep kekuasaan diwarnai oleh nilai-nilai religius hindu – buddha sehingga muncul kultus dewa raja maka pada masa kerajaan-kerajaan islam , konsep kekuasaan juga diwarnai nilai-nilai religus , yakni islamisme .
+sentence 5: raja pada masa kerajaan-kerajaan islam menggunakan gelar sultan atau susuhunan .
+passage 10 score = 5.666666666666667
+sentence 1: raja pada masa islam juga memiliki kekuasaan yang besar sepertipada masa kerajaan-kerajaan hindu – buddha .
+sentence 2: bahkan , untuk raja-raja jawa umumnya dan mataram islam khususnya , muncul konsep keagung-binatharaan .
+sentence 3: dalam dunia pewayangan kekuasaan yang besar itu bisa digambarkan sebagai gung binathara bau dhendha nyakrawati ( sebesar kekuasaan dewa , pemelihara hukum dan penguasa dunia ) .
+sentence 4: raja tidak hanya berkuasa di bidang politik , tetapi juga di bidang agama sehingga muncul gelar sayidin panatagama .
+sentence 5: raja yang dikatakan baik adalah raja yng menjalankan kekuasaannya dalam keseimbangan antara kewenangannya yang besar dan kewajibannya yang besar juga .
+passage 4 score = 5.5
+sentence 1: konsep kekuasaan di kerajaan-kerajaan bercorak hindu atau buddha sejak zaman prasejarah , yakni sebelum masuknya pengaruh hindu buddha , sebenarnya telah terdapat semacam pola atau sistem tertentu dalam hubungan antara " pemimpin " dan " rakyat " .
+sentence 2: pada zaman megalitikum telah terdapat struktur pemerintahan yang sederhana .
+sentence 3: seorang pemimpin masyarakat yang kurang lebih setingkat dengan desa dipilih berdasarkan asas primus interpares , artinya pemimpin dipilih dari orang yang memiliki kelebihan dan keunggulan dari yang lain ( disegani dan sakti ) sehingga mampu melindungi dan mengayomi masyarakatnya .
+sentence 4: dengan adanya pengaruh hindu buddha dari india menyebabkan terjadinya perubahan-perubahan terhadap kebudayaan indonesia asli .
+sentence 5: pengaruh hindu buddha bukan saja mengantarkan bangsa indonesia memasuki zaman sejarah , tetapi juga membawa perubahan dalam susunan masyarakatnya , yakni timbulnya kedudukan raja dan bentuk pemerintahan kerajaan .
+passage 5 score = 5.5
+sentence 1: pengaruh hindu buddha bukan saja mengantarkan bangsa indonesia memasuki zaman sejarah , tetapi juga membawa perubahan dalam susunan masyarakatnya , yakni timbulnya kedudukan raja dan bentuk pemerintahan kerajaan .
+sentence 2: dengan demikian , pola kepemimpinan yang ada kemudian meningkat menjadi sistem kerajaan .
+sentence 3: itulah sebabnya kemudian muncul sebutan raja .
+sentence 4: untuk memperkuat kedudukan raja maka ada kebiasaan untuk mengundang brahmana untuk pentasbihan ( abhiseka = penobatan ) , dan sekaligus menjadikannya sebagai penasihat spiritual raja .
+sentence 5: selanjutnya untuk menjaga kelestarian suatu kekuasaan maka muncul prinsip geneology kinship ( keturuan ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+title : penjelasan peninggalan kebudayaan hindu-buddha di indonesia (kedua)
+passage 7 score = 5.833333333333333
+sentence 1: di sriwijaya i-tsing melihat begitu pesatnya pendidikan agama buddha , sehingga dia memutuskan untuk menetap selama beberapa bulan di sriwijaya dan menerjemahkan salah satu kitab agama buddha bersama pendeta buddha yang ternama di sriwijaya , yaitu satyakirti .
+sentence 2: bahkan i-tsing menganjurkan kepada siapa saja yang akan pergi ke india untuk mempelajari agama buddha untuk singgah dan mempelajari terlebih dahulu agama buddha di sriwijaya .
+sentence 3: berita i-tsing ini menunjukkan bahwa pendidikan agama buddha di sriwijaya sudah begitu maju dan tampaknya menjadi yang terbesar di daerah asia tenggara pada saat itu .
+sentence 4: b. prasasti nalanda yang dibuat pada sekitar pertengahan abad ke-9 , dan ditemukan di india .
+sentence 5: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
+passage 20 score = 5.833333333333333
+sentence 1: 8 .
+sentence 2: seni pertunjukan , terutama seni wayang sampai sekarang merupakan salah satu bentuk seni yang masih populer di kalangan masyarakat indonesia .
+sentence 3: seni wayang beragam bentuknya seperti wayang kulit , wayang golek , dan wayang orang .
+sentence 4: seni pertunjukan wayang tampaknya telah dikenal oleh bangsa indonesia sejak aman prasejarah .
+sentence 5: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
+passage 21 score = 5.833333333333333
+sentence 1: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
+sentence 2: kedatangan arwah nenek moyang diwujudkan dalam bentuk bayangan dari sebuah wayang yang terbuat dari kulit .
+sentence 3: lakon wayang pada masa ini lebih banyak menceritakan tentang kepahlawanan dan petualangan nenek moyang , seperti lakon-lakon “ dewi sri ” atau “ murwakala ” .
+sentence 4: pertunjukan wayang diadakan pada malam hari di tempat-tempat yang dianggap keramat .
+sentence 5: pada masa hindu-buddha , kebudayaan pertunjukan wayang ini terus dilanjutkan dan lebih berkembang lagi dengan cerita-cerita yang lebih kaya .
+passage 8 score = 5.666666666666667
+sentence 1: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
+sentence 2: berdasarkan prasasti tersebut kita bisa melihat begitu besarnya perhatian raja sriwijaya terhadap pendidikan dan pengajaran agama buddha di kerajaannya .
+sentence 3: hal ini terlihat dengan dikirimkannya beberapa pelajar dari sriwijaya untuk belajar agama buddha langsung ke daerah kelahirannya yaitu india .
+sentence 4: tidak mustahil bahwa sekembalinya para pelajar ini ke sriwijaya maka mereka akan menyebarluaskan hasil pendidikannya tersebut kepada masyarakat sriwijaya dengan jalan membentuk asrama-asrama sebagai pusat pengajaran dan pendidikan agama buddha .
+sentence 5: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
+passage 9 score = 5.666666666666667
+sentence 1: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
+sentence 2: tujuannya adalah untuk bekerja sama dengan pendeta ho-ling yaitu jnanabhadra untuk menerjemahkan bagian terakhir kitab nirwanasutra .
+sentence 3: dari berita ini menunjukkan bahwa di jawa pun telah dikenal pendidikan agama buddha yang kemudian menjadi rujukan bagi pendeta yang berasal dari daerah lain untuk bersama-sama mempelajari agama dengan pendeta yang berasal dari indonesia .
+sentence 4: d. pada prasasti turun hyang , yaitu prasasti yang dikeluarkan oleh raja airlangga menyebutkan tentang pembuatan sriwijaya asrama oleh raja airlangga .
+sentence 5: sriwijaya asrama merupakan suatu tempat yang dibangun sebagai pusat pendidikan dan pengajaran keagamaan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+title : penjelasan peninggalan kebudayaan hindu-buddha di indonesia (kedua)
+passage 7 score = 5.833333333333333
+sentence 1: di sriwijaya i-tsing melihat begitu pesatnya pendidikan agama buddha , sehingga dia memutuskan untuk menetap selama beberapa bulan di sriwijaya dan menerjemahkan salah satu kitab agama buddha bersama pendeta buddha yang ternama di sriwijaya , yaitu satyakirti .
+sentence 2: bahkan i-tsing menganjurkan kepada siapa saja yang akan pergi ke india untuk mempelajari agama buddha untuk singgah dan mempelajari terlebih dahulu agama buddha di sriwijaya .
+sentence 3: berita i-tsing ini menunjukkan bahwa pendidikan agama buddha di sriwijaya sudah begitu maju dan tampaknya menjadi yang terbesar di daerah asia tenggara pada saat itu .
+sentence 4: b. prasasti nalanda yang dibuat pada sekitar pertengahan abad ke-9 , dan ditemukan di india .
+sentence 5: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
+passage 20 score = 5.833333333333333
+sentence 1: 8 .
+sentence 2: seni pertunjukan , terutama seni wayang sampai sekarang merupakan salah satu bentuk seni yang masih populer di kalangan masyarakat indonesia .
+sentence 3: seni wayang beragam bentuknya seperti wayang kulit , wayang golek , dan wayang orang .
+sentence 4: seni pertunjukan wayang tampaknya telah dikenal oleh bangsa indonesia sejak aman prasejarah .
+sentence 5: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
+passage 21 score = 5.833333333333333
+sentence 1: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
+sentence 2: kedatangan arwah nenek moyang diwujudkan dalam bentuk bayangan dari sebuah wayang yang terbuat dari kulit .
+sentence 3: lakon wayang pada masa ini lebih banyak menceritakan tentang kepahlawanan dan petualangan nenek moyang , seperti lakon-lakon “ dewi sri ” atau “ murwakala ” .
+sentence 4: pertunjukan wayang diadakan pada malam hari di tempat-tempat yang dianggap keramat .
+sentence 5: pada masa hindu-buddha , kebudayaan pertunjukan wayang ini terus dilanjutkan dan lebih berkembang lagi dengan cerita-cerita yang lebih kaya .
+passage 8 score = 5.666666666666667
+sentence 1: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
+sentence 2: berdasarkan prasasti tersebut kita bisa melihat begitu besarnya perhatian raja sriwijaya terhadap pendidikan dan pengajaran agama buddha di kerajaannya .
+sentence 3: hal ini terlihat dengan dikirimkannya beberapa pelajar dari sriwijaya untuk belajar agama buddha langsung ke daerah kelahirannya yaitu india .
+sentence 4: tidak mustahil bahwa sekembalinya para pelajar ini ke sriwijaya maka mereka akan menyebarluaskan hasil pendidikannya tersebut kepada masyarakat sriwijaya dengan jalan membentuk asrama-asrama sebagai pusat pengajaran dan pendidikan agama buddha .
+sentence 5: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
+passage 9 score = 5.666666666666667
+sentence 1: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
+sentence 2: tujuannya adalah untuk bekerja sama dengan pendeta ho-ling yaitu jnanabhadra untuk menerjemahkan bagian terakhir kitab nirwanasutra .
+sentence 3: dari berita ini menunjukkan bahwa di jawa pun telah dikenal pendidikan agama buddha yang kemudian menjadi rujukan bagi pendeta yang berasal dari daerah lain untuk bersama-sama mempelajari agama dengan pendeta yang berasal dari indonesia .
+sentence 4: d. pada prasasti turun hyang , yaitu prasasti yang dikeluarkan oleh raja airlangga menyebutkan tentang pembuatan sriwijaya asrama oleh raja airlangga .
+sentence 5: sriwijaya asrama merupakan suatu tempat yang dibangun sebagai pusat pendidikan dan pengajaran keagamaan .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+title : perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+passage 4 score = 7.333333333333333
+sentence 1: pertunjukan wayang pada mulanya merupakan upacara pemujaan arwah nenek moyang .
+sentence 2: setelah pengaruh hindu-buddha masuk maka pertunjukan wayang mengalami perkembangan .
+sentence 3: pertunjukan wayang kemudian banyak menyadur dari pengaruh hindu-buddha dengan mengambil cerita dari mahabarata dan ramayana .
+sentence 4: ketika pengaruh islam masuk , pertunjukan wayang makin berkembang dan ber - sumberkan pada ajaran agama is - lam .
+sentence 5: para wali sanga , khusus sunan kalijaga menggunakan pertunjukan wayang sebagai media dakwah .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+title : perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+passage 5 score = 7.333333333333333
+sentence 1: para wali sanga , khusus sunan kalijaga menggunakan pertunjukan wayang sebagai media dakwah .
+sentence 2: jadi , pertunjukan wayang di sam - ping sebagai sarana pendidikan , komunikasi , dan hiburan rakyat juga digunakan untuk menyebarkan agama islam .
+sentence 3: bahkan , sampai zaman modern sekarang ini dengan berbagai peralatan yang canggih , pertunjukan wayang masih tetap eksis sebagai sarana pendidikan , hiburan , dan komunikasi yang efektif untuk menunjang pem - bangunan .2 .
+sentence 4: tradisi garebeg dan sekaten garebeg atau anggerebeg berarti pengawalan terhadap seorang pembesar yang penting , seperti seorang raja .
+sentence 5: pada upacara tersebut raja yogyakarta dan rajasurakarta menampakkan diri di sitinggil dan dikelilingi oleh pengikut - pengikutnya ( kerabat-kerabatnya ) yang berada di pagelaran untuk memberikan penghormatan kepada penguasa .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 title : tokoh penyebar islam di indonesia
 passage 2 score = 7.0
 sentence 1: dengan memakai gelar sayyid syarif yang menjalankan dakwah dengan motif keagamaan .
@@ -442,7 +460,7 @@ sentence 3: islamisasi di jawa dilakukan oleh sekelompok mubalig islam yang dike
 sentence 4: wali arti harfiahnya adalah orang yang dekat dengan allah , sedangkan songo menunjukkan jumlah yaitu sembilan .
 sentence 5: jadi walisongo artinya sembilan orang wali .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 title : tokoh penyebar islam di indonesia
 passage 3 score = 7.0
 sentence 1: jadi walisongo artinya sembilan orang wali .
@@ -451,7 +469,7 @@ sentence 3: jadi walisongo bisa diartikan pula dengan orang-orang ( wali ) yang 
 sentence 4: walisongo sangat dihormati serta dimuliakan oleh orang-orang , terutama di pulau jawa , bahkan para walisongo itu diberi gelar sunan atau susuhunan artinya yang dijunjung tinggi atau gelar yang tinggi dan mulia .
 sentence 5: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 title : tokoh penyebar islam di indonesia
 passage 4 score = 7.0
 sentence 1: cara yang dilakukan oleh walisongo dalam menyebarkan agama islam sangat menarik .
@@ -459,34 +477,893 @@ sentence 2: mereka menggunakan metode-metode yang memudahkan ajaran islam diteri
 sentence 3: mereka menggunakan pendekatan kebudayaan untuk memperkenalkan islam kepada masyarakat .
 sentence 4: para wali itu , antara lain sebagai berikut .
 sentence 5: a. maulana malik ibrahim maulana malik ibrahim atau makdum ibrahim , sering pula disebut maulana maghribi , dan ada juga orang menyebutnya dengan sebutan kakek bantal .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-title : tokoh penyebar islam di indonesia
-passage 24 score = 7.0
-sentence 1: sejak kecil , dalam diri raden jaka said sudah tampak jiwa luhur yang ditandai dengan selalu taat kepada agama dan berbakti kepada orang tua , serta mempunyai sikap welas asih kepada semua orang .
-sentence 2: ia menjadi murid sunan bonang , kemudian menikah dengan putri maulana ishak .
-sentence 3: berbeda dengan para wali lain , sunan kalijaga menjadi mubalig keliling dan tidak mempunyai pusat dakwah yang tetap .
-sentence 4: dalam melaksanakan dakwahnya , sunan kalijaga menggunakan kesenian wayang kulit yang sangat digemari masyarakat sejak aman hindu .
-sentence 5: kisah mahabharata yang melandasi cerita wayang disesuaikan agar tidak bertentangan dengan ajaran islam .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-title : tokoh penyebar islam di indonesia
-passage 2 score = 7.0
-sentence 1: dengan memakai gelar sayyid syarif yang menjalankan dakwah dengan motif keagamaan .
-sentence 2: di pulau jawa , proses islamisasi memiliki satu kekhasan .
-sentence 3: islamisasi di jawa dilakukan oleh sekelompok mubalig islam yang dikenal dengan sebutan walisongo .
-sentence 4: wali arti harfiahnya adalah orang yang dekat dengan allah , sedangkan songo menunjukkan jumlah yaitu sembilan .
-sentence 5: jadi walisongo artinya sembilan orang wali .
 
 
 Pencarian jawaban
 ---------------------
 
 
+pertunjukan wayang pada mulanya merupakan upacara pemujaan arwah <PERSON>nenek moyang .</PERSON> setelah pengaruh hindu-buddha masuk maka pertunjukan wayang mengalami perkembangan . pertunjukan wayang kemudian banyak menyadur dari pengaruh hindu-buddha dengan mengambil cerita dari mahabarata dan <PERSON>ramayana .</PERSON> ketika pengaruh islam masuk , pertunjukan wayang makin berkembang dan ber - sumberkan pada ajaran agama is - lam . para wali sanga , khusus sunan kalijaga menggunakan pertunjukan wayang sebagai media dakwah .
+
+memproses passage 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+title : perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+list jawaban dan posisi dalam passage
+nenek moyang | position = 6
+ramayana | position = 24
+
+
+melakukan pencarian:
+kata kunci = wali
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = mula
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = puja
+tokenwithtagstemmed = arwah
+tokenwithtagstemmed = nenek moyang
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sadur
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = cerita
+tokenwithtagstemmed = mahabarata
+tokenwithtagstemmed = ramayana
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = ber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = is
+tokenwithtagstemmed = lam
+tokenwithtagstemmed = wali
+posisi dalam passage = 37
+jarak dengan tiap kandidat jawaban:
+nenek moyang -31
+ramayana -13
+
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+kata kunci = songo
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = mula
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = puja
+tokenwithtagstemmed = arwah
+tokenwithtagstemmed = nenek moyang
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sadur
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = cerita
+tokenwithtagstemmed = mahabarata
+tokenwithtagstemmed = ramayana
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = ber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = is
+tokenwithtagstemmed = lam
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+kata kunci = guna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = mula
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = puja
+tokenwithtagstemmed = arwah
+tokenwithtagstemmed = nenek moyang
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sadur
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = cerita
+tokenwithtagstemmed = mahabarata
+tokenwithtagstemmed = ramayana
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = ber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = is
+tokenwithtagstemmed = lam
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+posisi dalam passage = 42
+jarak dengan tiap kandidat jawaban:
+nenek moyang -36
+ramayana -18
+
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+kata kunci = media
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = mula
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = puja
+tokenwithtagstemmed = arwah
+tokenwithtagstemmed = nenek moyang
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sadur
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = cerita
+tokenwithtagstemmed = mahabarata
+tokenwithtagstemmed = ramayana
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = ber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = is
+tokenwithtagstemmed = lam
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+posisi dalam passage = 45
+jarak dengan tiap kandidat jawaban:
+nenek moyang -39
+ramayana -21
+
+tokenwithtagstemmed = dakwah
+kata kunci = tunjuk
+tokenwithtagstemmed = tunjuk
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+nenek moyang 6
+ramayana 24
+
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = mula
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = puja
+tokenwithtagstemmed = arwah
+tokenwithtagstemmed = nenek moyang
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+posisi dalam passage = 11
+jarak dengan tiap kandidat jawaban:
+nenek moyang -5
+ramayana 13
+
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = tunjuk
+posisi dalam passage = 15
+jarak dengan tiap kandidat jawaban:
+nenek moyang -9
+ramayana 9
+
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sadur
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = cerita
+tokenwithtagstemmed = mahabarata
+tokenwithtagstemmed = ramayana
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+posisi dalam passage = 28
+jarak dengan tiap kandidat jawaban:
+nenek moyang -22
+ramayana -4
+
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = ber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = is
+tokenwithtagstemmed = lam
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+posisi dalam passage = 43
+jarak dengan tiap kandidat jawaban:
+nenek moyang -37
+ramayana -19
+
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+kata kunci = wayang
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+nenek moyang 5
+ramayana 23
+
+tokenwithtagstemmed = mula
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = puja
+tokenwithtagstemmed = arwah
+tokenwithtagstemmed = nenek moyang
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+posisi dalam passage = 12
+jarak dengan tiap kandidat jawaban:
+nenek moyang -6
+ramayana 12
+
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+posisi dalam passage = 16
+jarak dengan tiap kandidat jawaban:
+nenek moyang -10
+ramayana 8
+
+tokenwithtagstemmed = sadur
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = hindu
+tokenwithtagstemmed = buddha
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = cerita
+tokenwithtagstemmed = mahabarata
+tokenwithtagstemmed = ramayana
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+posisi dalam passage = 29
+jarak dengan tiap kandidat jawaban:
+nenek moyang -23
+ramayana -5
+
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = ber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = is
+tokenwithtagstemmed = lam
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+posisi dalam passage = 44
+jarak dengan tiap kandidat jawaban:
+nenek moyang -38
+ramayana -20
+
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+
+
+para wali sanga , khusus sunan kalijaga menggunakan pertunjukan wayang sebagai media dakwah . jadi , pertunjukan wayang di sam - ping sebagai sarana pendidikan , komunikasi , dan hiburan rakyat juga digunakan untuk menyebarkan agama islam . bahkan , sampai <TIME>zaman modern sekarang</TIME> ini dengan berbagai peralatan yang canggih , pertunjukan wayang masih tetap eksis sebagai sarana pendidikan , hiburan , dan komunikasi yang efektif untuk menunjang pem - bangunan .2 . tradisi garebeg dan sekaten garebeg atau anggerebeg berarti pengawalan terhadap <PERSON>seorang pembesar</PERSON> yang penting , seperti <PERSON>seorang raja .</PERSON> pada upacara tersebut raja yogyakarta dan <PERSON>rajasurakarta</PERSON> menampakkan diri di <LOCATION>sitinggil</LOCATION> dan dikelilingi oleh pengikut - pengikutnya ( kerabat-kerabatnya ) yang berada di pagelaran untuk memberikan penghormatan kepada <PERSON>penguasa .</PERSON>
+
+memproses passage 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+title : perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+list jawaban dan posisi dalam passage
+pembesar | position = 50
+raja | position = 52
+rajasurakarta | position = 56
+penguasa | position = 69
+
+
+melakukan pencarian:
+kata kunci = wali
+tokenwithtagstemmed = wali
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+pembesar 50
+raja 52
+rajasurakarta 56
+penguasa 69
+
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sam
+tokenwithtagstemmed = ping
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = zaman modern
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = alat
+tokenwithtagstemmed = canggih
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = eks
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = efektif
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tunjang
+tokenwithtagstemmed = pem
+tokenwithtagstemmed = bangun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = sekaten
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = anggerebeg
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = rajasurakarta
+tokenwithtagstemmed = tampak
+tokenwithtagstemmed = sitinggil
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = pagelaran
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = hormat
+tokenwithtagstemmed = kuasa
+kata kunci = songo
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sam
+tokenwithtagstemmed = ping
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = zaman modern
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = alat
+tokenwithtagstemmed = canggih
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = eks
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = efektif
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tunjang
+tokenwithtagstemmed = pem
+tokenwithtagstemmed = bangun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = sekaten
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = anggerebeg
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = rajasurakarta
+tokenwithtagstemmed = tampak
+tokenwithtagstemmed = sitinggil
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = pagelaran
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = hormat
+tokenwithtagstemmed = kuasa
+kata kunci = guna
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+posisi dalam passage = 5
+jarak dengan tiap kandidat jawaban:
+pembesar 45
+raja 47
+rajasurakarta 51
+penguasa 64
+
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sam
+tokenwithtagstemmed = ping
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = guna
+posisi dalam passage = 20
+jarak dengan tiap kandidat jawaban:
+pembesar 30
+raja 32
+rajasurakarta 36
+penguasa 49
+
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = zaman modern
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = alat
+tokenwithtagstemmed = canggih
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = eks
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = efektif
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tunjang
+tokenwithtagstemmed = pem
+tokenwithtagstemmed = bangun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = sekaten
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = anggerebeg
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = rajasurakarta
+tokenwithtagstemmed = tampak
+tokenwithtagstemmed = sitinggil
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = pagelaran
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = hormat
+tokenwithtagstemmed = kuasa
+kata kunci = media
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+pembesar 42
+raja 44
+rajasurakarta 48
+penguasa 61
+
+tokenwithtagstemmed = dakwah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sam
+tokenwithtagstemmed = ping
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = zaman modern
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = alat
+tokenwithtagstemmed = canggih
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = eks
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = efektif
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tunjang
+tokenwithtagstemmed = pem
+tokenwithtagstemmed = bangun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = sekaten
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = anggerebeg
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = rajasurakarta
+tokenwithtagstemmed = tampak
+tokenwithtagstemmed = sitinggil
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = pagelaran
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = hormat
+tokenwithtagstemmed = kuasa
+kata kunci = tunjuk
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+pembesar 44
+raja 46
+rajasurakarta 50
+penguasa 63
+
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tunjuk
+posisi dalam passage = 11
+jarak dengan tiap kandidat jawaban:
+pembesar 39
+raja 41
+rajasurakarta 45
+penguasa 58
+
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = sam
+tokenwithtagstemmed = ping
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = zaman modern
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = alat
+tokenwithtagstemmed = canggih
+tokenwithtagstemmed = tunjuk
+posisi dalam passage = 29
+jarak dengan tiap kandidat jawaban:
+pembesar 21
+raja 23
+rajasurakarta 27
+penguasa 40
+
+tokenwithtagstemmed = wayang
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = eks
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = efektif
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tunjang
+tokenwithtagstemmed = pem
+tokenwithtagstemmed = bangun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = sekaten
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = anggerebeg
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = rajasurakarta
+tokenwithtagstemmed = tampak
+tokenwithtagstemmed = sitinggil
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = pagelaran
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = hormat
+tokenwithtagstemmed = kuasa
+kata kunci = wayang
+tokenwithtagstemmed = wali
+tokenwithtagstemmed = sanga
+tokenwithtagstemmed = khusus
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = kalijaga
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+pembesar 43
+raja 45
+rajasurakarta 49
+penguasa 62
+
+tokenwithtagstemmed = media
+tokenwithtagstemmed = dakwah
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+posisi dalam passage = 12
+jarak dengan tiap kandidat jawaban:
+pembesar 38
+raja 40
+rajasurakarta 44
+penguasa 57
+
+tokenwithtagstemmed = sam
+tokenwithtagstemmed = ping
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = zaman modern
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = alat
+tokenwithtagstemmed = canggih
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = wayang
+posisi dalam passage = 30
+jarak dengan tiap kandidat jawaban:
+pembesar 20
+raja 22
+rajasurakarta 26
+penguasa 39
+
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = eks
+tokenwithtagstemmed = sarana
+tokenwithtagstemmed = didik
+tokenwithtagstemmed = hibur
+tokenwithtagstemmed = komunikasi
+tokenwithtagstemmed = efektif
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tunjang
+tokenwithtagstemmed = pem
+tokenwithtagstemmed = bangun
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = tradisi
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = sekaten
+tokenwithtagstemmed = garebeg
+tokenwithtagstemmed = anggerebeg
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = penting
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = upacara
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = yogyakarta
+tokenwithtagstemmed = rajasurakarta
+tokenwithtagstemmed = tampak
+tokenwithtagstemmed = sitinggil
+tokenwithtagstemmed = keliling
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = kerabat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = pagelaran
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = hormat
+tokenwithtagstemmed = kuasa
+
+
 dengan memakai gelar sayyid syarif yang menjalankan dakwah dengan motif keagamaan . di <LOCATION>pulau jawa , proses</LOCATION> islamisasi memiliki satu kekhasan . islamisasi di <LOCATION>jawa</LOCATION> dilakukan oleh sekelompok mubalig islam yang dikenal dengan sebutan <PERSON>walisongo .</PERSON> wali arti harfiahnya adalah orang yang dekat dengan allah , sedangkan <PERSON>songo</PERSON> menunjukkan jumlah yaitu sembilan . jadi <PERSON>walisongo</PERSON> artinya sembilan orang wali .
 
 memproses passage 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 title : tokoh penyebar islam di indonesia
 list jawaban dan posisi dalam passage
 walisongo | position = 21
@@ -752,7 +1629,7 @@ tokenwithtagstemmed = wali
 jadi <PERSON>walisongo</PERSON> artinya sembilan orang wali . ada pula yang mengartikan songo itu bukan angka sembilan dalam pengertian jumlah , tetapi menunjukkan bahwa sembilan itu ( songo ) menunjukkan angka yang sakral atau suci . jadi walisongo bisa diartikan pula dengan orang-orang ( wali ) yang disucikan , karena jumlah wali itu lebih dari sembilan . walisongo sangat dihormati serta dimuliakan oleh orang-orang , terutama di <LOCATION>pulau jawa ,</LOCATION> bahkan <PERSON>para walisongo</PERSON> itu diberi gelar sunan atau susuhunan artinya yang dijunjung tinggi atau gelar yang tinggi dan mulia . cara yang dilakukan oleh <PERSON>walisongo</PERSON> dalam menyebarkan agama islam sangat menarik .
 
 memproses passage 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 title : tokoh penyebar islam di indonesia
 list jawaban dan posisi dalam passage
 walisongo | position = 1
@@ -1138,7 +2015,7 @@ tokenwithtagstemmed = tarik
 cara yang dilakukan oleh <PERSON>walisongo</PERSON> dalam menyebarkan agama islam sangat menarik . mereka menggunakan metode-metode yang memudahkan ajaran islam diterima oleh <PERSON>masyarakat luas</PERSON> dari berbagai golongan . mereka menggunakan pendekatan kebudayaan untuk memperkenalkan islam kepada <PERSON>masyarakat .</PERSON> para wali itu , antara lain sebagai berikut . a. maulana malik ibrahim maulana malik ibrahim atau makdum ibrahim , sering pula disebut <PERSON>maulana maghribi ,</PERSON> dan ada juga orang menyebutnya dengan sebutan kakek bantal .
 
 memproses passage 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 title : tokoh penyebar islam di indonesia
 list jawaban dan posisi dalam passage
 walisongo | position = 2
@@ -1428,931 +2305,726 @@ tokenwithtagstemmed = sebut
 tokenwithtagstemmed = kakek
 tokenwithtagstemmed = bantal
 
-
-sejak kecil , dalam diri raden jaka said sudah tampak jiwa luhur yang ditandai dengan selalu taat kepada agama dan berbakti kepada <PERSON>orang tua ,</PERSON> serta mempunyai sikap welas asih kepada semua orang . ia menjadi murid sunan bonang , kemudian menikah dengan putri maulana ishak . berbeda dengan para wali lain , sunan kalijaga menjadi <PERSON>mubalig keliling</PERSON> dan tidak mempunyai pusat dakwah yang tetap . dalam melaksanakan dakwahnya , sunan kalijaga menggunakan kesenian wayang kulit yang sangat digemari masyarakat sejak aman hindu . kisah mahabharata yang melandasi cerita wayang disesuaikan agar tidak bertentangan dengan ajaran islam .
-
-memproses passage 24
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-title : tokoh penyebar islam di indonesia
-list jawaban dan posisi dalam passage
-orang tua | position = 10
-mubalig keliling | position = 29
-
-
-melakukan pencarian:
-kata kunci = wali
-tokenwithtagstemmed = raden
-tokenwithtagstemmed = jaka
-tokenwithtagstemmed = said
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = jiwa
-tokenwithtagstemmed = luhur
-tokenwithtagstemmed = tanda
-tokenwithtagstemmed = taat
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = bakti
-tokenwithtagstemmed = orang tua
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = sikap
-tokenwithtagstemmed = welas
-tokenwithtagstemmed = asih
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = murid
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = bonang
-tokenwithtagstemmed = meni
-tokenwithtagstemmed = putri
-tokenwithtagstemmed = maulana
-tokenwithtagstemmed = ishak
-tokenwithtagstemmed = beda
-tokenwithtagstemmed = wali
-posisi dalam passage = 25
-jarak dengan tiap kandidat jawaban:
-orang tua -15
-mubalig keliling 4
-
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = mubalig keliling
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = pusat
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = seni
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = kulit
-tokenwithtagstemmed = gari
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = hindu
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = mahabharata
-tokenwithtagstemmed = landas
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = sesuai
-tokenwithtagstemmed = tentang
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = islam
-kata kunci = songo
-tokenwithtagstemmed = raden
-tokenwithtagstemmed = jaka
-tokenwithtagstemmed = said
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = jiwa
-tokenwithtagstemmed = luhur
-tokenwithtagstemmed = tanda
-tokenwithtagstemmed = taat
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = bakti
-tokenwithtagstemmed = orang tua
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = sikap
-tokenwithtagstemmed = welas
-tokenwithtagstemmed = asih
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = murid
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = bonang
-tokenwithtagstemmed = meni
-tokenwithtagstemmed = putri
-tokenwithtagstemmed = maulana
-tokenwithtagstemmed = ishak
-tokenwithtagstemmed = beda
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = mubalig keliling
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = pusat
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = seni
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = kulit
-tokenwithtagstemmed = gari
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = hindu
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = mahabharata
-tokenwithtagstemmed = landas
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = sesuai
-tokenwithtagstemmed = tentang
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = islam
-kata kunci = guna
-tokenwithtagstemmed = raden
-tokenwithtagstemmed = jaka
-tokenwithtagstemmed = said
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = jiwa
-tokenwithtagstemmed = luhur
-tokenwithtagstemmed = tanda
-tokenwithtagstemmed = taat
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = bakti
-tokenwithtagstemmed = orang tua
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = sikap
-tokenwithtagstemmed = welas
-tokenwithtagstemmed = asih
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = murid
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = bonang
-tokenwithtagstemmed = meni
-tokenwithtagstemmed = putri
-tokenwithtagstemmed = maulana
-tokenwithtagstemmed = ishak
-tokenwithtagstemmed = beda
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = mubalig keliling
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = pusat
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = guna
-posisi dalam passage = 38
-jarak dengan tiap kandidat jawaban:
-orang tua -28
-mubalig keliling -9
-
-tokenwithtagstemmed = seni
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = kulit
-tokenwithtagstemmed = gari
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = hindu
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = mahabharata
-tokenwithtagstemmed = landas
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = sesuai
-tokenwithtagstemmed = tentang
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = islam
-kata kunci = media
-tokenwithtagstemmed = raden
-tokenwithtagstemmed = jaka
-tokenwithtagstemmed = said
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = jiwa
-tokenwithtagstemmed = luhur
-tokenwithtagstemmed = tanda
-tokenwithtagstemmed = taat
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = bakti
-tokenwithtagstemmed = orang tua
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = sikap
-tokenwithtagstemmed = welas
-tokenwithtagstemmed = asih
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = murid
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = bonang
-tokenwithtagstemmed = meni
-tokenwithtagstemmed = putri
-tokenwithtagstemmed = maulana
-tokenwithtagstemmed = ishak
-tokenwithtagstemmed = beda
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = mubalig keliling
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = pusat
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = seni
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = kulit
-tokenwithtagstemmed = gari
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = hindu
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = mahabharata
-tokenwithtagstemmed = landas
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = sesuai
-tokenwithtagstemmed = tentang
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = islam
-kata kunci = tunjuk
-tokenwithtagstemmed = raden
-tokenwithtagstemmed = jaka
-tokenwithtagstemmed = said
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = jiwa
-tokenwithtagstemmed = luhur
-tokenwithtagstemmed = tanda
-tokenwithtagstemmed = taat
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = bakti
-tokenwithtagstemmed = orang tua
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = sikap
-tokenwithtagstemmed = welas
-tokenwithtagstemmed = asih
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = murid
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = bonang
-tokenwithtagstemmed = meni
-tokenwithtagstemmed = putri
-tokenwithtagstemmed = maulana
-tokenwithtagstemmed = ishak
-tokenwithtagstemmed = beda
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = mubalig keliling
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = pusat
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = seni
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = kulit
-tokenwithtagstemmed = gari
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = hindu
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = mahabharata
-tokenwithtagstemmed = landas
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = wayang
-tokenwithtagstemmed = sesuai
-tokenwithtagstemmed = tentang
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = islam
-kata kunci = wayang
-tokenwithtagstemmed = raden
-tokenwithtagstemmed = jaka
-tokenwithtagstemmed = said
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = jiwa
-tokenwithtagstemmed = luhur
-tokenwithtagstemmed = tanda
-tokenwithtagstemmed = taat
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = bakti
-tokenwithtagstemmed = orang tua
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = sikap
-tokenwithtagstemmed = welas
-tokenwithtagstemmed = asih
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = murid
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = bonang
-tokenwithtagstemmed = meni
-tokenwithtagstemmed = putri
-tokenwithtagstemmed = maulana
-tokenwithtagstemmed = ishak
-tokenwithtagstemmed = beda
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = mubalig keliling
-tokenwithtagstemmed = punya
-tokenwithtagstemmed = pusat
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = laksana
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = kalijaga
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = seni
-tokenwithtagstemmed = wayang
-posisi dalam passage = 40
-jarak dengan tiap kandidat jawaban:
-orang tua -30
-mubalig keliling -11
-
-tokenwithtagstemmed = kulit
-tokenwithtagstemmed = gari
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = aman
-tokenwithtagstemmed = hindu
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = mahabharata
-tokenwithtagstemmed = landas
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = wayang
-posisi dalam passage = 50
-jarak dengan tiap kandidat jawaban:
-orang tua -40
-mubalig keliling -21
-
-tokenwithtagstemmed = sesuai
-tokenwithtagstemmed = tentang
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = islam
-
-
-dengan memakai gelar sayyid syarif yang menjalankan dakwah dengan motif keagamaan . di <LOCATION>pulau jawa , proses</LOCATION> islamisasi memiliki satu kekhasan . islamisasi di <LOCATION>jawa</LOCATION> dilakukan oleh sekelompok mubalig islam yang dikenal dengan sebutan <PERSON>walisongo .</PERSON> wali arti harfiahnya adalah orang yang dekat dengan allah , sedangkan <PERSON>songo</PERSON> menunjukkan jumlah yaitu sembilan . jadi <PERSON>walisongo</PERSON> artinya sembilan orang wali .
-
-memproses passage 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-title : tokoh penyebar islam di indonesia
-list jawaban dan posisi dalam passage
-walisongo | position = 21
-songo | position = 27
-walisongo | position = 32
-
-
-melakukan pencarian:
-kata kunci = wali
-tokenwithtagstemmed = pakai
-tokenwithtagstemmed = gelar
-tokenwithtagstemmed = sayyid
-tokenwithtagstemmed = syarif
-tokenwithtagstemmed = jalan
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = motif
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = pulau jawa proses
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = milik
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = khas
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = jawa
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = kelompok
-tokenwithtagstemmed = mubalig
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = kenal
-tokenwithtagstemmed = sebut
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = wali
-posisi dalam passage = 22
-jarak dengan tiap kandidat jawaban:
-walisongo -1
-songo 5
-walisongo 10
-
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = harfiah
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = allah
-tokenwithtagstemmed = songo
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = jumlah
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = wali
-posisi dalam passage = 36
-jarak dengan tiap kandidat jawaban:
-walisongo -15
-songo -9
-walisongo -4
-
-kata kunci = songo
-tokenwithtagstemmed = pakai
-tokenwithtagstemmed = gelar
-tokenwithtagstemmed = sayyid
-tokenwithtagstemmed = syarif
-tokenwithtagstemmed = jalan
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = motif
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = pulau jawa proses
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = milik
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = khas
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = jawa
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = kelompok
-tokenwithtagstemmed = mubalig
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = kenal
-tokenwithtagstemmed = sebut
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = harfiah
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = allah
-tokenwithtagstemmed = songo
-posisi dalam passage = 27
-jarak dengan tiap kandidat jawaban:
-walisongo -6
-songo 0
-walisongo 5
-
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = jumlah
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = wali
-kata kunci = guna
-tokenwithtagstemmed = pakai
-tokenwithtagstemmed = gelar
-tokenwithtagstemmed = sayyid
-tokenwithtagstemmed = syarif
-tokenwithtagstemmed = jalan
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = motif
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = pulau jawa proses
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = milik
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = khas
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = jawa
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = kelompok
-tokenwithtagstemmed = mubalig
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = kenal
-tokenwithtagstemmed = sebut
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = harfiah
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = allah
-tokenwithtagstemmed = songo
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = jumlah
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = wali
-kata kunci = media
-tokenwithtagstemmed = pakai
-tokenwithtagstemmed = gelar
-tokenwithtagstemmed = sayyid
-tokenwithtagstemmed = syarif
-tokenwithtagstemmed = jalan
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = motif
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = pulau jawa proses
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = milik
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = khas
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = jawa
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = kelompok
-tokenwithtagstemmed = mubalig
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = kenal
-tokenwithtagstemmed = sebut
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = harfiah
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = allah
-tokenwithtagstemmed = songo
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = jumlah
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = wali
-kata kunci = tunjuk
-tokenwithtagstemmed = pakai
-tokenwithtagstemmed = gelar
-tokenwithtagstemmed = sayyid
-tokenwithtagstemmed = syarif
-tokenwithtagstemmed = jalan
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = motif
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = pulau jawa proses
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = milik
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = khas
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = jawa
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = kelompok
-tokenwithtagstemmed = mubalig
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = kenal
-tokenwithtagstemmed = sebut
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = harfiah
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = allah
-tokenwithtagstemmed = songo
-tokenwithtagstemmed = tunjuk
-posisi dalam passage = 28
-jarak dengan tiap kandidat jawaban:
-walisongo -7
-songo -1
-walisongo 4
-
-tokenwithtagstemmed = jumlah
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = wali
-kata kunci = wayang
-tokenwithtagstemmed = pakai
-tokenwithtagstemmed = gelar
-tokenwithtagstemmed = sayyid
-tokenwithtagstemmed = syarif
-tokenwithtagstemmed = jalan
-tokenwithtagstemmed = dakwah
-tokenwithtagstemmed = motif
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = pulau jawa proses
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = milik
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = khas
-tokenwithtagstemmed = islamisasi
-tokenwithtagstemmed = jawa
-tokenwithtagstemmed = laku
-tokenwithtagstemmed = kelompok
-tokenwithtagstemmed = mubalig
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = kenal
-tokenwithtagstemmed = sebut
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = wali
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = harfiah
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = allah
-tokenwithtagstemmed = songo
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = jumlah
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = walisongo
-tokenwithtagstemmed = arti
-tokenwithtagstemmed = sembilan
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = wali
-
 Pengurutan kandidat jawaban
 this.answer = walisongo
-passage rank = 1
+passage rank = 3
 distance = 4
-doc rank = 1
-total Score = 6
-frequency = 2
-order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
-
-this.answer = mubalig keliling
-passage rank = 4
-distance = 4
-doc rank = 1
-total Score = 9
-frequency = 1
-order process = 25
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
-
-this.answer = walisongo
-passage rank = 5
-distance = 4
-doc rank = 2
+doc rank = 4
 total Score = 11
 frequency = 2
-order process = 29
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
+order process = 52
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
 
-this.answer = walisongo
-passage rank = 1
-distance = 5
-doc rank = 1
-total Score = 7
-frequency = 2
-order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
-
-this.answer = songo
+this.answer = nenek moyang
 passage rank = 1
 distance = 5
 doc rank = 1
 total Score = 7
 frequency = 1
-order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 this.answer = walisongo
-passage rank = 5
-distance = 5
-doc rank = 2
-total Score = 12
-frequency = 2
-order process = 28
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-document Title = tokoh penyebar islam di indonesia
-
-this.answer = songo
-passage rank = 5
-distance = 5
-doc rank = 2
-total Score = 12
-frequency = 1
-order process = 26
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-document Title = tokoh penyebar islam di indonesia
-
-this.answer = masyarakat
 passage rank = 3
+distance = 5
+doc rank = 4
+total Score = 12
+frequency = 2
+order process = 51
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = songo
+passage rank = 3
+distance = 5
+doc rank = 4
+total Score = 12
+frequency = 1
+order process = 49
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = nenek moyang
+passage rank = 1
 distance = 6
 doc rank = 1
-total Score = 10
+total Score = 8
 frequency = 1
-order process = 23
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = masyarakat
+passage rank = 5
+distance = 6
+doc rank = 4
+total Score = 15
+frequency = 1
+order process = 71
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
 
 this.answer = masyarakat luas
-passage rank = 3
+passage rank = 5
 distance = 7
+doc rank = 4
+total Score = 16
+frequency = 1
+order process = 68
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = ramayana
+passage rank = 1
+distance = 8
+doc rank = 1
+total Score = 10
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = ramayana
+passage rank = 1
+distance = 9
 doc rank = 1
 total Score = 11
 frequency = 1
-order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 this.answer = walisongo
-passage rank = 2
+passage rank = 4
 distance = 9
-doc rank = 1
-total Score = 12
+doc rank = 4
+total Score = 17
 frequency = 3
-order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+order process = 57
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
 
 this.answer = walisongo
-passage rank = 1
+passage rank = 3
 distance = 10
-doc rank = 1
-total Score = 12
-frequency = 2
-order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
-
-this.answer = walisongo
-passage rank = 5
-distance = 10
-doc rank = 2
+doc rank = 4
 total Score = 17
 frequency = 2
-order process = 27
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
+order process = 50
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
+
+this.answer = ramayana
+passage rank = 1
+distance = 12
+doc rank = 1
+total Score = 14
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 this.answer = walisongo
-passage rank = 2
+passage rank = 4
 distance = 12
+doc rank = 4
+total Score = 20
+frequency = 3
+order process = 55
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = maulana maghribi
+passage rank = 5
+distance = 12
+doc rank = 4
+total Score = 21
+frequency = 1
+order process = 67
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = ramayana
+passage rank = 1
+distance = 13
 doc rank = 1
 total Score = 15
-frequency = 3
-order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
-
-this.answer = maulana maghribi
-passage rank = 3
-distance = 12
-doc rank = 1
-total Score = 16
 frequency = 1
-order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 this.answer = masyarakat
-passage rank = 3
+passage rank = 5
 distance = 16
-doc rank = 1
-total Score = 20
+doc rank = 4
+total Score = 25
 frequency = 1
-order process = 21
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+order process = 69
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
 
 this.answer = maulana maghribi
-passage rank = 3
+passage rank = 5
 distance = 19
+doc rank = 4
+total Score = 28
+frequency = 1
+order process = 72
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = pembesar
+passage rank = 2
+distance = 20
 doc rank = 1
 total Score = 23
 frequency = 1
-order process = 24
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+order process = 45
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
-this.answer = walisongo
+this.answer = pembesar
 passage rank = 2
 distance = 21
 doc rank = 1
 total Score = 24
-frequency = 3
-order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+frequency = 1
+order process = 33
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 this.answer = walisongo
+passage rank = 4
+distance = 21
+doc rank = 4
+total Score = 29
+frequency = 3
+order process = 65
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = raja
 passage rank = 2
 distance = 22
 doc rank = 1
 total Score = 25
+frequency = 1
+order process = 46
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = walisongo
+passage rank = 4
+distance = 22
+doc rank = 4
+total Score = 30
 frequency = 3
-order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+order process = 58
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
 
 this.answer = walisongo
-passage rank = 2
+passage rank = 4
 distance = 22
+doc rank = 4
+total Score = 30
+frequency = 3
+order process = 61
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = ramayana
+passage rank = 1
+distance = 23
 doc rank = 1
 total Score = 25
-frequency = 3
-order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
-this.answer = walisongo
+this.answer = raja
 passage rank = 2
+distance = 23
+doc rank = 1
+total Score = 26
+frequency = 1
+order process = 34
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = ramayana
+passage rank = 1
 distance = 24
 doc rank = 1
-total Score = 27
-frequency = 3
-order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+total Score = 26
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 this.answer = walisongo
-passage rank = 2
-distance = 25
-doc rank = 1
-total Score = 28
-frequency = 3
-order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
-
-this.answer = walisongo
-passage rank = 2
-distance = 29
-doc rank = 1
+passage rank = 4
+distance = 24
+doc rank = 4
 total Score = 32
 frequency = 3
-order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+order process = 63
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = walisongo
+passage rank = 4
+distance = 25
+doc rank = 4
+total Score = 33
+frequency = 3
+order process = 56
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = rajasurakarta
+passage rank = 2
+distance = 26
+doc rank = 1
+total Score = 29
+frequency = 1
+order process = 47
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = rajasurakarta
+passage rank = 2
+distance = 27
+doc rank = 1
+total Score = 30
+frequency = 1
+order process = 35
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = walisongo
+passage rank = 4
+distance = 29
+doc rank = 4
+total Score = 37
+frequency = 3
+order process = 59
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
 
 this.answer = maulana maghribi
-passage rank = 3
+passage rank = 5
 distance = 29
+doc rank = 4
+total Score = 38
+frequency = 1
+order process = 70
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = pembesar
+passage rank = 2
+distance = 30
 doc rank = 1
 total Score = 33
 frequency = 1
-order process = 22
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+order process = 17
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 this.answer = walisongo
-passage rank = 2
+passage rank = 4
 distance = 31
-doc rank = 1
-total Score = 34
+doc rank = 4
+total Score = 39
 frequency = 3
-order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+order process = 53
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
 
-this.answer = walisongo
+this.answer = raja
 passage rank = 2
-distance = 34
+distance = 32
 doc rank = 1
-total Score = 37
-frequency = 3
+total Score = 35
+frequency = 1
 order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = walisongo
+passage rank = 4
+distance = 34
+doc rank = 4
+total Score = 42
+frequency = 3
+order process = 66
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
 
 this.answer = walisongo
-passage rank = 2
+passage rank = 4
 distance = 35
-doc rank = 1
-total Score = 38
+doc rank = 4
+total Score = 43
 frequency = 3
-order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+order process = 62
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
 
-this.answer = walisongo
+this.answer = rajasurakarta
 passage rank = 2
-distance = 37
+distance = 36
 doc rank = 1
-total Score = 40
-frequency = 3
-order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+total Score = 39
+frequency = 1
+order process = 19
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 this.answer = walisongo
+passage rank = 4
+distance = 37
+doc rank = 4
+total Score = 45
+frequency = 3
+order process = 64
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = pembesar
+passage rank = 2
+distance = 38
+doc rank = 1
+total Score = 41
+frequency = 1
+order process = 41
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = pembesar
+passage rank = 2
+distance = 39
+doc rank = 1
+total Score = 42
+frequency = 1
+order process = 29
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 39
+doc rank = 1
+total Score = 42
+frequency = 1
+order process = 48
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 40
+doc rank = 1
+total Score = 43
+frequency = 1
+order process = 36
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = raja
+passage rank = 2
+distance = 40
+doc rank = 1
+total Score = 43
+frequency = 1
+order process = 42
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = raja
+passage rank = 2
+distance = 41
+doc rank = 1
+total Score = 44
+frequency = 1
+order process = 30
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = pembesar
 passage rank = 2
 distance = 42
 doc rank = 1
 total Score = 45
-frequency = 3
-order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-document Title = tokoh penyebar islam di indonesia
+frequency = 1
+order process = 21
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 this.answer = walisongo
+passage rank = 4
+distance = 42
+doc rank = 4
+total Score = 50
+frequency = 3
+order process = 60
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+document Title = tokoh penyebar islam di indonesia
+
+this.answer = pembesar
+passage rank = 2
+distance = 43
+doc rank = 1
+total Score = 46
+frequency = 1
+order process = 37
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = raja
 passage rank = 2
 distance = 44
 doc rank = 1
 total Score = 47
+frequency = 1
+order process = 22
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = pembesar
+passage rank = 2
+distance = 44
+doc rank = 1
+total Score = 47
+frequency = 1
+order process = 25
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = rajasurakarta
+passage rank = 2
+distance = 44
+doc rank = 1
+total Score = 47
+frequency = 1
+order process = 43
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = walisongo
+passage rank = 4
+distance = 44
+doc rank = 4
+total Score = 52
 frequency = 3
-order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
+order process = 54
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
 document Title = tokoh penyebar islam di indonesia
+
+this.answer = pembesar
+passage rank = 2
+distance = 45
+doc rank = 1
+total Score = 48
+frequency = 1
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = rajasurakarta
+passage rank = 2
+distance = 45
+doc rank = 1
+total Score = 48
+frequency = 1
+order process = 31
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = raja
+passage rank = 2
+distance = 45
+doc rank = 1
+total Score = 48
+frequency = 1
+order process = 38
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = raja
+passage rank = 2
+distance = 46
+doc rank = 1
+total Score = 49
+frequency = 1
+order process = 26
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = raja
+passage rank = 2
+distance = 47
+doc rank = 1
+total Score = 50
+frequency = 1
+order process = 14
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = rajasurakarta
+passage rank = 2
+distance = 48
+doc rank = 1
+total Score = 51
+frequency = 1
+order process = 23
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 49
+doc rank = 1
+total Score = 52
+frequency = 1
+order process = 20
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = rajasurakarta
+passage rank = 2
+distance = 49
+doc rank = 1
+total Score = 52
+frequency = 1
+order process = 39
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = pembesar
+passage rank = 2
+distance = 50
+doc rank = 1
+total Score = 53
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = rajasurakarta
+passage rank = 2
+distance = 50
+doc rank = 1
+total Score = 53
+frequency = 1
+order process = 27
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = rajasurakarta
+passage rank = 2
+distance = 51
+doc rank = 1
+total Score = 54
+frequency = 1
+order process = 15
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = raja
+passage rank = 2
+distance = 52
+doc rank = 1
+total Score = 55
+frequency = 1
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = rajasurakarta
+passage rank = 2
+distance = 56
+doc rank = 1
+total Score = 59
+frequency = 1
+order process = 11
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 57
+doc rank = 1
+total Score = 60
+frequency = 1
+order process = 44
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 58
+doc rank = 1
+total Score = 61
+frequency = 1
+order process = 32
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 61
+doc rank = 1
+total Score = 64
+frequency = 1
+order process = 24
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 62
+doc rank = 1
+total Score = 65
+frequency = 1
+order process = 40
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 63
+doc rank = 1
+total Score = 66
+frequency = 1
+order process = 28
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 64
+doc rank = 1
+total Score = 67
+frequency = 1
+order process = 16
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
+
+this.answer = penguasa
+passage rank = 2
+distance = 69
+doc rank = 1
+total Score = 72
+frequency = 1
+order process = 12
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+document Title = perpaduan tradisi lokal, hindu-budha, dan islam dalam institusi sosial masyarakat di berbagai daerah
 
 
 

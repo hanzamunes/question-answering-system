@@ -1,11 +1,9 @@
 rank,document,verdict
 1,dok253.txt,AC
-2,dok402.txt,WA
+2,dok198.txt,AC
 3,dok252.txt,WA
-4,dok198.txt,AC
-5,dok365.txt,AC
+4,dok190.txt,AC
+5,dok301.txt,AC
 6,dok248.txt,AC
-7,dok353.txt,WA
-8,dok190.txt,AC
-9,dok261.txt,WA
-10,dok301.txt,AC
+7,dok402.txt,WA
+8,dok365.txt,AC

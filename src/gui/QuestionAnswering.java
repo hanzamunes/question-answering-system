@@ -25,6 +25,7 @@ import com.tutorialspoint.lucene.StopWord;
 
 import answerProcessing.AnswerExtraction;
 import answerProcessing.AnswerModel;
+import core.MRRImprover;
 import core.Query;
 import core.Utils;
 import evaluation.MeanReciprocalRank;
@@ -61,6 +62,7 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
@@ -102,13 +104,15 @@ public class QuestionAnswering
 	private JSpinner answerSpinner;
 	private JSpinner passageSpinner;
 	private JSpinner spinnerPercobaan;
+	private JTextField textField_5;
+	private String csvDocumentPathFolder;
 	
 	class runQuestionAnswering extends SwingWorker<Integer,Integer>
 	{
 		protected Integer doInBackground() throws Exception
 	    {
 			LuceneTester tester = new LuceneTester();
-			jawaban = tester.runSearcher(textFieldPertanyaan.getText()).get(0);
+			jawaban = tester.runSearcher(textFieldPertanyaan.getText(),false,true,true).get(0);
 			
 	        return 42;
 	    }
@@ -125,23 +129,26 @@ public class QuestionAnswering
 	{
 		protected Integer doInBackground() throws Exception
 	    {
+			MRRImprover im = new MRRImprover("improveList.txt");
+			ArrayList<String> list = im.getImprovedQuery();
 			File dir = new File (csvAnswerPath);
-			File[] dirList = dir.listFiles();
+			File[] dirList = Utils.sortFiles(dir.listFiles());
 			List<String[]> dataset = new ArrayList<String[]>();
-			dataset.add( new String[]{"Mean Reciprocal Rank"});
+			dataset.add( new String[]{"file name","Mean Reciprocal Rank"});
 			for (File file:dirList)
 			{
 				if (!file.getName().equals("allMRR.csv") && file.isFile())
 				{
-					MeanReciprocalRank mrr = new MeanReciprocalRank(file.getAbsolutePath());
+					MeanReciprocalRank mrr = new MeanReciprocalRank(file.getAbsolutePath()/*,list*/);
 					double hasil = mrr.calculateMRR();
-					long persen = Math.round(hasil * 100);
+					//long persen = Math.round(Math.ceil(hasil * 100));
+					long persen = Math.round(hasil*100);
 					String per = persen+"%";
-					dataset.add(new String[]{per});
+					dataset.add(new String[]{file.getName(),per});
 				}
 				
 			}
-			String savePath = Utils.saveRetrievedAnswerPath+"allMRR.csv";
+			String savePath = "debug question answering/hasil bersih/listRetrievedAnswer/allMRR.csv";
 			CSVWriter write = new CSVWriter (new FileWriter (savePath));
 			write.writeAll(dataset);
 			write.close();
@@ -189,6 +196,75 @@ public class QuestionAnswering
 	    }
 	}
 	
+	class calculatePrecisionAndRecallBatch extends SwingWorker<Integer,Integer>
+	{
+		protected Integer doInBackground() throws Exception
+	    {
+			MRRImprover im = new MRRImprover("improveList.txt");
+			ArrayList<String> list = im.getImprovedQuery();
+			for (int i=0;i<list.size();i++)
+			{
+				String fix = list.get(i).replaceAll("\\p{Punct}","").toLowerCase().trim();
+				list.set(i, fix);
+			}
+			File root = new File (csvDocumentPathFolder);
+			File[] rootList = Utils.sortDir(root.listFiles());
+			for (int i=0;i<rootList.length;i++)
+			{
+				System.out.println(rootList[i]);
+			}
+			List<String[]> meanAveragePrecision = new ArrayList<String[]>();
+			meanAveragePrecision.add(new String[]{"Percobaan ke","Mean Average Precision"});
+			int i=0;
+			for (File dir:rootList)
+			{
+				i++;
+				if (dir.isDirectory())
+				{
+					File[] dirList = dir.listFiles();
+					ArrayList<Double> averagePrecision = new ArrayList<Double>();
+					for (File file:dirList)
+					{
+						if (file.isFile())
+						{
+							String question = file.getName();
+							PrecisionAndRecall par = new PrecisionAndRecall(file.getAbsolutePath());
+							double[] precision = par.calculatePrecision();
+							double[] recall = par.calculateRecall();
+							double avgPrecision = par.calculateAvaragePrecision(precision);
+							String temp = question.replace(".csv", "").toLowerCase().trim();
+							if (!list.contains(temp))
+							{
+								averagePrecision.add(avgPrecision);
+							}
+							String savePath = "debug question answering/listPrecisionAndRecallResult/percobaan "+i+"/";
+							par.savePrecisionAndRecall(savePath, file.getAbsolutePath(), question, precision, recall, avgPrecision);
+						}
+					}
+					System.out.println(averagePrecision.size());
+					double te = PrecisionAndRecall.calculateMeanAveragePrecision (averagePrecision);
+					long percent = Math.round(te * 100);
+					String per = percent+"%";
+					meanAveragePrecision.add(new String[]{dir.getName(),per});
+				}
+				
+			}
+			
+			String savePath = "debug question answering/hasil bersih/listPrecisionAndRecallResult/allMAP.csv";
+			CSVWriter write = new CSVWriter (new FileWriter (savePath));
+			write.writeAll(meanAveragePrecision);
+			write.close();
+			
+	        return 42;
+	    }
+
+	    protected void done()
+	    {
+	    	JOptionPane.showMessageDialog(null, "penghitungan selesai", "selesai", JOptionPane.INFORMATION_MESSAGE);
+	    	
+	    }
+	}
+	
 	class runCreateCSV extends SwingWorker<Integer,Integer>
 	{
 		protected Integer doInBackground() throws Exception
@@ -225,7 +301,12 @@ public class QuestionAnswering
 				String temp = query;
 				temp = temp.replaceAll("\\p{Punct}", "");
 				String path = Utils.saveRetrievedDocumentPath+temp+".csv";
-				ArrayList<AnswerModel>listJawaban =  tester.runSearcherWithDebug(query, path, relevanceFeedback ,sentenceBased);
+				boolean createIndex = false;
+				if (in==1)
+				{
+					createIndex = false;
+				}
+				ArrayList<AnswerModel>listJawaban =  tester.runSearcherWithDebug(query, path, relevanceFeedback ,sentenceBased,createIndex);
 				for (int i=0;i<Utils.topNAnswer;i++)
 				{
 					if (!listJawaban.isEmpty())
@@ -519,7 +600,7 @@ public class QuestionAnswering
 		panel2.add(docLimitTextField);
 		
 		termLimitTextField = new JTextField();
-		termLimitTextField.setText("100");
+		termLimitTextField.setText("10");
 		termLimitTextField.setFont(new Font("SansSerif", Font.PLAIN, 10));
 		termLimitTextField.setColumns(10);
 		termLimitTextField.setBounds(271, 160, 39, 28);
@@ -598,7 +679,7 @@ public class QuestionAnswering
 		panel3.add(lbluntukPrecisionRecall);
 		
 		JLabel lblSaveLocation = new JLabel(Utils.savePrecisionAndRecallResultPath);
-		lblSaveLocation.setBounds(88, 173, 397, 16);
+		lblSaveLocation.setBounds(76, 173, 457, 16);
 		panel3.add(lblSaveLocation);
 		
 		JLabel lblNomorPercobaan = new JLabel("Nomor Percobaan");
@@ -673,6 +754,46 @@ public class QuestionAnswering
 		textField_4.setColumns(10);
 		frame.getContentPane().add(tabbedPane);
 		
+		JPanel panel5 = new JPanel();
+		panel5.setLayout(null);
 		
+		tabbedPane.add("precision and recall Batch", panel5);
+		
+		JLabel lblRetrievedDocumentPath = new JLabel("Retrieved document path");
+		lblRetrievedDocumentPath.setBounds(6, 6, 156, 16);
+		panel5.add(lblRetrievedDocumentPath);
+		
+		textField_5 = new JTextField();
+		textField_5.setEditable(false);
+		textField_5.setBounds(6, 28, 419, 28);
+		panel5.add(textField_5);
+		textField_5.setColumns(10);
+		
+		JButton btnBrowse_3 = new JButton("Browse");
+		btnBrowse_3.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				JFileChooser j = new JFileChooser();
+				j.setCurrentDirectory(new java.io.File("."));
+				j.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+				j.setAcceptAllFileFilterUsed(false);
+				 
+		        int rVal = j.showOpenDialog(null);
+		        if (rVal == JFileChooser.APPROVE_OPTION) {
+		          textField_5.setText(j.getSelectedFile().toString());
+		          csvDocumentPathFolder = j.getSelectedFile().toString();
+		        }
+			}
+		});
+		btnBrowse_3.setBounds(437, 28, 90, 28);
+		panel5.add(btnBrowse_3);
+		
+		JButton btnRunBatch = new JButton("Run batch");
+		btnRunBatch.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				new calculatePrecisionAndRecallBatch().execute();
+			}
+		});
+		btnRunBatch.setBounds(220, 80, 90, 28);
+		panel5.add(btnRunBatch);
 	}
 }

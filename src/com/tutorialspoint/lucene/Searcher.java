@@ -35,7 +35,7 @@ public class Searcher {
       FSDirectory indexDirectory = 
          FSDirectory.open(new File(indexDirectoryPath));
       IndexReader idxreader = IndexReader.open(indexDirectory);
-      StopWord stop = new StopWord("stopword_list_tala.txt");
+      //StopWord stop = new StopWord("stopword_list_tala.txt");
       indexSearcher = new IndexSearcher(idxreader);
       PrintWriter write = new PrintWriter ("tfidf.txt");
       TermEnum termEnum = idxreader.terms();

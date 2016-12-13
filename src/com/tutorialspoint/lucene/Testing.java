@@ -23,7 +23,7 @@ public class Testing {
 		ArrayList<ArrayList<String>> passage = new ArrayList<ArrayList<String>>();
 		final org.w3c.dom.Document doc = javax.xml.parsers.DocumentBuilderFactory.newInstance()
 	  		    .newDocumentBuilder()
-	  		    .parse(new File ("C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\datadokumen\\doc7.txt"));
+	  		    .parse(new File ("C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\datadokumen\\doc7.txt"));
 		final org.w3c.dom.NodeList field = doc.getElementsByTagName("field");
 		String[] token = field.item(2).getTextContent().split(" ");
 		for (int i=0;i<token.length;i++)

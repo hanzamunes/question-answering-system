@@ -1,481 +1,481 @@
-urutan,pertanyaan,jawaban,verdict
-1,Siapa presiden pada masa orde baru?,presiden ri,WA
-2,Siapa presiden pada masa orde baru?,presiden k.h abdurrahman wahid,WA
-3,Siapa presiden pada masa orde baru?,presiden k.h abdurrahman wahid,WA
-4,Siapa presiden pada masa orde baru?,manipulatif,WA
-5,Siapa presiden pada masa orde baru?,presiden abdurrahman wahid,WA
-6,Siapa presiden pada masa orde baru?,presiden soekarno,WA
-7,Siapa presiden pada masa orde baru?,presiden soekarno,WA
-8,Siapa presiden pada masa orde baru?,presiden soekarno,WA
-9,Dimana konferensi asia afrika diselenggarakan?,kolombo,WA
-10,Dimana konferensi asia afrika diselenggarakan?,jenewa,WA
-11,Dimana konferensi asia afrika diselenggarakan?,kolombo,WA
-12,Dimana konferensi asia afrika diselenggarakan?,dunia,WA
-13,Dimana konferensi asia afrika diselenggarakan?,dunia,WA
-14,Dimana konferensi asia afrika diselenggarakan?,asia,WA
-15,Dimana konferensi asia afrika diselenggarakan?,kolombo,WA
-16,Dimana konferensi asia afrika diselenggarakan?,kolombo,WA
-17,Siapa presiden pertama Indonesia?,presiden pm,WA
-18,Siapa presiden pertama Indonesia?,mr sjafruddin prawiranegara presiden republik indonesia,WA
-19,Siapa presiden pertama Indonesia?,mr sjafruddin prawiranegara presiden republik indonesia,WA
-20,Siapa presiden pertama Indonesia?,indische partij,WA
-21,Siapa presiden pertama Indonesia?,presiden,WA
-22,Siapa presiden pertama Indonesia?,cipto mangunkusumo,WA
-23,Siapa presiden pertama Indonesia?,6.00 pagi belanda,WA
-24,Siapa presiden pertama Indonesia?,6.00 pagi belanda,WA
-25,Kapan diponegoro wafat?,tanggal 12 rabiul awal 822,WA
-26,Kapan diponegoro wafat?,tahun 1560,WA
-27,Kapan diponegoro wafat?,pertengahan abad 15,WA
-28,Kapan diponegoro wafat?,tahun 1600,WA
-29,Kapan diponegoro wafat?,9 april 1419,WA
-30,Kapan diponegoro wafat?,tahun 1450,WA
-31,Kapan diponegoro wafat?,tahun 1570,WA
-32,Kapan diponegoro wafat?,NO ANSWER,WA
-33,Kapan perjanjian saragosa terjadi?,22 april 1529,AC
-34,Kapan perjanjian saragosa terjadi?,22 april 1529,AC
-35,Kapan perjanjian saragosa terjadi?,22 april 1529,AC
-36,Kapan perjanjian saragosa terjadi?,22 april 1529,AC
-37,Kapan perjanjian saragosa terjadi?,22 april 1529,AC
-38,Kapan perjanjian saragosa terjadi?,22 april 1529,AC
-39,Kapan perjanjian saragosa terjadi?,22 april 1529,AC
-40,Kapan perjanjian saragosa terjadi?,22 april 1529,AC
-41,Kapan Budi Utomo didirikan?,tahun 1932,WA
-42,Kapan Budi Utomo didirikan?,tanggal 7 maret 1915,WA
-43,Kapan Budi Utomo didirikan?,tahun 1920,WA
-44,Kapan Budi Utomo didirikan?,tahun 1913,WA
-45,Kapan Budi Utomo didirikan?,tahun 1916,WA
-46,Kapan Budi Utomo didirikan?,tahun 1911,WA
-47,Kapan Budi Utomo didirikan?,tahun 1911,WA
-48,Kapan Budi Utomo didirikan?,tahun 1917,WA
-49,Siapa pendiri Taman Siswa?,kaum pribumi,WA
-50,Siapa pendiri Taman Siswa?,pawiyatan wanito,WA
-51,Siapa pendiri Taman Siswa?,pawiyatan wanito,WA
-52,Siapa pendiri Taman Siswa?,wanito susilo,WA
-53,Siapa pendiri Taman Siswa?,wanito susilo,WA
-54,Siapa pendiri Taman Siswa?,masyarakat pribumi,WA
-55,Siapa pendiri Taman Siswa?,wanito utomo,WA
-56,Siapa pendiri Taman Siswa?,wanito utomo,WA
-57,Dimana letak kerajaan sriwijaya?,palembang,AC
-58,Dimana letak kerajaan sriwijaya?,daerah,WA
-59,Dimana letak kerajaan sriwijaya?,provinsi sumatera,AC
-60,Dimana letak kerajaan sriwijaya?,india,WA
-61,Dimana letak kerajaan sriwijaya?,daerah,WA
-62,Dimana letak kerajaan sriwijaya?,indonesia,WA
-63,Dimana letak kerajaan sriwijaya?,kadaram,WA
-64,Dimana letak kerajaan sriwijaya?,india,WA
-65,Kapan taman siswa didirikan?,tahun 1294,WA
-66,Kapan taman siswa didirikan?,1922,AC
-67,Kapan taman siswa didirikan?,1922,AC
-68,Kapan taman siswa didirikan?,1922,AC
-69,Kapan taman siswa didirikan?,1922,AC
-70,Kapan taman siswa didirikan?,1919,WA
-71,Kapan taman siswa didirikan?,1915,WA
-72,Kapan taman siswa didirikan?,1919,WA
-73,dimana budi utomo didirikan?,batavia,AC
-74,dimana budi utomo didirikan?,batavia,AC
-75,dimana budi utomo didirikan?,batavia,AC
-76,dimana budi utomo didirikan?,batavia,AC
-77,dimana budi utomo didirikan?,yogyakarta,WA
-78,dimana budi utomo didirikan?,batavia,AC
-79,dimana budi utomo didirikan?,batavia,AC
-80,dimana budi utomo didirikan?,batavia,AC
-81,dimana taman siswa didirikan?,yogyakarta,AC
-82,dimana taman siswa didirikan?,yogyakarta,AC
-83,dimana taman siswa didirikan?,medan,WA
-84,dimana taman siswa didirikan?,yogyakarta,AC
-85,dimana taman siswa didirikan?,yogyakarta,AC
-86,dimana taman siswa didirikan?,medan,WA
-87,dimana taman siswa didirikan?,negeri belanda,WA
-88,dimana taman siswa didirikan?,yogyakarta,AC
-89,kapan konferensi asia afrika diselenggarakan?,bulan 18 24 april 1955,AC
-90,kapan konferensi asia afrika diselenggarakan?,tanggal 18 24 april 1955,AC
-91,kapan konferensi asia afrika diselenggarakan?,tanggal 18 24 april 1955,AC
-92,kapan konferensi asia afrika diselenggarakan?,bulan 18 24 april 1955,AC
-93,kapan konferensi asia afrika diselenggarakan?,tanggal 18 24 april 1955,AC
-94,kapan konferensi asia afrika diselenggarakan?,tanggal 18 24 april 1955,AC
-95,kapan konferensi asia afrika diselenggarakan?,tanggal 28 29 desember 1954,WA
-96,kapan konferensi asia afrika diselenggarakan?,bulan 18 24 april 1955,AC
-97,kapan hayam wuruk wafat?,tahun 1350,WA
-98,kapan hayam wuruk wafat?,1350 1389,AC
-99,kapan hayam wuruk wafat?,tahun 1389,AC
-100,kapan hayam wuruk wafat?,1350 1389,AC
-101,kapan hayam wuruk wafat?,tahun 1389,AC
-102,kapan hayam wuruk wafat?,tahun 1350,WA
-103,kapan hayam wuruk wafat?,1350 1389,AC
-104,kapan hayam wuruk wafat?,tahun 1350,WA
-105,siapa wali songo yang menggunakan media pertunjukan wayang?,walisongo,WA
-106,siapa wali songo yang menggunakan media pertunjukan wayang?,mubalig keliling,WA
-107,siapa wali songo yang menggunakan media pertunjukan wayang?,walisongo,WA
-108,siapa wali songo yang menggunakan media pertunjukan wayang?,mubalig keliling,WA
-109,siapa wali songo yang menggunakan media pertunjukan wayang?,walisongo,WA
-110,siapa wali songo yang menggunakan media pertunjukan wayang?,songo,WA
-111,siapa wali songo yang menggunakan media pertunjukan wayang?,walisongo,WA
-112,siapa wali songo yang menggunakan media pertunjukan wayang?,songo,WA
-113,siapa pemimpin kerajaan tidore?,sultan kaicil buko,WA
-114,siapa pemimpin kerajaan tidore?,sultan kaicil buko,WA
-115,siapa pemimpin kerajaan tidore?,kabinet sastroamijoyo,WA
-116,siapa pemimpin kerajaan tidore?,kabinet sastroamijoyo,WA
-117,siapa pemimpin kerajaan tidore?,sultan kaicil buko,WA
-118,siapa pemimpin kerajaan tidore?,sultan kaicil buko,WA
-119,siapa pemimpin kerajaan tidore?,rakyat indonesia,WA
-120,siapa pemimpin kerajaan tidore?,pedagang,WA
-121,kapan belanda datang ke maluku?,tahun 1914,WA
-122,kapan belanda datang ke maluku?,bulan mei 1949,WA
-123,kapan belanda datang ke maluku?,tahun 1913,WA
-124,kapan belanda datang ke maluku?,bulan juli 1949,WA
-125,kapan belanda datang ke maluku?,tahun 1913,WA
-126,kapan belanda datang ke maluku?,tahun 1916,WA
-127,kapan belanda datang ke maluku?,tahun 1916,WA
-128,kapan belanda datang ke maluku?,tahun 1917,WA
-129,kapan portugis datang ke maluku?,1521,WA
-130,kapan portugis datang ke maluku?,1521,WA
-131,kapan portugis datang ke maluku?,tahun 1522,WA
-132,kapan portugis datang ke maluku?,tahun 1522,WA
-133,kapan portugis datang ke maluku?,1498,WA
-134,kapan portugis datang ke maluku?,1498,WA
-135,kapan portugis datang ke maluku?,tahun 1527,WA
-136,kapan portugis datang ke maluku?,tahun 1511,WA
-137,siapa yang menandatangani perjanjian bongaya?,sekutu,WA
-138,siapa yang menandatangani perjanjian bongaya?,wikana,WA
-139,siapa yang menandatangani perjanjian bongaya?,tokoh tokoh pemuda,WA
-140,siapa yang menandatangani perjanjian bongaya?,sukarno,WA
-141,siapa yang menandatangani perjanjian bongaya?,NO ANSWER,WA
-142,siapa yang menandatangani perjanjian bongaya?,NO ANSWER,WA
-143,siapa yang menandatangani perjanjian bongaya?,NO ANSWER,WA
-144,siapa yang menandatangani perjanjian bongaya?,NO ANSWER,WA
-145,kapan perjanjian bongaya ditandatangani?,tanggal 18 nopember 1667,AC
-146,kapan perjanjian bongaya ditandatangani?,tanggal 18 nopember 1667,AC
-147,kapan perjanjian bongaya ditandatangani?,15 agustus 1950,WA
-148,kapan perjanjian bongaya ditandatangani?,15 agustus 1950,WA
-149,kapan perjanjian bongaya ditandatangani?,tanggal 18 nopember 1667,AC
-150,kapan perjanjian bongaya ditandatangani?,tanggal 18 nopember 1667,AC
-151,kapan perjanjian bongaya ditandatangani?,1667 1669,WA
-152,kapan perjanjian bongaya ditandatangani?,1667 1669,WA
-153,siapa penulis kitab negara kertagama?,masyarakat,WA
-154,siapa penulis kitab negara kertagama?,masyarakat,WA
-155,siapa penulis kitab negara kertagama?,dharmadhyaksa ring kasaiwan,WA
-156,siapa penulis kitab negara kertagama?,kepala agama siwa,WA
-157,siapa penulis kitab negara kertagama?,raden wijaya,WA
-158,siapa penulis kitab negara kertagama?,raden wijaya,WA
-159,siapa penulis kitab negara kertagama?,rama kudadu,WA
-160,siapa penulis kitab negara kertagama?,rama kudadu,WA
-161,kapan voc didirikan?,32 tahun,WA
-162,kapan voc didirikan?,32 tahun,WA
-163,kapan voc didirikan?,tanggal 25 desember 1679,WA
-164,kapan voc didirikan?,tanggal 25 desember 1679,WA
-165,kapan voc didirikan?,tanggal 2 januari 1680,WA
-166,kapan voc didirikan?,tanggal 25 desember 1679,WA
-167,kapan voc didirikan?,tanggal 2 januari 1680,WA
-168,kapan voc didirikan?,tanggal 25 desember 1679,WA
-169,kapan voc dibubarkan?,masa paku buwono,WA
-170,kapan voc dibubarkan?,32 tahun,WA
-171,kapan voc dibubarkan?,32 tahun,WA
-172,kapan voc dibubarkan?,1670,WA
-173,kapan voc dibubarkan?,tanggal 25 desember 1679,WA
-174,kapan voc dibubarkan?,1670,WA
-175,kapan voc dibubarkan?,tanggal 2 januari 1680,WA
-176,kapan voc dibubarkan?,1613 1629,WA
-177,siapa multatuli?,nurani rakyat belanda,WA
-178,siapa multatuli?,rakyat indonesia,WA
-179,siapa multatuli?,pemerintah belanda,WA
-180,siapa multatuli?,pemerintah belanda,WA
-181,siapa multatuli?,parlemen belanda,WA
-182,siapa multatuli?,NO ANSWER,WA
-183,siapa multatuli?,NO ANSWER,WA
-184,siapa multatuli?,NO ANSWER,WA
-185,dimana pattimura dilahirkan?,kepulauan maluku,AC
-186,dimana pattimura dilahirkan?,kepulauan maluku,AC
-187,dimana pattimura dilahirkan?,eropa,WA
-188,dimana pattimura dilahirkan?,eropa,WA
-189,dimana pattimura dilahirkan?,rumahnya,WA
-190,dimana pattimura dilahirkan?,NO ANSWER,WA
-191,dimana pattimura dilahirkan?,NO ANSWER,WA
-192,dimana pattimura dilahirkan?,NO ANSWER,WA
-193,kapan pangeran antasari wafat?,11 oktober 1862,AC
-194,kapan pangeran antasari wafat?,11 oktober 1862,AC
-195,kapan pangeran antasari wafat?,tahun 1595,WA
-196,kapan pangeran antasari wafat?,tahun 1663,WA
-197,kapan pangeran antasari wafat?,tahun 1595,WA
-198,kapan pangeran antasari wafat?,11 oktober 1862,AC
-199,kapan pangeran antasari wafat?,11 oktober 1862,AC
-200,kapan pangeran antasari wafat?,14 maret 1862,WA
-201,dimana pangeran antasari wafat?,kampung,WA
-202,dimana pangeran antasari wafat?,kampung,WA
-203,dimana pangeran antasari wafat?,jawa,WA
-204,dimana pangeran antasari wafat?,jawa,WA
-205,dimana pangeran antasari wafat?,martapura,WA
-206,dimana pangeran antasari wafat?,martapura,WA
-207,dimana pangeran antasari wafat?,kampung,WA
-208,dimana pangeran antasari wafat?,kampung,WA
-209,kapan ekspedisi pertama belanda di bali terjadi?,1846,AC
-210,kapan ekspedisi pertama belanda di bali terjadi?,1846,AC
-211,kapan ekspedisi pertama belanda di bali terjadi?,masa kabineg natsir tahun 1950,WA
-212,kapan ekspedisi pertama belanda di bali terjadi?,masa kabineg natsir tahun 1950,WA
-213,kapan ekspedisi pertama belanda di bali terjadi?,masa kabineg natsir tahun 1950,WA
-214,kapan ekspedisi pertama belanda di bali terjadi?,tanggal 3 mei 1956,WA
-215,kapan ekspedisi pertama belanda di bali terjadi?,1846,AC
-216,kapan ekspedisi pertama belanda di bali terjadi?,1848,WA
-217,kapan perlawanan di aceh terjadi?,tanggal 19 september 1945,WA
-218,kapan perlawanan di aceh terjadi?,tanggal 14 april 1873,AC
-219,kapan perlawanan di aceh terjadi?,tahun 1879,AC
-220,kapan perlawanan di aceh terjadi?,tanggal 14 april 1873,AC
-221,kapan perlawanan di aceh terjadi?,tanggal 28 januari 1874,AC
-222,kapan perlawanan di aceh terjadi?,tanggal 10 november 1945,WA
-223,kapan perlawanan di aceh terjadi?,tanggal 26 maret 1873,AC
-224,kapan perlawanan di aceh terjadi?,tanggal 26 maret 1873,AC
-225,siapa pendiri budi utomo?,utomo,WA
-226,siapa pendiri budi utomo?,parindra partindo,WA
-227,siapa pendiri budi utomo?,parindra partindo,WA
-228,siapa pendiri budi utomo?,mahasiswa,AC
-229,siapa pendiri budi utomo?,indische partij,WA
-230,siapa pendiri budi utomo?,indische partij,WA
-231,siapa pendiri budi utomo?,organisasi pemuda,AC
-232,siapa pendiri budi utomo?,indische partij muhammadiyah,WA
-233,kapan sarekat islam didirikan?,tahun 1911,AC
-234,kapan sarekat islam didirikan?,tahun 1926,WA
-235,kapan sarekat islam didirikan?,tahun 1911,AC
-236,kapan sarekat islam didirikan?,tahun 1914,WA
-237,kapan sarekat islam didirikan?,tahun 1911,AC
-238,kapan sarekat islam didirikan?,tahun 1914,WA
-239,kapan sarekat islam didirikan?,tahun 1911,AC
-240,kapan sarekat islam didirikan?,tahun 1915,WA
-241,siapa pendiri sarekat islam?,indische partij,WA
-242,siapa pendiri sarekat islam?,indische partij,WA
-243,siapa pendiri sarekat islam?,indische partij muhammadiyah,WA
-244,siapa pendiri sarekat islam?,indische partij muhammadiyah,WA
-245,siapa pendiri sarekat islam?,indische partij,WA
-246,siapa pendiri sarekat islam?,parindra partindo,WA
-247,siapa pendiri sarekat islam?,indische partij,WA
-248,siapa pendiri sarekat islam?,mahasiswa,WA
-249,kapan indische partij didirikan?,tanggal 23 mei 1920,WA
-250,kapan indische partij didirikan?,tahun 1926,WA
-251,kapan indische partij didirikan?,tahun 1913,WA
-252,kapan indische partij didirikan?,tahun 1926,WA
-253,kapan indische partij didirikan?,tahun 1913,WA
-254,kapan indische partij didirikan?,tanggal 22 desember 1908,WA
-255,kapan indische partij didirikan?,tahun 1923,WA
-256,kapan indische partij didirikan?,tahun 1914,WA
-257,dimana muhammadiyah didirikan?,yogyakarta,AC
-258,dimana muhammadiyah didirikan?,yogyakarta,AC
-259,dimana muhammadiyah didirikan?,jakarta,WA
-260,dimana muhammadiyah didirikan?,bandung,WA
-261,dimana muhammadiyah didirikan?,yogyakarta,AC
-262,dimana muhammadiyah didirikan?,yogyakarta,AC
-263,dimana muhammadiyah didirikan?,sumedang cianjur,WA
-264,dimana muhammadiyah didirikan?,pulau jawa,WA
-265,kapan muhammadiyah didirikan?,tanggal 1 januari 1925,WA
-266,kapan muhammadiyah didirikan?,tanggal 31 januari 1926,WA
-267,kapan muhammadiyah didirikan?,tahun 1932,WA
-268,kapan muhammadiyah didirikan?,tahun 1920,WA
-269,kapan muhammadiyah didirikan?,tahun 1913,WA
-270,kapan muhammadiyah didirikan?,tanggal 12 17 maret 1925,WA
-271,kapan muhammadiyah didirikan?,tanggal 12 17 maret 1925,WA
-272,kapan muhammadiyah didirikan?,1912,AC
-273,kapan partai komunis indonesia berdiri?,tanggal 23 mei 1920,WA
-274,kapan partai komunis indonesia berdiri?,tanggal 23 mei 1920,WA
-275,kapan partai komunis indonesia berdiri?,tahun 1926,WA
-276,kapan partai komunis indonesia berdiri?,tahun 1926,WA
-277,kapan partai komunis indonesia berdiri?,tahun 1919,WA
-278,kapan partai komunis indonesia berdiri?,tahun 1956,WA
-279,kapan partai komunis indonesia berdiri?,tanggal 1 juni 1949,WA
-280,kapan partai komunis indonesia berdiri?,tahun 1926,WA
-281,siapa yang membawa ajaran marxis?,belanda,WA
-282,siapa yang membawa ajaran marxis?,belanda,WA
-283,siapa yang membawa ajaran marxis?,belanda,WA
-284,siapa yang membawa ajaran marxis?,belanda,WA
-285,siapa yang membawa ajaran marxis?,indische partij,WA
-286,siapa yang membawa ajaran marxis?,presiden,WA
-287,siapa yang membawa ajaran marxis?,indische partij,WA
-288,siapa yang membawa ajaran marxis?,presiden,WA
-289,kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?,tahun 1925,WA
-290,kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?,tanggal 15 juli 1936,WA
-291,kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?,tanggal 13 november 1926,WA
-292,kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?,tahun 1926,WA
-293,kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?,tahun 1926,WA
-294,kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?,tahun 1926,WA
-295,kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?,tanggal 4 juli 1927,WA
-296,kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?,tanggal 4 juli 1927,WA
-297,kapan sumpah pemuda terjadi?,tahun 1321,WA
-298,kapan sumpah pemuda terjadi?,tahun 1331,WA
-299,kapan sumpah pemuda terjadi?,1328 1350,WA
-300,kapan sumpah pemuda terjadi?,tahun 1328,WA
-301,kapan sumpah pemuda terjadi?,tahun 1328,WA
-302,kapan sumpah pemuda terjadi?,masa pemerintahannya,WA
-303,kapan sumpah pemuda terjadi?,tahun 1364,WA
-304,kapan sumpah pemuda terjadi?,1311,WA
-305,kapan partai nasional indonesia lahir?,tanggal 11 november 1945,WA
-306,kapan partai nasional indonesia lahir?,1945,WA
-307,kapan partai nasional indonesia lahir?,tanggal 4 juli 1927,AC
-308,kapan partai nasional indonesia lahir?,uud 1945,WA
-309,kapan partai nasional indonesia lahir?,tanggal 11 november 1945,WA
-310,kapan partai nasional indonesia lahir?,tanggal 11 november 1945,WA
-311,kapan partai nasional indonesia lahir?,tanggal 4 juli 1927,AC
-312,kapan partai nasional indonesia lahir?,tanggal 27 30 mei 1928,WA
-313,kapan sistem tanam paksa diterapkan?,tahun 1850,WA
-314,kapan sistem tanam paksa diterapkan?,tahun 1850,WA
-315,kapan sistem tanam paksa diterapkan?,1830,AC
-316,kapan sistem tanam paksa diterapkan?,tahun 1850,WA
-317,kapan sistem tanam paksa diterapkan?,abad 19,WA
-318,kapan sistem tanam paksa diterapkan?,abad 19,WA
-319,kapan sistem tanam paksa diterapkan?,tahun 1865 tembakau tahun 1866,WA
-320,kapan sistem tanam paksa diterapkan?,abad 19,WA
-321,kapan sidang kabinet dwikora diadakan?,tanggal 20 nopember 1956,WA
-322,kapan sidang kabinet dwikora diadakan?,29 mei,WA
-323,kapan sidang kabinet dwikora diadakan?,1 juni 1945,WA
-324,kapan sidang kabinet dwikora diadakan?,masa orde,WA
-325,kapan sidang kabinet dwikora diadakan?,uud 1945,WA
-326,kapan sidang kabinet dwikora diadakan?,29 mei,WA
-327,kapan sidang kabinet dwikora diadakan?,1 juni 1945,WA
-328,kapan sidang kabinet dwikora diadakan?,29 mei,WA
-329,kapan supersemar dikeluarkan?,tanggal 11 maret 1966,AC
-330,kapan supersemar dikeluarkan?,tanggal 11 maret 1966,AC
-331,kapan supersemar dikeluarkan?,11 maret 1966,AC
-332,kapan supersemar dikeluarkan?,11 maret 1966,AC
-333,kapan supersemar dikeluarkan?,peringatan hari kemerdekaan 17 agustus 1966,WA
-334,kapan supersemar dikeluarkan?,11 maret 1966,AC
-335,kapan supersemar dikeluarkan?,uud 1945,WA
-336,kapan supersemar dikeluarkan?,tanggal 12 maret 1966,WA
-337,siapa pemimpin APRA?,partai masyumi,WA
-338,siapa pemimpin APRA?,partai masyumi,WA
-339,siapa pemimpin APRA?,muhammad natsir,WA
-340,siapa pemimpin APRA?,sukiman wiryosanjoyo,WA
-341,siapa pemimpin APRA?,mr wilopo,WA
-342,siapa pemimpin APRA?,dr,WA
-343,siapa pemimpin APRA?,perdana menteri,WA
-344,siapa pemimpin APRA?,muhammad natsir,WA
-345,siapa pemimpin RMS?,laksamana mountbatten,WA
-346,siapa pemimpin RMS?,laksamana mountbatten,WA
-347,siapa pemimpin RMS?,perdana menteri syahrir,WA
-348,siapa pemimpin RMS?,perdana menteri syahrir,WA
-349,siapa pemimpin RMS?,kawan kawan tan malaka,WA
-350,siapa pemimpin RMS?,dr,WA
-351,siapa pemimpin RMS?,kolonel kawilarang,WA
-352,siapa pemimpin RMS?,mayor achmad wiranata,WA
-353,kapan gerakan non blok diselenggarakan?,1961,AC
-354,kapan gerakan non blok diselenggarakan?,tanggal 1 6 september 1961,AC
-355,kapan gerakan non blok diselenggarakan?,tanggal 5 10 oktober 1964,AC
-356,kapan gerakan non blok diselenggarakan?,tanggal 5 10 oktober 1964,AC
-357,kapan gerakan non blok diselenggarakan?,1961,AC
-358,kapan gerakan non blok diselenggarakan?,tahun 1961,AC
-359,kapan gerakan non blok diselenggarakan?,tanggal 1 6 september 1961,AC
-360,kapan gerakan non blok diselenggarakan?,tanggal 5 10 oktober 1964,AC
-361,kapan rengasdengklok terjadi?,tanggal 16 agustus 1945 pukul 04.30,AC
-362,kapan rengasdengklok terjadi?,tanggal 14 agustus 1945,WA
-363,kapan rengasdengklok terjadi?,tanggal 18 agustus 1945,WA
-364,kapan rengasdengklok terjadi?,tanggal 18 agustus 1945,WA
-365,kapan rengasdengklok terjadi?,1945,AC
-366,kapan rengasdengklok terjadi?,tanggal 17 agustus 1945,WA
-367,kapan rengasdengklok terjadi?,tanggal 16 agustus 1945 pukul 04.30,AC
-368,kapan rengasdengklok terjadi?,tanggal 22 juni 1945,WA
-369,kapan seinendan didirikan?,tanggal 29 april 1943,AC
-370,kapan seinendan didirikan?,tanggal 29 april 1943,AC
-371,kapan seinendan didirikan?,tanggal 29 april 1943,AC
-372,kapan seinendan didirikan?,tanggal 29 april 1943,AC
-373,kapan seinendan didirikan?,tanggal 29 april 1943,AC
-374,kapan seinendan didirikan?,tanggal 29 april 1943,AC
-375,kapan seinendan didirikan?,tanggal 29 april 1943,AC
-376,kapan seinendan didirikan?,tanggal 29 april 1943,AC
-377,kapan rakyat bali melawan belanda?,1846 1905,AC
-378,kapan rakyat bali melawan belanda?,1846 1905,AC
-379,kapan rakyat bali melawan belanda?,tanggal 10 november,WA
-380,kapan rakyat bali melawan belanda?,1846 1905,AC
-381,kapan rakyat bali melawan belanda?,tahun 1858,AC
-382,kapan rakyat bali melawan belanda?,1846 1905,AC
-383,kapan rakyat bali melawan belanda?,tahun 1858,AC
-384,kapan rakyat bali melawan belanda?,1846 1905,AC
-385,siapa penulis konsep naskah proklamasi?,sukarno,AC
-386,siapa penulis konsep naskah proklamasi?,mr ahmad subardjo,WA
-387,siapa penulis konsep naskah proklamasi?,sukarno,AC
-388,siapa penulis konsep naskah proklamasi?,sukarno,AC
-389,siapa penulis konsep naskah proklamasi?,sukarno,AC
-390,siapa penulis konsep naskah proklamasi?,rakyat indonesia,WA
-391,siapa penulis konsep naskah proklamasi?,mr ahmad subardjo,WA
-392,siapa penulis konsep naskah proklamasi?,sukarno,AC
-393,dimana konferensi meja bundar dilaksanakan?,jakara,WA
-394,dimana konferensi meja bundar dilaksanakan?,indonesia,WA
-395,dimana konferensi meja bundar dilaksanakan?,luar jawa,WA
-396,dimana konferensi meja bundar dilaksanakan?,luar jawa,WA
-397,dimana konferensi meja bundar dilaksanakan?,indonesia,WA
-398,dimana konferensi meja bundar dilaksanakan?,indonesia,WA
-399,dimana konferensi meja bundar dilaksanakan?,indonesia,WA
-400,dimana konferensi meja bundar dilaksanakan?,indonesia,WA
-401,dimana perjanjian renville dibuat?,daerah ri,WA
-402,dimana perjanjian renville dibuat?,daerah ri,WA
-403,dimana perjanjian renville dibuat?,daerah ri,WA
-404,dimana perjanjian renville dibuat?,daerah ri,WA
-405,dimana perjanjian renville dibuat?,wilayah indonesia,WA
-406,dimana perjanjian renville dibuat?,wilayah indonesia,WA
-407,dimana perjanjian renville dibuat?,madiun,WA
-408,dimana perjanjian renville dibuat?,wilayah indonesia,WA
-409,kapan perjanjian renville dilakukan?,bulan juni 1948,AC
-410,kapan perjanjian renville dilakukan?,bulan juni 1948,AC
-411,kapan perjanjian renville dilakukan?,tanggal 19 desember 1948,WA
-412,kapan perjanjian renville dilakukan?,tanggal 15 november 1946,WA
-413,kapan perjanjian renville dilakukan?,18 25 tahun,WA
-414,kapan perjanjian renville dilakukan?,18 25 tahun,WA
-415,kapan perjanjian renville dilakukan?,18 25 tahun,WA
-416,kapan perjanjian renville dilakukan?,bulan juni 1948,AC
-417,siapa pengetik naskah proklamasi?,sukarno,WA
-418,siapa pengetik naskah proklamasi?,mr ahmad subardjo,WA
-419,siapa pengetik naskah proklamasi?,sukarno,WA
-420,siapa pengetik naskah proklamasi?,bangsa indonesia,WA
-421,siapa pengetik naskah proklamasi?,bangsa indonesia,WA
-422,siapa pengetik naskah proklamasi?,bangsa indonesia,WA
-423,siapa pengetik naskah proklamasi?,mr ahmad subardjo,WA
-424,siapa pengetik naskah proklamasi?,sukarno,WA
-425,kapan pancasila lahir?,uud 1945,WA
-426,kapan pancasila lahir?,1945,WA
-427,kapan pancasila lahir?,1945,WA
-428,kapan pancasila lahir?,1945,WA
-429,kapan pancasila lahir?,tanggal 29 mei s d 1 juni 1945,AC
-430,kapan pancasila lahir?,tanggal 29 mei s d 1 juni 1945,AC
-431,kapan pancasila lahir?,1945,WA
-432,kapan pancasila lahir?,1945,WA
-433,siapa ketua ppki?,mr.ahmad soerbadjo,WA
-434,siapa ketua ppki?,prof mr dr soepomo,WA
-435,siapa ketua ppki?,prof mr dr soepomo,WA
-436,siapa ketua ppki?,mr achmad soebardjo,WA
-437,siapa ketua ppki?,pemuda,WA
-438,siapa ketua ppki?,soekarno panitia,AC
-439,siapa ketua ppki?,mr wongsonegoro mr achmad soebardjo mr a.a maramis mr r.p,WA
-440,siapa ketua ppki?,mr wongsonegoro mr achmad soebardjo mr a.a maramis mr r.p,WA
-441,kapan nagasaki dibom?,8 agustus 1945,WA
-442,kapan nagasaki dibom?,10 agustus 1945,WA
-443,kapan nagasaki dibom?,tanggal 9 agustus 1945,AC
-444,kapan nagasaki dibom?,14 agustus 1945,WA
-445,kapan nagasaki dibom?,tanggal 9 agustus 1945,AC
-446,kapan nagasaki dibom?,8 agustus 1945,WA
-447,kapan nagasaki dibom?,14 agustus 1945,WA
-448,kapan nagasaki dibom?,tanggal 14 agustus 1945,WA
-449,kapan hiroshima dibom?,6 agustus 1945,AC
-450,kapan hiroshima dibom?,tanggal 9 agustus 1945,WA
-451,kapan hiroshima dibom?,tanggal 8 agustus 1945,WA
-452,kapan hiroshima dibom?,tanggal 8 agustus 1945,WA
-453,kapan hiroshima dibom?,tanggal 8 agustus 1945,WA
-454,kapan hiroshima dibom?,10 agustus 1945,WA
-455,kapan hiroshima dibom?,14 agustus 1945,WA
-456,kapan hiroshima dibom?,tanggal 9 agustus 1945,WA
-457,kapan reformasi terjadi?,13 mei 1998,AC
-458,kapan reformasi terjadi?,1643 1715,WA
-459,kapan reformasi terjadi?,abad 18,WA
-460,kapan reformasi terjadi?,13 mei 1998,AC
-461,kapan reformasi terjadi?,19 agustus 1991,WA
-462,kapan reformasi terjadi?,tanggal 15 mei 1998,AC
-463,kapan reformasi terjadi?,tanggal 14 mei 1998,AC
-464,kapan reformasi terjadi?,tanggal 14 mei 1998,AC
-465,dimana letak kerajaan majapahit?,gujarat,WA
-466,dimana letak kerajaan majapahit?,makam leluhurnya,WA
-467,dimana letak kerajaan majapahit?,wilayah,WA
-468,dimana letak kerajaan majapahit?,makam leluhurnya,WA
-469,dimana letak kerajaan majapahit?,wilayah republik indonesia,WA
-470,dimana letak kerajaan majapahit?,wilayah republik indonesia,WA
-471,dimana letak kerajaan majapahit?,asia tenggara,WA
-472,dimana letak kerajaan majapahit?,gunung,WA
-473,kapan indonesia kembali menjadi anggota pbb?,tanggal 14 april 1949,WA
-474,kapan indonesia kembali menjadi anggota pbb?,tanggal 3 mei 1956,WA
-475,kapan indonesia kembali menjadi anggota pbb?,7 agustus 1945,WA
-476,kapan indonesia kembali menjadi anggota pbb?,masa kabineg natsir tahun 1950,WA
-477,kapan indonesia kembali menjadi anggota pbb?,masa kabinet burhanuddin,WA
-478,kapan indonesia kembali menjadi anggota pbb?,masa kabineg natsir tahun 1950,WA
-479,kapan indonesia kembali menjadi anggota pbb?,masa kabinet burhanuddin,WA
-480,kapan indonesia kembali menjadi anggota pbb?,tahun 1929,WA
+"urutan","pertanyaan","jawaban","verdict"
+"1","Siapa presiden pada masa orde baru?","presiden soekarno","WA"
+"2","Siapa presiden pada masa orde baru?","bangsa indonesia","WA"
+"3","Siapa presiden pada masa orde baru?","presiden soekarno","WA"
+"4","Siapa presiden pada masa orde baru?","bangsa indonesia","WA"
+"5","Siapa presiden pada masa orde baru?","presiden soekarno","WA"
+"6","Siapa presiden pada masa orde baru?","bangsa indonesia","WA"
+"7","Siapa presiden pada masa orde baru?","bangsa indonesia","WA"
+"8","Siapa presiden pada masa orde baru?","letjen soeharto","AC"
+"9","Dimana konferensi asia afrika diselenggarakan?","kolombo","WA"
+"10","Dimana konferensi asia afrika diselenggarakan?","jenewa","WA"
+"11","Dimana konferensi asia afrika diselenggarakan?","kolombo","WA"
+"12","Dimana konferensi asia afrika diselenggarakan?","dunia","WA"
+"13","Dimana konferensi asia afrika diselenggarakan?","dunia","WA"
+"14","Dimana konferensi asia afrika diselenggarakan?","asia","WA"
+"15","Dimana konferensi asia afrika diselenggarakan?","kolombo","WA"
+"16","Dimana konferensi asia afrika diselenggarakan?","kolombo","WA"
+"17","Siapa presiden pertama Indonesia?","orang indonesia asli","WA"
+"18","Siapa presiden pertama Indonesia?","orang indonesia orisinil","WA"
+"19","Siapa presiden pertama Indonesia?","presiden indonesia","WA"
+"20","Siapa presiden pertama Indonesia?","presiden republik indonesia","WA"
+"21","Siapa presiden pertama Indonesia?","radjiman wedyodiningrat","WA"
+"22","Siapa presiden pertama Indonesia?","rakyat indonesia","WA"
+"23","Siapa presiden pertama Indonesia?","rakyat indonesia","WA"
+"24","Siapa presiden pertama Indonesia?","mr muhammad","WA"
+"25","Kapan diponegoro wafat?","1749","WA"
+"26","Kapan diponegoro wafat?","1582","WA"
+"27","Kapan diponegoro wafat?","tahun 1601","WA"
+"28","Kapan diponegoro wafat?","tanggal 6 november 1864","WA"
+"29","Kapan diponegoro wafat?","periode 1830 1838","WA"
+"30","Kapan diponegoro wafat?","tahun 1677 1703","WA"
+"31","Kapan diponegoro wafat?","tanggal 12 september 1957","WA"
+"32","Kapan diponegoro wafat?","tanggal 12 september 1957","WA"
+"33","Kapan perjanjian saragosa terjadi?","1534","WA"
+"34","Kapan perjanjian saragosa terjadi?","22 april 1529","AC"
+"35","Kapan perjanjian saragosa terjadi?","22 april 1529","AC"
+"36","Kapan perjanjian saragosa terjadi?","1534","WA"
+"37","Kapan perjanjian saragosa terjadi?","tahun 1811","WA"
+"38","Kapan perjanjian saragosa terjadi?","22 april 1529","AC"
+"39","Kapan perjanjian saragosa terjadi?","22 april 1529","AC"
+"40","Kapan perjanjian saragosa terjadi?","1522","WA"
+"41","Kapan Budi Utomo didirikan?","tahun 1932","WA"
+"42","Kapan Budi Utomo didirikan?","tanggal 7 maret 1915","WA"
+"43","Kapan Budi Utomo didirikan?","tahun 1920","WA"
+"44","Kapan Budi Utomo didirikan?","tahun 1913","WA"
+"45","Kapan Budi Utomo didirikan?","tahun 1916","WA"
+"46","Kapan Budi Utomo didirikan?","tahun 1911","WA"
+"47","Kapan Budi Utomo didirikan?","tahun 1911","WA"
+"48","Kapan Budi Utomo didirikan?","tahun 1917","WA"
+"49","Siapa pendiri Taman Siswa?","NO ANSWER","WA"
+"50","Siapa pendiri Taman Siswa?","NO ANSWER","WA"
+"51","Siapa pendiri Taman Siswa?","NO ANSWER","WA"
+"52","Siapa pendiri Taman Siswa?","NO ANSWER","WA"
+"53","Siapa pendiri Taman Siswa?","NO ANSWER","WA"
+"54","Siapa pendiri Taman Siswa?","NO ANSWER","WA"
+"55","Siapa pendiri Taman Siswa?","NO ANSWER","WA"
+"56","Siapa pendiri Taman Siswa?","NO ANSWER","WA"
+"57","Dimana letak kerajaan sriwijaya?","provinsi sumatera","AC"
+"58","Dimana letak kerajaan sriwijaya?","india","WA"
+"59","Dimana letak kerajaan sriwijaya?","india","WA"
+"60","Dimana letak kerajaan sriwijaya?","palembang","AC"
+"61","Dimana letak kerajaan sriwijaya?","daerah","WA"
+"62","Dimana letak kerajaan sriwijaya?","palembang","AC"
+"63","Dimana letak kerajaan sriwijaya?","daerah","WA"
+"64","Dimana letak kerajaan sriwijaya?","kadaram","WA"
+"65","Kapan taman siswa didirikan?","NO ANSWER","WA"
+"66","Kapan taman siswa didirikan?","NO ANSWER","WA"
+"67","Kapan taman siswa didirikan?","NO ANSWER","WA"
+"68","Kapan taman siswa didirikan?","NO ANSWER","WA"
+"69","Kapan taman siswa didirikan?","NO ANSWER","WA"
+"70","Kapan taman siswa didirikan?","NO ANSWER","WA"
+"71","Kapan taman siswa didirikan?","NO ANSWER","WA"
+"72","Kapan taman siswa didirikan?","NO ANSWER","WA"
+"73","dimana budi utomo didirikan?","batavia","AC"
+"74","dimana budi utomo didirikan?","batavia","AC"
+"75","dimana budi utomo didirikan?","batavia","AC"
+"76","dimana budi utomo didirikan?","batavia","AC"
+"77","dimana budi utomo didirikan?","batavia","AC"
+"78","dimana budi utomo didirikan?","batavia","AC"
+"79","dimana budi utomo didirikan?","batavia","AC"
+"80","dimana budi utomo didirikan?","batavia","AC"
+"81","dimana taman siswa didirikan?","jakarta chairul","WA"
+"82","dimana taman siswa didirikan?","rengasdengklok","WA"
+"83","dimana taman siswa didirikan?","rumah djiaw","WA"
+"84","dimana taman siswa didirikan?","NO ANSWER","WA"
+"85","dimana taman siswa didirikan?","NO ANSWER","WA"
+"86","dimana taman siswa didirikan?","NO ANSWER","WA"
+"87","dimana taman siswa didirikan?","NO ANSWER","WA"
+"88","dimana taman siswa didirikan?","NO ANSWER","WA"
+"89","kapan konferensi asia afrika diselenggarakan?","tanggal 14 agustus 1941","WA"
+"90","kapan konferensi asia afrika diselenggarakan?","bulan januari 1943","WA"
+"91","kapan konferensi asia afrika diselenggarakan?","bulan januari 1943","WA"
+"92","kapan konferensi asia afrika diselenggarakan?","bulan oktober 1943","WA"
+"93","kapan konferensi asia afrika diselenggarakan?","bulan november 1943","WA"
+"94","kapan konferensi asia afrika diselenggarakan?","bulan november 1943","WA"
+"95","kapan konferensi asia afrika diselenggarakan?","desember 1943","WA"
+"96","kapan konferensi asia afrika diselenggarakan?","bulan februari 1945","WA"
+"97","kapan hayam wuruk wafat?","tahun 1326","WA"
+"98","kapan hayam wuruk wafat?","tahun 1326","WA"
+"99","kapan hayam wuruk wafat?","tahun 1389","AC"
+"100","kapan hayam wuruk wafat?","tahun 1389","AC"
+"101","kapan hayam wuruk wafat?","tahun 1364","WA"
+"102","kapan hayam wuruk wafat?","masa zainal","WA"
+"103","kapan hayam wuruk wafat?","tahun 1401 1406","WA"
+"104","kapan hayam wuruk wafat?","tahun 1401 1406","WA"
+"105","siapa wali songo yang menggunakan media pertunjukan wayang?","walisongo","WA"
+"106","siapa wali songo yang menggunakan media pertunjukan wayang?","mubalig keliling","WA"
+"107","siapa wali songo yang menggunakan media pertunjukan wayang?","walisongo","WA"
+"108","siapa wali songo yang menggunakan media pertunjukan wayang?","mubalig keliling","WA"
+"109","siapa wali songo yang menggunakan media pertunjukan wayang?","walisongo","WA"
+"110","siapa wali songo yang menggunakan media pertunjukan wayang?","songo","WA"
+"111","siapa wali songo yang menggunakan media pertunjukan wayang?","walisongo","WA"
+"112","siapa wali songo yang menggunakan media pertunjukan wayang?","songo","WA"
+"113","siapa pemimpin kerajaan tidore?","raja putra raja kerabat raja","WA"
+"114","siapa pemimpin kerajaan tidore?","raja raja","WA"
+"115","siapa pemimpin kerajaan tidore?","daerah pusat","WA"
+"116","siapa pemimpin kerajaan tidore?","raja raja","WA"
+"117","siapa pemimpin kerajaan tidore?","raja","WA"
+"118","siapa pemimpin kerajaan tidore?","pemimpin masyarakat","WA"
+"119","siapa pemimpin kerajaan tidore?","raja","WA"
+"120","siapa pemimpin kerajaan tidore?","pemimpin masyarakat","WA"
+"121","kapan belanda datang ke maluku?","tanggal 19 desember 1948","WA"
+"122","kapan belanda datang ke maluku?","8 desember 1947","WA"
+"123","kapan belanda datang ke maluku?","tanggal 21 juni 1947","WA"
+"124","kapan belanda datang ke maluku?","8 desember 1947","WA"
+"125","kapan belanda datang ke maluku?","8 desember 1947","WA"
+"126","kapan belanda datang ke maluku?","tanggal 21 juni 1947","WA"
+"127","kapan belanda datang ke maluku?","8 desember 1947","WA"
+"128","kapan belanda datang ke maluku?","1811","WA"
+"129","kapan portugis datang ke maluku?","1521","WA"
+"130","kapan portugis datang ke maluku?","1521","WA"
+"131","kapan portugis datang ke maluku?","portugis 1511","AC"
+"132","kapan portugis datang ke maluku?","tahun 1522","WA"
+"133","kapan portugis datang ke maluku?","tahun 1522","WA"
+"134","kapan portugis datang ke maluku?","1487 1488","WA"
+"135","kapan portugis datang ke maluku?","1480 1521","WA"
+"136","kapan portugis datang ke maluku?","abad 15","WA"
+"137","siapa yang menandatangani perjanjian bongaya?","pemerintah dinasti manchu","WA"
+"138","siapa yang menandatangani perjanjian bongaya?","pemerintah dinasti manchu","WA"
+"139","siapa yang menandatangani perjanjian bongaya?","bangsa bangsa barat","WA"
+"140","siapa yang menandatangani perjanjian bongaya?","bangsa bangsa barat","WA"
+"141","siapa yang menandatangani perjanjian bongaya?","bangsa barat","WA"
+"142","siapa yang menandatangani perjanjian bongaya?","bangsa barat","WA"
+"143","siapa yang menandatangani perjanjian bongaya?","NO ANSWER","WA"
+"144","siapa yang menandatangani perjanjian bongaya?","NO ANSWER","WA"
+"145","kapan perjanjian bongaya ditandatangani?","tanggal 18 nopember 1667","AC"
+"146","kapan perjanjian bongaya ditandatangani?","tanggal 18 nopember 1667","AC"
+"147","kapan perjanjian bongaya ditandatangani?","tanggal 18 nopember 1667","AC"
+"148","kapan perjanjian bongaya ditandatangani?","tanggal 18 nopember 1667","AC"
+"149","kapan perjanjian bongaya ditandatangani?","1842","WA"
+"150","kapan perjanjian bongaya ditandatangani?","1860","WA"
+"151","kapan perjanjian bongaya ditandatangani?","1842","WA"
+"152","kapan perjanjian bongaya ditandatangani?","tanggal 1 januari 1958","WA"
+"153","siapa penulis kitab negara kertagama?","masyarakat","WA"
+"154","siapa penulis kitab negara kertagama?","masyarakat","WA"
+"155","siapa penulis kitab negara kertagama?","dharmadhyaksa ring kasaiwan","WA"
+"156","siapa penulis kitab negara kertagama?","kepala agama siwa","WA"
+"157","siapa penulis kitab negara kertagama?","raden wijaya","WA"
+"158","siapa penulis kitab negara kertagama?","raden wijaya","WA"
+"159","siapa penulis kitab negara kertagama?","rama kudadu","WA"
+"160","siapa penulis kitab negara kertagama?","rama kudadu","WA"
+"161","kapan voc didirikan?","1743","WA"
+"162","kapan voc didirikan?","32 tahun","WA"
+"163","kapan voc didirikan?","32 tahun","WA"
+"164","kapan voc didirikan?","tanggal 25 desember 1679","WA"
+"165","kapan voc didirikan?","tanggal 25 desember 1679","WA"
+"166","kapan voc didirikan?","1744","WA"
+"167","kapan voc didirikan?","tanggal 2 januari 1680","WA"
+"168","kapan voc didirikan?","tanggal 25 desember 1679","WA"
+"169","kapan voc dibubarkan?","1743","WA"
+"170","kapan voc dibubarkan?","32 tahun","WA"
+"171","kapan voc dibubarkan?","tahun 1719","WA"
+"172","kapan voc dibubarkan?","1703","WA"
+"173","kapan voc dibubarkan?","tahun 1727","WA"
+"174","kapan voc dibubarkan?","1749","WA"
+"175","kapan voc dibubarkan?","1719 1727","WA"
+"176","kapan voc dibubarkan?","1749","WA"
+"177","siapa multatuli?","nurani rakyat belanda","WA"
+"178","siapa multatuli?","rakyat indonesia","WA"
+"179","siapa multatuli?","parlemen belanda","WA"
+"180","siapa multatuli?","NO ANSWER","WA"
+"181","siapa multatuli?","NO ANSWER","WA"
+"182","siapa multatuli?","NO ANSWER","WA"
+"183","siapa multatuli?","NO ANSWER","WA"
+"184","siapa multatuli?","NO ANSWER","WA"
+"185","dimana pattimura dilahirkan?","turki","WA"
+"186","dimana pattimura dilahirkan?","india","WA"
+"187","dimana pattimura dilahirkan?","turki","WA"
+"188","dimana pattimura dilahirkan?","india","WA"
+"189","dimana pattimura dilahirkan?","asia","WA"
+"190","dimana pattimura dilahirkan?","amerika latin asia","WA"
+"191","dimana pattimura dilahirkan?","indonesia","WA"
+"192","dimana pattimura dilahirkan?","amerika latin asia","WA"
+"193","kapan pangeran antasari wafat?","1582","WA"
+"194","kapan pangeran antasari wafat?","11 oktober 1862","AC"
+"195","kapan pangeran antasari wafat?","11 oktober 1862","AC"
+"196","kapan pangeran antasari wafat?","tahun 1595","WA"
+"197","kapan pangeran antasari wafat?","tahun 1595","WA"
+"198","kapan pangeran antasari wafat?","11 oktober 1862","AC"
+"199","kapan pangeran antasari wafat?","11 oktober 1862","AC"
+"200","kapan pangeran antasari wafat?","14 maret 1862","WA"
+"201","dimana pangeran antasari wafat?","kampung","WA"
+"202","dimana pangeran antasari wafat?","kampung","WA"
+"203","dimana pangeran antasari wafat?","jawa","WA"
+"204","dimana pangeran antasari wafat?","jawa","WA"
+"205","dimana pangeran antasari wafat?","martapura","WA"
+"206","dimana pangeran antasari wafat?","martapura","WA"
+"207","dimana pangeran antasari wafat?","kampung","WA"
+"208","dimana pangeran antasari wafat?","kampung","WA"
+"209","kapan ekspedisi pertama belanda di bali terjadi?","tahun 1289","WA"
+"210","kapan ekspedisi pertama belanda di bali terjadi?","1846","AC"
+"211","kapan ekspedisi pertama belanda di bali terjadi?","1846","AC"
+"212","kapan ekspedisi pertama belanda di bali terjadi?","1846","AC"
+"213","kapan ekspedisi pertama belanda di bali terjadi?","1848","WA"
+"214","kapan ekspedisi pertama belanda di bali terjadi?","1849","WA"
+"215","kapan ekspedisi pertama belanda di bali terjadi?","1846","AC"
+"216","kapan ekspedisi pertama belanda di bali terjadi?","1848","WA"
+"217","kapan perlawanan di aceh terjadi?","abad","WA"
+"218","kapan perlawanan di aceh terjadi?","tahun 1597","WA"
+"219","kapan perlawanan di aceh terjadi?","bulan februari 1944","WA"
+"220","kapan perlawanan di aceh terjadi?","bulan februari 1944","WA"
+"221","kapan perlawanan di aceh terjadi?","bulan nopember 1944","WA"
+"222","kapan perlawanan di aceh terjadi?","bulan nopember 1944","WA"
+"223","kapan perlawanan di aceh terjadi?","tanggal 14 februari 1945","WA"
+"224","kapan perlawanan di aceh terjadi?","bulan februari 1944","WA"
+"225","siapa pendiri budi utomo?","utomo","WA"
+"226","siapa pendiri budi utomo?","parindra partindo","WA"
+"227","siapa pendiri budi utomo?","parindra partindo","WA"
+"228","siapa pendiri budi utomo?","mahasiswa","AC"
+"229","siapa pendiri budi utomo?","indische partij","WA"
+"230","siapa pendiri budi utomo?","indische partij","WA"
+"231","siapa pendiri budi utomo?","organisasi pemuda","AC"
+"232","siapa pendiri budi utomo?","indische partij muhammadiyah","WA"
+"233","kapan sarekat islam didirikan?","1912","WA"
+"234","kapan sarekat islam didirikan?","tahun 1911","AC"
+"235","kapan sarekat islam didirikan?","tahun 1911","AC"
+"236","kapan sarekat islam didirikan?","tahun 1914","WA"
+"237","kapan sarekat islam didirikan?","tahun 1911","AC"
+"238","kapan sarekat islam didirikan?","tahun 1914","WA"
+"239","kapan sarekat islam didirikan?","tahun 1911","AC"
+"240","kapan sarekat islam didirikan?","tahun 1915","WA"
+"241","siapa pendiri sarekat islam?","indische partij muhammadiyah","WA"
+"242","siapa pendiri sarekat islam?","indische partij muhammadiyah","WA"
+"243","siapa pendiri sarekat islam?","indische partij","WA"
+"244","siapa pendiri sarekat islam?","indische partij","WA"
+"245","siapa pendiri sarekat islam?","mahasiswa","WA"
+"246","siapa pendiri sarekat islam?","indische partij muhammadiyah","WA"
+"247","siapa pendiri sarekat islam?","mahasiswa","WA"
+"248","siapa pendiri sarekat islam?","indische partij muhammadiyah","WA"
+"249","kapan indische partij didirikan?","tanggal 23 mei 1920","WA"
+"250","kapan indische partij didirikan?","tahun 1913","WA"
+"251","kapan indische partij didirikan?","tahun 1913","WA"
+"252","kapan indische partij didirikan?","tahun 1914","WA"
+"253","kapan indische partij didirikan?","tahun 1914","WA"
+"254","kapan indische partij didirikan?","tanggal 4 mei 1914","WA"
+"255","kapan indische partij didirikan?","1908 1942","WA"
+"256","kapan indische partij didirikan?","tanggal 4 mei 1914","WA"
+"257","dimana muhammadiyah didirikan?","indonesia","WA"
+"258","dimana muhammadiyah didirikan?","indonesia","WA"
+"259","dimana muhammadiyah didirikan?","india","WA"
+"260","dimana muhammadiyah didirikan?","indonesia","WA"
+"261","dimana muhammadiyah didirikan?","indonesia","WA"
+"262","dimana muhammadiyah didirikan?","indonesia","WA"
+"263","dimana muhammadiyah didirikan?","india","WA"
+"264","dimana muhammadiyah didirikan?","indonesia","WA"
+"265","kapan muhammadiyah didirikan?","NO ANSWER","WA"
+"266","kapan muhammadiyah didirikan?","NO ANSWER","WA"
+"267","kapan muhammadiyah didirikan?","NO ANSWER","WA"
+"268","kapan muhammadiyah didirikan?","NO ANSWER","WA"
+"269","kapan muhammadiyah didirikan?","NO ANSWER","WA"
+"270","kapan muhammadiyah didirikan?","NO ANSWER","WA"
+"271","kapan muhammadiyah didirikan?","NO ANSWER","WA"
+"272","kapan muhammadiyah didirikan?","NO ANSWER","WA"
+"273","kapan partai komunis indonesia berdiri?","tanggal 1 juni 1949","WA"
+"274","kapan partai komunis indonesia berdiri?","tahun 1940","WA"
+"275","kapan partai komunis indonesia berdiri?","tahun 1940","WA"
+"276","kapan partai komunis indonesia berdiri?","tanggal 1 juni 1949","WA"
+"277","kapan partai komunis indonesia berdiri?","tahun 1940","WA"
+"278","kapan partai komunis indonesia berdiri?","tahun 1940","WA"
+"279","kapan partai komunis indonesia berdiri?","tahun 1942","WA"
+"280","kapan partai komunis indonesia berdiri?","1 oktober 1949","WA"
+"281","siapa yang membawa ajaran marxis?","sneevliet","AC"
+"282","siapa yang membawa ajaran marxis?","sneevliet","AC"
+"283","siapa yang membawa ajaran marxis?","sneevliet","AC"
+"284","siapa yang membawa ajaran marxis?","belanda","WA"
+"285","siapa yang membawa ajaran marxis?","belanda","WA"
+"286","siapa yang membawa ajaran marxis?","belanda","WA"
+"287","siapa yang membawa ajaran marxis?","belanda","WA"
+"288","siapa yang membawa ajaran marxis?","belanda","WA"
+"289","kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?","tanggal 15 juli 1936","AC"
+"290","kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?","tahun 1925","WA"
+"291","kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?","tanggal 15 juli 1936","AC"
+"292","kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?","tanggal 13 november 1926","WA"
+"293","kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?","tanggal 15 juli 1936","AC"
+"294","kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?","tahun 1926","WA"
+"295","kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?","tanggal 4 juli 1927","WA"
+"296","kapan partai partai politik yang dipelopori oleh Sutardjo Kartohadikusumo mengajukan usul atau petisi?","tanggal 4 juli 1927","WA"
+"297","kapan sumpah pemuda terjadi?","pemuda 1928","WA"
+"298","kapan sumpah pemuda terjadi?","tanggal 28 oktober 1928","AC"
+"299","kapan sumpah pemuda terjadi?","tanggal 28 oktober 1928","AC"
+"300","kapan sumpah pemuda terjadi?","tanggal 24 28 desember 1928","AC"
+"301","kapan sumpah pemuda terjadi?","tanggal 31 desember 1936","WA"
+"302","kapan sumpah pemuda terjadi?","tanggal 28 oktober 1928","AC"
+"303","kapan sumpah pemuda terjadi?","tanggal 28 oktober 1928","AC"
+"304","kapan sumpah pemuda terjadi?","tahun 1924","WA"
+"305","kapan partai nasional indonesia lahir?","tahun 2014","WA"
+"306","kapan partai nasional indonesia lahir?","2014","WA"
+"307","kapan partai nasional indonesia lahir?","1935","WA"
+"308","kapan partai nasional indonesia lahir?","14 juli 1916","WA"
+"309","kapan partai nasional indonesia lahir?","periode 15 17 agustus 1945","WA"
+"310","kapan partai nasional indonesia lahir?","1960 1964","WA"
+"311","kapan partai nasional indonesia lahir?","14 juli 1916","WA"
+"312","kapan partai nasional indonesia lahir?","bulan desember 1920","WA"
+"313","kapan sistem tanam paksa diterapkan?","tahun 1850","WA"
+"314","kapan sistem tanam paksa diterapkan?","tahun 1850","WA"
+"315","kapan sistem tanam paksa diterapkan?","tahun 1850","WA"
+"316","kapan sistem tanam paksa diterapkan?","tahun 1850","WA"
+"317","kapan sistem tanam paksa diterapkan?","tahun 1850","WA"
+"318","kapan sistem tanam paksa diterapkan?","1830","AC"
+"319","kapan sistem tanam paksa diterapkan?","tahun 1850","WA"
+"320","kapan sistem tanam paksa diterapkan?","1830","AC"
+"321","kapan sidang kabinet dwikora diadakan?","masa orde","WA"
+"322","kapan sidang kabinet dwikora diadakan?","uud 1945","WA"
+"323","kapan sidang kabinet dwikora diadakan?","tanggal 11 maret 1966","AC"
+"324","kapan sidang kabinet dwikora diadakan?","tanggal 11 maret 1966","AC"
+"325","kapan sidang kabinet dwikora diadakan?","tanggal 30 mei 1959","WA"
+"326","kapan sidang kabinet dwikora diadakan?","tanggal 30 mei 1959","WA"
+"327","kapan sidang kabinet dwikora diadakan?","tanggal 25 april 1959","WA"
+"328","kapan sidang kabinet dwikora diadakan?","tanggal 11 maret 1966","AC"
+"329","kapan supersemar dikeluarkan?","tanggal 23 juli 2001 pukul 1.10 wib hari","WA"
+"330","kapan supersemar dikeluarkan?","tanggal 23 juli 2001 pukul 1.10 wib hari","WA"
+"331","kapan supersemar dikeluarkan?","tanggal 23 juli 2001 pukul 1.10 wib hari","WA"
+"332","kapan supersemar dikeluarkan?","presiden 23 juli 2001","WA"
+"333","kapan supersemar dikeluarkan?","presiden 23 juli 2001","WA"
+"334","kapan supersemar dikeluarkan?","mprs 1966","WA"
+"335","kapan supersemar dikeluarkan?","tanggal 21 mei 1998","WA"
+"336","kapan supersemar dikeluarkan?","mprs 1966","WA"
+"337","siapa pemimpin APRA?","partai masyumi","WA"
+"338","siapa pemimpin APRA?","partai masyumi","WA"
+"339","siapa pemimpin APRA?","muhammad natsir","WA"
+"340","siapa pemimpin APRA?","sukiman wiryosanjoyo","WA"
+"341","siapa pemimpin APRA?","mr wilopo","WA"
+"342","siapa pemimpin APRA?","mr ali sastroamijoyo","WA"
+"343","siapa pemimpin APRA?","muhammad natsir","WA"
+"344","siapa pemimpin APRA?","presiden","WA"
+"345","siapa pemimpin RMS?","partai masyumi","WA"
+"346","siapa pemimpin RMS?","partai masyumi","WA"
+"347","siapa pemimpin RMS?","muhammad natsir","WA"
+"348","siapa pemimpin RMS?","sukiman wiryosanjoyo","WA"
+"349","siapa pemimpin RMS?","mr wilopo","WA"
+"350","siapa pemimpin RMS?","mr ali sastroamijoyo","WA"
+"351","siapa pemimpin RMS?","dr christian robert stevenson","WA"
+"352","siapa pemimpin RMS?","muhammad natsir","WA"
+"353","kapan gerakan non blok diselenggarakan?","tanggal 1 6 september 1961","AC"
+"354","kapan gerakan non blok diselenggarakan?","tanggal 5 10 oktober 1964","AC"
+"355","kapan gerakan non blok diselenggarakan?","tanggal 5 10 oktober 1964","AC"
+"356","kapan gerakan non blok diselenggarakan?","tahun 1961","AC"
+"357","kapan gerakan non blok diselenggarakan?","tanggal 1 6 september 1961","AC"
+"358","kapan gerakan non blok diselenggarakan?","tanggal 5 10 oktober 1964","AC"
+"359","kapan gerakan non blok diselenggarakan?","tanggal 5 10 oktober 1964","AC"
+"360","kapan gerakan non blok diselenggarakan?","tanggal 8 10 oktober 1970","AC"
+"361","kapan rengasdengklok terjadi?","tanggal 14 agustus 1945","WA"
+"362","kapan rengasdengklok terjadi?","tanggal 14 agustus 1945","WA"
+"363","kapan rengasdengklok terjadi?","keesokan harinya","WA"
+"364","kapan rengasdengklok terjadi?","pukul 12.00","WA"
+"365","kapan rengasdengklok terjadi?","17 boelan 8 tahun 05","WA"
+"366","kapan rengasdengklok terjadi?","tanggal 15 agustus 1945","WA"
+"367","kapan rengasdengklok terjadi?","tanggal 16 agustus 1945 pukul 04.30","AC"
+"368","kapan rengasdengklok terjadi?","tanggal 18 agustus 1945","WA"
+"369","kapan seinendan didirikan?","tanggal 29 april 1943","AC"
+"370","kapan seinendan didirikan?","tanggal 29 april 1943","AC"
+"371","kapan seinendan didirikan?","tanggal 16 april 1943","WA"
+"372","kapan seinendan didirikan?","tahun 1935","WA"
+"373","kapan seinendan didirikan?","tanggal 29 april 1943","AC"
+"374","kapan seinendan didirikan?","tanggal 18 november 1918","WA"
+"375","kapan seinendan didirikan?","tanggal 22 desember 1908","WA"
+"376","kapan seinendan didirikan?","tanggal 29 april 1943","AC"
+"377","kapan rakyat bali melawan belanda?","bulan januari 1942","WA"
+"378","kapan rakyat bali melawan belanda?","bulan februari 1944","WA"
+"379","kapan rakyat bali melawan belanda?","bulan nopember 1944","WA"
+"380","kapan rakyat bali melawan belanda?","bulan februari 1944","WA"
+"381","kapan rakyat bali melawan belanda?","bulan nopember 1944","WA"
+"382","kapan rakyat bali melawan belanda?","tanggal 14 februari 1945","WA"
+"383","kapan rakyat bali melawan belanda?","bulan februari 1944","WA"
+"384","kapan rakyat bali melawan belanda?","bulan nopember 1944","WA"
+"385","siapa penulis konsep naskah proklamasi?","sukarno","AC"
+"386","siapa penulis konsep naskah proklamasi?","sukarno","AC"
+"387","siapa penulis konsep naskah proklamasi?","mr ahmad subardjo","WA"
+"388","siapa penulis konsep naskah proklamasi?","sukarno","AC"
+"389","siapa penulis konsep naskah proklamasi?","sukarno","AC"
+"390","siapa penulis konsep naskah proklamasi?","mr ahmad subardjo","WA"
+"391","siapa penulis konsep naskah proklamasi?","sukarno","AC"
+"392","siapa penulis konsep naskah proklamasi?","mr ahmad subardjo","WA"
+"393","dimana konferensi meja bundar dilaksanakan?","lautan","WA"
+"394","dimana konferensi meja bundar dilaksanakan?","daratan","WA"
+"395","dimana konferensi meja bundar dilaksanakan?","jakara","WA"
+"396","dimana konferensi meja bundar dilaksanakan?","kolombo","WA"
+"397","dimana konferensi meja bundar dilaksanakan?","kolombo","WA"
+"398","dimana konferensi meja bundar dilaksanakan?","indonesia","WA"
+"399","dimana konferensi meja bundar dilaksanakan?","asia","WA"
+"400","dimana konferensi meja bundar dilaksanakan?","asia","WA"
+"401","dimana perjanjian renville dibuat?","lautan","WA"
+"402","dimana perjanjian renville dibuat?","lautan","WA"
+"403","dimana perjanjian renville dibuat?","daratan","WA"
+"404","dimana perjanjian renville dibuat?","daratan","WA"
+"405","dimana perjanjian renville dibuat?","wilayah indonesia","WA"
+"406","dimana perjanjian renville dibuat?","wilayah indonesia","WA"
+"407","dimana perjanjian renville dibuat?","indonesia","WA"
+"408","dimana perjanjian renville dibuat?","wilayah indonesia","WA"
+"409","kapan perjanjian renville dilakukan?","tanggal 19 desember 1948","WA"
+"410","kapan perjanjian renville dilakukan?","tanggal 15 november 1946","WA"
+"411","kapan perjanjian renville dilakukan?","masa kabinet ali sastroamijoyo","WA"
+"412","kapan perjanjian renville dilakukan?","31 juli 1953 s d 12 agustus 1955","WA"
+"413","kapan perjanjian renville dilakukan?","tanggal 13 februari 1955","WA"
+"414","kapan perjanjian renville dilakukan?","tahun 1947","WA"
+"415","kapan perjanjian renville dilakukan?","bulan agustus 1945","WA"
+"416","kapan perjanjian renville dilakukan?","bulan agustus 1945","WA"
+"417","siapa pengetik naskah proklamasi?","sukarno","WA"
+"418","siapa pengetik naskah proklamasi?","sukarno","WA"
+"419","siapa pengetik naskah proklamasi?","mr ahmad subardjo","WA"
+"420","siapa pengetik naskah proklamasi?","sukarno","WA"
+"421","siapa pengetik naskah proklamasi?","mr ahmad subardjo","WA"
+"422","siapa pengetik naskah proklamasi?","sukarno","WA"
+"423","siapa pengetik naskah proklamasi?","mr ahmad subardjo","WA"
+"424","siapa pengetik naskah proklamasi?","laksamana maeda","WA"
+"425","kapan pancasila lahir?","uud 1945","WA"
+"426","kapan pancasila lahir?","1945","WA"
+"427","kapan pancasila lahir?","1945","WA"
+"428","kapan pancasila lahir?","1945","WA"
+"429","kapan pancasila lahir?","tanggal 29 mei s d 1 juni 1945","AC"
+"430","kapan pancasila lahir?","tanggal 29 mei s d 1 juni 1945","AC"
+"431","kapan pancasila lahir?","1945","WA"
+"432","kapan pancasila lahir?","1945","WA"
+"433","siapa ketua ppki?","mr.ahmad soerbadjo","WA"
+"434","siapa ketua ppki?","prof mr dr soepomo","WA"
+"435","siapa ketua ppki?","prof mr dr soepomo","WA"
+"436","siapa ketua ppki?","mr achmad soebardjo","WA"
+"437","siapa ketua ppki?","sutardjo kartohadikusumo","WA"
+"438","siapa ketua ppki?","sutardjo kartohadikusumo","WA"
+"439","siapa ketua ppki?","pemuda","WA"
+"440","siapa ketua ppki?","soekarno panitia","AC"
+"441","kapan nagasaki dibom?","14 agustus 1945","WA"
+"442","kapan nagasaki dibom?","tanggal 9 agustus 1945","AC"
+"443","kapan nagasaki dibom?","14 agustus 1945","WA"
+"444","kapan nagasaki dibom?","keesokan harinya","WA"
+"445","kapan nagasaki dibom?","tanggal 7 september 1944","WA"
+"446","kapan nagasaki dibom?","tanggal 15 agustus 1945","WA"
+"447","kapan nagasaki dibom?","tanggal 17 agustus 1945","WA"
+"448","kapan nagasaki dibom?","tanggal 7 september 1944","WA"
+"449","kapan hiroshima dibom?","tanggal 9 agustus 1945","WA"
+"450","kapan hiroshima dibom?","tanggal 9 agustus 1945","WA"
+"451","kapan hiroshima dibom?","14 agustus 1945","WA"
+"452","kapan hiroshima dibom?","14 agustus 1945","WA"
+"453","kapan hiroshima dibom?","tanggal 7 september 1944","WA"
+"454","kapan hiroshima dibom?","keesokan harinya","WA"
+"455","kapan hiroshima dibom?","tanggal 17 agustus 1945","WA"
+"456","kapan hiroshima dibom?","tanggal 15 agustus 1945","WA"
+"457","kapan reformasi terjadi?","13 mei 1998","AC"
+"458","kapan reformasi terjadi?","13 mei 1998","AC"
+"459","kapan reformasi terjadi?","13 mei 1998","AC"
+"460","kapan reformasi terjadi?","13 mei 1998","AC"
+"461","kapan reformasi terjadi?","tanggal 15 mei 1998","AC"
+"462","kapan reformasi terjadi?","tanggal 15 mei 1998","AC"
+"463","kapan reformasi terjadi?","tanggal 14 mei 1998","AC"
+"464","kapan reformasi terjadi?","tanggal 14 mei 1998","AC"
+"465","dimana letak kerajaan majapahit?","gujarat","WA"
+"466","dimana letak kerajaan majapahit?","gujarat","WA"
+"467","dimana letak kerajaan majapahit?","makam leluhurnya","WA"
+"468","dimana letak kerajaan majapahit?","wilayah","WA"
+"469","dimana letak kerajaan majapahit?","indonesia","WA"
+"470","dimana letak kerajaan majapahit?","makam leluhurnya","WA"
+"471","dimana letak kerajaan majapahit?","wilayah nusantara","WA"
+"472","dimana letak kerajaan majapahit?","wilayah nusantara","WA"
+"473","kapan indonesia kembali menjadi anggota pbb?","tanggal 28 september 1966","AC"
+"474","kapan indonesia kembali menjadi anggota pbb?","tanggal 7 januari 1965","WA"
+"475","kapan indonesia kembali menjadi anggota pbb?","tanggal 7 januari 1965","WA"
+"476","kapan indonesia kembali menjadi anggota pbb?","tanggal 28 september 1966","AC"
+"477","kapan indonesia kembali menjadi anggota pbb?","tanggal 28 september 1966","AC"
+"478","kapan indonesia kembali menjadi anggota pbb?","tanggal 7 januari 1965","WA"
+"479","kapan indonesia kembali menjadi anggota pbb?","tanggal 7 januari 1965","WA"
+"480","kapan indonesia kembali menjadi anggota pbb?","tanggal 28 september 1966","AC"

@@ -1,109 +1,19 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok177.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok328.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok172.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok168.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok22.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok93.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok206.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok295.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok193.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok196.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok150.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok258.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok169.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok117.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok46.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok252.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
 
 
 query token : 
 nagasaki bom 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
 title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
 passage 2 score = 8.5
 sentence 1: masa indonesia merdeka memasuki bulan agustus 1945 kedudukan jepang semakin kritis .
@@ -166,7 +76,7 @@ sentence 3: muso mulai melancarkan serangan-serangan politik terhadap kabinet ha
 sentence 4: pemerintah bertindak tegas .
 sentence 5: pasukan tni dikerahkan secara besar-besaran pada tanggal 20 september 1948 dan pada tanggal 30 september , kota madiun dapat direbut kembali .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 passage 32 score = 8.5
 sentence 1: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
@@ -229,101 +139,7 @@ sentence 3: dalam pertemuan di dalat pada tanggal 12 agustus 1945 jenderal besar
 sentence 4: pelaksanaannya dapat dilakukan segera setelah persiapannya selesai oleh ppki .
 sentence 5: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-title : biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia
-passage 3 score = 8.0
-sentence 1: masalahnya , semua studio radio hoso kyoku sudah di jaga ketat sejak beberapa hari sebelumnya , tepatnya sehari setelah hiroshima dan nagasaki di bom oleh amerika .
-sentence 2: jusuf kemudian berunding dengan rekan-rekannya , diantaranya bachtiar lubis ( kakak dari sastrawan dan tokoh pers indonesia mochtar lubis ) dan joe saragih , seorang teknisi radio .
-sentence 3: beruntung , studio siaran luar negeri tidak dijaga .
-sentence 4: saat itu juga dengan bantuan joe , kabel di studio siaran dalam negeri di lepas dan disambungkan ke studio siaran luar negeri .
-sentence 5: tepat pukul 19:00 wib selama kurang lebh 15 menit jusuf pun membacakan kabar tentang proklamasi di udara , sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang jepang .
-passage 1 score = 6.5
-sentence 1: biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia - syahruddin dalah seorang telegraphis pada kantor berita jepang ( domei ) yang mengabarkan berita proklamasi kemerdekaan negara indonesia ke seluruh dunia secara sembunyi-sembunyi ketika personil jepang istirahat pada tanggal 17 agustus 1945 jam 4 sore .
-sentence 2: tanpa jasa syahruddin , maka niscaya berita proklamasi tidak akan cepat disebarluaskan .
-sentence 3: jumat , 17 agustus 1945 , sekitar jam 17:30 wib .
-sentence 4: saat itu pak jusuf sedang berada di kantornya , hoso kyoku ( radio militer jepang di jakarta ) .
-sentence 5: tiba-tiba muncullah syahruddin , seorang pewarta dari kantor berita jepang domei dengan tergesa-gesa .
-passage 4 score = 6.0
-sentence 1: tepat pukul 19:00 wib selama kurang lebh 15 menit jusuf pun membacakan kabar tentang proklamasi di udara , sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang jepang .
-sentence 2: belakangan tentara jepang mengetahui akal bulus jusuf dan kawan-kawannya .
-sentence 3: mereka pun sempat disiksa .
-sentence 4: beruntung mereka selamat .
-sentence 5: malam itu pun radio hoso kyoku resmi dinyatakan bubar , tetapi dunia saat itu juga sudah mengetahui kabar tentang proklamasi langsung dari mulut jusuf ronodipuro .
-passage 2 score = 3.0
-sentence 1: tiba-tiba muncullah syahruddin , seorang pewarta dari kantor berita jepang domei dengan tergesa-gesa .
-sentence 2: ( catatan : pak jusuf sempat meralat kebenaran berita bahwa yang datang itu adalah sejarawan des alwi ) .
-sentence 3: syahruddin yang masuk ke kantor hoso kyoku dengan melompati pagar itu menyerahkan selembar kertas dari adam malik yang isinya “ harap berita terlampir disiarkan ” .
-sentence 4: berita yang dimaksud adalah naskah proklamasi yang telah dibacakan bung karno jam 10 pagi .
-sentence 5: masalahnya , semua studio radio hoso kyoku sudah di jaga ketat sejak beberapa hari sebelumnya , tepatnya sehari setelah hiroshima dan nagasaki di bom oleh amerika .
-passage 5 score = 1.0
-sentence 1: malam itu pun radio hoso kyoku resmi dinyatakan bubar , tetapi dunia saat itu juga sudah mengetahui kabar tentang proklamasi langsung dari mulut jusuf ronodipuro .
-sentence 2: sayang rekaman suara ini tidak diketahui lagi keberadaannya , atau jangan-jangan sudah tidak ada mengingat malam itu juga radio tersebut ditutup oleh jepang .
-sentence 3: [ gs ]
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
-passage 1 score = 6.5
-sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
-sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
-sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
-sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
-sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
-passage 6 score = 6.0
-sentence 1: 1 .
-sentence 2: bangsa melayu tua ( proto melayu ) .
-sentence 3: bangsa melayu tua adalah orang-orang austronesia dari asia ( yunan ) yang pertama kali ke nusantara pada sekitar 1500 sm .
-sentence 4: mereka datang ke nusantara melalui dua jalan .
-sentence 5: 1 .
-passage 2 score = 1.0
-sentence 1: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
-sentence 2: pendapat van heine geldern ini diperkuat dengan penemuan peralatan manusia purba berupa beliung batu yang berbentuk persegi di sumatra , jawa , kalimantan , dan sulawesi di bagian barat .
-sentence 3: beliung seperti itu juga banyak ditemukan di asia , yakni di malaysia , birma ( myanmar ) , vietnam , kampuchea , dan terutama di daerah yunan ( daerah cina selatan ) .
-sentence 4: perpindahan penduduk pada gelombang kedua terjadi sekitar 500 sm bersamaan dengan zaman perunggu .
-sentence 5: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
-passage 3 score = 1.0
-sentence 1: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
-sentence 2: pendukung kebudayaan dongson adalah orang-orang austronesia yang tinggal di pulau-pulau di benua asia dan australia .
-sentence 3: nenek moyang bangsa indonesia meninggalkan daerah yunan di sekitar hulu sungai salween dan sungai mekong yang tanahnya subur sehingga mereka pandai bercocok tanam , berlayar , dan berdagang .
-sentence 4: dalam perkembangan selanjutnya , berbagai suku bangsa yang mendiami wilayah indonesia kemudian membentuk komunitas sendiri-sendiri sehingga mereka mendapat sebutan tersendiri .
-sentence 5: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-passage 4 score = 1.0
-sentence 1: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-sentence 2: mereka berlayar secara berkelompok tanpa mengenal rasa takut dan selanjutnya menempati berbagai kepulauan di nusantara .
-sentence 3: hal ini memperjelas bahwa nenek moyang bangsa indonesia adalah pelaut-pelaut ulung yang memiliki jiwa kelautan yang kuat .
-sentence 4: mereka memiliki kepandaian dalam berlayar , navigasi , serta ilmu perbintangan yang penuh .
-sentence 5: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
-passage 5 score = 1.0
-sentence 1: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
-sentence 2: orang-orang austronesia yang memasuki wilayah nusantara dan kemudian menetap di nusantara tersebut mendapat sebutan bangsa melayu austronesia atau bangsa melayu indonesia .
-sentence 3: mereka yang masuk ke daerah aceh menjadi suku aceh , yang masuk ke daerah kalimantan disebut suku dayak , yang ke jawa barat disebut suku sunda , yang masuk ke sulawesi disebut suku bugis dan tanah toraja , dan mereka yang masuk ke daerah jambi disebut suku kubu ( lubu ) .
-sentence 4: bangsa melayu dapat dibedakan menjadi dua , yakni bangsa melayu tua dan melayu muda .
-sentence 5: 1 .
-passage 7 score = 1.0
-sentence 1: 1 .
-sentence 2: jalan barat dari yunan ( cina selatan ) melalui selat malaka ( malaysia ) masuk kesumatra masuk ke jawa .
-sentence 3: mereka membawa alat berupa kapak persegi .
-sentence 4: 2 .
-sentence 5: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
-passage 8 score = 1.0
-sentence 1: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
-sentence 2: mereka membawa alat kapak lonjong .
-sentence 3: bangsa melayu tua ini memiliki kebudayaan batu sebab alat-alatnya terbuat dari batu yang sudah maju , yakni sudah dihaluskan , berbeda dengan manusia purba yang alatnya masih kasar dan sederhana .
-sentence 4: hasil budaya mereka dikenal dengan kapak persegi yang banyak ditemukan di indonesia , seperti sumatra , jawa , bali , dan kalimantan .
-sentence 5: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
-passage 9 score = 1.0
-sentence 1: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
-sentence 2: menurut penelitian von heekern , di kalumpang , sulawesi utara telah terjadi perpaduan antara tradisi kapak persegi dan kapak lonjong yang dibawa orang austronesia yang datang dari arah utara indonesia melalui formosa ( taiwan ) , filipina , dan sulawesi .
-sentence 3: 2 .
-sentence 4: bangsa melayu muda ( deutero melayu ) bangsa melayu muda yang disebut juga deutero melayu datang dari daerah yunan ( cina selatan ) sekitar 500 sm .
-sentence 5: mereka masuk ke nusantara melalui jalan barat saja .
-passage 10 score = 1.0
-sentence 1: mereka masuk ke nusantara melalui jalan barat saja .
-sentence 2: bangsa melayu muda berhasil mendesak dan bercampur dengan bangsa proto melayu .
-sentence 3: bangsa deutero melayu masuk melalui teluk tonkin ( yunan ) ke vietnam , lalu ke semenanjung malaka , terus ke sumatra , dan akhirnya masuk ke jawa .
-sentence 4: bangsa deutero melayu memiliki kebudayaan yang lebih maju dibandingkan dengan proto melayu .
-sentence 5: mereka sudah dapat membuat barang-barang dari perunggu dan besi .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
 title : jepang kalah perang dengan sekutu
 passage 11 score = 8.5
 sentence 1: menurut the history channel , pemkabarhuan itu disampaikan hirohito melewati siaran radio cocok pada tengah hari .
@@ -384,70 +200,282 @@ sentence 3: jadi as berpikiran untuk langsung menyerang jepang untuk mengakhiri 
 sentence 4: inilah argumen mutlak kenapa as menjatuhkan bom atom .
 sentence 5: ada analisis politik yang berbicara tidak hanya argumen itu , truman saat itu juga mempunyai motivasi untuk menekan stalin .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-title : bpupki-ppki dan peristiwa rengasdengklok
-passage 34 score = 7.5
-sentence 1: pada 1 april 1945 pasukan amerika mendarat di okinawa .
-sentence 2: kemudian pada tanggal 6 dan 9 agustus 1945 amerika menjatukan bom atom di hiroshima dan nagasaki ( jepang ) .
-sentence 3: beberapa hari kemudian , pada 14 agustus 1945 , jepang menyerah kepada tentara sekutu .
-sentence 4: kejadian tersebut membuka peluang bagi bangsa indonesia untuk memproklamirkan kemerdekaan .
-sentence 5: tiga hari setelah jepang menyerah tanpa syarat , pada tanggal 17 agustus 1945 , pemimpin nasional indonesia ir .
-passage 1 score = 5.5
-sentence 1: bpupki a.pembentukan bpupki badan penyelidik usaha persiapan kemerdekaan indonesia atau ( jepang : dokuritsu junbi cosakai atau dilafalkan dokuritsu zyunbi tyoosakai ) adalah sebuah badan yang dibentuk oleh pemerintah pendudukan balatentara jepang pada tanggal 29 april 1945 bertepatan dengan hari ulang tahun kaisar hirohito .
-sentence 2: badan ini dibentuk sebagai upaya mendapatkan dukungan bangsa indonesia dengan menjanjikan bahwa jepang akan membantu proses kemerdekaan indonesia .
-sentence 3: bpupki beranggotakan 63 orang yang diketuai oleh radjiman wedyodiningrat dengan wakil ketua hibangase yosio ( orang jepang ) dan r.p. soeroso .
-sentence 4: adapun latar belakang pembentukan bpupki secara formil , termuat dalam maklumat gunseikan nomor 23 tanggal 29 mei 1945 , dilihat dari latar belakang dikeluarnya maklumat no. 23 itu adalah karena kedudukan facisme ( kekuasaan ) jepang yang sudah sangat terancam .
-sentence 5: maka sebenarnya , kebijaksanaan pemerintah jepang dengan membentuk bpupki bukan merupakan kebaikan hati yang murni tetapi jepang hanya ingin mementingkan dirinya sendiri , yaitu pertama ; jepang ingin mempertahankan sisa-sisa kekuatannya dengan cara memikat hati rakyat indonesia , dan yang kedua ; untuk melaksanakan politik kolonialnya .
-passage 2 score = 5.5
-sentence 1: maka sebenarnya , kebijaksanaan pemerintah jepang dengan membentuk bpupki bukan merupakan kebaikan hati yang murni tetapi jepang hanya ingin mementingkan dirinya sendiri , yaitu pertama ; jepang ingin mempertahankan sisa-sisa kekuatannya dengan cara memikat hati rakyat indonesia , dan yang kedua ; untuk melaksanakan politik kolonialnya .
-sentence 2: di luar anggota bpupki , dibentuk sebuah badan tata usaha ( semacam sekretariat ) yang beranggotakan 60 orang .
-sentence 3: badan tata usaha ini dipimpin oleh r.p.soeroso , dengan wakil abdoel gafar pringgodigdo dan masuda ( orang jepang ) .
-sentence 4: pada tanggal 7 agustus 1945 , jepang membubarkan bpupki dan membentuk panitia persiapan kemerdekaan indonesia atau ( jepang : dokuritsu junbi inkai ) dengan anggota berjumlah 21 orang sebagai upaya pencerminan perwakilan etnis [ 1 ] terdiri berasal dari 12 orang dari jawa , 3 orang dari sumatra , 2 orang dari sulawesi , 1 orang dari kalimantan , 1 orang dari nusa tenggara , 1 orang dari maluku , 1 orang dari tionghoa .
-sentence 5: pada tahun 1944 saipan jatuh ke tangan sekutu.dengan pasukan jepang di papua nugini kepulauan solomon , dan kepulauan marshall yang berhasil di pukul mundur oleh pasukan sekutu.dalam situasi kritis tersebut , pada tanggal 1 maret 1945 letnan jendral kumakici harada , pimpinan pemerintah pendudukan jepang di jawa , mengumumkan pembentukan badan penyelidik usaha-usaha persiapan kemerdekan indonesia ( dokuritsu junbi cosakai ) .
-passage 3 score = 5.5
-sentence 1: pada tahun 1944 saipan jatuh ke tangan sekutu.dengan pasukan jepang di papua nugini kepulauan solomon , dan kepulauan marshall yang berhasil di pukul mundur oleh pasukan sekutu.dalam situasi kritis tersebut , pada tanggal 1 maret 1945 letnan jendral kumakici harada , pimpinan pemerintah pendudukan jepang di jawa , mengumumkan pembentukan badan penyelidik usaha-usaha persiapan kemerdekan indonesia ( dokuritsu junbi cosakai ) .
-sentence 2: pengangkatan pengurus ini di umumkan pada tanggal 29 april 1945 .
-sentence 3: dr.radjiman wediodiningrat diangkat sebagai ( kaico ) , sedangkan yang duduk sebagai ketua muda ( fuku kico ) pertama di jabat oleh seorang jepang , shucokai cirebon yang bernama icibangase .
-sentence 4: r .
-sentence 5: p .
-passage 5 score = 5.5
-sentence 1: pringgodigdo yang disusul dengan pengibaran bendera merah putih oleh toyohiko masuda .
-sentence 2: rapat pertama rapat pertama diadakan di gedung chuo sangi in di jalan pejambon 6 jakarta yang kini dikenal dengan sebutan gedung pancasila .
-sentence 3: pada zaman belanda , gedung tersebut merupakan gedung volksraad , lembaga dpr pada jaman kolonial belanda .
-sentence 4: rapat dibuka pada tanggal 28 mei 1945 dan pembahasan dimulai keesokan harinya 29 mei 1945 dengan tema dasar negara .
-sentence 5: pada rapat pertama ini terdapat 3 orang yang mengajukan pendapatnya tentang dasar negara .
-passage 6 score = 5.5
-sentence 1: pada rapat pertama ini terdapat 3 orang yang mengajukan pendapatnya tentang dasar negara .
-sentence 2: pada tanggal 29 mei 1945 , mr. muhammad yamin dalam pidato singkatnya mengemukakan lima asas yaitu : peri kebangsaan peri ke tuhanan kesejahteraan rakyat peri kemanusiaan peri kerakyatan pada tanggal 31 mei 1945 , prof. dr. mr. soepomo mengusulkan lima asas yaitu persatuan mufakat dan demokrasi keadilan sosial kekeluargaan musyawarah pada tanggal 1 juni 1945 , soekarno mengusulkan lima asas pula yang disebut pancasila yaitu : kebangsaan indonesia internasionalisme dan peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa kelima asas dari soekarno disebut pancasila yang menurut beliau bilamana diperlukan dapat diperas menjadi trisila atau tiga sila yaitu : sosionasionalisme sosiodemokrasi ketuhanan yang berkebudayaan bahkan masih menurut soekarno , trisila tersebut di atas bila diperas kembali disebutnya sebagai ekasila yaitu merupakan sila gotong royong merupakan upaya soekarno dalam menjelaskan bahwa konsep tersebut adalah dalam satu-kesatuan .
-sentence 3: selanjutnya lima asas tersebut kini dikenal dengan istilah pancasila , namun konsep bersikaf kesatuan tersebut pada akhirnya disetujui dengan urutan serta redaksi yang sedikit berbeda .
-sentence 4: sementara itu , perdebatan terus berlanjut di antara peserta sidang bpupki mengenai penerapan aturan islam dalam indonesia yang baru .
-sentence 5: masa antara rapat pertama dan kedua sampai akhir rapat pertama , masih belum ditemukan kesepakatan untuk perumusan dasar negara , sehingga akhirnya dibentuklah panitia kecil untuk menggodok berbagai masukan .
-passage 7 score = 5.5
-sentence 1: masa antara rapat pertama dan kedua sampai akhir rapat pertama , masih belum ditemukan kesepakatan untuk perumusan dasar negara , sehingga akhirnya dibentuklah panitia kecil untuk menggodok berbagai masukan .
-sentence 2: panitia kecil beranggotakan 9 orang dan dikenal pula sebagai panitia sembilan dengan susunan sebagai berikut : ir .
-sentence 3: soekarno ( ketua ) drs. moh .
-sentence 4: hatta ( wakil ketua ) mr. achmad soebardjo ( anggota ) mr. muhammad yamin ( anggota ) kh .
-sentence 5: wachid hasyim ( anggota ) abdul kahar muzakir ( anggota ) abikoesno tjokrosoejoso ( anggota ) h. agus salim ( anggota ) mr. a.a. maramis ( anggota ) setelah melakukan kompromi antara 4 orang dari kaum kebangsaan ( nasionalis ) dan 4 orang dari pihak islam , tanggal 22 juni 1945 panitia sembilan kembali bertemu dan menghasilkan rumusan dasar negara yang dikenal dengan piagam jakarta ( jakarta charter ) yang berisikan : ketuhanan dengan kewajiban menjalankan syariat islam bagi pemeluk-pemeluknya kemanusiaan yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan keadilan sosial bagi seluruh rakyat indonesia rapat kedua rapat kedua berlangsung 10-17 juli 1945 dengan tema bahasan bentuk negara , wilayah negara , kewarganegaraan , rancangan undang-undang dasar , ekonomi dan keuangan , pembelaan negara , pendidikan dan pengajaran .
-passage 8 score = 5.5
-sentence 1: wachid hasyim ( anggota ) abdul kahar muzakir ( anggota ) abikoesno tjokrosoejoso ( anggota ) h. agus salim ( anggota ) mr. a.a. maramis ( anggota ) setelah melakukan kompromi antara 4 orang dari kaum kebangsaan ( nasionalis ) dan 4 orang dari pihak islam , tanggal 22 juni 1945 panitia sembilan kembali bertemu dan menghasilkan rumusan dasar negara yang dikenal dengan piagam jakarta ( jakarta charter ) yang berisikan : ketuhanan dengan kewajiban menjalankan syariat islam bagi pemeluk-pemeluknya kemanusiaan yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan keadilan sosial bagi seluruh rakyat indonesia rapat kedua rapat kedua berlangsung 10-17 juli 1945 dengan tema bahasan bentuk negara , wilayah negara , kewarganegaraan , rancangan undang-undang dasar , ekonomi dan keuangan , pembelaan negara , pendidikan dan pengajaran .
-sentence 2: dalam rapat ini dibentuk panitia perancang undang-undang dasar beranggotakan 19 orang dengan ketua ir .
-sentence 3: soekarno , panitia pembelaan tanah air dengan ketua abikoesno tjokrosoejoso dan panitia ekonomi dan keuangan diketuai mohamad hatta .
-sentence 4: dengan pemungutan suara , akhirnya ditentukan wilayah indonesia merdeka yakni wilayah hindia belanda dahulu , ditambah dengan malaya , borneo utara , papua , timor-portugis , dan pulau-pulau sekitarnya .
-sentence 5: pada tanggal 11 juli 1945 panitia perancang uud membentuk lagi panitia kecil beranggotakan 7 orang yaitu : prof. dr. mr. soepomo ( ketua merangkap anggota ) mr. wongsonegoro mr. achmad soebardjo mr. a.a. maramis mr. r.p. singgih h. agus salim dr. soekiman pada tanggal 13 juli 1945 panitia perancang uud mengadakan sidang untuk membahas hasil kerja panitia kecil perancang uud tersebut .
-passage 9 score = 5.5
-sentence 1: pada tanggal 11 juli 1945 panitia perancang uud membentuk lagi panitia kecil beranggotakan 7 orang yaitu : prof. dr. mr. soepomo ( ketua merangkap anggota ) mr. wongsonegoro mr. achmad soebardjo mr. a.a. maramis mr. r.p. singgih h. agus salim dr. soekiman pada tanggal 13 juli 1945 panitia perancang uud mengadakan sidang untuk membahas hasil kerja panitia kecil perancang uud tersebut .
-sentence 2: pada tanggal 14 juli 1945 , rapat pleno bpupki menerima laporan panitia perancang uud yang dibacakan oleh ir .
-sentence 3: soekarno .
-sentence 4: dalam laporan tersebut tercantum tiga masalah pokok yaitu : a. pernyataan indonesia merdeka b. pembukaan uud c. batang tubuh uud konsep proklamasi kemerdekaan rencananya akan disusun dengan mengambil tiga alenia pertama piagam jakarta .
-sentence 5: sedangkan konsep undang-undang dasar hampir seluruhnya diambil dari alinea keempat piagam jakarta .1 .
-passage 11 score = 5.5
-sentence 1: yamin mengemukakan lima ” ajas dasar negara republik indonesia ” sebagai berikut : a ) peri kebangsaan b ) peri kemusiaan c ) peri ke-tuhanan d ) perikerakyataan e ) kesejahteraan rakyat 2 ) rumusan prof. dr .
-sentence 2: mr. soepomo pada tanggal 31 mei 1945 prof. dr.mr soepomo mengajukan dasar negara indonesia merdeka yaitu sebagai berikut : a ) persatuan b ) kekeluargaan c ) keseimbangan d ) musyawarah e ) keadilan sosial 3 ) rumusan ir .
-sentence 3: soekarno pada tanggal 1 juni 1945 berlangsunglah rapat terakhir dalam persidangan pertama itu .
-sentence 4: pada kesempatan itulah ir soekarno mengemukakan pidatonya yang kemudian dikenal sebagai ” lahirnya pancasila ” .
-sentence 5: selain berisi pandangan mengenai dasar negara indonesia merdeka , keistimewaan pidato ir soekarno juga berisi usulan mengenai nama bagi dasar negara , yaitu pancasila , trisiia , atau ekasila .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok252.txt
+title : biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia
+passage 3 score = 8.0
+sentence 1: masalahnya , semua studio radio hoso kyoku sudah di jaga ketat sejak beberapa hari sebelumnya , tepatnya sehari setelah hiroshima dan nagasaki di bom oleh amerika .
+sentence 2: jusuf kemudian berunding dengan rekan-rekannya , diantaranya bachtiar lubis ( kakak dari sastrawan dan tokoh pers indonesia mochtar lubis ) dan joe saragih , seorang teknisi radio .
+sentence 3: beruntung , studio siaran luar negeri tidak dijaga .
+sentence 4: saat itu juga dengan bantuan joe , kabel di studio siaran dalam negeri di lepas dan disambungkan ke studio siaran luar negeri .
+sentence 5: tepat pukul 19:00 wib selama kurang lebh 15 menit jusuf pun membacakan kabar tentang proklamasi di udara , sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang jepang .
+passage 1 score = 6.5
+sentence 1: biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia - syahruddin dalah seorang telegraphis pada kantor berita jepang ( domei ) yang mengabarkan berita proklamasi kemerdekaan negara indonesia ke seluruh dunia secara sembunyi-sembunyi ketika personil jepang istirahat pada tanggal 17 agustus 1945 jam 4 sore .
+sentence 2: tanpa jasa syahruddin , maka niscaya berita proklamasi tidak akan cepat disebarluaskan .
+sentence 3: jumat , 17 agustus 1945 , sekitar jam 17:30 wib .
+sentence 4: saat itu pak jusuf sedang berada di kantornya , hoso kyoku ( radio militer jepang di jakarta ) .
+sentence 5: tiba-tiba muncullah syahruddin , seorang pewarta dari kantor berita jepang domei dengan tergesa-gesa .
+passage 4 score = 6.0
+sentence 1: tepat pukul 19:00 wib selama kurang lebh 15 menit jusuf pun membacakan kabar tentang proklamasi di udara , sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang jepang .
+sentence 2: belakangan tentara jepang mengetahui akal bulus jusuf dan kawan-kawannya .
+sentence 3: mereka pun sempat disiksa .
+sentence 4: beruntung mereka selamat .
+sentence 5: malam itu pun radio hoso kyoku resmi dinyatakan bubar , tetapi dunia saat itu juga sudah mengetahui kabar tentang proklamasi langsung dari mulut jusuf ronodipuro .
+passage 2 score = 3.0
+sentence 1: tiba-tiba muncullah syahruddin , seorang pewarta dari kantor berita jepang domei dengan tergesa-gesa .
+sentence 2: ( catatan : pak jusuf sempat meralat kebenaran berita bahwa yang datang itu adalah sejarawan des alwi ) .
+sentence 3: syahruddin yang masuk ke kantor hoso kyoku dengan melompati pagar itu menyerahkan selembar kertas dari adam malik yang isinya “ harap berita terlampir disiarkan ” .
+sentence 4: berita yang dimaksud adalah naskah proklamasi yang telah dibacakan bung karno jam 10 pagi .
+sentence 5: masalahnya , semua studio radio hoso kyoku sudah di jaga ketat sejak beberapa hari sebelumnya , tepatnya sehari setelah hiroshima dan nagasaki di bom oleh amerika .
+passage 5 score = 1.0
+sentence 1: malam itu pun radio hoso kyoku resmi dinyatakan bubar , tetapi dunia saat itu juga sudah mengetahui kabar tentang proklamasi langsung dari mulut jusuf ronodipuro .
+sentence 2: sayang rekaman suara ini tidak diketahui lagi keberadaannya , atau jangan-jangan sudah tidak ada mengingat malam itu juga radio tersebut ditutup oleh jepang .
+sentence 3: [ gs ]
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok255.txt
+title : yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri
+passage 1 score = 6.5
+sentence 1: yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri - yusuf ronodipuro ( lahir di salatiga , jawa tengah , 30 september 1919 – meninggal di jakarta selatan , 27 januari 2008 pada umur 88 tahun ) adalah duta besar indonesia .
+sentence 2: pada awalnya ia dikenal sebagai penyiar kemerdekaan republik indonesia secara luas .
+sentence 3: selain itu ia pernah menjadi duta besar luar biasa indonesia di uruguay , argentina , dan chili .
+sentence 4: yusuf ronodipuro dianggap sebagai salah satu tokoh pahlawan indonesia karena perannya dalam menyiarkan proklamasi kemerdekaan indonesia ke seluruh dunia saat dia bekerja di radio hoso kyoku .
+sentence 5: dia juga adalah salah satu pendiri dari radio republik indonesia pada tanggal 11 september 1945 , yang berdiri sampai sekarang , dan kemudian hari jadinya diperingati setiap tanggal 11 september .
+passage 2 score = 6.5
+sentence 1: dia juga adalah salah satu pendiri dari radio republik indonesia pada tanggal 11 september 1945 , yang berdiri sampai sekarang , dan kemudian hari jadinya diperingati setiap tanggal 11 september .
+sentence 2: di negara dengan luas wilayah sebesar indonesia , tentu bukan perkara mudah mengabarkan berita proklamasi ke seluruh penjuru nusantara pada tahun 1945 .
+sentence 3: hanya radio lah yang bisa menjangkau seluruh pelosok negeri .
+sentence 4: kala itu satu-satunya stasiun radio yang ada hanyalah hoso kyoku , milik dai nippon .
+sentence 5: lalu bagaimana kabar kemerdekaan kita bisa disebarluaskan ?
+passage 9 score = 6.5
+sentence 1: esoknya , hari kamis 16 agustus 1945 tidak ada kejadian berarti , siaran berjalan seperti biasa .
+sentence 2: malam harinya ada sedikit keributan di depan kantor , ternyata sukarni datang bersama beberapa orang jepang tetapi dilarang masuk .
+sentence 3: dari dalam mobil , sukarni berteriak , “ tunggu , akan ada pengumuman penting , ” lalu ia pergi .
+sentence 4: di tempat lain , di sebuah rumah di pegangsaan 56 , tanggal 16 agustus dini hari , selepas sahur , sukarni dkk datang ke rumah bung karno .
+sentence 5: mereka berusaha meyakinkan bung karno bahwa jakarta tidak aman karena jakarta akan menjadi lautan api , sehingga mereka ingin mengamankan bung karno dan bung hatta ke rengasdengklok .
+passage 14 score = 6.5
+sentence 1: “ semua studio dan ruang kontrol dijaga oleh kempetai , bahkan saat itu semua naskah siaran harus disensor dulu termasuk lagu-lagu .
+sentence 2: lalu saya teringat studio siaran luar negeri yang sejak tanggal 15 sudah ditutup , ” ujar jusuf .
+sentence 3: untunglah nasib baik berpihak kepada mereka , ternyata studio siaran luar negeri tidak dijaga .
+sentence 4: dengan berhati-hati mereka menyelinap masuk ke dalam studio .
+sentence 5: tepat pukul 7 malam , jusuf siap di depan corong radio untuk menyampaikan proklamasi kemerdekaan indonesia ke seluruh penjuru nusantara dan dunia .
+passage 3 score = 6.0
+sentence 1: lalu bagaimana kabar kemerdekaan kita bisa disebarluaskan ?
+sentence 2: adalah seorang pria muda bernama jusuf ronodipuro yang kala itu bekerja di hoso kyoku jakarta ( radio militer jepang di jakarta ) yang mengumandangkan pesan penting tersebut .
+sentence 3: ia menuturkan kisahnya .
+sentence 4: pada tanggal 14 agustus 1945 , jusuf muda yang bekerja sebagai reporter di hoso kyoku datang seperti biasa ke kantornya di jalan medan merdeka utara .
+sentence 5: suasana pagi itu tampak lain , beberapa orang jepang yang bekerja di radio tersebut tampak bergerombol , mereka berbisik-bisik dalam suasana yang muram , bahkan gadis-gadis jepang terlihat menangis .
+passage 8 score = 6.0
+sentence 1: diisolasi hari itu pimpinan hoso kyoku menyampaikan dua pengumuman kepada para karyawan .
+sentence 2: pertama , para karyawan yang sudah di kantor dilarang keluar lagi dan yang di luar tidak diizinkan masuk .
+sentence 3: kedua , siaran luar negeri dihentikan ( mungkin agar berita kekalahan jepang tidak sampai ke rakyat indonesia ) .
+sentence 4: jadilah mereka semua diisolasi di kantor radio dan terpaksa bermalam di sana .
+sentence 5: esoknya , hari kamis 16 agustus 1945 tidak ada kejadian berarti , siaran berjalan seperti biasa .
+passage 10 score = 6.0
+sentence 1: mereka berusaha meyakinkan bung karno bahwa jakarta tidak aman karena jakarta akan menjadi lautan api , sehingga mereka ingin mengamankan bung karno dan bung hatta ke rengasdengklok .
+sentence 2: kedua pemimpin tersebut setuju dan berangkatlah mereka menggunakan mobil ke rengasdengklok .
+sentence 3: hari itu tak hanya serdadu jepang yang sibuk mencari bung karno dan bung hatta , para anggota ppki ( panitia persiapan kemerdekaan indonesia ) juga mencari karena sedianya hari itu dilakukan rapat .
+sentence 4: malam harinya kedua pemimpin tersebut kembali ke jakarta dan langsung melakukan rapat perumusan naskah proklamasi di rumah laksamana tadashi mayda di jalan imam bonjol no. 1 dengan dihadiri anggota ppki dan angkatan muda .
+sentence 5: kembali ke jalan medan merdeka , hari jumat 17 agustus 1945 , radio hoso kyoku tetap melakukan siaran seperti biasa .
+passage 11 score = 6.0
+sentence 1: kembali ke jalan medan merdeka , hari jumat 17 agustus 1945 , radio hoso kyoku tetap melakukan siaran seperti biasa .
+sentence 2: jusuf dkk tidak mengetahui bahwa indonesia telah menyatakan kemerdekaan karena komunikasi dengan dunia luar memang terputus .
+sentence 3: “ siang itu beberapa mahasiswa kedokteran berhasil masuk ke lobi membawa kertas .
+sentence 4: di tangga , pistol yang dibawa seorang mahasiswa terjatuh dan diketahui tentara kanpetai .
+sentence 5: mereka lalu ditendang dan diusir keluar , ” jusuf mengenang .
+passage 12 score = 6.0
+sentence 1: mereka lalu ditendang dan diusir keluar , ” jusuf mengenang .
+sentence 2: kemungkinan mahasiswa tersebut membawa pengumuman proklamasi untuk disiarkan .
+sentence 3: sore hari , sekitar jam 17.30 , ketika jusuf sedang menyiapkan menu berbuka puasa , masuk seorang teman dari kantor berita dome ( jusuf lupa namanya ) .
+sentence 4: dengan pakaian kotor dan basah oleh keringat karena ia meloncati tembok belakang kantor radio , ia menyampaikan secarik kertas .
+sentence 5: secarik kertas bertuliskan tulisan tangan dari adam malik .
+passage 15 score = 6.0
+sentence 1: tepat pukul 7 malam , jusuf siap di depan corong radio untuk menyampaikan proklamasi kemerdekaan indonesia ke seluruh penjuru nusantara dan dunia .
+sentence 2: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+title : sejarah teknologi perkembangan senjata
+passage 3 score = 7.5
+sentence 1: salah satu senjata yang paling menakutkan dan da-pat membantu mengakhiri perang dunia ii adalah bom atom .
+sentence 2: senjata yang disebut bom atom itu dibuat pertama kali oleh amerika serikat pada tanggal 16 juli 1945 di alamo gardo , new mexico .
+sentence 3: bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada tanggal 8 agustus 1945 dan kota nagasaki pada tanggal 9 agustus 1945 .
+sentence 4: akibat pemboman itu jepang menye-rah dan berakhirlah perang dunia ii .
+sentence 5: bom dalam bentuk apa pun apabila me-ledak akan menimbulkan kerugian pada manusia dan alam sekitarnya .
+passage 5 score = 6.5
+sentence 1: keberhasilan amerika serikat dalam menciptakan bom atom , ternyata dalam waktu yang tidak terlalu lama dapat diikuti oleh pesaingnya uni soviet .
+sentence 2: pada tahun 1949 uni soviet berhasil melakukan uji coba peledakan bom atomnya .
+sentence 3: tentu saja keberhasilan uni soviet itu menimbulkan kecemasan amerika serikat sehingga negara tersebut berusaha mencari dan menciptakan bom tandingannya .
+sentence 4: oleh karena itu , amerika serikat segera melakukan penelitian tentang bom hidrogen .
+sentence 5: bom hidrogen mendapatkan tenaga dari penggabungan inti-inti atom hidrogen berat dan deuteron .
+passage 7 score = 6.5
+sentence 1: oleh karena itu , bom hidrogen proses fusinya dapat dimanfaatkan untuk maksud pertahanan dan tujuan damai .
+sentence 2: namun , pengem-bangan dan keberhasilan penciptaan bom hidrogen oleh amerika serikat seakan-akan menjadi sia-sia .
+sentence 3: hal itu disebabkan uni soviet pun menyusul mampu menciptakan bom hidrogen pula .
+sentence 4: uni soviet berhasil mengembangkan bom hidrogen pada sekitar tahun 1953 .
+sentence 5: kedua negara adidaya itupun akhirnya berlomba-lomba menciptakan bom dan persenjataan nuklir .
+passage 13 score = 5.5
+sentence 1: perundingan salt secara umum mempunyai tujuan sebagai antara lain : memperkecil kemungkinan terjadinya perang nuklir ; apabila perang tidak dapat dihindarkan , diharapkan akibatnya tidak terlalu menghancurkan ; menghemat biaya pertahanan ; mencegah terjadinya perlombaan senjata strategis .
+sentence 2: upaya meredakan perang dingin dengan mengurangi , membatasi , dan memusnahkan persenjataan nuklir dilakukan pada kurun waktu 1968 – 1982 .
+sentence 3: bentuk persetujuan yang dicapai , antara lain sebagai berikut .
+sentence 4: perjanjian nonproliferasi nuklir ( nonproliferation treaty ) perjanjian nonproliferasi nuklir dilaksanakan pada tahun 1968 yang diikuti oleh negara inggris , amerika serikat , dan uni soviet .
+sentence 5: pertemuan itu menyepakati bahwa mereka tidak akan menjual senjata nuklir atau memberikan informasi kepada negara-negara nonnuklir .
+passage 14 score = 5.5
+sentence 1: pertemuan itu menyepakati bahwa mereka tidak akan menjual senjata nuklir atau memberikan informasi kepada negara-negara nonnuklir .
+sentence 2: perjanjian pembatasan persenjataan strategis ( strategic arms limitation talks/salt i ) perjanjian salt i ditandatangani oleh richard nixon , presiden amerika serikat dan leonid breshnev , sekjen partai komunis uni soviet pada tanggal 26 mei 1972 .
+sentence 3: pertemuan kedua pemimpin negara adidaya itu menyepakati untuk : 1 ) pembatasan terhadap sistem pertahanan antipeluru kendali ( anti-balistic missile = abm ) ; 2 ) pembatasan senjata-senjata ofensif strategis , seperti inter-continental ballistic missile ( icbm = peluru kendali balistik antarbenua ) dan sea-launched ballistic missile ( slbm = peluru kendali balistik yang diluncurkan dari laut / kapal ) .
+sentence 4: perjanjian pengurangan persenjataan strategis ( strategic arms reduction treaty/start ) perjanjian pengurangan persenjataan strategis dilakukan oleh amerika serikat dan uni soviet pada tahun 1982 .
+sentence 5: perjanjian itu menyepakati bahwa kedua negara adidaya akan memusnahkan persenjataan nuklir yang dapat mencapai sasaran jarak menengah .
+passage 16 score = 5.5
+sentence 1: para anggota asean berharap agar wilayah asia tenggara benar-benar tidak dipakai sebagaiajang percobaan dan perang nuklir .
+sentence 2: kesepakatan itu tertuang dalam perjanjian yang disebut persetujuan kawasan bebas senjata nuklir asia tenggara ( south easth asian nuclear weapons free zone/seanwfz ) .
+sentence 3: persetujuan itu ditandatangani di bangkok , thailand pada tahun 1995 .
+sentence 4: perserikatan bangsa-bangsa pun berusaha menghindarkan perang nuklir demi keamanan internasional .
+sentence 5: usaha pbb itu dimulai sejak tahun 1968 .
+passage 17 score = 5.0
+sentence 1: usaha pbb itu dimulai sejak tahun 1968 .
+sentence 2: wujud nyata usaha pbb dalam mengurangi dan menghindarkan perang nuklir tertuang dalam resolusi no. 255 .
+sentence 3: resolusi itu memuat seruan kepada amerika serikat dan uni soviet untuk membantu negara-negara nonnuklir yang menjadi korban perang nuklir .
+sentence 4: upaya peredaan perang dingin yang berarti menghindari perang nuklir tidak hanya dilakukan oleh pihak amerika serikat dan uni soviet , tetapi juga dilakukan oleh negara-negara sedang berkembang .
+sentence 5: mereka yang sebagian besar belum begitu lama mendapatkan kemerdekaan sangat mencemaskan akan terjadinya perang nuklir .
+passage 18 score = 5.0
+sentence 1: mereka yang sebagian besar belum begitu lama mendapatkan kemerdekaan sangat mencemaskan akan terjadinya perang nuklir .
+sentence 2: negara-negara sedang berkembang berupaya meredakan ketegangan dunia akibat perang dingin dengan mengadakan berbagai konferensi dan membentuk forum kerja sama , seperti konferensi asia afrika di bandung 1955 dan forum kerja sama gerakan non blok .
+sentence 3: [ am ]
+passage 1 score = 1.5
+sentence 1: sejarah teknologi perkembangan senjata berakhirnya perang dunia ii menyebabkan kekuatan dunia terbagi atas dua blok , yaitu blok barat pimpinan amerika serikat dan blok timur pimpinan uni soviet .
+sentence 2: blok barat dan blok timur tersebut saling bersaing berebut pengaruh dalam berbagai bidang kehidupan manusia .
+sentence 3: persaingan yang paling mencolok dalam masa perang dingin adalah dalam bidang mi-liter , khususnya dalam hal persenjataan .
+sentence 4: kedua negara adidaya itu saling berlomba mencipta-kan berbagai senjata yang mutakhir dan me-matikan , misalnya bom .
+sentence 5: bom adalah senjata ledak yang lazim digunakan dalam perang .
+passage 2 score = 1.5
+sentence 1: bom adalah senjata ledak yang lazim digunakan dalam perang .
+sentence 2: terorisme juga melibatkan penggunaan bom .
+sentence 3: bom umumnya terdiri atas wadah logam yang diisi dengan bahan peledak atau bahan kimia .
+sentence 4: bom melukai dan menewaskan orang serta merusakkan gedung dan bangunan lain , kapal , pesawat terbang , ataupun sasaran lain .
+sentence 5: salah satu senjata yang paling menakutkan dan da-pat membantu mengakhiri perang dunia ii adalah bom atom .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+title : perkembangan teknologi persenjataan pada masa perang dingin
+passage 2 score = 7.5
+sentence 1: bom umumnya terdiri atas wadah logam yang diisi dengan bahan peledak atau bahan kimia .
+sentence 2: bom melukai dan menewaskan orang serta merusakkan gedung dan bangunan lain , kapal , pesawat terbang , ataupun sasaran lain .
+sentence 3: salah satu senjata yang paling menakutkan dan dapat membantu mengakhiri perang dunia ii adalah bom atom .
+sentence 4: senjata yang disebut bom atom itu dibuat pertama kali oleh amerika serikat pada tanggal 16 juli 1945 di alamo gardo , new mexico .
+sentence 5: bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada tanggal 8 agustus 1945 dan kota nagasaki pada tanggal 9 agustus 1945 .
+passage 3 score = 7.5
+sentence 1: bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada tanggal 8 agustus 1945 dan kota nagasaki pada tanggal 9 agustus 1945 .
+sentence 2: akibat pemboman itu jepang menyerah dan berakhirlah perang dunia ii .
+sentence 3: bom dalam bentuk apa pun apabila meledak akan menimbulkan kerugian pada manusia dan alam sekitarnya .
+sentence 4: tenaga atom yang ditimbulkan akan menimbulkan radiasi yang apabila diterima dalam jumlah besar akan sangat fatal akibatnya .
+sentence 5: debu radioaktif dan endapan dari awan yang tertiup angin dan bertebaran di daratan dapat mengakibatkan kerusakan pada tanaman serta membinasakan hewan dan manusia .
+passage 4 score = 6.5
+sentence 1: debu radioaktif dan endapan dari awan yang tertiup angin dan bertebaran di daratan dapat mengakibatkan kerusakan pada tanaman serta membinasakan hewan dan manusia .
+sentence 2: pada jangka panjang ledakan bom atom akan mengakibatkan kematian serta kanker pada manusia , sedangkan kerusakan genetis akan terlihat pada generasi-generasi berikutnya .
+sentence 3: keberhasilan amerika serikat dalam menciptakan bom atom , ternyata dalam waktu yang tidak terlalu lama dapat diikuti oleh pesaingnya uni soviet .
+sentence 4: pada tahun 1949 uni soviet berhasil melakukan uji coba peledakan bom atomnya .
+sentence 5: tentu saja keberhasilan uni soviet itu menimbulkan kecemasan amerika serikat sehingga negara tersebut berusaha mencari dan menciptakan bom tandingannya .
+passage 7 score = 6.5
+sentence 1: hal itu disebabkan uni soviet pun menyusul mampu menciptakan bom hidrogen pula .
+sentence 2: uni soviet berhasil mengembangkan bom hidrogen pada sekitar tahun 1953 .
+sentence 3: kedua negara adidaya itupun akhirnya berlomba-lomba menciptakan bom dan persenjataan nuklir .
+sentence 4: bom nuklir adalah sebuah bom yang mempunyai daya ledak luar biasa yang berasal dari peristiwa pembelahan ( fisi ) dan penggabungan ( fusi ) inti-inti atom .
+sentence 5: efek yang ditimbulkan merupakan akibat dari pelepasan energi yang sangat besar dalam waktu singkat .
+passage 13 score = 5.5
+sentence 1: upaya meredakan perang dingin dengan mengurangi , membatasi , dan memusnahkan persenjataan nuklir dilakukan pada kurun waktu 1968 – 1982 .
+sentence 2: bentuk persetujuan yang dicapai , antara lain sebagai berikut .
+sentence 3: a. perjanjian nonproliferasi nuklir ( nonproliferation treaty ) perjanjian nonproliferasi nuklir dilaksanakan pada tahun 1968 yang diikuti oleh negara inggris , amerika serikat , dan uni soviet .
+sentence 4: pertemuan itu menyepakati bahwa mereka tidak akan menjual senjata nuklir atau memberikan informasi kepada negara-negara nonnuklir .
+sentence 5: b. perjanjian pembatasan persenjataan strategis ( strategic arms limitation talks/salt i ) perjanjian salt i ditandatangani oleh richard nixon , presiden amerika serikat dan leonid breshnev , sekjen partai komunis uni soviet pada tanggal 26 mei 1972 .
+passage 14 score = 5.5
+sentence 1: b. perjanjian pembatasan persenjataan strategis ( strategic arms limitation talks/salt i ) perjanjian salt i ditandatangani oleh richard nixon , presiden amerika serikat dan leonid breshnev , sekjen partai komunis uni soviet pada tanggal 26 mei 1972 .
+sentence 2: pertemuan kedua pemimpin negara adidaya itu menyepakati untuk : 1 ) pembatasan terhadap sistem pertahanan antipeluru kendali ( anti-balistic missile = abm ) 2 ) pembatasan senjata-senjata ofensif strategis , seperti inter-continental ballistic missile ( icbm = peluru kendali balistik antarbenua ) dan sea-launched ballistic missile ( slbm = peluru kendali balistik yang diluncurkan dari laut / kapal ) .
+sentence 3: c. perjanjian pengurangan persenjataan strategis ( strategic arms reduction treaty/start ) perjanjian pengurangan persenjataan strategis dilakukan oleh amerika serikat dan uni soviet pada tahun 1982 .
+sentence 4: perjanjian itu menyepakati bahwa kedua negara adidaya akan memusnahkan persenjataan nuklir yang dapat mencapai sasaran jarak menengah .
+sentence 5: upaya menghindari bahaya perang nuklir juga diadakan oleh negara-negara lain yang tidak memiliki persenjataan nuklir .
+passage 16 score = 5.5
+sentence 1: kesepakatan itu tertuang dalam perjanjian yang disebut persetujuan kawasan bebas senjata nuklir asia tenggara ( south easth asian nuclear weapons free zone/seanwfz ) .
+sentence 2: persetujuan itu ditandatangani di bangkok , thailand pada tahun 1995 .
+sentence 3: perserikatan bangsa-bangsa pun berusaha menghindarkan perang nuklir demi keamanan internasional .
+sentence 4: usaha pbb itu dimulai sejak tahun 1968 .
+sentence 5: wujud nyata usaha pbb dalam mengurangi dan menghindarkan perang nuklir tertuang dalam resolusi no. 255 .
+passage 12 score = 5.0
+sentence 1: untuk detente dilakukan pembicaraan-pembicaraan dalam rangka mengurangi ketegangan antardua negara adidaya tersebut .
+sentence 2: perundingan untuk meredakan perang dingin dilakukan oleh amerika serikat dan uni soviet melalui strategic arms limitation talks ( salt ) atau perundingan pembatasan persenjataan strategis dan strategic arms reduction treaty ( start ) atau perundingan pengurangan persenjataan strategis .
+sentence 3: perundingan salt dapat berlangsung dengan baik karena amerika serikat dan uni soviet sama-sama mempunyai iktikad untuk menghindari perang nuklir yang membahayakan keselamatan umat manusia .
+sentence 4: perundingan salt secara umum mempunyai tujuan sebagai antara lain : a. memperkecil kemungkinan terjadinya perang nuklir ; b. apabila perang tidak dapat dihindarkan , diharapkan akibatnya tidak terlalu menghancurkan ; c. menghemat biaya pertahanan ; d. mencegah terjadinya perlombaan senjata strategis .
+sentence 5: upaya meredakan perang dingin dengan mengurangi , membatasi , dan memusnahkan persenjataan nuklir dilakukan pada kurun waktu 1968 – 1982 .
+passage 17 score = 5.0
+sentence 1: wujud nyata usaha pbb dalam mengurangi dan menghindarkan perang nuklir tertuang dalam resolusi no. 255 .
+sentence 2: resolusi itu memuat seruan kepada amerika serikat dan uni soviet untuk membantu negara-negara nonnuklir yang menjadi korban perang nuklir .
+sentence 3: upaya peredaan perang dingin yang berarti menghindari perang nuklir tidak hanya dilakukan oleh pihak amerika serikat dan uni soviet , tetapi juga dilakukan oleh negara-negara sedang berkembang .
+sentence 4: mereka yang sebagian besar belum begitu lama mendapatkan kemerdekaan sangat mencemaskan akan terjadinya perang nuklir .
+sentence 5: negara-negara sedang berkembang berupaya meredakan ketegangan dunia akibat perang dingin dengan mengadakan berbagai konferensi dan membentuk forum kerja sama , seperti konferensi asia afrika di bandung 1955 dan forum kerja sama gerakan non blok .
+passage 18 score = 5.0
+sentence 1: negara-negara sedang berkembang berupaya meredakan ketegangan dunia akibat perang dingin dengan mengadakan berbagai konferensi dan membentuk forum kerja sama , seperti konferensi asia afrika di bandung 1955 dan forum kerja sama gerakan non blok .
+sentence 2: [ ps ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+title : perkembangan sistem ekonomi internasional dengan perubahan politik dan ekonomi indonesia
+passage 7 score = 7.5
+sentence 1: lahirnya perserikatan bangsa-bangsa dilandasi adanya charter of peace ( piagam perdamaian ) diharapkan dapat menjamin keamanan dan ketertiban dunia , mencegah terulangnya perang dunia , serta menjamin keselamatan dunia .
+sentence 2: semakin kuat kedudukan golongan cerdik pandai .
+sentence 3: pd ii menunjukkan bahwa peperangan tidak dapat dimenangkan tanpa bantuan kaum cerdik pandai yang merupakan prajurit tanpa senjata yang berjuang di laboratorium dengan penelitian-penelitian , sehingga dapat ditemukan alat-alat perang modern seperti radar , peluru kendali , bom atom , dan sebagainya .
+sentence 4: bom atom berhasil mengakhiri pd ii setelah sukses diujicobakan di kota hirosima pada tanggal 6 agustus 1945 dan kota nagasaki pada tanggal 9 agustus 1945 .
+sentence 5: 3 .
+passage 13 score = 5.5
+sentence 1: program bantuan ekonomi amerika serikat tersebut dikenal dengan nama marshall plan yang dicetuskan pada tanggal 5 juli 1947 .
+sentence 2: negara-negara eropa barat yang menerima bantuan ekonomi melalui marshall plan harus bersedia bekerja sama dengan amerika serikat untuk meningkatkan produksi secara maksimal , menciptakan lapangan kerja , dan meningkatkan volume perdagangan .
+sentence 3: negara-negara eropa barat dengan memperoleh bantuan ekonomi melalu marshall plan secara bertahap berhasil menata kembali keadaan perekonomiannya .
+sentence 4: bahkan , masyarakat eropa barat akhirnya dapat membentuk suatu badan kerja sama ekonomi yang disebut masyarakat ekonomi eropa ( mee ) atau european economic community ( eec ) pada tanggal 25 maret 1957 di roma , italia .
+sentence 5: di dalam pertemuan di roma digariskan tujuan pembentukan masyarakat ekonomi eropa , antara lain : meningkatkan perekonomian negara anggota melalui kerja sama yang harmonis ; memperluas bidang perdagangan ; liberalisasi dalam perdagangan ; menjaga keseimbangan perdagangan di antara negara anggota ; menghapus semua rintangan yang menghambat laju perdagangan antaranggota ; memperluas kerja sama perdagangan dengan negara lain .
+passage 12 score = 5.0
+sentence 1: hancurnya perekonomian dunia menyebabkan amerika serikat dan uni soviet sebagai negara adidaya tampil memberikan bantuan ekonomi .
+sentence 2: namun , kedua negara adidaya itu tidak sekadar memberi bantuan ekonomi .
+sentence 3: dibalik pemberian bantuan ekonomi tersebut , kedua negara adidaya juga memperluas pengaruh ideologinya .
+sentence 4: presiden amerika serikat , harry s. truman dengan dibantu menteri luar negeri , marshall menawarkan bantuan ekonomi ke sejumlah negara eropa barat .
+sentence 5: program bantuan ekonomi amerika serikat tersebut dikenal dengan nama marshall plan yang dicetuskan pada tanggal 5 juli 1947 .
+passage 14 score = 5.0
+sentence 1: di dalam pertemuan di roma digariskan tujuan pembentukan masyarakat ekonomi eropa , antara lain : meningkatkan perekonomian negara anggota melalui kerja sama yang harmonis ; memperluas bidang perdagangan ; liberalisasi dalam perdagangan ; menjaga keseimbangan perdagangan di antara negara anggota ; menghapus semua rintangan yang menghambat laju perdagangan antaranggota ; memperluas kerja sama perdagangan dengan negara lain .
+sentence 2: pada awalnya masyarakat ekonomi eropa beranggotakan negara jerman barat , prancis , italia , belgia , belanda , dan luksemburg .
+sentence 3: namun , pada konferensi mee di brusel , belgia pada tanggal 22 januari 1962 keanggotaannya bertambah dengan masuknya inggris , irlandia , denmark , dan norwegia .
+sentence 4: amerika serikat juga berusaha memperluas paham ideologinya ke wilayah lainnya .
+sentence 5: misalnya , amerika serikat juga berusaha mendekati negara yunani dan turki agar bersedia bergabung dalam ideologi liberalisme kapitalisme .
+passage 1 score = 0.0
+sentence 1: perkembangan sistem ekonomi internasional dengan perubahan politik dan ekonomi indonesia - perang dunia ii merupakan perang yang sangat mengerikan dan lebih hebat dibandingkan dengan perang dunia i. akibat yang ditimbulkan perang dunia ii menyangkut perubahan bidang politik dan ekonomi .
+sentence 2: 1 .
+sentence 3: perubahan di bidang politik perubahan politik yang tampak setelah berakhirnya perang dunia ii , antara lain sebagai berikut .
+sentence 4: tampilnya amerika serikat dan uni soviet sebagai negara adidaya amerika serikat dan uni soviet adalah dua negara adikuasa ( super power ) yang besar peranannya di dalam mengakhiri pd ii dan memainkan peranan di dunia internasional .
+sentence 5: negara barat lain , seperti inggris , prancis , jerman , dan italia , sudah mundur kedudukannya sebagai kekuatan dunia ( world power ) .
+passage 2 score = 0.0
+sentence 1: negara barat lain , seperti inggris , prancis , jerman , dan italia , sudah mundur kedudukannya sebagai kekuatan dunia ( world power ) .
+sentence 2: terjadi persaingan di antara negara adidaya amerika serikat dan uni soviet berusaha untuk saling berpengaruh dan berkuasa di dunia .
+sentence 3: persekutuan mereka dalam pd ii merupakan persekutuan aneh .
+sentence 4: mereka dapat bersekutu karena mempunyai musuh yang sama , yaitu pihak poros ( jerman , jepang , dan italia ) namun , setelah musuh bersamanya lenyap , amerika serikat yang berpaham liberal-kapitalis tidak sejalan dengan uni soviet yang berpaham sosialis-komunis .
+sentence 5: secara material , amerika serikat lebih kuat dibandingkan uni soviet .
+passage 3 score = 0.0
+sentence 1: secara material , amerika serikat lebih kuat dibandingkan uni soviet .
+sentence 2: mereka saling berebut untuk mendapatkan pengaruh dan berkuasa di dunia .
+sentence 3: timbul politik memecah belah .
+sentence 4: amerika serikat dan uni soviet berusaha menjalankan politik memecah belah bangsa lain demi kepentingan mereka sendiri .
+sentence 5: mereka membagi negaranegara yang mempunyai arti penting , seperti korea , vietnam , dan jerman untuk mendukung kepentingan kedua negara adidaya tersebut .
+passage 4 score = 0.0
+sentence 1: mereka membagi negaranegara yang mempunyai arti penting , seperti korea , vietnam , dan jerman untuk mendukung kepentingan kedua negara adidaya tersebut .
+sentence 2: timbulnya negara-negara nasional .
+sentence 3: negara-negara imperialis barat , seperti , as , inggris , prancis , belanda , portugal , dan spanyol tidak mampu lagi menghalangi semangat perjuangan bangsa-bangsa yang mereka jajah .
+sentence 4: usaha untuk menindas rakyat jajahan hanya membuang biaya dan mengorbankan rakyatnya sendiri .
+sentence 5: mereka mengakui atau memberikan kemerdekaan kembali kepada negara-negara yang dijajah .
+passage 5 score = 0.0
+sentence 1: mereka mengakui atau memberikan kemerdekaan kembali kepada negara-negara yang dijajah .
+sentence 2: dengan demikian pasca-pd ii banyak negara-negara di kawaan asia dan afrika memperoleh kemerdekaan .
+sentence 3: timbul persekutuan militer kembali .
+sentence 4: sebagai balance of power policy ( penyeimbang kekuatan ) , negara-negara adidaya berusaha mengadakan persekutuan baru demi keamanan bersama ( collective security ) sehingga timbul pakta-pakta yang bersifat militer .
+sentence 5: misalnya , amerika serikat mendirikan north atlantic treaty organization ( nato ) yang diimbangi oleh uni soviet dengan membentuk persekutuan militer pact of mutual assistance and unifield command atau pakta warsawa .
+passage 6 score = 0.0
+sentence 1: misalnya , amerika serikat mendirikan north atlantic treaty organization ( nato ) yang diimbangi oleh uni soviet dengan membentuk persekutuan militer pact of mutual assistance and unifield command atau pakta warsawa .
+sentence 2: 2 .
+sentence 3: perubahan di bidang sosial terbentuknya united nations ( un ) atau perserikatan bangsa-bangsa ( pbb ) .
+sentence 4: berakhirnya perang dunia ii menyebabkan lahirnya perserikatan bangsa-bangsa ( pbb ) sebagai lembaga dunia penyempurnaan dari liga bangsa bangsa ( lbb ) .
+sentence 5: lahirnya perserikatan bangsa-bangsa dilandasi adanya charter of peace ( piagam perdamaian ) diharapkan dapat menjamin keamanan dan ketertiban dunia , mencegah terulangnya perang dunia , serta menjamin keselamatan dunia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
 title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
 passage 1 score = 7.5
 sentence 1: peristiwa seputar proklamasi kemerdekaan 17 agustus 1945 - menjelang berakhirnya perang dunia ii ( 1939-1945 ) pasukan gabungan sekutu yaitu front abcd ( amerika serikat , british / inggris , china dan dutch / belanda ) berhasil mengalahkan pasukan tentara jepang dalam pertempuran di laut karang pada tanggal 7 mei 1945 .
@@ -510,195 +538,72 @@ sentence 3: peristiwa seputar proklamasi dari rengasdengklok hingga proklamasi k
 sentence 4: meskipun demikian aspirasi-aspirasi tersebut merupakan suatu upaya agar kemerdekaan yang diperoleh merupakan hasil perjuangan bangsa indonesia , bukan pemberian dari jepang atau bangsa asing lainnya .
 sentence 5: adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada tanggal 14 agustus 1945 jepang menyerah tanpa syarat pada sekutu di kapal missaurri milik angkatan laut amerika serikat .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-title : proses interaksi masyarakat di berbagai daerah dengan tradisi hindu-buddha
-passage 2 score = 5.0
-sentence 1: menghadapi proses akulturasi tersebut , menurut para ahli , bangsa indonesia bersikap pasif maupun aktif .
-sentence 2: pada awalnya bersikap pasif menerima ajaran-ajaran baru , di kemudian hari aktif mencari ilmu hingga mengirim pelajarnya ke luar negeri dan mengundang brahmana dari luar negeri untuk memberi pelajaran .
-sentence 3: proses akulturasi selama berabad-abad menimbulkan sinkretisme antara kedua agama tersebut dan unsur budaya asli hingga lahirlah agama baru yang dikenal sebagai syiwa buddha .
-sentence 4: sinkretisme adalah paham atau aliran baru yang merupakan perpaduan dari beberapa paham untuk mencari keserasian dan keseimbangan .
-sentence 5: aliran ini berkembang pesat pada abad ke-13 m. penganutnya , antara lain , raja kertanegara dan adityawarman .
-passage 3 score = 5.0
-sentence 1: aliran ini berkembang pesat pada abad ke-13 m. penganutnya , antara lain , raja kertanegara dan adityawarman .
-sentence 2: sastra , dan seni bangunan yang merupakan unsur kebudayaan material .
-sentence 3: akulturasi budaya ini juga dapat kita saksikan dalam upacara-upacara ritual .
-sentence 4: pelaksanaan proses akulturasi tersebut dilakukan oleh para cendekiawan , agamawan , arsitek , sastrawan istana maupun rakyat , dan para seniman .
-sentence 5: pengaruh kebudayaan hindu-buddha terhadap seni bangunan pengaruh kebudayaan hindu-buddha dalam bidang arsitektur atau seni bangunan dapat kita lihat dengan jelas pada candi-candi .
-passage 15 score = 5.0
-sentence 1: gaya relief tiap-tiap daerah memiliki keunikan .
-sentence 2: relief di jawa timur bergaya mayang dengan objek-objeknya berbentuk gepeng ( dua dimensi ) .
-sentence 3: adapun relief di jawa tengah bergaya naturalis dengan lekukan-lekukan yang dalam sehingga memberi kesan tiga dimensi .
-sentence 4: pada masa kerajaan majapahit , relief di jawa timur meniru gaya jawa tengah dengan memberikan latar belakang pemandangan sehingga tercipta kesan tiga dimensi .
-sentence 5: relief-relief yang penting sebagai berikut .
-passage 19 score = 5.0
-sentence 1: kata mahabharatayudha sendiri berarti peperangan besar antarkeluarga bharata .
-sentence 2: menurut cerita , kitab ini dihimpun oleh wiyasa dwipayana .
-sentence 3: akan tetapi , para ahli sejarah beranggapan bahwa lebih masuk akal jika kitab itu merupakan kumpulan berbagai cerita brahmana antara tahun 400 sm sampai 400 m. kitab ramayana dikarang oleh walmiki .
-sentence 4: kitab ini terdiri atas tujuh jilid ( kanda ) dan digubah dalam bentuk syair sebanyak 24.000 seloka .
-sentence 5: kitab ini berisi perjuangan rama dalam merebut kembali istrinya , dewi sinta ( sita ) , yang diculik oleh rahwana .
-passage 27 score = 5.0
-sentence 1: seiring dengan perkembangan perdagangan internasional , hubungan dagang antara indonesia – india – cina pun berkembang .
-sentence 2: wolters berpendapat bahwa perkembangan ini akibat dari sikap terbuka dan bersahabat dengan orang asing serta penghargaan terhadap barang dagangan yang dibawa orang asing .
-sentence 3: sikap ini pula yang memungkinkan agama hindu-buddha dapat berkembang di indonesia .
-sentence 4: dalam berbagai prasasti yang ditemukan , disebutkan bahwa pada abad ke-5 masehi , bangsa indonesia telah mampu turut serta dalam perdagangan maritim internasional asia .
-sentence 5: perkembangan ini dipicu pula oleh perkembangan teknologi transportasi pelayaran .
-passage 28 score = 5.0
-sentence 1: perkembangan ini dipicu pula oleh perkembangan teknologi transportasi pelayaran .
-sentence 2: i-tsing , musafir dan pendeta buddha dari cina yang mampir ke indonesia pada abad ke-7 dalam perjalanannya ke india dengan menumpang kapal milik sriwijaya , mengatakan bahwa pada awalnya bangsa indonesia memang telah akrab dengan dunia pelayaran , meski baru terbatas pada pulau-pulau yang berdekatan .
-sentence 3: alat transportasi yang digunakan adalah kapal cadik berukuran kecil .
-sentence 4: bersamaan dengan munculnya kerajaan-kerajaan besar , seperti sriwijaya , singasari , dan majapahit , mulailah dikenal teknologi pembuatan kapalkapal yang lebih besar dan pelayaran yang dilakukan dapat menjangkau jarak yang lebih jauh .
-sentence 5: bangsa indonesia jadi dapat berperan lebih aktif dalam perdagangan internasional dengan berlayar sendiri ke negara-negara yang biasanya berdagang dengan indonesia .
-passage 1 score = 0.0
-sentence 1: proses interaksi masyarakat di berbagai daerah dengan tradisi hindu-buddha - masuknya suatu kebudayaan asing ke dalam lingkup suatu masyarakat dapat menimbulkan tiga kemungkinan : kedua kebudayaan itu akan berakulturasi , berjauhan , atau salah satu hancur .
-sentence 2: akulturasi kebudayaan adalah pencampuran dua kebudayaan atau lebih yang melakukan kebudayaan baru .
-sentence 3: dalam perkembangan kehidupan masyarakat nusantara ketika terjalin hubungan dagang antara india , cina , dan indonesia , terjadilah akulturasi budaya .
-sentence 4: akulturasi budaya hindu-buddha india dengan budaya asli nusantara secara damai melahirkan budaya baru yang disebut budaya hindu-buddha nusantara .
-sentence 5: menghadapi proses akulturasi tersebut , menurut para ahli , bangsa indonesia bersikap pasif maupun aktif .
-passage 4 score = 0.0
-sentence 1: pengaruh kebudayaan hindu-buddha terhadap seni bangunan pengaruh kebudayaan hindu-buddha dalam bidang arsitektur atau seni bangunan dapat kita lihat dengan jelas pada candi-candi .
-sentence 2: ada perbedaan fungsi antara candi dalam agama hindu dan candi dalam agama buddha .
-sentence 3: dalam agama hindu , candi difungsikan sebagai makam .
-sentence 4: adapun dalam agama buddha , candi berfungsi sebagai tempat pemujaan atau peribadatan .
-sentence 5: meski difungsikan sebagai makam , namun tidak berarti bahwa mayat atau abu jenazah dikuburkan dalam candi .
-passage 5 score = 0.0
-sentence 1: meski difungsikan sebagai makam , namun tidak berarti bahwa mayat atau abu jenazah dikuburkan dalam candi .
-sentence 2: benda yang dikuburkan atau dicandikan adalah macam-macam benda yang disebut pripih .
-sentence 3: pripih ini dianggap sebagai lambang zat jasmaniah yang rohnya sudah bersatu dengan dewa penitisnya .
-sentence 4: pripih ini diletakkan dalam peti batu di dasar bangunan , kemudian di atasnya dibuatkan patung dewa sebagai perwujudan sang raja .
-sentence 5: arca perwujudan raja itu umumnya adalah syiwa atau lambang syiwa , yaitu lingga .
-passage 6 score = 0.0
-sentence 1: arca perwujudan raja itu umumnya adalah syiwa atau lambang syiwa , yaitu lingga .
-sentence 2: pada candi buddha , tidak terdapat pripih dan arca perwujudan raja .
-sentence 3: abu jenazah raja ditanam di sekitar candi dalam bangunan stupa .
-sentence 4: bangunan candi terdiri atas tiga bagian , yaitu kaki , tubuh , dan atap .
-sentence 5: kaki candi berbentuk persegi ( bujur sangkar ) .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-title : sejarah teknologi perkembangan senjata
-passage 3 score = 7.5
-sentence 1: salah satu senjata yang paling menakutkan dan da-pat membantu mengakhiri perang dunia ii adalah bom atom .
-sentence 2: senjata yang disebut bom atom itu dibuat pertama kali oleh amerika serikat pada tanggal 16 juli 1945 di alamo gardo , new mexico .
-sentence 3: bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada tanggal 8 agustus 1945 dan kota nagasaki pada tanggal 9 agustus 1945 .
-sentence 4: akibat pemboman itu jepang menye-rah dan berakhirlah perang dunia ii .
-sentence 5: bom dalam bentuk apa pun apabila me-ledak akan menimbulkan kerugian pada manusia dan alam sekitarnya .
-passage 5 score = 6.5
-sentence 1: keberhasilan amerika serikat dalam menciptakan bom atom , ternyata dalam waktu yang tidak terlalu lama dapat diikuti oleh pesaingnya uni soviet .
-sentence 2: pada tahun 1949 uni soviet berhasil melakukan uji coba peledakan bom atomnya .
-sentence 3: tentu saja keberhasilan uni soviet itu menimbulkan kecemasan amerika serikat sehingga negara tersebut berusaha mencari dan menciptakan bom tandingannya .
-sentence 4: oleh karena itu , amerika serikat segera melakukan penelitian tentang bom hidrogen .
-sentence 5: bom hidrogen mendapatkan tenaga dari penggabungan inti-inti atom hidrogen berat dan deuteron .
-passage 7 score = 6.5
-sentence 1: oleh karena itu , bom hidrogen proses fusinya dapat dimanfaatkan untuk maksud pertahanan dan tujuan damai .
-sentence 2: namun , pengem-bangan dan keberhasilan penciptaan bom hidrogen oleh amerika serikat seakan-akan menjadi sia-sia .
-sentence 3: hal itu disebabkan uni soviet pun menyusul mampu menciptakan bom hidrogen pula .
-sentence 4: uni soviet berhasil mengembangkan bom hidrogen pada sekitar tahun 1953 .
-sentence 5: kedua negara adidaya itupun akhirnya berlomba-lomba menciptakan bom dan persenjataan nuklir .
-passage 13 score = 5.5
-sentence 1: perundingan salt secara umum mempunyai tujuan sebagai antara lain : memperkecil kemungkinan terjadinya perang nuklir ; apabila perang tidak dapat dihindarkan , diharapkan akibatnya tidak terlalu menghancurkan ; menghemat biaya pertahanan ; mencegah terjadinya perlombaan senjata strategis .
-sentence 2: upaya meredakan perang dingin dengan mengurangi , membatasi , dan memusnahkan persenjataan nuklir dilakukan pada kurun waktu 1968 – 1982 .
-sentence 3: bentuk persetujuan yang dicapai , antara lain sebagai berikut .
-sentence 4: perjanjian nonproliferasi nuklir ( nonproliferation treaty ) perjanjian nonproliferasi nuklir dilaksanakan pada tahun 1968 yang diikuti oleh negara inggris , amerika serikat , dan uni soviet .
-sentence 5: pertemuan itu menyepakati bahwa mereka tidak akan menjual senjata nuklir atau memberikan informasi kepada negara-negara nonnuklir .
-passage 14 score = 5.5
-sentence 1: pertemuan itu menyepakati bahwa mereka tidak akan menjual senjata nuklir atau memberikan informasi kepada negara-negara nonnuklir .
-sentence 2: perjanjian pembatasan persenjataan strategis ( strategic arms limitation talks/salt i ) perjanjian salt i ditandatangani oleh richard nixon , presiden amerika serikat dan leonid breshnev , sekjen partai komunis uni soviet pada tanggal 26 mei 1972 .
-sentence 3: pertemuan kedua pemimpin negara adidaya itu menyepakati untuk : 1 ) pembatasan terhadap sistem pertahanan antipeluru kendali ( anti-balistic missile = abm ) ; 2 ) pembatasan senjata-senjata ofensif strategis , seperti inter-continental ballistic missile ( icbm = peluru kendali balistik antarbenua ) dan sea-launched ballistic missile ( slbm = peluru kendali balistik yang diluncurkan dari laut / kapal ) .
-sentence 4: perjanjian pengurangan persenjataan strategis ( strategic arms reduction treaty/start ) perjanjian pengurangan persenjataan strategis dilakukan oleh amerika serikat dan uni soviet pada tahun 1982 .
-sentence 5: perjanjian itu menyepakati bahwa kedua negara adidaya akan memusnahkan persenjataan nuklir yang dapat mencapai sasaran jarak menengah .
-passage 16 score = 5.5
-sentence 1: para anggota asean berharap agar wilayah asia tenggara benar-benar tidak dipakai sebagaiajang percobaan dan perang nuklir .
-sentence 2: kesepakatan itu tertuang dalam perjanjian yang disebut persetujuan kawasan bebas senjata nuklir asia tenggara ( south easth asian nuclear weapons free zone/seanwfz ) .
-sentence 3: persetujuan itu ditandatangani di bangkok , thailand pada tahun 1995 .
-sentence 4: perserikatan bangsa-bangsa pun berusaha menghindarkan perang nuklir demi keamanan internasional .
-sentence 5: usaha pbb itu dimulai sejak tahun 1968 .
-passage 17 score = 5.0
-sentence 1: usaha pbb itu dimulai sejak tahun 1968 .
-sentence 2: wujud nyata usaha pbb dalam mengurangi dan menghindarkan perang nuklir tertuang dalam resolusi no. 255 .
-sentence 3: resolusi itu memuat seruan kepada amerika serikat dan uni soviet untuk membantu negara-negara nonnuklir yang menjadi korban perang nuklir .
-sentence 4: upaya peredaan perang dingin yang berarti menghindari perang nuklir tidak hanya dilakukan oleh pihak amerika serikat dan uni soviet , tetapi juga dilakukan oleh negara-negara sedang berkembang .
-sentence 5: mereka yang sebagian besar belum begitu lama mendapatkan kemerdekaan sangat mencemaskan akan terjadinya perang nuklir .
-passage 18 score = 5.0
-sentence 1: mereka yang sebagian besar belum begitu lama mendapatkan kemerdekaan sangat mencemaskan akan terjadinya perang nuklir .
-sentence 2: negara-negara sedang berkembang berupaya meredakan ketegangan dunia akibat perang dingin dengan mengadakan berbagai konferensi dan membentuk forum kerja sama , seperti konferensi asia afrika di bandung 1955 dan forum kerja sama gerakan non blok .
-sentence 3: [ am ]
-passage 1 score = 1.5
-sentence 1: sejarah teknologi perkembangan senjata berakhirnya perang dunia ii menyebabkan kekuatan dunia terbagi atas dua blok , yaitu blok barat pimpinan amerika serikat dan blok timur pimpinan uni soviet .
-sentence 2: blok barat dan blok timur tersebut saling bersaing berebut pengaruh dalam berbagai bidang kehidupan manusia .
-sentence 3: persaingan yang paling mencolok dalam masa perang dingin adalah dalam bidang mi-liter , khususnya dalam hal persenjataan .
-sentence 4: kedua negara adidaya itu saling berlomba mencipta-kan berbagai senjata yang mutakhir dan me-matikan , misalnya bom .
-sentence 5: bom adalah senjata ledak yang lazim digunakan dalam perang .
-passage 2 score = 1.5
-sentence 1: bom adalah senjata ledak yang lazim digunakan dalam perang .
-sentence 2: terorisme juga melibatkan penggunaan bom .
-sentence 3: bom umumnya terdiri atas wadah logam yang diisi dengan bahan peledak atau bahan kimia .
-sentence 4: bom melukai dan menewaskan orang serta merusakkan gedung dan bangunan lain , kapal , pesawat terbang , ataupun sasaran lain .
-sentence 5: salah satu senjata yang paling menakutkan dan da-pat membantu mengakhiri perang dunia ii adalah bom atom .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok177.txt
-title : ekonomi perang masa pendudukan jepang
-passage 1 score = 5.0
-sentence 1: ekonomi perang masa pendudukan jepang - pada jaman pendudukan jepang kehidupan ekonomi rakyat sangat menderita .
-sentence 2: lemahnya ekonomi rakyat berawal dari sistem bumi hangus hindia belanda ketika mengalami kekalahan dari jepang pada bulan maret 1942 .
-sentence 3: sejak itulah kehidupan ekonomi menjadi lumpuh dan keadaan ekonomi berubah dari ekonomi rakyat menjadi ekonomi perang .
-sentence 4: langkah pertama yang dilakukan jepang adalah merehabilitasi prasarana ekonomi seperti jembatan , alat-alat transportasi dan komunikasi .
-sentence 5: selanjutnya jepang menyita seluruh kekayaan musuh dan dijadikan hak milik jepang , seperti perkebunan-perkebunan , bank-bank , pabrik-pabrik , perusahaan-perusahaan , telekomunikasi dan lainlain .
-passage 2 score = 0.0
-sentence 1: selanjutnya jepang menyita seluruh kekayaan musuh dan dijadikan hak milik jepang , seperti perkebunan-perkebunan , bank-bank , pabrik-pabrik , perusahaan-perusahaan , telekomunikasi dan lainlain .
-sentence 2: hal ini dilakukan karena pasukan jepang dalam melakukan serangan ke luar negaranya tidak membawa perbekalan makanan kebijakan ekonomi pemerintah pendudukan jepang diprioritaskan untuk kepentingan perang .
-sentence 3: perkebunan kopi , teh dan tembakau yang dianggap sebagai barang kenikmatan dan kurang bermanfaat bagi kepentingan perang diganti dengan tanaman penghasil bahan makanan dana tanaman jarak untuk pelumas .
-sentence 4: pola ekonomi perang yang dilancarakan oleh tokyo dilaksanakan secara konsekuen dalam wilayah yang diduduki oleh angkatan perangnya .
-sentence 5: setiap lingkungan daerah harus melaksanakan autarki ( berdiri di atas kaki sendiri ) , yang disesuaikan dengan situasi perang .
-passage 3 score = 0.0
-sentence 1: setiap lingkungan daerah harus melaksanakan autarki ( berdiri di atas kaki sendiri ) , yang disesuaikan dengan situasi perang .
-sentence 2: jawa dibagi atas 17 lingkungan autarki , sumatra atas 3 lingkungan dan daerah minseifu ( daerah yang diperintah angkatan laut jepang ) dibagi atas 3 lingkungan autarki .
-sentence 3: karena dengan sistem desentralisasi maka jawa merupakan bagian daripada “ lingkungan kemakmuran bersama asia timur raya ” mempunyai dua tugas , yakni : memenuhi kebutuhan sendiri untuk tetap bertahan , mengusahakan produksi barang - barang untuk kepentingan perang .
-sentence 4: seluruh kekayaan alam indonesia dimanfaatkan jepang untuk biaya perang .
-sentence 5: bahan makanan dihimpun dari rakyat untuk persediaan prajurit jepang seharihari , bahkan juga untuk keperluan perang jangka panjang .
-passage 4 score = 0.0
-sentence 1: bahan makanan dihimpun dari rakyat untuk persediaan prajurit jepang seharihari , bahkan juga untuk keperluan perang jangka panjang .
-sentence 2: beberapa tindakan jepang dalam memeras sumber daya alam dengan cara-cara berikut ini : petani wajib menyetorkan hasil panen berupa padi dan jagung untuk keperluan konsumsi militer jepang .
-sentence 3: hal ini mengakibatkan rakyat menderita kelaparan .
-sentence 4: penebangan hutan secara besar-besaran untuk keperluan industri alat-alat perang , misalnya kayu jati untuk membuat tangkai senjata .
-sentence 5: pemusnahan hutan ini mengakibatkan banjir dan erosi yang sangat merugikan para petani .
-passage 5 score = 0.0
-sentence 1: pemusnahan hutan ini mengakibatkan banjir dan erosi yang sangat merugikan para petani .
-sentence 2: di samping itu erosi dapat mengurangi kesuburan tanah .
-sentence 3: perkebunan-perkebunan yang tidak ada kaitannya dengan keperluan perang dimusnahkan , misalnya perkebunan tembakau di sumatera .
-sentence 4: selanjutnya petani diwajibkan menanam pohon jarak karena biji jarak dijadikan minyak pelumas mesin pesawat terbang .
-sentence 5: akibatnya petani kehilangan lahan pertanian dan kehilangan waktu mengerjakan sawah .
-passage 6 score = 0.0
-sentence 1: akibatnya petani kehilangan lahan pertanian dan kehilangan waktu mengerjakan sawah .
-sentence 2: sedangkan untuk perkebunan-perkebunan kina , tebu , dan karet tidak dimusnahkan karena tanaman ini bermanfaat untuk kepentingan perang .
-sentence 3: penyerahan ternak sapi , kerbau dan lain-lain bagi pemilik ternak .
-sentence 4: kemudian ternak dipotong secara besar-besaran untuk keperluan konsumsi tentara jepang .
-sentence 5: hal ini mengakibatkan hewan-hewan berkurang padahal diperlukan untuk pertanian , yakni untuk membajak .
-passage 7 score = 0.0
-sentence 1: hal ini mengakibatkan hewan-hewan berkurang padahal diperlukan untuk pertanian , yakni untuk membajak .
-sentence 2: dengan dua tugas inilah maka serta kekayaan pulau jawa menjadi korban dari sistem ekonomi perang pemerintah pendudukan jepang .
-sentence 3: cara yang ditempuh untuk pengerahan tenaga romusha ini dengan bujukan , tetapi apabila tidak berhasil dengan cara paksa .
-sentence 4: untuk menarik simpati penduduk , jepang mengatakan bahwa romusha adalah pahlawan pekerja yang dihormati atau prajurit ekonomi .
-sentence 5: mereka digambarkan sebagai orang yang sedang menunaikan tugas sucinya untuk memenangkan perang asia timur raya .
-passage 8 score = 0.0
-sentence 1: mereka digambarkan sebagai orang yang sedang menunaikan tugas sucinya untuk memenangkan perang asia timur raya .
-sentence 2: sedangkan panitia pengerah romusha disebut romukyokai .
-sentence 3: di samping rakyat , bagi para pamong praja dan pegawai rendahan juga melakukan kerja bakti sukarela yang disebut kinrohoshi .
-sentence 4: pemimpin-pemimpin indonesia membantu pemerintah jepang dalam kegiatan romusha ini .
-sentence 5: bung karno memberi contoh berkinrohonsi ( kerja bakti ) , bung hatta memimpin badan pembantu prajurit pekerja atau romusha .
-passage 9 score = 0.0
-sentence 1: bung karno memberi contoh berkinrohonsi ( kerja bakti ) , bung hatta memimpin badan pembantu prajurit pekerja atau romusha .
-sentence 2: ali sastroamijoyo , s.h. mempelopori pembaktian barang-barang perhiasan rakyat untuk membantu biaya perang jepang .
-sentence 3: akibat dari romusha ini jumlah pria di kampung-kampung semakin menipis , banyak pekerjaan desa yang terbengkelai , ribuan rakyat tidak kembali lagi ke kampungnya , karena mati atau dibunuh oleh jepang .
-sentence 4: coba bandingkan dengan rodi pada jaman penjajahan belanda !
-sentence 5: untuk mengawasi penduduk atas terlaksananya gerakan-gerakan jepang maka dibentuklah tonarigumi ( rukun tetangga ) sampai ke pelosok pelosok pedesaan .
-passage 10 score = 0.0
-sentence 1: untuk mengawasi penduduk atas terlaksananya gerakan-gerakan jepang maka dibentuklah tonarigumi ( rukun tetangga ) sampai ke pelosok pelosok pedesaan .
-sentence 2: dengan demikian sumber daya manusia rakyat indonesia khususnya di jawa dimanfaatkan secara kejam untuk kepentingan jepang .
-sentence 3: akibat dari tekanan politik , ekonomi , sosial maupun kultural ini menjadikan mental bangsa indonesia mengalami ketakutan dan kecemasan .
-sentence 4: [ gs ]
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+passage 34 score = 7.5
+sentence 1: pada 1 april 1945 pasukan amerika mendarat di okinawa .
+sentence 2: kemudian pada tanggal 6 dan 9 agustus 1945 amerika menjatukan bom atom di hiroshima dan nagasaki ( jepang ) .
+sentence 3: beberapa hari kemudian , pada 14 agustus 1945 , jepang menyerah kepada tentara sekutu .
+sentence 4: kejadian tersebut membuka peluang bagi bangsa indonesia untuk memproklamirkan kemerdekaan .
+sentence 5: tiga hari setelah jepang menyerah tanpa syarat , pada tanggal 17 agustus 1945 , pemimpin nasional indonesia ir .
+passage 1 score = 5.5
+sentence 1: bpupki a.pembentukan bpupki badan penyelidik usaha persiapan kemerdekaan indonesia atau ( jepang : dokuritsu junbi cosakai atau dilafalkan dokuritsu zyunbi tyoosakai ) adalah sebuah badan yang dibentuk oleh pemerintah pendudukan balatentara jepang pada tanggal 29 april 1945 bertepatan dengan hari ulang tahun kaisar hirohito .
+sentence 2: badan ini dibentuk sebagai upaya mendapatkan dukungan bangsa indonesia dengan menjanjikan bahwa jepang akan membantu proses kemerdekaan indonesia .
+sentence 3: bpupki beranggotakan 63 orang yang diketuai oleh radjiman wedyodiningrat dengan wakil ketua hibangase yosio ( orang jepang ) dan r.p. soeroso .
+sentence 4: adapun latar belakang pembentukan bpupki secara formil , termuat dalam maklumat gunseikan nomor 23 tanggal 29 mei 1945 , dilihat dari latar belakang dikeluarnya maklumat no. 23 itu adalah karena kedudukan facisme ( kekuasaan ) jepang yang sudah sangat terancam .
+sentence 5: maka sebenarnya , kebijaksanaan pemerintah jepang dengan membentuk bpupki bukan merupakan kebaikan hati yang murni tetapi jepang hanya ingin mementingkan dirinya sendiri , yaitu pertama ; jepang ingin mempertahankan sisa-sisa kekuatannya dengan cara memikat hati rakyat indonesia , dan yang kedua ; untuk melaksanakan politik kolonialnya .
+passage 2 score = 5.5
+sentence 1: maka sebenarnya , kebijaksanaan pemerintah jepang dengan membentuk bpupki bukan merupakan kebaikan hati yang murni tetapi jepang hanya ingin mementingkan dirinya sendiri , yaitu pertama ; jepang ingin mempertahankan sisa-sisa kekuatannya dengan cara memikat hati rakyat indonesia , dan yang kedua ; untuk melaksanakan politik kolonialnya .
+sentence 2: di luar anggota bpupki , dibentuk sebuah badan tata usaha ( semacam sekretariat ) yang beranggotakan 60 orang .
+sentence 3: badan tata usaha ini dipimpin oleh r.p.soeroso , dengan wakil abdoel gafar pringgodigdo dan masuda ( orang jepang ) .
+sentence 4: pada tanggal 7 agustus 1945 , jepang membubarkan bpupki dan membentuk panitia persiapan kemerdekaan indonesia atau ( jepang : dokuritsu junbi inkai ) dengan anggota berjumlah 21 orang sebagai upaya pencerminan perwakilan etnis [ 1 ] terdiri berasal dari 12 orang dari jawa , 3 orang dari sumatra , 2 orang dari sulawesi , 1 orang dari kalimantan , 1 orang dari nusa tenggara , 1 orang dari maluku , 1 orang dari tionghoa .
+sentence 5: pada tahun 1944 saipan jatuh ke tangan sekutu.dengan pasukan jepang di papua nugini kepulauan solomon , dan kepulauan marshall yang berhasil di pukul mundur oleh pasukan sekutu.dalam situasi kritis tersebut , pada tanggal 1 maret 1945 letnan jendral kumakici harada , pimpinan pemerintah pendudukan jepang di jawa , mengumumkan pembentukan badan penyelidik usaha-usaha persiapan kemerdekan indonesia ( dokuritsu junbi cosakai ) .
+passage 3 score = 5.5
+sentence 1: pada tahun 1944 saipan jatuh ke tangan sekutu.dengan pasukan jepang di papua nugini kepulauan solomon , dan kepulauan marshall yang berhasil di pukul mundur oleh pasukan sekutu.dalam situasi kritis tersebut , pada tanggal 1 maret 1945 letnan jendral kumakici harada , pimpinan pemerintah pendudukan jepang di jawa , mengumumkan pembentukan badan penyelidik usaha-usaha persiapan kemerdekan indonesia ( dokuritsu junbi cosakai ) .
+sentence 2: pengangkatan pengurus ini di umumkan pada tanggal 29 april 1945 .
+sentence 3: dr.radjiman wediodiningrat diangkat sebagai ( kaico ) , sedangkan yang duduk sebagai ketua muda ( fuku kico ) pertama di jabat oleh seorang jepang , shucokai cirebon yang bernama icibangase .
+sentence 4: r .
+sentence 5: p .
+passage 5 score = 5.5
+sentence 1: pringgodigdo yang disusul dengan pengibaran bendera merah putih oleh toyohiko masuda .
+sentence 2: rapat pertama rapat pertama diadakan di gedung chuo sangi in di jalan pejambon 6 jakarta yang kini dikenal dengan sebutan gedung pancasila .
+sentence 3: pada zaman belanda , gedung tersebut merupakan gedung volksraad , lembaga dpr pada jaman kolonial belanda .
+sentence 4: rapat dibuka pada tanggal 28 mei 1945 dan pembahasan dimulai keesokan harinya 29 mei 1945 dengan tema dasar negara .
+sentence 5: pada rapat pertama ini terdapat 3 orang yang mengajukan pendapatnya tentang dasar negara .
+passage 6 score = 5.5
+sentence 1: pada rapat pertama ini terdapat 3 orang yang mengajukan pendapatnya tentang dasar negara .
+sentence 2: pada tanggal 29 mei 1945 , mr. muhammad yamin dalam pidato singkatnya mengemukakan lima asas yaitu : peri kebangsaan peri ke tuhanan kesejahteraan rakyat peri kemanusiaan peri kerakyatan pada tanggal 31 mei 1945 , prof. dr. mr. soepomo mengusulkan lima asas yaitu persatuan mufakat dan demokrasi keadilan sosial kekeluargaan musyawarah pada tanggal 1 juni 1945 , soekarno mengusulkan lima asas pula yang disebut pancasila yaitu : kebangsaan indonesia internasionalisme dan peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa kelima asas dari soekarno disebut pancasila yang menurut beliau bilamana diperlukan dapat diperas menjadi trisila atau tiga sila yaitu : sosionasionalisme sosiodemokrasi ketuhanan yang berkebudayaan bahkan masih menurut soekarno , trisila tersebut di atas bila diperas kembali disebutnya sebagai ekasila yaitu merupakan sila gotong royong merupakan upaya soekarno dalam menjelaskan bahwa konsep tersebut adalah dalam satu-kesatuan .
+sentence 3: selanjutnya lima asas tersebut kini dikenal dengan istilah pancasila , namun konsep bersikaf kesatuan tersebut pada akhirnya disetujui dengan urutan serta redaksi yang sedikit berbeda .
+sentence 4: sementara itu , perdebatan terus berlanjut di antara peserta sidang bpupki mengenai penerapan aturan islam dalam indonesia yang baru .
+sentence 5: masa antara rapat pertama dan kedua sampai akhir rapat pertama , masih belum ditemukan kesepakatan untuk perumusan dasar negara , sehingga akhirnya dibentuklah panitia kecil untuk menggodok berbagai masukan .
+passage 7 score = 5.5
+sentence 1: masa antara rapat pertama dan kedua sampai akhir rapat pertama , masih belum ditemukan kesepakatan untuk perumusan dasar negara , sehingga akhirnya dibentuklah panitia kecil untuk menggodok berbagai masukan .
+sentence 2: panitia kecil beranggotakan 9 orang dan dikenal pula sebagai panitia sembilan dengan susunan sebagai berikut : ir .
+sentence 3: soekarno ( ketua ) drs. moh .
+sentence 4: hatta ( wakil ketua ) mr. achmad soebardjo ( anggota ) mr. muhammad yamin ( anggota ) kh .
+sentence 5: wachid hasyim ( anggota ) abdul kahar muzakir ( anggota ) abikoesno tjokrosoejoso ( anggota ) h. agus salim ( anggota ) mr. a.a. maramis ( anggota ) setelah melakukan kompromi antara 4 orang dari kaum kebangsaan ( nasionalis ) dan 4 orang dari pihak islam , tanggal 22 juni 1945 panitia sembilan kembali bertemu dan menghasilkan rumusan dasar negara yang dikenal dengan piagam jakarta ( jakarta charter ) yang berisikan : ketuhanan dengan kewajiban menjalankan syariat islam bagi pemeluk-pemeluknya kemanusiaan yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan keadilan sosial bagi seluruh rakyat indonesia rapat kedua rapat kedua berlangsung 10-17 juli 1945 dengan tema bahasan bentuk negara , wilayah negara , kewarganegaraan , rancangan undang-undang dasar , ekonomi dan keuangan , pembelaan negara , pendidikan dan pengajaran .
+passage 8 score = 5.5
+sentence 1: wachid hasyim ( anggota ) abdul kahar muzakir ( anggota ) abikoesno tjokrosoejoso ( anggota ) h. agus salim ( anggota ) mr. a.a. maramis ( anggota ) setelah melakukan kompromi antara 4 orang dari kaum kebangsaan ( nasionalis ) dan 4 orang dari pihak islam , tanggal 22 juni 1945 panitia sembilan kembali bertemu dan menghasilkan rumusan dasar negara yang dikenal dengan piagam jakarta ( jakarta charter ) yang berisikan : ketuhanan dengan kewajiban menjalankan syariat islam bagi pemeluk-pemeluknya kemanusiaan yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan keadilan sosial bagi seluruh rakyat indonesia rapat kedua rapat kedua berlangsung 10-17 juli 1945 dengan tema bahasan bentuk negara , wilayah negara , kewarganegaraan , rancangan undang-undang dasar , ekonomi dan keuangan , pembelaan negara , pendidikan dan pengajaran .
+sentence 2: dalam rapat ini dibentuk panitia perancang undang-undang dasar beranggotakan 19 orang dengan ketua ir .
+sentence 3: soekarno , panitia pembelaan tanah air dengan ketua abikoesno tjokrosoejoso dan panitia ekonomi dan keuangan diketuai mohamad hatta .
+sentence 4: dengan pemungutan suara , akhirnya ditentukan wilayah indonesia merdeka yakni wilayah hindia belanda dahulu , ditambah dengan malaya , borneo utara , papua , timor-portugis , dan pulau-pulau sekitarnya .
+sentence 5: pada tanggal 11 juli 1945 panitia perancang uud membentuk lagi panitia kecil beranggotakan 7 orang yaitu : prof. dr. mr. soepomo ( ketua merangkap anggota ) mr. wongsonegoro mr. achmad soebardjo mr. a.a. maramis mr. r.p. singgih h. agus salim dr. soekiman pada tanggal 13 juli 1945 panitia perancang uud mengadakan sidang untuk membahas hasil kerja panitia kecil perancang uud tersebut .
+passage 9 score = 5.5
+sentence 1: pada tanggal 11 juli 1945 panitia perancang uud membentuk lagi panitia kecil beranggotakan 7 orang yaitu : prof. dr. mr. soepomo ( ketua merangkap anggota ) mr. wongsonegoro mr. achmad soebardjo mr. a.a. maramis mr. r.p. singgih h. agus salim dr. soekiman pada tanggal 13 juli 1945 panitia perancang uud mengadakan sidang untuk membahas hasil kerja panitia kecil perancang uud tersebut .
+sentence 2: pada tanggal 14 juli 1945 , rapat pleno bpupki menerima laporan panitia perancang uud yang dibacakan oleh ir .
+sentence 3: soekarno .
+sentence 4: dalam laporan tersebut tercantum tiga masalah pokok yaitu : a. pernyataan indonesia merdeka b. pembukaan uud c. batang tubuh uud konsep proklamasi kemerdekaan rencananya akan disusun dengan mengambil tiga alenia pertama piagam jakarta .
+sentence 5: sedangkan konsep undang-undang dasar hampir seluruhnya diambil dari alinea keempat piagam jakarta .1 .
+passage 11 score = 5.5
+sentence 1: yamin mengemukakan lima ” ajas dasar negara republik indonesia ” sebagai berikut : a ) peri kebangsaan b ) peri kemusiaan c ) peri ke-tuhanan d ) perikerakyataan e ) kesejahteraan rakyat 2 ) rumusan prof. dr .
+sentence 2: mr. soepomo pada tanggal 31 mei 1945 prof. dr.mr soepomo mengajukan dasar negara indonesia merdeka yaitu sebagai berikut : a ) persatuan b ) kekeluargaan c ) keseimbangan d ) musyawarah e ) keadilan sosial 3 ) rumusan ir .
+sentence 3: soekarno pada tanggal 1 juni 1945 berlangsunglah rapat terakhir dalam persidangan pertama itu .
+sentence 4: pada kesempatan itulah ir soekarno mengemukakan pidatonya yang kemudian dikenal sebagai ” lahirnya pancasila ” .
+sentence 5: selain berisi pandangan mengenai dasar negara indonesia merdeka , keistimewaan pidato ir soekarno juga berisi usulan mengenai nama bagi dasar negara , yaitu pancasila , trisiia , atau ekasila .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
 title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
 passage 2 score = 8.5
 sentence 1: masa indonesia merdeka memasuki bulan agustus 1945 kedudukan jepang semakin kritis .
@@ -707,7 +612,7 @@ sentence 3: akibatnya jepang bertekuk lutut kepada sekutu tanggal 14 agustus 194
 sentence 4: dengan penyerahan jepang itu terjadi kevakuman kekuasaan di indonesia .
 sentence 5: bangsa indonesia kemudian mempergunakan kesempatan tersebut untuk memproklamasikan kemerdekaan pada 17 agustus 1945 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 passage 32 score = 8.5
 sentence 1: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
@@ -716,7 +621,7 @@ sentence 3: bahkan uni soviet mengingkari janjinya dan menyatakan perang terhada
 sentence 4: dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
 sentence 5: keesokan harinya , pada tanggal 15 agustus 1945 sukarno-hatta tiba kembali di tanah air .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
 title : jepang kalah perang dengan sekutu
 passage 11 score = 8.5
 sentence 1: menurut the history channel , pemkabarhuan itu disampaikan hirohito melewati siaran radio cocok pada tengah hari .
@@ -725,7 +630,7 @@ sentence 3: senjata yang dimaksud hirohito merupakan bom atom , yang dijatuhkan 
 sentence 4: pertama di kota hiroshima pada 6 agustus 1945 , serta tiga hari kemudian senjata pemusnah massal itu menghancurkan kota nagasaki .
 sentence 5: bagi as , dua bom atom itu sengaja dijatuhkan seusai jepang saat itu tak menunjukkan gelagat untuk menyerah .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
 title : jepang kalah perang dengan sekutu
 passage 12 score = 8.5
 sentence 1: bagi as , dua bom atom itu sengaja dijatuhkan seusai jepang saat itu tak menunjukkan gelagat untuk menyerah .
@@ -734,7 +639,7 @@ sentence 3: seusai tragedi di hiroshima serta nagasaki , pada 10 agustus 1945 , 
 sentence 4: pemkabarhuan itu dirayakan dengan pesta besar di new york , as , sebagai pertanda usainya perang dunia kedua .
 sentence 5: pernyataan menyerah terhadap pasukan sekutu baru resmi disampaikan jepang pada 2 september 1945 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok252.txt
 title : biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia
 passage 3 score = 8.0
 sentence 1: masalahnya , semua studio radio hoso kyoku sudah di jaga ketat sejak beberapa hari sebelumnya , tepatnya sehari setelah hiroshima dan nagasaki di bom oleh amerika .
@@ -743,25 +648,7 @@ sentence 3: beruntung , studio siaran luar negeri tidak dijaga .
 sentence 4: saat itu juga dengan bantuan joe , kabel di studio siaran dalam negeri di lepas dan disambungkan ke studio siaran luar negeri .
 sentence 5: tepat pukul 19:00 wib selama kurang lebh 15 menit jusuf pun membacakan kabar tentang proklamasi di udara , sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang jepang .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-title : bpupki-ppki dan peristiwa rengasdengklok
-passage 34 score = 7.5
-sentence 1: pada 1 april 1945 pasukan amerika mendarat di okinawa .
-sentence 2: kemudian pada tanggal 6 dan 9 agustus 1945 amerika menjatukan bom atom di hiroshima dan nagasaki ( jepang ) .
-sentence 3: beberapa hari kemudian , pada 14 agustus 1945 , jepang menyerah kepada tentara sekutu .
-sentence 4: kejadian tersebut membuka peluang bagi bangsa indonesia untuk memproklamirkan kemerdekaan .
-sentence 5: tiga hari setelah jepang menyerah tanpa syarat , pada tanggal 17 agustus 1945 , pemimpin nasional indonesia ir .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
-passage 1 score = 7.5
-sentence 1: peristiwa seputar proklamasi kemerdekaan 17 agustus 1945 - menjelang berakhirnya perang dunia ii ( 1939-1945 ) pasukan gabungan sekutu yaitu front abcd ( amerika serikat , british / inggris , china dan dutch / belanda ) berhasil mengalahkan pasukan tentara jepang dalam pertempuran di laut karang pada tanggal 7 mei 1945 .
-sentence 2: setelah itu , pasukan amerika serikat kemudian melakukan penyerbuan terhadap pusat-pusat industri , pemerintahan dan militer di jepang .
-sentence 3: sehingga akhirnya pada tanggal 6 agustus 1945 amerika serikat menjatuhkan bom atom dikota hiroshima dan pada tanggal 9 agustus 1945 amerika serikat menjatuhkan bom atom dikota nagasaki .
-sentence 4: setelah kedudukan jepang bertambah sulit baik dalam perang dunia ii maupun perang asia timur raya , maka perdana menteri jepang kaiso pada tanggal 7 september 1944 mengeluarkan janji kemerdekaan kepada bangsa indonesia kelak dikemudian hari .
-sentence 5: hal ini perlu dilakukan oleh jepang agar rakyat indonesia tidak melakukan perlawanan militer serta aksi-aksi perebutan kekuasaan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
 title : sejarah teknologi perkembangan senjata
 passage 3 score = 7.5
 sentence 1: salah satu senjata yang paling menakutkan dan da-pat membantu mengakhiri perang dunia ii adalah bom atom .
@@ -770,23 +657,41 @@ sentence 3: bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pad
 sentence 4: akibat pemboman itu jepang menye-rah dan berakhirlah perang dunia ii .
 sentence 5: bom dalam bentuk apa pun apabila me-ledak akan menimbulkan kerugian pada manusia dan alam sekitarnya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-passage 1 score = 6.5
-sentence 1: perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949 - masa kemerdekaan dan perjuangan untuk mempertahankan kemerdekaan dimulai dari tahun 1945-1949 , diwarnai dengan pengisian perlengkapan sebagai negara merdeka dan perjuangan bersenjata serta berbagai diplomasi antara bangsa indonesia dengan pihak belanda .
-sentence 2: diplomasi itu direalisasikan dalam perjanjian-perjanjian .
-sentence 3: intinya belanda sebenarnya tidak rela bila indonesia merdeka .
-sentence 4: sehingga dengan berbagai cara belanda ingin memecah belah republik indonesia yang baru lahir .
-sentence 5: masa indonesia merdeka memasuki bulan agustus 1945 kedudukan jepang semakin kritis .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+title : perkembangan teknologi persenjataan pada masa perang dingin
+passage 2 score = 7.5
+sentence 1: bom umumnya terdiri atas wadah logam yang diisi dengan bahan peledak atau bahan kimia .
+sentence 2: bom melukai dan menewaskan orang serta merusakkan gedung dan bangunan lain , kapal , pesawat terbang , ataupun sasaran lain .
+sentence 3: salah satu senjata yang paling menakutkan dan dapat membantu mengakhiri perang dunia ii adalah bom atom .
+sentence 4: senjata yang disebut bom atom itu dibuat pertama kali oleh amerika serikat pada tanggal 16 juli 1945 di alamo gardo , new mexico .
+sentence 5: bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada tanggal 8 agustus 1945 dan kota nagasaki pada tanggal 9 agustus 1945 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-passage 3 score = 6.5
-sentence 1: bangsa indonesia kemudian mempergunakan kesempatan tersebut untuk memproklamasikan kemerdekaan pada 17 agustus 1945 .
-sentence 2: panitia persiapan kemerdekaan indonesia ( ppki ) yang didirikan 7 agustus 1945 dijadikan badan nasional dengan menambah enam orang anggota sehingga badan tersebut beranggotakan 27 orang .
-sentence 3: melihat susunan anggotanya yang mewakili seluruh tanah air , maka pada waktu itu ppki dianggap sebagai “ badan perwakilan ” seluruh rakyat indonesia .
-sentence 4: sehari setelah proklamasi , 18 agustus 1945 ppki mengadakan sidang pertama .
-sentence 5: sidang tersebut berhasil mengesahkan uud serta menunjuk ir .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+title : perkembangan teknologi persenjataan pada masa perang dingin
+passage 3 score = 7.5
+sentence 1: bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada tanggal 8 agustus 1945 dan kota nagasaki pada tanggal 9 agustus 1945 .
+sentence 2: akibat pemboman itu jepang menyerah dan berakhirlah perang dunia ii .
+sentence 3: bom dalam bentuk apa pun apabila meledak akan menimbulkan kerugian pada manusia dan alam sekitarnya .
+sentence 4: tenaga atom yang ditimbulkan akan menimbulkan radiasi yang apabila diterima dalam jumlah besar akan sangat fatal akibatnya .
+sentence 5: debu radioaktif dan endapan dari awan yang tertiup angin dan bertebaran di daratan dapat mengakibatkan kerusakan pada tanaman serta membinasakan hewan dan manusia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+title : perkembangan sistem ekonomi internasional dengan perubahan politik dan ekonomi indonesia
+passage 7 score = 7.5
+sentence 1: lahirnya perserikatan bangsa-bangsa dilandasi adanya charter of peace ( piagam perdamaian ) diharapkan dapat menjamin keamanan dan ketertiban dunia , mencegah terulangnya perang dunia , serta menjamin keselamatan dunia .
+sentence 2: semakin kuat kedudukan golongan cerdik pandai .
+sentence 3: pd ii menunjukkan bahwa peperangan tidak dapat dimenangkan tanpa bantuan kaum cerdik pandai yang merupakan prajurit tanpa senjata yang berjuang di laboratorium dengan penelitian-penelitian , sehingga dapat ditemukan alat-alat perang modern seperti radar , peluru kendali , bom atom , dan sebagainya .
+sentence 4: bom atom berhasil mengakhiri pd ii setelah sukses diujicobakan di kota hirosima pada tanggal 6 agustus 1945 dan kota nagasaki pada tanggal 9 agustus 1945 .
+sentence 5: 3 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 1 score = 7.5
+sentence 1: peristiwa seputar proklamasi kemerdekaan 17 agustus 1945 - menjelang berakhirnya perang dunia ii ( 1939-1945 ) pasukan gabungan sekutu yaitu front abcd ( amerika serikat , british / inggris , china dan dutch / belanda ) berhasil mengalahkan pasukan tentara jepang dalam pertempuran di laut karang pada tanggal 7 mei 1945 .
+sentence 2: setelah itu , pasukan amerika serikat kemudian melakukan penyerbuan terhadap pusat-pusat industri , pemerintahan dan militer di jepang .
+sentence 3: sehingga akhirnya pada tanggal 6 agustus 1945 amerika serikat menjatuhkan bom atom dikota hiroshima dan pada tanggal 9 agustus 1945 amerika serikat menjatuhkan bom atom dikota nagasaki .
+sentence 4: setelah kedudukan jepang bertambah sulit baik dalam perang dunia ii maupun perang asia timur raya , maka perdana menteri jepang kaiso pada tanggal 7 september 1944 mengeluarkan janji kemerdekaan kepada bangsa indonesia kelak dikemudian hari .
+sentence 5: hal ini perlu dilakukan oleh jepang agar rakyat indonesia tidak melakukan perlawanan militer serta aksi-aksi perebutan kekuasaan .
 
 
 Pencarian jawaban
@@ -797,7 +702,7 @@ masa indonesia merdeka memasuki <TIME>bulan agustus 1945</TIME> kedudukan jepang
 
 memproses passage 2
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
 title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
 list jawaban dan posisi dalam passage
 bulan agustus 1945 | position = 4
@@ -828,7 +733,7 @@ pada <TIME>6 agustus 1945</TIME> <LOCATION>kota hiroshima</LOCATION> dibom oleh 
 
 memproses passage 2
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
 title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
 list jawaban dan posisi dalam passage
 6 agustus 1945 | position = 0
@@ -870,7 +775,7 @@ akibatnya jepang bertekuk lutut kepada <PERSON>sekutu</PERSON> <TIME>tanggal 14 
 
 memproses passage 2
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
 title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
 list jawaban dan posisi dalam passage
 tanggal 14 agustus 1945 | position = 5
@@ -903,7 +808,7 @@ bangsa indonesia kemudian mempergunakan kesempatan tersebut untuk memproklamasik
 
 memproses passage 2
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
 title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
 list jawaban dan posisi dalam passage
 17 agustus 1945 | position = 7
@@ -940,7 +845,7 @@ ketika ketiga tokoh itu berangkat kembali menuju jakarta pada <TIME>tanggal 14 a
 
 memproses passage 32
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 tanggal 14 agustus 1945 | position = 6
@@ -1001,7 +906,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 32
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
 title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
 list jawaban dan posisi dalam passage
 keesokan harinya | position = 0
@@ -1033,7 +938,7 @@ menurut the history channel , pemkabarhuan itu disampaikan hirohito melewati sia
 
 memproses passage 11
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
 title : jepang kalah perang dengan sekutu
 list jawaban dan posisi dalam passage
 tengah hari | position = 11
@@ -1084,7 +989,7 @@ pertama di <LOCATION>kota</LOCATION> hiroshima pada <TIME>6 agustus 1945</TIME> 
 
 memproses passage 11
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
 title : jepang kalah perang dengan sekutu
 list jawaban dan posisi dalam passage
 6 agustus 1945 | position = 3
@@ -1139,7 +1044,7 @@ pada <TIME>akhir juli 1945</TIME> , as , inggris , serta china menjatuhkan ultim
 
 memproses passage 12
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
 title : jepang kalah perang dengan sekutu
 list jawaban dan posisi dalam passage
 akhir juli 1945 | position = 0
@@ -1182,7 +1087,7 @@ seusai tragedi di hiroshima serta nagasaki , pada <TIME>10 agustus 1945</TIME> ,
 
 memproses passage 12
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
 title : jepang kalah perang dengan sekutu
 list jawaban dan posisi dalam passage
 10 agustus 1945 | position = 4
@@ -1233,7 +1138,7 @@ pernyataan menyerah terhadap <PERSON>pasukan sekutu</PERSON> baru resmi disampai
 
 memproses passage 12
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
 title : jepang kalah perang dengan sekutu
 list jawaban dan posisi dalam passage
 2 september 1945 | position = 7
@@ -1288,7 +1193,7 @@ tepat <TIME>pukul 19:00</TIME> wib selama kurang lebh 15 menit jusuf pun membaca
 
 memproses passage 3
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok252.txt
 title : biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia
 list jawaban dan posisi dalam passage
 pukul 19 00 | position = 1
@@ -1343,143 +1248,383 @@ tokenwithtagstemmed = perhati
 tokenwithtagstemmed = jepang
 
 
-pada <TIME>1 april 1945</TIME> pasukan amerika mendarat di <LOCATION>okinawa .</LOCATION>
-
-memproses passage 34
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-title : bpupki-ppki dan peristiwa rengasdengklok
-list jawaban dan posisi dalam passage
-1 april 1945 | position = 0
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = 1 april 1945
-tokenwithtagstemmed = pasu
-tokenwithtagstemmed = amerika
-tokenwithtagstemmed = darat
-tokenwithtagstemmed = okinawa
-kata kunci = bom
-tokenwithtagstemmed = 1 april 1945
-tokenwithtagstemmed = pasu
-tokenwithtagstemmed = amerika
-tokenwithtagstemmed = darat
-tokenwithtagstemmed = okinawa
-
-
-kemudian pada <TIME>tanggal 6 dan 9 agustus 1945</TIME> amerika menjatukan bom atom di <LOCATION>hiroshima</LOCATION> dan nagasaki ( jepang ) .
-
-memproses passage 34
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-title : bpupki-ppki dan peristiwa rengasdengklok
-list jawaban dan posisi dalam passage
-tanggal 6 9 agustus 1945 | position = 0
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = tanggal 6 9 agustus 1945
-tokenwithtagstemmed = amerika
-tokenwithtagstemmed = menjatukan
-tokenwithtagstemmed = bom
-tokenwithtagstemmed = atom
-tokenwithtagstemmed = hiroshima
-tokenwithtagstemmed = nagasaki
-posisi dalam passage = 6
-jarak dengan tiap kandidat jawaban:
-tanggal 6 9 agustus 1945 -6
-
-tokenwithtagstemmed = jepang
-kata kunci = bom
-tokenwithtagstemmed = tanggal 6 9 agustus 1945
-tokenwithtagstemmed = amerika
-tokenwithtagstemmed = menjatukan
-tokenwithtagstemmed = bom
-posisi dalam passage = 3
-jarak dengan tiap kandidat jawaban:
-tanggal 6 9 agustus 1945 -3
-
-tokenwithtagstemmed = atom
-tokenwithtagstemmed = hiroshima
-tokenwithtagstemmed = nagasaki
-tokenwithtagstemmed = jepang
-
-
-beberapa hari kemudian , pada <TIME>14 agustus 1945</TIME> , jepang menyerah kepada tentara sekutu .
-
-memproses passage 34
-sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-title : bpupki-ppki dan peristiwa rengasdengklok
-list jawaban dan posisi dalam passage
-14 agustus 1945 | position = 1
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = hari
-tokenwithtagstemmed = 14 agustus 1945
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = sekutu
-kata kunci = bom
-tokenwithtagstemmed = hari
-tokenwithtagstemmed = 14 agustus 1945
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = tentara
-tokenwithtagstemmed = sekutu
-
-
-kejadian tersebut membuka peluang bagi <PERSON>bangsa indonesia</PERSON> untuk memproklamirkan kemerdekaan .
+salah satu senjata yang paling menakutkan dan da-pat membantu mengakhiri perang dunia ii adalah bom atom .
 
 
 tidak ada entitas jawaban, skip
 
 
-tiga hari setelah jepang menyerah tanpa syarat , pada <TIME>tanggal 17 agustus 1945</TIME> , pemimpin nasional indonesia ir .
+senjata yang disebut bom atom itu dibuat pertama kali oleh amerika serikat pada <TIME>tanggal 16 juli 1945</TIME> di <LOCATION>alamo gardo ,</LOCATION> new mexico .
 
-memproses passage 34
-sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-title : bpupki-ppki dan peristiwa rengasdengklok
+memproses passage 3
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+title : sejarah teknologi perkembangan senjata
 list jawaban dan posisi dalam passage
-tanggal 17 agustus 1945 | position = 5
+tanggal 16 juli 1945 | position = 9
 
 
 melakukan pencarian:
 kata kunci = nagasaki
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = hari
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = syarat
-tokenwithtagstemmed = tanggal 17 agustus 1945
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ir
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = tanggal 16 juli 1945
+tokenwithtagstemmed = alamo gardo
+tokenwithtagstemmed = new
+tokenwithtagstemmed = mexico
 kata kunci = bom
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = hari
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = syarat
-tokenwithtagstemmed = tanggal 17 agustus 1945
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ir
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = bom
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+tanggal 16 juli 1945 7
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = tanggal 16 juli 1945
+tokenwithtagstemmed = alamo gardo
+tokenwithtagstemmed = new
+tokenwithtagstemmed = mexico
+
+
+bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada <TIME>tanggal 8 agustus 1945</TIME> dan kota nagasaki pada <TIME>tanggal 9 agustus 1945</TIME> .
+
+memproses passage 3
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+title : sejarah teknologi perkembangan senjata
+list jawaban dan posisi dalam passage
+tanggal 8 agustus 1945 | position = 7
+tanggal 9 agustus 1945 | position = 10
+
+
+melakukan pencarian:
+kata kunci = nagasaki
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = pakai
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hiroshima
+tokenwithtagstemmed = tanggal 8 agustus 1945
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+tanggal 8 agustus 1945 -2
+tanggal 9 agustus 1945 1
+
+tokenwithtagstemmed = tanggal 9 agustus 1945
+kata kunci = bom
+tokenwithtagstemmed = bom
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+tanggal 8 agustus 1945 7
+tanggal 9 agustus 1945 10
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = pakai
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hiroshima
+tokenwithtagstemmed = tanggal 8 agustus 1945
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+tokenwithtagstemmed = tanggal 9 agustus 1945
+
+
+akibat pemboman itu jepang menye-rah dan berakhirlah perang dunia ii .
+
+
+tidak ada entitas jawaban, skip
+
+
+bom dalam bentuk apa pun apabila me-ledak akan menimbulkan kerugian pada manusia dan alam sekitarnya .
+
+
+tidak ada entitas jawaban, skip
+
+
+bom umumnya terdiri atas wadah logam yang diisi dengan bahan peledak atau bahan kimia .
+
+
+tidak ada entitas jawaban, skip
+
+
+bom melukai dan menewaskan orang serta merusakkan gedung dan bangunan lain , kapal , pesawat terbang , ataupun sasaran lain .
+
+
+tidak ada entitas jawaban, skip
+
+
+salah satu senjata yang paling menakutkan dan dapat membantu mengakhiri perang dunia ii adalah bom atom .
+
+
+tidak ada entitas jawaban, skip
+
+
+senjata yang disebut bom atom itu dibuat pertama kali oleh amerika serikat pada <TIME>tanggal 16 juli 1945</TIME> di <LOCATION>alamo gardo ,</LOCATION> new mexico .
+
+memproses passage 2
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+title : perkembangan teknologi persenjataan pada masa perang dingin
+list jawaban dan posisi dalam passage
+tanggal 16 juli 1945 | position = 9
+
+
+melakukan pencarian:
+kata kunci = nagasaki
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = tanggal 16 juli 1945
+tokenwithtagstemmed = alamo gardo
+tokenwithtagstemmed = new
+tokenwithtagstemmed = mexico
+kata kunci = bom
+tokenwithtagstemmed = senjata
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = bom
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+tanggal 16 juli 1945 7
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = tanggal 16 juli 1945
+tokenwithtagstemmed = alamo gardo
+tokenwithtagstemmed = new
+tokenwithtagstemmed = mexico
+
+
+bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada <TIME>tanggal 8 agustus 1945</TIME> dan kota nagasaki pada <TIME>tanggal 9 agustus 1945</TIME> .
+
+memproses passage 2
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+title : perkembangan teknologi persenjataan pada masa perang dingin
+list jawaban dan posisi dalam passage
+tanggal 8 agustus 1945 | position = 7
+tanggal 9 agustus 1945 | position = 10
+
+
+melakukan pencarian:
+kata kunci = nagasaki
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = pakai
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hiroshima
+tokenwithtagstemmed = tanggal 8 agustus 1945
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+tanggal 8 agustus 1945 -2
+tanggal 9 agustus 1945 1
+
+tokenwithtagstemmed = tanggal 9 agustus 1945
+kata kunci = bom
+tokenwithtagstemmed = bom
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+tanggal 8 agustus 1945 7
+tanggal 9 agustus 1945 10
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = pakai
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hiroshima
+tokenwithtagstemmed = tanggal 8 agustus 1945
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+tokenwithtagstemmed = tanggal 9 agustus 1945
+
+
+bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada <TIME>tanggal 8 agustus 1945</TIME> dan kota nagasaki pada <TIME>tanggal 9 agustus 1945</TIME> .
+
+memproses passage 3
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+title : perkembangan teknologi persenjataan pada masa perang dingin
+list jawaban dan posisi dalam passage
+tanggal 8 agustus 1945 | position = 7
+tanggal 9 agustus 1945 | position = 10
+
+
+melakukan pencarian:
+kata kunci = nagasaki
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = pakai
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hiroshima
+tokenwithtagstemmed = tanggal 8 agustus 1945
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+tanggal 8 agustus 1945 -2
+tanggal 9 agustus 1945 1
+
+tokenwithtagstemmed = tanggal 9 agustus 1945
+kata kunci = bom
+tokenwithtagstemmed = bom
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+tanggal 8 agustus 1945 7
+tanggal 9 agustus 1945 10
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = pakai
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hiroshima
+tokenwithtagstemmed = tanggal 8 agustus 1945
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+tokenwithtagstemmed = tanggal 9 agustus 1945
+
+
+akibat pemboman itu jepang menyerah dan berakhirlah perang dunia ii .
+
+
+tidak ada entitas jawaban, skip
+
+
+bom dalam bentuk apa pun apabila meledak akan menimbulkan kerugian pada manusia dan alam sekitarnya .
+
+
+tidak ada entitas jawaban, skip
+
+
+tenaga atom yang ditimbulkan akan menimbulkan radiasi yang apabila diterima dalam jumlah besar akan sangat fatal akibatnya .
+
+
+tidak ada entitas jawaban, skip
+
+
+debu radioaktif dan endapan dari awan yang tertiup angin dan bertebaran di <LOCATION>daratan</LOCATION> dapat mengakibatkan kerusakan pada tanaman serta membinasakan hewan dan <PERSON>manusia .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+lahirnya perserikatan bangsa-bangsa dilandasi adanya charter of peace ( piagam perdamaian ) diharapkan dapat menjamin keamanan dan ketertiban dunia , mencegah terulangnya perang dunia , serta menjamin keselamatan dunia .
+
+
+tidak ada entitas jawaban, skip
+
+
+semakin kuat kedudukan golongan cerdik pandai .
+
+
+tidak ada entitas jawaban, skip
+
+
+pd ii menunjukkan bahwa peperangan tidak dapat dimenangkan tanpa bantuan <PERSON>kaum cerdik pandai</PERSON> yang merupakan prajurit tanpa senjata yang berjuang di <LOCATION>laboratorium</LOCATION> dengan penelitian-penelitian , sehingga dapat ditemukan alat-alat perang modern seperti <PERSON>radar , peluru</PERSON> kendali , bom atom , dan sebagainya .
+
+
+tidak ada entitas jawaban, skip
+
+
+bom atom berhasil mengakhiri pd ii setelah sukses diujicobakan di kota hirosima pada <TIME>tanggal 6 agustus 1945</TIME> dan kota nagasaki pada <TIME>tanggal 9 agustus 1945</TIME> .
+
+memproses passage 7
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+title : perkembangan sistem ekonomi internasional dengan perubahan politik dan ekonomi indonesia
+list jawaban dan posisi dalam passage
+tanggal 6 agustus 1945 | position = 10
+tanggal 9 agustus 1945 | position = 13
+
+
+melakukan pencarian:
+kata kunci = nagasaki
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = pd
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = sukses
+tokenwithtagstemmed = diujicobakan
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hirosima
+tokenwithtagstemmed = tanggal 6 agustus 1945
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+posisi dalam passage = 12
+jarak dengan tiap kandidat jawaban:
+tanggal 6 agustus 1945 -2
+tanggal 9 agustus 1945 1
+
+tokenwithtagstemmed = tanggal 9 agustus 1945
+kata kunci = bom
+tokenwithtagstemmed = bom
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+tanggal 6 agustus 1945 10
+tanggal 9 agustus 1945 13
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = pd
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = sukses
+tokenwithtagstemmed = diujicobakan
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hirosima
+tokenwithtagstemmed = tanggal 6 agustus 1945
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+tokenwithtagstemmed = tanggal 9 agustus 1945
+
+
+3 .
+
+
+tidak ada entitas jawaban, skip
 
 
 peristiwa seputar proklamasi kemerdekaan <TIME>17 agustus 1945</TIME> - menjelang berakhirnya perang dunia ii ( <TIME>1939-1945</TIME> ) pasukan gabungan sekutu yaitu front abcd ( amerika serikat , british / inggris , china dan dutch / belanda ) berhasil mengalahkan pasukan tentara jepang dalam pertempuran di laut karang pada <TIME>tanggal 7 mei 1945</TIME> .
 
 memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
 title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
 list jawaban dan posisi dalam passage
 17 agustus 1945 | position = 4
@@ -1566,7 +1711,7 @@ sehingga akhirnya pada <TIME>tanggal 6 agustus 1945</TIME> amerika serikat menja
 
 memproses passage 1
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
 title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
 list jawaban dan posisi dalam passage
 tanggal 6 agustus 1945 | position = 0
@@ -1629,7 +1774,7 @@ setelah kedudukan jepang bertambah sulit baik dalam perang dunia ii maupun peran
 
 memproses passage 1
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
 title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
 list jawaban dan posisi dalam passage
 tanggal 7 september 1944 | position = 16
@@ -1693,355 +1838,6 @@ hal ini perlu dilakukan oleh <PERSON>jepang agar rakyat indonesia</PERSON> tidak
 
 tidak ada entitas jawaban, skip
 
-
-salah satu senjata yang paling menakutkan dan da-pat membantu mengakhiri perang dunia ii adalah bom atom .
-
-
-tidak ada entitas jawaban, skip
-
-
-senjata yang disebut bom atom itu dibuat pertama kali oleh amerika serikat pada <TIME>tanggal 16 juli 1945</TIME> di <LOCATION>alamo gardo ,</LOCATION> new mexico .
-
-memproses passage 3
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-title : sejarah teknologi perkembangan senjata
-list jawaban dan posisi dalam passage
-tanggal 16 juli 1945 | position = 9
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = senjata
-tokenwithtagstemmed = sebut
-tokenwithtagstemmed = bom
-tokenwithtagstemmed = atom
-tokenwithtagstemmed = buat
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = kali
-tokenwithtagstemmed = amerika
-tokenwithtagstemmed = serikat
-tokenwithtagstemmed = tanggal 16 juli 1945
-tokenwithtagstemmed = alamo gardo
-tokenwithtagstemmed = new
-tokenwithtagstemmed = mexico
-kata kunci = bom
-tokenwithtagstemmed = senjata
-tokenwithtagstemmed = sebut
-tokenwithtagstemmed = bom
-posisi dalam passage = 2
-jarak dengan tiap kandidat jawaban:
-tanggal 16 juli 1945 7
-
-tokenwithtagstemmed = atom
-tokenwithtagstemmed = buat
-tokenwithtagstemmed = pertama
-tokenwithtagstemmed = kali
-tokenwithtagstemmed = amerika
-tokenwithtagstemmed = serikat
-tokenwithtagstemmed = tanggal 16 juli 1945
-tokenwithtagstemmed = alamo gardo
-tokenwithtagstemmed = new
-tokenwithtagstemmed = mexico
-
-
-bom atom itu kemudian dipakai untuk menghancurkan kota hiroshima pada <TIME>tanggal 8 agustus 1945</TIME> dan kota nagasaki pada <TIME>tanggal 9 agustus 1945</TIME> .
-
-memproses passage 3
-sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-title : sejarah teknologi perkembangan senjata
-list jawaban dan posisi dalam passage
-tanggal 8 agustus 1945 | position = 7
-tanggal 9 agustus 1945 | position = 10
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = bom
-tokenwithtagstemmed = atom
-tokenwithtagstemmed = pakai
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = hancur
-tokenwithtagstemmed = kota
-tokenwithtagstemmed = hiroshima
-tokenwithtagstemmed = tanggal 8 agustus 1945
-tokenwithtagstemmed = kota
-tokenwithtagstemmed = nagasaki
-posisi dalam passage = 9
-jarak dengan tiap kandidat jawaban:
-tanggal 8 agustus 1945 -2
-tanggal 9 agustus 1945 1
-
-tokenwithtagstemmed = tanggal 9 agustus 1945
-kata kunci = bom
-tokenwithtagstemmed = bom
-posisi dalam passage = 0
-jarak dengan tiap kandidat jawaban:
-tanggal 8 agustus 1945 7
-tanggal 9 agustus 1945 10
-
-tokenwithtagstemmed = atom
-tokenwithtagstemmed = pakai
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = hancur
-tokenwithtagstemmed = kota
-tokenwithtagstemmed = hiroshima
-tokenwithtagstemmed = tanggal 8 agustus 1945
-tokenwithtagstemmed = kota
-tokenwithtagstemmed = nagasaki
-tokenwithtagstemmed = tanggal 9 agustus 1945
-
-
-akibat pemboman itu jepang menye-rah dan berakhirlah perang dunia ii .
-
-
-tidak ada entitas jawaban, skip
-
-
-bom dalam bentuk apa pun apabila me-ledak akan menimbulkan kerugian pada manusia dan alam sekitarnya .
-
-
-tidak ada entitas jawaban, skip
-
-
-perjuangan mempertahankan kemerdekaan indonesia pada <TIME>tahun 1945-1949</TIME> - masa kemerdekaan dan perjuangan untuk mempertahankan kemerdekaan dimulai dari <TIME>tahun 1945-1949</TIME> , diwarnai dengan pengisian perlengkapan sebagai negara merdeka dan perjuangan bersenjata serta berbagai diplomasi antara <PERSON>bangsa indonesia</PERSON> dengan pihak belanda .
-
-memproses passage 1
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-list jawaban dan posisi dalam passage
-tahun 1945 1949 | position = 4
-tahun 1945 1949 | position = 12
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = tahan
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tahun 1945 1949
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tahan
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = tahun 1945 1949
-tokenwithtagstemmed = warna
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = lengkap
-tokenwithtagstemmed = negara
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = senjata
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = diplomasi
-tokenwithtagstemmed = bangsa indonesia
-tokenwithtagstemmed = pihak
-tokenwithtagstemmed = belanda
-kata kunci = bom
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = tahan
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tahun 1945 1949
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tahan
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = tahun 1945 1949
-tokenwithtagstemmed = warna
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = lengkap
-tokenwithtagstemmed = negara
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = senjata
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = diplomasi
-tokenwithtagstemmed = bangsa indonesia
-tokenwithtagstemmed = pihak
-tokenwithtagstemmed = belanda
-
-
-diplomasi itu direalisasikan dalam perjanjian-perjanjian .
-
-
-tidak ada entitas jawaban, skip
-
-
-intinya belanda sebenarnya tidak rela bila indonesia merdeka .
-
-
-tidak ada entitas jawaban, skip
-
-
-sehingga dengan berbagai cara belanda ingin memecah belah republik indonesia yang baru lahir .
-
-
-tidak ada entitas jawaban, skip
-
-
-masa indonesia merdeka memasuki <TIME>bulan agustus 1945</TIME> kedudukan jepang semakin kritis .
-
-memproses passage 1
-sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-list jawaban dan posisi dalam passage
-bulan agustus 1945 | position = 4
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = pasuk
-tokenwithtagstemmed = bulan agustus 1945
-tokenwithtagstemmed = duduk
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = kritis
-kata kunci = bom
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = pasuk
-tokenwithtagstemmed = bulan agustus 1945
-tokenwithtagstemmed = duduk
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = kritis
-
-
-bangsa indonesia kemudian mempergunakan kesempatan tersebut untuk memproklamasikan kemerdekaan pada <TIME>17 agustus 1945</TIME> .
-
-memproses passage 3
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-list jawaban dan posisi dalam passage
-17 agustus 1945 | position = 7
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = sempat
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = 17 agustus 1945
-kata kunci = bom
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = sempat
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = 17 agustus 1945
-
-
-panitia persiapan kemerdekaan indonesia ( ppki ) yang didirikan <TIME>7 agustus 1945</TIME> dijadikan badan nasional dengan menambah enam orang anggota sehingga badan tersebut beranggotakan 27 orang .
-
-memproses passage 3
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-list jawaban dan posisi dalam passage
-7 agustus 1945 | position = 6
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = panitia
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ppki
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = 7 agustus 1945
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = badan
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = tambah
-tokenwithtagstemmed = enam
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = badan
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = 27
-tokenwithtagstemmed = orang
-kata kunci = bom
-tokenwithtagstemmed = panitia
-tokenwithtagstemmed = siap
-tokenwithtagstemmed = merdeka
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ppki
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = 7 agustus 1945
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = badan
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = tambah
-tokenwithtagstemmed = enam
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = badan
-tokenwithtagstemmed = anggota
-tokenwithtagstemmed = 27
-tokenwithtagstemmed = orang
-
-
-melihat susunan anggotanya yang mewakili seluruh tanah air , maka pada waktu itu ppki dianggap sebagai “ badan perwakilan ” seluruh <PERSON>rakyat indonesia .</PERSON>
-
-
-tidak ada entitas jawaban, skip
-
-
-sehari setelah proklamasi , <TIME>18 agustus 1945</TIME> ppki mengadakan sidang pertama .
-
-memproses passage 3
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-title : perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
-list jawaban dan posisi dalam passage
-18 agustus 1945 | position = 2
-
-
-melakukan pencarian:
-kata kunci = nagasaki
-tokenwithtagstemmed = hari
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = 18 agustus 1945
-tokenwithtagstemmed = ppki
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = sidang
-tokenwithtagstemmed = pertama
-kata kunci = bom
-tokenwithtagstemmed = hari
-tokenwithtagstemmed = proklamasi
-tokenwithtagstemmed = 18 agustus 1945
-tokenwithtagstemmed = ppki
-tokenwithtagstemmed = ada
-tokenwithtagstemmed = sidang
-tokenwithtagstemmed = pertama
-
-
-sidang tersebut berhasil mengesahkan uud serta menunjuk ir .
-
-
-tidak ada entitas jawaban, skip
-
 Pengurutan kandidat jawaban
 this.answer = 8 agustus 1945
 passage rank = 1
@@ -2050,37 +1846,67 @@ doc rank = 1
 total Score = 3
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
 document Title = perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
 
 this.answer = 10 agustus 1945
 passage rank = 4
 distance = 1
-doc rank = 5
-total Score = 10
+doc rank = 3
+total Score = 8
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok198.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
 document Title = jepang kalah perang dengan sekutu
 
 this.answer = tanggal 9 agustus 1945
-passage rank = 8
+passage rank = 6
 distance = 1
-doc rank = 9
-total Score = 18
+doc rank = 6
+total Score = 13
 frequency = 1
-order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
 document Title = sejarah teknologi perkembangan senjata
 
 this.answer = tanggal 9 agustus 1945
 passage rank = 7
-distance = 4
+distance = 1
 doc rank = 7
+total Score = 15
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+document Title = perkembangan teknologi persenjataan pada masa perang dingin
+
+this.answer = tanggal 9 agustus 1945
+passage rank = 8
+distance = 1
+doc rank = 7
+total Score = 16
+frequency = 1
+order process = 12
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+document Title = perkembangan teknologi persenjataan pada masa perang dingin
+
+this.answer = tanggal 9 agustus 1945
+passage rank = 9
+distance = 1
+doc rank = 8
 total Score = 18
 frequency = 1
-order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
+order process = 15
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+document Title = perkembangan sistem ekonomi internasional dengan perubahan politik dan ekonomi indonesia
+
+this.answer = tanggal 9 agustus 1945
+passage rank = 10
+distance = 4
+doc rank = 9
+total Score = 23
+frequency = 1
+order process = 18
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
 document Title = peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
 
 this.answer = 8 agustus 1945
@@ -2090,38 +1916,108 @@ doc rank = 1
 total Score = 7
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
 document Title = perjuangan mempertahankan kemerdekaan indonesia pada tahun 1945-1949
 
 this.answer = tanggal 16 juli 1945
-passage rank = 8
+passage rank = 6
 distance = 7
-doc rank = 9
-total Score = 24
+doc rank = 6
+total Score = 19
 frequency = 1
-order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
 document Title = sejarah teknologi perkembangan senjata
+
+this.answer = tanggal 8 agustus 1945
+passage rank = 6
+distance = 7
+doc rank = 6
+total Score = 19
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+document Title = sejarah teknologi perkembangan senjata
+
+this.answer = tanggal 16 juli 1945
+passage rank = 7
+distance = 7
+doc rank = 7
+total Score = 21
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+document Title = perkembangan teknologi persenjataan pada masa perang dingin
+
+this.answer = tanggal 8 agustus 1945
+passage rank = 7
+distance = 7
+doc rank = 7
+total Score = 21
+frequency = 1
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+document Title = perkembangan teknologi persenjataan pada masa perang dingin
 
 this.answer = tanggal 8 agustus 1945
 passage rank = 8
 distance = 7
-doc rank = 9
-total Score = 24
+doc rank = 7
+total Score = 22
+frequency = 1
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+document Title = perkembangan teknologi persenjataan pada masa perang dingin
+
+this.answer = tanggal 9 agustus 1945
+passage rank = 6
+distance = 10
+doc rank = 6
+total Score = 22
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
 document Title = sejarah teknologi perkembangan senjata
+
+this.answer = tanggal 9 agustus 1945
+passage rank = 7
+distance = 10
+doc rank = 7
+total Score = 24
+frequency = 1
+order process = 11
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+document Title = perkembangan teknologi persenjataan pada masa perang dingin
 
 this.answer = tanggal 9 agustus 1945
 passage rank = 8
 distance = 10
-doc rank = 9
+doc rank = 7
+total Score = 25
+frequency = 1
+order process = 14
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+document Title = perkembangan teknologi persenjataan pada masa perang dingin
+
+this.answer = tanggal 6 agustus 1945
+passage rank = 9
+distance = 10
+doc rank = 8
 total Score = 27
 frequency = 1
-order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-document Title = sejarah teknologi perkembangan senjata
+order process = 16
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+document Title = perkembangan sistem ekonomi internasional dengan perubahan politik dan ekonomi indonesia
+
+this.answer = tanggal 9 agustus 1945
+passage rank = 9
+distance = 13
+doc rank = 8
+total Score = 30
+frequency = 1
+order process = 17
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+document Title = perkembangan sistem ekonomi internasional dengan perubahan politik dan ekonomi indonesia
 
 
 

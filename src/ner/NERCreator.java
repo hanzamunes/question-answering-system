@@ -30,7 +30,7 @@ public class NERCreator {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-		/*String fileLocation = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\datadokumen";
+		/*String fileLocation = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\datadokumen";
 		File dir = new File (fileLocation);
 		File[] directoryListing = dir.listFiles();
 		//Random rand = new Random();
@@ -56,7 +56,7 @@ public class NERCreator {
 					}
 				}
 				String f = child.getName().replace(".txt", "");
-				String namaFile = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\tsvList\\"+f+".tsv";
+				String namaFile = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\src\\ner\\tsvList\\"+f+".tsv";
 				fileList.add(f+".tsv");
 				PrintWriter writer = new PrintWriter (namaFile,"UTF-8");
 				for (String s : token) {
@@ -65,7 +65,7 @@ public class NERCreator {
 				writer.close();
 			}
 		}*/
-		/*String fileLocation = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\src\\ner\\testing2";
+		/*String fileLocation = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\src\\ner\\testing2";
 		File dir = new File (fileLocation);
 		String prop = "trainFileList = ";
 		File[] directoryListing = dir.listFiles();

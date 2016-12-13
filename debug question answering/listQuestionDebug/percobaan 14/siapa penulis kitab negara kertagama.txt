@@ -1,165 +1,109 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok5.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok76.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok112.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok41.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok92.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok370.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok329.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok108.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok37.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok194.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok344.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok168.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok216.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok135.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok64.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok192.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok191.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok326.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok235.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok389.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok233.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok232.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok260.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok384.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok107.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok36.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok148.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok267.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok308.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok298.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok285.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok305.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok258.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok121.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok50.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok380.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok161.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok245.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok211.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok354.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok5.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok76.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok300.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok380.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok302.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok280.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok261.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok121.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok50.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok14.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok167.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok316.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok85.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok305.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok291.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok329.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok3.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok381.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok179.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok108.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok37.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok194.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok196.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok105.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok34.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok130.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok59.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok211.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok354.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok330.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok375.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok332.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok111.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok40.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok299.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok390.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok279.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok245.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok131.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok60.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok119.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok48.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok21.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok92.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok314.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok349.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok312.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok313.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok233.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok216.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok264.txt
 
 
 query token : 
 tulis kitab negara kertagama 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-title : perkembangan dan budaya buddha
-passage 9 score = 6.25
-sentence 1: raja ashoka sadar dari kekeliruannya dan masuk agama buddha .
-sentence 2: bahkan , ia menjadi raja yang saleh dan menetapkan agama buddha sebagai agama negara .
-sentence 3: ia pun mengajarkan ahimsa , yaitu larangan membunuh dan melukai makhluk .
-sentence 4: berkat raja ini , agama buddha dapat disiarkan ke seluruh dunia .
-passage 1 score = 1.5
-sentence 1: perkembangan dan budaya buddha – ketika agama hindu mengalami kemunduran , muncullah agama buddha di india yang disiarkan oleh siddharta gautama .
-sentence 2: ajaran buddha ditulis dalam kitab suci tripitakayang berarti tiga keranjang atau tiga himpunan nikmat .
-sentence 3: isi kitab suci tripitaka sebagai berikut .
-sentence 4: 1 .
-sentence 5: suttapitaka , berisikan himpunan ajaran dan khotbah buddha .
-passage 2 score = 1.25
-sentence 1: suttapitaka , berisikan himpunan ajaran dan khotbah buddha .
-sentence 2: bagian terbesar adalah percakapan antara buddha dan beberapa orang muridnya .
-sentence 3: di dalamnya terdapat pula kitab meditasi dan peribadatan .
-sentence 4: 2 .
-sentence 5: winayapitaka , berisikan tata hidup setiap anggota biara ( sangha ) .
-passage 3 score = 1.0
-sentence 1: winayapitaka , berisikan tata hidup setiap anggota biara ( sangha ) .
-sentence 2: 3 .
-sentence 3: abhidharmapitaka , ditujukan bagi lapisan terpelajar dalam agama buddha sebab merupakan pelajaran lanjutan .
-sentence 4: ada empat tempat yang dianggap suci dalam agama buddha .
-sentence 5: 1 .
-passage 4 score = 1.0
-sentence 1: 1 .
-sentence 2: taman lumbini di kapilawastu , tempat lahirnya siddharta ( 563 sm ) .
-sentence 3: 2 .
-sentence 4: bodhgaya , tempat siddharta menerima wahyu buddha .
-sentence 5: 3 .
-passage 5 score = 1.0
-sentence 1: 3 .
-sentence 2: kusinagara , tempat wafatnya siddharta pada tahun 482 sm .
-sentence 3: 4 .
-sentence 4: benares , tempat siddharta pertama kali berkhotbah .
-sentence 5: ajaran buddha seperti yang dikhotbahkan siddharta di taman menjangan , benares , berisikan hal-hal berikut .
-passage 6 score = 1.0
-sentence 1: ajaran buddha seperti yang dikhotbahkan siddharta di taman menjangan , benares , berisikan hal-hal berikut .
-sentence 2: aryastyani , yakni empat kebenaran utama dan delapan jalan tengah ( astavida ) .
-sentence 3: empat kebenaran utama , yaitu 1 ) hidup adalah derita ( duka ) atau samsara , 2 ) samsara disebabkan oleh hasrat keinginan ( tresna ) atau tanha , 3 ) tresna harus dihilangkan , dan 4 ) cara menghilangkan tresnaadalah dengan delapan jalan tengah .
-sentence 4: delapan jalan tengah , yaitu 1 ) pengertian yang benar , 2 ) maksud yang benar , 3 ) bicara yang benar , 4 ) laku yang benar , 5 ) kerja yang benar , 6 ) ikhtiar yang benar , 8 ) renungan yang benar .
-sentence 5: 7 ) ingatan yang benar , dan 1 .
-passage 7 score = 1.0
-sentence 1: 7 ) ingatan yang benar , dan 1 .
-sentence 2: pratityasamudpada , artinya rantai sebab akibat yang terdiri atas dua belas rantai dan masing-masing merupakan sebab dari hal berikutnya .
-sentence 3: pada bangunan peribadatan buddha akan kita temui stupa , yaitu bangunan berbentuk kubah yang berdiri di atas sebuah lapik dan diberi payung .
-sentence 4: fungsi bangunan ini adalah sebagai lambang suci agama buddha , tanda peringatan terjadinya suatu peristiwa dalam hidup buddha , tempat penyimpanan tulang jenazah buddha , dan tempat menyimpan benda suci .
-sentence 5: agama buddha berkembang pesat di india pada masa wangsa maurya di bawah raja ashoka .
-passage 8 score = 1.0
-sentence 1: agama buddha berkembang pesat di india pada masa wangsa maurya di bawah raja ashoka .
-sentence 2: raja ini pada awalnya memusuhi agama buddha .
-sentence 3: ia menciptakan “ neraka ashoka ” , yaitu hukuman rebus bagi penganut buddha .
-sentence 4: namun , pada suatu ketika orang yang diperintahkannya untuk direbus tidak mati .
-sentence 5: raja ashoka sadar dari kekeliruannya dan masuk agama buddha .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 17 score = 7.75
 sentence 1: dikatakan babad tanah jawi dan serat kanda yang ditulis abad xvii dijaman mataram itu tanpa konsultasi sumber sejarah yang dapat dipercaya .
@@ -222,159 +166,437 @@ sentence 3: soalnya gajah mada sudah meninggal tahun 1364 masehi atau 1286 saka 
 sentence 4: penuturan buku “ dari panggung sejarah ” terjemahan ip simanjuntak yang bersumber dari tulisan h.j. van den berg ternyata juga runtuhnya majapahit bukan akibat serangan demak atau tentara islam .
 sentence 5: ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi majapahit tahun 1413 masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari gujarat dan malaka .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-title : pengaruh kebudayaan hindu-buddha terhadap seni sastra
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok5.txt
+title : sejarah kerajaan kediri (kehidupan politik, sosial, ekonomi dan sastra)
+passage 5 score = 6.25
+sentence 1: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
+sentence 2: berdasarkan kronik-kronik cina maka kehidupan perekonomian rakyat kediri dapat dikemukakan sebagai berikut .
+sentence 3: 1 .
+sentence 4: rakyat hidup dari pertanian , peternakan dan perdagangan .
+sentence 5: 2 .
+passage 3 score = 2.5
+sentence 1: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
+sentence 2: ramalannya terkenal dengan istilah “ jangka jayabaya " .
+sentence 3: raja kediri yang juga memperhatikan kesusastraan ialah kameswara .
+sentence 4: empu tan akung menulis kitab wartasancaya dan lubdaka , sedangkan empu dharmaja menulis kitab smaradahana .
+sentence 5: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
+passage 9 score = 2.5
+sentence 1: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
+sentence 2: selain itu juga disusun kitab hukum yang bernama siwasasana .
+sentence 3: 2 ) di zaman airlangga disusun kitab arjuna wiwaha karya empu kanwa .
+sentence 4: 3 ) masa jayabaya berhasil digubah kitab bharatayudha oleh empu sedah dan empu panuluh .
+sentence 5: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
+passage 10 score = 2.5
+sentence 1: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
+sentence 2: 4 ) masa kameswara berhasil ditulis kitab smaradhahana oleh empu dharmaja .
+sentence 3: kitab lubdaka dan wertasancaya oleh empu tan akung .
+passage 2 score = 1.25
+sentence 1: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
+sentence 2: pada masa pemerintahannya kesusastraan diperhatikan .
+sentence 3: empu sedah dan empu panuluh menggubah karya sastra kitab bharatayudha yang menggambarkan peperangan antara pandawa dan kurawa yang untuk menggambarkan peperangan antara jenggala dan kediri .
+sentence 4: empu panuluh juga menggubah kakawin hariwangsa dan gatotkacasraya .
+sentence 5: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
+passage 4 score = 1.25
+sentence 1: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
+sentence 2: raja kediri yang terakhir ialah kertajaya yang pada tahun 1222 kekuasaannya dihancurkan oleh ken arok sehingga berakhirlah kerajaan kediri dan muncul kerajaan singasari .
+sentence 3: b. kehidupan sosial ekonomi kerajaan kediri pada masa kejayaan kediri , perhatian raja terhadap kehidupan sosial ekonomi rakyat juga besar .
+sentence 4: hal ini dapat dibuktikan dengan karya-karya sastra saat itu , yang mencerminkan kehidupan sosial ekonomi masyarakat saat itu .
+sentence 5: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
+passage 8 score = 1.25
+sentence 1: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
+sentence 2: 2 .
+sentence 3: hukuman yang dilaksanakan ada dua macam , yakni hukuman denda ( berupa emas ) dan hukuman mati ( khususnya bagi pencuri dan perampok ) .
+sentence 4: c. kehidupan kebudayaan , khususnya sastra kerajaan kediri di bidang kebudayaan , khususnya sastra , masa kahuripan dan kediri berkembang pesat , antara lain sebagai berikut .
+sentence 5: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
+passage 1 score = 1.0
+sentence 1: sejarah kerajaan kediri ( kehidupan politik , sosial , ekonomi dan sastra ) a. kehidupan politik kerajaan kediri dalam persaingan antara panjalu dan kediri , ternyata kediri yang unggul dan menjadi kerajaan yang besar kekuasaannya .
+sentence 2: raja terbesar dari kerajaan kediri adalah jayabaya ( 1135 – 1157 ) .
+sentence 3: jayabaya ingin mengembalikan kejayaan seperti masa airlangga dan berhasil .
+sentence 4: panjalu dan jenggala dapat bersatu kembali .
+sentence 5: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
+passage 6 score = 1.0
+sentence 1: 2 .
+sentence 2: kediri banyak menghasilkan beras .
+sentence 3: 3 .
+sentence 4: barang-barang dagangan yang laku di pasaran saat itu antara lain emas , perak , gading dan kayu cendana .
+sentence 5: 4 .
+passage 7 score = 1.0
+sentence 1: 4 .
+sentence 2: pajak rakyat berupa hasil bumi , seperti besar dan palawija .
+sentence 3: adapun kehidupan sosialnya sebagai berikut .
+sentence 4: 1 .
+sentence 5: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok76.txt
+title : sejarah kerajaan kediri (kehidupan politik, sosial, ekonomi dan sastra)
+passage 5 score = 6.25
+sentence 1: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
+sentence 2: berdasarkan kronik-kronik cina maka kehidupan perekonomian rakyat kediri dapat dikemukakan sebagai berikut .
+sentence 3: 1 .
+sentence 4: rakyat hidup dari pertanian , peternakan dan perdagangan .
+sentence 5: 2 .
+passage 3 score = 2.5
+sentence 1: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
+sentence 2: ramalannya terkenal dengan istilah “ jangka jayabaya " .
+sentence 3: raja kediri yang juga memperhatikan kesusastraan ialah kameswara .
+sentence 4: empu tan akung menulis kitab wartasancaya dan lubdaka , sedangkan empu dharmaja menulis kitab smaradahana .
+sentence 5: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
+passage 9 score = 2.5
+sentence 1: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
+sentence 2: selain itu juga disusun kitab hukum yang bernama siwasasana .
+sentence 3: 2 ) di zaman airlangga disusun kitab arjuna wiwaha karya empu kanwa .
+sentence 4: 3 ) masa jayabaya berhasil digubah kitab bharatayudha oleh empu sedah dan empu panuluh .
+sentence 5: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
+passage 10 score = 2.5
+sentence 1: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
+sentence 2: 4 ) masa kameswara berhasil ditulis kitab smaradhahana oleh empu dharmaja .
+sentence 3: kitab lubdaka dan wertasancaya oleh empu tan akung .
+passage 2 score = 1.25
+sentence 1: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
+sentence 2: pada masa pemerintahannya kesusastraan diperhatikan .
+sentence 3: empu sedah dan empu panuluh menggubah karya sastra kitab bharatayudha yang menggambarkan peperangan antara pandawa dan kurawa yang untuk menggambarkan peperangan antara jenggala dan kediri .
+sentence 4: empu panuluh juga menggubah kakawin hariwangsa dan gatotkacasraya .
+sentence 5: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
+passage 4 score = 1.25
+sentence 1: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
+sentence 2: raja kediri yang terakhir ialah kertajaya yang pada tahun 1222 kekuasaannya dihancurkan oleh ken arok sehingga berakhirlah kerajaan kediri dan muncul kerajaan singasari .
+sentence 3: b. kehidupan sosial ekonomi kerajaan kediri pada masa kejayaan kediri , perhatian raja terhadap kehidupan sosial ekonomi rakyat juga besar .
+sentence 4: hal ini dapat dibuktikan dengan karya-karya sastra saat itu , yang mencerminkan kehidupan sosial ekonomi masyarakat saat itu .
+sentence 5: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
+passage 8 score = 1.25
+sentence 1: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
+sentence 2: 2 .
+sentence 3: hukuman yang dilaksanakan ada dua macam , yakni hukuman denda ( berupa emas ) dan hukuman mati ( khususnya bagi pencuri dan perampok ) .
+sentence 4: c. kehidupan kebudayaan , khususnya sastra kerajaan kediri di bidang kebudayaan , khususnya sastra , masa kahuripan dan kediri berkembang pesat , antara lain sebagai berikut .
+sentence 5: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
+passage 1 score = 1.0
+sentence 1: sejarah kerajaan kediri ( kehidupan politik , sosial , ekonomi dan sastra ) a. kehidupan politik kerajaan kediri dalam persaingan antara panjalu dan kediri , ternyata kediri yang unggul dan menjadi kerajaan yang besar kekuasaannya .
+sentence 2: raja terbesar dari kerajaan kediri adalah jayabaya ( 1135 – 1157 ) .
+sentence 3: jayabaya ingin mengembalikan kejayaan seperti masa airlangga dan berhasil .
+sentence 4: panjalu dan jenggala dapat bersatu kembali .
+sentence 5: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
+passage 6 score = 1.0
+sentence 1: 2 .
+sentence 2: kediri banyak menghasilkan beras .
+sentence 3: 3 .
+sentence 4: barang-barang dagangan yang laku di pasaran saat itu antara lain emas , perak , gading dan kayu cendana .
+sentence 5: 4 .
+passage 7 score = 1.0
+sentence 1: 4 .
+sentence 2: pajak rakyat berupa hasil bumi , seperti besar dan palawija .
+sentence 3: adapun kehidupan sosialnya sebagai berikut .
+sentence 4: 1 .
+sentence 5: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+passage 5 score = 7.0
+sentence 1: menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
+sentence 2: kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di indonesia .
+sentence 3: salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa masyarakat india telah mengenal beberapa tempat di indonesia pada abad ke-3 masehi .
+sentence 4: dalam kitab geographike yang ditulis pada abad ke-2 juga disebutkan telah ada hubungan dagang antara india dan indonesia .
+sentence 5: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
+passage 8 score = 7.0
+sentence 1: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
+sentence 2: dalam kitabnya yang berjudul geographike yang ditulis pada abad ke-2 , ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
+sentence 3: mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
+sentence 4: dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
+sentence 5: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
+passage 9 score = 7.0
+sentence 1: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
+sentence 2: sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara indonesia dengan india dan cina , antara lain sebagai berikut .
+sentence 3: 1 ) prasasti prasasti-prasasti tertua di indonesia yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
+sentence 4: demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di jawa barat .
+sentence 5: semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
 passage 3 score = 6.75
-sentence 1: kitab ini terdiri atas tujuh jilid ( kanda ) dan digubah dalam bentuk syair sebanyak 24.000 seloka .
-sentence 2: kitab ini berisi perjuangan rama dalam merebut kembali istrinya , dewi sinta ( sita ) , yang diculik oleh rahwana .
-sentence 3: dalam perjuangannya , rama yang selalu ditemani laksmana ( adiknya ) itu mendapat bantuan dari pasukan kera yang dipimpin oleh sugriwa .
-sentence 4: selain itu , rama juga dibantu oleh gunawan wibhisana , adik rahwana yang diusir oleh kakaknya karena bermaksud membela kebenaran ( rama ) .
-sentence 5: perjuangan tersebut menimbulkan peperangan besar dan banyak korban berjatuhan .
-passage 4 score = 6.5
-sentence 1: perjuangan tersebut menimbulkan peperangan besar dan banyak korban berjatuhan .
-sentence 2: di akhir cerita , rahwana beserta anak buahnya gugur dan dewi sinta kembali kepada rama .
-sentence 3: akulturasi di bidang sastra dapat dilihat pada adanya modifikasi cerita-cerita asli india dengan unsur tokoh-tokoh indonesia serta peristiwa-peristiwa yang seolah-olah terjadi di indonesia .
-sentence 4: contohnya adalah penambahan tokoh punakawan ( semar , bagong , gareng , petruk ) dalam kisah mahabharata .
-sentence 5: bahkan , dalam literatur-literatur keagamaan hindu-buddha di indonesia sulit kita temukan cerita asli seperti yang ada di negeri asalnya .
-passage 1 score = 6.25
-sentence 1: pengaruh kebudayaan hindu-buddha terhadap seni sastra – wiracarita atau kisah kepahlawanan india yang memasyarakat di indonesia dan memengaruhi kehidupan serta perkembangan sosial budaya adalah cerita mahabharata dan ramayana .
-sentence 2: kitab mahabharataterdiri atas delapan belas jilid ( parwa ) .
-sentence 3: setiap jilid terbagi lagi menjadi beberapa bagian ( juga disebut parwa ) yang digubah dalam bentuk syair .
-sentence 4: cerita pokoknya meliputi 24.000 seloka .
-sentence 5: sebagian besar isi kitab ini menceritakan peperangan sengit selama delapan hari antara pandawa dan kurawa .
-passage 2 score = 6.25
-sentence 1: sebagian besar isi kitab ini menceritakan peperangan sengit selama delapan hari antara pandawa dan kurawa .
-sentence 2: kata mahabharatayudha sendiri berarti peperangan besar antarkeluarga bharata .
-sentence 3: menurut cerita , kitab ini dihimpun oleh wiyasa dwipayana .
-sentence 4: akan tetapi , para ahli sejarah beranggapan bahwa lebih masuk akal jika kitab itu merupakan kumpulan berbagai cerita brahmana antara tahun 400 sm sampai 400 m. kitab ramayanadikarang oleh walmiki .
-sentence 5: kitab ini terdiri atas tujuh jilid ( kanda ) dan digubah dalam bentuk syair sebanyak 24.000 seloka .
-passage 5 score = 1.0
-sentence 1: bahkan , dalam literatur-literatur keagamaan hindu-buddha di indonesia sulit kita temukan cerita asli seperti yang ada di negeri asalnya .
-sentence 2: pengaruh kebudayaan india yang dipertahankan dalam kesusastraan adalah gagasan , konsep , dan pandangan-pandangannya .
+sentence 1: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
+sentence 2: proses percampuran antara dua atau lebih kebudayaan yang saling bertemu dan mempengaruhi itu disebut akulturasi kebudayaan .
+sentence 3: adanya hubungan dagang pada awal abad tarikh masehi , didasarkan adanya sumber-sumber baik luar negeri maupun dalam negeri .
+sentence 4: a. sumber dari luar negeri 1 ) sumber dari india menurut van leur dan wolters , kegiatan hubungan dagang indonesia dengan bangsa-bangsa asia pertama kali dilakukan dengan india , kemudian cina .
+sentence 5: bukti adanya hubungan dagang tersebut dapat diketahui dari kitab jataka dan kitab ramayana .
+passage 6 score = 6.75
+sentence 1: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
+sentence 2: 2 ) sumber dari cina kontak hubungan indonesia dengan cina diperkirakan telah berkembang pada abad ke-5 .
+sentence 3: bukti-bukti yang memperkuat hubungan itu di antaranya adalah perjalanan seorang pendeta buddha , fa hien .
+sentence 4: pada sekitar tahun 413 m , fa hien melakukan perjalanan dari india ke ye-po-ti ( tarumanegara ) dan kembali ke cina melalui jalur laut .
+sentence 5: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
+passage 1 score = 6.5
+sentence 1: pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha .
+sentence 2: - agama dan kebudayaan hindu – budha lahir dan berkembang di india .
+sentence 3: agama dan kebudayaan hindu – budha mewarnai kehidupan sosial , budaya , ekonomi , dan politik masyarakat india .
+sentence 4: agama dan kebudayaan hindu di india mencapai puncak kejayaan semasa pemerintahan candragupta dari dinasti maurya .
+sentence 5: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
+passage 2 score = 6.5
+sentence 1: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
+sentence 2: dari india , agama dan kebudayaan hindu – budha kemudian berkembang ke asia selatan , asia timur dan asia tenggara termasuk juga ke indonesia .
+sentence 3: pada awal abad tarikh masehi , negeri kepulauan nusantara telah menjalin hubungan dengan bangsa-bangsa di asia .
+sentence 4: bentuk hubungan dagang yang berlangsung pada saat itu bermula dari kegiatan perdagangan dan pelayaran .
+sentence 5: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
+passage 7 score = 6.5
+sentence 1: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
+sentence 2: berdasarkan bukti-bukti tersebut dapat disimpulkan bahwa pada abad ke-5 telah dilakukan hubungan perdagangan dan pelayaran secara langsung antara indonesia dan cina .
+sentence 3: barang-barang yang diperdagangkan dari cina berupa sutra , kertas , kulit binatang berbulu , kulit manis , dan barang-barang porselin .
+sentence 4: barang-barang dagangan dari india berupa ukiran , gading , perhiasan , kain tenun , gelas , permata , dan wol halus yang ditukar dengan komoditas dari indonesia seperti rempah-rempah , emas , dan perak .
+sentence 5: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
+passage 11 score = 6.5
+sentence 1: banyak peninggalan bangunan-bangunan kuno yang bercorak hindu atau buddha di indonesia .
+sentence 2: demikian juga benda-benda peninggalan dinasti-dinasti cina .
+sentence 3: hal ini menunjukkan adanya hubungan antara indonesia , india , dan cina .
+sentence 4: hubungan dagang indonesia dengan india dan cina telah menempatkan indonesia di kancah perdagangan dan pelayaran masa kuno .
+sentence 5: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
+passage 12 score = 6.5
+sentence 1: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
+sentence 2: hal itu disebabkan dalam perkembangan selanjutnya , para pedagang india di samping berdagang , mereka juga menyebarkan agama dan kebudayaan hindu – buddha .
+sentence 3: para brahmana atau pendeta dengan ikut para pedagang berlayar , mereka singgah di daerah-daerah untuk menyebarkan agama dan kebudayaan hindu dan buddha .
+sentence 4: dengan demikian , hubungan dagang dengan india telah memunculkan perubahan besar dalam tatanan kehidupan bangsa indonesia , baik di bidang sosial , budaya , maupun politik sebagai dampak dari persebaran agama dan kebudayaan hindu – buddha .
+sentence 5: terbukti di indonesia muncullah kerajaan-kerajaan yang bercorak hindu dan buddha yang tersebar di berbagai daerah di indonesia , seperti kalimantan , jawa , sumatera , dan bali .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok5.txt
-title : sejarah kerajaan kediri (kehidupan politik, sosial, ekonomi dan sastra)
-passage 5 score = 6.25
-sentence 1: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
-sentence 2: berdasarkan kronik-kronik cina maka kehidupan perekonomian rakyat kediri dapat dikemukakan sebagai berikut .
-sentence 3: 1 .
-sentence 4: rakyat hidup dari pertanian , peternakan dan perdagangan .
-sentence 5: 2 .
-passage 3 score = 2.5
-sentence 1: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
-sentence 2: ramalannya terkenal dengan istilah “ jangka jayabaya " .
-sentence 3: raja kediri yang juga memperhatikan kesusastraan ialah kameswara .
-sentence 4: empu tan akung menulis kitab wartasancaya dan lubdaka , sedangkan empu dharmaja menulis kitab smaradahana .
-sentence 5: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
-passage 9 score = 2.5
-sentence 1: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
-sentence 2: selain itu juga disusun kitab hukum yang bernama siwasasana .
-sentence 3: 2 ) di zaman airlangga disusun kitab arjuna wiwaha karya empu kanwa .
-sentence 4: 3 ) masa jayabaya berhasil digubah kitab bharatayudha oleh empu sedah dan empu panuluh .
-sentence 5: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
-passage 10 score = 2.5
-sentence 1: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
-sentence 2: 4 ) masa kameswara berhasil ditulis kitab smaradhahana oleh empu dharmaja .
-sentence 3: kitab lubdaka dan wertasancaya oleh empu tan akung .
-passage 2 score = 1.25
-sentence 1: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
-sentence 2: pada masa pemerintahannya kesusastraan diperhatikan .
-sentence 3: empu sedah dan empu panuluh menggubah karya sastra kitab bharatayudha yang menggambarkan peperangan antara pandawa dan kurawa yang untuk menggambarkan peperangan antara jenggala dan kediri .
-sentence 4: empu panuluh juga menggubah kakawin hariwangsa dan gatotkacasraya .
-sentence 5: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
-passage 4 score = 1.25
-sentence 1: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
-sentence 2: raja kediri yang terakhir ialah kertajaya yang pada tahun 1222 kekuasaannya dihancurkan oleh ken arok sehingga berakhirlah kerajaan kediri dan muncul kerajaan singasari .
-sentence 3: b. kehidupan sosial ekonomi kerajaan kediri pada masa kejayaan kediri , perhatian raja terhadap kehidupan sosial ekonomi rakyat juga besar .
-sentence 4: hal ini dapat dibuktikan dengan karya-karya sastra saat itu , yang mencerminkan kehidupan sosial ekonomi masyarakat saat itu .
-sentence 5: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
-passage 8 score = 1.25
-sentence 1: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
-sentence 2: 2 .
-sentence 3: hukuman yang dilaksanakan ada dua macam , yakni hukuman denda ( berupa emas ) dan hukuman mati ( khususnya bagi pencuri dan perampok ) .
-sentence 4: c. kehidupan kebudayaan , khususnya sastra kerajaan kediri di bidang kebudayaan , khususnya sastra , masa kahuripan dan kediri berkembang pesat , antara lain sebagai berikut .
-sentence 5: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
-passage 1 score = 1.0
-sentence 1: sejarah kerajaan kediri ( kehidupan politik , sosial , ekonomi dan sastra ) a. kehidupan politik kerajaan kediri dalam persaingan antara panjalu dan kediri , ternyata kediri yang unggul dan menjadi kerajaan yang besar kekuasaannya .
-sentence 2: raja terbesar dari kerajaan kediri adalah jayabaya ( 1135 – 1157 ) .
-sentence 3: jayabaya ingin mengembalikan kejayaan seperti masa airlangga dan berhasil .
-sentence 4: panjalu dan jenggala dapat bersatu kembali .
-sentence 5: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
-passage 6 score = 1.0
-sentence 1: 2 .
-sentence 2: kediri banyak menghasilkan beras .
-sentence 3: 3 .
-sentence 4: barang-barang dagangan yang laku di pasaran saat itu antara lain emas , perak , gading dan kayu cendana .
-sentence 5: 4 .
-passage 7 score = 1.0
-sentence 1: 4 .
-sentence 2: pajak rakyat berupa hasil bumi , seperti besar dan palawija .
-sentence 3: adapun kehidupan sosialnya sebagai berikut .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+passage 5 score = 7.0
+sentence 1: menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
+sentence 2: kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di indonesia .
+sentence 3: salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa masyarakat india telah mengenal beberapa tempat di indonesia pada abad ke-3 masehi .
+sentence 4: dalam kitab geographike yang ditulis pada abad ke-2 juga disebutkan telah ada hubungan dagang antara india dan indonesia .
+sentence 5: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
+passage 8 score = 7.0
+sentence 1: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
+sentence 2: dalam kitabnya yang berjudul geographike yang ditulis pada abad ke-2 , ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
+sentence 3: mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
+sentence 4: dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
+sentence 5: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
+passage 9 score = 7.0
+sentence 1: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
+sentence 2: sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara indonesia dengan india dan cina , antara lain sebagai berikut .
+sentence 3: 1 ) prasasti prasasti-prasasti tertua di indonesia yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
+sentence 4: demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di jawa barat .
+sentence 5: semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
+passage 3 score = 6.75
+sentence 1: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
+sentence 2: proses percampuran antara dua atau lebih kebudayaan yang saling bertemu dan mempengaruhi itu disebut akulturasi kebudayaan .
+sentence 3: adanya hubungan dagang pada awal abad tarikh masehi , didasarkan adanya sumber-sumber baik luar negeri maupun dalam negeri .
+sentence 4: a. sumber dari luar negeri 1 ) sumber dari india menurut van leur dan wolters , kegiatan hubungan dagang indonesia dengan bangsa-bangsa asia pertama kali dilakukan dengan india , kemudian cina .
+sentence 5: bukti adanya hubungan dagang tersebut dapat diketahui dari kitab jataka dan kitab ramayana .
+passage 6 score = 6.75
+sentence 1: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
+sentence 2: 2 ) sumber dari cina kontak hubungan indonesia dengan cina diperkirakan telah berkembang pada abad ke-5 .
+sentence 3: bukti-bukti yang memperkuat hubungan itu di antaranya adalah perjalanan seorang pendeta buddha , fa hien .
+sentence 4: pada sekitar tahun 413 m , fa hien melakukan perjalanan dari india ke ye-po-ti ( tarumanegara ) dan kembali ke cina melalui jalur laut .
+sentence 5: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
+passage 1 score = 6.5
+sentence 1: pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha .
+sentence 2: - agama dan kebudayaan hindu – budha lahir dan berkembang di india .
+sentence 3: agama dan kebudayaan hindu – budha mewarnai kehidupan sosial , budaya , ekonomi , dan politik masyarakat india .
+sentence 4: agama dan kebudayaan hindu di india mencapai puncak kejayaan semasa pemerintahan candragupta dari dinasti maurya .
+sentence 5: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
+passage 2 score = 6.5
+sentence 1: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
+sentence 2: dari india , agama dan kebudayaan hindu – budha kemudian berkembang ke asia selatan , asia timur dan asia tenggara termasuk juga ke indonesia .
+sentence 3: pada awal abad tarikh masehi , negeri kepulauan nusantara telah menjalin hubungan dengan bangsa-bangsa di asia .
+sentence 4: bentuk hubungan dagang yang berlangsung pada saat itu bermula dari kegiatan perdagangan dan pelayaran .
+sentence 5: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
+passage 7 score = 6.5
+sentence 1: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
+sentence 2: berdasarkan bukti-bukti tersebut dapat disimpulkan bahwa pada abad ke-5 telah dilakukan hubungan perdagangan dan pelayaran secara langsung antara indonesia dan cina .
+sentence 3: barang-barang yang diperdagangkan dari cina berupa sutra , kertas , kulit binatang berbulu , kulit manis , dan barang-barang porselin .
+sentence 4: barang-barang dagangan dari india berupa ukiran , gading , perhiasan , kain tenun , gelas , permata , dan wol halus yang ditukar dengan komoditas dari indonesia seperti rempah-rempah , emas , dan perak .
+sentence 5: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
+passage 11 score = 6.5
+sentence 1: banyak peninggalan bangunan-bangunan kuno yang bercorak hindu atau buddha di indonesia .
+sentence 2: demikian juga benda-benda peninggalan dinasti-dinasti cina .
+sentence 3: hal ini menunjukkan adanya hubungan antara indonesia , india , dan cina .
+sentence 4: hubungan dagang indonesia dengan india dan cina telah menempatkan indonesia di kancah perdagangan dan pelayaran masa kuno .
+sentence 5: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
+passage 12 score = 6.5
+sentence 1: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
+sentence 2: hal itu disebabkan dalam perkembangan selanjutnya , para pedagang india di samping berdagang , mereka juga menyebarkan agama dan kebudayaan hindu – buddha .
+sentence 3: para brahmana atau pendeta dengan ikut para pedagang berlayar , mereka singgah di daerah-daerah untuk menyebarkan agama dan kebudayaan hindu dan buddha .
+sentence 4: dengan demikian , hubungan dagang dengan india telah memunculkan perubahan besar dalam tatanan kehidupan bangsa indonesia , baik di bidang sosial , budaya , maupun politik sebagai dampak dari persebaran agama dan kebudayaan hindu – buddha .
+sentence 5: terbukti di indonesia muncullah kerajaan-kerajaan yang bercorak hindu dan buddha yang tersebar di berbagai daerah di indonesia , seperti kalimantan , jawa , sumatera , dan bali .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok300.txt
+title : perkembangan dan budaya buddha
+passage 9 score = 5.25
+sentence 1: raja ashoka sadar dari kekeliruannya dan masuk agama buddha .
+sentence 2: bahkan , ia menjadi raja yang saleh dan menetapkan agama buddha sebagai agama negara .
+sentence 3: ia pun mengajarkan ahimsa , yaitu larangan membunuh dan melukai makhluk .
+sentence 4: berkat raja ini , agama buddha dapat disiarkan ke seluruh dunia .
+passage 1 score = 0.5
+sentence 1: perkembangan dan budaya buddha – ketika agama hindu mengalami kemunduran , muncullah agama buddha di india yang disiarkan oleh siddharta gautama .
+sentence 2: ajaran buddha ditulis dalam kitab suci tripitakayang berarti tiga keranjang atau tiga himpunan nikmat .
+sentence 3: isi kitab suci tripitaka sebagai berikut .
 sentence 4: 1 .
-sentence 5: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
+sentence 5: suttapitaka , berisikan himpunan ajaran dan khotbah buddha .
+passage 2 score = 0.25
+sentence 1: suttapitaka , berisikan himpunan ajaran dan khotbah buddha .
+sentence 2: bagian terbesar adalah percakapan antara buddha dan beberapa orang muridnya .
+sentence 3: di dalamnya terdapat pula kitab meditasi dan peribadatan .
+sentence 4: 2 .
+sentence 5: winayapitaka , berisikan tata hidup setiap anggota biara ( sangha ) .
+passage 3 score = 0.0
+sentence 1: winayapitaka , berisikan tata hidup setiap anggota biara ( sangha ) .
+sentence 2: 3 .
+sentence 3: abhidharmapitaka , ditujukan bagi lapisan terpelajar dalam agama buddha sebab merupakan pelajaran lanjutan .
+sentence 4: ada empat tempat yang dianggap suci dalam agama buddha .
+sentence 5: 1 .
+passage 4 score = 0.0
+sentence 1: 1 .
+sentence 2: taman lumbini di kapilawastu , tempat lahirnya siddharta ( 563 sm ) .
+sentence 3: 2 .
+sentence 4: bodhgaya , tempat siddharta menerima wahyu buddha .
+sentence 5: 3 .
+passage 5 score = 0.0
+sentence 1: 3 .
+sentence 2: kusinagara , tempat wafatnya siddharta pada tahun 482 sm .
+sentence 3: 4 .
+sentence 4: benares , tempat siddharta pertama kali berkhotbah .
+sentence 5: ajaran buddha seperti yang dikhotbahkan siddharta di taman menjangan , benares , berisikan hal-hal berikut .
+passage 6 score = 0.0
+sentence 1: ajaran buddha seperti yang dikhotbahkan siddharta di taman menjangan , benares , berisikan hal-hal berikut .
+sentence 2: aryastyani , yakni empat kebenaran utama dan delapan jalan tengah ( astavida ) .
+sentence 3: empat kebenaran utama , yaitu 1 ) hidup adalah derita ( duka ) atau samsara , 2 ) samsara disebabkan oleh hasrat keinginan ( tresna ) atau tanha , 3 ) tresna harus dihilangkan , dan 4 ) cara menghilangkan tresnaadalah dengan delapan jalan tengah .
+sentence 4: delapan jalan tengah , yaitu 1 ) pengertian yang benar , 2 ) maksud yang benar , 3 ) bicara yang benar , 4 ) laku yang benar , 5 ) kerja yang benar , 6 ) ikhtiar yang benar , 8 ) renungan yang benar .
+sentence 5: 7 ) ingatan yang benar , dan 1 .
+passage 7 score = 0.0
+sentence 1: 7 ) ingatan yang benar , dan 1 .
+sentence 2: pratityasamudpada , artinya rantai sebab akibat yang terdiri atas dua belas rantai dan masing-masing merupakan sebab dari hal berikutnya .
+sentence 3: pada bangunan peribadatan buddha akan kita temui stupa , yaitu bangunan berbentuk kubah yang berdiri di atas sebuah lapik dan diberi payung .
+sentence 4: fungsi bangunan ini adalah sebagai lambang suci agama buddha , tanda peringatan terjadinya suatu peristiwa dalam hidup buddha , tempat penyimpanan tulang jenazah buddha , dan tempat menyimpan benda suci .
+sentence 5: agama buddha berkembang pesat di india pada masa wangsa maurya di bawah raja ashoka .
+passage 8 score = 0.0
+sentence 1: agama buddha berkembang pesat di india pada masa wangsa maurya di bawah raja ashoka .
+sentence 2: raja ini pada awalnya memusuhi agama buddha .
+sentence 3: ia menciptakan “ neraka ashoka ” , yaitu hukuman rebus bagi penganut buddha .
+sentence 4: namun , pada suatu ketika orang yang diperintahkannya untuk direbus tidak mati .
+sentence 5: raja ashoka sadar dari kekeliruannya dan masuk agama buddha .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok76.txt
-title : sejarah kerajaan kediri (kehidupan politik, sosial, ekonomi dan sastra)
-passage 5 score = 6.25
-sentence 1: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
-sentence 2: berdasarkan kronik-kronik cina maka kehidupan perekonomian rakyat kediri dapat dikemukakan sebagai berikut .
-sentence 3: 1 .
-sentence 4: rakyat hidup dari pertanian , peternakan dan perdagangan .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+title : lahir dan berkembangnya hindu budha di india
+passage 5 score = 6.0
+sentence 1: siwa sebagai dewa perusak .
+sentence 2: ketiga dewa tersebut dikenal dengan sebutan tri murti .
+sentence 3: kitab suci agama hindu disebut weda ( veda ) artinya pengetahuan tentang agama .
+sentence 4: pemujaan terhadap para dewa-dewa dipimpin oleh golongan pendeta/brahmana .
+sentence 5: ajaran ritual yang dijadikan pedoman untuk melaksanakan upacara keagamaan yang ditulis oleh para brahmana disebut kitab veda/weda yang terdiri dari 4 bagian , yaitu : • reg veda , berisi tentang ajaran-ajaran hindu , merupakan kitab tertua ( 1500-900 sm ) kira-kira muncul saat bangsa aria ada di punjab .
+passage 7 score = 5.75
+sentence 1: doa/mantra muncul saat bangsa arya menguasai gangga hilir .
+sentence 2: hindu mengenal pembagian masyarakat atas kasta-kasta tertentu , yaitu brahmana , ksatria , waisya dan sudra .
+sentence 3: pembagian tersebut didasarkan pada tugas / pekerjaan mereka .
+sentence 4: • brahmana bertugas mengurus soal kehidupan keagamaan , terdiri dari para pendeta .
+sentence 5: • ksatria berkewajiban menjalankan pemerintahan termasuk pertahanan negara , terdiri dari raja dan keluarganya , para bangsawan , dan prajurit .
+passage 8 score = 5.75
+sentence 1: • ksatria berkewajiban menjalankan pemerintahan termasuk pertahanan negara , terdiri dari raja dan keluarganya , para bangsawan , dan prajurit .
+sentence 2: • waisya bertugas berdagang , bertani , dan berternak , terdiri dari para pedagang .
+sentence 3: • sudra bertugas sebagai petani / peternak , para pekerja / buruh/budak , merupakan para pekerja kasar .
+sentence 4: di luar kasta tersebut terdapat kasta paria terdiri dari pengemis dan gelandangan .
+sentence 5: perkawinan antar kasta dilarang dan jika terjadi dikeluarkan dari kasta dan masuk dalam golongan kaum paria seperti bangsa dravida .
+passage 13 score = 5.75
+sentence 1: agama budha muncul sebagai reaksi terhadap domonisi golongan brahmana atas ajaran dan ritual keagamaan dalam masyarakat india .
+sentence 2: selain itu adanya larangan bagi orang awam untuk mempelajari kitab suci .
+sentence 3: bahkan sebelumnya kaum ksatria dan raja harus tunduk kepada brahmana .
+sentence 4: sidharta memandang bahwa sistem kasta dapat memecah belah masyarakat bahkan sistem kasta dianggap membedakan derajat dan martabat manusia berdasarkan kelahiran .
+sentence 5: oleh karena itu , sidharta berusaha mencari jalan lain untuk mencapai moksa yang kemudian berhasil ia peroleh di bodhgaya ( tempat ia memperoleh penerangan agung ) .
+passage 17 score = 5.75
+sentence 1: abhrdharma pitaka berisi filosofi ( falsafah agama ) , psikologi , klasifikasi , dan sistematisasi doktrin perkembangan dan perpecahan dalam agama budha perkembangan agama budha mencapai puncaknya kejayaannya pada masa pemerintahan raja ashoka dari dinasti maurya .
+sentence 2: ia menetapkan agama budha sebagai agama resmi negara .
+sentence 3: dan berkembang cepat serta dapat diterima masyarakat india .
+sentence 4: hal tersebut dikarenakan , sebagai berikut : 1 .
+sentence 5: didukung oleh bahasa yang digunakan adalah bahasa prakrit yaitu bahasa rakyat sehari-hari dan bukan bahasa sansekerta yang hanya dimengerti oleh kaum brahmana .
+passage 26 score = 5.75
+sentence 1: tidak diakui adanya kasta dan memandang kedudukan seseorang dalam masyarakat adalah sama .
+sentence 2: dibenarkan untuk mengadakan korban tidak dibenarkan mengadakan korban kitab suci , weda kitab suci , tripitaka mengakui 3 dewa tertinggi ( trimurti ) sidharta gautama sebagai pemimpin agama budha agama hindu hanya dapat dipelajari oleh kaum pendeta/brahmana agama budha dapat dipelajari dan diterima oleh semua orang tanpa memandang kasta adanya pembedaan harkat dan martabat/hak dan kewajiban seseorang tidak mengenal pembagian hak antara pria dan wanita agama hindu hanya bisa dipelajari dengan menggunakan bahasa sansekerta agama budha disebarkan pada rakyat dengan menggunakan bahasa prakrit kesempurnaan ( nirwana ) dapat dicapai dengan bantuan pendeta setiap orang dapat mencapai kesempurnaan asal dapat mengendalikan diri sehingga terbebas dari samsara perkembangan agama dan kebudayaan hindu-budha kebudayaan dan agama hindu-budha pertama kali muncul di sekitar lembah sungai indus ( shindu ) india .
+sentence 3: wilayah inilah merupakan awal perkembangan peradaban budaya hindu-buddha .
+sentence 4: agama hindu yang ada di india ini mengenal sistem kasta .
+sentence 5: agahma hindu sebenarnya merupakan sinkretisme ( percampuran ) antara kepercayaan bangsa arya dengan kepercayaan dravida.sifatnya polytheisme yaitu percaya terhadap banyak dewa.tiap-tiap dewa merupakan lambang kekuatan terhadap alam , sehingga perlu disembah atau dipuja dan dihormati .
+passage 6 score = 5.5
+sentence 1: ajaran ritual yang dijadikan pedoman untuk melaksanakan upacara keagamaan yang ditulis oleh para brahmana disebut kitab veda/weda yang terdiri dari 4 bagian , yaitu : • reg veda , berisi tentang ajaran-ajaran hindu , merupakan kitab tertua ( 1500-900 sm ) kira-kira muncul saat bangsa aria ada di punjab .
+sentence 2: • yajur veda , berisi doa-doa yang dibacakan waktu diselenggarakan upacara agama , lahir saat bangsa aria menguasai daerah gangga tengah .
+sentence 3: • sama veda , berisi nyanyian puji-pujian yang wajib dinyanyikan saat diselenggarakan upacara agama .
+sentence 4: • atharwa veda , berisi kumpulan mantera-mantera gaib , doa-doa untuk menyembuhkan penyakit .
+sentence 5: doa/mantra muncul saat bangsa arya menguasai gangga hilir .
+passage 9 score = 5.5
+sentence 1: perkawinan antar kasta dilarang dan jika terjadi dikeluarkan dari kasta dan masuk dalam golongan kaum paria seperti bangsa dravida .
+sentence 2: paria disebut juga hariyan dan merupakan mayoritas penduduk india .
+sentence 3: pembagian kasta muncul sebagai upaya pemurnian terhadap keturunan bangsa aria sehingga dilakukan pelapisan yang bersumber pada ajaran agama .
+sentence 4: pelapisan tersebut dikenal dengan caturwangsa/caturwarna , yang berarti empat keturunan / empat kasta .
+sentence 5: pembagian kasta tersebut didasarkan pada keturunan .
+passage 10 score = 5.5
+sentence 1: pembagian kasta tersebut didasarkan pada keturunan .
+sentence 2: kemunduran agama hindu pada abad ke 6 sm agama hindu mengalami kemunduran disebabkan oleh faktor-faktor , yaitu : 1 .
+sentence 3: kaum brahmana yang memonopoli upacara keagamaan membuat sebagai dari mereka bertindak sewenang-wenang .
+sentence 4: contoh : rakyat dibebankan untuk memberikan korban yang telah ditetapkan .
 sentence 5: 2 .
-passage 3 score = 2.5
-sentence 1: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
-sentence 2: ramalannya terkenal dengan istilah “ jangka jayabaya " .
-sentence 3: raja kediri yang juga memperhatikan kesusastraan ialah kameswara .
-sentence 4: empu tan akung menulis kitab wartasancaya dan lubdaka , sedangkan empu dharmaja menulis kitab smaradahana .
-sentence 5: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
-passage 9 score = 2.5
-sentence 1: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
-sentence 2: selain itu juga disusun kitab hukum yang bernama siwasasana .
-sentence 3: 2 ) di zaman airlangga disusun kitab arjuna wiwaha karya empu kanwa .
-sentence 4: 3 ) masa jayabaya berhasil digubah kitab bharatayudha oleh empu sedah dan empu panuluh .
-sentence 5: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
-passage 10 score = 2.5
-sentence 1: di samping itu , empu panuluh juga menulis kitab hariwangsa dan gatotkacasraya .
-sentence 2: 4 ) masa kameswara berhasil ditulis kitab smaradhahana oleh empu dharmaja .
-sentence 3: kitab lubdaka dan wertasancaya oleh empu tan akung .
-passage 2 score = 1.25
-sentence 1: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
-sentence 2: pada masa pemerintahannya kesusastraan diperhatikan .
-sentence 3: empu sedah dan empu panuluh menggubah karya sastra kitab bharatayudha yang menggambarkan peperangan antara pandawa dan kurawa yang untuk menggambarkan peperangan antara jenggala dan kediri .
-sentence 4: empu panuluh juga menggubah kakawin hariwangsa dan gatotkacasraya .
-sentence 5: jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan , terutama yang akan menimpa tanah jawa .
-passage 4 score = 1.25
-sentence 1: di dalam kiitab smaradahana ini kameswara dipuji-puji sebagai titisan kamajaya , permaisurinya ialah sri kirana atau putri candrakirana .
-sentence 2: raja kediri yang terakhir ialah kertajaya yang pada tahun 1222 kekuasaannya dihancurkan oleh ken arok sehingga berakhirlah kerajaan kediri dan muncul kerajaan singasari .
-sentence 3: b. kehidupan sosial ekonomi kerajaan kediri pada masa kejayaan kediri , perhatian raja terhadap kehidupan sosial ekonomi rakyat juga besar .
-sentence 4: hal ini dapat dibuktikan dengan karya-karya sastra saat itu , yang mencerminkan kehidupan sosial ekonomi masyarakat saat itu .
-sentence 5: di antaranya kitab lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan , melainkan berdasarkan kelakukannya .
-passage 8 score = 1.25
-sentence 1: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
-sentence 2: 2 .
-sentence 3: hukuman yang dilaksanakan ada dua macam , yakni hukuman denda ( berupa emas ) dan hukuman mati ( khususnya bagi pencuri dan perampok ) .
-sentence 4: c. kehidupan kebudayaan , khususnya sastra kerajaan kediri di bidang kebudayaan , khususnya sastra , masa kahuripan dan kediri berkembang pesat , antara lain sebagai berikut .
-sentence 5: 1 ) pada masa dharmawangsa berhasil disadur kitab mahabarata ke dalam bahasa jawa kuno yang disebut kitab wirataparwa .
-passage 1 score = 1.0
-sentence 1: sejarah kerajaan kediri ( kehidupan politik , sosial , ekonomi dan sastra ) a. kehidupan politik kerajaan kediri dalam persaingan antara panjalu dan kediri , ternyata kediri yang unggul dan menjadi kerajaan yang besar kekuasaannya .
-sentence 2: raja terbesar dari kerajaan kediri adalah jayabaya ( 1135 – 1157 ) .
-sentence 3: jayabaya ingin mengembalikan kejayaan seperti masa airlangga dan berhasil .
-sentence 4: panjalu dan jenggala dapat bersatu kembali .
-sentence 5: lencana kerajaan memakai simbol garuda mukha simbol airlangga .
-passage 6 score = 1.0
-sentence 1: 2 .
-sentence 2: kediri banyak menghasilkan beras .
-sentence 3: 3 .
-sentence 4: barang-barang dagangan yang laku di pasaran saat itu antara lain emas , perak , gading dan kayu cendana .
-sentence 5: 4 .
-passage 7 score = 1.0
-sentence 1: 4 .
-sentence 2: pajak rakyat berupa hasil bumi , seperti besar dan palawija .
-sentence 3: adapun kehidupan sosialnya sebagai berikut .
-sentence 4: 1 .
-sentence 5: rakyat kediri pada umumnya memiliki tempat tinggal yang baik , bersih , dan rapi .
+passage 12 score = 5.5
+sentence 1: 3 .
+sentence 2: timbul golongan yang berusaha mencari jalan sendiri untuk mencapai hidup abadi yang sejati .
+sentence 3: golongan tersebut disebut golongan buddha yang dihimpun oleh sidharta .
+sentence 4: perkembangan agama budha di india masuknya agama budha di india agama budha tumbuh di india tepatnya bagian timur laut .
+sentence 5: agama budha muncul sebagai reaksi terhadap domonisi golongan brahmana atas ajaran dan ritual keagamaan dalam masyarakat india .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok380.txt
+title : proses masuk dan berkembangnya pengaruh hindu-budha di indonesia
+passage 2 score = 5.75
+sentence 1: indonesia yang terletak di jalur posisi silang dua benua dan dua samudera , serta berada di dekat selat malaka memiliki keuntungan , yaitu : sering dikunjungi bangsa-bangsa asing , seperti india , cina , arab , dan persia , kesempatan melakukan hubungan perdagangan internasional terbuka lebar , pergaulan dengan bangsa-bangsa lain semakin luas , dan pengaruh asing masuk ke indonesia , seperti hindu-budha .
+sentence 2: keterlibatan bangsa indonesia dalam kegiatan perdagangan dan pelayaran internasional menyebabkan timbulnya percampuran budaya .
+sentence 3: india merupakan negara pertama yang memberikan pengaruh kepada indonesia , yaitu dalam bentuk budaya hindu .
+sentence 4: ada beberapa hipotesis yang dikemukakan para ahli tentang proses masuknya budaya hindu-buddha ke indonesia .
+sentence 5: 1 .
+passage 1 score = 5.5
+sentence 1: pada permulaan tarikh masehi , di benua asia terdapat dua negeri besar yang tingkat peradabannya dianggap sudah tinggi , yaitu india dan cina .
+sentence 2: kedua negeri ini menjalin hubungan ekonomi dan perdagangan yang baik .
+sentence 3: arus lalu lintas perdagangan dan pelayaran berlangsung melalui jalan darat dan laut .
+sentence 4: salah satu jalur lalu lintas laut yang dilewati india-cina adalah selat malaka .
+sentence 5: indonesia yang terletak di jalur posisi silang dua benua dan dua samudera , serta berada di dekat selat malaka memiliki keuntungan , yaitu : sering dikunjungi bangsa-bangsa asing , seperti india , cina , arab , dan persia , kesempatan melakukan hubungan perdagangan internasional terbuka lebar , pergaulan dengan bangsa-bangsa lain semakin luas , dan pengaruh asing masuk ke indonesia , seperti hindu-budha .
+passage 3 score = 5.5
+sentence 1: 1 .
+sentence 2: hipotesis brahmana hipotesis ini mengungkapkan bahwa kaum brahmana amat berperan dalam upaya penyebaran budaya hindu di indonesia .
+sentence 3: para brahmana mendapat undangan dari penguasa indonesia untuk menobatkan raja dan memimpin upacara-upacara keagamaan .
+sentence 4: pendukung hipotesis ini adalah van leur .
+sentence 5: 2 .
+passage 6 score = 5.5
+sentence 1: 3 .
+sentence 2: hipotesis waisya menurut para pendukung hipotesis waisya , kaum waisya yang berasal dari kelompok pedagang telah berperan dalam menyebarkan budaya hindu ke nusantara .
+sentence 3: para pedagang banyak berhubungan dengan para penguasa beserta rakyatnya .
+sentence 4: jalinan hubungan itu telah membuka peluang bagi terjadinya proses penyebaran budaya hindu .
+sentence 5: n.j. krom adalah salah satu pendukung dari hipotesis waisya .
+passage 9 score = 5.5
+sentence 1: pendapat semacam ini disebut teori arus balik .
+sentence 2: pada umumnya para ahli cenderung kepada pendapat yang menyatakan bahwa masuknya budaya hindu ke indonesia itu dibawa dan disebarluaskan oleh orang-orang indonesia sendiri .
+sentence 3: bukti tertua pengaruh budaya india di indonesia adalah penemuan arca perunggu buddha di daerah sempaga ( sulawesi selatan ) .
+sentence 4: dilihat dari bentuknya , arca ini mempunyai langgam yang sama dengan arca yang dibuat di amarawati ( india ) .
+sentence 5: para ahli memperkirakan , arca buddha tersebut merupakan barang dagangan atau barang persembahan untuk bangunan suci agama buddha .
+passage 19 score = 5.5
+sentence 1: dewa wisnu , sebagai dewa pemelihara dan pelindung .
+sentence 2: dewa siwa , sebagai dewa perusak .
+sentence 3: selain dewa trimurti , ada pula dewa yang banyak dipuja yaitu dewa indra pembawa hujan yang sangat penting untuk pertanian , serta dewa agni ( api ) yang berguna untuk memasak dan upacara-upacara keagamaan .
+sentence 4: menurut agama hindu masyarakat dibedakan menjadi 4 tingkatan atau kasta yang disebut caturwarna yaitu : kasta brahmana , terdiri dari para pendeta .
+sentence 5: kasta ksatria , terdiri dari raja , keluarga raja , dan bangsawan .
+passage 20 score = 5.5
+sentence 1: kasta ksatria , terdiri dari raja , keluarga raja , dan bangsawan .
+sentence 2: kasta waisya , terdiri dari para pedagang , dan buruh menengah .
+sentence 3: kasta sudra , terdiri dari para petani , buruh kecil , dan budak .
+sentence 4: selain 4 kasta tersebut terdapat pula golongan pharia atau candala , yaitu orang di luar kasta yang telah melanggar aturan-aturan kasta .
+sentence 5: orang-orang hindu memilih tempat yang dianggap suci misalnya , benares sebagai tempat bersemayamnya dewa siwa serta sungai gangga yang airnya dapat mensucikan dosa umat hindu , sehingga bisa mencapai puncak nirwana .
+passage 12 score = 5.25
+sentence 1: 2 .
+sentence 2: pemerintahan sistem pemerintahan kerajaan dikenalkan oleh orang-orang india .
+sentence 3: dalam sistem ini kelompok-kelompok kecil masyarakat bersatu dengan kepemilikan wilayah yang luas .
+sentence 4: kepala suku yang terbaik dan terkuat berhak atas tampuk kekuasaan kerajaan .
+sentence 5: oleh karena itu , lahir kerajaan-kerajaan , seperti kutai , tarumanegara , dan sriwijaya .
+passage 17 score = 5.25
+sentence 1: sumber ajaran hindu terdapat dalam kitab sucinya yaitu weda .
+sentence 2: kitab weda terdiri atas 4 samhita atau “ himpunan ” yaitu : reg weda , berisi syair puji-pujian kepada para dewa .
+sentence 3: sama weda , berisi nyanyian-nyanyian suci .
+sentence 4: yajur weda , berisi mantera-mantera untuk upacara keselamatan .
+sentence 5: atharwa weda , berisi doa-doa untuk penyembuhan penyakit .
+passage 18 score = 5.25
+sentence 1: atharwa weda , berisi doa-doa untuk penyembuhan penyakit .
+sentence 2: di samping kitab weda , umat hindu juga memiliki kitab suci lainnya yaitu : kitab brahmana , berisi ajaran tentang hal-hal sesaji .
+sentence 3: kitab upanishad , berisi ajaran ketuhanan dan makna hidup .
+sentence 4: agama hindu menganut polytheisme ( menyembah banyak dewa ) , diantaranya trimurti atau “ kesatuan tiga dewa tertinggi ” yaitu : dewa brahmana , sebagai dewa pencipta .
+sentence 5: dewa wisnu , sebagai dewa pemelihara dan pelindung .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 45 score = 6.0
 sentence 1: mereka dibantu oleh lima upapatti ( pembantu ) .
@@ -437,7 +659,7 @@ sentence 3: sebelum putri dyah pitaloka dan ayahnya beserta para pembesar keraja
 sentence 4: di sana terjadi perselisihan antara gajah mada yang menghendaki agar putri itu dipersembahkan oleh raja pajajaran kepada raja majapahit .
 sentence 5: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 45 score = 6.0
 sentence 1: mereka dibantu oleh lima upapatti ( pembantu ) .
@@ -499,199 +721,10 @@ sentence 2: pada waktu itu , hayam wuruk bermaksud untuk menikahi putri dyah pit
 sentence 3: sebelum putri dyah pitaloka dan ayahnya beserta para pembesar kerajaan pajajaran sampai di majapahit , mereka beristirahat di lapangan bubat .
 sentence 4: di sana terjadi perselisihan antara gajah mada yang menghendaki agar putri itu dipersembahkan oleh raja pajajaran kepada raja majapahit .
 sentence 5: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-title : bentuk bentuk kebudayaan hindu buddha yang masuk ke indonesia
-passage 32 score = 5.75
-sentence 1: tidak mustahil bahwa sekembalinya para pelajar ini ke sriwijaya maka mereka akan menyebarluaskan hasil pendidikannya tersebut kepada masyarakat sriwijaya dengan jalan membentuk asrama-asrama sebagai pusat pengajaran dan pendidikan agama buddha .
-sentence 2: c. catatan perjalanan i-tsing menyebutkan bahwa pendeta hui-ning dari cina pernah berangkat ke ho-ling ( salah satu kerajaan buddha di jawa ) .
-sentence 3: tujuannya adalah untuk bekerja sama dengan pendeta ho-ling yaitu jnanabhadra untuk menerjemahkan bagian terakhir kitab nirwanasutra .
-sentence 4: dari berita ini menunjukkan bahwa di jawa pun telah dikenal pendidikan agama buddha yang kemudian menjadi rujukan bagi pendeta yang berasal dari daerah lain untuk bersamasama mempelajari agama dengan pendeta yang berasal dari indonesia .
-sentence 5: d. pada prasasti turun hyang , yaitu prasasti yang dikeluarkan oleh raja airlangga menyebutkan tentang pembuatan sriwijaya asrama oleh raja airlangga .
-passage 1 score = 5.5
-sentence 1: bentuk bentuk kebudayaan hindu buddha yang masuk ke indonesia - masuknya kebudayaan india ke indonesia telah membawa pengaruh terhadap perkembangan kebudayaan di indonesia .
-sentence 2: bangsa indonesia yang sebelumnya memiliki kebudayaan asli , banyak mengadopsi dan mengembangkan budaya india dalam kehidupan sehari-hari .
-sentence 3: namun , masyarakat tidak begitu saja menerima budaya-budaya baru tersebut .
-sentence 4: kebudayaan yang datang dari india mengalami proses penyesuaian dengan kebudayaan yang ada di indonesia yang disebut dengan proses akulturasi kebudayaan .
-sentence 5: dalam bidang agama juga lahir sinkretisme , yaitu perpaduan antara agama hindu-buddha dengan kepercayaan yang telah ada dan berkembang di masyarakat indonesia pada saat itu .
-passage 2 score = 5.5
-sentence 1: dalam bidang agama juga lahir sinkretisme , yaitu perpaduan antara agama hindu-buddha dengan kepercayaan yang telah ada dan berkembang di masyarakat indonesia pada saat itu .
-sentence 2: sehingga agama hindu-buddha yang dianut oleh bangsa indonesia pada aman kerajaan-kerajaan sangat berbeda dengan agama hindu-buddha yang ada di india .
-sentence 3: masuknya agama hindu dan buddha tidak serta merta menghilangkan unsur budaya lama yang telah berkembang dalam masyarakat indonesia .
-sentence 4: salah satu contoh yang sangat mencolok dalam kehidupan masyarakat hindu di indonesia misalnya dalam sistem kasta .
-sentence 5: sistem kasta di indonesia yang mengadopsi dari agama hindu tidak sama dengan sistem kasta yang berkembang dari tanah kelahiran agama tersebut yaitu india .
-passage 5 score = 5.5
-sentence 1: pembuatan candi di india selalu menunjukkan fungsinya yang utama yaitu sebagai tempat peribadatan .
-sentence 2: sementara candi-candi yang terdapat di indonesia tidak hanya difungsikan sebagai tempat peribadatan tetapi juga tempat pemakaman raja atau orang-orang yang dimuliakan .
-sentence 3: hal ini tampaknya dipahami oleh masyarakat indonesia bahwa kata candi berasal dari nama durga sebagai dewi maut yaitu candika .
-sentence 4: dari kata candika menunjukkan bahwa candi merupakan tempat untuk memuliakan orang yang telah meninggal , khususnya untuk para raja dan orang-orang terkemuka .
-sentence 5: terdapat perbedaan fungsi candi antara agama hindu dan buddha .
-passage 11 score = 5.5
-sentence 1: tahap-tahap tersebut terdiri atas dua bagian yaitu dasyabodhisatwabhumi disebut tingkat lokattara ( tingkat di atas dunia ) , sebelum sampai ke tingkat lokattara lebih dahulu harus menjalani tingkat persiapan .
-sentence 2: tingkat persiapan tersebut terdiri atas dua tahap pula , yaitu sambharamarga dan prayogamarga .
-sentence 3: kedua tahap ini merupakan tahap kehidupan di dunia atau laukika .
-sentence 4: jadi dari paham tersebut dapat diterangkan bahwa candi borobudur yang bersifat lokattara dibangun di atas bukit , sedangkan candi mendut dan candi pawon yang bersifat laukika dan masing masing menggambarkan sambharamarga dan prayogamarga dibangun di atas permukaan bumi ( daerah pedataran ) .
-sentence 5: candi prambanan dikenal pula dengan .
-passage 31 score = 5.5
-sentence 1: b. prasasti nalanda yang dibuat pada sekitar pertengahan abad ke-9 , dan ditemukan di india .
-sentence 2: pada prasasti ini disebutkan bahwa raja balaputradewa dari suwarnabhumi ( sriwijaya ) meminta pada raja dewapaladewa agar memberikan sebidang tanah untuk pembangunan asrama yang digunakan sebagai tempat bagi para pelajar agama buddha yang berasal dari sriwijaya .
-sentence 3: berdasarkan prasasti tersebut , kita bisa melihat begitu besarnya perhatian raja sriwijaya terhadap pendidikan dan pengajaran agama buddha di kerajaannya .
-sentence 4: hal ini terlihat dengan dikirimkannya beberapa pelajar dari sriwijaya untuk belajar agama buddha langsung ke daerah kelahirannya yaitu india .
-sentence 5: tidak mustahil bahwa sekembalinya para pelajar ini ke sriwijaya maka mereka akan menyebarluaskan hasil pendidikannya tersebut kepada masyarakat sriwijaya dengan jalan membentuk asrama-asrama sebagai pusat pengajaran dan pendidikan agama buddha .
-passage 33 score = 5.5
-sentence 1: d. pada prasasti turun hyang , yaitu prasasti yang dikeluarkan oleh raja airlangga menyebutkan tentang pembuatan sriwijaya asrama oleh raja airlangga .
-sentence 2: sriwijaya asrama merupakan suatu tempat yang dibangun sebagai pusat pendidikan dan pengajaran keagamaan .
-sentence 3: hal ini menunjukkan besarnya perhatian raja airlangga terhadap pendidikan keagamaan bagi rakyatnya dengan memberikan fasilitas berupa pembuatan bangunan yang akan digunakan sebagai sarana pendidikan dan pengajaran .
-sentence 4: e. istilah surau yang digunakan oleh orang islam untuk menunjuk lembaga pendidikan islam tradisional di minangkabau sebenarnya berasal dari pengaruh hindu-buddha .
-sentence 5: surau merupakan tempat yang dibangun sebagai tempat beribadah orang hindu-buddha pada masa raja adityawarman .
-passage 39 score = 5.5
-sentence 1: hiasan relief candi penataran pada masa kediri mengambil epik kisah mahabharata .
-sentence 2: sementara itu , kisah mahabharata juga menjadi epik yang dipilih sebagai relief pada dua candi peninggalan kerajaan majapahit , yaitu candi tigawangi dan candi sukuh .
-sentence 3: seni arca dan patung , sebagai akibat akulturasi budaya pemujaan arwah leluhur dengan agama hindu-buddha maka beberapa keluarga raja diperdewa dalam bentuk arca yang ditempatkan di candi makam .
-sentence 4: arcaarca dewa tersebut dipercaya merupakan lambang keluarga raja yang dicandikan dan tidak mustahil termasuk di dalamnya kepribadian dan watak dari keluarga raja tersebut .
-sentence 5: oleh karena itu , arca dewa tersebut sering diidentikkan dengan arca keluarga raja .
-passage 42 score = 5.5
-sentence 1: f. arca ganesa , yaitu dewa yang berkepala gajah sebagai dewa ilmu pengetahuan .
-sentence 2: seni pertunjukan , terutama seni wayang sampai sekarang merupakan salah satu bentuk seni yang masih populer di kalangan masyarakat indonesia .
-sentence 3: seni wayang beragam bentuknya seperti wayang kulit , wayang golek , dan wayang orang .
-sentence 4: seni pertunjukan wayang tampaknya telah dikenal oleh bangsa indonesia sejak aman prasejarah .
-sentence 5: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-passage 43 score = 5.5
-sentence 1: pertunjukan wayang pada masa ini selalu dikaitkan dengan fungsi magisreligius yaitu sebagai bentuk upacara pemujaan pada arwah nenek moyang yang disebut hyang .
-sentence 2: kedatangan arwah nenek moyang diwujudkan dalam bentuk bayangan dari sebuah wayang yang terbuat dari kulit .
-sentence 3: lakon wayang pada masa ini lebih banyak menceritakan tentang kepahlawanan dan petualangan nenek moyang , seperti lakon-lakon “ dewi sri ” atau “ murwakala ” .
-sentence 4: pertunjukan wayang diadakan pada malam hari di tempattempat yang dianggap keramat .
-sentence 5: pada masa hindu-buddha , kebudayaan pertunjukan wayang ini terus dilanjutkan dan lebih berkembang lagi dengan cerita-cerita yang lebih kaya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok112.txt
-title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
-passage 5 score = 6.0
-sentence 1: menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
-sentence 2: kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di indonesia .
-sentence 3: salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa masyarakat india telah mengenal beberapa tempat di indonesia pada abad ke-3 masehi .
-sentence 4: dalam kitab geographike yang ditulis pada abad ke-2 juga disebutkan telah ada hubungan dagang antara india dan indonesia .
-sentence 5: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
-passage 8 score = 6.0
-sentence 1: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
-sentence 2: dalam kitabnya yang berjudul geographike yang ditulis pada abad ke-2 , ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
-sentence 3: mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
-sentence 4: dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
-sentence 5: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
-passage 9 score = 6.0
-sentence 1: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
-sentence 2: sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara indonesia dengan india dan cina , antara lain sebagai berikut .
-sentence 3: 1 ) prasasti prasasti-prasasti tertua di indonesia yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
-sentence 4: demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di jawa barat .
-sentence 5: semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
-passage 3 score = 5.75
-sentence 1: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
-sentence 2: proses percampuran antara dua atau lebih kebudayaan yang saling bertemu dan mempengaruhi itu disebut akulturasi kebudayaan .
-sentence 3: adanya hubungan dagang pada awal abad tarikh masehi , didasarkan adanya sumber-sumber baik luar negeri maupun dalam negeri .
-sentence 4: a. sumber dari luar negeri 1 ) sumber dari india menurut van leur dan wolters , kegiatan hubungan dagang indonesia dengan bangsa-bangsa asia pertama kali dilakukan dengan india , kemudian cina .
-sentence 5: bukti adanya hubungan dagang tersebut dapat diketahui dari kitab jataka dan kitab ramayana .
-passage 6 score = 5.75
-sentence 1: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
-sentence 2: 2 ) sumber dari cina kontak hubungan indonesia dengan cina diperkirakan telah berkembang pada abad ke-5 .
-sentence 3: bukti-bukti yang memperkuat hubungan itu di antaranya adalah perjalanan seorang pendeta buddha , fa hien .
-sentence 4: pada sekitar tahun 413 m , fa hien melakukan perjalanan dari india ke ye-po-ti ( tarumanegara ) dan kembali ke cina melalui jalur laut .
-sentence 5: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
-passage 1 score = 5.5
-sentence 1: pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha .
-sentence 2: - agama dan kebudayaan hindu – budha lahir dan berkembang di india .
-sentence 3: agama dan kebudayaan hindu – budha mewarnai kehidupan sosial , budaya , ekonomi , dan politik masyarakat india .
-sentence 4: agama dan kebudayaan hindu di india mencapai puncak kejayaan semasa pemerintahan candragupta dari dinasti maurya .
-sentence 5: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
-passage 2 score = 5.5
-sentence 1: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
-sentence 2: dari india , agama dan kebudayaan hindu – budha kemudian berkembang ke asia selatan , asia timur dan asia tenggara termasuk juga ke indonesia .
-sentence 3: pada awal abad tarikh masehi , negeri kepulauan nusantara telah menjalin hubungan dengan bangsa-bangsa di asia .
-sentence 4: bentuk hubungan dagang yang berlangsung pada saat itu bermula dari kegiatan perdagangan dan pelayaran .
-sentence 5: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
-passage 7 score = 5.5
-sentence 1: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
-sentence 2: berdasarkan bukti-bukti tersebut dapat disimpulkan bahwa pada abad ke-5 telah dilakukan hubungan perdagangan dan pelayaran secara langsung antara indonesia dan cina .
-sentence 3: barang-barang yang diperdagangkan dari cina berupa sutra , kertas , kulit binatang berbulu , kulit manis , dan barang-barang porselin .
-sentence 4: barang-barang dagangan dari india berupa ukiran , gading , perhiasan , kain tenun , gelas , permata , dan wol halus yang ditukar dengan komoditas dari indonesia seperti rempah-rempah , emas , dan perak .
-sentence 5: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
-passage 11 score = 5.5
-sentence 1: banyak peninggalan bangunan-bangunan kuno yang bercorak hindu atau buddha di indonesia .
-sentence 2: demikian juga benda-benda peninggalan dinasti-dinasti cina .
-sentence 3: hal ini menunjukkan adanya hubungan antara indonesia , india , dan cina .
-sentence 4: hubungan dagang indonesia dengan india dan cina telah menempatkan indonesia di kancah perdagangan dan pelayaran masa kuno .
-sentence 5: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
-passage 12 score = 5.5
-sentence 1: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
-sentence 2: hal itu disebabkan dalam perkembangan selanjutnya , para pedagang india di samping berdagang , mereka juga menyebarkan agama dan kebudayaan hindu – buddha .
-sentence 3: para brahmana atau pendeta dengan ikut para pedagang berlayar , mereka singgah di daerah-daerah untuk menyebarkan agama dan kebudayaan hindu dan buddha .
-sentence 4: dengan demikian , hubungan dagang dengan india telah memunculkan perubahan besar dalam tatanan kehidupan bangsa indonesia , baik di bidang sosial , budaya , maupun politik sebagai dampak dari persebaran agama dan kebudayaan hindu – buddha .
-sentence 5: terbukti di indonesia muncullah kerajaan-kerajaan yang bercorak hindu dan buddha yang tersebar di berbagai daerah di indonesia , seperti kalimantan , jawa , sumatera , dan bali .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok41.txt
-title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
-passage 5 score = 6.0
-sentence 1: menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
-sentence 2: kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di indonesia .
-sentence 3: salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa masyarakat india telah mengenal beberapa tempat di indonesia pada abad ke-3 masehi .
-sentence 4: dalam kitab geographike yang ditulis pada abad ke-2 juga disebutkan telah ada hubungan dagang antara india dan indonesia .
-sentence 5: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
-passage 8 score = 6.0
-sentence 1: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
-sentence 2: dalam kitabnya yang berjudul geographike yang ditulis pada abad ke-2 , ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
-sentence 3: mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
-sentence 4: dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
-sentence 5: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
-passage 9 score = 6.0
-sentence 1: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
-sentence 2: sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara indonesia dengan india dan cina , antara lain sebagai berikut .
-sentence 3: 1 ) prasasti prasasti-prasasti tertua di indonesia yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
-sentence 4: demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di jawa barat .
-sentence 5: semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
-passage 3 score = 5.75
-sentence 1: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
-sentence 2: proses percampuran antara dua atau lebih kebudayaan yang saling bertemu dan mempengaruhi itu disebut akulturasi kebudayaan .
-sentence 3: adanya hubungan dagang pada awal abad tarikh masehi , didasarkan adanya sumber-sumber baik luar negeri maupun dalam negeri .
-sentence 4: a. sumber dari luar negeri 1 ) sumber dari india menurut van leur dan wolters , kegiatan hubungan dagang indonesia dengan bangsa-bangsa asia pertama kali dilakukan dengan india , kemudian cina .
-sentence 5: bukti adanya hubungan dagang tersebut dapat diketahui dari kitab jataka dan kitab ramayana .
-passage 6 score = 5.75
-sentence 1: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
-sentence 2: 2 ) sumber dari cina kontak hubungan indonesia dengan cina diperkirakan telah berkembang pada abad ke-5 .
-sentence 3: bukti-bukti yang memperkuat hubungan itu di antaranya adalah perjalanan seorang pendeta buddha , fa hien .
-sentence 4: pada sekitar tahun 413 m , fa hien melakukan perjalanan dari india ke ye-po-ti ( tarumanegara ) dan kembali ke cina melalui jalur laut .
-sentence 5: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
-passage 1 score = 5.5
-sentence 1: pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha .
-sentence 2: - agama dan kebudayaan hindu – budha lahir dan berkembang di india .
-sentence 3: agama dan kebudayaan hindu – budha mewarnai kehidupan sosial , budaya , ekonomi , dan politik masyarakat india .
-sentence 4: agama dan kebudayaan hindu di india mencapai puncak kejayaan semasa pemerintahan candragupta dari dinasti maurya .
-sentence 5: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
-passage 2 score = 5.5
-sentence 1: agama buddha mencapai puncak kejayaannya semasa pemerintahan raja ashoka .
-sentence 2: dari india , agama dan kebudayaan hindu – budha kemudian berkembang ke asia selatan , asia timur dan asia tenggara termasuk juga ke indonesia .
-sentence 3: pada awal abad tarikh masehi , negeri kepulauan nusantara telah menjalin hubungan dengan bangsa-bangsa di asia .
-sentence 4: bentuk hubungan dagang yang berlangsung pada saat itu bermula dari kegiatan perdagangan dan pelayaran .
-sentence 5: sebagai akibat dari hubungan perdagangan dan pelayaran , timbullah pertemuan kebudayaan yang melahirkan kebudayaan baru bagi masyarakat nusantara .
-passage 7 score = 5.5
-sentence 1: selanjutnya , kaisar cina , wen ti mengirim utusan ke she-po ( pulau jawa ) .
-sentence 2: berdasarkan bukti-bukti tersebut dapat disimpulkan bahwa pada abad ke-5 telah dilakukan hubungan perdagangan dan pelayaran secara langsung antara indonesia dan cina .
-sentence 3: barang-barang yang diperdagangkan dari cina berupa sutra , kertas , kulit binatang berbulu , kulit manis , dan barang-barang porselin .
-sentence 4: barang-barang dagangan dari india berupa ukiran , gading , perhiasan , kain tenun , gelas , permata , dan wol halus yang ditukar dengan komoditas dari indonesia seperti rempah-rempah , emas , dan perak .
-sentence 5: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
-passage 11 score = 5.5
-sentence 1: banyak peninggalan bangunan-bangunan kuno yang bercorak hindu atau buddha di indonesia .
-sentence 2: demikian juga benda-benda peninggalan dinasti-dinasti cina .
-sentence 3: hal ini menunjukkan adanya hubungan antara indonesia , india , dan cina .
-sentence 4: hubungan dagang indonesia dengan india dan cina telah menempatkan indonesia di kancah perdagangan dan pelayaran masa kuno .
-sentence 5: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
-passage 12 score = 5.5
-sentence 1: namun , pengaruh kebudayaan india dan cina terhadap perkembangan sejarah indonesia amat berbeda .
-sentence 2: hal itu disebabkan dalam perkembangan selanjutnya , para pedagang india di samping berdagang , mereka juga menyebarkan agama dan kebudayaan hindu – buddha .
-sentence 3: para brahmana atau pendeta dengan ikut para pedagang berlayar , mereka singgah di daerah-daerah untuk menyebarkan agama dan kebudayaan hindu dan buddha .
-sentence 4: dengan demikian , hubungan dagang dengan india telah memunculkan perubahan besar dalam tatanan kehidupan bangsa indonesia , baik di bidang sosial , budaya , maupun politik sebagai dampak dari persebaran agama dan kebudayaan hindu – buddha .
-sentence 5: terbukti di indonesia muncullah kerajaan-kerajaan yang bercorak hindu dan buddha yang tersebar di berbagai daerah di indonesia , seperti kalimantan , jawa , sumatera , dan bali .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 17 score = 7.75
 sentence 1: dikatakan babad tanah jawi dan serat kanda yang ditulis abad xvii dijaman mataram itu tanpa konsultasi sumber sejarah yang dapat dipercaya .
@@ -700,7 +733,7 @@ sentence 3: karena itu tidak mengherankan jika uraiannya tentang majapahit banya
 sentence 4: “ prasasti petak ” dan “ trailokyapuri ” menerangkan , raja majapahit terakhir adalah dyah suraprahawa , runtuh akibat serangan tentara keling pimpinan girindrawardhana pada tahun 1478 masehi , sesuai pararaton .
 sentence 5: sejak itu majapahit telah berhenti sebagai ibu kota kerajaan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 8 score = 7.5
 sentence 1: majapahit menaklukkan hampir seluruh nusantara dan melebarkan sayapnya hingga ke seluruh asia tenggara .
@@ -709,7 +742,61 @@ sentence 3: menurut para ahli di malang ditempatkan seorang penguasa yang disebu
 sentence 4: dalam negara kertagama dikisahkan hayam wuruk sebagai raja majapahit melakukan ziarah ke makam leluhurnya ( yang berada disekitar daerah malang ) , salah satunya di dekat makam ken arok .
 sentence 5: ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+passage 5 score = 7.0
+sentence 1: menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
+sentence 2: kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di indonesia .
+sentence 3: salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa masyarakat india telah mengenal beberapa tempat di indonesia pada abad ke-3 masehi .
+sentence 4: dalam kitab geographike yang ditulis pada abad ke-2 juga disebutkan telah ada hubungan dagang antara india dan indonesia .
+sentence 5: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+passage 8 score = 7.0
+sentence 1: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
+sentence 2: dalam kitabnya yang berjudul geographike yang ditulis pada abad ke-2 , ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
+sentence 3: mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
+sentence 4: dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
+sentence 5: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+passage 9 score = 7.0
+sentence 1: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
+sentence 2: sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara indonesia dengan india dan cina , antara lain sebagai berikut .
+sentence 3: 1 ) prasasti prasasti-prasasti tertua di indonesia yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
+sentence 4: demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di jawa barat .
+sentence 5: semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+passage 5 score = 7.0
+sentence 1: menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
+sentence 2: kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di indonesia .
+sentence 3: salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa masyarakat india telah mengenal beberapa tempat di indonesia pada abad ke-3 masehi .
+sentence 4: dalam kitab geographike yang ditulis pada abad ke-2 juga disebutkan telah ada hubungan dagang antara india dan indonesia .
+sentence 5: dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara indonesia dan india mulai abad-abad tersebut ( abad ke 2-3 masehi ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+passage 8 score = 7.0
+sentence 1: 3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara indonesia dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
+sentence 2: dalam kitabnya yang berjudul geographike yang ditulis pada abad ke-2 , ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
+sentence 3: mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
+sentence 4: dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
+sentence 5: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+passage 9 score = 7.0
+sentence 1: b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari india , cina dan yunani , diperkuat adanya sumber-sumber yang ada di indonesia sendiri .
+sentence 2: sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara indonesia dengan india dan cina , antara lain sebagai berikut .
+sentence 3: 1 ) prasasti prasasti-prasasti tertua di indonesia yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
+sentence 4: demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di jawa barat .
+sentence 5: semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 6 score = 6.75
 sentence 1: sampai sekarang , batu tersebut masih ada di dalam , katanya .
@@ -718,7 +805,7 @@ sentence 3: baru pada tahun 1995 dilakukan pemugaran kembali oleh pangdam brawij
 sentence 4: memasuki kawasan petilasan panggung , terpampang gambar gajah mada tepat disamping pintu masuk .
 sentence 5: sedangkan dibagian depan pintu bergantung sebuah papan kecil dengan tulisan ” lima pedoman ” yang merupakan pedoman suri teladan bagi warga .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 16 score = 6.75
 sentence 1: padahal kenyataannya tidak begitu .
@@ -726,59 +813,6 @@ sentence 2: selain fakta lain banyak menungkap bahwa masuknya islam dan berkemba
 sentence 3: juga fakta keruntuhan majapahit juga menunjukkan bukan disebabkan serbuan tentara islam demak .
 sentence 4: prof. dr. slamet muljana dalam bukunya “ pemugaran persada sejarah leluhur majapahit ” secara panjang lebar membantah isi cerita itu berdasarkan bukti-bukti sejarah .
 sentence 5: dikatakan babad tanah jawi dan serat kanda yang ditulis abad xvii dijaman mataram itu tanpa konsultasi sumber sejarah yang dapat dipercaya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-title : pengaruh kebudayaan hindu-buddha terhadap seni sastra
-passage 3 score = 6.75
-sentence 1: kitab ini terdiri atas tujuh jilid ( kanda ) dan digubah dalam bentuk syair sebanyak 24.000 seloka .
-sentence 2: kitab ini berisi perjuangan rama dalam merebut kembali istrinya , dewi sinta ( sita ) , yang diculik oleh rahwana .
-sentence 3: dalam perjuangannya , rama yang selalu ditemani laksmana ( adiknya ) itu mendapat bantuan dari pasukan kera yang dipimpin oleh sugriwa .
-sentence 4: selain itu , rama juga dibantu oleh gunawan wibhisana , adik rahwana yang diusir oleh kakaknya karena bermaksud membela kebenaran ( rama ) .
-sentence 5: perjuangan tersebut menimbulkan peperangan besar dan banyak korban berjatuhan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-passage 9 score = 6.5
-sentence 1: ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
-sentence 2: beberapa prasasti dan arca peninggalan majapahit dikawasan puncak gunung semeru dan juga di gunung arjuna menunjukkan bahwa kawasan gunung tersebut adalah tempat bersemayam para dewa dan hanya keturunan raja yang boleh menginjakkan kaki di wilayah tersebut .
-sentence 3: bisa disimpulkan bahwa berbagai peninggalan tersebut merupakan rangkaian yang saling berhubungan walaupun terpisah oleh masa yang berbeda sepanjang 7 abad .
-sentence 4: keruntuhan majapahit tersebutlah kisah , adipati terung meminta sultan bintara alias raden patah yang masih “ kapernah ” kakaknya , untuk menghadap prabu brawijaya .
-sentence 5: tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-passage 10 score = 6.5
-sentence 1: tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
-sentence 2: bahkan kemudian raden patah lalu mengumpulkan para bupati pesisir seperti tuban , madura dan surabaya serta para sunan untuk bersama-sama menyerbu majapahit yang kafir itu .
-sentence 3: prajurit islam dikerahkan mengepung ibu kota kerajaan , karena segan berperang dengan puteranya sendiri , prabu brawijaya meloloskan diri dari istana bersama pengikut yang masih setia .
-sentence 4: sehingga ketika raden patah dan rombongannya ( termasuk para sunan ) tiba , istana itu kosong .
-sentence 5: atas nasihat sunan ampel , untuk menawarkan segala pengaruh raja kafir , diangkatlah sunan gresik jadi raja majapahit selama 40 hari .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-passage 15 score = 6.5
-sentence 1: akhirnya sengguruh diserbu dan prabu brawijaya lari kepulau bali .
-sentence 2: cerita versi babad tanah jawi dan serat kanda itulah yang selama ini populer dikalangan masyarakat jawa , bahkan pernah juga diajarkan disebagian sekolah dasar dimasa lalu .
-sentence 3: secara garis besar , cerita itu boleh dibilang menunjukkan kemenangan islam .
-sentence 4: padahal sebenarnya sebaliknya , bisa memberi kesan yang merugikan , sebab seakan-akan islam berkembang di jawa dengan kekerasan dan darah .
-sentence 5: padahal kenyataannya tidak begitu .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-title : pengaruh kebudayaan hindu-buddha terhadap seni sastra
-passage 4 score = 6.5
-sentence 1: perjuangan tersebut menimbulkan peperangan besar dan banyak korban berjatuhan .
-sentence 2: di akhir cerita , rahwana beserta anak buahnya gugur dan dewi sinta kembali kepada rama .
-sentence 3: akulturasi di bidang sastra dapat dilihat pada adanya modifikasi cerita-cerita asli india dengan unsur tokoh-tokoh indonesia serta peristiwa-peristiwa yang seolah-olah terjadi di indonesia .
-sentence 4: contohnya adalah penambahan tokoh punakawan ( semar , bagong , gareng , petruk ) dalam kisah mahabharata .
-sentence 5: bahkan , dalam literatur-literatur keagamaan hindu-buddha di indonesia sulit kita temukan cerita asli seperti yang ada di negeri asalnya .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-title : perkembangan dan budaya buddha
-passage 9 score = 6.25
-sentence 1: raja ashoka sadar dari kekeliruannya dan masuk agama buddha .
-sentence 2: bahkan , ia menjadi raja yang saleh dan menetapkan agama buddha sebagai agama negara .
-sentence 3: ia pun mengajarkan ahimsa , yaitu larangan membunuh dan melukai makhluk .
-sentence 4: berkat raja ini , agama buddha dapat disiarkan ke seluruh dunia .
 
 
 Pencarian jawaban
@@ -789,7 +823,7 @@ dikatakan babad tanah jawi dan <PERSON>serat kanda</PERSON> yang ditulis abad xv
 
 memproses passage 17
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 serat kanda | position = 4
@@ -902,7 +936,7 @@ menurut <PERSON>para ahli</PERSON> di <LOCATION>malang</LOCATION> ditempatkan se
 
 memproses passage 8
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 ahli | position = 1
@@ -955,6 +989,1092 @@ ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawa
 tidak ada entitas jawaban, skip
 
 
+menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
+
+
+tidak ada entitas jawaban, skip
+
+
+kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di <LOCATION>indonesia .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa <PERSON>masyarakat india</PERSON> telah mengenal beberapa tempat di <LOCATION>indonesia</LOCATION> pada <TIME>abad ke-3 masehi .</TIME>
+
+memproses passage 5
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+masyarakat india | position = 10
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = sastra
+tokenwithtagstemmed = india
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = mahaniddesa
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = masyarakat india
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = abad 3 masehi
+kata kunci = kitab
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kitab
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+masyarakat india 8
+
+tokenwithtagstemmed = sastra
+tokenwithtagstemmed = india
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = kitab
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+masyarakat india 4
+
+tokenwithtagstemmed = mahaniddesa
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = masyarakat india
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = abad 3 masehi
+kata kunci = negara
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = sastra
+tokenwithtagstemmed = india
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = mahaniddesa
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = masyarakat india
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = abad 3 masehi
+kata kunci = kertagama
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = sastra
+tokenwithtagstemmed = india
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = mahaniddesa
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = masyarakat india
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = abad 3 masehi
+
+
+dalam kitab geographike yang ditulis pada <TIME>abad ke-2</TIME> juga disebutkan telah ada hubungan dagang antara <PERSON>india</PERSON> dan <PERSON>indonesia .</PERSON>
+
+memproses passage 5
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+india | position = 7
+indonesia | position = 8
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = geographike
+tokenwithtagstemmed = tulis
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+india 5
+indonesia 6
+
+tokenwithtagstemmed = abad 2
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = india
+tokenwithtagstemmed = indonesia
+kata kunci = kitab
+tokenwithtagstemmed = kitab
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+india 7
+indonesia 8
+
+tokenwithtagstemmed = geographike
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = abad 2
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = india
+tokenwithtagstemmed = indonesia
+kata kunci = negara
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = geographike
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = abad 2
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = india
+tokenwithtagstemmed = indonesia
+kata kunci = kertagama
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = geographike
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = abad 2
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = india
+tokenwithtagstemmed = indonesia
+
+
+dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara <PERSON>indonesia</PERSON> dan <PERSON>india</PERSON> mulai abad-abad tersebut ( <TIME>abad ke 2-3 masehi</TIME> ) .
+
+memproses passage 5
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+indonesia | position = 8
+india | position = 9
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = simpul
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = intensif
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad 2 3 masehi
+kata kunci = kitab
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = simpul
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = intensif
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad 2 3 masehi
+kata kunci = negara
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = simpul
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = intensif
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad 2 3 masehi
+kata kunci = kertagama
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = simpul
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = intensif
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad 2 3 masehi
+
+
+3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara <PERSON>indonesia</PERSON> dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
+
+memproses passage 8
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+indonesia | position = 6
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = claudius
+tokenwithtagstemmed = ptolomeus
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = ilmu
+tokenwithtagstemmed = bumi
+tokenwithtagstemmed = yunani
+kata kunci = kitab
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = claudius
+tokenwithtagstemmed = ptolomeus
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = ilmu
+tokenwithtagstemmed = bumi
+tokenwithtagstemmed = yunani
+kata kunci = negara
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = claudius
+tokenwithtagstemmed = ptolomeus
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = ilmu
+tokenwithtagstemmed = bumi
+tokenwithtagstemmed = yunani
+kata kunci = kertagama
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = claudius
+tokenwithtagstemmed = ptolomeus
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = ilmu
+tokenwithtagstemmed = bumi
+tokenwithtagstemmed = yunani
+
+
+dalam kitabnya yang berjudul geographike yang ditulis pada <TIME>abad ke-2 ,</TIME> ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
+
+
+tidak ada entitas jawaban, skip
+
+
+mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
+
+
+tidak ada entitas jawaban, skip
+
+
+b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari <PERSON>india , cina</PERSON> dan yunani , diperkuat adanya sumber-sumber yang ada di <LOCATION>indonesia</LOCATION> sendiri .
+
+memproses passage 8
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+india cina | position = 6
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = kitab
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = negara
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = kertagama
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+
+
+b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari <PERSON>india , cina</PERSON> dan yunani , diperkuat adanya sumber-sumber yang ada di <LOCATION>indonesia</LOCATION> sendiri .
+
+memproses passage 9
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+india cina | position = 6
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = kitab
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = negara
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = kertagama
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+
+
+sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara <PERSON>indonesia</PERSON> dengan india dan cina , antara lain sebagai berikut .
+
+memproses passage 9
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+indonesia | position = 7
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ikut
+kata kunci = kitab
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ikut
+kata kunci = negara
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ikut
+kata kunci = kertagama
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ikut
+
+
+1 ) prasasti prasasti-prasasti tertua di <LOCATION>indonesia</LOCATION> yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
+
+
+tidak ada entitas jawaban, skip
+
+
+demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di <LOCATION>jawa barat .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
+
+
+tidak ada entitas jawaban, skip
+
+
+menurut para ahli , yawadwipa ( pulau padi ) diduga sebutan untuk pulau jawa , sedangkan swarnadwipa ( pulau emas dan perak ) adalah pulau sumatera .
+
+
+tidak ada entitas jawaban, skip
+
+
+kitab jataka dan kitab ramayana tidak menyebut secara jelas terjadinya hubungan dagang dengan tempat-tempat di <LOCATION>indonesia .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+salah satu kitab sastra india yang dapat dipercaya adalah kitab mahaniddesa yang memberi petunjuk bahwa <PERSON>masyarakat india</PERSON> telah mengenal beberapa tempat di <LOCATION>indonesia</LOCATION> pada <TIME>abad ke-3 masehi .</TIME>
+
+memproses passage 5
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+masyarakat india | position = 10
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = sastra
+tokenwithtagstemmed = india
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = mahaniddesa
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = masyarakat india
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = abad 3 masehi
+kata kunci = kitab
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kitab
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+masyarakat india 8
+
+tokenwithtagstemmed = sastra
+tokenwithtagstemmed = india
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = kitab
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+masyarakat india 4
+
+tokenwithtagstemmed = mahaniddesa
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = masyarakat india
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = abad 3 masehi
+kata kunci = negara
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = sastra
+tokenwithtagstemmed = india
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = mahaniddesa
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = masyarakat india
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = abad 3 masehi
+kata kunci = kertagama
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = sastra
+tokenwithtagstemmed = india
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = mahaniddesa
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = masyarakat india
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = abad 3 masehi
+
+
+dalam kitab geographike yang ditulis pada <TIME>abad ke-2</TIME> juga disebutkan telah ada hubungan dagang antara <PERSON>india</PERSON> dan <PERSON>indonesia .</PERSON>
+
+memproses passage 5
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+india | position = 7
+indonesia | position = 8
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = geographike
+tokenwithtagstemmed = tulis
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+india 5
+indonesia 6
+
+tokenwithtagstemmed = abad 2
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = india
+tokenwithtagstemmed = indonesia
+kata kunci = kitab
+tokenwithtagstemmed = kitab
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+india 7
+indonesia 8
+
+tokenwithtagstemmed = geographike
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = abad 2
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = india
+tokenwithtagstemmed = indonesia
+kata kunci = negara
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = geographike
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = abad 2
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = india
+tokenwithtagstemmed = indonesia
+kata kunci = kertagama
+tokenwithtagstemmed = kitab
+tokenwithtagstemmed = geographike
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = abad 2
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = india
+tokenwithtagstemmed = indonesia
+
+
+dari kedua keterangan tersebut , dapat disimpulkan bahwa secara intensif terjadinya hubungan dagang antara <PERSON>indonesia</PERSON> dan <PERSON>india</PERSON> mulai abad-abad tersebut ( <TIME>abad ke 2-3 masehi</TIME> ) .
+
+memproses passage 5
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+indonesia | position = 8
+india | position = 9
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = simpul
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = intensif
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad 2 3 masehi
+kata kunci = kitab
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = simpul
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = intensif
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad 2 3 masehi
+kata kunci = negara
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = simpul
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = intensif
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad 2 3 masehi
+kata kunci = kertagama
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = simpul
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = intensif
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad
+tokenwithtagstemmed = abad 2 3 masehi
+
+
+3 ) sumber dari yunani keterangan lain tentang adanya hubungan dagang antara <PERSON>indonesia</PERSON> dengan india , dan cina dapat diketahui dari claudius ptolomeus , seorang ahli ilmu bumi yunani .
+
+memproses passage 8
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+indonesia | position = 6
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = claudius
+tokenwithtagstemmed = ptolomeus
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = ilmu
+tokenwithtagstemmed = bumi
+tokenwithtagstemmed = yunani
+kata kunci = kitab
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = claudius
+tokenwithtagstemmed = ptolomeus
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = ilmu
+tokenwithtagstemmed = bumi
+tokenwithtagstemmed = yunani
+kata kunci = negara
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = claudius
+tokenwithtagstemmed = ptolomeus
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = ilmu
+tokenwithtagstemmed = bumi
+tokenwithtagstemmed = yunani
+kata kunci = kertagama
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = terang
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = claudius
+tokenwithtagstemmed = ptolomeus
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = ilmu
+tokenwithtagstemmed = bumi
+tokenwithtagstemmed = yunani
+
+
+dalam kitabnya yang berjudul geographike yang ditulis pada <TIME>abad ke-2 ,</TIME> ptolomeus menyebutkan nama iabadio yang artinya pulau jelai .
+
+
+tidak ada entitas jawaban, skip
+
+
+mungkin kata itu ucapan yunani untuk menyebut yawadwipa , yang artinya juga pulau jelai .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan demikian , seperti yang disebutkan dalam kitab ramayana bahwa yawadwipa yang dimaksud ialah pulau jawa .
+
+
+tidak ada entitas jawaban, skip
+
+
+b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari <PERSON>india , cina</PERSON> dan yunani , diperkuat adanya sumber-sumber yang ada di <LOCATION>indonesia</LOCATION> sendiri .
+
+memproses passage 8
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+india cina | position = 6
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = kitab
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = negara
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = kertagama
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+
+
+b. sumber dari dalam negeri adanya sumber-sumber dari luar , seperti dari <PERSON>india , cina</PERSON> dan yunani , diperkuat adanya sumber-sumber yang ada di <LOCATION>indonesia</LOCATION> sendiri .
+
+memproses passage 9
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+india cina | position = 6
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = kitab
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = negara
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+kata kunci = kertagama
+tokenwithtagstemmed = b
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = india cina
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = indonesia
+
+
+sumber-sumber sejarah di dalam negeri yang memperkuat adanya hubungan dagang antara <PERSON>indonesia</PERSON> dengan india dan cina , antara lain sebagai berikut .
+
+memproses passage 9
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+title : pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+list jawaban dan posisi dalam passage
+indonesia | position = 7
+
+
+melakukan pencarian:
+kata kunci = tulis
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ikut
+kata kunci = kitab
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ikut
+kata kunci = negara
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ikut
+kata kunci = kertagama
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sumber
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = hubung
+tokenwithtagstemmed = dagang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = india
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = ikut
+
+
+1 ) prasasti prasasti-prasasti tertua di <LOCATION>indonesia</LOCATION> yang menunjukkan hubungan indonesia dengan india , misalnya prasasti mulawarman di kalimantan timur yang berbentuk yupa .
+
+
+tidak ada entitas jawaban, skip
+
+
+demikian juga prasasti-prasasti purnawarman dari kerajaan tarumanegara di <LOCATION>jawa barat .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+semua prasasti ditulis dalam bahasa sanskerta dan huruf pallawa .
+
+
+tidak ada entitas jawaban, skip
+
+
 sampai sekarang , batu tersebut masih ada di dalam , katanya .
 
 
@@ -971,7 +2091,7 @@ baru pada <TIME>tahun 1995</TIME> dilakukan pemugaran kembali oleh <PERSON>pangd
 
 memproses passage 6
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 pangdam brawijaya | position = 5
@@ -1051,7 +2171,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 16
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 prof dr slamet muljana | position = 0
@@ -1136,7 +2256,7 @@ dikatakan babad tanah jawi dan <PERSON>serat kanda</PERSON> yang ditulis abad xv
 
 memproses passage 16
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 list jawaban dan posisi dalam passage
 serat kanda | position = 4
@@ -1208,795 +2328,126 @@ tokenwithtagstemmed = sumber
 tokenwithtagstemmed = sejarah
 tokenwithtagstemmed = percaya
 
-
-kitab ini terdiri atas tujuh jilid ( kanda ) dan digubah dalam bentuk syair sebanyak 24.000 seloka .
-
-
-tidak ada entitas jawaban, skip
-
-
-kitab ini berisi perjuangan rama dalam merebut kembali istrinya , dewi sinta ( sita ) , yang diculik oleh <PERSON>rahwana .</PERSON>
-
-memproses passage 3
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-title : pengaruh kebudayaan hindu-buddha terhadap seni sastra
-list jawaban dan posisi dalam passage
-rahwana | position = 11
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = rebut
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = istri
-tokenwithtagstemmed = dewi
-tokenwithtagstemmed = sinta
-tokenwithtagstemmed = sita
-tokenwithtagstemmed = culik
-tokenwithtagstemmed = rahwana
-kata kunci = kitab
-tokenwithtagstemmed = kitab
-posisi dalam passage = 0
-jarak dengan tiap kandidat jawaban:
-rahwana 11
-
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = rebut
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = istri
-tokenwithtagstemmed = dewi
-tokenwithtagstemmed = sinta
-tokenwithtagstemmed = sita
-tokenwithtagstemmed = culik
-tokenwithtagstemmed = rahwana
-kata kunci = negara
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = rebut
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = istri
-tokenwithtagstemmed = dewi
-tokenwithtagstemmed = sinta
-tokenwithtagstemmed = sita
-tokenwithtagstemmed = culik
-tokenwithtagstemmed = rahwana
-kata kunci = kertagama
-tokenwithtagstemmed = kitab
-tokenwithtagstemmed = isi
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = rebut
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = istri
-tokenwithtagstemmed = dewi
-tokenwithtagstemmed = sinta
-tokenwithtagstemmed = sita
-tokenwithtagstemmed = culik
-tokenwithtagstemmed = rahwana
-
-
-dalam perjuangannya , rama yang selalu ditemani laksmana ( adiknya ) itu mendapat bantuan dari pasukan kera yang dipimpin oleh <PERSON>sugriwa .</PERSON>
-
-memproses passage 3
-sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-title : pengaruh kebudayaan hindu-buddha terhadap seni sastra
-list jawaban dan posisi dalam passage
-sugriwa | position = 10
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = tani
-tokenwithtagstemmed = laksmana
-tokenwithtagstemmed = adik
-tokenwithtagstemmed = dapat
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = pasu
-tokenwithtagstemmed = kera
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = sugriwa
-kata kunci = kitab
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = tani
-tokenwithtagstemmed = laksmana
-tokenwithtagstemmed = adik
-tokenwithtagstemmed = dapat
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = pasu
-tokenwithtagstemmed = kera
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = sugriwa
-kata kunci = negara
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = tani
-tokenwithtagstemmed = laksmana
-tokenwithtagstemmed = adik
-tokenwithtagstemmed = dapat
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = pasu
-tokenwithtagstemmed = kera
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = sugriwa
-kata kunci = kertagama
-tokenwithtagstemmed = juang
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = tani
-tokenwithtagstemmed = laksmana
-tokenwithtagstemmed = adik
-tokenwithtagstemmed = dapat
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = pasu
-tokenwithtagstemmed = kera
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = sugriwa
-
-
-selain itu <PERSON>, rama</PERSON> juga dibantu oleh <PERSON>gunawan wibhisana , adik rahwana</PERSON> yang diusir oleh kakaknya karena bermaksud membela kebenaran ( rama ) .
-
-memproses passage 3
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-title : pengaruh kebudayaan hindu-buddha terhadap seni sastra
-list jawaban dan posisi dalam passage
-rama | position = 0
-gunawan wibhisana adik rahwana | position = 2
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = gunawan wibhisana adik rahwana
-tokenwithtagstemmed = usir
-tokenwithtagstemmed = kakak
-tokenwithtagstemmed = maksud
-tokenwithtagstemmed = bela
-tokenwithtagstemmed = benar
-tokenwithtagstemmed = rama
-kata kunci = kitab
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = gunawan wibhisana adik rahwana
-tokenwithtagstemmed = usir
-tokenwithtagstemmed = kakak
-tokenwithtagstemmed = maksud
-tokenwithtagstemmed = bela
-tokenwithtagstemmed = benar
-tokenwithtagstemmed = rama
-kata kunci = negara
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = gunawan wibhisana adik rahwana
-tokenwithtagstemmed = usir
-tokenwithtagstemmed = kakak
-tokenwithtagstemmed = maksud
-tokenwithtagstemmed = bela
-tokenwithtagstemmed = benar
-tokenwithtagstemmed = rama
-kata kunci = kertagama
-tokenwithtagstemmed = rama
-tokenwithtagstemmed = bantu
-tokenwithtagstemmed = gunawan wibhisana adik rahwana
-tokenwithtagstemmed = usir
-tokenwithtagstemmed = kakak
-tokenwithtagstemmed = maksud
-tokenwithtagstemmed = bela
-tokenwithtagstemmed = benar
-tokenwithtagstemmed = rama
-
-
-perjuangan tersebut menimbulkan peperangan besar dan banyak korban berjatuhan .
-
-
-tidak ada entitas jawaban, skip
-
-
-ini menunjukkan bahwa walaupun bukan pusat pemerintahan namun malang adalah kawasan yang disucikan karena merupakan tanah makam para leluhur yang dipuja sebagai dewa .
-
-
-tidak ada entitas jawaban, skip
-
-
-beberapa prasasti dan arca peninggalan majapahit dikawasan puncak gunung semeru dan juga di <LOCATION>gunung</LOCATION> arjuna menunjukkan bahwa kawasan gunung tersebut adalah tempat bersemayam <PERSON>para dewa</PERSON> dan hanya keturunan raja yang boleh menginjakkan kaki di <LOCATION>wilayah tersebut .</LOCATION>
-
-memproses passage 9
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-list jawaban dan posisi dalam passage
-dewa | position = 15
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = prasasti
-tokenwithtagstemmed = arca
-tokenwithtagstemmed = tinggal
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kawasan
-tokenwithtagstemmed = puncak
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = meru
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = arjuna
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = kawasan
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = semayam
-tokenwithtagstemmed = dewa
-tokenwithtagstemmed = turun
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = injak
-tokenwithtagstemmed = kaki
-tokenwithtagstemmed = wilayah
-kata kunci = kitab
-tokenwithtagstemmed = prasasti
-tokenwithtagstemmed = arca
-tokenwithtagstemmed = tinggal
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kawasan
-tokenwithtagstemmed = puncak
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = meru
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = arjuna
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = kawasan
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = semayam
-tokenwithtagstemmed = dewa
-tokenwithtagstemmed = turun
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = injak
-tokenwithtagstemmed = kaki
-tokenwithtagstemmed = wilayah
-kata kunci = negara
-tokenwithtagstemmed = prasasti
-tokenwithtagstemmed = arca
-tokenwithtagstemmed = tinggal
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kawasan
-tokenwithtagstemmed = puncak
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = meru
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = arjuna
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = kawasan
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = semayam
-tokenwithtagstemmed = dewa
-tokenwithtagstemmed = turun
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = injak
-tokenwithtagstemmed = kaki
-tokenwithtagstemmed = wilayah
-kata kunci = kertagama
-tokenwithtagstemmed = prasasti
-tokenwithtagstemmed = arca
-tokenwithtagstemmed = tinggal
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kawasan
-tokenwithtagstemmed = puncak
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = meru
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = arjuna
-tokenwithtagstemmed = tunjuk
-tokenwithtagstemmed = kawasan
-tokenwithtagstemmed = gunung
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = semayam
-tokenwithtagstemmed = dewa
-tokenwithtagstemmed = turun
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = injak
-tokenwithtagstemmed = kaki
-tokenwithtagstemmed = wilayah
-
-
-bisa disimpulkan bahwa berbagai peninggalan tersebut merupakan rangkaian yang saling berhubungan walaupun terpisah oleh masa yang berbeda sepanjang <TIME>7 abad .</TIME>
-
-
-tidak ada entitas jawaban, skip
-
-
-keruntuhan majapahit tersebutlah kisah , adipati terung meminta sultan bintara alias <PERSON>raden patah</PERSON> yang masih “ kapernah ” kakaknya , untuk menghadap prabu brawijaya .
-
-memproses passage 9
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-list jawaban dan posisi dalam passage
-raden patah | position = 9
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = runtuh
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = adipati
-tokenwithtagstemmed = terung
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sultan
-tokenwithtagstemmed = bintara
-tokenwithtagstemmed = alias
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = kapernah
-tokenwithtagstemmed = kakak
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = hadap
-tokenwithtagstemmed = prabu
-tokenwithtagstemmed = brawijaya
-kata kunci = kitab
-tokenwithtagstemmed = runtuh
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = adipati
-tokenwithtagstemmed = terung
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sultan
-tokenwithtagstemmed = bintara
-tokenwithtagstemmed = alias
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = kapernah
-tokenwithtagstemmed = kakak
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = hadap
-tokenwithtagstemmed = prabu
-tokenwithtagstemmed = brawijaya
-kata kunci = negara
-tokenwithtagstemmed = runtuh
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = adipati
-tokenwithtagstemmed = terung
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sultan
-tokenwithtagstemmed = bintara
-tokenwithtagstemmed = alias
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = kapernah
-tokenwithtagstemmed = kakak
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = hadap
-tokenwithtagstemmed = prabu
-tokenwithtagstemmed = brawijaya
-kata kunci = kertagama
-tokenwithtagstemmed = runtuh
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kisah
-tokenwithtagstemmed = adipati
-tokenwithtagstemmed = terung
-tokenwithtagstemmed = minta
-tokenwithtagstemmed = sultan
-tokenwithtagstemmed = bintara
-tokenwithtagstemmed = alias
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = kapernah
-tokenwithtagstemmed = kakak
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = hadap
-tokenwithtagstemmed = prabu
-tokenwithtagstemmed = brawijaya
-
-
-tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
-
-
-tidak ada entitas jawaban, skip
-
-
-tapi sultan demak itu tidak mau karena ayahnya dianggap masih kafir.brawijaya adalah raja majapahit , kerajaan hindu yang pernah jaya ditanah jawa .
-
-
-tidak ada entitas jawaban, skip
-
-
-bahkan kemudian <PERSON>raden patah</PERSON> lalu mengumpulkan para bupati pesisir seperti tuban , madura dan surabaya serta para sunan untuk bersama-sama menyerbu majapahit yang kafir itu .
-
-memproses passage 10
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-list jawaban dan posisi dalam passage
-raden patah | position = 0
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = kumpul
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = pesisir
-tokenwithtagstemmed = tuban
-tokenwithtagstemmed = madura
-tokenwithtagstemmed = surabaya
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = serbu
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kafir
-kata kunci = kitab
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = kumpul
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = pesisir
-tokenwithtagstemmed = tuban
-tokenwithtagstemmed = madura
-tokenwithtagstemmed = surabaya
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = serbu
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kafir
-kata kunci = negara
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = kumpul
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = pesisir
-tokenwithtagstemmed = tuban
-tokenwithtagstemmed = madura
-tokenwithtagstemmed = surabaya
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = serbu
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kafir
-kata kunci = kertagama
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = kumpul
-tokenwithtagstemmed = bupati
-tokenwithtagstemmed = pesisir
-tokenwithtagstemmed = tuban
-tokenwithtagstemmed = madura
-tokenwithtagstemmed = surabaya
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = serbu
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = kafir
-
-
-prajurit islam dikerahkan mengepung ibu kota kerajaan , karena segan berperang dengan puteranya sendiri , prabu brawijaya meloloskan diri dari istana bersama pengikut yang masih setia .
-
-
-tidak ada entitas jawaban, skip
-
-
-sehingga ketika <PERSON>raden patah</PERSON> dan rombongannya ( termasuk para sunan ) tiba , istana itu kosong .
-
-memproses passage 10
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-list jawaban dan posisi dalam passage
-raden patah | position = 0
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = rombong
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = tiba
-tokenwithtagstemmed = istana
-tokenwithtagstemmed = kosong
-kata kunci = kitab
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = rombong
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = tiba
-tokenwithtagstemmed = istana
-tokenwithtagstemmed = kosong
-kata kunci = negara
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = rombong
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = tiba
-tokenwithtagstemmed = istana
-tokenwithtagstemmed = kosong
-kata kunci = kertagama
-tokenwithtagstemmed = raden patah
-tokenwithtagstemmed = rombong
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = sunan
-tokenwithtagstemmed = tiba
-tokenwithtagstemmed = istana
-tokenwithtagstemmed = kosong
-
-
-atas nasihat sunan ampel , untuk menawarkan segala pengaruh raja kafir , diangkatlah sunan gresik jadi <TIME>raja majapahit selama 40 hari .</TIME>
-
-
-tidak ada entitas jawaban, skip
-
-
-akhirnya sengguruh diserbu dan prabu brawijaya lari kepulau bali .
-
-
-tidak ada entitas jawaban, skip
-
-
-cerita versi babad tanah jawi dan <PERSON>serat kanda</PERSON> itulah yang selama ini populer dikalangan <PERSON>masyarakat jawa ,</PERSON> bahkan pernah juga diajarkan disebagian sekolah dasar dimasa lalu .
-
-memproses passage 15
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-title : kerajaan majapahit
-list jawaban dan posisi dalam passage
-serat kanda | position = 5
-masyarakat jawa | position = 8
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = versi
-tokenwithtagstemmed = babad
-tokenwithtagstemmed = tanah
-tokenwithtagstemmed = jawi
-tokenwithtagstemmed = serat kanda
-tokenwithtagstemmed = populer
-tokenwithtagstemmed = kalang
-tokenwithtagstemmed = masyarakat jawa
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = bagi
-tokenwithtagstemmed = sekolah
-tokenwithtagstemmed = dasar
-tokenwithtagstemmed = masa
-kata kunci = kitab
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = versi
-tokenwithtagstemmed = babad
-tokenwithtagstemmed = tanah
-tokenwithtagstemmed = jawi
-tokenwithtagstemmed = serat kanda
-tokenwithtagstemmed = populer
-tokenwithtagstemmed = kalang
-tokenwithtagstemmed = masyarakat jawa
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = bagi
-tokenwithtagstemmed = sekolah
-tokenwithtagstemmed = dasar
-tokenwithtagstemmed = masa
-kata kunci = negara
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = versi
-tokenwithtagstemmed = babad
-tokenwithtagstemmed = tanah
-tokenwithtagstemmed = jawi
-tokenwithtagstemmed = serat kanda
-tokenwithtagstemmed = populer
-tokenwithtagstemmed = kalang
-tokenwithtagstemmed = masyarakat jawa
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = bagi
-tokenwithtagstemmed = sekolah
-tokenwithtagstemmed = dasar
-tokenwithtagstemmed = masa
-kata kunci = kertagama
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = versi
-tokenwithtagstemmed = babad
-tokenwithtagstemmed = tanah
-tokenwithtagstemmed = jawi
-tokenwithtagstemmed = serat kanda
-tokenwithtagstemmed = populer
-tokenwithtagstemmed = kalang
-tokenwithtagstemmed = masyarakat jawa
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = bagi
-tokenwithtagstemmed = sekolah
-tokenwithtagstemmed = dasar
-tokenwithtagstemmed = masa
-
-
-secara garis besar , cerita itu boleh dibilang menunjukkan kemenangan islam .
-
-
-tidak ada entitas jawaban, skip
-
-
-padahal sebenarnya sebaliknya , bisa memberi kesan yang merugikan , sebab seakan-akan islam berkembang di jawa dengan kekerasan dan darah .
-
-
-tidak ada entitas jawaban, skip
-
-
-padahal kenyataannya tidak begitu .
-
-
-tidak ada entitas jawaban, skip
-
-
-perjuangan tersebut menimbulkan peperangan besar dan banyak korban berjatuhan .
-
-
-tidak ada entitas jawaban, skip
-
-
-di akhir cerita <PERSON>, rahwana</PERSON> beserta anak buahnya gugur dan dewi sinta kembali kepada <PERSON>rama .</PERSON>
-
-memproses passage 4
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-title : pengaruh kebudayaan hindu-buddha terhadap seni sastra
-list jawaban dan posisi dalam passage
-rahwana | position = 2
-rama | position = 10
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = akhir
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = rahwana
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = anak
-tokenwithtagstemmed = buah
-tokenwithtagstemmed = gugur
-tokenwithtagstemmed = dewi
-tokenwithtagstemmed = sinta
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = rama
-kata kunci = kitab
-tokenwithtagstemmed = akhir
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = rahwana
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = anak
-tokenwithtagstemmed = buah
-tokenwithtagstemmed = gugur
-tokenwithtagstemmed = dewi
-tokenwithtagstemmed = sinta
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = rama
-kata kunci = negara
-tokenwithtagstemmed = akhir
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = rahwana
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = anak
-tokenwithtagstemmed = buah
-tokenwithtagstemmed = gugur
-tokenwithtagstemmed = dewi
-tokenwithtagstemmed = sinta
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = rama
-kata kunci = kertagama
-tokenwithtagstemmed = akhir
-tokenwithtagstemmed = cerita
-tokenwithtagstemmed = rahwana
-tokenwithtagstemmed = serta
-tokenwithtagstemmed = anak
-tokenwithtagstemmed = buah
-tokenwithtagstemmed = gugur
-tokenwithtagstemmed = dewi
-tokenwithtagstemmed = sinta
-tokenwithtagstemmed = kembali
-tokenwithtagstemmed = rama
-
-
-akulturasi di bidang sastra dapat dilihat pada adanya modifikasi cerita-cerita asli india dengan unsur tokoh-tokoh indonesia serta peristiwa-peristiwa yang seolah-olah terjadi di <LOCATION>indonesia .</LOCATION>
-
-
-tidak ada entitas jawaban, skip
-
-
-contohnya adalah penambahan tokoh punakawan ( semar , bagong , gareng , petruk ) dalam kisah mahabharata .
-
-
-tidak ada entitas jawaban, skip
-
-
-bahkan , dalam literatur-literatur keagamaan hindu-buddha di <LOCATION>indonesia</LOCATION> sulit kita temukan cerita asli seperti yang ada di negeri asalnya .
-
-
-tidak ada entitas jawaban, skip
-
-
-raja ashoka sadar dari kekeliruannya dan masuk agama buddha .
-
-
-tidak ada entitas jawaban, skip
-
-
-bahkan , ia menjadi <PERSON>raja</PERSON> yang saleh dan menetapkan agama buddha sebagai agama negara .
-
-memproses passage 9
-sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok300.txt
-title : perkembangan dan budaya buddha
-list jawaban dan posisi dalam passage
-raja | position = 1
-
-
-melakukan pencarian:
-kata kunci = tulis
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = saleh
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = buddha
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = negara
-kata kunci = kitab
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = saleh
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = buddha
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = negara
-kata kunci = negara
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = saleh
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = buddha
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = negara
-posisi dalam passage = 7
-jarak dengan tiap kandidat jawaban:
-raja -6
-
-kata kunci = kertagama
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = saleh
-tokenwithtagstemmed = tetap
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = buddha
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = negara
-
-
-ia pun mengajarkan ahimsa , yaitu larangan membunuh dan melukai makhluk .
-
-
-tidak ada entitas jawaban, skip
-
-
-berkat raja ini , agama buddha dapat disiarkan ke <LOCATION>seluruh dunia .</LOCATION>
-
-
-tidak ada entitas jawaban, skip
-
 Pengurutan kandidat jawaban
-this.answer = rahwana
-passage rank = 5
-distance = 11
-doc rank = 3
-total Score = 19
+this.answer = masyarakat india
+passage rank = 3
+distance = 4
+doc rank = 4
+total Score = 11
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = masyarakat india
+passage rank = 6
+distance = 4
+doc rank = 5
+total Score = 15
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = india
+passage rank = 3
+distance = 5
+doc rank = 4
+total Score = 12
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = india
+passage rank = 6
+distance = 5
+doc rank = 5
+total Score = 16
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = indonesia
+passage rank = 3
+distance = 6
+doc rank = 4
+total Score = 13
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = indonesia
+passage rank = 6
+distance = 6
+doc rank = 5
+total Score = 17
+frequency = 1
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = india
+passage rank = 3
+distance = 7
+doc rank = 4
+total Score = 14
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = india
+passage rank = 6
+distance = 7
+doc rank = 5
+total Score = 18
+frequency = 1
+order process = 11
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = masyarakat india
+passage rank = 3
+distance = 8
+doc rank = 4
+total Score = 15
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok291.txt
-document Title = pengaruh kebudayaan hindu-buddha terhadap seni sastra
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = indonesia
+passage rank = 3
+distance = 8
+doc rank = 4
+total Score = 15
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok112.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = masyarakat india
+passage rank = 6
+distance = 8
+doc rank = 5
+total Score = 19
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
+
+this.answer = indonesia
+passage rank = 6
+distance = 8
+doc rank = 5
+total Score = 19
+frequency = 1
+order process = 12
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok41.txt
+document Title = pengaruh perdagangan indonesia dengan india dan cina terhadap penyebaran hindu-buddha
 
 
 

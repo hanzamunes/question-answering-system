@@ -1,109 +1,54 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok20.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok91.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok334.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok79.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok8.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok128.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok57.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok92.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok397.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok220.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok389.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok22.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok93.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok290.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok164.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok287.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok297.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok192.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok130.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok59.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok398.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok127.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok56.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok214.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok156.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok134.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok63.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok21.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok92.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok159.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok300.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok57.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok380.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
 
 
 query token : 
 hayam wuruk wafat 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 13 score = 8.5
 sentence 1: selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan .
@@ -166,7 +111,7 @@ sentence 3: kitab hukum/perundangan-undangan majapahit ini disebut kutaramanawa 
 sentence 4: kitab kutaramanawa terdiri atas 275 pasal , namun dalam terjemahannya hanya disajikan 272 pasal karena satu pasal rusak dan yang dua lainnya merupakan ulangan pasal yang sejenis .
 sentence 5: kitab perundang-undangan ini meliputi hukum pidana dan perdata dan disusun dalam 20 ( dua puluh ) bab .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 13 score = 8.5
 sentence 1: selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan .
@@ -229,7 +174,7 @@ sentence 3: kitab hukum/perundangan-undangan majapahit ini disebut kutaramanawa 
 sentence 4: kitab kutaramanawa terdiri atas 275 pasal , namun dalam terjemahannya hanya disajikan 272 pasal karena satu pasal rusak dan yang dua lainnya merupakan ulangan pasal yang sejenis .
 sentence 5: kitab perundang-undangan ini meliputi hukum pidana dan perdata dan disusun dalam 20 ( dua puluh ) bab .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
 title : kerajaan majapahit
 passage 1 score = 8.166666666666668
 sentence 1: kerajaan majapahit didirikan tahun 1294 oleh raden wijaya yang bergelar kertarajasa jayawardana yang merupakan keturunan ken arok raja singosari .
@@ -289,255 +234,381 @@ sentence 3: sumber sejarah portugis tulisan tome pires juga menyebutkan bahwa ke
 sentence 4: saat itu tuban , gresik , surabaya dan madura serta beberapa kota lain dipesisir utara jawa berada dalam wilayah kerajaan kediri , sehingga tidak mungkin seperti diceritakan dalam babad jawa , raden patah mengumpulkan para bupati itu untuk menggempur majapahit .
 sentence 5: penggubah babad tanah jawi tampaknya mencampur adukkan antara pembentukan kerajaan demak pada tahun 1478 dengan runtuhnya kediri oleh serbuan demak dijaman pemerintahan sultan trenggano 1527 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+passage 14 score = 8.5
+sentence 1: tetapi , serangan sriwijaya berikutnya dibantu raja wurawari pada tahun 1017 menghancurkan mataram yang saat itu dipimpin dharmawangsa .
+sentence 2: kerajaan mataram yang kedua berdiri kembali di jawa tengah pada abad ke-16 , kali ini telah beragama islam .
+sentence 3: 3 .
+sentence 4: penyebab runtuhnya kerajaan majapahit kemunduran majapahit berawal sejak wafatnya gajah mada pada tahun 1364 .
+sentence 5: hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
+passage 24 score = 8.166666666666668
+sentence 1: kerajaan majapahit berdiri tahun 1293 oleh raden wijaya .
+sentence 2: raja-rajanya adalah raden wijaya , jayanegara , tribhuwanatunggadewi , hayam wuruk , wikramawardhana , suhita , dan brawijaya .
+sentence 3: kejayaan majapahit terjadi pada masa hayam wuruk dan patih gajah mada .
+passage 15 score = 7.666666666666667
+sentence 1: hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
+sentence 2: jabatan-jabatan yang dipegang gajah mada ( semasa hidupnya , gajah mada memegang begitu banyak jabatan ) diberikan kepada tiga orang .
+sentence 3: setelah hayam wuruk meninggal pada tahun 1389 , majapahit benar-benar mengalami kemunduran .
+sentence 4: beberapa faktor penyebab kemunduran majapahit sebagai berikut .
+sentence 5: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
+passage 16 score = 7.666666666666667
+sentence 1: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
+sentence 2: b. struktur pemerintahan majapahit yang mirip dengan sistem negara serikat pada masa modern dan banyaknya kebebasan yang diberikan kepada daerah memudahkan wilayah-wilayah jajahan untuk melepaskan diri begitu diketahui bahwa di pusat pemerintahan sedang kosong kekuasaan .
+sentence 3: c. terjadinya perang saudara , di antaranya yang terkenal adalah perang paregreg ( 1401-1406 ) yang dilakukan oleh bhre wirabhumi melawan pusat kerajaan majapahit .
+sentence 4: bhre wirabhumi diberi kekuasaan di wilayah blambangan .
+sentence 5: namun , ia berambisi untuk menjadi raja majapahit .
 passage 1 score = 6.5
-sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
-sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
-sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
-sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
-sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
-passage 6 score = 6.0
-sentence 1: 1 .
-sentence 2: bangsa melayu tua ( proto melayu ) .
-sentence 3: bangsa melayu tua adalah orang-orang austronesia dari asia ( yunan ) yang pertama kali ke nusantara pada sekitar 1500 sm .
-sentence 4: mereka datang ke nusantara melalui dua jalan .
-sentence 5: 1 .
-passage 2 score = 1.0
-sentence 1: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
-sentence 2: pendapat van heine geldern ini diperkuat dengan penemuan peralatan manusia purba berupa beliung batu yang berbentuk persegi di sumatra , jawa , kalimantan , dan sulawesi di bagian barat .
-sentence 3: beliung seperti itu juga banyak ditemukan di asia , yakni di malaysia , birma ( myanmar ) , vietnam , kampuchea , dan terutama di daerah yunan ( daerah cina selatan ) .
-sentence 4: perpindahan penduduk pada gelombang kedua terjadi sekitar 500 sm bersamaan dengan zaman perunggu .
-sentence 5: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
-passage 3 score = 1.0
-sentence 1: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
-sentence 2: pendukung kebudayaan dongson adalah orang-orang austronesia yang tinggal di pulau-pulau di benua asia dan australia .
-sentence 3: nenek moyang bangsa indonesia meninggalkan daerah yunan di sekitar hulu sungai salween dan sungai mekong yang tanahnya subur sehingga mereka pandai bercocok tanam , berlayar , dan berdagang .
-sentence 4: dalam perkembangan selanjutnya , berbagai suku bangsa yang mendiami wilayah indonesia kemudian membentuk komunitas sendiri-sendiri sehingga mereka mendapat sebutan tersendiri .
-sentence 5: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-passage 4 score = 1.0
-sentence 1: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-sentence 2: mereka berlayar secara berkelompok tanpa mengenal rasa takut dan selanjutnya menempati berbagai kepulauan di nusantara .
-sentence 3: hal ini memperjelas bahwa nenek moyang bangsa indonesia adalah pelaut-pelaut ulung yang memiliki jiwa kelautan yang kuat .
-sentence 4: mereka memiliki kepandaian dalam berlayar , navigasi , serta ilmu perbintangan yang penuh .
-sentence 5: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
-passage 5 score = 1.0
-sentence 1: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
-sentence 2: orang-orang austronesia yang memasuki wilayah nusantara dan kemudian menetap di nusantara tersebut mendapat sebutan bangsa melayu austronesia atau bangsa melayu indonesia .
-sentence 3: mereka yang masuk ke daerah aceh menjadi suku aceh , yang masuk ke daerah kalimantan disebut suku dayak , yang ke jawa barat disebut suku sunda , yang masuk ke sulawesi disebut suku bugis dan tanah toraja , dan mereka yang masuk ke daerah jambi disebut suku kubu ( lubu ) .
-sentence 4: bangsa melayu dapat dibedakan menjadi dua , yakni bangsa melayu tua dan melayu muda .
-sentence 5: 1 .
-passage 7 score = 1.0
-sentence 1: 1 .
-sentence 2: jalan barat dari yunan ( cina selatan ) melalui selat malaka ( malaysia ) masuk kesumatra masuk ke jawa .
-sentence 3: mereka membawa alat berupa kapak persegi .
-sentence 4: 2 .
-sentence 5: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
-passage 8 score = 1.0
-sentence 1: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
-sentence 2: mereka membawa alat kapak lonjong .
-sentence 3: bangsa melayu tua ini memiliki kebudayaan batu sebab alat-alatnya terbuat dari batu yang sudah maju , yakni sudah dihaluskan , berbeda dengan manusia purba yang alatnya masih kasar dan sederhana .
-sentence 4: hasil budaya mereka dikenal dengan kapak persegi yang banyak ditemukan di indonesia , seperti sumatra , jawa , bali , dan kalimantan .
-sentence 5: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
-passage 9 score = 1.0
-sentence 1: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
-sentence 2: menurut penelitian von heekern , di kalumpang , sulawesi utara telah terjadi perpaduan antara tradisi kapak persegi dan kapak lonjong yang dibawa orang austronesia yang datang dari arah utara indonesia melalui formosa ( taiwan ) , filipina , dan sulawesi .
-sentence 3: 2 .
-sentence 4: bangsa melayu muda ( deutero melayu ) bangsa melayu muda yang disebut juga deutero melayu datang dari daerah yunan ( cina selatan ) sekitar 500 sm .
-sentence 5: mereka masuk ke nusantara melalui jalan barat saja .
-passage 10 score = 1.0
-sentence 1: mereka masuk ke nusantara melalui jalan barat saja .
-sentence 2: bangsa melayu muda berhasil mendesak dan bercampur dengan bangsa proto melayu .
-sentence 3: bangsa deutero melayu masuk melalui teluk tonkin ( yunan ) ke vietnam , lalu ke semenanjung malaka , terus ke sumatra , dan akhirnya masuk ke jawa .
-sentence 4: bangsa deutero melayu memiliki kebudayaan yang lebih maju dibandingkan dengan proto melayu .
-sentence 5: mereka sudah dapat membuat barang-barang dari perunggu dan besi .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
-title : sistem dan struktur sosial masyarakat pada masa kerajaan kerajaan hindu-buddha
-passage 10 score = 2.333333333333333
-sentence 1: sedangkan dalam prasasti tugu di kerajaan tarumanegara menyebutkan bahwa raja purnawarman menghadiahkan seribu ekor sapi untuk kaum brahmana dalam upacara selamatan pembuatan sungai gomati .
-sentence 2: di kerajaan-kerajaan bali , terdapat petugas khusus yang berurusan dengan peternakan .
-sentence 3: pejabat tersebut bernamatuhan-jawa ( ketua ternak bersayap ) .
-sentence 4: jenis-jenis ternak yang dipelihara oleh rakyat yaitu itik , wdus ( kambing ) , lembu ( sapi ) , kboataukarambo ( kerbau ) , asu ( anjing ) , jaran atauasba ( kuda ) , hayam ( ayam ) , manuk ( ayam jantan ) .
-sentence 5: kehidupan maritim ada pada kerajaan-kerajaan yang berbentuk kerajaan maritim seperti sriwijaya .
-passage 1 score = 1.0
-sentence 1: sistem dan struktur sosial masyarakat pada masa kerajaan kerajaan hindu-buddha - pada masa kerajaan hindu-buddha , sistem dan struktur sosial masyarakat indonesia mulai dikenal .
-sentence 2: sesuai dengan stratifikasi sosial hindu , masyarakat terbagi ke dalam kelaskelas sosial yaitu kelas brahmana , ksatria , waisya , dan sudra .
-sentence 3: tetapi klasifikasi itu tidak ketat seperti di india .
-sentence 4: kelas brahmana merupakan kasta tertinggi .
-sentence 5: mereka adalah orang-orang yang ahli dalam keagamaan .
-passage 2 score = 1.0
-sentence 1: mereka adalah orang-orang yang ahli dalam keagamaan .
-sentence 2: kasta kedua adalah kelas ksatria , yaitu kaum bangsawan , para raja beserta keluarganya .
-sentence 3: kasta ketiga adalah kelas waisya , yang terdiri atas kaum pedagang .
-sentence 4: sedangkan kelas yang paling rendah adalah sudra , yang termasuk dalam kelas ini adalah para petani dan kaum buruh .
-sentence 5: masyarakat pada kerajaan-kerajaan hindu-buddha di indonesia , selain mendapat penggolongan berdasarkan agama , dibagi juga berdasarkan golongan elite dan golongan rakyat biasa .
-passage 3 score = 1.0
-sentence 1: masyarakat pada kerajaan-kerajaan hindu-buddha di indonesia , selain mendapat penggolongan berdasarkan agama , dibagi juga berdasarkan golongan elite dan golongan rakyat biasa .
-sentence 2: adapun yang termasuk golongan eliteadalah raja dan keluarganya beserta aparat pemerintahannya .
-sentence 3: golongan ini tinggal di ibu kota kerajaan .
-sentence 4: sedangkan yang termasuk rakyat biasaadalah mereka yang berada di luar golongan elite dan biasanya mereka tersebar di daerahdaerah yang menjadi daerah kekuasaan kerajaan .
-sentence 5: mereka yang bukan penganut agama hindu maupun buddha , dan masih memeluk kepercayaan leluhur nenek moyang mereka .
-passage 4 score = 1.0
-sentence 1: mereka yang bukan penganut agama hindu maupun buddha , dan masih memeluk kepercayaan leluhur nenek moyang mereka .
-sentence 2: pada kerajaan-kerajaan tertentu tidak dimasukkan ke dalam kelompok kasta .
-sentence 3: kelompok seperti ini ada , terutama pada kerajaan-kerajaan hindu tertua seperti kerajaan kutai dan tarumanegara .
-sentence 4: pada kerajaan tua ini diperkirakan agama hindu-buddha masih banyak dianut oleh kalangan atas , sedangkan kalangan bawah belum tersentuh banyak oleh pengaruh india ( hindu-buddha ) .
-sentence 5: sumber fa-hsien menyebutkan bahwa di kerajaan tarumanegara terdapat kelompok masyarakat yang beragama kotor .
-passage 5 score = 1.0
-sentence 1: sumber fa-hsien menyebutkan bahwa di kerajaan tarumanegara terdapat kelompok masyarakat yang beragama kotor .
-sentence 2: ada sebagian ahli yang mengatakan bahwa yang dimaksud denganagama kotoryaitu agama penduduk asli masyarakat setempat yang belum dipengaruhi oleh budaya india .
-sentence 3: letak kerajaan-kerajaan hindu-buddha di indonesia sebagian besar berada di pedalaman .
-sentence 4: letak kerajaan yang demikian mengakibatkan kehidupan masyarakat lebih banyak berpijak pada kehidupan agraris .
-sentence 5: oleh sebab itu , sebagian terbesar kehidupan sosial masyarakatnya merupakan masyarakat petani .
-passage 6 score = 1.0
-sentence 1: oleh sebab itu , sebagian terbesar kehidupan sosial masyarakatnya merupakan masyarakat petani .
-sentence 2: pertanian yang dilakukan , baik pertanian dalam bentuk pembuatan sawah maupun perkebunan , terutama menanam buah dan sayur-sayuran .
-sentence 3: dalam beberapa prasasti atau sumber lainnya tentang kerajaan hindu-buddha , terdapat informasi tentang pertanian .
-sentence 4: prasasti tugu dari kerajaan tarumanagara menyebutkan tentang pembuatan saluran oleh raja tarumanegara , yang berfungsi untuk mengairi pesawahan penduduk .
-sentence 5: pertanian menjadi salah satu sumber pendapatan negara , sehingga menjadi pusat perhatian kerajaan .
-passage 7 score = 1.0
-sentence 1: pertanian menjadi salah satu sumber pendapatan negara , sehingga menjadi pusat perhatian kerajaan .
-sentence 2: di mataram ada pejabat khusus yang menangani masalah pertanian yaitu huluair , petugas yang mengurus masalah pengairan di desa .
-sentence 3: selain itu , ada pula petugas di desa yang mengurusi masalah persediaan beras atau padi yaitu hulu wras .
-sentence 4: di bali pada masa kekuasaan setelah udayana , penduduknya disebut karamandan thani .
-sentence 5: sebutan ini berkaitan dengan sebagian besar kehidupan penduduk bali pada masa itu dari pertanian .
-passage 8 score = 1.0
-sentence 1: sebutan ini berkaitan dengan sebagian besar kehidupan penduduk bali pada masa itu dari pertanian .
-sentence 2: begitu pula cara pertanian yang dilakukan masyarakat sunda yaitu dengan cara ngahumayaitu menanam padi tidak di sawah tetapi di kebun , atau lahan yang tidak digenangi air seperti halnya sawah .
-sentence 3: di dalam naskah siksakanda ng karesianterdapat kata - kata yang berhubungan dengan alat-alat pertanian seperti kujang , patik , baliung , koreddansadap .
-sentence 4: selain pertanian sawah , masyarakat indonesia pada masa kerajaan hindubuddha sudah pula bertani tanam-tanaman dan buah-buahan .
-sentence 5: beberapa tanamtanaman yang sudah dikenal yaitu nyuatau tirisan ( kelapa ) , pring ( bambu ) , hano ( enau ) , kamiri ( kemiri ) , kapulaga ( kapulaga ) , kusumbha ( kesumba ) , tals ( talas ) , bawang bang ( bawang merah ) , pipakan ( jahe ) , mulaphala ( umbi-umbi lainnya , wortel ) , hartak ( kacang hijau ) , pucang ( pinang ) , jeruk ( jeruk ) , lunak ataucamalagi ( asam ) , pisangatau byu ( pisang ) , sarwaphala ( buah-bauhan ) , sarwawija ( padi-padian ) , kapas ( kapas ) , kapir ( kapuk randu ) , damar ( damar ) dan lain-lain .
-passage 9 score = 1.0
-sentence 1: beberapa tanamtanaman yang sudah dikenal yaitu nyuatau tirisan ( kelapa ) , pring ( bambu ) , hano ( enau ) , kamiri ( kemiri ) , kapulaga ( kapulaga ) , kusumbha ( kesumba ) , tals ( talas ) , bawang bang ( bawang merah ) , pipakan ( jahe ) , mulaphala ( umbi-umbi lainnya , wortel ) , hartak ( kacang hijau ) , pucang ( pinang ) , jeruk ( jeruk ) , lunak ataucamalagi ( asam ) , pisangatau byu ( pisang ) , sarwaphala ( buah-bauhan ) , sarwawija ( padi-padian ) , kapas ( kapas ) , kapir ( kapuk randu ) , damar ( damar ) dan lain-lain .
-sentence 2: selain bertani , terdapat pula kelompok masyarakat yang bekerja dalam berbagai bidang , seperti peternak , pemburu , pedagang , pelaut , penangkap ikan , pengrajin , pekerja seni dan pekerja-pekerja lainnya .
-sentence 3: peternakan sapi diperkirakan sudah ada pada masa kerajaan kutai dan tarumanegara karena dalam beberapa prasasti disebutkan mengenai persembahan sapi yang jumlahnya ribuan oleh raja untuk golongan brahmana .
-sentence 4: salah satu prasasti yupa menyebutkan bahwa raja mulawarman telah mengadakan upacara korban emas dan telah menghadiahkan sebanyak 20.000 ekor sapi untuk golongan brahmana .
-sentence 5: sedangkan dalam prasasti tugu di kerajaan tarumanegara menyebutkan bahwa raja purnawarman menghadiahkan seribu ekor sapi untuk kaum brahmana dalam upacara selamatan pembuatan sungai gomati .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok20.txt
-title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
-passage 14 score = 7.5
-sentence 1: tetapi , serangan sriwijaya berikutnya dibantu raja wurawari pada tahun 1017 menghancurkan mataram yang saat itu dipimpin dharmawangsa .
-sentence 2: kerajaan mataram yang kedua berdiri kembali di jawa tengah pada abad ke-16 , kali ini telah beragama islam .
-sentence 3: 3 .
-sentence 4: penyebab runtuhnya kerajaan majapahit kemunduran majapahit berawal sejak wafatnya gajah mada pada tahun 1364 .
-sentence 5: hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
-passage 24 score = 7.166666666666667
-sentence 1: kerajaan majapahit berdiri tahun 1293 oleh raden wijaya .
-sentence 2: raja-rajanya adalah raden wijaya , jayanegara , tribhuwanatunggadewi , hayam wuruk , wikramawardhana , suhita , dan brawijaya .
-sentence 3: kejayaan majapahit terjadi pada masa hayam wuruk dan patih gajah mada .
-passage 15 score = 6.666666666666667
-sentence 1: hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
-sentence 2: jabatan-jabatan yang dipegang gajah mada ( semasa hidupnya , gajah mada memegang begitu banyak jabatan ) diberikan kepada tiga orang .
-sentence 3: setelah hayam wuruk meninggal pada tahun 1389 , majapahit benar-benar mengalami kemunduran .
-sentence 4: beberapa faktor penyebab kemunduran majapahit sebagai berikut .
-sentence 5: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
-passage 16 score = 6.666666666666667
-sentence 1: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
-sentence 2: b. struktur pemerintahan majapahit yang mirip dengan sistem negara serikat pada masa modern dan banyaknya kebebasan yang diberikan kepada daerah memudahkan wilayah-wilayah jajahan untuk melepaskan diri begitu diketahui bahwa di pusat pemerintahan sedang kosong kekuasaan .
-sentence 3: c. terjadinya perang saudara , di antaranya yang terkenal adalah perang paregreg ( 1401-1406 ) yang dilakukan oleh bhre wirabhumi melawan pusat kerajaan majapahit .
-sentence 4: bhre wirabhumi diberi kekuasaan di wilayah blambangan .
-sentence 5: namun , ia berambisi untuk menjadi raja majapahit .
-passage 1 score = 5.5
 sentence 1: penyebab runtuhnya kerajaan hindu-buddha di indonesia - setelah memasuki abad ke-10 sampai abad ke-12 , kerajaan-kerajaan yang bercorak hindu maupun buddha di indonesia mulai mengalami kemunduran .
 sentence 2: faktor-faktor penyebab runtuhnya kerajaan-kerajaan yang bercorak hindu-buddha sebagai berikut .
 sentence 3: 1 .
 sentence 4: terdesaknya kerajaan-kerajaan kecil oleh kerajaan-kerajaan besar .
 sentence 5: 2 .
-passage 6 score = 5.5
+passage 6 score = 6.5
 sentence 1: c. dalam bidang politik , sriwijaya hanya memiliki angkatan laut yang diandalkan .
 sentence 2: setelah kekuasaan di jawa timur berkembang pada masa airlangga , sriwijaya terpaksa mengakui jawa timur sebagai pemegang hegemoni di indonesia bagian timur dan sriwijaya di bagian barat .
 sentence 3: d. adanya serangan militer atas sriwijaya .
 sentence 4: serangan pertama dilakukan oleh teguh dharmawangsa terhadap wilayah selatan sriwijaya ( 992 ) hingga menyebabkan utusan yang dikirim ke cina tidak berani kembali .
 sentence 5: serangan kedua dilakukan oleh colamandala atas semenanjung malaya pada tahun 1017 kemudian atas pusat sriwijaya pada tahun 1023 – 1030 .
-passage 7 score = 5.5
+passage 7 score = 6.5
 sentence 1: serangan kedua dilakukan oleh colamandala atas semenanjung malaya pada tahun 1017 kemudian atas pusat sriwijaya pada tahun 1023 – 1030 .
 sentence 2: dalam serangan ini , raja sriwijaya ditawan dan dibawa ke india .
 sentence 3: ketika kertanegara bertakhta di singasari juga ada usaha penyerangan terhadap sriwijaya , namun baru sebatas usaha mengurung sriwijaya dengan pendudukan atas wilayah melayu .
 sentence 4: akhir dari kerajaan sriwijaya adalah pendudukan oleh majapahit dalam usaha menciptakan kesatuan nusantara ( 1377 ) .
 sentence 5: berita cina dari zaman dinasti tang menyebutkan bahwa pada abad ke-7 , di kanton dan sumatra sudah ada orang muslim .
-passage 8 score = 5.5
+passage 8 score = 6.5
 sentence 1: berita cina dari zaman dinasti tang menyebutkan bahwa pada abad ke-7 , di kanton dan sumatra sudah ada orang muslim .
 sentence 2: hal ini berkaitan dengan perkembangan perdagangan dan pelayaran yang bersifat internasional antara negara-negara asia barat dan asia timur , yaitu antara kerajaan islam bani umayyah , kerajaan cina dinasti tang , dan kerajaan sriwijaya .
 sentence 3: pada abad ke-7 sampai ke-12 masehi , kerajaan sriwijaya memang memegang peranan penting di bidang ekonomi dan perdagangan untuk daerah asia tenggara .
 sentence 4: namun pada abad ke-12 , peranan tersebut mulai menunjukkan kemunduran .
 sentence 5: bukti mengenai kemunduran ekonomi dan perdagangan sriwijaya dapat diketahui dari berita chou ku-fei tahun 1178 .
-passage 9 score = 5.5
+passage 9 score = 6.5
 sentence 1: bukti mengenai kemunduran ekonomi dan perdagangan sriwijaya dapat diketahui dari berita chou ku-fei tahun 1178 .
 sentence 2: berita tersebut menyatakan bahwa harga barang-barang dari sriwijaya mahal karena rupanya tidak lagi menghasilkan hasil-hasil alamnya .
 sentence 3: untuk mencegah kemunduran ekonomi dan perdagangan , kerajaan sriwijaya kemudian membuat peraturan cukai yang lebih berat bagi kapal dagang yang singgah ke daerah pelabuhannya .
 sentence 4: kemunduran sriwijaya di bidang perdagangan dan politik dipercepat oleh usaha-usaha kerajaan singasari untuk memperkecil kekuasaan sriwijaya dengan mengadakan ekspedisi pamalayu pada tahun 1275 .
 sentence 5: usaha tersebut dimanfaatkan oleh daerah-daerah lain untuk melepaskan diri dari kekuasaan sriwijaya .
-passage 13 score = 5.5
+passage 13 score = 6.5
 sentence 1: apalagi , alam jawa timur belum banyak diusahakan sehingga tanahnya lebih subur dibandingkan dengan tanah di jawa tengah .
 sentence 2: b. dari segi politik , ada kebutuhan untuk mewaspadai ancaman sriwijaya , terutama karena sriwijaya pada saat itu dikuasai dinasti syailendra .
 sentence 3: sebagai antisipasinya , pusat kerajaan perlu dijauhkan dari tekanan sriwijaya .
 sentence 4: ketika sriwijaya sungguh-sungguh menyerang pada pertengahan abad ke-10 , mpu sindok dapat mematahkannya .
 sentence 5: tetapi , serangan sriwijaya berikutnya dibantu raja wurawari pada tahun 1017 menghancurkan mataram yang saat itu dipimpin dharmawangsa .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok91.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
 title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
-passage 14 score = 7.5
+passage 14 score = 8.5
 sentence 1: tetapi , serangan sriwijaya berikutnya dibantu raja wurawari pada tahun 1017 menghancurkan mataram yang saat itu dipimpin dharmawangsa .
 sentence 2: kerajaan mataram yang kedua berdiri kembali di jawa tengah pada abad ke-16 , kali ini telah beragama islam .
 sentence 3: 3 .
 sentence 4: penyebab runtuhnya kerajaan majapahit kemunduran majapahit berawal sejak wafatnya gajah mada pada tahun 1364 .
 sentence 5: hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
-passage 24 score = 7.166666666666667
+passage 24 score = 8.166666666666668
 sentence 1: kerajaan majapahit berdiri tahun 1293 oleh raden wijaya .
 sentence 2: raja-rajanya adalah raden wijaya , jayanegara , tribhuwanatunggadewi , hayam wuruk , wikramawardhana , suhita , dan brawijaya .
 sentence 3: kejayaan majapahit terjadi pada masa hayam wuruk dan patih gajah mada .
-passage 15 score = 6.666666666666667
+passage 15 score = 7.666666666666667
 sentence 1: hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
 sentence 2: jabatan-jabatan yang dipegang gajah mada ( semasa hidupnya , gajah mada memegang begitu banyak jabatan ) diberikan kepada tiga orang .
 sentence 3: setelah hayam wuruk meninggal pada tahun 1389 , majapahit benar-benar mengalami kemunduran .
 sentence 4: beberapa faktor penyebab kemunduran majapahit sebagai berikut .
 sentence 5: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
-passage 16 score = 6.666666666666667
+passage 16 score = 7.666666666666667
 sentence 1: a. tidak ada lagi tokoh di pusat pemerintahan yang dapat mempertahankan kesatuan wilayah setelah gajah mada dan hayam wuruk meninggal .
 sentence 2: b. struktur pemerintahan majapahit yang mirip dengan sistem negara serikat pada masa modern dan banyaknya kebebasan yang diberikan kepada daerah memudahkan wilayah-wilayah jajahan untuk melepaskan diri begitu diketahui bahwa di pusat pemerintahan sedang kosong kekuasaan .
 sentence 3: c. terjadinya perang saudara , di antaranya yang terkenal adalah perang paregreg ( 1401-1406 ) yang dilakukan oleh bhre wirabhumi melawan pusat kerajaan majapahit .
 sentence 4: bhre wirabhumi diberi kekuasaan di wilayah blambangan .
 sentence 5: namun , ia berambisi untuk menjadi raja majapahit .
-passage 1 score = 5.5
+passage 1 score = 6.5
 sentence 1: penyebab runtuhnya kerajaan hindu-buddha di indonesia - setelah memasuki abad ke-10 sampai abad ke-12 , kerajaan-kerajaan yang bercorak hindu maupun buddha di indonesia mulai mengalami kemunduran .
 sentence 2: faktor-faktor penyebab runtuhnya kerajaan-kerajaan yang bercorak hindu-buddha sebagai berikut .
 sentence 3: 1 .
 sentence 4: terdesaknya kerajaan-kerajaan kecil oleh kerajaan-kerajaan besar .
 sentence 5: 2 .
-passage 6 score = 5.5
+passage 6 score = 6.5
 sentence 1: c. dalam bidang politik , sriwijaya hanya memiliki angkatan laut yang diandalkan .
 sentence 2: setelah kekuasaan di jawa timur berkembang pada masa airlangga , sriwijaya terpaksa mengakui jawa timur sebagai pemegang hegemoni di indonesia bagian timur dan sriwijaya di bagian barat .
 sentence 3: d. adanya serangan militer atas sriwijaya .
 sentence 4: serangan pertama dilakukan oleh teguh dharmawangsa terhadap wilayah selatan sriwijaya ( 992 ) hingga menyebabkan utusan yang dikirim ke cina tidak berani kembali .
 sentence 5: serangan kedua dilakukan oleh colamandala atas semenanjung malaya pada tahun 1017 kemudian atas pusat sriwijaya pada tahun 1023 – 1030 .
-passage 7 score = 5.5
+passage 7 score = 6.5
 sentence 1: serangan kedua dilakukan oleh colamandala atas semenanjung malaya pada tahun 1017 kemudian atas pusat sriwijaya pada tahun 1023 – 1030 .
 sentence 2: dalam serangan ini , raja sriwijaya ditawan dan dibawa ke india .
 sentence 3: ketika kertanegara bertakhta di singasari juga ada usaha penyerangan terhadap sriwijaya , namun baru sebatas usaha mengurung sriwijaya dengan pendudukan atas wilayah melayu .
 sentence 4: akhir dari kerajaan sriwijaya adalah pendudukan oleh majapahit dalam usaha menciptakan kesatuan nusantara ( 1377 ) .
 sentence 5: berita cina dari zaman dinasti tang menyebutkan bahwa pada abad ke-7 , di kanton dan sumatra sudah ada orang muslim .
-passage 8 score = 5.5
+passage 8 score = 6.5
 sentence 1: berita cina dari zaman dinasti tang menyebutkan bahwa pada abad ke-7 , di kanton dan sumatra sudah ada orang muslim .
 sentence 2: hal ini berkaitan dengan perkembangan perdagangan dan pelayaran yang bersifat internasional antara negara-negara asia barat dan asia timur , yaitu antara kerajaan islam bani umayyah , kerajaan cina dinasti tang , dan kerajaan sriwijaya .
 sentence 3: pada abad ke-7 sampai ke-12 masehi , kerajaan sriwijaya memang memegang peranan penting di bidang ekonomi dan perdagangan untuk daerah asia tenggara .
 sentence 4: namun pada abad ke-12 , peranan tersebut mulai menunjukkan kemunduran .
 sentence 5: bukti mengenai kemunduran ekonomi dan perdagangan sriwijaya dapat diketahui dari berita chou ku-fei tahun 1178 .
-passage 9 score = 5.5
+passage 9 score = 6.5
 sentence 1: bukti mengenai kemunduran ekonomi dan perdagangan sriwijaya dapat diketahui dari berita chou ku-fei tahun 1178 .
 sentence 2: berita tersebut menyatakan bahwa harga barang-barang dari sriwijaya mahal karena rupanya tidak lagi menghasilkan hasil-hasil alamnya .
 sentence 3: untuk mencegah kemunduran ekonomi dan perdagangan , kerajaan sriwijaya kemudian membuat peraturan cukai yang lebih berat bagi kapal dagang yang singgah ke daerah pelabuhannya .
 sentence 4: kemunduran sriwijaya di bidang perdagangan dan politik dipercepat oleh usaha-usaha kerajaan singasari untuk memperkecil kekuasaan sriwijaya dengan mengadakan ekspedisi pamalayu pada tahun 1275 .
 sentence 5: usaha tersebut dimanfaatkan oleh daerah-daerah lain untuk melepaskan diri dari kekuasaan sriwijaya .
-passage 13 score = 5.5
+passage 13 score = 6.5
 sentence 1: apalagi , alam jawa timur belum banyak diusahakan sehingga tanahnya lebih subur dibandingkan dengan tanah di jawa tengah .
 sentence 2: b. dari segi politik , ada kebutuhan untuk mewaspadai ancaman sriwijaya , terutama karena sriwijaya pada saat itu dikuasai dinasti syailendra .
 sentence 3: sebagai antisipasinya , pusat kerajaan perlu dijauhkan dari tekanan sriwijaya .
 sentence 4: ketika sriwijaya sungguh-sungguh menyerang pada pertengahan abad ke-10 , mpu sindok dapat mematahkannya .
 sentence 5: tetapi , serangan sriwijaya berikutnya dibantu raja wurawari pada tahun 1017 menghancurkan mataram yang saat itu dipimpin dharmawangsa .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+passage 8 score = 7.166666666666667
+sentence 1: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+sentence 2: sosial ekonomi masyarakat kerajaan samudera pasai menurunnya peranan kerajaan sriwijaya di selat malaka bersamaan dengan berdirinya kerajaan samudera pasai .
+sentence 3: di bawah kekuasaan samudera pasai , jalur perdagangan di selat malaka berkembang pesat .
+sentence 4: banyak pedagang-pedagang dari arab , persia dan gujarat yang berlabuh di pidie , perlak , dan pasai .
+sentence 5: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+passage 9 score = 7.166666666666667
+sentence 1: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+sentence 2: walau demikian samudera pasai diberi keleluasan untuk tetap menguasai perdagangan di selat malaka .
+sentence 3: belakangan diketahui bahwa sebagian wilayah dari kerajaan majapahit sudah memeluk agama islam .
+sentence 4: karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada abad ke-14 dapat dipanen dua kali setahun , berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+sentence 5: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+passage 1 score = 6.833333333333333
+sentence 1: sejarah kerajaan samudera pasai - kerajaan samudera pasai dalam sejarah indonesia tercatat sebagai kerajaan islam yang pertama di indonesia .
+sentence 2: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+sentence 3: kerajaan samudera pasai terletak di sebelah utara perlak di daerah lhok seumawe sekarang ( pantai timur aceh ) , berbatasan langsung dengan selat malaka .
+sentence 4: pada tahun 1297 m , sultan malik al-saleh wafat , kemudian kerajaan samudera pasai dipimpin oleh putranya yang bernama sultan malik al-tahir ( 1297-1326 ) .
+sentence 5: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+passage 2 score = 6.833333333333333
+sentence 1: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+sentence 2: mengenai pribadi sultan ini , ibnu batutah ( pengembara dari maroko ) yang pernah singgah di samudera pasai pada tahun 1345 dan 1346 mengatakan bahwa sultan malik al-zahir adalah seorang sultan yang taat pada agama dan menganut ma hab syafi i. pada masa pemerintahan malik al-zahir terdapat orang persia yang menjadi pejabat istana .
+sentence 3: pada tahun 1348 , sultan malik al-zahir wafat , kemudian takhta kerajaan dipegang oleh zainal abidin .
+sentence 4: pada masa zainal abidin inilah , majapahit berhasil menguasai samudera pasai .
+sentence 5: dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+passage 7 score = 6.833333333333333
+sentence 1: sultan malikul zahir , meninggal tahun 1326 3 .
+sentence 2: sultan muhammad , wafat tahun 1354 4 .
+sentence 3: sultan ahmad malikul zahir atau al malik jamaluddin , meninggal tahun 1383 5 .
+sentence 4: sultan zainal abidin , meninggal tahun 1405 6 .
+sentence 5: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+passage 14 score = 5.5
+sentence 1: ia diundang ke istana dan bertemu dengan sultan muhammad , cucu malik as-saleh .
+sentence 2: setelah setahun di pasai , batutah segera melanjutkan pelayarannya ke cina , dan kembali ke samudera pasai lagi pada 1347 .
+sentence 3: bukti lain dari keberadaan pasai adalah ditemukannya mata uang dirham sebagai alat tukar dagang .
+sentence 4: pada mata uang ini , tertulis nama para sultan yang memerintah kerajaan .
+sentence 5: nama-nama sultan ( memerintah dari abad ke-14 hingga 15 ) yang tercetak pada mata uang tersebut di antaranya sultan alauddin , mansur malik zahir , abu zaid malik zahir , muhammad malik zahir , ahmad malik zahir , dan abdullah malik zahir .
+passage 15 score = 5.5
+sentence 1: nama-nama sultan ( memerintah dari abad ke-14 hingga 15 ) yang tercetak pada mata uang tersebut di antaranya sultan alauddin , mansur malik zahir , abu zaid malik zahir , muhammad malik zahir , ahmad malik zahir , dan abdullah malik zahir .
+sentence 2: dengan munculnya pusat politik dan perdagangan baru di malaka pada abad ke-15 merupakan faktor yang menyebabkan kerajaan samudera pasai mengalami kemunduran .
+sentence 3: hancur dan hilangnya peranan pase dalam jaringan antar bangsa , yaitu ketika suatu pusat kekuasan baru muncul di ujung barat pulau sumatera , yakni kerajaan aceh darussalam pada abad ke-16 .
+sentence 4: pasai ditaklukan dan dimasukkan ke dalam wilayah kekuasaan kerajaan aceh darussalam oleh sultan ali mughayat syah dan lonceng cakra donya hadiah dari raja cina untuk kerajaan islam samudera pasai dipindahkan ke aceh darussalam ( sekarang banda aceh ) .
+sentence 5: namun demikian , dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudera pasai muncul dan berkembang .
+passage 16 score = 5.5
+sentence 1: namun demikian , dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudera pasai muncul dan berkembang .
+sentence 2: runtuhnya kekuatan kerajaan pasai sangat berkaitan dengan perkembangan yang terjadi di luar pasai itu sendiri .
+sentence 3: walaupun kerajan islam samudera pasai berhasil ditaklukan oleh sultan asli mughayat syah , namun peninggalan dari kerajaan ini masih banyak dijumpai sampai saat ini .
+sentence 4: pada 1913 dan 1915 , j.j. de vink bangsa belanda telah mengadakan inventarisasi di bekas peninggalan kerajaan islam samudera pasai .
+sentence 5: dan pada 1937 , beberapa makam di samudera pasai dipugar oleh pemerintah belanda .
+passage 17 score = 5.5
+sentence 1: dan pada 1937 , beberapa makam di samudera pasai dipugar oleh pemerintah belanda .
+sentence 2: kemudian pada 1972 , 1973 , dan 1976 .
+sentence 3: peninggalan kerajaan samudera pasai di kecamatan samudera geudong kabupaten aceh utara telah diinventarisasi oleh direktur jendral kebudayaan departemen pendidikan dan kebudayaan milik pemerintah republik indonesia .
+sentence 4: pada umumnya , tulisan pada makam tersebut belum diteliti seluruhnya dan hal ini perlu penelitian lebih lanjut oleh generasi pada masa sekarang .
+sentence 5: berbagai peninggalan sejarah berupa situs makam para raja yang hingga saat ini penduduk di sekitar makam sultan malikussaleh sering menemukan mata uang emas ( dirham ) , keramik , dan gelang mata delima yang umumnya ditemukan di sekitar kawasan tersebut .
+passage 3 score = 5.0
+sentence 1: dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+sentence 2: setelah majapahit mengalami kehancuran , samudera pasai tegak kembali .
+sentence 3: keberadaan samudera pasai sampai tahun 1405 masih terdengar diberitakan oleh mohammad cheng ho pemimpin armada cina , yang beragama islam , dan sempat singgah di samudera pasai .
+sentence 4: setelah zainal abidin , kerajaan ini tidak terdengar lagi karena telah tergeser oleh kerajaan malaka .
+sentence 5: perekonomian masyarakat samudera pasai tergantung dari perdagangan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+title : sejarah kerajaan samudera pasai
+passage 8 score = 7.166666666666667
+sentence 1: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+sentence 2: sosial ekonomi masyarakat kerajaan samudera pasai menurunnya peranan kerajaan sriwijaya di selat malaka bersamaan dengan berdirinya kerajaan samudera pasai .
+sentence 3: di bawah kekuasaan samudera pasai , jalur perdagangan di selat malaka berkembang pesat .
+sentence 4: banyak pedagang-pedagang dari arab , persia dan gujarat yang berlabuh di pidie , perlak , dan pasai .
+sentence 5: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+passage 9 score = 7.166666666666667
+sentence 1: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+sentence 2: walau demikian samudera pasai diberi keleluasan untuk tetap menguasai perdagangan di selat malaka .
+sentence 3: belakangan diketahui bahwa sebagian wilayah dari kerajaan majapahit sudah memeluk agama islam .
+sentence 4: karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada abad ke-14 dapat dipanen dua kali setahun , berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+sentence 5: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+passage 1 score = 6.833333333333333
+sentence 1: sejarah kerajaan samudera pasai - kerajaan samudera pasai dalam sejarah indonesia tercatat sebagai kerajaan islam yang pertama di indonesia .
+sentence 2: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+sentence 3: kerajaan samudera pasai terletak di sebelah utara perlak di daerah lhok seumawe sekarang ( pantai timur aceh ) , berbatasan langsung dengan selat malaka .
+sentence 4: pada tahun 1297 m , sultan malik al-saleh wafat , kemudian kerajaan samudera pasai dipimpin oleh putranya yang bernama sultan malik al-tahir ( 1297-1326 ) .
+sentence 5: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+passage 2 score = 6.833333333333333
+sentence 1: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+sentence 2: mengenai pribadi sultan ini , ibnu batutah ( pengembara dari maroko ) yang pernah singgah di samudera pasai pada tahun 1345 dan 1346 mengatakan bahwa sultan malik al-zahir adalah seorang sultan yang taat pada agama dan menganut ma hab syafi i. pada masa pemerintahan malik al-zahir terdapat orang persia yang menjadi pejabat istana .
+sentence 3: pada tahun 1348 , sultan malik al-zahir wafat , kemudian takhta kerajaan dipegang oleh zainal abidin .
+sentence 4: pada masa zainal abidin inilah , majapahit berhasil menguasai samudera pasai .
+sentence 5: dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+passage 7 score = 6.833333333333333
+sentence 1: sultan malikul zahir , meninggal tahun 1326 3 .
+sentence 2: sultan muhammad , wafat tahun 1354 4 .
+sentence 3: sultan ahmad malikul zahir atau al malik jamaluddin , meninggal tahun 1383 5 .
+sentence 4: sultan zainal abidin , meninggal tahun 1405 6 .
+sentence 5: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+passage 14 score = 5.5
+sentence 1: ia diundang ke istana dan bertemu dengan sultan muhammad , cucu malik as-saleh .
+sentence 2: setelah setahun di pasai , batutah segera melanjutkan pelayarannya ke cina , dan kembali ke samudera pasai lagi pada 1347 .
+sentence 3: bukti lain dari keberadaan pasai adalah ditemukannya mata uang dirham sebagai alat tukar dagang .
+sentence 4: pada mata uang ini , tertulis nama para sultan yang memerintah kerajaan .
+sentence 5: nama-nama sultan ( memerintah dari abad ke-14 hingga 15 ) yang tercetak pada mata uang tersebut di antaranya sultan alauddin , mansur malik zahir , abu zaid malik zahir , muhammad malik zahir , ahmad malik zahir , dan abdullah malik zahir .
+passage 15 score = 5.5
+sentence 1: nama-nama sultan ( memerintah dari abad ke-14 hingga 15 ) yang tercetak pada mata uang tersebut di antaranya sultan alauddin , mansur malik zahir , abu zaid malik zahir , muhammad malik zahir , ahmad malik zahir , dan abdullah malik zahir .
+sentence 2: dengan munculnya pusat politik dan perdagangan baru di malaka pada abad ke-15 merupakan faktor yang menyebabkan kerajaan samudera pasai mengalami kemunduran .
+sentence 3: hancur dan hilangnya peranan pase dalam jaringan antar bangsa , yaitu ketika suatu pusat kekuasan baru muncul di ujung barat pulau sumatera , yakni kerajaan aceh darussalam pada abad ke-16 .
+sentence 4: pasai ditaklukan dan dimasukkan ke dalam wilayah kekuasaan kerajaan aceh darussalam oleh sultan ali mughayat syah dan lonceng cakra donya hadiah dari raja cina untuk kerajaan islam samudera pasai dipindahkan ke aceh darussalam ( sekarang banda aceh ) .
+sentence 5: namun demikian , dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudera pasai muncul dan berkembang .
+passage 16 score = 5.5
+sentence 1: namun demikian , dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudera pasai muncul dan berkembang .
+sentence 2: runtuhnya kekuatan kerajaan pasai sangat berkaitan dengan perkembangan yang terjadi di luar pasai itu sendiri .
+sentence 3: walaupun kerajan islam samudera pasai berhasil ditaklukan oleh sultan asli mughayat syah , namun peninggalan dari kerajaan ini masih banyak dijumpai sampai saat ini .
+sentence 4: pada 1913 dan 1915 , j.j. de vink bangsa belanda telah mengadakan inventarisasi di bekas peninggalan kerajaan islam samudera pasai .
+sentence 5: dan pada 1937 , beberapa makam di samudera pasai dipugar oleh pemerintah belanda .
+passage 17 score = 5.5
+sentence 1: dan pada 1937 , beberapa makam di samudera pasai dipugar oleh pemerintah belanda .
+sentence 2: kemudian pada 1972 , 1973 , dan 1976 .
+sentence 3: peninggalan kerajaan samudera pasai di kecamatan samudera geudong kabupaten aceh utara telah diinventarisasi oleh direktur jendral kebudayaan departemen pendidikan dan kebudayaan milik pemerintah republik indonesia .
+sentence 4: pada umumnya , tulisan pada makam tersebut belum diteliti seluruhnya dan hal ini perlu penelitian lebih lanjut oleh generasi pada masa sekarang .
+sentence 5: berbagai peninggalan sejarah berupa situs makam para raja yang hingga saat ini penduduk di sekitar makam sultan malikussaleh sering menemukan mata uang emas ( dirham ) , keramik , dan gelang mata delima yang umumnya ditemukan di sekitar kawasan tersebut .
+passage 3 score = 5.0
+sentence 1: dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+sentence 2: setelah majapahit mengalami kehancuran , samudera pasai tegak kembali .
+sentence 3: keberadaan samudera pasai sampai tahun 1405 masih terdengar diberitakan oleh mohammad cheng ho pemimpin armada cina , yang beragama islam , dan sempat singgah di samudera pasai .
+sentence 4: setelah zainal abidin , kerajaan ini tidak terdengar lagi karena telah tergeser oleh kerajaan malaka .
+sentence 5: perekonomian masyarakat samudera pasai tergantung dari perdagangan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok334.txt
+title : sejarah kerajaan sunda
+passage 12 score = 6.833333333333333
+sentence 1: wastu kancana memerintah cukup lama , dari tahun 1371 – 1471 .
+sentence 2: hal ini disebabkan karena wastu kancana selalu menjalankan agama dengan baik dan sangat memerhatikan kesejahteraan rakyatnya sehingga semua lapisan masyarakat tetap mendukungnya .
+sentence 3: setelah wafat , ia dimakamkan di nusalarang .
+sentence 4: penggantinya adalah putranya sendiri , tohana di galuh atau rahyang ningrat kancana .
+sentence 5: raja rahyang ningrat kancana memerintah hanya selama tujuh tahun .
+passage 10 score = 6.666666666666667
+sentence 1: istananya bernama surawisesa .
+sentence 2: disebutkan dalam prasasti-prasasti tersebut bahwa baginda raja telah membuat selokan di sekeliling kerajaan dan desa-desa untuk rakyatnya .
+sentence 3: menurut kitab pararaton , pada tahun 1357 m terjadi peristiwa pasundan bubat atau perang bubat , yaitu peperangan antara sunda dan majapahit .
+sentence 4: pada masa itu , sunda diperintah oleh prabu maharaja ( ayah wastu kancana ) dan majapahit diperintah oleh raja hayam wuruk .
+sentence 5: dalam pertempuran itu , prabu maharaja gugur .
+passage 13 score = 6.333333333333333
+sentence 1: raja rahyang ningrat kancana memerintah hanya selama tujuh tahun .
+sentence 2: setelah wafat , ia dimakamkan di gunung tiga .
+sentence 3: setelah raja ningrat kancana jatuh , ia digantikan putranya , sang ratu jayadewata .
+sentence 4: dalam prasasti kebantenan , jayadewata disebut sebagai “ … yang kini menjadi susuhunan di pakuan pajajaran ” .
+sentence 5: adapun prasasti tersebut menyebutkan gelar sang jayadewata , yaitu prabu dewataprana sri baduga maharaja ratu haji di pakuan pajajaran sri sang ratu dewata .
+passage 8 score = 5.5
+sentence 1: agama yang dianut sri jayabhupati adalah hindu waisnawa .
+sentence 2: ini ditunjukkan oleh gelarnya ( wisnumurti ) .
+sentence 3: agama yang sama dianut pula oleh raja airlangga .
+sentence 4: dengan demikian , ada kemungkinan bahwa agama resmi yang dianut penduduk jawa pada awal abad ke-11 adalah hindu waisnawa .
+sentence 5: jika dicocokkan dengan carita parahyangandan naskah keropak 406 , jayabhupati dapat dipersamakan dengan rakryan darmasiksa yang berkuasa di sunggalah selama 12 tahun kemudian bertakhta di pakuan pajajaran .
+passage 9 score = 5.5
+sentence 1: jika dicocokkan dengan carita parahyangandan naskah keropak 406 , jayabhupati dapat dipersamakan dengan rakryan darmasiksa yang berkuasa di sunggalah selama 12 tahun kemudian bertakhta di pakuan pajajaran .
+sentence 2: oleh karena itu , ada dugaan bahwa kerajaan sunda pada masa pemerintahan sri jayabhupati berpusat di pakuan pajajaran , tetapi tidak lama kemudian pusat kerajaannya dipindahkan ke kawali ( daerah cirebon ) .
+sentence 3: tidak diketahui secara pasti pada zaman pemerintahan siapakah pusat kerajaan sunda mulai berada di kawali .
+sentence 4: akan tetapi , berdasarkan prasasti-prasasti yang terdapat di astanagede ( kawali ) , dapat diketahui bahwa setidaknya pada masa pemerintahan rahyang niskala wastu kancana , pusat kerajaan sudah berada di sana .
+sentence 5: istananya bernama surawisesa .
+passage 11 score = 5.5
+sentence 1: dalam pertempuran itu , prabu maharaja gugur .
+sentence 2: ketika peristiwa bubat terjadi , wastu kencana masih kecil sehingga pemerintahan untuk sementara diserahkan kepada pengasuhnya , yaitu hyang bumisora .
+sentence 3: ia menjalankan pemerintahan selama 14 tahun ( 1357 – 1371 ) .
+sentence 4: setelah dewasa , wastu kancana menerima kembali tampuk pemerintahan dari hyang bumisora .
+sentence 5: wastu kancana memerintah cukup lama , dari tahun 1371 – 1471 .
+passage 15 score = 5.5
+sentence 1: hal ini diketahui dari berita portugis yang berasal dari tome pires ( 1513 ) yang menyebutkan bahwa di cimanuk telah banyak dijumpai orang yang menganut agama islam .
+sentence 2: sang ratu jayadewata sudah memperhitungkan meluasnya pengaruh islam di wilayah kerajaan sunda .
+sentence 3: untuk membendungnya , baginda menjalin hubungan dengan portugis di malaka .
+sentence 4: dalam rangka menjalin hubungan tersebut , diutuslah ratu samiam dari sunda ke malaka pada tahun 1512 – 1521 .
+sentence 5: ketika hendrik de heme memimpin perutusannya ke sunda pada tahun 1522 , ratu samiam sudah berkuasa sebagai raja dan disebut prabu surawisesa .
+passage 16 score = 5.5
+sentence 1: ketika hendrik de heme memimpin perutusannya ke sunda pada tahun 1522 , ratu samiam sudah berkuasa sebagai raja dan disebut prabu surawisesa .
+sentence 2: rupanya , dialah yang menggantikan raja jayadewata .
+sentence 3: ratu samiam memerintah selama 14 tahun ( 1521 – 1535 ) .
+sentence 4: setelah itu , ratu samiam digantikan oleh prabu ratudewata yang memerintah tahun 1535 – 1543 .
+sentence 5: pada masa itu , sering terjadi serangan terhadap kerajaan sunda , antara lain , dari kelompok islam yang dipimpin oleh maulana hasanuddin dan maulana yusuf dari kerajaan banten .
+passage 18 score = 5.5
+sentence 1: keadaan semakin buruk karena prabu ratudewata lebih memusatkan diri pada masalah-masalah agama berkaitan dengan perannya sebagai pendeta dan kurang memerhatikan kesejahteraan rakyat .
+sentence 2: penggantinya , sang ratu saksi yang memerintah tahun 1443 – 1551 , adalah raja yang kejam dan gemar main wanita .
+sentence 3: demikian pula dengan penggantinya , tohaan di majaya , yang memerintah tahun 1551 – 1567 .
+sentence 4: ia lebih suka memperindah istana dan berfoya-foya .
+sentence 5: pada masa pemerintahan raja nuisya mulya , raja yang terakhir , kerajaan sunda akhirnya jatuh ke tangan orang-orang islam ( 1579 ) .
+passage 1 score = 5.0
+sentence 1: sejarah kerajaan sunda – berdasarkan naskah kuno yang ditemukan di jawa barat , setelah tarumanegara runtuh , berulang kali terjadi perpindahan pusat kerajaan hindu .
+sentence 2: secara berturut-turut , pusat-pusat kerajaan itu adalah galuh , prahajyan sunda , kawali , dan pakuan pajajaran .
+sentence 3: sejarah di jawa barat setelah tarumanegara tidak banyak diketahui .
+sentence 4: kegelapan itu tersingkap sedikit oleh prasasti canggal yang ditemukan di gunung wukir , jawa tengah , berangka tahun 732 m. prasasti canggal dibuat oleh sanjaya ( raja mataram ) sebagai peringatan atas kemenangannya .
+sentence 5: prasasti ini menyebutkan tentang raja sanna ( sena ) , ayah dari sanjaya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+title : kerajaan singasari
+passage 1 score = 5.5
+sentence 1: kerajaan singhasari atau sering pula ditulis singasari , adalah sebuah kerajaan di jawa timur yang didirikan oleh ken arok pada tahun 1222 .
+sentence 2: lokasi kerajaan ini sekarang diperkirakan berada di daerah singosari , malang .
+sentence 3: berdasarkan prasasti kudadu , nama resmi kerajaan singhasari yang sesungguhnya ialah kerajaan tumapel .
+sentence 4: menurut nagarakretagama , ketika pertama kali didirikan tahun 1222 , ibu kota kerajaan tumapel bernama kutaraja .
+sentence 5: pada tahun 1254 , raja wisnuwardhana mengangkat putranya yang bernama kertanagara sebagai yuwaraja dan mengganti nama ibu kota menjadi singhasari .
+passage 6 score = 5.5
+sentence 1: terdapat perbedaan antara pararaton dan nagarakretagama dalam menyebutkan urutan raja-raja singhasari .
+sentence 2: raja-raja tumapel versi pararaton adalah : 1 .
+sentence 3: ken arok alias rajasa sang amurwabhumi ( 1222 - 1247 ) 2 .
+sentence 4: anusapati ( 1247 - 1249 ) 3 .
+sentence 5: tohjaya ( 1249 - 1250 ) 4 .
+passage 7 score = 5.5
+sentence 1: tohjaya ( 1249 - 1250 ) 4 .
+sentence 2: ranggawuni alias wisnuwardhana ( 1250 - 1272 ) 5 .
+sentence 3: kertanagara ( 1272 - 1292 ) raja-raja tumapel versi nagarakretagama adalah : 1 .
+sentence 4: rangga rajasa sang girinathaputra ( 1222 - 1227 ) 2 .
+sentence 5: anusapati ( 1227 - 1248 ) 3 .
+passage 8 score = 5.5
+sentence 1: anusapati ( 1227 - 1248 ) 3 .
+sentence 2: wisnuwardhana ( 1248 - 1254 ) 4 .
+sentence 3: kertanagara ( 1254 - 1292 ) kisah suksesi raja-raja tumapel versi pararaton diwarnai pertumpahan darah yang dilatari balas dendam .
+sentence 4: ken arok mati dibunuh anusapati ( anak tirinya ) .
+sentence 5: anusapati mati dibunuh tohjaya ( anak ken arok dari selir ) .
+passage 11 score = 5.5
+sentence 1: hal ini memperkuat kebenaran berita dalam nagarakretagama .
+sentence 2: prasasti tersebut dikeluarkan oleh kertanagara tahun 1255 selaku raja bawahan di kadiri .
+sentence 3: jadi , pemberitaan kalau kertanagara naik takhta tahun 1254 perlu dibetulkan .
+sentence 4: yang benar adalah , kertanagara menjadi raja muda di kadiri dahulu .
+sentence 5: baru pada tahun 1268 , ia bertakhta di singhasari .
+passage 15 score = 5.5
+sentence 1: kertanagara adalah raja terakhir dan raja terbesar dalam sejarah singhasari ( 1268 - 1292 ) .
+sentence 2: ia adalah raja pertama yang mengalihkan wawasannya ke luar jawa .
+sentence 3: pada tahun 1275 ia mengirim pasukan ekspedisi pamalayu untuk menjadikan pulau sumatra sebagai benteng pertahanan dalam menghadapi ekspansi bangsamongol .
+sentence 4: saat itu penguasa pulau sumatra adalah kerajaan dharmasraya ( kelanjutan dari kerajaan malayu ) .
+sentence 5: kerajaan ini akhirnya tunduk dengan ditemukannya bukti arca amoghapasa yang dikirim kertanagara sebagai tanda persahabatan kedua negara .
+passage 16 score = 5.5
+sentence 1: kerajaan ini akhirnya tunduk dengan ditemukannya bukti arca amoghapasa yang dikirim kertanagara sebagai tanda persahabatan kedua negara .
+sentence 2: pada tahun 1284 , kertanagara juga mengadakan ekspedisi menaklukkan bali .
+sentence 3: pada tahun 1289 kaisar kubilai khan mengirim utusan ke singhasari meminta agar jawa mengakui kedaulatan mongol .
+sentence 4: namun permintaan itu ditolak tegas oleh kertanagara .
+sentence 5: nagarakretagama menyebutkan daerah-daerah bawahan singhasari di luar jawa pada masa kertanagara antara lain , melayu , bali , pahang , gurun , dan bakulapura .
+passage 2 score = 5.0
+sentence 1: pada tahun 1254 , raja wisnuwardhana mengangkat putranya yang bernama kertanagara sebagai yuwaraja dan mengganti nama ibu kota menjadi singhasari .
+sentence 2: nama singhasari yang merupakan nama ibu kota kemudian justru lebih terkenal daripada nama tumapel .
+sentence 3: maka , kerajaan tumapel pun terkenal pula dengan nama kerajaan singhasari .
+sentence 4: nama tumapel juga muncul dalam kronik cina dari dinasti yuan dengan ejaan tu-ma-pan .
+sentence 5: menurut pararaton , tumapel semula hanya sebuah daerah bawahan kerajaan kadiri .
+passage 3 score = 5.0
+sentence 1: menurut pararaton , tumapel semula hanya sebuah daerah bawahan kerajaan kadiri .
+sentence 2: yang menjabat sebagai akuwu ( setara camat ) tumapel saat itu adalah tunggul ametung .
+sentence 3: ia mati dibunuh secara licik oleh pengawalnya sendiri yang bernama ken arok , yang kemudian menjadi akuwu baru .
+sentence 4: tidak hanya itu , ken arok bahkan berniat melepaskan tumapel dari kekuasaan kadiri .
+sentence 5: pada tahun 1222 terjadi perseteruan antara kertajaya raja kadiri melawan kaum brahmana .
+passage 4 score = 5.0
+sentence 1: pada tahun 1222 terjadi perseteruan antara kertajaya raja kadiri melawan kaum brahmana .
+sentence 2: para brahmana lalu menggabungkan diri dengan ken arok yang mengangkat dirinya menjadi raja pertama tumapel bergelar sri rajasa sang amurwabhumi .
+sentence 3: perang melawan kadiri meletus di desa ganter yang dimenangkan oleh pihak tumapel .
+sentence 4: nagarakretagama juga menyebut tahun yang sama untuk pendirian kerajaan tumapel , namun tidak menyebutkan adanya nama ken arok .
+sentence 5: dalam naskah itu , pendiri kerajaan tumapel bernama ranggah rajasa sang girinathaputra yang berhasil mengalahkan kertajaya raja kadiri .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
 title : nusantara sebelum kedatangan islam
 passage 11 score = 5.5
 sentence 1: rakyat lebih banyak melakukan kewajibannya .
@@ -600,135 +671,9 @@ sentence 3: dengan demikian , kehidupan masyarakat di kota pelabuhan akan mencip
 sentence 4: dalam masyarakat yang seperti ini , akan memudahkan masuknya unsur budaya dari luar .
 sentence 5: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
-passage 6 score = 6.666666666666667
-sentence 1: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
-sentence 2: dengan sumpah palapanya , gajah mada melakukan perluasan wilayah .
-sentence 3: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
-sentence 4: pada tahun 1478 , majapahit mengalami keruntuhannya .
-sentence 5: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-passage 1 score = 5.5
-sentence 1: kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam - proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
-sentence 2: secara geografis wilayah indonesia memiliki arti yang sangat penting bagi masuknya unsur-unsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
-sentence 3: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
-sentence 4: 1 .
-sentence 5: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
-passage 2 score = 5.5
-sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
-sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
-sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
-sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
-sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
-passage 3 score = 5.0
-sentence 1: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
-sentence 2: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
-sentence 3: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
-sentence 4: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
-sentence 5: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
-passage 8 score = 5.0
-sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
-sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
-sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
-sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
-sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
-passage 5 score = 1.6666666666666665
-sentence 1: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
-sentence 2: setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
-sentence 3: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
-sentence 4: majapahit pernah tampil sebagai supremasi kekuasaan di wilayah nusantara , setelah sriwijaya runtuh .
-sentence 5: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
-passage 4 score = 0.0
-sentence 1: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
-sentence 2: tindakan sriwijaya ini ternyata tidak memberikan keuntungan bagi kerajaannya , justru sebaliknya .
-sentence 3: kapal-kapal asing mencoba menghindar untuk berlabuh di pelabuhan-pelabuhan sriwijaya .
-sentence 4: kemunduran sriwijaya diperburuk lagi oleh serangan kerajaan singosari dari jawa melalui ekspedisi pamalayu .
-sentence 5: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
-passage 7 score = 0.0
-sentence 1: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-sentence 2: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
-sentence 3: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
-sentence 4: 2 .
-sentence 5: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
-passage 9 score = 0.0
-sentence 1: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
-sentence 2: interaksi antara unit-unit akan membangun struktur sosial yang dinamik , sehingga akan menampakkan adanya suatu perubahan .
-sentence 3: masyarakat di kota pelabuhan merupakan masyarakat yang urban dan kosmopolit .
-sentence 4: terciptalah suatu tatanan masyarakat kota .
-sentence 5: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
-passage 10 score = 0.0
-sentence 1: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
-sentence 2: dengan demikian , kehidupan masyarakat di kota pelabuhan akan menciptakan suatu masyarakat yang terbuka .
-sentence 3: dalam masyarakat yang seperti ini , akan memudahkan masuknya unsur budaya dari luar .
-sentence 4: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
-sentence 5: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-title : kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam
-passage 6 score = 6.666666666666667
-sentence 1: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
-sentence 2: dengan sumpah palapanya , gajah mada melakukan perluasan wilayah .
-sentence 3: majapahit kemudian mengalami kemunduran yang lebih banyak disebabkan oleh adanya konflik internal .
-sentence 4: pada tahun 1478 , majapahit mengalami keruntuhannya .
-sentence 5: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-passage 1 score = 5.5
-sentence 1: kondisi politik ekonomi dan sosial budaya indonesia sebelum masuknya islam - proses islamisasi yang terjadi di indonesia sangat ditentukan oleh kondisi sosial , budaya , politik , dan ekonomi yang ada sebelumnya .
-sentence 2: secara geografis wilayah indonesia memiliki arti yang sangat penting bagi masuknya unsur-unsur dari luar , karena menjadi jalur lalu lintas perdagangan internasional .
-sentence 3: dengan terbukanya wilayah nusantara memungkinkan masyarakatnya untuk berinteraksi dengan bangsa lain .
-sentence 4: 1 .
-sentence 5: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
-passage 2 score = 5.5
-sentence 1: kondisi politik dan ekonomi indonesia sebelum masuknya islam pada abad ke-7 sampai dengan abad ke-12 , sriwijaya mengalami masa kejayaan , baik dalam bidang politik maupun ekonomi .
-sentence 2: kejayaan yang dialami sriwijaya sangat ditentukan oleh letak dari kerajaan sriwijaya sebagai kerajaan maritim .
-sentence 3: sriwijaya merupakan bagian dari jalur perdagangan internasional .
-sentence 4: sebagai pelabuhan , pusat perdagangan , dan pusat kekuasaan , sriwijaya menguasai pelayaran dan perdagangan di bagian barat indonesia .
-sentence 5: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
-passage 3 score = 5.0
-sentence 1: sebagian dari semenanjung malaya , selat malaka , sumatra utara , selat sunda yang kesemuanya masuk lingkungan kekuasaan sriwijaya .
-sentence 2: sriwijaya sebagai pusat perdagangan dikunjungi oleh pedagang dari parsi , arab dan cina yang memperdagangkan barang-barang dari negerinya atau negeri yang dilaluinya , sedangkan pedagang jawa membelinya dan menjual rempah-rempah .
-sentence 3: memasuki abad ke-13 , sriwijaya menunjukkan tanda-tanda kemunduran .
-sentence 4: kekayaan alamnya sudah tidak lagi menghasilkan , kalah dengan hasil kekayaan di jawa .
-sentence 5: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
-passage 8 score = 5.0
-sentence 1: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
-sentence 2: sistem angin di kepulauan nusantara yang dikenal sebagai angin musim ( angin muson ) , memberikan kemungkinan pengembangan jalan pelayaran barat-timur pulang balik secara teratur dan berpola tetap .
-sentence 3: musim barat dan musim timur sangat menentukan munculnya kota-kota pelabuhan serta pusat-pusat kerajaan sejak aman sriwijaya sampai akhir majapahit .
-sentence 4: kehidupan di kota pelabuhan menampakkan suatu kehidupan yang dinamik .
-sentence 5: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
-passage 5 score = 1.6666666666666665
-sentence 1: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
-sentence 2: setelah singosari berkuasa , kemudian muncul majapahit sebagai kekuatan kerajaan yang memiliki pengaruh yang sangat besar .
-sentence 3: kemunculan majapahit ini semakin memperlemah kedudukan sriwijaya .
-sentence 4: majapahit pernah tampil sebagai supremasi kekuasaan di wilayah nusantara , setelah sriwijaya runtuh .
-sentence 5: kejayaan kerajaan majapahit dialami pada masa kekuasaan raja hayam wuruk dengan patihnya yang terkenal yaitu gajah mada .
-passage 4 score = 0.0
-sentence 1: untuk menanggulangi ini , sriwijaya menerapkan bea cukai yang mahal bagi kapal-kapal yang berlabuh di pelabuhan-pelabuhannya , bahkan memaksa agar kapal-kapal asing berlabuh di pelabuhannya .
-sentence 2: tindakan sriwijaya ini ternyata tidak memberikan keuntungan bagi kerajaannya , justru sebaliknya .
-sentence 3: kapal-kapal asing mencoba menghindar untuk berlabuh di pelabuhan-pelabuhan sriwijaya .
-sentence 4: kemunduran sriwijaya diperburuk lagi oleh serangan kerajaan singosari dari jawa melalui ekspedisi pamalayu .
-sentence 5: dengan pamalayu , supremasi kerajaan singosari dapat diletakkan di bekas daerah pengaruh sriwijaya di sumatera .
-passage 7 score = 0.0
-sentence 1: peradaban hindu-buddha sangat berpengaruh pada pembentukan struktur masyarakat di nusantara .
-sentence 2: masyarakat yang hinduistis merupakan masyarakat dengan struktur yang hierarkis , artinya masyarakat yang mengenal kasta , yaitu kasta brahmana , ksatria , waisya , dan sudra .
-sentence 3: hubungan antarkasta ini bersifat vertikal yang sempit , artinya interaksi antar individu hanya terjadi pada kelompok kastanya sendiri .
-sentence 4: 2 .
-sentence 5: kondisi sosial budaya indonesia sebelum masuknya islam sebelum ditemukannya mesin yang menggerakkan kapal laut , pelayaran kapal-kapal lebih ditentukan oleh arus angin .
-passage 9 score = 0.0
-sentence 1: interaksi manusia melalui perdagangan di kota pelabuhan dapat menciptakan unit-unit kehidupan manusia .
-sentence 2: interaksi antara unit-unit akan membangun struktur sosial yang dinamik , sehingga akan menampakkan adanya suatu perubahan .
-sentence 3: masyarakat di kota pelabuhan merupakan masyarakat yang urban dan kosmopolit .
-sentence 4: terciptalah suatu tatanan masyarakat kota .
-sentence 5: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
-passage 10 score = 0.0
-sentence 1: interaksi tidak hanya terbatas pada pertukaran barang-barang ekonomi , akan tetapi terjadi pula interaksi budaya antarkelompok masyarakat .
-sentence 2: dengan demikian , kehidupan masyarakat di kota pelabuhan akan menciptakan suatu masyarakat yang terbuka .
-sentence 3: dalam masyarakat yang seperti ini , akan memudahkan masuknya unsur budaya dari luar .
-sentence 4: apabila unsur budaya itu mampu membangun suatu tatanan kehidupan yang mapan , maka akan menjelma menjadi suatu peradaban .
-sentence 5: sebelum kedatangan islam di wilayah nusantara , peradaban yang pernah muncul dan mampu membangun suatu struktur masyarakat yang mapan yaitu hindu-buddha .
-
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 13 score = 8.5
 sentence 1: selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan .
@@ -737,7 +682,7 @@ sentence 3: pada masa pemerintahannya bersama patih gajah mada , kerajaan majapa
 sentence 4: pemerintahan terlaksana secara teratur , baik di tingkat pusat ( ibu kota ) , tingkat menengah ( vasal ) , dan tingkat desa .
 sentence 5: sistem pemerintahan daerah ( tingkat menengah dan desa ) tidak berubah , sedangkan di tingkat pusat diatur sebagai berikut : a ) dewan saptap prabu , merupakan penasihat raja yang terdiri atas kerabat keraton dengan jabatan rakryan i hino , rakryan i halu , dan rakryan i sirikan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 18 score = 8.5
 sentence 1: dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya .
@@ -746,7 +691,7 @@ sentence 3: negara-negara tersebut dianggap sebagai mitreka satata ( negara saha
 sentence 4: hayam wuruk wafat pada tahun 1389 dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( 1389 – 1429 ) .
 sentence 5: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 13 score = 8.5
 sentence 1: selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan .
@@ -755,7 +700,7 @@ sentence 3: pada masa pemerintahannya bersama patih gajah mada , kerajaan majapa
 sentence 4: pemerintahan terlaksana secara teratur , baik di tingkat pusat ( ibu kota ) , tingkat menengah ( vasal ) , dan tingkat desa .
 sentence 5: sistem pemerintahan daerah ( tingkat menengah dan desa ) tidak berubah , sedangkan di tingkat pusat diatur sebagai berikut : a ) dewan saptap prabu , merupakan penasihat raja yang terdiri atas kerabat keraton dengan jabatan rakryan i hino , rakryan i halu , dan rakryan i sirikan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 18 score = 8.5
 sentence 1: dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya .
@@ -764,7 +709,25 @@ sentence 3: negara-negara tersebut dianggap sebagai mitreka satata ( negara saha
 sentence 4: hayam wuruk wafat pada tahun 1389 dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( 1389 – 1429 ) .
 sentence 5: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+passage 14 score = 8.5
+sentence 1: tetapi , serangan sriwijaya berikutnya dibantu raja wurawari pada tahun 1017 menghancurkan mataram yang saat itu dipimpin dharmawangsa .
+sentence 2: kerajaan mataram yang kedua berdiri kembali di jawa tengah pada abad ke-16 , kali ini telah beragama islam .
+sentence 3: 3 .
+sentence 4: penyebab runtuhnya kerajaan majapahit kemunduran majapahit berawal sejak wafatnya gajah mada pada tahun 1364 .
+sentence 5: hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+passage 14 score = 8.5
+sentence 1: tetapi , serangan sriwijaya berikutnya dibantu raja wurawari pada tahun 1017 menghancurkan mataram yang saat itu dipimpin dharmawangsa .
+sentence 2: kerajaan mataram yang kedua berdiri kembali di jawa tengah pada abad ke-16 , kali ini telah beragama islam .
+sentence 3: 3 .
+sentence 4: penyebab runtuhnya kerajaan majapahit kemunduran majapahit berawal sejak wafatnya gajah mada pada tahun 1364 .
+sentence 5: hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 19 score = 8.166666666666668
 sentence 1: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
@@ -773,7 +736,7 @@ sentence 3: pada akhirnya bhre wirabhumi kalah dan perang saudara tersebut menga
 sentence 4: setelah wikramawardhana meninggal ( 1429 ) takhtanya digantikan oleh suhita yang memerintah hingga 1447 .
 sentence 5: sampai dengan akhir abad ke-15 masih ada raja-raja yang memerintah sebagai keturunan majapahit , namun telah suram karena tidak ada persatuan dan kesatuan sehingga daerah-daerah jajahan satu demi satu melepaskan diri .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 26 score = 8.166666666666668
 sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
@@ -782,7 +745,7 @@ sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
 sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
 sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 27 score = 8.166666666666668
 sentence 1: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
@@ -791,7 +754,7 @@ sentence 3: wilayah kekuasaan majapahit meliputi seluruh nusantara .
 sentence 4: pada saat itulah cita-cita gajah mada dengan sumpah palapa berhasil diwujudkan .
 sentence 5: usaha gajah mada dalam melaksanakan politiknya , berakhir pada tahun 1357 dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 passage 29 score = 8.166666666666668
 sentence 1: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
@@ -799,24 +762,6 @@ sentence 2: pada tahun 1364 m , gajah mada meninggal dunia .
 sentence 3: hal itu merupakan kehilangan yang sangat besar bagi majapahit .
 sentence 4: kemudian pada tahun 1389 raja hayam wuruk meninggal dunia .
 sentence 5: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 30 score = 8.166666666666668
-sentence 1: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
-sentence 2: setelah hayam wuruk meninggal , takhta kerajaan majapahit diduduki oleh wikramawardhana .
-sentence 3: ia adalah menantu hayam wuruk yang menikah dengan putrinya yang bernama kusumawardhani .
-sentence 4: ia memerintah kerajaan majapahit selama dua belas tahun .
-sentence 5: pada tahun 1401 mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-passage 31 score = 8.166666666666668
-sentence 1: pada tahun 1401 mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
-sentence 2: bhre wirabhumi adalah anak hayam wuruk dari istri selirnya .
-sentence 3: kemudian meletuslah perang saudara , yang dikenal dengan nama perang paregreg , yang berhasil dimenangkan oleh wikramawardhana .
-sentence 4: tetapi , pertentangan antarkeluarga ini belum reda dan menimbulkan perasaan balas dendam .
-sentence 5: pada tahun 1429 m , wikramawardhana meninggal dunia .
 
 
 Pencarian jawaban
@@ -833,7 +778,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 13
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 1350 1389 | position = 3
@@ -959,7 +904,7 @@ hayam wuruk wafat pada <TIME>tahun 1389</TIME> dan digantikan oleh putrinya dyah
 
 memproses passage 18
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun 1389 | position = 3
@@ -1039,7 +984,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 13
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 1350 1389 | position = 3
@@ -1165,7 +1110,7 @@ hayam wuruk wafat pada <TIME>tahun 1389</TIME> dan digantikan oleh putrinya dyah
 
 memproses passage 18
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun 1389 | position = 3
@@ -1235,6 +1180,332 @@ hayam wuruk dengan <PERSON>isteri selir</PERSON> mempunyai anak bhre wirabhumi y
 tidak ada entitas jawaban, skip
 
 
+tetapi , serangan sriwijaya berikutnya dibantu raja wurawari pada <TIME>tahun 1017</TIME> menghancurkan mataram yang saat itu dipimpin dharmawangsa .
+
+memproses passage 14
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+list jawaban dan posisi dalam passage
+tahun 1017 | position = 6
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = wurawari
+tokenwithtagstemmed = tahun 1017
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = dharmawangsa
+kata kunci = wuruk
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = wurawari
+tokenwithtagstemmed = tahun 1017
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = dharmawangsa
+kata kunci = wafat
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = wurawari
+tokenwithtagstemmed = tahun 1017
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = dharmawangsa
+
+
+kerajaan mataram yang kedua berdiri kembali di jawa tengah pada <TIME>abad ke-16</TIME> , kali ini telah beragama islam .
+
+memproses passage 14
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+list jawaban dan posisi dalam passage
+abad 16 | position = 7
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = tengah
+tokenwithtagstemmed = abad 16
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+kata kunci = wuruk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = tengah
+tokenwithtagstemmed = abad 16
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+kata kunci = wafat
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = tengah
+tokenwithtagstemmed = abad 16
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+
+
+3 .
+
+
+tidak ada entitas jawaban, skip
+
+
+penyebab runtuhnya kerajaan majapahit kemunduran majapahit berawal sejak wafatnya gajah mada pada <TIME>tahun 1364</TIME> .
+
+memproses passage 14
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+list jawaban dan posisi dalam passage
+tahun 1364 | position = 10
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tahun 1364
+kata kunci = wuruk
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tahun 1364
+kata kunci = wafat
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = wafat
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1364 3
+
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tahun 1364
+
+
+hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
+
+
+tidak ada entitas jawaban, skip
+
+
+tetapi , serangan sriwijaya berikutnya dibantu raja wurawari pada <TIME>tahun 1017</TIME> menghancurkan mataram yang saat itu dipimpin dharmawangsa .
+
+memproses passage 14
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+list jawaban dan posisi dalam passage
+tahun 1017 | position = 6
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = wurawari
+tokenwithtagstemmed = tahun 1017
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = dharmawangsa
+kata kunci = wuruk
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = wurawari
+tokenwithtagstemmed = tahun 1017
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = dharmawangsa
+kata kunci = wafat
+tokenwithtagstemmed = serang
+tokenwithtagstemmed = sriwijaya
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = wurawari
+tokenwithtagstemmed = tahun 1017
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = dharmawangsa
+
+
+kerajaan mataram yang kedua berdiri kembali di jawa tengah pada <TIME>abad ke-16</TIME> , kali ini telah beragama islam .
+
+memproses passage 14
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+list jawaban dan posisi dalam passage
+abad 16 | position = 7
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = tengah
+tokenwithtagstemmed = abad 16
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+kata kunci = wuruk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = tengah
+tokenwithtagstemmed = abad 16
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+kata kunci = wafat
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = jawa
+tokenwithtagstemmed = tengah
+tokenwithtagstemmed = abad 16
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = islam
+
+
+3 .
+
+
+tidak ada entitas jawaban, skip
+
+
+penyebab runtuhnya kerajaan majapahit kemunduran majapahit berawal sejak wafatnya gajah mada pada <TIME>tahun 1364</TIME> .
+
+memproses passage 14
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+title : penyebab runtuhnya kerajaan hindu-buddha di indonesia
+list jawaban dan posisi dalam passage
+tahun 1364 | position = 10
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tahun 1364
+kata kunci = wuruk
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tahun 1364
+kata kunci = wafat
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = runtuh
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = awal
+tokenwithtagstemmed = wafat
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1364 3
+
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tahun 1364
+
+
+hayam wuruk tidak dapat memperoleh ganti yang secakap gajah mada .
+
+
+tidak ada entitas jawaban, skip
+
+
 hayam wuruk dengan <PERSON>isteri selir</PERSON> mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
 
 
@@ -1245,7 +1516,7 @@ akan tetapi , bhre wirabumi menuntut takhta majapahit sehingga menimbulkan peran
 
 memproses passage 19
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun1401 1406 | position = 10
@@ -1300,7 +1571,7 @@ setelah wikramawardhana meninggal ( <TIME>1429</TIME> ) takhtanya digantikan ole
 
 memproses passage 19
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 1429 | position = 2
@@ -1341,7 +1612,7 @@ sampai dengan akhir <TIME>abad ke-15</TIME> masih ada raja-raja yang memerintah 
 
 memproses passage 19
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 abad 15 | position = 1
@@ -1405,7 +1676,7 @@ dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada <TIME>ta
 
 memproses passage 26
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun 1334 | position = 8
@@ -1478,7 +1749,7 @@ tribhuanatunggadewi memerintah selama dua puluh dua <TIME>tahun .</TIME>
 
 memproses passage 26
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun | position = 5
@@ -1512,7 +1783,7 @@ pada <TIME>tahun 1350</TIME> , ia mengundurkan diri dari pemerintahan dan digant
 
 memproses passage 26
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun 1350 | position = 0
@@ -1560,7 +1831,7 @@ pada <TIME>tahun 1350</TIME> m , putra mahkota hayam wuruk dinobatkan menjadi ra
 
 memproses passage 26
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun 1350 | position = 0
@@ -1635,7 +1906,7 @@ pada <TIME>tahun 1350</TIME> m , putra mahkota hayam wuruk dinobatkan menjadi ra
 
 memproses passage 27
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun 1350 | position = 0
@@ -1710,7 +1981,7 @@ kerajaan majapahit mencapai puncak kejayaannya pada <TIME>masa pemerintahan haya
 
 memproses passage 27
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 masa pemerintahan hayam wuruk | position = 5
@@ -1756,7 +2027,7 @@ usaha gajah mada dalam melaksanakan politiknya , berakhir pada <TIME>tahun 1357<
 
 memproses passage 27
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun 1357 | position = 6
@@ -1817,7 +2088,7 @@ pada <TIME>tahun 1364</TIME> m , gajah mada meninggal dunia .
 
 memproses passage 29
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun 1364 | position = 0
@@ -1857,7 +2128,7 @@ kemudian pada <TIME>tahun 1389</TIME> raja hayam wuruk meninggal dunia .
 
 memproses passage 29
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 list jawaban dan posisi dalam passage
 tahun 1389 | position = 0
@@ -1900,181 +2171,6 @@ hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di sam
 
 tidak ada entitas jawaban, skip
 
-
-hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
-
-
-tidak ada entitas jawaban, skip
-
-
-setelah hayam wuruk meninggal , takhta kerajaan majapahit diduduki oleh <PERSON>wikramawardhana .</PERSON>
-
-
-tidak ada entitas jawaban, skip
-
-
-ia adalah menantu hayam wuruk yang menikah dengan putrinya yang bernama kusumawardhani .
-
-
-tidak ada entitas jawaban, skip
-
-
-ia memerintah kerajaan majapahit selama dua belas <TIME>tahun .</TIME>
-
-memproses passage 30
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-tahun | position = 5
-
-
-melakukan pencarian:
-kata kunci = hayam
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = dua
-tokenwithtagstemmed = belas
-tokenwithtagstemmed = tahun
-kata kunci = wuruk
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = dua
-tokenwithtagstemmed = belas
-tokenwithtagstemmed = tahun
-kata kunci = wafat
-tokenwithtagstemmed = perintah
-tokenwithtagstemmed = raja
-tokenwithtagstemmed = majapahit
-tokenwithtagstemmed = dua
-tokenwithtagstemmed = belas
-tokenwithtagstemmed = tahun
-
-
-pada <TIME>tahun 1401</TIME> mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
-
-memproses passage 30
-sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-tahun 1401 | position = 0
-
-
-melakukan pencarian:
-kata kunci = hayam
-tokenwithtagstemmed = tahun 1401
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = sengketa
-tokenwithtagstemmed = wikramawardhana
-tokenwithtagstemmed = bhre
-tokenwithtagstemmed = wirabhumi
-kata kunci = wuruk
-tokenwithtagstemmed = tahun 1401
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = sengketa
-tokenwithtagstemmed = wikramawardhana
-tokenwithtagstemmed = bhre
-tokenwithtagstemmed = wirabhumi
-kata kunci = wafat
-tokenwithtagstemmed = tahun 1401
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = sengketa
-tokenwithtagstemmed = wikramawardhana
-tokenwithtagstemmed = bhre
-tokenwithtagstemmed = wirabhumi
-
-
-pada <TIME>tahun 1401</TIME> mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
-
-memproses passage 31
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-tahun 1401 | position = 0
-
-
-melakukan pencarian:
-kata kunci = hayam
-tokenwithtagstemmed = tahun 1401
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = sengketa
-tokenwithtagstemmed = wikramawardhana
-tokenwithtagstemmed = bhre
-tokenwithtagstemmed = wirabhumi
-kata kunci = wuruk
-tokenwithtagstemmed = tahun 1401
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = sengketa
-tokenwithtagstemmed = wikramawardhana
-tokenwithtagstemmed = bhre
-tokenwithtagstemmed = wirabhumi
-kata kunci = wafat
-tokenwithtagstemmed = tahun 1401
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = sengketa
-tokenwithtagstemmed = wikramawardhana
-tokenwithtagstemmed = bhre
-tokenwithtagstemmed = wirabhumi
-
-
-bhre wirabhumi adalah anak hayam wuruk dari istri selirnya .
-
-
-tidak ada entitas jawaban, skip
-
-
-kemudian meletuslah perang saudara , yang dikenal dengan nama perang paregreg , yang berhasil dimenangkan oleh <PERSON>wikramawardhana .</PERSON>
-
-
-tidak ada entitas jawaban, skip
-
-
-tetapi , pertentangan antarkeluarga ini belum reda dan menimbulkan perasaan balas dendam .
-
-
-tidak ada entitas jawaban, skip
-
-
-pada <TIME>tahun 1429</TIME> m , wikramawardhana meninggal dunia .
-
-memproses passage 31
-sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
-list jawaban dan posisi dalam passage
-tahun 1429 | position = 0
-
-
-melakukan pencarian:
-kata kunci = hayam
-tokenwithtagstemmed = tahun 1429
-tokenwithtagstemmed = m
-tokenwithtagstemmed = wikramawardhana
-tokenwithtagstemmed = tinggal
-tokenwithtagstemmed = dunia
-kata kunci = wuruk
-tokenwithtagstemmed = tahun 1429
-tokenwithtagstemmed = m
-tokenwithtagstemmed = wikramawardhana
-tokenwithtagstemmed = tinggal
-tokenwithtagstemmed = dunia
-kata kunci = wafat
-tokenwithtagstemmed = tahun 1429
-tokenwithtagstemmed = m
-tokenwithtagstemmed = wikramawardhana
-tokenwithtagstemmed = tinggal
-tokenwithtagstemmed = dunia
-
 Pengurutan kandidat jawaban
 this.answer = 1350 1389
 passage rank = 1
@@ -2083,7 +2179,7 @@ doc rank = 1
 total Score = 3
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1389
@@ -2093,7 +2189,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = 1350 1389
@@ -2103,7 +2199,7 @@ doc rank = 2
 total Score = 6
 frequency = 1
 order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1389
@@ -2113,7 +2209,7 @@ doc rank = 2
 total Score = 7
 frequency = 1
 order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = 1350 1389
@@ -2123,7 +2219,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1350
@@ -2133,7 +2229,7 @@ doc rank = 1
 total Score = 4
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1389
@@ -2143,7 +2239,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = 1350 1389
@@ -2153,7 +2249,7 @@ doc rank = 2
 total Score = 7
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1350
@@ -2163,7 +2259,7 @@ doc rank = 2
 total Score = 7
 frequency = 1
 order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1389
@@ -2173,7 +2269,7 @@ doc rank = 2
 total Score = 8
 frequency = 1
 order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1350
@@ -2183,7 +2279,7 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1389
@@ -2193,7 +2289,7 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1350
@@ -2203,7 +2299,7 @@ doc rank = 2
 total Score = 8
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = tahun 1389
@@ -2213,8 +2309,28 @@ doc rank = 2
 total Score = 9
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+
+this.answer = tahun 1364
+passage rank = 5
+distance = 3
+doc rank = 4
+total Score = 12
+frequency = 1
+order process = 21
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+document Title = penyebab runtuhnya kerajaan hindu-buddha di indonesia
+
+this.answer = tahun 1364
+passage rank = 6
+distance = 3
+doc rank = 5
+total Score = 14
+frequency = 1
+order process = 22
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+document Title = penyebab runtuhnya kerajaan hindu-buddha di indonesia
 
 this.answer = 1389 1429
 passage rank = 2
@@ -2223,7 +2339,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = 1389 1429
@@ -2233,7 +2349,7 @@ doc rank = 2
 total Score = 15
 frequency = 1
 order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = 1389 1429
@@ -2243,7 +2359,7 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = 1389 1429
@@ -2253,7 +2369,7 @@ doc rank = 2
 total Score = 16
 frequency = 1
 order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = 1389 1429
@@ -2263,7 +2379,7 @@ doc rank = 1
 total Score = 14
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 this.answer = 1389 1429
@@ -2273,7 +2389,7 @@ doc rank = 2
 total Score = 17
 frequency = 1
 order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
 document Title = sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
 
 

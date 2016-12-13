@@ -1,109 +1,109 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok141.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok70.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok139.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok68.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok232.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok246.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok162.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok267.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok308.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok208.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok6.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok77.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok127.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok56.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok105.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok34.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok220.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok107.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok36.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok350.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok284.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok359.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok372.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok100.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok29.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok251.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok106.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok35.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok381.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok214.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok218.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok20.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok91.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok144.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok341.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok185.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok375.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok137.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok66.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok246.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok154.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok5.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok76.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok330.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok208.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok12.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok83.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok391.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok13.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok84.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok333.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok375.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok180.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok382.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok27.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok98.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok239.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok237.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok313.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok137.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok254.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok355.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok387.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok66.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok295.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok344.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok233.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok304.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok117.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok152.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok282.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok340.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok358.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok361.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok392.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok46.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok115.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok44.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok120.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
 
 
 query token : 
 indische partij diri 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 17 score = 8.166666666666668
 sentence 1: oleh karena kegiatannya sangat mencemaskan pemerintah belanda maka pada bulan agustus 1913 ketiga pemimpin indische partij dijatuhi hukuman pengasingan dan mereka memilih negeri belanda sebagai tempat pengasingannya .
@@ -166,7 +166,7 @@ sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai s
 sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
 sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 17 score = 8.166666666666668
 sentence 1: oleh karena kegiatannya sangat mencemaskan pemerintah belanda maka pada bulan agustus 1913 ketiga pemimpin indische partij dijatuhi hukuman pengasingan dan mereka memilih negeri belanda sebagai tempat pengasingannya .
@@ -229,7 +229,97 @@ sentence 3: gerakan pemuda gerakan pemuda indonesia , sebenarnya telah dimulai s
 sentence 4: baru beberapa tahun kemudian , tepatnya pada tanggal 7 maret 1915 di batavia berdiri trikoro dharmo oleh r. satiman wiryosanjoyo , kadarman , dan sunardi .
 sentence 5: trikoro dharmo yang diketui oleh r. satiman wiryosanjoyo merupakan oeganisasi pemuda yang pertama yang anggotanya terdiri atas para siswa sekolah menengah berasal dari jawa dan madura .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
+passage 1 score = 8.5
+sentence 1: asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh mahasiswa-mahasiswa indonesia yang sedang belajar di negeri belanda pada tahun 1908 .
+sentence 2: mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
+sentence 3: pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri belanda .
+sentence 4: kedatangan tiga tokoh indische partij di negeri belanda tahun 1913 ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
+sentence 5: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
+passage 2 score = 7.833333333333333
+sentence 1: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
+sentence 2: hal ini semakin mempengaruhi perkembangan indische vereeniging , semangat nasionalisme semakin kuat sehingga sifat organisasi sosial beralih ke organisasi politik .
+sentence 3: mereka tidak hanya sekadar menuntut ilmu , tetapi juga berjuang memikirkan nasib bangsanya .
+sentence 4: pada tahun 1922 , nama indische vereeniging diubah menjadi indonesische vereeniging , dan pada tahun 1925 menjadi perhimpunan indonesia .
+sentence 5: majalah mereka yang terbit sejak tahun 1916 dengan nama hindia putra berubah nama menjadi indonesia merdeka ( 1924 ) .
+passage 7 score = 7.833333333333333
+sentence 1: atas tuduhan menghasut untuk memberontak terhadap pemerintah maka pada pada tanggal 10 september 1927 ke empat tokoh perhimpunan indonesia , yaitu moh .
+sentence 2: hatta , nasir datuk pamuncak , abdulmajid joyodiningrat , dan ali sastroamijoyo ditangkap dan diadili .
+sentence 3: di dalam pemeriksaan sidang pengadilan di den haag pada bulan maret 1928 , mereka terbukti tidak bersalah sehingga dibebaskan .
+sentence 4: namun , gerakan perhimpunan indonesia terus diawasi dengan ketat .
+sentence 5: di tanah air pengaruh perhimpunan indonesia sangat kuat , dan berdasarkan ilham dari perjuangan perhimpunan indonesia , maka berdirilah perhimpunan pelajar-pelajar indonesia ( pppi ) tahun 1926 , partai nasional indonesia ( pni ) tahun 1927 , dan jong indonesia ( pemuda indonesia ) tahun 1928 .
+passage 3 score = 6.5
+sentence 1: majalah mereka yang terbit sejak tahun 1916 dengan nama hindia putra berubah nama menjadi indonesia merdeka ( 1924 ) .
+sentence 2: dengan perubahan itu maka terjadi pula perubahan dasar pemikiran dan orientasi pergerakan mereka .
+sentence 3: gerakan mereka menjadi radikal dan dengan tegas menginginkan indonesia merdeka .
+sentence 4: untuk mempertegas dasar perjuangannya , pada tahun 1925 perhimpunan indonesia mengeluarkan anggaran dasarnya sebagai berikut .
+sentence 5: 1 .
+passage 6 score = 6.5
+sentence 1: selain itu , mengadakan hubungan dengan organisasi internasional .
+sentence 2: itulah sebabnya perhimpunan indonesia juga bekerja sama dengan perhimpunan-perhimpunan dan tokoh-tokoh pemuda serta mahasiswa yang berasal dari negara-negara jajahan di asia dan afrika yang mempunyai cita-cita yang sama dengan indonesia .
+sentence 3: untuk mendapatkan perhatian dunia dan mencari dukungan perjuangan indonesia maka perhimpunan indonesia ikut serta dalam organisasi internasional , seperti liga demokrasi internasional di paris ( 1926 ) , liga penentang imperialis dan kolonialisme di brusel ( 1927 ) , kongres wanita internasional di swiss ( 1927 ) , dan liga komintern di berlin ( 1927 ) .
+sentence 4: aktivitas perhimpunan indonesia di eropa dan pengaruhnya yang makin kuat di indonesia mulai dicurigai oleh pemerintah kolonial belanda .
+sentence 5: atas tuduhan menghasut untuk memberontak terhadap pemerintah maka pada pada tanggal 10 september 1927 ke empat tokoh perhimpunan indonesia , yaitu moh .
+passage 4 score = 1.0
+sentence 1: 1 .
+sentence 2: perhimpunan indonesia akan berjuang untuk memperoleh suatu pemerintahan untuk indonesia yang hanya bertanggung jawab kepada rakyat indonesia .
+sentence 3: 2 .
+sentence 4: kemerdekaan penuh bagi indonesia akan dicapai dengan aksi bersama dan serentak oleh rakyat indonesia .
+sentence 5: 3 .
+passage 5 score = 1.0
+sentence 1: 3 .
+sentence 2: untuk itu sangat diperlukan persatuan nasional yang murni di antara seluruh rakyat indonesia dalam menentang penjajahan belanda yang telah merusak kehidupan bangsa indonesia .
+sentence 3: sejak itu tindakannya meningkat , di samping bersifat nasional-demokratis juga menjadi antikolonial .
+sentence 4: untuk itu dasar perjuangannya disebarluaskan dan dipropagandakan , yakni mengadakan hubungan dengan pergerakan nasional yang ada di indoensia , baik langsung maupun tidak langsung .
+sentence 5: selain itu , mengadakan hubungan dengan organisasi internasional .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
+passage 1 score = 8.5
+sentence 1: asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh mahasiswa-mahasiswa indonesia yang sedang belajar di negeri belanda pada tahun 1908 .
+sentence 2: mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
+sentence 3: pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri belanda .
+sentence 4: kedatangan tiga tokoh indische partij di negeri belanda tahun 1913 ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
+sentence 5: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
+passage 2 score = 7.833333333333333
+sentence 1: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
+sentence 2: hal ini semakin mempengaruhi perkembangan indische vereeniging , semangat nasionalisme semakin kuat sehingga sifat organisasi sosial beralih ke organisasi politik .
+sentence 3: mereka tidak hanya sekadar menuntut ilmu , tetapi juga berjuang memikirkan nasib bangsanya .
+sentence 4: pada tahun 1922 , nama indische vereeniging diubah menjadi indonesische vereeniging , dan pada tahun 1925 menjadi perhimpunan indonesia .
+sentence 5: majalah mereka yang terbit sejak tahun 1916 dengan nama hindia putra berubah nama menjadi indonesia merdeka ( 1924 ) .
+passage 7 score = 7.833333333333333
+sentence 1: atas tuduhan menghasut untuk memberontak terhadap pemerintah maka pada pada tanggal 10 september 1927 ke empat tokoh perhimpunan indonesia , yaitu moh .
+sentence 2: hatta , nasir datuk pamuncak , abdulmajid joyodiningrat , dan ali sastroamijoyo ditangkap dan diadili .
+sentence 3: di dalam pemeriksaan sidang pengadilan di den haag pada bulan maret 1928 , mereka terbukti tidak bersalah sehingga dibebaskan .
+sentence 4: namun , gerakan perhimpunan indonesia terus diawasi dengan ketat .
+sentence 5: di tanah air pengaruh perhimpunan indonesia sangat kuat , dan berdasarkan ilham dari perjuangan perhimpunan indonesia , maka berdirilah perhimpunan pelajar-pelajar indonesia ( pppi ) tahun 1926 , partai nasional indonesia ( pni ) tahun 1927 , dan jong indonesia ( pemuda indonesia ) tahun 1928 .
+passage 3 score = 6.5
+sentence 1: majalah mereka yang terbit sejak tahun 1916 dengan nama hindia putra berubah nama menjadi indonesia merdeka ( 1924 ) .
+sentence 2: dengan perubahan itu maka terjadi pula perubahan dasar pemikiran dan orientasi pergerakan mereka .
+sentence 3: gerakan mereka menjadi radikal dan dengan tegas menginginkan indonesia merdeka .
+sentence 4: untuk mempertegas dasar perjuangannya , pada tahun 1925 perhimpunan indonesia mengeluarkan anggaran dasarnya sebagai berikut .
+sentence 5: 1 .
+passage 6 score = 6.5
+sentence 1: selain itu , mengadakan hubungan dengan organisasi internasional .
+sentence 2: itulah sebabnya perhimpunan indonesia juga bekerja sama dengan perhimpunan-perhimpunan dan tokoh-tokoh pemuda serta mahasiswa yang berasal dari negara-negara jajahan di asia dan afrika yang mempunyai cita-cita yang sama dengan indonesia .
+sentence 3: untuk mendapatkan perhatian dunia dan mencari dukungan perjuangan indonesia maka perhimpunan indonesia ikut serta dalam organisasi internasional , seperti liga demokrasi internasional di paris ( 1926 ) , liga penentang imperialis dan kolonialisme di brusel ( 1927 ) , kongres wanita internasional di swiss ( 1927 ) , dan liga komintern di berlin ( 1927 ) .
+sentence 4: aktivitas perhimpunan indonesia di eropa dan pengaruhnya yang makin kuat di indonesia mulai dicurigai oleh pemerintah kolonial belanda .
+sentence 5: atas tuduhan menghasut untuk memberontak terhadap pemerintah maka pada pada tanggal 10 september 1927 ke empat tokoh perhimpunan indonesia , yaitu moh .
+passage 4 score = 1.0
+sentence 1: 1 .
+sentence 2: perhimpunan indonesia akan berjuang untuk memperoleh suatu pemerintahan untuk indonesia yang hanya bertanggung jawab kepada rakyat indonesia .
+sentence 3: 2 .
+sentence 4: kemerdekaan penuh bagi indonesia akan dicapai dengan aksi bersama dan serentak oleh rakyat indonesia .
+sentence 5: 3 .
+passage 5 score = 1.0
+sentence 1: 3 .
+sentence 2: untuk itu sangat diperlukan persatuan nasional yang murni di antara seluruh rakyat indonesia dalam menentang penjajahan belanda yang telah merusak kehidupan bangsa indonesia .
+sentence 3: sejak itu tindakannya meningkat , di samping bersifat nasional-demokratis juga menjadi antikolonial .
+sentence 4: untuk itu dasar perjuangannya disebarluaskan dan dipropagandakan , yakni mengadakan hubungan dengan pergerakan nasional yang ada di indoensia , baik langsung maupun tidak langsung .
+sentence 5: selain itu , mengadakan hubungan dengan organisasi internasional .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 passage 3 score = 8.5
 sentence 1: pembubaran organisasi ini dipicu oleh tulisan indische partij yang mengkritik perayaan kemerdekaan belanda dari spanyol di negeri jajahan yang belum merdeka , yaitu indonesia .
@@ -292,97 +382,73 @@ sentence 3: akibat pemberontakan yang dilakukan oleh pki membawa dampak negative
 sentence 4: dengan demikian , pergerakan nasional mengalami kemunduran .
 sentence 5: partai nasional indonesia ( pni ) didirikan oleh ir .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok141.txt
-title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
-passage 1 score = 8.5
-sentence 1: asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh mahasiswa-mahasiswa indonesia yang sedang belajar di negeri belanda pada tahun 1908 .
-sentence 2: mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
-sentence 3: pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri belanda .
-sentence 4: kedatangan tiga tokoh indische partij di negeri belanda tahun 1913 ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
-sentence 5: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
-passage 2 score = 7.833333333333333
-sentence 1: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
-sentence 2: hal ini semakin mempengaruhi perkembangan indische vereeniging , semangat nasionalisme semakin kuat sehingga sifat organisasi sosial beralih ke organisasi politik .
-sentence 3: mereka tidak hanya sekadar menuntut ilmu , tetapi juga berjuang memikirkan nasib bangsanya .
-sentence 4: pada tahun 1922 , nama indische vereeniging diubah menjadi indonesische vereeniging , dan pada tahun 1925 menjadi perhimpunan indonesia .
-sentence 5: majalah mereka yang terbit sejak tahun 1916 dengan nama hindia putra berubah nama menjadi indonesia merdeka ( 1924 ) .
-passage 7 score = 7.833333333333333
-sentence 1: atas tuduhan menghasut untuk memberontak terhadap pemerintah maka pada pada tanggal 10 september 1927 ke empat tokoh perhimpunan indonesia , yaitu moh .
-sentence 2: hatta , nasir datuk pamuncak , abdulmajid joyodiningrat , dan ali sastroamijoyo ditangkap dan diadili .
-sentence 3: di dalam pemeriksaan sidang pengadilan di den haag pada bulan maret 1928 , mereka terbukti tidak bersalah sehingga dibebaskan .
-sentence 4: namun , gerakan perhimpunan indonesia terus diawasi dengan ketat .
-sentence 5: di tanah air pengaruh perhimpunan indonesia sangat kuat , dan berdasarkan ilham dari perjuangan perhimpunan indonesia , maka berdirilah perhimpunan pelajar-pelajar indonesia ( pppi ) tahun 1926 , partai nasional indonesia ( pni ) tahun 1927 , dan jong indonesia ( pemuda indonesia ) tahun 1928 .
-passage 3 score = 6.5
-sentence 1: majalah mereka yang terbit sejak tahun 1916 dengan nama hindia putra berubah nama menjadi indonesia merdeka ( 1924 ) .
-sentence 2: dengan perubahan itu maka terjadi pula perubahan dasar pemikiran dan orientasi pergerakan mereka .
-sentence 3: gerakan mereka menjadi radikal dan dengan tegas menginginkan indonesia merdeka .
-sentence 4: untuk mempertegas dasar perjuangannya , pada tahun 1925 perhimpunan indonesia mengeluarkan anggaran dasarnya sebagai berikut .
-sentence 5: 1 .
-passage 6 score = 6.5
-sentence 1: selain itu , mengadakan hubungan dengan organisasi internasional .
-sentence 2: itulah sebabnya perhimpunan indonesia juga bekerja sama dengan perhimpunan-perhimpunan dan tokoh-tokoh pemuda serta mahasiswa yang berasal dari negara-negara jajahan di asia dan afrika yang mempunyai cita-cita yang sama dengan indonesia .
-sentence 3: untuk mendapatkan perhatian dunia dan mencari dukungan perjuangan indonesia maka perhimpunan indonesia ikut serta dalam organisasi internasional , seperti liga demokrasi internasional di paris ( 1926 ) , liga penentang imperialis dan kolonialisme di brusel ( 1927 ) , kongres wanita internasional di swiss ( 1927 ) , dan liga komintern di berlin ( 1927 ) .
-sentence 4: aktivitas perhimpunan indonesia di eropa dan pengaruhnya yang makin kuat di indonesia mulai dicurigai oleh pemerintah kolonial belanda .
-sentence 5: atas tuduhan menghasut untuk memberontak terhadap pemerintah maka pada pada tanggal 10 september 1927 ke empat tokoh perhimpunan indonesia , yaitu moh .
-passage 4 score = 1.0
-sentence 1: 1 .
-sentence 2: perhimpunan indonesia akan berjuang untuk memperoleh suatu pemerintahan untuk indonesia yang hanya bertanggung jawab kepada rakyat indonesia .
-sentence 3: 2 .
-sentence 4: kemerdekaan penuh bagi indonesia akan dicapai dengan aksi bersama dan serentak oleh rakyat indonesia .
-sentence 5: 3 .
-passage 5 score = 1.0
-sentence 1: 3 .
-sentence 2: untuk itu sangat diperlukan persatuan nasional yang murni di antara seluruh rakyat indonesia dalam menentang penjajahan belanda yang telah merusak kehidupan bangsa indonesia .
-sentence 3: sejak itu tindakannya meningkat , di samping bersifat nasional-demokratis juga menjadi antikolonial .
-sentence 4: untuk itu dasar perjuangannya disebarluaskan dan dipropagandakan , yakni mengadakan hubungan dengan pergerakan nasional yang ada di indoensia , baik langsung maupun tidak langsung .
-sentence 5: selain itu , mengadakan hubungan dengan organisasi internasional .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 3 score = 7.0
+sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
+sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
+sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
+sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+passage 2 score = 5.833333333333333
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+passage 5 score = 5.5
+sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
+sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
+sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
+sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
+passage 1 score = 5.333333333333333
+sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
+sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
+sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
+sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
+sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+passage 4 score = 1.3333333333333333
+sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
+sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
+sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
+sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok70.txt
-title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
-passage 1 score = 8.5
-sentence 1: asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh mahasiswa-mahasiswa indonesia yang sedang belajar di negeri belanda pada tahun 1908 .
-sentence 2: mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
-sentence 3: pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri belanda .
-sentence 4: kedatangan tiga tokoh indische partij di negeri belanda tahun 1913 ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
-sentence 5: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
-passage 2 score = 7.833333333333333
-sentence 1: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
-sentence 2: hal ini semakin mempengaruhi perkembangan indische vereeniging , semangat nasionalisme semakin kuat sehingga sifat organisasi sosial beralih ke organisasi politik .
-sentence 3: mereka tidak hanya sekadar menuntut ilmu , tetapi juga berjuang memikirkan nasib bangsanya .
-sentence 4: pada tahun 1922 , nama indische vereeniging diubah menjadi indonesische vereeniging , dan pada tahun 1925 menjadi perhimpunan indonesia .
-sentence 5: majalah mereka yang terbit sejak tahun 1916 dengan nama hindia putra berubah nama menjadi indonesia merdeka ( 1924 ) .
-passage 7 score = 7.833333333333333
-sentence 1: atas tuduhan menghasut untuk memberontak terhadap pemerintah maka pada pada tanggal 10 september 1927 ke empat tokoh perhimpunan indonesia , yaitu moh .
-sentence 2: hatta , nasir datuk pamuncak , abdulmajid joyodiningrat , dan ali sastroamijoyo ditangkap dan diadili .
-sentence 3: di dalam pemeriksaan sidang pengadilan di den haag pada bulan maret 1928 , mereka terbukti tidak bersalah sehingga dibebaskan .
-sentence 4: namun , gerakan perhimpunan indonesia terus diawasi dengan ketat .
-sentence 5: di tanah air pengaruh perhimpunan indonesia sangat kuat , dan berdasarkan ilham dari perjuangan perhimpunan indonesia , maka berdirilah perhimpunan pelajar-pelajar indonesia ( pppi ) tahun 1926 , partai nasional indonesia ( pni ) tahun 1927 , dan jong indonesia ( pemuda indonesia ) tahun 1928 .
-passage 3 score = 6.5
-sentence 1: majalah mereka yang terbit sejak tahun 1916 dengan nama hindia putra berubah nama menjadi indonesia merdeka ( 1924 ) .
-sentence 2: dengan perubahan itu maka terjadi pula perubahan dasar pemikiran dan orientasi pergerakan mereka .
-sentence 3: gerakan mereka menjadi radikal dan dengan tegas menginginkan indonesia merdeka .
-sentence 4: untuk mempertegas dasar perjuangannya , pada tahun 1925 perhimpunan indonesia mengeluarkan anggaran dasarnya sebagai berikut .
-sentence 5: 1 .
-passage 6 score = 6.5
-sentence 1: selain itu , mengadakan hubungan dengan organisasi internasional .
-sentence 2: itulah sebabnya perhimpunan indonesia juga bekerja sama dengan perhimpunan-perhimpunan dan tokoh-tokoh pemuda serta mahasiswa yang berasal dari negara-negara jajahan di asia dan afrika yang mempunyai cita-cita yang sama dengan indonesia .
-sentence 3: untuk mendapatkan perhatian dunia dan mencari dukungan perjuangan indonesia maka perhimpunan indonesia ikut serta dalam organisasi internasional , seperti liga demokrasi internasional di paris ( 1926 ) , liga penentang imperialis dan kolonialisme di brusel ( 1927 ) , kongres wanita internasional di swiss ( 1927 ) , dan liga komintern di berlin ( 1927 ) .
-sentence 4: aktivitas perhimpunan indonesia di eropa dan pengaruhnya yang makin kuat di indonesia mulai dicurigai oleh pemerintah kolonial belanda .
-sentence 5: atas tuduhan menghasut untuk memberontak terhadap pemerintah maka pada pada tanggal 10 september 1927 ke empat tokoh perhimpunan indonesia , yaitu moh .
-passage 4 score = 1.0
-sentence 1: 1 .
-sentence 2: perhimpunan indonesia akan berjuang untuk memperoleh suatu pemerintahan untuk indonesia yang hanya bertanggung jawab kepada rakyat indonesia .
-sentence 3: 2 .
-sentence 4: kemerdekaan penuh bagi indonesia akan dicapai dengan aksi bersama dan serentak oleh rakyat indonesia .
-sentence 5: 3 .
-passage 5 score = 1.0
-sentence 1: 3 .
-sentence 2: untuk itu sangat diperlukan persatuan nasional yang murni di antara seluruh rakyat indonesia dalam menentang penjajahan belanda yang telah merusak kehidupan bangsa indonesia .
-sentence 3: sejak itu tindakannya meningkat , di samping bersifat nasional-demokratis juga menjadi antikolonial .
-sentence 4: untuk itu dasar perjuangannya disebarluaskan dan dipropagandakan , yakni mengadakan hubungan dengan pergerakan nasional yang ada di indoensia , baik langsung maupun tidak langsung .
-sentence 5: selain itu , mengadakan hubungan dengan organisasi internasional .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 3 score = 7.0
+sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
+sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
+sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
+sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+passage 2 score = 5.833333333333333
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+passage 5 score = 5.5
+sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
+sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
+sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
+sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
+passage 1 score = 5.333333333333333
+sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
+sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
+sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
+sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
+sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+passage 4 score = 1.3333333333333333
+sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
+sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
+sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
+sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
 title : ir soekarno bapak proklamator republik indonesia
 passage 4 score = 7.5
 sentence 1: di surabaya , soekarno banyak bertemu dengan para pemimpin sarekat islam , organisasi yang dipimpin tjokroaminoto saat itu .
@@ -430,70 +496,7 @@ passage 8 score = 0.0
 sentence 1: dan akhirnya tokoh-tokoh nasional bekerjasama dengan pemerintah pendudukan jepang untuk mencapai kemerdekaan indonesia , meski ada pula yang melakukan gerakan bawah tanah seperti sutan syahrir dan amir sjarifuddin karena menganggap jepang adalah fasis yang berbahaya .
 sentence 2: [ gs ]
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-passage 24 score = 7.5
-sentence 1: gerakan turki muda memberikan pengaruh politis bagi pergerakan bangsa indonesia sebab mengarah pada pembaruan-pembaruan dan modernisasi .
-sentence 2: b. perkembangan pergerakan nasional masa pergerakan nasional di indonesia ditandai dengan berdirinya organisasi-organisasi pergerakan .
-sentence 3: masa pergerakan nasional ( 1908 - 1942 ) , dibagi dalam tiga tahap berikut .
-sentence 4: 1 .
-sentence 5: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
-passage 25 score = 7.5
-sentence 1: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
-sentence 2: 2 .
-sentence 3: masa radikal/nonkooperasi ( 1920 - 1930 ) , berdiri organisasi seperti partai komunis indonesia ( pki ) , perhimpunan indonesia ( pi ) , dan partai nasional indonesia ( pni ) .
-sentence 4: 3 .
-sentence 5: masa moderat/kooperasi ( 1930 - 1942 ) , berdiri organisasi seperti parindra , partindo , dan gapi .
-passage 49 score = 7.166666666666667
-sentence 1: , berisi tentang kekhawatiran , kekuatan , dan ketakutan .
-sentence 2: dr. tjipto pun ditangkap , yang membuat rekan dalam tiga serangkai , e.f.e. douwes dekker turut mengkritik dalam tulisannya di de express tanggal 5 agustus 1913 yang berjudul onze helden : tjipto mangoenkoesoemo en soewardi soerjaningrat , pahlawan kita : tjipto mangoenkoesoemo dan soewardi soerjaningrat .
-sentence 3: kecaman-kecaman yang menentang pemerintah belanda menyebabkan ketiga tokoh dari indische partij ditangkap .
-sentence 4: pada tahun 1913 mereka diasingkan ke belanda .
-sentence 5: namun pada tahun 1914 cipto mangunkusumo dikembalikan ke indonesia karena sakit .
-passage 53 score = 7.166666666666667
-sentence 1: perasaan anti-kolonialisme semakin menonjol setelah ada seruan presiden amerika serikat woodrow wilson tentang kebebasan dalam menentukan nasib sendiri pada negara-negara terjajah ( the right of self determination ) .
-sentence 2: dalam upaya berkiprah lebih jauh , organisasi ini memiliki media komunikasi yang berupa majalah hindia poetra .
-sentence 3: pada rapat umum bulan januari 1923 , iwa kusumasumantri sebagai ketua baru memberi penjelasan bahwa organisasi yang sudah dibenahi ini mempunyai tiga asas pokok yang disebut juga manifesto politik , yaitu : a. indonesia ingin menentukan nasib sendiri , b. agar dapat menentukan nasib sendiri , bangsa indonesia harus mengandalkan kekuatan dan kemampuan sendiri , dan c. dengan tujuan melawan belanda bangsa indonesia harus bersatu .
-sentence 4: kegiatan indische vereeniging semakin tegas dan radikal , dan telah berkembang ke arah politik .
-sentence 5: sejalan dengan semakin meluasnya pemakaian nama indonesische , dirasa perlu untuk mengubah nama organisasi menjadi indonesische vereeniging pada tahun 1924 .
-passage 58 score = 7.166666666666667
-sentence 1: partai komunis indonesia ( pki ) partai komunis indonesia ( pki ) secara resmi berdiri pada tanggal 23 mei 1920 .
-sentence 2: berdirinya pki tidak terlepas dari ajaran marxis yang dibawa oleh sneevliet .
-sentence 3: ia bersama teman-temannya seperti brandsteder , h.w dekker , dan p. bergsma , mendirikan indische social democratische vereeniging ( isdv ) di semarang pada tanggal 4 mei 1914 .
-sentence 4: tokoh-tokoh indonesia yang bergabung dalam isdv antara lain darsono , semaun , alimin , dan lain-lain .
-sentence 5: pki terus berupaya mendapatkan pengaruh dalam masyarakat .
-passage 44 score = 7.0
-sentence 1: 3 .
-sentence 2: indische partij ( ip ) ip didirikan pada tanggal 25 desember 1912 di bandung oleh tokoh tiga serangkai , yaitu e.f.e douwes dekker , dr. cipto mangunkusumo , dan suwardi suryaningrat .
-sentence 3: pendirian ip ini dimaksudkan untuk mengganti indische bond yang merupakan organisasi orang-orang indo dan eropa di indonesia .
-sentence 4: hal ini disebabkan adanya keganjilan-keganjilan yang terjadi ( diskriminasi ) khususnya antara keturunan belanda totok dengan orang belanda campuran ( indo ) .
-sentence 5: ip sebagai organisasi campuran menginginkan adanya kerja sama orang indo dan bumi putera .
-passage 20 score = 6.833333333333333
-sentence 1: dalam perjalanan sejarah filipina muncul sosok tokoh yang bernama jose rizal yang merintis pergerakan nasional dengan mendirikan liga filipina .
-sentence 2: pada tahun 1892 jose rizal melakukan perlawanan bawah tanah terhadap penindasan spanyol .
-sentence 3: tujuan yang ingin dicapai adalah bagaimana membangkitkan nasionalisme filipina dalam menghadapi penjajahan spanyol .
-sentence 4: dalam perjuangannya jose rizal dihukum mati pada tanggal 30 desember 1896 , setelah gagal dalam pemberontakan katipunan .
-sentence 5: sikap patriotisme dan nasionalisme yang ditunjukkan jose rizal membangkitkan semangat rela berkorban dan cinta tanah air bagi para cendekiawan di indonesia .
-passage 26 score = 6.833333333333333
-sentence 1: masa moderat/kooperasi ( 1930 - 1942 ) , berdiri organisasi seperti parindra , partindo , dan gapi .
-sentence 2: di samping itu juga berdiri organisasi keagamaan , organisasi pemuda , dan organisasi perempuan .
-sentence 3: 1 .
-sentence 4: budi utomo ( bu ) pada tahun 1906 mas ngabehi wahidin sudirohusodo , merintis mengadakan kampanye menghimpun dana pelajar ( studie fund ) di kalangan priyayi di pulau jawa .
-sentence 5: upaya dr. wahidin ini bertujuan untuk meningkatkan martabat rakyat dan membantu para pelajar yang kekurangan dana .
-passage 36 score = 6.833333333333333
-sentence 1: sejalan dengan kemerosotan aktivitas dan dukungan pribumi pada budi utomo , maka pada tahun 1935 budi utomo mengadakan fusi ke dalam partai indonesia raya ( parindra ) .
-sentence 2: sejak itu bu terus mengalami kemerosotan dan mundur dari arena politik .
-sentence 3: 2 .
-sentence 4: sarekat islam ( si ) pada mulanya sarekat islam adalah sebuah perkumpulan para pedagang yang bernama sarekat dagang islam ( sdi ) .
-sentence 5: pada tahun 1911 , sdi didirikan di kota solo oleh h. samanhudi sebagai suatu koperasi pedagang batik jawa .
-passage 37 score = 6.833333333333333
-sentence 1: pada tahun 1911 , sdi didirikan di kota solo oleh h. samanhudi sebagai suatu koperasi pedagang batik jawa .
-sentence 2: garis yang diambil oleh sdi adalah kooperasi , dengan tujuan memajukan perdagangan indonesia di bawah panji-panji islam .
-sentence 3: keanggotaan sdi masih terbatas pada ruang lingkup pedagang , maka tidak memiliki anggota yang cukup banyak .
-sentence 4: oleh karena itu agar memiliki anggota yang banyak dan luas ruang lingkupnya , maka pada tanggal 18 september 1912 , sdi diubah menjadi si ( sarekat islam ) .
-sentence 5: organisasi sarekat islam ( si ) didirikan oleh beberapa tokoh sdi seperti h.o.s cokroaminoto , abdul muis , dan h. agus salim .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
 title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
 passage 4 score = 7.166666666666667
 sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
@@ -550,7 +553,7 @@ sentence 3: rakyat rusia yang merasakan kehidupan di berbagai bidang akibat kedi
 sentence 4: revolusi rusia telah berhasil menumbangkan kediktatoran rusia .
 sentence 5: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
 title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
 passage 4 score = 7.166666666666667
 sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
@@ -606,43 +609,28 @@ sentence 2: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional in
 sentence 3: rakyat rusia yang merasakan kehidupan di berbagai bidang akibat kediktatoran tsar nicholas ii , akhirnya berhasil menghimpun kekuatan dan menentang kekuasaannya dalam bentuk revolusi .
 sentence 4: revolusi rusia telah berhasil menumbangkan kediktatoran rusia .
 sentence 5: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok139.txt
-title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
-passage 3 score = 7.0
-sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
-sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
-sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
-sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
-sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
-passage 2 score = 5.833333333333333
-sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
-sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
-sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
-sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
-sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
-passage 5 score = 5.5
-sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
-sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
-sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
-sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
-sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
-passage 1 score = 5.333333333333333
-sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
-sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
-sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
-sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
-sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
-passage 4 score = 1.3333333333333333
-sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
-sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
-sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
-sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
-sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
+passage 1 score = 8.5
+sentence 1: asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh mahasiswa-mahasiswa indonesia yang sedang belajar di negeri belanda pada tahun 1908 .
+sentence 2: mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
+sentence 3: pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri belanda .
+sentence 4: kedatangan tiga tokoh indische partij di negeri belanda tahun 1913 ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
+sentence 5: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
+passage 1 score = 8.5
+sentence 1: asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh mahasiswa-mahasiswa indonesia yang sedang belajar di negeri belanda pada tahun 1908 .
+sentence 2: mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
+sentence 3: pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri belanda .
+sentence 4: kedatangan tiga tokoh indische partij di negeri belanda tahun 1913 ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
+sentence 5: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 passage 3 score = 8.5
 sentence 1: pembubaran organisasi ini dipicu oleh tulisan indische partij yang mengkritik perayaan kemerdekaan belanda dari spanyol di negeri jajahan yang belum merdeka , yaitu indonesia .
@@ -651,25 +639,7 @@ sentence 3: kemudian pada tahun 1923 indische vereeniging mengeluarkan semacam k
 sentence 4: untuk mempersiapkannya harus ada usaha untuk membangun tenaga nasional .
 sentence 5: dalam membangun tenaga nasional itu , rakyat indonesia tidak boleh bekerja sama dengan pemerintah belanda .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok141.txt
-title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
-passage 1 score = 8.5
-sentence 1: asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh mahasiswa-mahasiswa indonesia yang sedang belajar di negeri belanda pada tahun 1908 .
-sentence 2: mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
-sentence 3: pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri belanda .
-sentence 4: kedatangan tiga tokoh indische partij di negeri belanda tahun 1913 ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
-sentence 5: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok70.txt
-title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
-passage 1 score = 8.5
-sentence 1: asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh mahasiswa-mahasiswa indonesia yang sedang belajar di negeri belanda pada tahun 1908 .
-sentence 2: mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
-sentence 3: pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri belanda .
-sentence 4: kedatangan tiga tokoh indische partij di negeri belanda tahun 1913 ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
-sentence 5: setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke negeri belanda makin banyak .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 17 score = 8.166666666666668
 sentence 1: oleh karena kegiatannya sangat mencemaskan pemerintah belanda maka pada bulan agustus 1913 ketiga pemimpin indische partij dijatuhi hukuman pengasingan dan mereka memilih negeri belanda sebagai tempat pengasingannya .
@@ -678,7 +648,7 @@ sentence 3: selanjutnya , indische partij berganti nama menjadi partai insulinde
 sentence 4: national indische partij tidak pernah mempunyai pengaruh yang besar di kalangan rakyat dan akhirnya hanya merupakan perkumpulan orang-orang terpelajar .
 sentence 5: 4 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 17 score = 8.166666666666668
 sentence 1: oleh karena kegiatannya sangat mencemaskan pemerintah belanda maka pada bulan agustus 1913 ketiga pemimpin indische partij dijatuhi hukuman pengasingan dan mereka memilih negeri belanda sebagai tempat pengasingannya .
@@ -687,7 +657,7 @@ sentence 3: selanjutnya , indische partij berganti nama menjadi partai insulinde
 sentence 4: national indische partij tidak pernah mempunyai pengaruh yang besar di kalangan rakyat dan akhirnya hanya merupakan perkumpulan orang-orang terpelajar .
 sentence 5: 4 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 passage 5 score = 8.166666666666668
 sentence 1: bangsa indonesia harus mengandalkan kekuatan dan kemampuan sendiri ; 3 .
@@ -696,7 +666,7 @@ sentence 3: dengan demikian , pada intinya asas indische vereeniging akan tercap
 sentence 4: pada tahun 1925 , indische vereeniging merubah namanya menjadi perhimpunan indonesia .
 sentence 5: kegiatan perhimpunan indonesia semakin meningkat pada tahun 1925 dengan adanya a as atau dasar yang baru , yaitu dengan bersatunya bangsa indonesia dan menghilangkan pertentangan antargolongan maka penjajah dapat dikalahkan .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 passage 7 score = 8.166666666666668
 sentence 1: karena tidak terbukti bersalah , mereka dibebaskan .
@@ -705,7 +675,7 @@ sentence 3: pada tanggal 23 mei 1920 isdv berubah namanya menjadi partai komunis
 sentence 4: pada bulan desember 1920 diubah lagi menjadi partai komunis indonesia ( pki ) , yang diketuai oleh semaun .
 sentence 5: pada tahun 1920 , pki bergabung dengan comintern ( komunis internasional ) yang merupakan forum komunis dan pusat eksekutif bagi partai komunis seluruh dunia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 1 score = 8.0
 sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
@@ -714,7 +684,7 @@ sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo y
 sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
 sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 12 score = 8.0
 sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
@@ -723,7 +693,7 @@ sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam
 sentence 4: 3 .
 sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 13 score = 8.0
 sentence 1: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
@@ -737,6 +707,334 @@ Pencarian jawaban
 ---------------------
 
 
+asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh <PERSON>mahasiswa-mahasiswa indonesia</PERSON> yang sedang belajar di <PERSON>negeri belanda</PERSON> pada <TIME>tahun 1908</TIME> .
+
+memproses passage 1
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
+list jawaban dan posisi dalam passage
+tahun 1908 | position = 17
+
+
+melakukan pencarian:
+kata kunci = indische
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = manifesto
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pi
+tokenwithtagstemmed = jelma
+tokenwithtagstemmed = indische
+posisi dalam passage = 11
+jarak dengan tiap kandidat jawaban:
+tahun 1908 6
+
+tokenwithtagstemmed = vereeniging
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = mahasiswa mahasiswa indonesia
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = negeri belanda
+tokenwithtagstemmed = tahun 1908
+kata kunci = partij
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = manifesto
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pi
+tokenwithtagstemmed = jelma
+tokenwithtagstemmed = indische
+tokenwithtagstemmed = vereeniging
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = mahasiswa mahasiswa indonesia
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = negeri belanda
+tokenwithtagstemmed = tahun 1908
+kata kunci = diri
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = manifesto
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pi
+tokenwithtagstemmed = jelma
+tokenwithtagstemmed = indische
+tokenwithtagstemmed = vereeniging
+tokenwithtagstemmed = diri
+posisi dalam passage = 13
+jarak dengan tiap kandidat jawaban:
+tahun 1908 4
+
+tokenwithtagstemmed = mahasiswa mahasiswa indonesia
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = negeri belanda
+tokenwithtagstemmed = tahun 1908
+
+
+mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri <PERSON>belanda .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+kedatangan tiga tokoh <PERSON>indische partij</PERSON> di negeri belanda <TIME>tahun 1913</TIME> ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
+
+memproses passage 1
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
+list jawaban dan posisi dalam passage
+tahun 1913 | position = 6
+
+
+melakukan pencarian:
+kata kunci = indische
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = indische partij
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = asing
+tokenwithtagstemmed = unsur
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tubuh
+tokenwithtagstemmed = indische
+posisi dalam passage = 14
+jarak dengan tiap kandidat jawaban:
+tahun 1913 -8
+
+tokenwithtagstemmed = vereeniging
+kata kunci = partij
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = indische partij
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = asing
+tokenwithtagstemmed = unsur
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tubuh
+tokenwithtagstemmed = indische
+tokenwithtagstemmed = vereeniging
+kata kunci = diri
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = indische partij
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = asing
+tokenwithtagstemmed = unsur
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tubuh
+tokenwithtagstemmed = indische
+tokenwithtagstemmed = vereeniging
+
+
+setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke <PERSON>negeri belanda</PERSON> makin banyak .
+
+
+tidak ada entitas jawaban, skip
+
+
+asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh <PERSON>mahasiswa-mahasiswa indonesia</PERSON> yang sedang belajar di <PERSON>negeri belanda</PERSON> pada <TIME>tahun 1908</TIME> .
+
+memproses passage 1
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
+list jawaban dan posisi dalam passage
+tahun 1908 | position = 17
+
+
+melakukan pencarian:
+kata kunci = indische
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = manifesto
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pi
+tokenwithtagstemmed = jelma
+tokenwithtagstemmed = indische
+posisi dalam passage = 11
+jarak dengan tiap kandidat jawaban:
+tahun 1908 6
+
+tokenwithtagstemmed = vereeniging
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = mahasiswa mahasiswa indonesia
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = negeri belanda
+tokenwithtagstemmed = tahun 1908
+kata kunci = partij
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = manifesto
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pi
+tokenwithtagstemmed = jelma
+tokenwithtagstemmed = indische
+tokenwithtagstemmed = vereeniging
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = mahasiswa mahasiswa indonesia
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = negeri belanda
+tokenwithtagstemmed = tahun 1908
+kata kunci = diri
+tokenwithtagstemmed = asas
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = manifesto
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = himpun
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pi
+tokenwithtagstemmed = jelma
+tokenwithtagstemmed = indische
+tokenwithtagstemmed = vereeniging
+tokenwithtagstemmed = diri
+posisi dalam passage = 13
+jarak dengan tiap kandidat jawaban:
+tahun 1908 4
+
+tokenwithtagstemmed = mahasiswa mahasiswa indonesia
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = negeri belanda
+tokenwithtagstemmed = tahun 1908
+
+
+mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri <PERSON>belanda .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+kedatangan tiga tokoh <PERSON>indische partij</PERSON> di negeri belanda <TIME>tahun 1913</TIME> ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
+
+memproses passage 1
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
+list jawaban dan posisi dalam passage
+tahun 1913 | position = 6
+
+
+melakukan pencarian:
+kata kunci = indische
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = indische partij
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = asing
+tokenwithtagstemmed = unsur
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tubuh
+tokenwithtagstemmed = indische
+posisi dalam passage = 14
+jarak dengan tiap kandidat jawaban:
+tahun 1913 -8
+
+tokenwithtagstemmed = vereeniging
+kata kunci = partij
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = indische partij
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = asing
+tokenwithtagstemmed = unsur
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tubuh
+tokenwithtagstemmed = indische
+tokenwithtagstemmed = vereeniging
+kata kunci = diri
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = indische partij
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = tahun 1913
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = asing
+tokenwithtagstemmed = unsur
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = tubuh
+tokenwithtagstemmed = indische
+tokenwithtagstemmed = vereeniging
+
+
+setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke <PERSON>negeri belanda</PERSON> makin banyak .
+
+
+tidak ada entitas jawaban, skip
+
+
 pembubaran organisasi ini dipicu oleh tulisan <PERSON>indische partij</PERSON> yang mengkritik perayaan kemerdekaan belanda dari spanyol di negeri jajahan yang belum merdeka , yaitu <PERSON>indonesia .</PERSON>
 
 
@@ -747,7 +1045,7 @@ perhimpunan indonesia pada awalnya merupakan organisasi yang pada mulanya bernam
 
 memproses passage 3
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 list jawaban dan posisi dalam passage
 tanggal 22 desember 1908 | position = 11
@@ -807,7 +1105,7 @@ kemudian pada <TIME>tahun 1923</TIME> <PERSON>indische vereeniging</PERSON> meng
 
 memproses passage 3
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 list jawaban dan posisi dalam passage
 tahun 1923 | position = 0
@@ -858,339 +1156,11 @@ dalam membangun tenaga nasional itu , rakyat indonesia tidak boleh bekerja sama 
 tidak ada entitas jawaban, skip
 
 
-asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh <PERSON>mahasiswa-mahasiswa indonesia</PERSON> yang sedang belajar di <PERSON>negeri belanda</PERSON> pada <TIME>tahun 1908</TIME> .
-
-memproses passage 1
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok141.txt
-title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
-list jawaban dan posisi dalam passage
-tahun 1908 | position = 17
-
-
-melakukan pencarian:
-kata kunci = indische
-tokenwithtagstemmed = asas
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = manifesto
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = jelma
-tokenwithtagstemmed = indische
-posisi dalam passage = 11
-jarak dengan tiap kandidat jawaban:
-tahun 1908 6
-
-tokenwithtagstemmed = vereeniging
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = mahasiswa mahasiswa indonesia
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = negeri belanda
-tokenwithtagstemmed = tahun 1908
-kata kunci = partij
-tokenwithtagstemmed = asas
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = manifesto
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = jelma
-tokenwithtagstemmed = indische
-tokenwithtagstemmed = vereeniging
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = mahasiswa mahasiswa indonesia
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = negeri belanda
-tokenwithtagstemmed = tahun 1908
-kata kunci = diri
-tokenwithtagstemmed = asas
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = manifesto
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = jelma
-tokenwithtagstemmed = indische
-tokenwithtagstemmed = vereeniging
-tokenwithtagstemmed = diri
-posisi dalam passage = 13
-jarak dengan tiap kandidat jawaban:
-tahun 1908 4
-
-tokenwithtagstemmed = mahasiswa mahasiswa indonesia
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = negeri belanda
-tokenwithtagstemmed = tahun 1908
-
-
-mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
-
-
-tidak ada entitas jawaban, skip
-
-
-pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri <PERSON>belanda .</PERSON>
-
-
-tidak ada entitas jawaban, skip
-
-
-kedatangan tiga tokoh <PERSON>indische partij</PERSON> di negeri belanda <TIME>tahun 1913</TIME> ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
-
-memproses passage 1
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok141.txt
-title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
-list jawaban dan posisi dalam passage
-tahun 1913 | position = 6
-
-
-melakukan pencarian:
-kata kunci = indische
-tokenwithtagstemmed = datang
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = negeri
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tahun 1913
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = asing
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = tubuh
-tokenwithtagstemmed = indische
-posisi dalam passage = 14
-jarak dengan tiap kandidat jawaban:
-tahun 1913 -8
-
-tokenwithtagstemmed = vereeniging
-kata kunci = partij
-tokenwithtagstemmed = datang
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = negeri
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tahun 1913
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = asing
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = tubuh
-tokenwithtagstemmed = indische
-tokenwithtagstemmed = vereeniging
-kata kunci = diri
-tokenwithtagstemmed = datang
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = negeri
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tahun 1913
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = asing
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = tubuh
-tokenwithtagstemmed = indische
-tokenwithtagstemmed = vereeniging
-
-
-setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke <PERSON>negeri belanda</PERSON> makin banyak .
-
-
-tidak ada entitas jawaban, skip
-
-
-asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional - perhimpunan indonesia ( pi ) merupakan penjelmaan dari indische vereeniging yang didirikan oleh <PERSON>mahasiswa-mahasiswa indonesia</PERSON> yang sedang belajar di <PERSON>negeri belanda</PERSON> pada <TIME>tahun 1908</TIME> .
-
-memproses passage 1
-sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok70.txt
-title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
-list jawaban dan posisi dalam passage
-tahun 1908 | position = 17
-
-
-melakukan pencarian:
-kata kunci = indische
-tokenwithtagstemmed = asas
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = manifesto
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = jelma
-tokenwithtagstemmed = indische
-posisi dalam passage = 11
-jarak dengan tiap kandidat jawaban:
-tahun 1908 6
-
-tokenwithtagstemmed = vereeniging
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = mahasiswa mahasiswa indonesia
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = negeri belanda
-tokenwithtagstemmed = tahun 1908
-kata kunci = partij
-tokenwithtagstemmed = asas
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = manifesto
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = jelma
-tokenwithtagstemmed = indische
-tokenwithtagstemmed = vereeniging
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = mahasiswa mahasiswa indonesia
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = negeri belanda
-tokenwithtagstemmed = tahun 1908
-kata kunci = diri
-tokenwithtagstemmed = asas
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = manifesto
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = gera
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = jelma
-tokenwithtagstemmed = indische
-tokenwithtagstemmed = vereeniging
-tokenwithtagstemmed = diri
-posisi dalam passage = 13
-jarak dengan tiap kandidat jawaban:
-tahun 1908 4
-
-tokenwithtagstemmed = mahasiswa mahasiswa indonesia
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = negeri belanda
-tokenwithtagstemmed = tahun 1908
-
-
-mereka itu , antara lain sutan kesayangan , r.n. notokusumo , r.p. sastrokartono , r. husein jayadiningrat , dan notodiningrat .
-
-
-tidak ada entitas jawaban, skip
-
-
-pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang indonesia yang berada di negeri <PERSON>belanda .</PERSON>
-
-
-tidak ada entitas jawaban, skip
-
-
-kedatangan tiga tokoh <PERSON>indische partij</PERSON> di negeri belanda <TIME>tahun 1913</TIME> ( sebagai orang pengasingan ) , unsur politik mulai masuk dalam tubuh indische vereeniging .
-
-memproses passage 1
-sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok70.txt
-title : asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
-list jawaban dan posisi dalam passage
-tahun 1913 | position = 6
-
-
-melakukan pencarian:
-kata kunci = indische
-tokenwithtagstemmed = datang
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = negeri
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tahun 1913
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = asing
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = tubuh
-tokenwithtagstemmed = indische
-posisi dalam passage = 14
-jarak dengan tiap kandidat jawaban:
-tahun 1913 -8
-
-tokenwithtagstemmed = vereeniging
-kata kunci = partij
-tokenwithtagstemmed = datang
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = negeri
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tahun 1913
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = asing
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = tubuh
-tokenwithtagstemmed = indische
-tokenwithtagstemmed = vereeniging
-kata kunci = diri
-tokenwithtagstemmed = datang
-tokenwithtagstemmed = tiga
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = negeri
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = tahun 1913
-tokenwithtagstemmed = orang
-tokenwithtagstemmed = asing
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = politik
-tokenwithtagstemmed = mulai
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = tubuh
-tokenwithtagstemmed = indische
-tokenwithtagstemmed = vereeniging
-
-
-setelah perang dunia i , jumlah mahasiswa indonesia yang belajar ke <PERSON>negeri belanda</PERSON> makin banyak .
-
-
-tidak ada entitas jawaban, skip
-
-
 oleh karena kegiatannya sangat mencemaskan <PERSON>pemerintah belanda</PERSON> maka pada <TIME>bulan agustus 1913</TIME> <PERSON>ketiga pemimpin indische partij</PERSON> dijatuhi hukuman pengasingan dan mereka memilih negeri belanda sebagai tempat pengasingannya .
 
 memproses passage 17
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 bulan agustus 1913 | position = 3
@@ -1251,7 +1221,7 @@ selanjutnya <PERSON>, indische partij</PERSON> berganti nama menjadi partai insu
 
 memproses passage 17
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 tahun 1919 | position = 7
@@ -1329,7 +1299,7 @@ oleh karena kegiatannya sangat mencemaskan <PERSON>pemerintah belanda</PERSON> m
 
 memproses passage 17
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 bulan agustus 1913 | position = 3
@@ -1390,7 +1360,7 @@ selanjutnya <PERSON>, indische partij</PERSON> berganti nama menjadi partai insu
 
 memproses passage 17
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 tahun 1919 | position = 7
@@ -1486,7 +1456,7 @@ pada <TIME>tahun 1925</TIME> , indische vereeniging merubah namanya menjadi perh
 
 memproses passage 5
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 list jawaban dan posisi dalam passage
 tahun 1925 | position = 0
@@ -1530,7 +1500,7 @@ kegiatan perhimpunan indonesia semakin meningkat pada <TIME>tahun 1925</TIME> de
 
 memproses passage 5
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 list jawaban dan posisi dalam passage
 tahun 1925 | position = 4
@@ -1603,7 +1573,7 @@ cikal bakal berdirinya pki adalah didirikannya indische sociaal democratische ve
 
 memproses passage 7
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 list jawaban dan posisi dalam passage
 tanggal 9 mei 1914 | position = 10
@@ -1667,7 +1637,7 @@ pada <TIME>tanggal 23 mei 1920</TIME> isdv berubah namanya menjadi partai komuni
 
 memproses passage 7
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 list jawaban dan posisi dalam passage
 tanggal 23 mei 1920 | position = 0
@@ -1707,7 +1677,7 @@ pada <TIME>bulan desember 1920</TIME> diubah lagi menjadi partai komunis indones
 
 memproses passage 7
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 list jawaban dan posisi dalam passage
 bulan desember 1920 | position = 0
@@ -1750,7 +1720,7 @@ pada <TIME>tahun 1920</TIME> , pki bergabung dengan comintern ( komunis internas
 
 memproses passage 7
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 title : sejarah organisasi dalam bidang politik pada masa pergerakan
 list jawaban dan posisi dalam passage
 tahun 1920 | position = 0
@@ -1808,7 +1778,7 @@ budi utomo organisasi budi utomo ( bu ) didirikan pada <TIME>tanggal 20 mei 1908
 
 memproses passage 1
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 tanggal 20 mei 1908 | position = 7
@@ -1909,7 +1879,7 @@ indische partij ( ip ) <PERSON>indische partij</PERSON> ( ip ) didirikan di band
 
 memproses passage 12
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 tanggal 25 desember 1912 | position = 7
@@ -1994,7 +1964,7 @@ indische partij ( ip ) <PERSON>indische partij</PERSON> ( ip ) didirikan di band
 
 memproses passage 13
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 tanggal 25 desember 1912 | position = 7
@@ -2106,7 +2076,7 @@ doc rank = 1
 total Score = 10
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = tanggal 25 desember 1912
@@ -2116,7 +2086,7 @@ doc rank = 1
 total Score = 12
 frequency = 1
 order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = tanggal 25 desember 1912
@@ -2126,18 +2096,28 @@ doc rank = 1
 total Score = 13
 frequency = 1
 order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = tanggal 22 desember 1908
-passage rank = 1
+passage rank = 3
 distance = 3
+doc rank = 5
+total Score = 11
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
+document Title = sejarah organisasi dalam bidang politik pada masa pergerakan
+
+this.answer = tahun 1908
+passage rank = 1
+distance = 4
 doc rank = 3
-total Score = 7
+total Score = 8
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-document Title = sejarah organisasi dalam bidang politik pada masa pergerakan
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+document Title = asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
 
 this.answer = tahun 1908
 passage rank = 2
@@ -2146,37 +2126,27 @@ doc rank = 4
 total Score = 10
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok141.txt
-document Title = asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
-
-this.answer = tahun 1908
-passage rank = 3
-distance = 4
-doc rank = 5
-total Score = 12
-frequency = 1
-order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok70.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
 document Title = asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
 
 this.answer = tanggal 22 desember 1908
-passage rank = 1
+passage rank = 3
 distance = 5
-doc rank = 3
-total Score = 9
+doc rank = 5
+total Score = 13
 frequency = 1
-order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 document Title = sejarah organisasi dalam bidang politik pada masa pergerakan
 
 this.answer = tanggal 9 mei 1914
 passage rank = 7
 distance = 5
-doc rank = 3
-total Score = 15
+doc rank = 5
+total Score = 17
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 document Title = sejarah organisasi dalam bidang politik pada masa pergerakan
 
 this.answer = tanggal 25 desember 1912
@@ -2186,7 +2156,7 @@ doc rank = 1
 total Score = 16
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = tanggal 25 desember 1912
@@ -2196,18 +2166,18 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
-this.answer = tanggal 9 mei 1914
-passage rank = 7
+this.answer = tahun 1908
+passage rank = 1
 distance = 6
 doc rank = 3
-total Score = 16
+total Score = 10
 frequency = 1
-order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-document Title = sejarah organisasi dalam bidang politik pada masa pergerakan
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+document Title = asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
 
 this.answer = tahun 1908
 passage rank = 2
@@ -2216,18 +2186,18 @@ doc rank = 4
 total Score = 12
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok141.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
 document Title = asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
 
-this.answer = tahun 1908
-passage rank = 3
+this.answer = tanggal 9 mei 1914
+passage rank = 7
 distance = 6
 doc rank = 5
-total Score = 14
+total Score = 18
 frequency = 1
-order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok70.txt
-document Title = asas perhimpunan indonesia sebagai manifesto politik pergerakan nasional
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
+document Title = sejarah organisasi dalam bidang politik pada masa pergerakan
 
 this.answer = tanggal 25 desember 1912
 passage rank = 9
@@ -2236,7 +2206,7 @@ doc rank = 1
 total Score = 17
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = tanggal 25 desember 1912
@@ -2246,17 +2216,17 @@ doc rank = 1
 total Score = 18
 frequency = 1
 order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = tanggal 9 mei 1914
 passage rank = 7
 distance = 8
-doc rank = 3
-total Score = 18
+doc rank = 5
+total Score = 20
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
 document Title = sejarah organisasi dalam bidang politik pada masa pergerakan
 
 

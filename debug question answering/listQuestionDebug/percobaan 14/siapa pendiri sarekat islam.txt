@@ -1,109 +1,109 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok69.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok268.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok325.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok225.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok144.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok271.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok327.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok399.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok157.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok328.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok296.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok396.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok145.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok186.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok25.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok96.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok1.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok72.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok161.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok200.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok397.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok183.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok169.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok150.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok386.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok276.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok22.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok93.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok164.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok287.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok229.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok348.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok110.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok39.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok117.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok46.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok192.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok139.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok68.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok21.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok92.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok304.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok309.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok197.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok370.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok170.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok383.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok260.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok80.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok9.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok173.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok323.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok304.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok14.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok167.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok316.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok85.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok239.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok280.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok13.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok84.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok179.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok19.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok90.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok3.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok74.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok12.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok83.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok383.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok388.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok2.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok73.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok303.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok382.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok355.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok170.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok171.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok346.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok87.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok117.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok46.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok176.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok392.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok25.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok96.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok263.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok1.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok72.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok137.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok387.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok66.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok155.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok186.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok57.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok189.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok319.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok396.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok5.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok76.txt
 
 
 query token : 
 diri sarekat islam 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
 title : sejarah munculnya sarekat islam
 passage 1 score = 8.5
 sentence 1: sejarah munculnya sarekat islam – adanya persaingan dagang antara para pedagang islam dan pedagang cina , mendorong para pedagang islam untuk bersatu .
@@ -153,299 +153,247 @@ sentence 3: oleh karena itu , perlu mobilisasi kekuatan buruh dan tani di sampin
 sentence 4: pengaruh komunis itu telah masuk ke tubuh central sarekat islam dan cabang-cabangnya sehingga menyebabkan terjadinya perpecahan dalam tubuh central sarekat islam .
 sentence 5: perpecahan semakin nyata setelah dilaksanakan kongres luar biasa central sarekat islam .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-title : perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
-passage 7 score = 8.166666666666668
-sentence 1: sistem bandongan adalah sistem pengajaran yang bersifat umum dan bersama-sama semacam ceramah umum yang disampaikan oleh seorang ustad ataupun kiai yang dihadiri oleh semua santri .
-sentence 2: lamanya mengikuti pendidikan di pesantren tidak tentu , gurulah yang akan menyatakan seorang santri itu sudah menguasai ilmu yang diberikannya .
-sentence 3: santri yang telah selesai mengikuti pendidikan di pesantren akan menyebarkan ilmu yang ia milikinya kepada masyarakat , dengan menjadi tokoh agama ataupun mendirikan pesantren di tempat tinggalnya .
-sentence 4: lembaga-lembaga pendidikan semacam pesantren , surau , ataumeunasah merupakan lembaga-lembaga pendidikan yang vital di indonesia .
-sentence 5: pada awal perkembangan islam , lembaga ini menjadi pusat penyebaran agama islam dan wadah untuk mencetak intelektual muslim .
-passage 14 score = 8.166666666666668
-sentence 1: orang-orang yang menjalankan kehidupan tasawuf disebut sufi.tasawuf mengembangkan suatu ajaran dan keyakinan dalam memilih jalan hidup secara uhud atau sederhana , menjauhkan diri dari perhiasan dunia dan melaksanakan intensitas beribadah untuk mencari rida atau ampunan allah .
-sentence 2: tasawuf merupakan fenomena sosial dan keagamaan yang bercorak islam .
-sentence 3: unsur-unsur mistisisme yang tampaknya bukan asli dari ajaran islam tetapi merupakan bentuk sinkretisme dengan budaya lokal menjadikan tasawuf mudah diterima oleh masyarakat indonesia .
-sentence 4: dengan demikian , tasawuf menjadi salah satu cara untuk menarik masyarakat agar masuk ke dalam agama islam .
-sentence 5: hal ini bisa kita perhatikan dari begitu pesatnya perkembangan ajaran tasawuf di indonesia .
-passage 1 score = 7.833333333333333
-sentence 1: perkembangan pendidikan di kerajaan yang bercorak islam di indonesia - pendidikan merupakan salah satu perhatian sentral masyarakat islam .
-sentence 2: apalagi hal ini ditegaskan dalam al-qur an yang menyebutkan bahwa : “ menuntut ilmu itu wajib hukumnya bagi setiap muslim dan muslimat ” atau “ tuntutlah ilmu dari sejak buaian sampai ke liang lahat ” dan diperkuat pula oleh ucapan nabi muhammad saw .
-sentence 3: yang menyuruh kaum muslimin untuk mencari ilmu sampai ke negeri cina .
-sentence 4: dengan demikian , perhatian orang-orang islam terhadap pendidikan begitu kuat .
-sentence 5: sejak awal perkembangan islam , pendidikan sangat penting sebagai salah satu upaya dalam proses penyebaran agama islam .
-passage 3 score = 7.833333333333333
-sentence 1: pelajaran yang diberikan adalah pelajaran membaca al-qur an , tata cara peribadatan , akhlak , dan keimanan .
-sentence 2: lembaga-lambaga pendidikan yang dibangun pada masa islam ini bukanlah lembaga pendidikan yang pertama ada di indonesia .
-sentence 3: lembaga pendidikan yang dibangun oleh islam di indonesia mengadopsi dan mentransfer lembaga keagamaan dan sosial yang sudah ada sebelumnya pada masa hindu-buddha .
-sentence 4: di jawa , umat islam mentransfer lembaga keagamaan hindu-buddha menjadi pesantren , umat islam di minangkabau mengambil alihsurausebagai peninggalan adat masyarakat setempat menjadi lembaga pendidikan islam , demikian pula masyarakat aceh mentransfer lembaga masyarakat meunasahsebagai lembaga pendidikan islam .
-sentence 5: perkembangan penting dari pendidikan pada masa perkembangan islam adalah lahirnya pendidikan pesantren .
-passage 15 score = 7.833333333333333
-sentence 1: hal ini bisa kita perhatikan dari begitu pesatnya perkembangan ajaran tasawuf di indonesia .
-sentence 2: kedatangan ahli tasawuf ke indonesia diperkirakan sejak abad ke-13 , yaitu masa berkembangnya dan tersebarnya ahli tasawuf dari persia dan india .
-sentence 3: kedatangan para ahli tasawuf ini kemudian diikuti dengan proses penyebaran tasawuf dan diterimanya tasawuf oleh masyarakat indonesia sebagai salah satu bagian dari ajaran islam .
-sentence 4: pada abad xvi-xvii di kerajaan aceh muncul beberapa ahli tasawuf terkenal seperti hamzah fansuri , syamsuddin as-sumatrani , nuruddin ar-raniri , syekh abdurrauf dari singkel , dan sebagainya .
-sentence 5: di jawa pada sekitar abad xvi-xvii di antara walisongo juga ada yang mengajarkan tasawuf , seperti syekh siti jenar , sunan bonang , sunan panggung , sunan kudus , dan sebagainya .
-passage 16 score = 7.833333333333333
-sentence 1: di jawa pada sekitar abad xvi-xvii di antara walisongo juga ada yang mengajarkan tasawuf , seperti syekh siti jenar , sunan bonang , sunan panggung , sunan kudus , dan sebagainya .
-sentence 2: berkaitan erat dengan tasawuf adalah tarekat yang dianggap sebagai suatu bentuk atau cara untuk mendekatkan diri kepada allah .
-sentence 3: di indonesia , tarekat-tarekat yang mempunyai pengaruh ialah tarekat qadariah , naqsyabandiah , sammaniah , qusyasyiah , syattariah , say iliah , khalwatiah , dan tianiah .
-sentence 4: ham ah fansuri dan pembesar-pembesar kerajaan aceh mendapat pengaruh tarekat qadariah .
-sentence 5: di banten sultan abdul mufakhir mahmud abdulkadir juga mendapat pengaruh aliran qadariah .
-passage 9 score = 7.666666666666667
-sentence 1: pada masa walisongo , tidak sedikit wali-wali jawa yang menguasai jaringan perdagangan antara pulau jawa dengan luar jawa .
-sentence 2: contohnya , sunan giri yang memiliki jaringan perdagangan antara jawa , kalimantan , maluku , lombok , dan sekitarnya .
-sentence 3: begitu pula dengan perjalanan politik islam di jawa , pesantren memiliki pengaruh kuat bagi pembentukan dan pengambilan berbagai kebijakan di keraton-keraton .
-sentence 4: misalnya , berdirinya kerajaan islam demak adalah karena dukungan dan kontrol kuat dari para ulama , seperti sunan kudus , sunan kalijaga , dan sebagainya .
-sentence 5: dengan demikian , dapat disimpulkan bahwa dinamika masyarakat islam pada masa awal dapat ditandai dengan adanya hubungan yang kuat antara pesantren , pasar ( perdagangan ) , dan keraton .
-passage 4 score = 7.333333333333333
-sentence 1: perkembangan penting dari pendidikan pada masa perkembangan islam adalah lahirnya pendidikan pesantren .
-sentence 2: pendidikan yang diselenggarakan di pesantren jauh lebih mendalam dibandingkan dengan pendidikan yang dilaksanakan di mesjid , langgar , atau surau .
-sentence 3: siswa yang mengikuti pendidikan di pesantren disebutsantri , sedangkan gurunya biasa disebut kiai .
-sentence 4: materi pelajaran yang diberikan meliputi membaca serta tafsir al qur an , fiqih , tauhid , dan akhlak .
-sentence 5: sumber-sumber pelajaran menggunakan kitab-kitab yang dikarang oleh para ulama sekitar abad ke-7 atau abad ke-8 di timur tengah atau sering disebut dengankitab kuning .
-passage 8 score = 7.333333333333333
-sentence 1: pada awal perkembangan islam , lembaga ini menjadi pusat penyebaran agama islam dan wadah untuk mencetak intelektual muslim .
-sentence 2: sejak masa awal , bahkan sampai sekarang lembaga pendidikan pesantren dan sejenisnya tetap dipercaya oleh masyarakat sebagai lembaga yang membentuk moral dan intelektual muslim .
-sentence 3: perkembangan dan kemajuan masyarakat islam nusantara , khususnya jawa , tidak mungkin terpisahkan dari peranan yang dimainkan pesantren .
-sentence 4: berpusat dari pesantren , perputaran roda ekonomi dan kebijakan politik islam dikendalikan .
-sentence 5: pada masa walisongo , tidak sedikit wali-wali jawa yang menguasai jaringan perdagangan antara pulau jawa dengan luar jawa .
-passage 10 score = 7.333333333333333
-sentence 1: dengan demikian , dapat disimpulkan bahwa dinamika masyarakat islam pada masa awal dapat ditandai dengan adanya hubungan yang kuat antara pesantren , pasar ( perdagangan ) , dan keraton .
-sentence 2: pelaksanaan ajaran islam yang banyak dianut oleh masyarakat nusantara lebih banyak mengikuti mazhab syafi’i dibanding dengan tiga ma hab lainnya yaitumazhab hanafi , hambalidan maliki.penggunaan ma hab syafii banyak dilakukan karena ma hab ini mudah beradaptasi dengan adat istiadat setempat .
-sentence 3: di indonesia , beberapa pelaksanaan syariat islam banyak bercampur dengan adat istiadat masyarakat setempat .
-sentence 4: contoh kerajaan islam yang memeluk ma hab syafi i di antaranya kerajaan samudera pasai yang telah menganut ma hab syafi i sejak raja marah siluatau sultan malikul saleh .
-sentence 5: yang paling menarik adalah perkembangan ma hab syafi i di kerajaan malaka yang sudah dianut sejak masa kekuasaan rajanya yang pertama yaitu parameswara .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-passage 1 score = 8.5
-sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
-sentence 2: budi utomo organisasi budi utomo ( bu ) didirikan pada tanggal 20 mei 1908 oleh para mahasiswa stovia di batavia dengan sutomo sebagai ketuanya .
-sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo yang sebelumnya telah berkeliling jawa untuk menawarkan idenya membentuk studiefounds .
-sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
-sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
-passage 8 score = 8.5
-sentence 1: a. agama islam .
-sentence 2: b. ekonomi , yakni untuk memperkuat diri dari pedagang cina yang berperan sebagai leveransir ( seperti kain putih , malam , dan sebagainya ) .
-sentence 3: atas prakarsa h.o.s. cokroaminoto , nama sarekat dagang islam kemudian diubah menjadi sarekat islam ( si ) , dengan tujuan untuk memperluas anggota sehingga tidak hanya terbatas pada pedagang saja .
-sentence 4: berdasarkan akte notaris pada tanggal 10 september 1912 , ditetapkan tujuan sarekat islam sebagai berikut : 1 ) memajukan perdagangan ; 2 ) membantu para anggotanya yang mengalami kesulitan dalam bidang usaha ( permodalan ) ; 3 ) memajukan kepentingan rohani dan jasmani penduduk asli ; 4 ) memajukan kehidupan agama islam .
-sentence 5: melihat tujuannya tidak tampak adanya kegiatan politik .
-passage 12 score = 8.5
-sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
-sentence 2: 1 ) kelompok nasionalis religius ( nasionalis keagamaan ) yang dikenal dengan sarekat islam putih dengan asas perjuangan islam di bawah pimpinan h.o.s. cokroaminoto .
-sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam merah dengan haluan sosialis kiri di bawah pimpinan semaun dan darsono .
-sentence 4: 3 .
-sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
-passage 6 score = 8.166666666666668
-sentence 1: strategi perjuangan bu pada dasarnya bersifat kooperatif .
-sentence 2: mulai tahun 1912 dengan tampilnya notodirjo sebagai ketua menggantikan r.t. notokusumo , budi utomo ingin mengejar ketinggalannya .
-sentence 3: akan tetapi , hasilnya tidak begitu besar karena pada saat itu telah muncul organisasi-organisasi nasional lainnya , seperti sarekat islam ( si ) dan indiche partij ( ip ) .
-sentence 4: namun demikian , budi utomo tetap mempunyai andil dan jasa yang besar dalam sejarah pergerakan nasional , yakni telah membuka jalan dan memelopori gerakan kebangsaan indonesia .
-sentence 5: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
-passage 11 score = 8.166666666666668
-sentence 1: tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
-sentence 2: pada tanggal 17 – 24 juni 1916 diadakan kongres si nasional pertama di bandung yang dihadiri oleh 80 sarekat islam lokal dengan anggota 360.000 orang anggota .
-sentence 3: dalam kongres tersebut telah disepakati istilah " nasional " , dimaksudkan bahwa sarekat islam menghendaki persatuan dari seluruh lapisan masyarakat indonesia menjadi satu bangsa .
-sentence 4: sifat sarekat islam yang demokratis dan berani serta berjuang terhadap kapitalisme untuk kepentingan rakyat kecil sangat menarik perhatian kaum sosialis kiri yang tergabung dalam indische social democratische vereeniging ( isdv ) pimpinan sneevliet ( belanda ) , semaun , darsono , tan malaka , dan alimin ( indonesia ) .
-sentence 5: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
-passage 20 score = 8.166666666666668
-sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
-sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
-sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
-sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
-sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
-passage 3 score = 7.833333333333333
-sentence 1: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
-sentence 2: untuk mengonsolidasi diri ( dengan dihadiri 7 cabangnya ) , budi utomo mengadakan kongres yang pertama di yogyakarta pada tanggal 3-5 oktober 1908 .
-sentence 3: kongres memutuskan hal-hal sebagai berikut .
-sentence 4: 1 ) budi utomo tidak ikut dalam mengadakan kegiatan politik .
-sentence 5: 2 ) kegiatan budi utomo terutama ditujukan pada bidang pendidikan dan kebudayaan .
-passage 5 score = 7.833333333333333
-sentence 1: sampai dengan akhir tahun 1909 , telah berdiri 40 cabang budi utomo dengan jumlah anggota mencapai 10.000 orang .
-sentence 2: akan tetapi , dengan adanya kongres tersebut tampaknya terjadi pergeseran pimpinan dari generasi muda ke generasi tua .
-sentence 3: banyak anggota muda yang menyingkir dari barisan depan , dan anggota budi utomo kebanyakan dari golongan priayi dan pegawai negeri .
-sentence 4: dengan demikian , sifat protonasionalisme dari para pemimpin yang tampak pada awal berdirinya budi utomo terdesak ke belakang .
-sentence 5: strategi perjuangan bu pada dasarnya bersifat kooperatif .
-passage 13 score = 7.833333333333333
-sentence 1: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
-sentence 2: organisasi ini mempunyai cita-cita untuk menyatukan semua golongan yang ada di indonesia , baik golongan indonesia asli maupun golongan indo , cina , arab , dan sebagainya .
-sentence 3: mereka akan dipadukan dalam kesatuan bangsa dengan membutuhkan semangat nasionalisme indonesia .
-sentence 4: cita-cita indische partij banyak disebar-luaskan melalui surat kabar de expres .
-sentence 5: di samping itu juga disusun program kerja sebagai berikut : 1 ) meresapkan cita-cita nasional hindia ( indonesia ) .
-passage 15 score = 7.833333333333333
-sentence 1: 5 ) berusaha untuk mendapatkan persamaan hak bagi semua orang hindia .
-sentence 2: 6 ) dalam hal pengajaran , kegunaannya harus ditujukan untuk kepentingan ekonomi hindia dan memperkuat mereka yang ekonominya lemah .
-sentence 3: melihat tujuan dan cara-cara mencapai tujuan seperti tersebut di atas maka dapat diketahui bahwa indische partij berdiri di atas nasionalisme yang luas menuju indonesia merdeka .
-sentence 4: dengan demikian , dapat dikatakan bahwa indische partij merupakan partai politik pertama di indonesia dengan haluan kooperasi .
-sentence 5: dalam waktu yang singkat telah mempunyai 30 cabang dengan anggota lebih kurang 7.000 orang yang kebanyakan orang indo .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-passage 1 score = 8.5
-sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
-sentence 2: budi utomo organisasi budi utomo ( bu ) didirikan pada tanggal 20 mei 1908 oleh para mahasiswa stovia di batavia dengan sutomo sebagai ketuanya .
-sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo yang sebelumnya telah berkeliling jawa untuk menawarkan idenya membentuk studiefounds .
-sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
-sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
-passage 8 score = 8.5
-sentence 1: a. agama islam .
-sentence 2: b. ekonomi , yakni untuk memperkuat diri dari pedagang cina yang berperan sebagai leveransir ( seperti kain putih , malam , dan sebagainya ) .
-sentence 3: atas prakarsa h.o.s. cokroaminoto , nama sarekat dagang islam kemudian diubah menjadi sarekat islam ( si ) , dengan tujuan untuk memperluas anggota sehingga tidak hanya terbatas pada pedagang saja .
-sentence 4: berdasarkan akte notaris pada tanggal 10 september 1912 , ditetapkan tujuan sarekat islam sebagai berikut : 1 ) memajukan perdagangan ; 2 ) membantu para anggotanya yang mengalami kesulitan dalam bidang usaha ( permodalan ) ; 3 ) memajukan kepentingan rohani dan jasmani penduduk asli ; 4 ) memajukan kehidupan agama islam .
-sentence 5: melihat tujuannya tidak tampak adanya kegiatan politik .
-passage 12 score = 8.5
-sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
-sentence 2: 1 ) kelompok nasionalis religius ( nasionalis keagamaan ) yang dikenal dengan sarekat islam putih dengan asas perjuangan islam di bawah pimpinan h.o.s. cokroaminoto .
-sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam merah dengan haluan sosialis kiri di bawah pimpinan semaun dan darsono .
-sentence 4: 3 .
-sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
-passage 6 score = 8.166666666666668
-sentence 1: strategi perjuangan bu pada dasarnya bersifat kooperatif .
-sentence 2: mulai tahun 1912 dengan tampilnya notodirjo sebagai ketua menggantikan r.t. notokusumo , budi utomo ingin mengejar ketinggalannya .
-sentence 3: akan tetapi , hasilnya tidak begitu besar karena pada saat itu telah muncul organisasi-organisasi nasional lainnya , seperti sarekat islam ( si ) dan indiche partij ( ip ) .
-sentence 4: namun demikian , budi utomo tetap mempunyai andil dan jasa yang besar dalam sejarah pergerakan nasional , yakni telah membuka jalan dan memelopori gerakan kebangsaan indonesia .
-sentence 5: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
-passage 11 score = 8.166666666666668
-sentence 1: tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
-sentence 2: pada tanggal 17 – 24 juni 1916 diadakan kongres si nasional pertama di bandung yang dihadiri oleh 80 sarekat islam lokal dengan anggota 360.000 orang anggota .
-sentence 3: dalam kongres tersebut telah disepakati istilah " nasional " , dimaksudkan bahwa sarekat islam menghendaki persatuan dari seluruh lapisan masyarakat indonesia menjadi satu bangsa .
-sentence 4: sifat sarekat islam yang demokratis dan berani serta berjuang terhadap kapitalisme untuk kepentingan rakyat kecil sangat menarik perhatian kaum sosialis kiri yang tergabung dalam indische social democratische vereeniging ( isdv ) pimpinan sneevliet ( belanda ) , semaun , darsono , tan malaka , dan alimin ( indonesia ) .
-sentence 5: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
-passage 20 score = 8.166666666666668
-sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
-sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
-sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
-sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
-sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
-passage 3 score = 7.833333333333333
-sentence 1: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
-sentence 2: untuk mengonsolidasi diri ( dengan dihadiri 7 cabangnya ) , budi utomo mengadakan kongres yang pertama di yogyakarta pada tanggal 3-5 oktober 1908 .
-sentence 3: kongres memutuskan hal-hal sebagai berikut .
-sentence 4: 1 ) budi utomo tidak ikut dalam mengadakan kegiatan politik .
-sentence 5: 2 ) kegiatan budi utomo terutama ditujukan pada bidang pendidikan dan kebudayaan .
-passage 5 score = 7.833333333333333
-sentence 1: sampai dengan akhir tahun 1909 , telah berdiri 40 cabang budi utomo dengan jumlah anggota mencapai 10.000 orang .
-sentence 2: akan tetapi , dengan adanya kongres tersebut tampaknya terjadi pergeseran pimpinan dari generasi muda ke generasi tua .
-sentence 3: banyak anggota muda yang menyingkir dari barisan depan , dan anggota budi utomo kebanyakan dari golongan priayi dan pegawai negeri .
-sentence 4: dengan demikian , sifat protonasionalisme dari para pemimpin yang tampak pada awal berdirinya budi utomo terdesak ke belakang .
-sentence 5: strategi perjuangan bu pada dasarnya bersifat kooperatif .
-passage 13 score = 7.833333333333333
-sentence 1: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
-sentence 2: organisasi ini mempunyai cita-cita untuk menyatukan semua golongan yang ada di indonesia , baik golongan indonesia asli maupun golongan indo , cina , arab , dan sebagainya .
-sentence 3: mereka akan dipadukan dalam kesatuan bangsa dengan membutuhkan semangat nasionalisme indonesia .
-sentence 4: cita-cita indische partij banyak disebar-luaskan melalui surat kabar de expres .
-sentence 5: di samping itu juga disusun program kerja sebagai berikut : 1 ) meresapkan cita-cita nasional hindia ( indonesia ) .
-passage 15 score = 7.833333333333333
-sentence 1: 5 ) berusaha untuk mendapatkan persamaan hak bagi semua orang hindia .
-sentence 2: 6 ) dalam hal pengajaran , kegunaannya harus ditujukan untuk kepentingan ekonomi hindia dan memperkuat mereka yang ekonominya lemah .
-sentence 3: melihat tujuan dan cara-cara mencapai tujuan seperti tersebut di atas maka dapat diketahui bahwa indische partij berdiri di atas nasionalisme yang luas menuju indonesia merdeka .
-sentence 4: dengan demikian , dapat dikatakan bahwa indische partij merupakan partai politik pertama di indonesia dengan haluan kooperasi .
-sentence 5: dalam waktu yang singkat telah mempunyai 30 cabang dengan anggota lebih kurang 7.000 orang yang kebanyakan orang indo .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok247.txt
-title : upaya mempersiapkan kemerdekaan indonesia
-passage 1 score = 7.833333333333333
-sentence 1: upaya mempersiapkan kemerdekaan indonesia - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada 1 maret 1945 jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) .
-sentence 2: badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka .
-sentence 3: anggota dari bupki terdiri atas 60 orang tokoh bangsa indonesia dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh krt radjiman widyodiningrat dan wakil ketua r. surono dan seorang lagi orang jepang .
-sentence 4: bpupki diresmikan pada tanggal 29 mei 1945 .
-sentence 5: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
-passage 4 score = 7.833333333333333
-sentence 1: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
-sentence 2: panitia sembilan ini menghasilkan dokumen yang berisi asas dan tujuan indonesia merdeka .
-sentence 3: dokumen ini lebih dikenal dengan nama piagam djakarta , yang isinya sebagai berikut : ketuhanan dengan berkewajiban menjalankan syariat-syariat islam bagi para pemeluknya .
-sentence 4: kemanusian yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan atau perwakilan keadilan sosial bagi seluruh rakyat indonesia .
-sentence 5: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
-passage 2 score = 6.5
-sentence 1: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
-sentence 2: tokoh-tokoh yang mengusulkan dasar negara ini , yakni : mr. muh .
-sentence 3: yamin pada sidang tanggal 29 mei 1945 , mr. muh .
-sentence 4: yamin mengajukan lima rancangan dasar negara indonesia , yakni : peri kebangsaan peri kemanusiaan peri ketuhanan peri kerakyatan kesejahteraan rakyat prof. dr. supomo pada sidang tanggal 31 mei 1945 , prof. dr. supomo mengajukan lima rancangan dasar negara , yakni : persatuan kekeluargaan mufakat dan demokrasi musyawarah keadilan sosial ir .
-sentence 5: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
-passage 6 score = 6.333333333333333
-sentence 1: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
-sentence 2: landasan dasar internasional piagam atlantik ( 14 agustus 1941 ) yang ditanda tangani oleh franklin delano roosevelt ( presiden as ) dengan winston churchill ( pm inggris ) .
-sentence 3: yang berisi : tidak boleh ada perluasan daerah tampa persetujuan dari penduduk asli .
-sentence 4: setiap bangsa berhak menentukan dan menetapkan bentuk pemerintahannya sendiri .
-sentence 5: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
-passage 7 score = 6.333333333333333
-sentence 1: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
-sentence 2: piagam san fransisco , merupakan piagam pbb yang diresmikan dan ditandatangani oleh 50 negara sebagai negara yang pertama menjadi anggotanya .
-sentence 3: dalam piagam pbb ini disebutkan : “ … kami akan meneguhkan keyakinan akan dasar-dasar hak manusia sebagai manusia sesuai dengan harkat dan derajat manusia berdasarkan atas hak-hak yang sama … .
-sentence 4: serta berusaha memajukan rakyat dan tingkat kehidupan yang lebih baik dalam suasana kemerdekaan yang lebih luas ” .
-sentence 5: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
-passage 8 score = 6.333333333333333
-sentence 1: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
-sentence 2: maka berdasarkan piagam tersebut pula , proklamasi kemerdekaan indonesia memiliki kedudukan yang kuat , baik secara nasional maupun internasional .
-sentence 3: [ gs ]
-passage 3 score = 6.0
-sentence 1: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
-sentence 2: namun pada tanggal 22 juni 1945 , sembilan orang anggota yaitu ir .
-sentence 3: soekarno , drs. moch .
-sentence 4: hatta , mr. muh .
-sentence 5: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+passage 4 score = 8.166666666666668
+sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+sentence 2: e. lahirnya organisasi pergerakan nasional asia , seperti di turki ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di india ( munculnya all indian national congres ) , sedangkan di indonesia munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti sarekat islam , indische partij , dan sebagainya .
+sentence 3: pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada tahun 1776 telah melahirkan negara amerika serikat lepas dari negara induk inggris .
+sentence 4: declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di benua amerika dan menyebar luas ke kawasan lain di negara-negara di asia dan afrika .
+sentence 5: pernyataan tersebut merupakan pernyataan yang progresif .
+passage 8 score = 8.0
+sentence 1: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+sentence 2: sneevliet kemudian melakukan infiltrasi ( penyusupan ) kader-kadernya ke dalam tubuh sarekat islam dengan menjadikan anggota-anggota isdv sebagai anggota sarekat islam , dan sebaliknya anggota-anggota sarekat islam menjadi anggota isdv .
+sentence 3: dengan cara ini sneevliet dan kawan-kawannya telah mempunyai pengaruh yang kuat di kalangan sarekat islam , lebih-lebih setelah berhasil mempengaruhi beberapa pemimpin sarekat islam , seperti semaun dan darsono .
+sentence 4: akibatnya , sarekat islam cabang semarang yang sudah berada dibawah pengaruh isdv semakin jelas warna marxismenya sehingga menyebabkan perpecahan dalam tubuh sarekat islam .
+sentence 5: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+passage 7 score = 7.833333333333333
+sentence 1: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+sentence 2: seperti revolusi-revolusi lain , revolusi rusia juga membawa dampak baik bagi rusia sendiri maupun bagi negara-negara di kawasan di dunia termasuk indonesia .
+sentence 3: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional di indonesia tampak jelas dengan berkembangan paham marxis yang kemudian melahirkan partai komunis indonesia .
+sentence 4: benih-benih marxisme dibawa masuk ke indonesia oleh seorang belanda yang bernama h.j.f.m. sneevliet .
+sentence 5: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+passage 1 score = 6.5
+sentence 1: pengaruh revolusi prancis terhadap perkembangan pergerakan nasional indonesia revolusi prancis yang mempunyai semboyan liberte , egalite , dan fraternite telah mendorong berkembangnya liberalisme , demokrasi , dan nasionalisme .
+sentence 2: semboyan egalite adalah semboyan cita-cita kebebasan dan kemerdekaan , yang pada waktu itu menjadi dasar perjuangan kaum borjuis dan warga kota , para pengusaha , dan pedagang .
+sentence 3: mereka memiliki jiwa bebas sehingga melahirkan paham liberalisme .
+sentence 4: egalite juga menjadi ciri kehidupan masyarakat kota dan para pengusaha .
+sentence 5: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+passage 3 score = 6.5
+sentence 1: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
+sentence 2: a. perjuangan rakyat amerika latin untuk menentang penjajahan spanyol dan portugis ( 1807 – 1828 ) .
+sentence 3: b. di kawasan eropa telah mendorong munculnya gerakan untuk membentuk negara kesatuan , seperti di jerman di bawah pimpinan otto van bismark , dan italia di bawah pimpinan perdana menteri cavour .
+sentence 4: c. perjuangan rakyat yunani untuk bebas dari kekuasan turki usmani ( 1821 – 1829 ) .
+sentence 5: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+passage 6 score = 6.0
+sentence 1: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
+sentence 2: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional indonesia revolusi rusia telah berhasil menumbangkan kekuasaan tsar nicholas ii yang memerintah secara diktator .
+sentence 3: rakyat rusia yang merasakan kehidupan di berbagai bidang akibat kediktatoran tsar nicholas ii , akhirnya berhasil menghimpun kekuatan dan menentang kekuasaannya dalam bentuk revolusi .
+sentence 4: revolusi rusia telah berhasil menumbangkan kediktatoran rusia .
+sentence 5: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+passage 2 score = 1.0
+sentence 1: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+sentence 2: sementara itu , semboyan fraternite telah memupuk rasa persaudaraan dan rasa persatuan di antarawarga negara sehingga menimbulkan nasionalisme .
+sentence 3: liberalisme , demokrasi , dan nasionalisme ternyata telah berkembang cepat di prancis dan di negara-negara eropa yang lain .
+sentence 4: bahkan , paham-paham tersebut pada akhir abad ke-19 dan awal abad ke-20 memasuki kawasan lain , terutama negara-negara yang berada di bawah dominasi kekuasaan bangsa lain .
+sentence 5: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
 passage 5 score = 1.0
-sentence 1: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
-sentence 2: adapun pokok-pokok isi pembukaan uud 1945 : bahwa kemerdekaan itu adalah hak segala bangsa … .
-sentence 3: dan perjuangan kemerdekaan indonesia telah sampailah kepada saat yang berbahagia … .
-sentence 4: atas berkat rahmat allah yang maha kuasa … kemudian daripada itu untuk membentuk suatu pemerintahan negara indonesia … .
-sentence 5: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
+sentence 1: pernyataan tersebut merupakan pernyataan yang progresif .
+sentence 2: amerika merupakan contoh pertama sebuah negara koloni yang berjuang untuk kemerdekaan dan mewujudkan suatu pemerintahan yang demokratis .
+sentence 3: dengan demikian revolusi amerika telah mendorong munculnya gerakan untuk menentang penjajahan asing di indonesia .
+sentence 4: gerakan yang semula bersifat kedaerahan , kemudian berkembang menjadi gerakan nasional .
+sentence 5: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
+passage 9 score = 1.0
+sentence 1: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+sentence 2: dengan demikian , revolusi prancis , revolusi amerika , dan revolusi rusia berpengaruh terhadap munculnya pergerakan nasional indonesia .
+sentence 3: bedanya , jika revolusi prancis dan revolusi amerika berpengaruh terhadap munculnya organisasi pergerakan nasional yang berpaham nasional dan demokratis .
+sentence 4: sebaliknya , revolusi rusia berpengaruh terhadap munculnya organisasi pergerakan yang berpaham komunis .
+sentence 5: selamat belajar .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-title : akulturasi kebudayaan indonesia dengan kebudayaan islam dalam aksara dan seni sastra
-passage 2 score = 6.666666666666667
-sentence 1: hasil karya sastra yang bernapaskan islam , antara lain buku tasawuf yang ditulis oleh hamzah fansyuri , nur al-din al-raniri ( nuruddin ar - raniri ) , abdul al-rauf , dan sunan bonang ; buku suluk primbon , pengantar fikih dan tafsir alquran yang ditulis oleh abdul al-rauf .
-sentence 2: bersamaan dengan berkembangnya ajaran tasawuf , muncullah tarekat-tarekat , antara lain tarekat qadariyah , naqsyabandiah , sammaniah , syattariah , dan rifa’i .
-sentence 3: tarekat ialah jalan atau cara yang ditempuh oleh kaum sufi untuk mendekatkan diri kepada tuhan .
-sentence 4: karya sastra lain yang dihasilkan pada masa islam , antara lain babad tanah jawi , babad cirebon , sejarah melayu , bustanus salatin , dan gurindam dua belas .
-sentence 5: dilihat dari corak dan isinya , kesusastraan yang berkembang sejak kedatangan islam di indonesia ( zaman madya ) dapat dibedakan sebagai berikut .
-passage 6 score = 6.333333333333333
-sentence 1: suluk merupakan hasil kesusastraan tertua dari zaman madya yang berasal dari atau berhubungan erat dengan para wali .
-sentence 2: pada zaman madya , muncul kepandaian pahat memahat menjadi terbatas pada seni ukir hias .
-sentence 3: untuk seni hias , orang mengambil pola berupa daun-daunan , bunga-bungaan ( teratai ) , bukit-bukit karang , pemandangan dan garis geometri .
-sentence 4: sering juga terdapat pada kalamakara dan kalamarga ( yaitu kijang menjadi pengganti makara ) .
-sentence 5: hal itu sebenarnya kurang sesuai dengan peraturan islam , namun dapat juga diterima karena tidak dirasakan sebagai pelanggaran .
-passage 4 score = 5.5
-sentence 1: misalnya , panji inu kertapati , hikayat amir hamzah , hikayat bayan budiman , hikayat si miskin , hikayat bahtiar , dan hikayat hang tuah .
-sentence 2: 2 .
-sentence 3: babad babad ialah cerita sejarah yang biasanya lebih berupa cerita daripada uraian sejarah walaupun yang menjadi pola memang peristiwa sejarah .
-sentence 4: di daerah melayu , babad dikenal dengan nama sejarah , silsilah ( salasilah ) , dan tambo .
-sentence 5: beberapa kitab babad diberi judul hikayat , misalnya hikayat raja-raja pasai , hikayat salasilah perak , sejarah melayu , babad giyanti , babad tanah jawi , dan sejarah negeri kedah .
-passage 5 score = 5.5
-sentence 1: beberapa kitab babad diberi judul hikayat , misalnya hikayat raja-raja pasai , hikayat salasilah perak , sejarah melayu , babad giyanti , babad tanah jawi , dan sejarah negeri kedah .
-sentence 2: 3 .
-sentence 3: suluk suluk adalah kitab yang membentangkan soal tasawuf .
-sentence 4: sifatnya panteis ( manusia bersatu dengan tuhan atau masyarakat jawa mengenal sebagai manunggaling kawula gusti ) .
-sentence 5: suluk merupakan hasil kesusastraan tertua dari zaman madya yang berasal dari atau berhubungan erat dengan para wali .
-passage 1 score = 1.6666666666666665
-sentence 1: akulturasi kebudayaan indonesia dengan kebudayaan islam dalam aksara dan seni sastra – dalam perkembangan islam , kesusastraan jawa umumnya berbentuk tembang , sedangkan di sumatra dan semenanjung malaka berbentuk tembang dan gancaran .
-sentence 2: hikayat yang digubah dalam tembang disebut syair .
-sentence 3: syair yang tertua tertulis tahun 1380 terpahat pada batu nisan makam seorang raja puteri pasai ( di minye tujoh ) , terdiri atas dua bait yang setiap bait terdiri atas empat baris .
-sentence 4: tulisan yang dipakai dalam kesusastraan jawa adalah jawa kuno , sedangkan kesusastraan di sumatra umumnya ditulis dengan huruf arab .
-sentence 5: hasil karya sastra yang bernapaskan islam , antara lain buku tasawuf yang ditulis oleh hamzah fansyuri , nur al-din al-raniri ( nuruddin ar - raniri ) , abdul al-rauf , dan sunan bonang ; buku suluk primbon , pengantar fikih dan tafsir alquran yang ditulis oleh abdul al-rauf .
-passage 8 score = 1.6666666666666665
-sentence 1: sebelum kebudayaan islam memasuki wilayah indonesia , sistem pemerintahan pada kerajaan di indonesia mendapat pengaruh budaya hindu-buddha .
-sentence 2: setelah agama islam beserta kebudayaannya masuk dan berkembang di indonesia , lambat laun berpengaruh terhadap sistem pemerintahan .
-sentence 3: pada saat kedatangan islam , di indonesia sudah berkembang bandar-bandar perdagangan .
-sentence 4: agama islam mengalami perkembangan yang cepat melalui cara perdagangan sehingga terbentuk masyarakat islam .
-sentence 5: semakin pesatnya pusat-pusat perdagangan dengan masyarakatnya yang beragama islam , berdirilah kerajaan-kerajaan yang bercorak islam .
-passage 9 score = 1.6666666666666665
-sentence 1: semakin pesatnya pusat-pusat perdagangan dengan masyarakatnya yang beragama islam , berdirilah kerajaan-kerajaan yang bercorak islam .
-sentence 2: [ ps ]
-passage 3 score = 1.3333333333333333
-sentence 1: dilihat dari corak dan isinya , kesusastraan yang berkembang sejak kedatangan islam di indonesia ( zaman madya ) dapat dibedakan sebagai berikut .
-sentence 2: 1 .
-sentence 3: hikayat hikayat adalah cerita atau dongeng yang berisi berbagai macam peristiwa sejarah .
-sentence 4: keajaiban dan peristiwa yang tidak masuk akal bahkan menjadi bagian terpenting walaupun sering berpangkal pada seorang tokoh sejarah ataupun berkisar pada peristiwa sejarah .
-sentence 5: misalnya , panji inu kertapati , hikayat amir hamzah , hikayat bayan budiman , hikayat si miskin , hikayat bahtiar , dan hikayat hang tuah .
-passage 7 score = 1.3333333333333333
-sentence 1: hal itu sebenarnya kurang sesuai dengan peraturan islam , namun dapat juga diterima karena tidak dirasakan sebagai pelanggaran .
-sentence 2: begitu juga dengan gambar-gambar ular naga yang terdapat di sana-sini .
-sentence 3: kedatangan islam menambah lagi satu pola , yaitu huruf-huruf arab .
-sentence 4: pola itu seringkali digunakan untuk menyamarkan lukisan makhluk hidup , biasanya binatang dan bahkan juga untuk gambar wayang .
-sentence 5: sebelum kebudayaan islam memasuki wilayah indonesia , sistem pemerintahan pada kerajaan di indonesia mendapat pengaruh budaya hindu-buddha .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+passage 4 score = 8.166666666666668
+sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+sentence 2: e. lahirnya organisasi pergerakan nasional asia , seperti di turki ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di india ( munculnya all indian national congres ) , sedangkan di indonesia munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti sarekat islam , indische partij , dan sebagainya .
+sentence 3: pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada tahun 1776 telah melahirkan negara amerika serikat lepas dari negara induk inggris .
+sentence 4: declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di benua amerika dan menyebar luas ke kawasan lain di negara-negara di asia dan afrika .
+sentence 5: pernyataan tersebut merupakan pernyataan yang progresif .
+passage 8 score = 8.0
+sentence 1: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+sentence 2: sneevliet kemudian melakukan infiltrasi ( penyusupan ) kader-kadernya ke dalam tubuh sarekat islam dengan menjadikan anggota-anggota isdv sebagai anggota sarekat islam , dan sebaliknya anggota-anggota sarekat islam menjadi anggota isdv .
+sentence 3: dengan cara ini sneevliet dan kawan-kawannya telah mempunyai pengaruh yang kuat di kalangan sarekat islam , lebih-lebih setelah berhasil mempengaruhi beberapa pemimpin sarekat islam , seperti semaun dan darsono .
+sentence 4: akibatnya , sarekat islam cabang semarang yang sudah berada dibawah pengaruh isdv semakin jelas warna marxismenya sehingga menyebabkan perpecahan dalam tubuh sarekat islam .
+sentence 5: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+passage 7 score = 7.833333333333333
+sentence 1: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+sentence 2: seperti revolusi-revolusi lain , revolusi rusia juga membawa dampak baik bagi rusia sendiri maupun bagi negara-negara di kawasan di dunia termasuk indonesia .
+sentence 3: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional di indonesia tampak jelas dengan berkembangan paham marxis yang kemudian melahirkan partai komunis indonesia .
+sentence 4: benih-benih marxisme dibawa masuk ke indonesia oleh seorang belanda yang bernama h.j.f.m. sneevliet .
+sentence 5: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+passage 1 score = 6.5
+sentence 1: pengaruh revolusi prancis terhadap perkembangan pergerakan nasional indonesia revolusi prancis yang mempunyai semboyan liberte , egalite , dan fraternite telah mendorong berkembangnya liberalisme , demokrasi , dan nasionalisme .
+sentence 2: semboyan egalite adalah semboyan cita-cita kebebasan dan kemerdekaan , yang pada waktu itu menjadi dasar perjuangan kaum borjuis dan warga kota , para pengusaha , dan pedagang .
+sentence 3: mereka memiliki jiwa bebas sehingga melahirkan paham liberalisme .
+sentence 4: egalite juga menjadi ciri kehidupan masyarakat kota dan para pengusaha .
+sentence 5: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+passage 3 score = 6.5
+sentence 1: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
+sentence 2: a. perjuangan rakyat amerika latin untuk menentang penjajahan spanyol dan portugis ( 1807 – 1828 ) .
+sentence 3: b. di kawasan eropa telah mendorong munculnya gerakan untuk membentuk negara kesatuan , seperti di jerman di bawah pimpinan otto van bismark , dan italia di bawah pimpinan perdana menteri cavour .
+sentence 4: c. perjuangan rakyat yunani untuk bebas dari kekuasan turki usmani ( 1821 – 1829 ) .
+sentence 5: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+passage 6 score = 6.0
+sentence 1: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
+sentence 2: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional indonesia revolusi rusia telah berhasil menumbangkan kekuasaan tsar nicholas ii yang memerintah secara diktator .
+sentence 3: rakyat rusia yang merasakan kehidupan di berbagai bidang akibat kediktatoran tsar nicholas ii , akhirnya berhasil menghimpun kekuatan dan menentang kekuasaannya dalam bentuk revolusi .
+sentence 4: revolusi rusia telah berhasil menumbangkan kediktatoran rusia .
+sentence 5: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+passage 2 score = 1.0
+sentence 1: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+sentence 2: sementara itu , semboyan fraternite telah memupuk rasa persaudaraan dan rasa persatuan di antarawarga negara sehingga menimbulkan nasionalisme .
+sentence 3: liberalisme , demokrasi , dan nasionalisme ternyata telah berkembang cepat di prancis dan di negara-negara eropa yang lain .
+sentence 4: bahkan , paham-paham tersebut pada akhir abad ke-19 dan awal abad ke-20 memasuki kawasan lain , terutama negara-negara yang berada di bawah dominasi kekuasaan bangsa lain .
+sentence 5: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
+passage 5 score = 1.0
+sentence 1: pernyataan tersebut merupakan pernyataan yang progresif .
+sentence 2: amerika merupakan contoh pertama sebuah negara koloni yang berjuang untuk kemerdekaan dan mewujudkan suatu pemerintahan yang demokratis .
+sentence 3: dengan demikian revolusi amerika telah mendorong munculnya gerakan untuk menentang penjajahan asing di indonesia .
+sentence 4: gerakan yang semula bersifat kedaerahan , kemudian berkembang menjadi gerakan nasional .
+sentence 5: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
+passage 9 score = 1.0
+sentence 1: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+sentence 2: dengan demikian , revolusi prancis , revolusi amerika , dan revolusi rusia berpengaruh terhadap munculnya pergerakan nasional indonesia .
+sentence 3: bedanya , jika revolusi prancis dan revolusi amerika berpengaruh terhadap munculnya organisasi pergerakan nasional yang berpaham nasional dan demokratis .
+sentence 4: sebaliknya , revolusi rusia berpengaruh terhadap munculnya organisasi pergerakan yang berpaham komunis .
+sentence 5: selamat belajar .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 1 score = 8.5
+sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
+sentence 2: budi utomo organisasi budi utomo ( bu ) didirikan pada tanggal 20 mei 1908 oleh para mahasiswa stovia di batavia dengan sutomo sebagai ketuanya .
+sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo yang sebelumnya telah berkeliling jawa untuk menawarkan idenya membentuk studiefounds .
+sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
+sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
+passage 8 score = 8.5
+sentence 1: a. agama islam .
+sentence 2: b. ekonomi , yakni untuk memperkuat diri dari pedagang cina yang berperan sebagai leveransir ( seperti kain putih , malam , dan sebagainya ) .
+sentence 3: atas prakarsa h.o.s. cokroaminoto , nama sarekat dagang islam kemudian diubah menjadi sarekat islam ( si ) , dengan tujuan untuk memperluas anggota sehingga tidak hanya terbatas pada pedagang saja .
+sentence 4: berdasarkan akte notaris pada tanggal 10 september 1912 , ditetapkan tujuan sarekat islam sebagai berikut : 1 ) memajukan perdagangan ; 2 ) membantu para anggotanya yang mengalami kesulitan dalam bidang usaha ( permodalan ) ; 3 ) memajukan kepentingan rohani dan jasmani penduduk asli ; 4 ) memajukan kehidupan agama islam .
+sentence 5: melihat tujuannya tidak tampak adanya kegiatan politik .
+passage 12 score = 8.5
+sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
+sentence 2: 1 ) kelompok nasionalis religius ( nasionalis keagamaan ) yang dikenal dengan sarekat islam putih dengan asas perjuangan islam di bawah pimpinan h.o.s. cokroaminoto .
+sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam merah dengan haluan sosialis kiri di bawah pimpinan semaun dan darsono .
+sentence 4: 3 .
+sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
+passage 6 score = 8.166666666666668
+sentence 1: strategi perjuangan bu pada dasarnya bersifat kooperatif .
+sentence 2: mulai tahun 1912 dengan tampilnya notodirjo sebagai ketua menggantikan r.t. notokusumo , budi utomo ingin mengejar ketinggalannya .
+sentence 3: akan tetapi , hasilnya tidak begitu besar karena pada saat itu telah muncul organisasi-organisasi nasional lainnya , seperti sarekat islam ( si ) dan indiche partij ( ip ) .
+sentence 4: namun demikian , budi utomo tetap mempunyai andil dan jasa yang besar dalam sejarah pergerakan nasional , yakni telah membuka jalan dan memelopori gerakan kebangsaan indonesia .
+sentence 5: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
+passage 11 score = 8.166666666666668
+sentence 1: tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
+sentence 2: pada tanggal 17 – 24 juni 1916 diadakan kongres si nasional pertama di bandung yang dihadiri oleh 80 sarekat islam lokal dengan anggota 360.000 orang anggota .
+sentence 3: dalam kongres tersebut telah disepakati istilah " nasional " , dimaksudkan bahwa sarekat islam menghendaki persatuan dari seluruh lapisan masyarakat indonesia menjadi satu bangsa .
+sentence 4: sifat sarekat islam yang demokratis dan berani serta berjuang terhadap kapitalisme untuk kepentingan rakyat kecil sangat menarik perhatian kaum sosialis kiri yang tergabung dalam indische social democratische vereeniging ( isdv ) pimpinan sneevliet ( belanda ) , semaun , darsono , tan malaka , dan alimin ( indonesia ) .
+sentence 5: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
+passage 20 score = 8.166666666666668
+sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
+sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
+sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+passage 3 score = 7.833333333333333
+sentence 1: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
+sentence 2: untuk mengonsolidasi diri ( dengan dihadiri 7 cabangnya ) , budi utomo mengadakan kongres yang pertama di yogyakarta pada tanggal 3-5 oktober 1908 .
+sentence 3: kongres memutuskan hal-hal sebagai berikut .
+sentence 4: 1 ) budi utomo tidak ikut dalam mengadakan kegiatan politik .
+sentence 5: 2 ) kegiatan budi utomo terutama ditujukan pada bidang pendidikan dan kebudayaan .
+passage 5 score = 7.833333333333333
+sentence 1: sampai dengan akhir tahun 1909 , telah berdiri 40 cabang budi utomo dengan jumlah anggota mencapai 10.000 orang .
+sentence 2: akan tetapi , dengan adanya kongres tersebut tampaknya terjadi pergeseran pimpinan dari generasi muda ke generasi tua .
+sentence 3: banyak anggota muda yang menyingkir dari barisan depan , dan anggota budi utomo kebanyakan dari golongan priayi dan pegawai negeri .
+sentence 4: dengan demikian , sifat protonasionalisme dari para pemimpin yang tampak pada awal berdirinya budi utomo terdesak ke belakang .
+sentence 5: strategi perjuangan bu pada dasarnya bersifat kooperatif .
+passage 13 score = 7.833333333333333
+sentence 1: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
+sentence 2: organisasi ini mempunyai cita-cita untuk menyatukan semua golongan yang ada di indonesia , baik golongan indonesia asli maupun golongan indo , cina , arab , dan sebagainya .
+sentence 3: mereka akan dipadukan dalam kesatuan bangsa dengan membutuhkan semangat nasionalisme indonesia .
+sentence 4: cita-cita indische partij banyak disebar-luaskan melalui surat kabar de expres .
+sentence 5: di samping itu juga disusun program kerja sebagai berikut : 1 ) meresapkan cita-cita nasional hindia ( indonesia ) .
+passage 15 score = 7.833333333333333
+sentence 1: 5 ) berusaha untuk mendapatkan persamaan hak bagi semua orang hindia .
+sentence 2: 6 ) dalam hal pengajaran , kegunaannya harus ditujukan untuk kepentingan ekonomi hindia dan memperkuat mereka yang ekonominya lemah .
+sentence 3: melihat tujuan dan cara-cara mencapai tujuan seperti tersebut di atas maka dapat diketahui bahwa indische partij berdiri di atas nasionalisme yang luas menuju indonesia merdeka .
+sentence 4: dengan demikian , dapat dikatakan bahwa indische partij merupakan partai politik pertama di indonesia dengan haluan kooperasi .
+sentence 5: dalam waktu yang singkat telah mempunyai 30 cabang dengan anggota lebih kurang 7.000 orang yang kebanyakan orang indo .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+passage 1 score = 8.5
+sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
+sentence 2: budi utomo organisasi budi utomo ( bu ) didirikan pada tanggal 20 mei 1908 oleh para mahasiswa stovia di batavia dengan sutomo sebagai ketuanya .
+sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo yang sebelumnya telah berkeliling jawa untuk menawarkan idenya membentuk studiefounds .
+sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
+sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
+passage 8 score = 8.5
+sentence 1: a. agama islam .
+sentence 2: b. ekonomi , yakni untuk memperkuat diri dari pedagang cina yang berperan sebagai leveransir ( seperti kain putih , malam , dan sebagainya ) .
+sentence 3: atas prakarsa h.o.s. cokroaminoto , nama sarekat dagang islam kemudian diubah menjadi sarekat islam ( si ) , dengan tujuan untuk memperluas anggota sehingga tidak hanya terbatas pada pedagang saja .
+sentence 4: berdasarkan akte notaris pada tanggal 10 september 1912 , ditetapkan tujuan sarekat islam sebagai berikut : 1 ) memajukan perdagangan ; 2 ) membantu para anggotanya yang mengalami kesulitan dalam bidang usaha ( permodalan ) ; 3 ) memajukan kepentingan rohani dan jasmani penduduk asli ; 4 ) memajukan kehidupan agama islam .
+sentence 5: melihat tujuannya tidak tampak adanya kegiatan politik .
+passage 12 score = 8.5
+sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
+sentence 2: 1 ) kelompok nasionalis religius ( nasionalis keagamaan ) yang dikenal dengan sarekat islam putih dengan asas perjuangan islam di bawah pimpinan h.o.s. cokroaminoto .
+sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam merah dengan haluan sosialis kiri di bawah pimpinan semaun dan darsono .
+sentence 4: 3 .
+sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
+passage 6 score = 8.166666666666668
+sentence 1: strategi perjuangan bu pada dasarnya bersifat kooperatif .
+sentence 2: mulai tahun 1912 dengan tampilnya notodirjo sebagai ketua menggantikan r.t. notokusumo , budi utomo ingin mengejar ketinggalannya .
+sentence 3: akan tetapi , hasilnya tidak begitu besar karena pada saat itu telah muncul organisasi-organisasi nasional lainnya , seperti sarekat islam ( si ) dan indiche partij ( ip ) .
+sentence 4: namun demikian , budi utomo tetap mempunyai andil dan jasa yang besar dalam sejarah pergerakan nasional , yakni telah membuka jalan dan memelopori gerakan kebangsaan indonesia .
+sentence 5: itulah sebabnya tanggal 20 mei ditetapkan sebagai hari kebangkitan nasional yang kita peringati setiap tahun hingga sekarang .
+passage 11 score = 8.166666666666668
+sentence 1: tugasnya ialah membantu menuju kemajuan dan kerjasama antar sarekat islam lokal .
+sentence 2: pada tanggal 17 – 24 juni 1916 diadakan kongres si nasional pertama di bandung yang dihadiri oleh 80 sarekat islam lokal dengan anggota 360.000 orang anggota .
+sentence 3: dalam kongres tersebut telah disepakati istilah " nasional " , dimaksudkan bahwa sarekat islam menghendaki persatuan dari seluruh lapisan masyarakat indonesia menjadi satu bangsa .
+sentence 4: sifat sarekat islam yang demokratis dan berani serta berjuang terhadap kapitalisme untuk kepentingan rakyat kecil sangat menarik perhatian kaum sosialis kiri yang tergabung dalam indische social democratische vereeniging ( isdv ) pimpinan sneevliet ( belanda ) , semaun , darsono , tan malaka , dan alimin ( indonesia ) .
+sentence 5: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
+passage 20 score = 8.166666666666668
+sentence 1: itulah sebabnya penyelenggaraan pendidikan dan pengajaran agama islam secara modern dan memperteguh keyakinan tentang agama islam sehingga terwujud masyarakat islam yang sebenarnya .
+sentence 2: kegiatan muhammadiyah juga telah memperhatikan pendidikan wanita yang dinamakan aisyiah , sedangkan untuk kepanduan disebut hizbut wathon ( hw ) .
+sentence 3: sejak berdiri di yogyakarta ( 1912 ) muhammadiyah terus mengalami perkembangan yang pesat .
+sentence 4: sampai tahun 1913 , muhammadiyah telah memiliki 267 cabang yang tersebar di pulau jawa .
+sentence 5: pada tahun 1935 , muhammadiyah sudah mempunyai 710 cabang yang tersebar di pulau jawa , sumatra , kalimantan dan sulawesi .
+passage 3 score = 7.833333333333333
+sentence 1: sampai menjelang kongresnya yang pertama di yogyakarta telah berdiri tujuh cabang budi utomo , yakni di batavia , bogor , bandung , magelang , yogyakarta , surabaya , dan ponorogo .
+sentence 2: untuk mengonsolidasi diri ( dengan dihadiri 7 cabangnya ) , budi utomo mengadakan kongres yang pertama di yogyakarta pada tanggal 3-5 oktober 1908 .
+sentence 3: kongres memutuskan hal-hal sebagai berikut .
+sentence 4: 1 ) budi utomo tidak ikut dalam mengadakan kegiatan politik .
+sentence 5: 2 ) kegiatan budi utomo terutama ditujukan pada bidang pendidikan dan kebudayaan .
+passage 5 score = 7.833333333333333
+sentence 1: sampai dengan akhir tahun 1909 , telah berdiri 40 cabang budi utomo dengan jumlah anggota mencapai 10.000 orang .
+sentence 2: akan tetapi , dengan adanya kongres tersebut tampaknya terjadi pergeseran pimpinan dari generasi muda ke generasi tua .
+sentence 3: banyak anggota muda yang menyingkir dari barisan depan , dan anggota budi utomo kebanyakan dari golongan priayi dan pegawai negeri .
+sentence 4: dengan demikian , sifat protonasionalisme dari para pemimpin yang tampak pada awal berdirinya budi utomo terdesak ke belakang .
+sentence 5: strategi perjuangan bu pada dasarnya bersifat kooperatif .
+passage 13 score = 7.833333333333333
+sentence 1: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
+sentence 2: organisasi ini mempunyai cita-cita untuk menyatukan semua golongan yang ada di indonesia , baik golongan indonesia asli maupun golongan indo , cina , arab , dan sebagainya .
+sentence 3: mereka akan dipadukan dalam kesatuan bangsa dengan membutuhkan semangat nasionalisme indonesia .
+sentence 4: cita-cita indische partij banyak disebar-luaskan melalui surat kabar de expres .
+sentence 5: di samping itu juga disusun program kerja sebagai berikut : 1 ) meresapkan cita-cita nasional hindia ( indonesia ) .
+passage 15 score = 7.833333333333333
+sentence 1: 5 ) berusaha untuk mendapatkan persamaan hak bagi semua orang hindia .
+sentence 2: 6 ) dalam hal pengajaran , kegunaannya harus ditujukan untuk kepentingan ekonomi hindia dan memperkuat mereka yang ekonominya lemah .
+sentence 3: melihat tujuan dan cara-cara mencapai tujuan seperti tersebut di atas maka dapat diketahui bahwa indische partij berdiri di atas nasionalisme yang luas menuju indonesia merdeka .
+sentence 4: dengan demikian , dapat dikatakan bahwa indische partij merupakan partai politik pertama di indonesia dengan haluan kooperasi .
+sentence 5: dalam waktu yang singkat telah mempunyai 30 cabang dengan anggota lebih kurang 7.000 orang yang kebanyakan orang indo .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok140.txt
 title : gagasan persatuan dan kesatuan bangsa serta aktivitas organisasi pergerakan
 passage 14 score = 7.166666666666667
 sentence 1: dengan sikap moderat , parindra dapat mendudukan wakilnya di dalam volkrsraad , yaitu muh .
@@ -508,7 +456,7 @@ sentence 3: husni thamrin .
 sentence 4: gapi merupakan gabungan dari parindra , gerindo , psii , persatuan partai katolik , persatuan minahasa , pasundan dan partai islam indonesia ( pii ) .
 sentence 5: alasan yang mendorong dan mempercepat terbentuknya federasi adalah sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok69.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok69.txt
 title : gagasan persatuan dan kesatuan bangsa serta aktivitas organisasi pergerakan
 passage 14 score = 7.166666666666667
 sentence 1: dengan sikap moderat , parindra dapat mendudukan wakilnya di dalam volkrsraad , yaitu muh .
@@ -571,7 +519,7 @@ sentence 3: husni thamrin .
 sentence 4: gapi merupakan gabungan dari parindra , gerindo , psii , persatuan partai katolik , persatuan minahasa , pasundan dan partai islam indonesia ( pii ) .
 sentence 5: alasan yang mendorong dan mempercepat terbentuknya federasi adalah sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
 title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
 passage 24 score = 7.5
 sentence 1: gerakan turki muda memberikan pengaruh politis bagi pergerakan bangsa indonesia sebab mengarah pada pembaruan-pembaruan dan modernisasi .
@@ -634,66 +582,75 @@ sentence 3: keanggotaan sdi masih terbatas pada ruang lingkup pedagang , maka ti
 sentence 4: oleh karena itu agar memiliki anggota yang banyak dan luas ruang lingkupnya , maka pada tanggal 18 september 1912 , sdi diubah menjadi si ( sarekat islam ) .
 sentence 5: organisasi sarekat islam ( si ) didirikan oleh beberapa tokoh sdi seperti h.o.s cokroaminoto , abdul muis , dan h. agus salim .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
-title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
-passage 4 score = 7.166666666666667
-sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
-sentence 2: e. lahirnya organisasi pergerakan nasional asia , seperti di turki ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di india ( munculnya all indian national congres ) , sedangkan di indonesia munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti sarekat islam , indische partij , dan sebagainya .
-sentence 3: pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada tahun 1776 telah melahirkan negara amerika serikat lepas dari negara induk inggris .
-sentence 4: declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di benua amerika dan menyebar luas ke kawasan lain di negara-negara di asia dan afrika .
-sentence 5: pernyataan tersebut merupakan pernyataan yang progresif .
-passage 8 score = 7.0
-sentence 1: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
-sentence 2: sneevliet kemudian melakukan infiltrasi ( penyusupan ) kader-kadernya ke dalam tubuh sarekat islam dengan menjadikan anggota-anggota isdv sebagai anggota sarekat islam , dan sebaliknya anggota-anggota sarekat islam menjadi anggota isdv .
-sentence 3: dengan cara ini sneevliet dan kawan-kawannya telah mempunyai pengaruh yang kuat di kalangan sarekat islam , lebih-lebih setelah berhasil mempengaruhi beberapa pemimpin sarekat islam , seperti semaun dan darsono .
-sentence 4: akibatnya , sarekat islam cabang semarang yang sudah berada dibawah pengaruh isdv semakin jelas warna marxismenya sehingga menyebabkan perpecahan dalam tubuh sarekat islam .
-sentence 5: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
-passage 7 score = 6.833333333333333
-sentence 1: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
-sentence 2: seperti revolusi-revolusi lain , revolusi rusia juga membawa dampak baik bagi rusia sendiri maupun bagi negara-negara di kawasan di dunia termasuk indonesia .
-sentence 3: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional di indonesia tampak jelas dengan berkembangan paham marxis yang kemudian melahirkan partai komunis indonesia .
-sentence 4: benih-benih marxisme dibawa masuk ke indonesia oleh seorang belanda yang bernama h.j.f.m. sneevliet .
-sentence 5: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
-passage 1 score = 5.5
-sentence 1: pengaruh revolusi prancis terhadap perkembangan pergerakan nasional indonesia revolusi prancis yang mempunyai semboyan liberte , egalite , dan fraternite telah mendorong berkembangnya liberalisme , demokrasi , dan nasionalisme .
-sentence 2: semboyan egalite adalah semboyan cita-cita kebebasan dan kemerdekaan , yang pada waktu itu menjadi dasar perjuangan kaum borjuis dan warga kota , para pengusaha , dan pedagang .
-sentence 3: mereka memiliki jiwa bebas sehingga melahirkan paham liberalisme .
-sentence 4: egalite juga menjadi ciri kehidupan masyarakat kota dan para pengusaha .
-sentence 5: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
-passage 3 score = 5.5
-sentence 1: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
-sentence 2: a. perjuangan rakyat amerika latin untuk menentang penjajahan spanyol dan portugis ( 1807 – 1828 ) .
-sentence 3: b. di kawasan eropa telah mendorong munculnya gerakan untuk membentuk negara kesatuan , seperti di jerman di bawah pimpinan otto van bismark , dan italia di bawah pimpinan perdana menteri cavour .
-sentence 4: c. perjuangan rakyat yunani untuk bebas dari kekuasan turki usmani ( 1821 – 1829 ) .
-sentence 5: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
-passage 6 score = 5.0
-sentence 1: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
-sentence 2: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional indonesia revolusi rusia telah berhasil menumbangkan kekuasaan tsar nicholas ii yang memerintah secara diktator .
-sentence 3: rakyat rusia yang merasakan kehidupan di berbagai bidang akibat kediktatoran tsar nicholas ii , akhirnya berhasil menghimpun kekuatan dan menentang kekuasaannya dalam bentuk revolusi .
-sentence 4: revolusi rusia telah berhasil menumbangkan kediktatoran rusia .
-sentence 5: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
-passage 2 score = 0.0
-sentence 1: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
-sentence 2: sementara itu , semboyan fraternite telah memupuk rasa persaudaraan dan rasa persatuan di antarawarga negara sehingga menimbulkan nasionalisme .
-sentence 3: liberalisme , demokrasi , dan nasionalisme ternyata telah berkembang cepat di prancis dan di negara-negara eropa yang lain .
-sentence 4: bahkan , paham-paham tersebut pada akhir abad ke-19 dan awal abad ke-20 memasuki kawasan lain , terutama negara-negara yang berada di bawah dominasi kekuasaan bangsa lain .
-sentence 5: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
-passage 5 score = 0.0
-sentence 1: pernyataan tersebut merupakan pernyataan yang progresif .
-sentence 2: amerika merupakan contoh pertama sebuah negara koloni yang berjuang untuk kemerdekaan dan mewujudkan suatu pemerintahan yang demokratis .
-sentence 3: dengan demikian revolusi amerika telah mendorong munculnya gerakan untuk menentang penjajahan asing di indonesia .
-sentence 4: gerakan yang semula bersifat kedaerahan , kemudian berkembang menjadi gerakan nasional .
-sentence 5: gerakan nasional di indonesia bertujuan untuk memperoleh kemerdekaan dan membentuk pemerintahan yang demokratis .
-passage 9 score = 0.0
-sentence 1: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
-sentence 2: dengan demikian , revolusi prancis , revolusi amerika , dan revolusi rusia berpengaruh terhadap munculnya pergerakan nasional indonesia .
-sentence 3: bedanya , jika revolusi prancis dan revolusi amerika berpengaruh terhadap munculnya organisasi pergerakan nasional yang berpaham nasional dan demokratis .
-sentence 4: sebaliknya , revolusi rusia berpengaruh terhadap munculnya organisasi pergerakan yang berpaham komunis .
-sentence 5: selamat belajar .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 3 score = 7.0
+sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
+sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
+sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
+sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+passage 4 score = 6.333333333333333
+sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
+sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
+sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
+sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+passage 1 score = 5.833333333333333
+sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
+sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
+sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
+sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
+sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+passage 2 score = 5.833333333333333
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+passage 5 score = 5.5
+sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
+sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
+sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
+sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 3 score = 7.0
+sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
+sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
+sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
+sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+passage 4 score = 6.333333333333333
+sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
+sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
+sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
+sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+passage 1 score = 5.833333333333333
+sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
+sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
+sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
+sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
+sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+passage 2 score = 5.833333333333333
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+passage 5 score = 5.5
+sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
+sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
+sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
+sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
 title : sejarah munculnya sarekat islam
 passage 1 score = 8.5
 sentence 1: sejarah munculnya sarekat islam – adanya persaingan dagang antara para pedagang islam dan pedagang cina , mendorong para pedagang islam untuk bersatu .
@@ -702,7 +659,7 @@ sentence 3: pendiri sdi ini adalah haji samanhudi .
 sentence 4: sdi selanjutnya diubah namanya menjadi sarekat islam ( si ) .
 sentence 5: adapun tujuan pendirian sarekat islam di antaranya sebagai berikut : 1 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 1 score = 8.5
 sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
@@ -711,7 +668,7 @@ sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo y
 sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
 sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 8 score = 8.5
 sentence 1: a. agama islam .
@@ -720,7 +677,7 @@ sentence 3: atas prakarsa h.o.s. cokroaminoto , nama sarekat dagang islam kemudi
 sentence 4: berdasarkan akte notaris pada tanggal 10 september 1912 , ditetapkan tujuan sarekat islam sebagai berikut : 1 ) memajukan perdagangan ; 2 ) membantu para anggotanya yang mengalami kesulitan dalam bidang usaha ( permodalan ) ; 3 ) memajukan kepentingan rohani dan jasmani penduduk asli ; 4 ) memajukan kehidupan agama islam .
 sentence 5: melihat tujuannya tidak tampak adanya kegiatan politik .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 12 score = 8.5
 sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
@@ -729,7 +686,7 @@ sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam
 sentence 4: 3 .
 sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 1 score = 8.5
 sentence 1: organisasi pergerakan nasional ( budi utomo , sarekat islam , indische partij , muhammadiyah dan lainnya ) 1 .
@@ -738,7 +695,7 @@ sentence 3: terbentuknya organisasi tersebut atas ide dr. wahidin sudirohusodo y
 sentence 4: gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa bagi pelajar yang berprestasi , namun tidak mampu melanjutnya studinya .
 sentence 5: gagasan itu tidak terwujud , tetapi gagasan itu melahirkan budi utomo .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 8 score = 8.5
 sentence 1: a. agama islam .
@@ -747,7 +704,7 @@ sentence 3: atas prakarsa h.o.s. cokroaminoto , nama sarekat dagang islam kemudi
 sentence 4: berdasarkan akte notaris pada tanggal 10 september 1912 , ditetapkan tujuan sarekat islam sebagai berikut : 1 ) memajukan perdagangan ; 2 ) membantu para anggotanya yang mengalami kesulitan dalam bidang usaha ( permodalan ) ; 3 ) memajukan kepentingan rohani dan jasmani penduduk asli ; 4 ) memajukan kehidupan agama islam .
 sentence 5: melihat tujuannya tidak tampak adanya kegiatan politik .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 12 score = 8.5
 sentence 1: itulah sebabnya dalam perkembangannya sarekat islam pecah menjadi dua kelompok berikut ini .
@@ -756,25 +713,25 @@ sentence 3: 2 ) kelompok ekonomi dogmatis yang dikenal dengan nama sarekat islam
 sentence 4: 3 .
 sentence 5: indische partij ( ip ) indische partij ( ip ) didirikan di bandung pada tanggal 25 desember 1912 oleh tiga serangkai , yakni douwes dekker ( setyabudi danudirjo ) , dr. cipto mangunkusumo , dan suwardi suryaningrat ( ki hajar dewantara ) .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-title : perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
-passage 7 score = 8.166666666666668
-sentence 1: sistem bandongan adalah sistem pengajaran yang bersifat umum dan bersama-sama semacam ceramah umum yang disampaikan oleh seorang ustad ataupun kiai yang dihadiri oleh semua santri .
-sentence 2: lamanya mengikuti pendidikan di pesantren tidak tentu , gurulah yang akan menyatakan seorang santri itu sudah menguasai ilmu yang diberikannya .
-sentence 3: santri yang telah selesai mengikuti pendidikan di pesantren akan menyebarkan ilmu yang ia milikinya kepada masyarakat , dengan menjadi tokoh agama ataupun mendirikan pesantren di tempat tinggalnya .
-sentence 4: lembaga-lembaga pendidikan semacam pesantren , surau , ataumeunasah merupakan lembaga-lembaga pendidikan yang vital di indonesia .
-sentence 5: pada awal perkembangan islam , lembaga ini menjadi pusat penyebaran agama islam dan wadah untuk mencetak intelektual muslim .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+passage 4 score = 8.166666666666668
+sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+sentence 2: e. lahirnya organisasi pergerakan nasional asia , seperti di turki ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di india ( munculnya all indian national congres ) , sedangkan di indonesia munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti sarekat islam , indische partij , dan sebagainya .
+sentence 3: pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada tahun 1776 telah melahirkan negara amerika serikat lepas dari negara induk inggris .
+sentence 4: declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di benua amerika dan menyebar luas ke kawasan lain di negara-negara di asia dan afrika .
+sentence 5: pernyataan tersebut merupakan pernyataan yang progresif .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-title : perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
-passage 14 score = 8.166666666666668
-sentence 1: orang-orang yang menjalankan kehidupan tasawuf disebut sufi.tasawuf mengembangkan suatu ajaran dan keyakinan dalam memilih jalan hidup secara uhud atau sederhana , menjauhkan diri dari perhiasan dunia dan melaksanakan intensitas beribadah untuk mencari rida atau ampunan allah .
-sentence 2: tasawuf merupakan fenomena sosial dan keagamaan yang bercorak islam .
-sentence 3: unsur-unsur mistisisme yang tampaknya bukan asli dari ajaran islam tetapi merupakan bentuk sinkretisme dengan budaya lokal menjadikan tasawuf mudah diterima oleh masyarakat indonesia .
-sentence 4: dengan demikian , tasawuf menjadi salah satu cara untuk menarik masyarakat agar masuk ke dalam agama islam .
-sentence 5: hal ini bisa kita perhatikan dari begitu pesatnya perkembangan ajaran tasawuf di indonesia .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+passage 4 score = 8.166666666666668
+sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+sentence 2: e. lahirnya organisasi pergerakan nasional asia , seperti di turki ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di india ( munculnya all indian national congres ) , sedangkan di indonesia munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti sarekat islam , indische partij , dan sebagainya .
+sentence 3: pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada tahun 1776 telah melahirkan negara amerika serikat lepas dari negara induk inggris .
+sentence 4: declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di benua amerika dan menyebar luas ke kawasan lain di negara-negara di asia dan afrika .
+sentence 5: pernyataan tersebut merupakan pernyataan yang progresif .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 passage 6 score = 8.166666666666668
 sentence 1: strategi perjuangan bu pada dasarnya bersifat kooperatif .
@@ -792,7 +749,7 @@ sejarah munculnya sarekat islam – adanya persaingan dagang antara <PERSON>para
 
 memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
 title : sejarah munculnya sarekat islam
 list jawaban dan posisi dalam passage
 pedagang islam | position = 6
@@ -863,7 +820,7 @@ mereka ( <PERSON>para pedagang</PERSON> islam ) mendirikan perkumpulan/organisas
 
 memproses passage 1
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
 title : sejarah munculnya sarekat islam
 list jawaban dan posisi dalam passage
 pedagang | position = 0
@@ -943,7 +900,7 @@ organisasi pergerakan nasional ( budi utomo , sarekat islam , <PERSON>indische p
 
 memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 indische partij muhammadiyah | position = 7
@@ -994,7 +951,7 @@ budi utomo organisasi budi utomo ( bu ) didirikan pada <TIME>tanggal 20 mei 1908
 
 memproses passage 1
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 mahasiswa | position = 8
@@ -1055,7 +1012,7 @@ terbentuknya organisasi tersebut atas ide <PERSON>dr. wahidin sudirohusodo</PERS
 
 memproses passage 1
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 dr wahidin sudirohusodo | position = 4
@@ -1107,7 +1064,7 @@ gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa b
 
 memproses passage 1
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 pelajar berprestasi | position = 9
@@ -1171,7 +1128,7 @@ b. ekonomi , yakni untuk memperkuat diri dari <PERSON>pedagang cina</PERSON> yan
 
 memproses passage 8
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 pedagang cina | position = 4
@@ -1217,7 +1174,7 @@ atas prakarsa <PERSON>h.o.s. cokroaminoto ,</PERSON> nama sarekat dagang islam k
 
 memproses passage 8
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 h.o.s cokroaminoto | position = 2
@@ -1321,7 +1278,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 12
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 h.o.s cokroaminoto | position = 15
@@ -1397,7 +1354,7 @@ tokenwithtagstemmed = h.o.s cokroaminoto
 
 memproses passage 12
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 sosialis kiri | position = 10
@@ -1475,7 +1432,7 @@ indische partij ( ip ) <PERSON>indische partij</PERSON> ( ip ) didirikan di band
 
 memproses passage 12
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 indische partij | position = 3
@@ -1556,7 +1513,7 @@ organisasi pergerakan nasional ( budi utomo , sarekat islam , <PERSON>indische p
 
 memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 indische partij muhammadiyah | position = 7
@@ -1607,7 +1564,7 @@ budi utomo organisasi budi utomo ( bu ) didirikan pada <TIME>tanggal 20 mei 1908
 
 memproses passage 1
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 mahasiswa | position = 8
@@ -1668,7 +1625,7 @@ terbentuknya organisasi tersebut atas ide <PERSON>dr. wahidin sudirohusodo</PERS
 
 memproses passage 1
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 dr wahidin sudirohusodo | position = 4
@@ -1720,7 +1677,7 @@ gagasan studiesfounds bertujuan untuk menghimpun dana guna memberikan beasiswa b
 
 memproses passage 1
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 pelajar berprestasi | position = 9
@@ -1784,7 +1741,7 @@ b. ekonomi , yakni untuk memperkuat diri dari <PERSON>pedagang cina</PERSON> yan
 
 memproses passage 8
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 pedagang cina | position = 4
@@ -1830,7 +1787,7 @@ atas prakarsa <PERSON>h.o.s. cokroaminoto ,</PERSON> nama sarekat dagang islam k
 
 memproses passage 8
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 h.o.s cokroaminoto | position = 2
@@ -1934,7 +1891,7 @@ tidak ada entitas jawaban, skip
 
 memproses passage 12
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 h.o.s cokroaminoto | position = 15
@@ -2010,7 +1967,7 @@ tokenwithtagstemmed = h.o.s cokroaminoto
 
 memproses passage 12
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 sosialis kiri | position = 10
@@ -2088,7 +2045,7 @@ indische partij ( ip ) <PERSON>indische partij</PERSON> ( ip ) didirikan di band
 
 memproses passage 12
 sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 indische partij | position = 3
@@ -2165,292 +2122,431 @@ tokenwithtagstemmed = hajar
 tokenwithtagstemmed = dewantara
 
 
-sistem bandongan adalah sistem pengajaran yang bersifat umum dan bersama-sama semacam ceramah umum yang disampaikan oleh seorang ustad ataupun kiai yang dihadiri oleh semua santri .
+d. munculnya gerakan turki muda di turki pada akhir <TIME>abad ke-19 .</TIME>
 
 
 tidak ada entitas jawaban, skip
 
 
-lamanya mengikuti pendidikan di pesantren tidak tentu , gurulah yang akan menyatakan seorang santri itu sudah menguasai ilmu yang diberikannya .
+e. lahirnya organisasi pergerakan nasional asia , seperti di <LOCATION>turki</LOCATION> ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di <LOCATION>india</LOCATION> ( munculnya all indian national congres ) , sedangkan di <LOCATION>indonesia</LOCATION> munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti <PERSON>sarekat islam , indische partij ,</PERSON> dan sebagainya .
 
-
-tidak ada entitas jawaban, skip
-
-
-santri yang telah selesai mengikuti pendidikan di <LOCATION>pesantren</LOCATION> akan menyebarkan ilmu yang ia milikinya kepada <PERSON>masyarakat ,</PERSON> dengan menjadi tokoh agama ataupun mendirikan pesantren di tempat tinggalnya .
-
-memproses passage 7
-sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-title : perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
+memproses passage 4
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
 list jawaban dan posisi dalam passage
-masyarakat | position = 8
+sarekat islam indische partij | position = 32
 
 
 melakukan pencarian:
 kata kunci = diri
-tokenwithtagstemmed = santri
-tokenwithtagstemmed = selesai
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = didik
-tokenwithtagstemmed = pesantren
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = ilmu
-tokenwithtagstemmed = milik
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = diri
-posisi dalam passage = 12
-jarak dengan tiap kandidat jawaban:
-masyarakat -4
-
-tokenwithtagstemmed = pesantren
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = e
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = la
+tokenwithtagstemmed = liga
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = katipunan
+tokenwithtagstemmed = india
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = all
+tokenwithtagstemmed = indian
+tokenwithtagstemmed = national
+tokenwithtagstemmed = congres
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = lopor
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = sarekat islam indische partij
 kata kunci = sarekat
-tokenwithtagstemmed = santri
-tokenwithtagstemmed = selesai
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = didik
-tokenwithtagstemmed = pesantren
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = ilmu
-tokenwithtagstemmed = milik
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = pesantren
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = e
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = la
+tokenwithtagstemmed = liga
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = katipunan
+tokenwithtagstemmed = india
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = all
+tokenwithtagstemmed = indian
+tokenwithtagstemmed = national
+tokenwithtagstemmed = congres
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = lopor
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = sarekat islam indische partij
 kata kunci = islam
-tokenwithtagstemmed = santri
-tokenwithtagstemmed = selesai
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = didik
-tokenwithtagstemmed = pesantren
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = ilmu
-tokenwithtagstemmed = milik
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = pesantren
-tokenwithtagstemmed = tempat
-tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = e
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = la
+tokenwithtagstemmed = liga
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = katipunan
+tokenwithtagstemmed = india
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = all
+tokenwithtagstemmed = indian
+tokenwithtagstemmed = national
+tokenwithtagstemmed = congres
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = lopor
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = sarekat islam indische partij
 
 
-lembaga-lembaga pendidikan semacam pesantren , surau , ataumeunasah merupakan lembaga-lembaga pendidikan yang vital di <LOCATION>indonesia .</LOCATION>
+pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada <TIME>tahun 1776</TIME> telah melahirkan negara amerika serikat lepas dari negara induk inggris .
 
 
 tidak ada entitas jawaban, skip
 
 
-pada awal perkembangan islam , lembaga ini menjadi <PERSON>pusat</PERSON> penyebaran agama islam dan wadah untuk mencetak intelektual muslim .
+declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di <LOCATION>benua amerika</LOCATION> dan menyebar luas ke kawasan lain di <LOCATION>negara-negara di asia</LOCATION> dan <PERSON>afrika .</PERSON>
 
-memproses passage 7
-sentence : 5
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-title : perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
-list jawaban dan posisi dalam passage
-pusat | position = 5
-
-
-melakukan pencarian:
-kata kunci = diri
-tokenwithtagstemmed = awal
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = lembaga
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = pusat
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = wadah
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = cetak
-tokenwithtagstemmed = intelektual
-tokenwithtagstemmed = muslim
-kata kunci = sarekat
-tokenwithtagstemmed = awal
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = lembaga
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = pusat
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = wadah
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = cetak
-tokenwithtagstemmed = intelektual
-tokenwithtagstemmed = muslim
-kata kunci = islam
-tokenwithtagstemmed = awal
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = islam
-posisi dalam passage = 2
-jarak dengan tiap kandidat jawaban:
-pusat 3
-
-tokenwithtagstemmed = lembaga
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = pusat
-tokenwithtagstemmed = sebar
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = islam
-posisi dalam passage = 8
-jarak dengan tiap kandidat jawaban:
-pusat -3
-
-tokenwithtagstemmed = wadah
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = cetak
-tokenwithtagstemmed = intelektual
-tokenwithtagstemmed = muslim
-
-
-orang-orang yang menjalankan kehidupan tasawuf disebut sufi.tasawuf mengembangkan suatu ajaran dan keyakinan dalam memilih jalan hidup secara uhud atau sederhana , menjauhkan diri dari perhiasan dunia dan melaksanakan intensitas beribadah untuk mencari rida atau ampunan allah .
-
-
-tidak ada entitas jawaban, skip
-
-
-tasawuf merupakan fenomena sosial dan keagamaan yang bercorak islam .
-
-
-tidak ada entitas jawaban, skip
-
-
-unsur-unsur mistisisme yang tampaknya bukan asli dari ajaran islam tetapi merupakan bentuk sinkretisme dengan budaya lokal menjadikan tasawuf mudah diterima oleh <PERSON>masyarakat indonesia .</PERSON>
-
-memproses passage 14
-sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-title : perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
-list jawaban dan posisi dalam passage
-masyarakat indonesia | position = 15
-
-
-melakukan pencarian:
-kata kunci = diri
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = mistisisme
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = asli
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = sinkretisme
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = lokal
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = tasawuf
-tokenwithtagstemmed = mudah
-tokenwithtagstemmed = terima
-tokenwithtagstemmed = masyarakat indonesia
-kata kunci = sarekat
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = mistisisme
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = asli
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = sinkretisme
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = lokal
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = tasawuf
-tokenwithtagstemmed = mudah
-tokenwithtagstemmed = terima
-tokenwithtagstemmed = masyarakat indonesia
-kata kunci = islam
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = mistisisme
-tokenwithtagstemmed = tampak
-tokenwithtagstemmed = asli
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = islam
-posisi dalam passage = 6
-jarak dengan tiap kandidat jawaban:
-masyarakat indonesia 9
-
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = sinkretisme
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = lokal
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = tasawuf
-tokenwithtagstemmed = mudah
-tokenwithtagstemmed = terima
-tokenwithtagstemmed = masyarakat indonesia
-
-
-dengan demikian , tasawuf menjadi salah satu cara untuk menarik <PERSON>masyarakat</PERSON> agar masuk ke dalam agama islam .
-
-memproses passage 14
+memproses passage 4
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-title : perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
 list jawaban dan posisi dalam passage
-masyarakat | position = 7
+afrika | position = 21
 
 
 melakukan pencarian:
 kata kunci = diri
-tokenwithtagstemmed = tasawuf
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = cara
+tokenwithtagstemmed = declaration
+tokenwithtagstemmed = of
+tokenwithtagstemmed = independence
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = asasi
+tokenwithtagstemmed = manusia
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = bebas
+tokenwithtagstemmed = hak
 tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tarik
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = islam
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = gema
+tokenwithtagstemmed = benua amerika
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = negara negara asia
+tokenwithtagstemmed = afrika
 kata kunci = sarekat
-tokenwithtagstemmed = tasawuf
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = cara
+tokenwithtagstemmed = declaration
+tokenwithtagstemmed = of
+tokenwithtagstemmed = independence
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = asasi
+tokenwithtagstemmed = manusia
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = bebas
+tokenwithtagstemmed = hak
 tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tarik
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = islam
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = gema
+tokenwithtagstemmed = benua amerika
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = negara negara asia
+tokenwithtagstemmed = afrika
 kata kunci = islam
-tokenwithtagstemmed = tasawuf
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = cara
+tokenwithtagstemmed = declaration
+tokenwithtagstemmed = of
+tokenwithtagstemmed = independence
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = asasi
+tokenwithtagstemmed = manusia
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = bebas
+tokenwithtagstemmed = hak
 tokenwithtagstemmed = untuk
-tokenwithtagstemmed = tarik
-tokenwithtagstemmed = masyarakat
-tokenwithtagstemmed = masuk
-tokenwithtagstemmed = agama
-tokenwithtagstemmed = islam
-posisi dalam passage = 10
-jarak dengan tiap kandidat jawaban:
-masyarakat -3
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = gema
+tokenwithtagstemmed = benua amerika
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = negara negara asia
+tokenwithtagstemmed = afrika
 
 
+pernyataan tersebut merupakan pernyataan yang progresif .
 
-hal ini bisa kita perhatikan dari begitu pesatnya perkembangan ajaran tasawuf di <LOCATION>indonesia .</LOCATION>
+
+tidak ada entitas jawaban, skip
+
+
+d. munculnya gerakan turki muda di turki pada akhir <TIME>abad ke-19 .</TIME>
+
+
+tidak ada entitas jawaban, skip
+
+
+e. lahirnya organisasi pergerakan nasional asia , seperti di <LOCATION>turki</LOCATION> ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di <LOCATION>india</LOCATION> ( munculnya all indian national congres ) , sedangkan di <LOCATION>indonesia</LOCATION> munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti <PERSON>sarekat islam , indische partij ,</PERSON> dan sebagainya .
+
+memproses passage 4
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+list jawaban dan posisi dalam passage
+sarekat islam indische partij | position = 32
+
+
+melakukan pencarian:
+kata kunci = diri
+tokenwithtagstemmed = e
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = la
+tokenwithtagstemmed = liga
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = katipunan
+tokenwithtagstemmed = india
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = all
+tokenwithtagstemmed = indian
+tokenwithtagstemmed = national
+tokenwithtagstemmed = congres
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = lopor
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = sarekat islam indische partij
+kata kunci = sarekat
+tokenwithtagstemmed = e
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = la
+tokenwithtagstemmed = liga
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = katipunan
+tokenwithtagstemmed = india
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = all
+tokenwithtagstemmed = indian
+tokenwithtagstemmed = national
+tokenwithtagstemmed = congres
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = lopor
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = sarekat islam indische partij
+kata kunci = islam
+tokenwithtagstemmed = e
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = turki
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = la
+tokenwithtagstemmed = liga
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = katipunan
+tokenwithtagstemmed = india
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = all
+tokenwithtagstemmed = indian
+tokenwithtagstemmed = national
+tokenwithtagstemmed = congres
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = bangkit
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = lopor
+tokenwithtagstemmed = budi
+tokenwithtagstemmed = utomo
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = sarekat islam indische partij
+
+
+pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada <TIME>tahun 1776</TIME> telah melahirkan negara amerika serikat lepas dari negara induk inggris .
+
+
+tidak ada entitas jawaban, skip
+
+
+declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di <LOCATION>benua amerika</LOCATION> dan menyebar luas ke kawasan lain di <LOCATION>negara-negara di asia</LOCATION> dan <PERSON>afrika .</PERSON>
+
+memproses passage 4
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+list jawaban dan posisi dalam passage
+afrika | position = 21
+
+
+melakukan pencarian:
+kata kunci = diri
+tokenwithtagstemmed = declaration
+tokenwithtagstemmed = of
+tokenwithtagstemmed = independence
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = asasi
+tokenwithtagstemmed = manusia
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = bebas
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = gema
+tokenwithtagstemmed = benua amerika
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = negara negara asia
+tokenwithtagstemmed = afrika
+kata kunci = sarekat
+tokenwithtagstemmed = declaration
+tokenwithtagstemmed = of
+tokenwithtagstemmed = independence
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = asasi
+tokenwithtagstemmed = manusia
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = bebas
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = gema
+tokenwithtagstemmed = benua amerika
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = negara negara asia
+tokenwithtagstemmed = afrika
+kata kunci = islam
+tokenwithtagstemmed = declaration
+tokenwithtagstemmed = of
+tokenwithtagstemmed = independence
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = asasi
+tokenwithtagstemmed = manusia
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = bebas
+tokenwithtagstemmed = hak
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = gema
+tokenwithtagstemmed = benua amerika
+tokenwithtagstemmed = sebar
+tokenwithtagstemmed = luas
+tokenwithtagstemmed = kawasan
+tokenwithtagstemmed = negara negara asia
+tokenwithtagstemmed = afrika
+
+
+pernyataan tersebut merupakan pernyataan yang progresif .
 
 
 tidak ada entitas jawaban, skip
@@ -2466,7 +2562,7 @@ mulai <TIME>tahun 1912</TIME> dengan tampilnya <PERSON>notodirjo</PERSON> sebaga
 
 memproses passage 6
 sentence : 2
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 notodirjo | position = 3
@@ -2518,7 +2614,7 @@ akan tetapi , hasilnya tidak begitu besar karena pada saat itu telah muncul orga
 
 memproses passage 6
 sentence : 3
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 indiche partij | position = 9
@@ -2575,7 +2671,7 @@ namun demikian <PERSON>, budi utomo</PERSON> tetap mempunyai andil dan jasa yang
 
 memproses passage 6
 sentence : 4
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 title : organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 list jawaban dan posisi dalam passage
 budi utomo | position = 0
@@ -2641,71 +2737,71 @@ Pengurutan kandidat jawaban
 this.answer = indische partij muhammadiyah
 passage rank = 2
 distance = 1
-doc rank = 3
-total Score = 6
+doc rank = 4
+total Score = 7
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = indische partij muhammadiyah
 passage rank = 5
 distance = 1
-doc rank = 4
-total Score = 10
+doc rank = 5
+total Score = 11
 frequency = 1
 order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = indische partij muhammadiyah
 passage rank = 2
 distance = 2
-doc rank = 3
-total Score = 7
+doc rank = 4
+total Score = 8
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = mahasiswa
 passage rank = 2
 distance = 2
-doc rank = 3
-total Score = 7
+doc rank = 4
+total Score = 8
 frequency = 1
 order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = indiche partij
 passage rank = 10
 distance = 2
-doc rank = 3
-total Score = 15
+doc rank = 4
+total Score = 16
 frequency = 1
-order process = 34
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 32
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = indische partij muhammadiyah
 passage rank = 5
 distance = 2
-doc rank = 4
-total Score = 11
+doc rank = 5
+total Score = 12
 frequency = 1
 order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = mahasiswa
 passage rank = 5
 distance = 2
-doc rank = 4
-total Score = 11
+doc rank = 5
+total Score = 12
 frequency = 1
 order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pedagang islam
@@ -2715,67 +2811,57 @@ doc rank = 1
 total Score = 5
 frequency = 1
 order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
 document Title = sejarah munculnya sarekat islam
-
-this.answer = pusat
-passage rank = 8
-distance = 3
-doc rank = 2
-total Score = 13
-frequency = 1
-order process = 31
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-document Title = perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
 
 this.answer = h.o.s cokroaminoto
 passage rank = 4
 distance = 3
-doc rank = 3
-total Score = 10
+doc rank = 4
+total Score = 11
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = sosialis kiri
 passage rank = 4
 distance = 3
-doc rank = 3
-total Score = 10
+doc rank = 4
+total Score = 11
 frequency = 1
 order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = indiche partij
 passage rank = 10
 distance = 3
-doc rank = 3
-total Score = 16
+doc rank = 4
+total Score = 17
 frequency = 1
-order process = 33
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+order process = 31
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = h.o.s cokroaminoto
 passage rank = 7
 distance = 3
-doc rank = 4
-total Score = 14
+doc rank = 5
+total Score = 15
 frequency = 1
 order process = 24
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = sosialis kiri
 passage rank = 7
 distance = 3
-doc rank = 4
-total Score = 14
+doc rank = 5
+total Score = 15
 frequency = 1
 order process = 27
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pedagang islam
@@ -2785,7 +2871,7 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
 document Title = sejarah munculnya sarekat islam
 
 this.answer = pedagang cina
@@ -2795,27 +2881,27 @@ doc rank = 1
 total Score = 6
 frequency = 1
 order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
 document Title = sejarah munculnya sarekat islam
 
 this.answer = sosialis kiri
 passage rank = 4
 distance = 4
-doc rank = 3
-total Score = 11
+doc rank = 4
+total Score = 12
 frequency = 1
 order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = sosialis kiri
 passage rank = 7
 distance = 4
-doc rank = 4
-total Score = 15
+doc rank = 5
+total Score = 16
 frequency = 1
 order process = 25
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = pedagang cina
@@ -2825,157 +2911,147 @@ doc rank = 1
 total Score = 7
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
 document Title = sejarah munculnya sarekat islam
 
 this.answer = sutomo
 passage rank = 2
 distance = 5
-doc rank = 3
-total Score = 10
+doc rank = 4
+total Score = 11
 frequency = 1
 order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = sutomo
 passage rank = 5
 distance = 5
-doc rank = 4
-total Score = 14
+doc rank = 5
+total Score = 15
 frequency = 1
 order process = 21
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = h.o.s cokroaminoto
 passage rank = 4
 distance = 7
-doc rank = 3
-total Score = 14
+doc rank = 4
+total Score = 15
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = darsono
 passage rank = 4
 distance = 7
-doc rank = 3
-total Score = 14
+doc rank = 4
+total Score = 15
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = h.o.s cokroaminoto
 passage rank = 7
 distance = 7
-doc rank = 4
-total Score = 18
+doc rank = 5
+total Score = 19
 frequency = 1
 order process = 23
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = darsono
 passage rank = 7
 distance = 7
+doc rank = 5
+total Score = 19
+frequency = 1
+order process = 28
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = h.o.s cokroaminoto
+passage rank = 4
+distance = 8
+doc rank = 4
+total Score = 16
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = darsono
+passage rank = 4
+distance = 8
+doc rank = 4
+total Score = 16
+frequency = 1
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = h.o.s cokroaminoto
+passage rank = 7
+distance = 8
+doc rank = 5
+total Score = 20
+frequency = 1
+order process = 22
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = darsono
+passage rank = 7
+distance = 8
+doc rank = 5
+total Score = 20
+frequency = 1
+order process = 26
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = dr cipto mangunkusumo
+passage rank = 4
+distance = 9
+doc rank = 4
+total Score = 17
+frequency = 1
+order process = 16
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = dr cipto mangunkusumo
+passage rank = 7
+distance = 9
+doc rank = 5
+total Score = 21
+frequency = 1
+order process = 29
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
+
+this.answer = suwardi suryaningrat
+passage rank = 4
+distance = 10
 doc rank = 4
 total Score = 18
 frequency = 1
-order process = 28
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = h.o.s cokroaminoto
-passage rank = 4
-distance = 8
-doc rank = 3
-total Score = 15
-frequency = 1
-order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = darsono
-passage rank = 4
-distance = 8
-doc rank = 3
-total Score = 15
-frequency = 1
-order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = h.o.s cokroaminoto
-passage rank = 7
-distance = 8
-doc rank = 4
-total Score = 19
-frequency = 1
-order process = 22
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = darsono
-passage rank = 7
-distance = 8
-doc rank = 4
-total Score = 19
-frequency = 1
-order process = 26
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = masyarakat indonesia
-passage rank = 9
-distance = 9
-doc rank = 2
-total Score = 20
-frequency = 1
-order process = 32
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok179.txt
-document Title = perkembangan pendidikan di kerajaan yang bercorak islam di indonesia
-
-this.answer = dr cipto mangunkusumo
-passage rank = 4
-distance = 9
-doc rank = 3
-total Score = 16
-frequency = 1
-order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = dr cipto mangunkusumo
-passage rank = 7
-distance = 9
-doc rank = 4
-total Score = 20
-frequency = 1
-order process = 29
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
-
-this.answer = suwardi suryaningrat
-passage rank = 4
-distance = 10
-doc rank = 3
-total Score = 17
-frequency = 1
 order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 this.answer = suwardi suryaningrat
 passage rank = 7
 distance = 10
-doc rank = 4
-total Score = 21
+doc rank = 5
+total Score = 22
 frequency = 1
 order process = 30
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
 document Title = organisasi pergerakan nasional (budi utomo, sarekat islam, indische partij, muhammadiyah dan lainnya)
 
 

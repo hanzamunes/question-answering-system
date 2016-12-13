@@ -1,208 +1,221 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok208.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok197.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok140.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok69.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok230.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok103.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok32.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok343.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok370.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok142.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok71.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok251.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok149.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok210.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok241.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok350.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok249.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok139.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok68.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok214.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok342.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok221.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok378.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok150.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok250.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok359.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok169.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok282.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok141.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok70.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok178.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok218.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok147.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok153.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok289.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok376.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok207.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok317.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok233.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok172.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok161.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok232.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok274.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok369.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok187.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok220.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok144.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok15.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok86.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok313.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok206.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok318.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok184.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok236.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok280.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok347.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok251.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok208.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok249.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok394.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok178.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok317.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok378.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok161.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok228.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok147.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok153.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok289.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok218.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok374.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok359.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok282.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok369.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok140.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok69.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok233.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok340.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok143.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok158.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok286.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok370.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok273.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok315.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok138.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok67.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok307.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok350.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok366.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok256.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok257.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok175.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok259.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok313.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok100.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok29.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok104.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok33.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok108.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok37.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok349.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok137.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok66.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok377.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok382.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok180.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok114.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok43.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok258.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok192.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok152.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok26.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok97.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok191.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok326.txt
 
 
 query token : 
 partai komunis indonesia diri 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
-passage 1 score = 6.75
-sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
-sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
-sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
-sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
-sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
-passage 6 score = 6.0
-sentence 1: 1 .
-sentence 2: bangsa melayu tua ( proto melayu ) .
-sentence 3: bangsa melayu tua adalah orang-orang austronesia dari asia ( yunan ) yang pertama kali ke nusantara pada sekitar 1500 sm .
-sentence 4: mereka datang ke nusantara melalui dua jalan .
-sentence 5: 1 .
-passage 3 score = 1.5
-sentence 1: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
-sentence 2: pendukung kebudayaan dongson adalah orang-orang austronesia yang tinggal di pulau-pulau di benua asia dan australia .
-sentence 3: nenek moyang bangsa indonesia meninggalkan daerah yunan di sekitar hulu sungai salween dan sungai mekong yang tanahnya subur sehingga mereka pandai bercocok tanam , berlayar , dan berdagang .
-sentence 4: dalam perkembangan selanjutnya , berbagai suku bangsa yang mendiami wilayah indonesia kemudian membentuk komunitas sendiri-sendiri sehingga mereka mendapat sebutan tersendiri .
-sentence 5: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-passage 15 score = 1.5
-sentence 1: mereka hidup dari meramu ( mengumpulkan hasil hutan ) dan berkebudayaan sederhana .
-sentence 2: mereka juga sulit sekali menyesuaikan diri dengan masyarakat modern .
-sentence 3: 3 .
-sentence 4: suku negroid .
-sentence 5: di indonesia sudah tidak terdapat lagi sisa-sisa kehidupan suku negroid .
-passage 4 score = 1.25
-sentence 1: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-sentence 2: mereka berlayar secara berkelompok tanpa mengenal rasa takut dan selanjutnya menempati berbagai kepulauan di nusantara .
-sentence 3: hal ini memperjelas bahwa nenek moyang bangsa indonesia adalah pelaut-pelaut ulung yang memiliki jiwa kelautan yang kuat .
-sentence 4: mereka memiliki kepandaian dalam berlayar , navigasi , serta ilmu perbintangan yang penuh .
-sentence 5: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+title : pembentukan partai politik
+passage 2 score = 8.5
+sentence 1: sebagai tasumsi atas usul tersebut , maka pada tanggal 3 november 1945 pemerintah mengeluarkan maklumat pemerintah yang pada intinya berisi memberbagi peluang terhadap rakyat untuk mendirikan partai politik .
+sentence 2: maklumat itu kemudian dikenal dengan maklumat pemerintah tanggal 3 november 1945 .
+sentence 3: partai politik yang timbul seusai maklumat pemerintah tanggal 3 november 1945 dikeluarkan antara lain masyumi , partai komunis indonesia , partai buruh indonesia , parkindo , partai rakyat jelata , partai sosialis indonesia , partai rakyat sosialis , partai katolik , permai , serta pni .
+sentence 4: [ gs ]
+passage 1 score = 7.25
+sentence 1: pembentukan partai politik - pada tanggal 22 agustus 1945 ppki bersidang untuk yang ketiga kalinya serta menghasilkan keputusan antara lain pembentukan partai nasional indonesia , yang pada waktu itu dimaksudkan sebagai satu-satunya partai politik di indonesia ( partai tunggal ) .
+sentence 2: dalam perkembangannya timbul maklumat tanggal 31 agustus 1945 yang memutuskan bahwa gerakan serta persiapan partai nasional indonesia ditunda serta segala kegiatan dicurahkan ke dalam komite nasional .
+sentence 3: sejak saat itu , gagasan satu partai tak sempat dinasibkan lagi .
+sentence 4: demi kelangsungan kenasiban demokrasi , maka knip mengajukan usul terhadap pemerintah supaya rakyat diberbagi peluang seluas-luasnya untuk mendirikan partai politik .
+sentence 5: sebagai tasumsi atas usul tersebut , maka pada tanggal 3 november 1945 pemerintah mengeluarkan maklumat pemerintah yang pada intinya berisi memberbagi peluang terhadap rakyat untuk mendirikan partai politik .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-passage 23 score = 7.5
-sentence 1: surat kabar dan radio juga menggunakan bahasa indonesia sehingga mempercepat penyebarluasan bahasa indonesia .
-sentence 2: begitu juga papan nama toko , nama rumah makan , perusahaan dan sebagainya yang menggunakan bahasa belanda harus diganti dengan bahasa indonesia atau bahasa jepang .
-sentence 3: dengan meluasnya penggunaan bahasa indonesia sebagai sarana komunikasi maka akan mempercepat dan mempertebal semangat kebangsaan menunju integrasi bangsa .
-sentence 4: c. kebudayaan bahasa indonesia adalah salah satu unsur kebudayaan sehingga dengan digunakannya bahasa indonesia secara luas akan mendukung perkembangan kebudayaan indonesia .
-sentence 5: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-passage 24 score = 7.5
-sentence 1: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-sentence 2: tugas komisi adalah menentukan terminologi , yaitu istilah-istilah modern dan menyusun suatu tata bahasa normatif dan menentukan kata-kata yang umum bagi bahasa indonesia .
-sentence 3: susunan kepengurusan komisi bahasa indonesia adalah sebagai berikut .
-sentence 4: ketua : mori ( kepala kantor pengajaran ) .
-sentence 5: wakil ketua : iciki penulis : mr. r. suwandi penulis ahli : mr.s .
-passage 15 score = 7.0
-sentence 1: jepang menyadari bahwa untuk kepentingan perang perlu dukungan dari penduduk masing-masing daerah yang didudukinya .
-sentence 2: itulah sebabnya , jepang mulai membentuk kesatuan-kesatuan semimiliter dan militer untuk dididik dan dilatih secara intensif di bidang militer .
-sentence 3: di indonesia ada beberapa kesatuan pertahanan yang dibentuk oleh pemerintah jepang , seperi berikut .
-sentence 4: a. kesatuan pertahanan semimiliter 1 ) seinendan ( barisan pemuda ) seinendan dibentuk pada tanggal 29 april 1943 .
-sentence 5: anggotanya terdiri atas para pemuda yang berusia antara 14 – 22 tahun .
-passage 11 score = 6.75
-sentence 1: dampak penjajahan jepang dalam birokrasi pada pertengahan tahun 1943 , kedudukan jepang dalam perang pasifik mulai terdesak , maka jepang memberi kesempatan kepada bangsa indonsia untuk turut mengambil bagian dalam pemerintahan negara .
-sentence 2: untuk itu pada tanggal 5 september 1943 , jepang membentuk badan pertimbangan karesidenan ( syu sangi kai ) dan badan pertimbangan kota praja istimewa ( syi sangi in ) .
-sentence 3: banyak orang indonesia yang menduduki jabatan-jabatan tinggi dalam pemerintahan , seperti prof. dr. husein jayadiningrat sebagai kepala departemen urusan agama ( 1 oktober 1943 ) dan pada tanggal 10 november 1943 sutardjo kartohadikusumo dan r.m.t.a. surio masing-masing diangkat menjadi kepala pemerintahan ( syikocan ) di jakarta dan banjarnegara .
-sentence 4: di samping itu , ada enam departemen ( bu ) dengan gelar sanyo , seperti berikut .
-sentence 5: a. ir .
-passage 16 score = 6.75
-sentence 1: anggotanya terdiri atas para pemuda yang berusia antara 14 – 22 tahun .
-sentence 2: mereka dididik militer agar dapat menjaga dan mempertahankan tanah airnya dengan kekuatan sendiri .
-sentence 3: akan tetapi , tujuan yang sebenarnya ialah mempersiapkan pemuda untuk dapat membantu jepang dalam menghadapi tentara sekutu dalam perang asia pasifik .
-sentence 4: 2 ) keibodan ( barisan pembantu polisi ) keibodan dibentuk pada tanggal 29 april 1943 .
-sentence 5: anggotanya terdiri atas para pemuda yang berusia 26 – 35 tahun dengan tugas , seperti menjaga lalu lintas , pengamanan desa , dan lain-lain .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok251.txt
+title : perkembangan situasi politik dan kenegaraan indonesia di awal kemerdekaan
+passage 3 score = 7.5
+sentence 1: di antaranya adalah partai politik berhaluan nasionalis , yaitu pni penggabungan dari partai rakyat indonesia , serikat rakyat indonesia , dan gabungan republik indonesia yang berdiri pada 29 januari 1946 , dipimpin oleh sidik djojosukaro .
+sentence 2: kemunculan partai-partai berhaluan sosialis-komunis pada walnya merupakan bentuk pertumbuhan demokrasi di indonesia .
+sentence 3: namun , seiring perkembangannya , partai ini menerapkan cara revolusioner yang tidak dapat diterima oleh masyarakat indonesia .
+sentence 4: hubungan antara knip dan lembaga pemerintahan dilatarbelakangi oleh berbagai situasi negara yang genting , seperti keadaan jakarta di awal 1946 , yang sangat rawan oleh teror dan intimidasi pihak asing , mengharuskan para petinggi bangsa untuk memindahkan ibu kota negara ke yogyakarta pada 4 januari 1946 untuk sementara waktu .
+sentence 5: pada dasarnya , posisi wewenang knip dikukuhkan melalui maklumat x , 16 oktober 1945 , yang memberikan kuasa legislatif terhadap badan tersebut .
+passage 2 score = 7.25
+sentence 1: keragaman ideologi partai politik di indonesia maklumat politik 3 november 1945 , yang dikeluarkan oleh moh .
+sentence 2: hatta , hadir sebagai sebuah peraturan dari pemerintah indonesia yang bertujuan mengakomodasi suara rakyat yang majemuk .
+sentence 3: akibatnya , munculah partai-partai politik dengan berbagai ideologi .
+sentence 4: partai-partai politik tersebut mempunyai arah dan metode pergerakan yang berbeda-beda .
+sentence 5: di antaranya adalah partai politik berhaluan nasionalis , yaitu pni penggabungan dari partai rakyat indonesia , serikat rakyat indonesia , dan gabungan republik indonesia yang berdiri pada 29 januari 1946 , dipimpin oleh sidik djojosukaro .
+passage 6 score = 7.25
+sentence 1: lembaga kepresidenan sendiri telah dibentuk pada 2 september 1945 , pada kesempatan itu , presiden soekarno membentuk susunan kabinet sebagai pelaksana eksekutif dari lembaga kepresidenan indonesia .
+sentence 2: hal itu merupakan manifestasi dari penguatan lembaga kepresidenan untuk dapat melaksanakan tugas negara dengan optimal .
+sentence 3: susunan kabinet yang dibentuk pada 2 september 1945 , pada dasarnya , mencerminkan komposisi yang mewakili keragaman ideologi di indonesia .
+sentence 4: meskipun partai-partai politik baru bermunculan , setelah dikeluarkannya maklumat 3 november 1945 , kondisi keragaman ideologi ini telah berperan besar dalam susunan lembaga kepresidenan negara .
+sentence 5: [ gs ]
+passage 1 score = 7.0
+sentence 1: perkembangan situasi politik dan kenegaraan indonesia di awal kemerdekaan - pada dasarnya , perkembangan situasi politik dan kenegaraan indonesia pada awal kemerdekaan sangat dipengaruhi oleh pembentukan knip serta dikeluarkannya maklumat politik 3 november 1945 oleh wakil presiden moh .
+sentence 2: hatta .
+sentence 3: isi maklumat tersebut menekankan pentingnya kemunculan partai-partai politik di indonesia .
+sentence 4: partai politik harus muncul sebelum pemilihan anggota badan perwakilan rakyat yang dilangsungkan pada januari 1946 .
+sentence 5: keragaman ideologi partai politik di indonesia maklumat politik 3 november 1945 , yang dikeluarkan oleh moh .
+passage 5 score = 7.0
+sentence 1: sementara itu , komite nasional indonesia daerah ( knid ) bertugas untuk membantu dan mengawasi jalannya kinerja pemerintahan di tataran lebih rendah daripada presiden , seperti gubernur dan bupati .
+sentence 2: hubungan antara keragaman ideologi dan pembentukan lembaga kepresidenan terdapatnya keragaman ideologi yang terbagi ke dalam golongan nasionalis , agama , dan sosialis-komunis pada era awal kemerdekaan ternyata mengandung implikasi yang signifikan terhadap struktur kepemimpinan negara .
+sentence 3: perubahan otoritas knip dan munculnya berbagai partai politik di indonesia menjadi dua katalisator utama terhadap perubahan struktur kekuasaan pemerintahan .
+sentence 4: naiknya sutan syahrir sebagai perdana menteri indonesia juga memiliki andil dalam perubahan itu .
+sentence 5: lembaga kepresidenan sendiri telah dibentuk pada 2 september 1945 , pada kesempatan itu , presiden soekarno membentuk susunan kabinet sebagai pelaksana eksekutif dari lembaga kepresidenan indonesia .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-passage 23 score = 7.5
-sentence 1: surat kabar dan radio juga menggunakan bahasa indonesia sehingga mempercepat penyebarluasan bahasa indonesia .
-sentence 2: begitu juga papan nama toko , nama rumah makan , perusahaan dan sebagainya yang menggunakan bahasa belanda harus diganti dengan bahasa indonesia atau bahasa jepang .
-sentence 3: dengan meluasnya penggunaan bahasa indonesia sebagai sarana komunikasi maka akan mempercepat dan mempertebal semangat kebangsaan menunju integrasi bangsa .
-sentence 4: c. kebudayaan bahasa indonesia adalah salah satu unsur kebudayaan sehingga dengan digunakannya bahasa indonesia secara luas akan mendukung perkembangan kebudayaan indonesia .
-sentence 5: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-passage 24 score = 7.5
-sentence 1: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-sentence 2: tugas komisi adalah menentukan terminologi , yaitu istilah-istilah modern dan menyusun suatu tata bahasa normatif dan menentukan kata-kata yang umum bagi bahasa indonesia .
-sentence 3: susunan kepengurusan komisi bahasa indonesia adalah sebagai berikut .
-sentence 4: ketua : mori ( kepala kantor pengajaran ) .
-sentence 5: wakil ketua : iciki penulis : mr. r. suwandi penulis ahli : mr.s .
-passage 15 score = 7.0
-sentence 1: jepang menyadari bahwa untuk kepentingan perang perlu dukungan dari penduduk masing-masing daerah yang didudukinya .
-sentence 2: itulah sebabnya , jepang mulai membentuk kesatuan-kesatuan semimiliter dan militer untuk dididik dan dilatih secara intensif di bidang militer .
-sentence 3: di indonesia ada beberapa kesatuan pertahanan yang dibentuk oleh pemerintah jepang , seperi berikut .
-sentence 4: a. kesatuan pertahanan semimiliter 1 ) seinendan ( barisan pemuda ) seinendan dibentuk pada tanggal 29 april 1943 .
-sentence 5: anggotanya terdiri atas para pemuda yang berusia antara 14 – 22 tahun .
-passage 11 score = 6.75
-sentence 1: dampak penjajahan jepang dalam birokrasi pada pertengahan tahun 1943 , kedudukan jepang dalam perang pasifik mulai terdesak , maka jepang memberi kesempatan kepada bangsa indonsia untuk turut mengambil bagian dalam pemerintahan negara .
-sentence 2: untuk itu pada tanggal 5 september 1943 , jepang membentuk badan pertimbangan karesidenan ( syu sangi kai ) dan badan pertimbangan kota praja istimewa ( syi sangi in ) .
-sentence 3: banyak orang indonesia yang menduduki jabatan-jabatan tinggi dalam pemerintahan , seperti prof. dr. husein jayadiningrat sebagai kepala departemen urusan agama ( 1 oktober 1943 ) dan pada tanggal 10 november 1943 sutardjo kartohadikusumo dan r.m.t.a. surio masing-masing diangkat menjadi kepala pemerintahan ( syikocan ) di jakarta dan banjarnegara .
-sentence 4: di samping itu , ada enam departemen ( bu ) dengan gelar sanyo , seperti berikut .
-sentence 5: a. ir .
-passage 16 score = 6.75
-sentence 1: anggotanya terdiri atas para pemuda yang berusia antara 14 – 22 tahun .
-sentence 2: mereka dididik militer agar dapat menjaga dan mempertahankan tanah airnya dengan kekuatan sendiri .
-sentence 3: akan tetapi , tujuan yang sebenarnya ialah mempersiapkan pemuda untuk dapat membantu jepang dalam menghadapi tentara sekutu dalam perang asia pasifik .
-sentence 4: 2 ) keibodan ( barisan pembantu polisi ) keibodan dibentuk pada tanggal 29 april 1943 .
-sentence 5: anggotanya terdiri atas para pemuda yang berusia 26 – 35 tahun dengan tugas , seperti menjaga lalu lintas , pengamanan desa , dan lain-lain .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
+title : sejarah munculnya sarekat islam
+passage 8 score = 8.0
+sentence 1: pada tahun 1923 , diadakan kongres sarekat islam ke-7 .
+sentence 2: dalam kongres tersebut , diputuskan bahwa central sarekat islam diganti menjadi partai sarekat islam ( psi ) .
+sentence 3: selain itu , diputuskan pula bahwa cabang-cabang sarekat islam yang mendapat pengaruh komunis menyatakan diri berada di bawah sarekat rakyat ( sr ) yang menjadi basis partai komunis indonesia ( pki ) .
+sentence 4: [ ps ]
+passage 3 score = 7.0
+sentence 1: pada tanggal 26 januari 1913 , diselenggarakan kongres sarekat islam pertama di surabaya .
+sentence 2: di hadapan massa lebih kurang 10.000 orang , oemar said cokroaminoto menegaskan bahwa sarekat islam tidak bersifat politik , tujuannya ialah menghidupkan jiwa dagang bangsa indonesia , terutama dengan cara berkoperasi .
+sentence 3: sarekat islam diakui oleh pemerintahan hindia-belanda melalui pemberian badan hukum pada tanggal 18 maret 1916 , dengan susunan yaitu : h. o. s cokroaminoto sebagai ketua , abdul muis dan h. gunawan sebagai wakil ketua , dan anggotanya agus salim , sastrohandoro , suryo pranoto , dan alimin prawirodirdjo .
+sentence 4: sedangkan h. samanhudi diangkat sebagai ketua kehormatan .
+sentence 5: sarekat islam mengalami perkembangan yang pesat dan kemudian tumbuh menjadi partai massa .
+passage 4 score = 6.5
+sentence 1: sarekat islam mengalami perkembangan yang pesat dan kemudian tumbuh menjadi partai massa .
+sentence 2: perkembangan sarekat islam tersebut menyebabkan pemerintah kolonial belanda mulai mewaspadai setiap gerak sarekat islam .
+sentence 3: tidak hanya itu , pemerintah kolonial mengeluarkan berbagai peraturan untuk menghambat perkembangan sarekat islam , seperti adanya aturan agar cabangcabang sarekat islam hanya berdiri untuk daerah masing-masing .
+sentence 4: untuk kelancaran hubungan ini , pada tahun 1915 didirikan central sarekat islam ( csi ) , tujuannya untuk membantu sarekat islam daerah ke arah kemajuan , dan mengatur kerja sama antar-sarekat islam daerah .
+sentence 5: di satu sisi sarekat islam tumbuh menjadi organisasi yang terbuka untuk umum , tetapi di sisi lain keterbukaan tersebut menyebabkan kelemahan tersendiri bagi kekuatan sarekat islam .
+passage 7 score = 6.5
+sentence 1: perpecahan semakin nyata setelah dilaksanakan kongres luar biasa central sarekat islam .
+sentence 2: kongres tersebut membicarakan masalah disiplin partai yang melarang penggandaan rangkap anggota sebagai anggota partai .
+sentence 3: melalui aturan partai tersebut , akhirnya golongan komunis yang diwakili semaun dan darsono dikeluarkan dari sarekat islam .
+sentence 4: adanya pemecatan tersebut , tubuh sarekat islam terpecah menjadi dua bagian , yaitu : sarekat islam-merah , yang menganut paham komunis di bawah pimpinan semaun , darsono , tan malaka , muhammad hasan , dan alimin ; dan sarekat islam-putih , yang berhaluan islam radikal yang berasaskan kebangsaankeagamaan di bawah pimpinan h. agus salim , h.o.s cokroaminoto , abdul muis , dan suryapranoto .
+sentence 5: pada tahun 1923 , diadakan kongres sarekat islam ke-7 .
+passage 2 score = 6.25
+sentence 1: adapun tujuan pendirian sarekat islam di antaranya sebagai berikut : 1 .
+sentence 2: mengembangkan jiwa dagang dan membantu anggota-anggota yang mengalami kesulitan dalam berusaha ; 2 .
+sentence 3: memperbaiki pendapat-pendapat yang keliru mengenai islam ; 3 .
+sentence 4: hidup menurut perintah agama .
+sentence 5: pada tanggal 26 januari 1913 , diselenggarakan kongres sarekat islam pertama di surabaya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok208.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+passage 18 score = 8.0
+sentence 1: gerakan nasionalisme vietnam terjadi melalui tiga periode , yaitu sebagai berikut .
+sentence 2: periode 1913-1917 yang secara umum gerakan nasionalisme vietnam dikendalikan oleh kuang phuc hoi ( partai restorasi vietnam ) di bawah pimpinan phan boi dan phan trinh .
+sentence 3: gerakan tersebut bertujuan untuk menciptakan negara vietnam yang modern .
+sentence 4: periode tahun 1917-1930 yang ditandai dengan munculnya partai-partai politik , seperti , partai progresif rakyat vietnam , partai konstitusi , partai kebangsaan vietnam , gerakan cao dai , dan partai komunis vietnam .
+sentence 5: dari partai-partai tersebut , partai komunis vietnam berhasil memegang dan mengendalikan gerakan nasionalisme vietnam .
+passage 21 score = 8.0
+sentence 1: selanjutnya setelah jepang mengalami kekalahan dalam perang dunia ii , gerakan nasionalis vietnam kembali berada di bawah kendali ho chi minh .
+sentence 2: dengan kekalahan jepang tersebut , ho chi minh segera memanfaatkan kesempatan dengan memproklamasikan kemerdekaan vietnam pada tanggal 2 september 1945 .
+sentence 3: sementara itu , untuk menghadapi gerakan partai komunis vietnam , pada tanggal 1 juni 1949 prancis ( vichy ) segera membentuk negara boneka .
+sentence 4: pembentukan negara boneka ini bertujuan untuk mempertahankan kolonialismenya .
+sentence 5: ternyata pembentukan negara boneka tersebut menjadi pemicu terjadinya perang vietnam ( vietnam utara dan vietnam selatan ) .
+passage 20 score = 7.75
+sentence 1: di bawah pimpinan ho chi minh , partai komunis vietnam bercita-cita untuk merebut kemerdekaan vietnam dari tangan prancis .
+sentence 2: pola perjuangan partai ini ternyata sangat menarik perhatian dan minat rakyat vietnam .
+sentence 3: karena gerakan yang digunakan partai komunis vietnam ini bersifat radikal , maka prancis segera menghancurkan perjuangan partai tersebut .
+sentence 4: ho chi minh sebagai pemimpin partai komunis vietnam berhasil melarikan diri ke hongkong , kemudian pergi ke rusia , cina , dan akhirnya kembali ke vietnam pada tahun 1942 .
+sentence 5: selanjutnya setelah jepang mengalami kekalahan dalam perang dunia ii , gerakan nasionalis vietnam kembali berada di bawah kendali ho chi minh .
+passage 19 score = 7.5
+sentence 1: dari partai-partai tersebut , partai komunis vietnam berhasil memegang dan mengendalikan gerakan nasionalisme vietnam .
+sentence 2: periode 1930-1954 .
+sentence 3: pada periode ini gerakan nasionalisme vietnam terus dilakukan oleh partai komunis dalam menentang prancis .
+sentence 4: dominasi partai komunis vietnam semakin besar setelah partai nasionalis dihancurkan oleh prancis .
+sentence 5: di bawah pimpinan ho chi minh , partai komunis vietnam bercita-cita untuk merebut kemerdekaan vietnam dari tangan prancis .
+passage 4 score = 7.0
+sentence 1: selanjutnya jepang mengembangkannya sendiri sampai akhirnya jepang menjadi negara imperialis pada perang dunia ii .
+sentence 2: keberhasilan bangsa jepang mengadakan restorasi dengan memodernisasi diri dan keberhasilan mengusir bangsa barat dari dalam negeri dapat mendorong bangsa-bangsa asia untuk berbuat seperti jepang , khususnya bangsa-bangsa di asia yang mengalami penjajahan dari bangsa barat seperti indonesia yang dikuasai oleh belanda .
+sentence 3: nasionalisme di cina pada abad ke-19 , melalui perjanjian-perjanjian yang dilakukan oleh pemerintah dinasti manchu dengan bangsa-bangsa barat , membuat cina diintervensi oleh bangsa barat .
+sentence 4: perjanjian itu di antaranya perjanjian nanking ( 1842 ) dan perjanjian peking ( 1860 ) .
+sentence 5: kedua perjanjian itu telah memaksa dibukanya beberapa pelabuhan untuk bangsa barat .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok208.txt
 title : pemilihan umum 1955
 passage 1 score = 7.25
 sentence 1: pemilihan umum 1955 pada tanggal 22 agustus 1945 ( presiden mengumumkan bahwa sistem kepartaian ri adalah partai tunggal dengan partai nasional indonesia ( pni ) sebagai satu-satunya organisasi politik di indonesia , akan tetapi sistem ini tidak dapat dilaksanakan .
@@ -226,1777 +239,1651 @@ passage 4 score = 1.5
 sentence 1: akan tetapi pada kenyataannya pemilu yang sangat didambakan rakyat dapat membawa ke arah kemajuan , ternyata tidak mampu membawa kestabilan politik di indonesia , sebab perselisihan antar partai tetap berlangsung , sehingga masalah-masalah parlementer sulit diselesaikan .
 sentence 2: [ gs ]
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok228.txt
-title : pelaksanaan demokrasi terpimpin
-passage 8 score = 7.25
-sentence 1: hal ini tampak pada kebijakan-kebijakan presiden dalam politik luar negerinya , antara lain sebagai berikut : ikut ambil bagian dalam upaya perdamaian di kongo dengan mengirimkan misi garuda ii yang bergabung dengan pasukan perdamaian pbb yang bernama united nations operation of congo ( unoc ) .
-sentence 2: pada tanggal 30 september 1960 , presiden soekarno berpidato dalam sidang umum pbb yang - ienguraikan tentang pancasila , perjuangan merebut irian barat , kolonialisme , meredakan ketegangan dunia timur dan barat serta usaha memperbaiki orgianisasi pbb .
-sentence 3: pidato presiden soekarno ini berjudul to build the world a new ( membangun dunia baru ) ikut memprakarsai berdirinya gerakan nonblok berhasil menyelenggarakan pesta olah raga bangsa-bangsa asia ( asian games iv ) di jakarta 24 4 september 1962 .
-sentence 4: akan tetapi hubungan indonesia dengan negara-negara barat semakin merenggang setelah barat bersifat pasif dalam masalah pengembalian irian barat kepada indonesia .
-sentence 5: sebaliknya hubungan dengan negara-negara sosialis komunis erat , karena uni soviet bersedia memberi kredit dalam pembelian peralatan militer .
-passage 4 score = 7.0
-sentence 1: menyusun lembaga-lembaga negara .
-sentence 2: pada tanggal 22 juli 1959 keluar penetapan presiden no. 1 tahun 1959 yang menetapkan bahwa sebelum terbentuk dpr berdasarkan uud 1945 , maka dpr yang telah c bentuk berdasarkan ulu no. 37 tahun 1953 menjalankan tugasnya sebagai dpr .
-sentence 3: tetapi penolakan dpr terhadap rapbn tahun 1960 mengakibatkan presiden membubarkan lembaga tersebut berdasarkan penetapan presiden no. 3 tahun 1960 , tanggal 5 maret 1960 .
-sentence 4: pada tanggal 24 juni 1960 dpr diganti dengan dpr gr yang anggotanya berasal dari tiga partai besar ( pni , nu , pki ) .
-sentence 5: ketiga partai ini dianggap telah mewakili semua golongan seperti nasional , agama dan komunis yang sesuai dengan konsep nasakom .
-passage 5 score = 7.0
-sentence 1: ketiga partai ini dianggap telah mewakili semua golongan seperti nasional , agama dan komunis yang sesuai dengan konsep nasakom .
-sentence 2: dpas dipimpin oleh presiden dan roeslan abdul gani sebagai wakil ketuanya .
-sentence 3: pelantikan wakil ketua dpas dilaksanakan pada tanggal 15 agustus 1959 di istana negara bersama dengan hamengkubuwono pelantikan mr. moh .
-sentence 4: yamin sebagai ketua dewan perancang nasional ( depernas ) dan sri sultan hamengkubuwono ix sebagai ketua badan pengawas kegiatan aparatur negara .
-sentence 5: mprs dibentuk berdasarkan penetapan presiden no. 2 tahun 1959 yang diketahui oleh chaerul shaleh , dan pada tanggal 10 november - 7 desember 1960 mengadakan sidang umum pertama di bandung , menghasilkan dua ketetapan , yaitu sebagai berikut : 1 ) tap mprs no. 1/mprs/1960 tentang menifesto politik sebagai garis besar haluan negara .
-passage 10 score = 7.0
-sentence 1: hal ini disebabkan pemerintah tidak setuju dengan pembentukan negara federasi malaysia yang dianggap membahayakan eksistensi indonesia dan negara-negara blok nefo .
-sentence 2: dalam rangka konfrontasi tersebut , presiden soekarno mengucapkan dwi komando rakyat ( dwikora ) pada tangg 3 mei 1964 yang isinya sebagai berikut : perhebat ketahanan revolusi indonesia bantu perjuangan rakyat malaysia untuk membebaskan diri dari nekolim malaysia pelaksanaan dwikora diawali dengan pembentukan siaga di bawah pimpinan marsek omar dahi , yang bertugas mengirimkan sukarelawan ke malaysia timru dan barat .
-sentence 3: hal ini menunjukkan adanya campur tangan indonesia terhadap masalah-masalah negeri malaysia .
-sentence 4: terpilihnya malaysia sebagai anggota tidak tetap dewan keamanan pbb pukulan berat bagi lndonesia sehingga pbb dianggap telah dikuasai oleh kekuatan blok aldefo pada tanggal 7 januari 1965 indonesia menyatakan ke luar dari keanggotaan pbb .
-sentence 5: dan aksi upaya damai untuk mengakhiri konfronta indonesia - malaysia dilakukan dengan menyelenggarakan konferensi tingkat tinggi ( ktt ) tiga negara , meliputi indonesia , filipina dan malaysia di tokyo , tetapi tidak rnemperoleh kesepakatan .
-passage 3 score = 6.75
-sentence 1: serta keamanan dan pengambilan irian barat .
-sentence 2: program ini dijalankan bersama dengan program yang diuraikan presiden pada tanggal 17agustus 1959 yang berjudul penemuan kembali revolusi kita yang selanjutnya dikenal sebagai manifesto politik republik indonesia ( manipol ) .
-sentence 3: pidato ini oleh dpas diusulkan menjadi garis-garis besar haluan negara ( gbhn ) dan pada akhimya ditetapkan dalam tap mprs no .
-sentence 4: i/mprs/1960 yang berintikan usdek yaitu uud 1945 , sosialis indonesia , demokrasi terpimpin , ekonomi terpimpin dan kepribadian indonesia .
-sentence 5: menyusun lembaga-lembaga negara .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
+title : sejarah organisasi dalam bidang politik pada masa pergerakan
+passage 7 score = 7.5
+sentence 1: karena tidak terbukti bersalah , mereka dibebaskan .
+sentence 2: cikal bakal berdirinya pki adalah didirikannya indische sociaal democratische vereeniging ( isdv ) pada tanggal 9 mei 1914 oleh sneevliet .
+sentence 3: pada tanggal 23 mei 1920 isdv berubah namanya menjadi partai komunis hindia .
+sentence 4: pada bulan desember 1920 diubah lagi menjadi partai komunis indonesia ( pki ) , yang diketuai oleh semaun .
+sentence 5: pada tahun 1920 , pki bergabung dengan comintern ( komunis internasional ) yang merupakan forum komunis dan pusat eksekutif bagi partai komunis seluruh dunia .
+passage 8 score = 7.0
+sentence 1: pada tahun 1920 , pki bergabung dengan comintern ( komunis internasional ) yang merupakan forum komunis dan pusat eksekutif bagi partai komunis seluruh dunia .
+sentence 2: pemerintah belanda sangat mewaspadai tindak tanduk dari pki , bahkan mereka turut berperan dalam pemilihan ketua pki tersebut .
+sentence 3: pada awalnya pki tidak banyak mendapat dukungan rakyat .
+sentence 4: dalam rangka mendapatkan dukungan dari rakyat , pki melakukan propaganda secara besar-besaran dan mereka mendapat pengikut kebanyakan dari kaum buruh yang menderita sebagai akibat dari defresi ekonomi .
+sentence 5: pki juga menggerakkan sarekat islam merah yang pada tahun 1924 berganti nama menjadi sarekat rakyat .
+passage 21 score = 7.0
+sentence 1: penggalangan persatuan politik itu menuju pada pembentukan badan konsentrasi nasional yang nanti disebut gabungan politik indonesia ( gapi ) pada bulan mei 1939 .
+sentence 2: gabungan politik indonesia didirikan atas prakarsa muhammad husni thamrin pada tanggal 21 mei 1939 .
+sentence 3: pembentukan gapi ini di antaranya dilatarbelakangi oleh : 1 .
+sentence 4: kegagalan petisi sutardjo ; 2 .
+sentence 5: sikap pemerintah kolonial belanda yang kurang memperhatikan kepentingankepentingan bangsa ; 3 .
+passage 12 score = 6.75
+sentence 1: partai nasional indonesia ( pni ) didirikan oleh ir .
+sentence 2: soekarno pada tanggal 4 juli 1927 di bandung .
+sentence 3: sebagai dampak dari gagalnya pemberontakan yang dilakukan oleh pki , maka para pemimpin pni sangat berhati-hati dalam melangkah dan bersikap , demi keamanan organisasi yang baru berdiri ini .
+sentence 4: partai nasional indonesia didirikan dengan asas selfhelp , nonkooperatif , dan marhaenisme .
+sentence 5: beberapa point tujuan pni adalah sebagai berikut : 1 .
+passage 3 score = 6.0
+sentence 1: pembubaran organisasi ini dipicu oleh tulisan indische partij yang mengkritik perayaan kemerdekaan belanda dari spanyol di negeri jajahan yang belum merdeka , yaitu indonesia .
+sentence 2: perhimpunan indonesia pada awalnya merupakan organisasi yang pada mulanya bernama indische vereeniging yang didirikan oleh mahasiswa indonesia di jakarta pada tanggal 22 desember 1908 .
+sentence 3: kemudian pada tahun 1923 indische vereeniging mengeluarkan semacam keterangan asas yaitu indonesia merdeka yang lepas dari penjajahan .
+sentence 4: untuk mempersiapkannya harus ada usaha untuk membangun tenaga nasional .
+sentence 5: dalam membangun tenaga nasional itu , rakyat indonesia tidak boleh bekerja sama dengan pemerintah belanda .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-title : revolusi rusia
-passage 31 score = 7.0
-sentence 1: pemerintahan lenin ( 1917 – 1924 ) selama masa pemerintahan lenin , terjadi hal-hal sebagai berikut .
-sentence 2: pembentukan komintern ( komunis internasional ) .
-sentence 3: pada tahun 1919 dibentuk komintern yang bertugas memimpin partai-partai komunis di seluruh dunia .
-sentence 4: komintern dilebur pada tahun 1947 karena berbau imperialism rusia dan digantikan oleh cominform ( communist information ) yang merupakan pusat propaganda komunisme di seluruh dunia .
-sentence 5: pembentukan uni soviet .
-passage 41 score = 7.0
-sentence 1: ia tidak menunjuk pengganti , sehingga timbullah persaingan antara nikita khrushchev dan leonid brezhnev .
-sentence 2: khrushchev keluar sebagai pemenang , namun digulingkan pada tahun 1964 .
-sentence 3: salah satu peristiwa mencolok selama karir khrushchev adalah kritiknya yang menyerang stalin dalam pidato yang disampaikannya pada kongres partai komunis ke - 20 di tahun 1956 .
-sentence 4: pidatonya ini tidak diterbitkan di uni soviet sehingga disebut " pidato rahasia " .
-sentence 5: kritik tersebut diikuti kampanye anti-stalin , pencabutan gambar-gambar dan patung stalin , serta dikeluarkannya jenazah stalin dari dalam musoleum di lapangan merah untuk dimakamkan di pemakaman umum .
-passage 21 score = 6.0
-sentence 1: memanfaatkan keadaan ini , kaum bolsheviks tampil ke muka dan memberi janji-janji kedamaian serta pembagian bahan makanan dan tanah kepada rakyat .
-sentence 2: b. revolusi oktober 1917 ( revolusi komunis ) pada tanggal 10 april 1917 , lenin kembali ke rusia dari perantauannya ke jerman , prancis , inggris , austria , dan swiss sejak tahun 1907 .
-sentence 3: pada tahun yang sama , leon trotsky ( bronstein ) tiba di rusia dari amerika .
-sentence 4: kedua orang ini lalu menjadi motor penggerak kaum bolsheviks yang berpaham komunis di rusia .
-sentence 5: ketika kaum kadet dan mensheviks bergulat dengan revolusi cara mereka , gerakan bawah tanah kaum bolsheviks secara diam-diam mempersiapkan revolusinya sendiri .
-passage 32 score = 6.0
-sentence 1: pembentukan uni soviet .
-sentence 2: sebelum tahun 1922 , rusia terdiri dari beberapa negara kecil yang bersatu di bawah bendera federasi republik-republik soviet sosialis rusia ( frssr ) .
-sentence 3: pada tahun 1922 , federasi ini diubah menjadi uni dan disebut uni republik-republik soviet atau union of soviet socialist republics ( ussr ) .
-sentence 4: kekuasaan pemerintahan terpusat pada pemerintahan pusat .
-sentence 5: sistem perekonomian komunis .
-passage 17 score = 5.75
-sentence 1: jalannya revolusi revolusi rusia yang berlangsung pada tahun 1917 terbagi dalam dua fase .
-sentence 2: a. revolusi februari 1917 revolusi ini dimotori oleh orang-orang kadet , mensheviks , dan bolsheviks .
-sentence 3: tujuannya adalah untuk menggulingkan tsar .
-sentence 4: revolusi dimulai di petrograd ( sekarang leningrad ) berupa demonstrasi yang menuntut turunnya tsar , diikuti oleh pemogokan di perusahaan-perusahaan .
-sentence 5: tentara yang diperintahkan menembaki para pemogok dan demonstran berbalik menembaki opsir-opsirnya sendiri .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok139.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 3 score = 7.0
+sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
+sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
+sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
+sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+passage 2 score = 6.0
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+passage 5 score = 5.75
+sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
+sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
+sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
+sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
+passage 1 score = 5.5
+sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
+sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
+sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
+sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
+sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+passage 4 score = 0.5
+sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
+sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
+sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
+sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-passage 25 score = 7.5
-sentence 1: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
-sentence 2: 2 .
-sentence 3: masa radikal/nonkooperasi ( 1920 - 1930 ) , berdiri organisasi seperti partai komunis indonesia ( pki ) , perhimpunan indonesia ( pi ) , dan partai nasional indonesia ( pni ) .
-sentence 4: 3 .
-sentence 5: masa moderat/kooperasi ( 1930 - 1942 ) , berdiri organisasi seperti parindra , partindo , dan gapi .
-passage 57 score = 7.5
-sentence 1: dalam kesepakatan itu ditekankan pada upaya perhimpunan indonesia tetap pada garis perjuangan kebangsaan dan diharapkan pki dengan ormas-ormasnya tidak menghalang-halangi perhimpunan indonesia dalam mewujudkan citacitanya .
-sentence 2: cita-cita perhimpunan indonesia tertuang dalam 4 pokok ideologi dengan memerhatikan masalah sosial , ekonomi dengan menempatkan kemerdekaan sebagai tujuan politik yang dikembangkan sejak tahun 1925 .
-sentence 3: keempat pokok ideologi tersebut adalah kesatuan nasional , solidaritas , non-kooperasi , dan swadaya .
-sentence 4: 5 .
-sentence 5: partai komunis indonesia ( pki ) partai komunis indonesia ( pki ) secara resmi berdiri pada tanggal 23 mei 1920 .
-passage 58 score = 7.5
-sentence 1: partai komunis indonesia ( pki ) partai komunis indonesia ( pki ) secara resmi berdiri pada tanggal 23 mei 1920 .
-sentence 2: berdirinya pki tidak terlepas dari ajaran marxis yang dibawa oleh sneevliet .
-sentence 3: ia bersama teman-temannya seperti brandsteder , h.w dekker , dan p. bergsma , mendirikan indische social democratische vereeniging ( isdv ) di semarang pada tanggal 4 mei 1914 .
-sentence 4: tokoh-tokoh indonesia yang bergabung dalam isdv antara lain darsono , semaun , alimin , dan lain-lain .
-sentence 5: pki terus berupaya mendapatkan pengaruh dalam masyarakat .
-passage 56 score = 7.25
-sentence 1: b. mengikuti kongres i liga penentang imperialisme dan penindasan kolonial di berlin pada tahun 1927 , mengirimkan mohammad hatta , nasir pamuncak , batot , dan achmad subardjo .
-sentence 2: dalam perjalanannya perhimpunan indonesia mengalami banyak tekanan dari pemerintah belanda , lebih-lebih setelah terjadi pemberontakan partai komunis indonesia pada tahun 1926 .
-sentence 3: pengawasan dilakukan semakin ketat .
-sentence 4: meskipun demikian , pada tanggal 25 desember 1926 semaun bersama mohammad hatta menandatangani suatu kesepakatan yang dikenal dengan konvensi hatta-semaun .
-sentence 5: dalam kesepakatan itu ditekankan pada upaya perhimpunan indonesia tetap pada garis perjuangan kebangsaan dan diharapkan pki dengan ormas-ormasnya tidak menghalang-halangi perhimpunan indonesia dalam mewujudkan citacitanya .
-passage 62 score = 7.25
-sentence 1: d. sikapnya yang tegas terhadap pemerintah kolonial dan kapitalis .
-sentence 2: e. di kalangan rakyat terdapat harapan bahwa pki bisa menggantikan ratu adil .
-sentence 3: organisasi pki makin kuat ketika pada bulan februari 1923 darsono kembali dari moskow .
-sentence 4: ditambah dengan tokoh-tokoh alimin dan musso , maka peranan politik pki semakin luas .
-sentence 5: pada tanggal 13 november 1926 , partai komunis indonesia mengadakan pemberontakan di jakarta , jawa barat , jawa tengah , dan jawa timur .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok68.txt
+title : pengertian dan latar belakang lahirnya pergerakan nasional indonesia
+passage 3 score = 7.0
+sentence 1: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+sentence 2: sejarah pergerakan nasional yang dimulai dari berdirinya budi utomo ( bu ) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa , seperti berikut .
+sentence 3: 1 ) masa awal perkembangan , yang ditandai dengan berdirinya oraginisasi seperti budi utomo ( bu ) , sarekat islam ( si ) , dan indische partij ( ip ) .
+sentence 4: 2 ) masa radikal , ditandai dengan berdirinya partai komunis indonesia ( pki ) , partai nasional indonesia ( pni ) dan perhimpunan indonesia ( ip ) .
+sentence 5: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+passage 2 score = 6.0
+sentence 1: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+sentence 2: istilah ” nasional ” dalam hal ini oleh sartono kartodirdjo ( 1990 ) diartikan sebagai kata sifat dari suatu " nation " yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik , bahasa , kultural , dan sebagainya .
+sentence 3: c. indonesia nama " indonesia " yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional , maka sebutan " indonesia " merupakan keharusan .
+sentence 4: berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya budi utomo ( bu ) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa indonesia 1945 yang ditandai oleh proklamasi kemerdekaan indonesia .
+sentence 5: tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi , sosial , politik , kultural , dan religius dan di antara faktor-faktor itu saling terjadi interelasi .
+passage 5 score = 5.75
+sentence 1: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
+sentence 2: b. faktor ekstern 1 ) adanya all indian national congress 1885 dan gandhiisme di india .
+sentence 3: 2 ) adanya gerakan turki muda 1908 di turki .
+sentence 4: 3 ) adanya kemenangan jepang atas rusia ( 1905 ) menyadarkan dan membangkitkan bangsa-bangsa asia untuk melawan bangsa-bangsa barat .
+sentence 5: 4 ) munculnya paham-paham baru di eropa dan amerika yang masuk ke indonesia , seperti liberalisme , demokrasi , dan nasionalisme mempercepat timbulnya nasionalisme indonesia .
+passage 1 score = 5.5
+sentence 1: pengertian dan latar belakang lahirnya pergerakan nasional indonesia - pergerakan nasional indonesia mempunyai pengertian sebagai berikut .
+sentence 2: pengertian pergerakan nasional indonesia a. pergerakan maksud dari " pergerakan " di sini meliputi segala macam aksi dengan mengggunakan " organisasi modern " untuk menentang penjajahan dan mencapai kemerdekaan .
+sentence 3: dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya , anggota , dasar dan , tujuan yang ingin dicapai .
+sentence 4: penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908 .
+sentence 5: b nasional istilah " nasional " menunjuk sifat dari pergerakan , yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan , seperti ekonomi , sosial , politik , budaya dan kultural dengan tujuan yang sama , yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa indonesia sendiri .
+passage 4 score = 0.5
+sentence 1: 3 ) masa bertahan , ditandai dengan berdirinya fraksi nasional , petisi sutardjo , dan gabungan politik indonesia ( gapi ) .
+sentence 2: latar belakang lahirnya pergerakan nasional indonesia lahirnya pegerakan pasional indonesia tidak terlepas dari peristiwa-peristiwa di benua asia saat itu .
+sentence 3: a. faktor intern 1 ) adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya .
+sentence 4: 2 ) adanya kenangan akan kejayaan masa lampau , seperti zaman sriwijaya dan majapahit .
+sentence 5: 3 ) munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-title : sejarah dampak pendudukan jepang di indonesia
-passage 13 score = 7.0
-sentence 1: dengan meluasnya penggunaan bahasa indonesia sebagai sarana komunikasi maka akan mempercepat dan mempertebal semangat kebangsaan menunju integrasi bangsa .
-sentence 2: bahasa indonesia adalah salah satu unsur kebudayaan sehingga dengan digunakannya bahasa indonesia secara luas akan mendukung perkembangan kebudayaan indonesia .
-sentence 3: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-sentence 4: tugas komisi adalah menentukan terminologi , yaitu istilah-istilah modern dan menyusun suatu tata bahasa normatif dan menentukan kata-kata yang umum bagi bahasa indonesia .
-sentence 5: di bidang sastra , pada zaman jepang juga berkembang baik .
-passage 1 score = 5.75
-sentence 1: sejarah dampak pendudukan jepang di indonesia – pada kesempatan ini admin pengertian sejarah akan berbagi informasi mengenai sejarah dampak pendudukan jepang di indonesia , sebelumnya admin juga sudah berbagi tentang perkembangan agama dan budaya hindu .
-sentence 2: bidang politik kebijakan pertama yang dilakukan dai nippon ( pemerintah militer jepang ) adalah melarang semua rapat dan kegiatan politik .
-sentence 3: pada tanggal20 maret 1942 , dikeluarkan peraturan yang membubarkan semua organisasi politik dan semua bentuk perkumpulan .
-sentence 4: pada tanggal 8 september 1942 dikeluarkan uu no. 2 jepang mengendalikan seluruh organisasi nasional .
-sentence 5: selain itu , jepangpun melakukan propaganda untuk menarik simpati bangsa indonesia dengan cara : menganggap jepang sebagai saudara tua bangsa asia ( hakko ichiu ) ; melancarkan semboyan 3a ( jepang pemimpin , jepang cahaya dan jepang pelindung asia ) ; melancarkan simpati lewat pendidikan berbentuk beasiswa pelajar ; menarik simpati umat islam untuk pergi haji ; menarik simpati organisasi islam miai ; melancarkan politik dumping .
-passage 14 score = 5.75
-sentence 1: di bidang sastra , pada zaman jepang juga berkembang baik .
-sentence 2: hasil karya sastra , seperti roman , sajak , lagu , lukisan , sandiwara , dan film .
-sentence 3: agar hasil karya sastra tidak menyimpang dari tujuan jepang , maka pada tanggal 1 april 19943 di jakarta didirikan pusat kebudayaan degan nama keimin bunko shidosho .
-sentence 4: hasil karya sastra yang terbit , seperti cinta tanah air karya nur sutan iskandar , palawija karya karim halim , angin fuji karya usmar ismail .
-sentence 5: gubahan untuk drama , seperti api dan cintra karya usman ismail ; topan di atas asia dan intelek istimewa karya el hakim ( dr. abu hanifah ) .
-passage 15 score = 5.75
-sentence 1: gubahan untuk drama , seperti api dan cintra karya usman ismail ; topan di atas asia dan intelek istimewa karya el hakim ( dr. abu hanifah ) .
-sentence 2: mengenai seni musik , komponis c. simandjuntak berhasil menciptakan lagu tumpah darahku dan maju putra-putri indonesia .
-sentence 3: birokrasi dan militer pada pertengahan tahun 1943 , kedudukan jepang dalam perang pasifik mulai terdesak , maka jepang memberi kesempatan kepada bangsa indonsia untuk turut mengambil bagian dalam pemerintahan negara .
-sentence 4: untuk itu pada tanggal 5 september 1943 , jepang membentuk badan pertimbangan karesidenan ( syu sangi kai ) dan badan pertimbangan kota praja istimewa ( syi sangi in ) .
-sentence 5: banyak orang indonesia yang menduduki jabatan-jabatan tinggi dalam pemerintahan , seperti prof. dr. husein jayadiningrat sebagai kepala departemen urusan agama ( 1 oktober 1943 ) dan pada tanggal 10 november 1943 sutardjo kartohadikusumo dan r.m.t.a. surio masing-masing diangkat menjadi kepala pemerintahan ( syikocan ) di jakarta dan banjarnegara .
-passage 16 score = 5.75
-sentence 1: banyak orang indonesia yang menduduki jabatan-jabatan tinggi dalam pemerintahan , seperti prof. dr. husein jayadiningrat sebagai kepala departemen urusan agama ( 1 oktober 1943 ) dan pada tanggal 10 november 1943 sutardjo kartohadikusumo dan r.m.t.a. surio masing-masing diangkat menjadi kepala pemerintahan ( syikocan ) di jakarta dan banjarnegara .
-sentence 2: di samping itu , ada enam departemen ( bu ) dengan gelar sanyo , seperti berikut .
-sentence 3: a. ir .
-sentence 4: soekarno , departemen urusan umum ( somubu ) ; b. mr. suwandi dan dr. abdul rasyid , biro pendidikan dan kebudayaan departemen dalam negeri ( naimubu-bunkyoku ) ; c. dr. mr. supomo , departemen kehakiman ( shihobu ) ; d. mochtar bin prabu mangkunegoro , departemen lalu lintas ( kotsubu ) ; e. mr. muh .
-sentence 5: yamin , departemen propaganda ( sendenbu ) ; f. prawoto sumodilogo , departemen ekonomi ( sangyobu ) .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok103.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+passage 8 score = 7.5
+sentence 1: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+sentence 2: sneevliet kemudian melakukan infiltrasi ( penyusupan ) kader-kadernya ke dalam tubuh sarekat islam dengan menjadikan anggota-anggota isdv sebagai anggota sarekat islam , dan sebaliknya anggota-anggota sarekat islam menjadi anggota isdv .
+sentence 3: dengan cara ini sneevliet dan kawan-kawannya telah mempunyai pengaruh yang kuat di kalangan sarekat islam , lebih-lebih setelah berhasil mempengaruhi beberapa pemimpin sarekat islam , seperti semaun dan darsono .
+sentence 4: akibatnya , sarekat islam cabang semarang yang sudah berada dibawah pengaruh isdv semakin jelas warna marxismenya sehingga menyebabkan perpecahan dalam tubuh sarekat islam .
+sentence 5: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+passage 9 score = 7.25
+sentence 1: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+sentence 2: dengan demikian , revolusi prancis , revolusi amerika , dan revolusi rusia berpengaruh terhadap munculnya pergerakan nasional indonesia .
+sentence 3: bedanya , jika revolusi prancis dan revolusi amerika berpengaruh terhadap munculnya organisasi pergerakan nasional yang berpaham nasional dan demokratis .
+sentence 4: sebaliknya , revolusi rusia berpengaruh terhadap munculnya organisasi pergerakan yang berpaham komunis .
+sentence 5: selamat belajar .
+passage 7 score = 7.0
+sentence 1: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+sentence 2: seperti revolusi-revolusi lain , revolusi rusia juga membawa dampak baik bagi rusia sendiri maupun bagi negara-negara di kawasan di dunia termasuk indonesia .
+sentence 3: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional di indonesia tampak jelas dengan berkembangan paham marxis yang kemudian melahirkan partai komunis indonesia .
+sentence 4: benih-benih marxisme dibawa masuk ke indonesia oleh seorang belanda yang bernama h.j.f.m. sneevliet .
+sentence 5: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+passage 4 score = 5.75
+sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+sentence 2: e. lahirnya organisasi pergerakan nasional asia , seperti di turki ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di india ( munculnya all indian national congres ) , sedangkan di indonesia munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti sarekat islam , indische partij , dan sebagainya .
+sentence 3: pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada tahun 1776 telah melahirkan negara amerika serikat lepas dari negara induk inggris .
+sentence 4: declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di benua amerika dan menyebar luas ke kawasan lain di negara-negara di asia dan afrika .
+sentence 5: pernyataan tersebut merupakan pernyataan yang progresif .
+passage 2 score = 5.5
+sentence 1: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+sentence 2: sementara itu , semboyan fraternite telah memupuk rasa persaudaraan dan rasa persatuan di antarawarga negara sehingga menimbulkan nasionalisme .
+sentence 3: liberalisme , demokrasi , dan nasionalisme ternyata telah berkembang cepat di prancis dan di negara-negara eropa yang lain .
+sentence 4: bahkan , paham-paham tersebut pada akhir abad ke-19 dan awal abad ke-20 memasuki kawasan lain , terutama negara-negara yang berada di bawah dominasi kekuasaan bangsa lain .
+sentence 5: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-title : dampak pendudukan jepang di indonesia
-passage 13 score = 7.0
-sentence 1: bahasa indonesia adalah salah satu unsur kebudayaan sehingga dengan digunakannya bahasa indonesia secara luas akan mendukung perkembangan kebudayaan indonesia .
-sentence 2: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-sentence 3: tugas komisi adalah menentukan terminologi , yaitu istilah-istilah modern dan menyusun suatu tata bahasa normatif dan menentukan kata-kata yang umum bagi bahasa indonesia .
-sentence 4: di bidang sastra , pada zaman jepang juga berkembang baik .
-sentence 5: hasil karya sastra , seperti roman , sajak , lagu , lukisan , sandiwara , dan film .
-passage 1 score = 5.75
-sentence 1: dampak pendudukan jepang di indonesia bidang politik kebijakan pertama yang dilakukan dai nippon ( pemerintah militer jepang ) adalah melarang semua rapat dan kegiatan politik .
-sentence 2: pada tanggal20 maret 1942 , dikeluarkan peraturan yang membubarkan semua organisasi politik dan semua bentuk perkumpulan .
-sentence 3: pada tanggal 8 september 1942 dikeluarkan uu no. 2 jepang mengendalikan seluruh organisasi nasional .
-sentence 4: selain itu , jepangpun melakukan propaganda untuk menarik simpati bangsa indonesia dengan cara : menganggap jepang sebagai saudara tua bangsa asia ( hakko ichiu ) ; melancarkan semboyan 3a ( jepang pemimpin , jepang cahaya dan jepang pelindung asia ) ; melancarkan simpati lewat pendidikan berbentuk beasiswa pelajar ; menarik simpati umat islam untuk pergi haji ; menarik simpati organisasi islam miai ; melancarkan politik dumping .
-sentence 5: mengajak untuk bergabung tokoh-tokoh perjuangan nasional seperti : ir .
-passage 15 score = 5.75
-sentence 1: mengenai seni musik , komponis c. simandjuntak berhasil menciptakan lagu tumpah darahku dan maju putra-putri indonesia .
-sentence 2: birokrasi dan militer pada pertengahan tahun 1943 , kedudukan jepang dalam perang pasifik mulai terdesak , maka jepang memberi kesempatan kepada bangsa indonsia untuk turut mengambil bagian dalam pemerintahan negara .
-sentence 3: untuk itu pada tanggal 5 september 1943 , jepang membentuk badan pertimbangan karesidenan ( syu sangi kai ) dan badan pertimbangan kota praja istimewa ( syi sangi in ) .
-sentence 4: banyak orang indonesia yang menduduki jabatan-jabatan tinggi dalam pemerintahan , seperti prof. dr. husein jayadiningrat sebagai kepala departemen urusan agama ( 1 oktober 1943 ) dan pada tanggal 10 november 1943 sutardjo kartohadikusumo dan r.m.t.a. surio masing-masing diangkat menjadi kepala pemerintahan ( syikocan ) di jakarta dan banjarnegara .
-sentence 5: di samping itu , ada enam departemen ( bu ) dengan gelar sanyo , seperti berikut .
-passage 14 score = 5.5
-sentence 1: hasil karya sastra , seperti roman , sajak , lagu , lukisan , sandiwara , dan film .
-sentence 2: agar hasil karya sastra tidak menyimpang dari tujuan jepang , maka pada tanggal 1 april 19943 di jakarta didirikan pusat kebudayaan degan nama keimin bunko shidosho .
-sentence 3: hasil karya sastra yang terbit , seperti cinta tanah air karya nur sutan iskandar , palawija karya karim halim , angin fuji karya usmar ismail .
-sentence 4: gubahan untuk drama , seperti api dan cintra karya usman ismail ; topan di atas asia dan intelek istimewa karya el hakim ( dr. abu hanifah ) .
-sentence 5: mengenai seni musik , komponis c. simandjuntak berhasil menciptakan lagu tumpah darahku dan maju putra-putri indonesia .
-passage 5 score = 5.25
-sentence 1: autarki , artinya setiap wilayah harus mencukupi kebutuhan sendiri dan juga harus dapat menunjang kebutuhan perang .
-sentence 2: romusa mempunyai persamaan dengan kerja rodi/kerja paksa pada zaman hindia belanda , yakni kerja tanpa mendapatkan upah .
-sentence 3: memasuki tahun 1944 tuntutan kebutuhan pangan dan perang makin meningkat .
-sentence 4: pemerintah jepang mulai melancarkan kampanye pengerahan barang dan menambah bahan pangan secara besar-besaran yang dilakukan oleh jawa hokokai melalui nagyo kumiai ( koperasi pertanian ) , dan instansi pemerintah lainnya .
-sentence 5: pengerahan bahan makanan ini dilakukan dengan cara penyerahan padi atau hasil panen lainnya kepada pemerintah .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok32.txt
+title : pengaruh revolusi prancis, amerika, dan rusia terhadap perkembangan pergerakan nasional indonesia
+passage 8 score = 7.5
+sentence 1: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+sentence 2: sneevliet kemudian melakukan infiltrasi ( penyusupan ) kader-kadernya ke dalam tubuh sarekat islam dengan menjadikan anggota-anggota isdv sebagai anggota sarekat islam , dan sebaliknya anggota-anggota sarekat islam menjadi anggota isdv .
+sentence 3: dengan cara ini sneevliet dan kawan-kawannya telah mempunyai pengaruh yang kuat di kalangan sarekat islam , lebih-lebih setelah berhasil mempengaruhi beberapa pemimpin sarekat islam , seperti semaun dan darsono .
+sentence 4: akibatnya , sarekat islam cabang semarang yang sudah berada dibawah pengaruh isdv semakin jelas warna marxismenya sehingga menyebabkan perpecahan dalam tubuh sarekat islam .
+sentence 5: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+passage 9 score = 7.25
+sentence 1: pada tahun 1919 isdv diubah menjadi partai komunis hindia dan selanjutnya pada bulan desember 1920 menjadi partai komunis indonesia .
+sentence 2: dengan demikian , revolusi prancis , revolusi amerika , dan revolusi rusia berpengaruh terhadap munculnya pergerakan nasional indonesia .
+sentence 3: bedanya , jika revolusi prancis dan revolusi amerika berpengaruh terhadap munculnya organisasi pergerakan nasional yang berpaham nasional dan demokratis .
+sentence 4: sebaliknya , revolusi rusia berpengaruh terhadap munculnya organisasi pergerakan yang berpaham komunis .
+sentence 5: selamat belajar .
+passage 7 score = 7.0
+sentence 1: di samping itu , revolusi rusia yang berpaham komunis akhirnya berhasil merubah haluan negara tersebut ke arah negara komunis .
+sentence 2: seperti revolusi-revolusi lain , revolusi rusia juga membawa dampak baik bagi rusia sendiri maupun bagi negara-negara di kawasan di dunia termasuk indonesia .
+sentence 3: pengaruh revolusi rusia terhadap perkembangan pergerakan nasional di indonesia tampak jelas dengan berkembangan paham marxis yang kemudian melahirkan partai komunis indonesia .
+sentence 4: benih-benih marxisme dibawa masuk ke indonesia oleh seorang belanda yang bernama h.j.f.m. sneevliet .
+sentence 5: atas dasar marxisme inilah pada tanggal 9 mei 1914 di semarang , sneevliet bersama-sama dengan j.a. brandsteder , h.w. dekker , dan p. bersgma berhasil mendirikan indische sociaal democratische vereeniging ( isdv ) .
+passage 4 score = 5.75
+sentence 1: d. munculnya gerakan turki muda di turki pada akhir abad ke-19 .
+sentence 2: e. lahirnya organisasi pergerakan nasional asia , seperti di turki ( gerakan turki muda ) , di filipina ( lahirnya la liga filipina , katipunan , dan sebagainya ) , di india ( munculnya all indian national congres ) , sedangkan di indonesia munculnya kebangkitan nasional yang dipelopori oleh budi utomo yang kemudian disusul organisasi pergerakan yang lain , seperti sarekat islam , indische partij , dan sebagainya .
+sentence 3: pengaruh revolusi amerika terhadap perkembangan pergerakan nasional indonesia revolusi amerika yang berhasil menyatakan declaration of independence pada tahun 1776 telah melahirkan negara amerika serikat lepas dari negara induk inggris .
+sentence 4: declaration of independence yang menyuarakan adanya hak-hak asasi manusia seperti hak hidup , hak kebebasan , dan hak untuk memiliki sesuatu telah menggema di benua amerika dan menyebar luas ke kawasan lain di negara-negara di asia dan afrika .
+sentence 5: pernyataan tersebut merupakan pernyataan yang progresif .
+passage 2 score = 5.5
+sentence 1: egalite telah mendorong berkembangnya nilai-nilai demokrasi .
+sentence 2: sementara itu , semboyan fraternite telah memupuk rasa persaudaraan dan rasa persatuan di antarawarga negara sehingga menimbulkan nasionalisme .
+sentence 3: liberalisme , demokrasi , dan nasionalisme ternyata telah berkembang cepat di prancis dan di negara-negara eropa yang lain .
+sentence 4: bahkan , paham-paham tersebut pada akhir abad ke-19 dan awal abad ke-20 memasuki kawasan lain , terutama negara-negara yang berada di bawah dominasi kekuasaan bangsa lain .
+sentence 5: liberalisme , demokrasi , dan nasionalisme telah mendorong lahirnya pergerakan yang bertujuan untuk menentang imperialisme dan kolonialisme di negara-negara di amerika latin , asia , dan afrika , misalnya sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok197.txt
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+title : pembentukan partai politik
+passage 2 score = 8.5
+sentence 1: sebagai tasumsi atas usul tersebut , maka pada tanggal 3 november 1945 pemerintah mengeluarkan maklumat pemerintah yang pada intinya berisi memberbagi peluang terhadap rakyat untuk mendirikan partai politik .
+sentence 2: maklumat itu kemudian dikenal dengan maklumat pemerintah tanggal 3 november 1945 .
+sentence 3: partai politik yang timbul seusai maklumat pemerintah tanggal 3 november 1945 dikeluarkan antara lain masyumi , partai komunis indonesia , partai buruh indonesia , parkindo , partai rakyat jelata , partai sosialis indonesia , partai rakyat sosialis , partai katolik , permai , serta pni .
+sentence 4: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
+title : sejarah munculnya sarekat islam
+passage 8 score = 8.0
+sentence 1: pada tahun 1923 , diadakan kongres sarekat islam ke-7 .
+sentence 2: dalam kongres tersebut , diputuskan bahwa central sarekat islam diganti menjadi partai sarekat islam ( psi ) .
+sentence 3: selain itu , diputuskan pula bahwa cabang-cabang sarekat islam yang mendapat pengaruh komunis menyatakan diri berada di bawah sarekat rakyat ( sr ) yang menjadi basis partai komunis indonesia ( pki ) .
+sentence 4: [ ps ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
 title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
-passage 18 score = 7.0
+passage 18 score = 8.0
 sentence 1: gerakan nasionalisme vietnam terjadi melalui tiga periode , yaitu sebagai berikut .
 sentence 2: periode 1913-1917 yang secara umum gerakan nasionalisme vietnam dikendalikan oleh kuang phuc hoi ( partai restorasi vietnam ) di bawah pimpinan phan boi dan phan trinh .
 sentence 3: gerakan tersebut bertujuan untuk menciptakan negara vietnam yang modern .
 sentence 4: periode tahun 1917-1930 yang ditandai dengan munculnya partai-partai politik , seperti , partai progresif rakyat vietnam , partai konstitusi , partai kebangsaan vietnam , gerakan cao dai , dan partai komunis vietnam .
 sentence 5: dari partai-partai tersebut , partai komunis vietnam berhasil memegang dan mengendalikan gerakan nasionalisme vietnam .
-passage 21 score = 7.0
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+passage 21 score = 8.0
 sentence 1: selanjutnya setelah jepang mengalami kekalahan dalam perang dunia ii , gerakan nasionalis vietnam kembali berada di bawah kendali ho chi minh .
 sentence 2: dengan kekalahan jepang tersebut , ho chi minh segera memanfaatkan kesempatan dengan memproklamasikan kemerdekaan vietnam pada tanggal 2 september 1945 .
 sentence 3: sementara itu , untuk menghadapi gerakan partai komunis vietnam , pada tanggal 1 juni 1949 prancis ( vichy ) segera membentuk negara boneka .
 sentence 4: pembentukan negara boneka ini bertujuan untuk mempertahankan kolonialismenya .
 sentence 5: ternyata pembentukan negara boneka tersebut menjadi pemicu terjadinya perang vietnam ( vietnam utara dan vietnam selatan ) .
-passage 20 score = 6.75
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+passage 20 score = 7.75
 sentence 1: di bawah pimpinan ho chi minh , partai komunis vietnam bercita-cita untuk merebut kemerdekaan vietnam dari tangan prancis .
 sentence 2: pola perjuangan partai ini ternyata sangat menarik perhatian dan minat rakyat vietnam .
 sentence 3: karena gerakan yang digunakan partai komunis vietnam ini bersifat radikal , maka prancis segera menghancurkan perjuangan partai tersebut .
 sentence 4: ho chi minh sebagai pemimpin partai komunis vietnam berhasil melarikan diri ke hongkong , kemudian pergi ke rusia , cina , dan akhirnya kembali ke vietnam pada tahun 1942 .
 sentence 5: selanjutnya setelah jepang mengalami kekalahan dalam perang dunia ii , gerakan nasionalis vietnam kembali berada di bawah kendali ho chi minh .
-passage 19 score = 6.5
-sentence 1: dari partai-partai tersebut , partai komunis vietnam berhasil memegang dan mengendalikan gerakan nasionalisme vietnam .
-sentence 2: periode 1930-1954 .
-sentence 3: pada periode ini gerakan nasionalisme vietnam terus dilakukan oleh partai komunis dalam menentang prancis .
-sentence 4: dominasi partai komunis vietnam semakin besar setelah partai nasionalis dihancurkan oleh prancis .
-sentence 5: di bawah pimpinan ho chi minh , partai komunis vietnam bercita-cita untuk merebut kemerdekaan vietnam dari tangan prancis .
-passage 4 score = 6.0
-sentence 1: selanjutnya jepang mengembangkannya sendiri sampai akhirnya jepang menjadi negara imperialis pada perang dunia ii .
-sentence 2: keberhasilan bangsa jepang mengadakan restorasi dengan memodernisasi diri dan keberhasilan mengusir bangsa barat dari dalam negeri dapat mendorong bangsa-bangsa asia untuk berbuat seperti jepang , khususnya bangsa-bangsa di asia yang mengalami penjajahan dari bangsa barat seperti indonesia yang dikuasai oleh belanda .
-sentence 3: nasionalisme di cina pada abad ke-19 , melalui perjanjian-perjanjian yang dilakukan oleh pemerintah dinasti manchu dengan bangsa-bangsa barat , membuat cina diintervensi oleh bangsa barat .
-sentence 4: perjanjian itu di antaranya perjanjian nanking ( 1842 ) dan perjanjian peking ( 1860 ) .
-sentence 5: kedua perjanjian itu telah memaksa dibukanya beberapa pelabuhan untuk bangsa barat .
-
-
-After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-passage 23 score = 7.5
-sentence 1: surat kabar dan radio juga menggunakan bahasa indonesia sehingga mempercepat penyebarluasan bahasa indonesia .
-sentence 2: begitu juga papan nama toko , nama rumah makan , perusahaan dan sebagainya yang menggunakan bahasa belanda harus diganti dengan bahasa indonesia atau bahasa jepang .
-sentence 3: dengan meluasnya penggunaan bahasa indonesia sebagai sarana komunikasi maka akan mempercepat dan mempertebal semangat kebangsaan menunju integrasi bangsa .
-sentence 4: c. kebudayaan bahasa indonesia adalah salah satu unsur kebudayaan sehingga dengan digunakannya bahasa indonesia secara luas akan mendukung perkembangan kebudayaan indonesia .
-sentence 5: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-passage 24 score = 7.5
-sentence 1: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-sentence 2: tugas komisi adalah menentukan terminologi , yaitu istilah-istilah modern dan menyusun suatu tata bahasa normatif dan menentukan kata-kata yang umum bagi bahasa indonesia .
-sentence 3: susunan kepengurusan komisi bahasa indonesia adalah sebagai berikut .
-sentence 4: ketua : mori ( kepala kantor pengajaran ) .
-sentence 5: wakil ketua : iciki penulis : mr. r. suwandi penulis ahli : mr.s .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-passage 23 score = 7.5
-sentence 1: surat kabar dan radio juga menggunakan bahasa indonesia sehingga mempercepat penyebarluasan bahasa indonesia .
-sentence 2: begitu juga papan nama toko , nama rumah makan , perusahaan dan sebagainya yang menggunakan bahasa belanda harus diganti dengan bahasa indonesia atau bahasa jepang .
-sentence 3: dengan meluasnya penggunaan bahasa indonesia sebagai sarana komunikasi maka akan mempercepat dan mempertebal semangat kebangsaan menunju integrasi bangsa .
-sentence 4: c. kebudayaan bahasa indonesia adalah salah satu unsur kebudayaan sehingga dengan digunakannya bahasa indonesia secara luas akan mendukung perkembangan kebudayaan indonesia .
-sentence 5: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-passage 24 score = 7.5
-sentence 1: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-sentence 2: tugas komisi adalah menentukan terminologi , yaitu istilah-istilah modern dan menyusun suatu tata bahasa normatif dan menentukan kata-kata yang umum bagi bahasa indonesia .
-sentence 3: susunan kepengurusan komisi bahasa indonesia adalah sebagai berikut .
-sentence 4: ketua : mori ( kepala kantor pengajaran ) .
-sentence 5: wakil ketua : iciki penulis : mr. r. suwandi penulis ahli : mr.s .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-passage 25 score = 7.5
-sentence 1: masa pembentukan ( 1908 - 1920 ) berdiri organisasi seperti budi utomo , sarekat islam , dan indische partij .
-sentence 2: 2 .
-sentence 3: masa radikal/nonkooperasi ( 1920 - 1930 ) , berdiri organisasi seperti partai komunis indonesia ( pki ) , perhimpunan indonesia ( pi ) , dan partai nasional indonesia ( pni ) .
-sentence 4: 3 .
-sentence 5: masa moderat/kooperasi ( 1930 - 1942 ) , berdiri organisasi seperti parindra , partindo , dan gapi .
 
 
 Pencarian jawaban
 ---------------------
 
 
-surat kabar dan radio juga menggunakan bahasa indonesia sehingga mempercepat penyebarluasan bahasa indonesia . begitu juga papan nama toko , nama rumah makan , perusahaan dan sebagainya yang menggunakan bahasa belanda harus diganti dengan bahasa indonesia atau bahasa jepang . dengan meluasnya penggunaan bahasa indonesia sebagai sarana komunikasi maka akan mempercepat dan mempertebal semangat kebangsaan menunju integrasi bangsa . c. kebudayaan bahasa indonesia adalah salah satu unsur kebudayaan sehingga dengan digunakannya bahasa indonesia secara luas akan mendukung perkembangan kebudayaan indonesia . pada <TIME>tanggal 20 oktober 1943</TIME> atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
+sebagai tasumsi atas usul tersebut , maka pada <TIME>tanggal 3 november 1945</TIME> <PERSON>pemerintah</PERSON> mengeluarkan maklumat pemerintah yang pada intinya berisi memberbagi peluang terhadap <PERSON>rakyat</PERSON> untuk mendirikan partai politik . maklumat itu kemudian dikenal dengan maklumat <PERSON>pemerintah</PERSON> <TIME>tanggal 3 november 1945</TIME> . partai politik yang timbul seusai maklumat pemerintah <TIME>tanggal 3 november 1945</TIME> dikeluarkan antara lain <PERSON>masyumi , partai komunis indonesia , partai buruh indonesia , parkindo , partai rakyat jelata , partai sosialis indonesia , partai rakyat sosialis</PERSON> , partai katolik , permai , serta pni . [ gs ]
 
-memproses passage 23
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
+memproses passage 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+title : pembentukan partai politik
 list jawaban dan posisi dalam passage
-tanggal 20 oktober 1943 | position = 55
+tanggal 3 november 1945 | position = 3
+tanggal 3 november 1945 | position = 21
+tanggal 3 november 1945 | position = 28
 
 
 melakukan pencarian:
 kata kunci = partai
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = radio
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = penyebarluasan
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = papan
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = toko
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = makan
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = sarana
-tokenwithtagstemmed = komunikasi
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = tebal
-tokenwithtagstemmed = semangat
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = menunju
-tokenwithtagstemmed = integrasi
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = c
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cara
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = dukung
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tanggal 20 oktober 1943
+tokenwithtagstemmed = tasumsi
 tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = inti
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = peluang
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = untuk
 tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-kata kunci = komunis
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = radio
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = penyebarluasan
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = papan
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = toko
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = makan
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = sarana
-tokenwithtagstemmed = komunikasi
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = tebal
-tokenwithtagstemmed = semangat
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = menunju
-tokenwithtagstemmed = integrasi
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = c
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cara
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = dukung
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-kata kunci = indonesia
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = radio
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 5
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 50
-
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = penyebarluasan
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 9
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 46
-
-tokenwithtagstemmed = papan
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = toko
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = makan
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 22
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 33
-
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 28
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 27
-
-tokenwithtagstemmed = sarana
-tokenwithtagstemmed = komunikasi
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = tebal
-tokenwithtagstemmed = semangat
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = menunju
-tokenwithtagstemmed = integrasi
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = c
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 41
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 14
-
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 48
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 7
-
-tokenwithtagstemmed = cara
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = dukung
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 54
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 1
-
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 59
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -4
-
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 64
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -9
-
-kata kunci = diri
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = radio
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = penyebarluasan
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = papan
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = toko
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = makan
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = sarana
-tokenwithtagstemmed = komunikasi
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = tebal
-tokenwithtagstemmed = semangat
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = menunju
-tokenwithtagstemmed = integrasi
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = c
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cara
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = dukung
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-posisi dalam passage = 60
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -5
-
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-
-
-pada <TIME>tanggal 20 oktober 1943</TIME> atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia . tugas komisi adalah menentukan terminologi , yaitu istilah-istilah modern dan menyusun suatu tata bahasa normatif dan menentukan kata-kata yang umum bagi bahasa indonesia . susunan kepengurusan komisi bahasa indonesia adalah sebagai berikut . ketua : mori ( kepala kantor pengajaran ) . wakil ketua <PERSON>: iciki penulis : mr.</PERSON> r. suwandi penulis ahli : mr.s .
-
-memproses passage 24
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-list jawaban dan posisi dalam passage
-tanggal 20 oktober 1943 | position = 0
-
-
-melakukan pencarian:
-kata kunci = partai
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = terminologi
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = modern
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = tata
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = normatif
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = mori
-tokenwithtagstemmed = kepala
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = iciki tulis mr
-tokenwithtagstemmed = r
-tokenwithtagstemmed = suwandi
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = ahli
-tokenwithtagstemmed = mr.s
-kata kunci = komunis
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = terminologi
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = modern
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = tata
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = normatif
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = mori
-tokenwithtagstemmed = kepala
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = iciki tulis mr
-tokenwithtagstemmed = r
-tokenwithtagstemmed = suwandi
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = ahli
-tokenwithtagstemmed = mr.s
-kata kunci = indonesia
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 4
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -4
-
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 9
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -9
-
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = terminologi
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = modern
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = tata
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = normatif
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 26
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -26
-
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 31
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -31
-
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = mori
-tokenwithtagstemmed = kepala
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = iciki tulis mr
-tokenwithtagstemmed = r
-tokenwithtagstemmed = suwandi
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = ahli
-tokenwithtagstemmed = mr.s
-kata kunci = diri
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-posisi dalam passage = 5
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -5
-
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = terminologi
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = modern
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = tata
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = normatif
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = mori
-tokenwithtagstemmed = kepala
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = iciki tulis mr
-tokenwithtagstemmed = r
-tokenwithtagstemmed = suwandi
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = ahli
-tokenwithtagstemmed = mr.s
-
-
-surat kabar dan radio juga menggunakan bahasa indonesia sehingga mempercepat penyebarluasan bahasa indonesia . begitu juga papan nama toko , nama rumah makan , perusahaan dan sebagainya yang menggunakan bahasa belanda harus diganti dengan bahasa indonesia atau bahasa jepang . dengan meluasnya penggunaan bahasa indonesia sebagai sarana komunikasi maka akan mempercepat dan mempertebal semangat kebangsaan menunju integrasi bangsa . c. kebudayaan bahasa indonesia adalah salah satu unsur kebudayaan sehingga dengan digunakannya bahasa indonesia secara luas akan mendukung perkembangan kebudayaan indonesia . pada <TIME>tanggal 20 oktober 1943</TIME> atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-
-memproses passage 23
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-list jawaban dan posisi dalam passage
-tanggal 20 oktober 1943 | position = 55
-
-
-melakukan pencarian:
-kata kunci = partai
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = radio
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = penyebarluasan
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = papan
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = toko
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = makan
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = sarana
-tokenwithtagstemmed = komunikasi
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = tebal
-tokenwithtagstemmed = semangat
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = menunju
-tokenwithtagstemmed = integrasi
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = c
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cara
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = dukung
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-kata kunci = komunis
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = radio
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = penyebarluasan
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = papan
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = toko
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = makan
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = sarana
-tokenwithtagstemmed = komunikasi
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = tebal
-tokenwithtagstemmed = semangat
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = menunju
-tokenwithtagstemmed = integrasi
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = c
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cara
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = dukung
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-kata kunci = indonesia
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = radio
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 5
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 50
-
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = penyebarluasan
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 9
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 46
-
-tokenwithtagstemmed = papan
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = toko
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = makan
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 22
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 33
-
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 28
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 27
-
-tokenwithtagstemmed = sarana
-tokenwithtagstemmed = komunikasi
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = tebal
-tokenwithtagstemmed = semangat
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = menunju
-tokenwithtagstemmed = integrasi
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = c
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 41
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 14
-
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 48
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 7
-
-tokenwithtagstemmed = cara
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = dukung
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 54
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 1
-
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 59
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -4
-
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 64
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -9
-
-kata kunci = diri
-tokenwithtagstemmed = surat
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = radio
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = penyebarluasan
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = papan
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = toko
-tokenwithtagstemmed = nama
-tokenwithtagstemmed = rumah
-tokenwithtagstemmed = makan
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = ganti
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = jepang
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = sarana
-tokenwithtagstemmed = komunikasi
-tokenwithtagstemmed = cepat
-tokenwithtagstemmed = tebal
-tokenwithtagstemmed = semangat
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = menunju
-tokenwithtagstemmed = integrasi
-tokenwithtagstemmed = bangsa
-tokenwithtagstemmed = c
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = salah
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = unsur
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = cara
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = dukung
-tokenwithtagstemmed = kembang
-tokenwithtagstemmed = budaya
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-posisi dalam passage = 60
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -5
-
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-
-
-pada <TIME>tanggal 20 oktober 1943</TIME> atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia . tugas komisi adalah menentukan terminologi , yaitu istilah-istilah modern dan menyusun suatu tata bahasa normatif dan menentukan kata-kata yang umum bagi bahasa indonesia . susunan kepengurusan komisi bahasa indonesia adalah sebagai berikut . ketua : mori ( kepala kantor pengajaran ) . wakil ketua <PERSON>: iciki penulis : mr.</PERSON> r. suwandi penulis ahli : mr.s .
-
-memproses passage 24
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-list jawaban dan posisi dalam passage
-tanggal 20 oktober 1943 | position = 0
-
-
-melakukan pencarian:
-kata kunci = partai
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = terminologi
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = modern
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = tata
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = normatif
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = mori
-tokenwithtagstemmed = kepala
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = iciki tulis mr
-tokenwithtagstemmed = r
-tokenwithtagstemmed = suwandi
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = ahli
-tokenwithtagstemmed = mr.s
-kata kunci = komunis
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = terminologi
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = modern
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = tata
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = normatif
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = mori
-tokenwithtagstemmed = kepala
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = iciki tulis mr
-tokenwithtagstemmed = r
-tokenwithtagstemmed = suwandi
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = ahli
-tokenwithtagstemmed = mr.s
-kata kunci = indonesia
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 4
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -4
-
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 9
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -9
-
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = terminologi
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = modern
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = tata
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = normatif
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 26
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -26
-
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 31
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -31
-
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = mori
-tokenwithtagstemmed = kepala
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = iciki tulis mr
-tokenwithtagstemmed = r
-tokenwithtagstemmed = suwandi
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = ahli
-tokenwithtagstemmed = mr.s
-kata kunci = diri
-tokenwithtagstemmed = tanggal 20 oktober 1943
-tokenwithtagstemmed = atas
-tokenwithtagstemmed = desa
-tokenwithtagstemmed = tokoh
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = diri
-posisi dalam passage = 5
-jarak dengan tiap kandidat jawaban:
-tanggal 20 oktober 1943 -5
-
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = tugas
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = terminologi
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = istilah
-tokenwithtagstemmed = modern
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = tata
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = normatif
-tokenwithtagstemmed = tentu
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = kata
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = susun
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = komisi
-tokenwithtagstemmed = bahasa
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = ikut
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = mori
-tokenwithtagstemmed = kepala
-tokenwithtagstemmed = kantor
-tokenwithtagstemmed = ajar
-tokenwithtagstemmed = wakil
-tokenwithtagstemmed = ketua
-tokenwithtagstemmed = iciki tulis mr
-tokenwithtagstemmed = r
-tokenwithtagstemmed = suwandi
-tokenwithtagstemmed = tulis
-tokenwithtagstemmed = ahli
-tokenwithtagstemmed = mr.s
-
-
-masa pembentukan ( <TIME>1908 - 1920</TIME> ) berdiri organisasi seperti budi utomo , sarekat islam , dan <PERSON>indische partij .</PERSON> 2 . masa radikal/nonkooperasi ( <TIME>1920 - 1930</TIME> ) , berdiri organisasi seperti partai komunis indonesia ( pki ) , perhimpunan indonesia ( pi ) , dan partai nasional indonesia ( pni ) . 3 . masa moderat/kooperasi ( <TIME>1930 - 1942</TIME> ) , berdiri organisasi seperti <PERSON>parindra , partindo ,</PERSON> dan gapi .
-
-memproses passage 25
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-title : latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-list jawaban dan posisi dalam passage
-1908 1920 | position = 2
-1920 1930 | position = 14
-1930 1942 | position = 32
-
-
-melakukan pencarian:
-kata kunci = partai
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = 1908 1920
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = sarekat
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = 2
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = radikal
-tokenwithtagstemmed = nonkooperasi
-tokenwithtagstemmed = 1920 1930
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = organisasi
 tokenwithtagstemmed = partai
-posisi dalam passage = 17
-jarak dengan tiap kandidat jawaban:
-1908 1920 -15
-1920 1930 -3
-1930 1942 15
-
-tokenwithtagstemmed = komunis
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pki
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = partai
-posisi dalam passage = 24
-jarak dengan tiap kandidat jawaban:
-1908 1920 -22
-1920 1930 -10
-1930 1942 8
-
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pni
-tokenwithtagstemmed = 3
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = moderat
-tokenwithtagstemmed = kooperasi
-tokenwithtagstemmed = 1930 1942
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = parindra partindo
-tokenwithtagstemmed = gap
-kata kunci = komunis
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = 1908 1920
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = sarekat
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = 2
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = radikal
-tokenwithtagstemmed = nonkooperasi
-tokenwithtagstemmed = 1920 1930
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = partai
-tokenwithtagstemmed = komunis
-posisi dalam passage = 18
-jarak dengan tiap kandidat jawaban:
-1908 1920 -16
-1920 1930 -4
-1930 1942 14
-
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pki
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = partai
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pni
-tokenwithtagstemmed = 3
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = moderat
-tokenwithtagstemmed = kooperasi
-tokenwithtagstemmed = 1930 1942
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = parindra partindo
-tokenwithtagstemmed = gap
-kata kunci = indonesia
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = 1908 1920
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = sarekat
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = 2
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = radikal
-tokenwithtagstemmed = nonkooperasi
-tokenwithtagstemmed = 1920 1930
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = partai
-tokenwithtagstemmed = komunis
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 19
-jarak dengan tiap kandidat jawaban:
-1908 1920 -17
-1920 1930 -5
-1930 1942 13
-
-tokenwithtagstemmed = pki
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 22
-jarak dengan tiap kandidat jawaban:
-1908 1920 -20
-1920 1930 -8
-1930 1942 10
-
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = partai
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = indonesia
-posisi dalam passage = 26
-jarak dengan tiap kandidat jawaban:
-1908 1920 -24
-1920 1930 -12
-1930 1942 6
-
-tokenwithtagstemmed = pni
-tokenwithtagstemmed = 3
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = moderat
-tokenwithtagstemmed = kooperasi
-tokenwithtagstemmed = 1930 1942
-tokenwithtagstemmed = diri
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = parindra partindo
-tokenwithtagstemmed = gap
-kata kunci = diri
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = bentuk
-tokenwithtagstemmed = 1908 1920
-tokenwithtagstemmed = diri
-posisi dalam passage = 3
-jarak dengan tiap kandidat jawaban:
-1908 1920 -1
-1920 1930 11
-1930 1942 29
-
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = budi
-tokenwithtagstemmed = utomo
-tokenwithtagstemmed = sarekat
-tokenwithtagstemmed = islam
-tokenwithtagstemmed = indische partij
-tokenwithtagstemmed = 2
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = radikal
-tokenwithtagstemmed = nonkooperasi
-tokenwithtagstemmed = 1920 1930
-tokenwithtagstemmed = diri
 posisi dalam passage = 15
 jarak dengan tiap kandidat jawaban:
-1908 1920 -13
-1920 1930 -1
-1930 1942 17
+tanggal 3 november 1945 -12
+tanggal 3 november 1945 6
+tanggal 3 november 1945 13
 
-tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = partai
+posisi dalam passage = 22
+jarak dengan tiap kandidat jawaban:
+tanggal 3 november 1945 -19
+tanggal 3 november 1945 -1
+tanggal 3 november 1945 6
+
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = usai
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = masyumi partai komunis indonesia partai buruh indonesia parkindo partai rakyat jelata partai sosialis indonesia partai rakyat sosialis
+tokenwithtagstemmed = partai
+posisi dalam passage = 31
+jarak dengan tiap kandidat jawaban:
+tanggal 3 november 1945 -28
+tanggal 3 november 1945 -10
+tanggal 3 november 1945 -3
+
+tokenwithtagstemmed = katolik
+tokenwithtagstemmed = permai
+tokenwithtagstemmed = pni
+tokenwithtagstemmed = gs
+kata kunci = komunis
+tokenwithtagstemmed = tasumsi
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = inti
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = peluang
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = usai
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = masyumi partai komunis indonesia partai buruh indonesia parkindo partai rakyat jelata partai sosialis indonesia partai rakyat sosialis
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = katolik
+tokenwithtagstemmed = permai
+tokenwithtagstemmed = pni
+tokenwithtagstemmed = gs
+kata kunci = indonesia
+tokenwithtagstemmed = tasumsi
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = inti
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = peluang
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = usai
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = masyumi partai komunis indonesia partai buruh indonesia parkindo partai rakyat jelata partai sosialis indonesia partai rakyat sosialis
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = katolik
+tokenwithtagstemmed = permai
+tokenwithtagstemmed = pni
+tokenwithtagstemmed = gs
+kata kunci = diri
+tokenwithtagstemmed = tasumsi
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = inti
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = peluang
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = diri
+posisi dalam passage = 14
+jarak dengan tiap kandidat jawaban:
+tanggal 3 november 1945 -11
+tanggal 3 november 1945 7
+tanggal 3 november 1945 14
+
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = usai
+tokenwithtagstemmed = maklumat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = tanggal 3 november 1945
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = masyumi partai komunis indonesia partai buruh indonesia parkindo partai rakyat jelata partai sosialis indonesia partai rakyat sosialis
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = katolik
+tokenwithtagstemmed = permai
+tokenwithtagstemmed = pni
+tokenwithtagstemmed = gs
+
+
+pada <TIME>tahun 1923</TIME> , diadakan kongres sarekat islam ke-7 . dalam kongres tersebut , diputuskan bahwa central sarekat islam diganti menjadi partai sarekat islam ( psi ) . selain itu , diputuskan pula bahwa cabang-cabang sarekat islam yang mendapat pengaruh komunis menyatakan diri berada di bawah <PERSON>sarekat rakyat</PERSON> ( sr ) yang menjadi basis partai komunis indonesia ( pki ) . [ ps ]
+
+memproses passage 8
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok342.txt
+title : sejarah munculnya sarekat islam
+list jawaban dan posisi dalam passage
+tahun 1923 | position = 0
+
+
+melakukan pencarian:
+kata kunci = partai
+tokenwithtagstemmed = tahun 1923
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = 7
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = partai
+posisi dalam passage = 13
+jarak dengan tiap kandidat jawaban:
+tahun 1923 -13
+
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = psi
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = sarekat rakyat
+tokenwithtagstemmed = sr
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = basis
+tokenwithtagstemmed = partai
+posisi dalam passage = 32
+jarak dengan tiap kandidat jawaban:
+tahun 1923 -32
+
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ps
+kata kunci = komunis
+tokenwithtagstemmed = tahun 1923
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = 7
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = psi
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = komunis
+posisi dalam passage = 24
+jarak dengan tiap kandidat jawaban:
+tahun 1923 -24
+
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = sarekat rakyat
+tokenwithtagstemmed = sr
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = basis
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+posisi dalam passage = 33
+jarak dengan tiap kandidat jawaban:
+tahun 1923 -33
+
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ps
+kata kunci = indonesia
+tokenwithtagstemmed = tahun 1923
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = 7
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = psi
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = sarekat rakyat
+tokenwithtagstemmed = sr
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = basis
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = indonesia
+posisi dalam passage = 34
+jarak dengan tiap kandidat jawaban:
+tahun 1923 -34
+
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ps
+kata kunci = diri
+tokenwithtagstemmed = tahun 1923
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = 7
+tokenwithtagstemmed = kongres
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = central
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = psi
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = cabang
+tokenwithtagstemmed = sarekat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = pengaruh
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = sarekat rakyat
+tokenwithtagstemmed = sr
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = basis
 tokenwithtagstemmed = partai
 tokenwithtagstemmed = komunis
 tokenwithtagstemmed = indonesia
 tokenwithtagstemmed = pki
-tokenwithtagstemmed = himpun
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pi
-tokenwithtagstemmed = partai
-tokenwithtagstemmed = nasional
-tokenwithtagstemmed = indonesia
-tokenwithtagstemmed = pni
-tokenwithtagstemmed = 3
-tokenwithtagstemmed = masa
-tokenwithtagstemmed = moderat
-tokenwithtagstemmed = kooperasi
-tokenwithtagstemmed = 1930 1942
-tokenwithtagstemmed = diri
-posisi dalam passage = 33
-jarak dengan tiap kandidat jawaban:
-1908 1920 -31
-1920 1930 -19
-1930 1942 -1
+tokenwithtagstemmed = ps
 
-tokenwithtagstemmed = organisasi
-tokenwithtagstemmed = parindra partindo
-tokenwithtagstemmed = gap
+
+gerakan nasionalisme vietnam terjadi melalui tiga periode , yaitu sebagai berikut . periode <TIME>1913-1917</TIME> yang secara umum gerakan nasionalisme vietnam dikendalikan oleh kuang phuc hoi ( partai restorasi vietnam ) di bawah pimpinan phan boi dan phan trinh . gerakan tersebut bertujuan untuk menciptakan negara vietnam yang modern . periode <TIME>tahun 1917-1930</TIME> yang ditandai dengan munculnya partai-partai politik , seperti <PERSON>, partai progresif rakyat</PERSON> vietnam , partai konstitusi , partai kebangsaan vietnam , gerakan cao dai , dan partai komunis vietnam . dari partai-partai tersebut <PERSON>, partai komunis</PERSON> vietnam berhasil memegang dan mengendalikan gerakan nasionalisme vietnam .
+
+memproses passage 18
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+1913 1917 | position = 8
+tahun 1917 1930 | position = 35
+
+
+melakukan pencarian:
+kata kunci = partai
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 1913 1917
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = kuang
+tokenwithtagstemmed = phuc
+tokenwithtagstemmed = hoi
+tokenwithtagstemmed = partai
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+1913 1917 -10
+tahun 1917 1930 17
+
+tokenwithtagstemmed = restorasi
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = phan
+tokenwithtagstemmed = boi
+tokenwithtagstemmed = phan
+tokenwithtagstemmed = trinh
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cipta
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = modern
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = tahun 1917 1930
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = partai
+posisi dalam passage = 38
+jarak dengan tiap kandidat jawaban:
+1913 1917 -30
+tahun 1917 1930 -3
+
+tokenwithtagstemmed = partai
+posisi dalam passage = 39
+jarak dengan tiap kandidat jawaban:
+1913 1917 -31
+tahun 1917 1930 -4
+
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = partai progresif rakyat
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = partai
+posisi dalam passage = 43
+jarak dengan tiap kandidat jawaban:
+1913 1917 -35
+tahun 1917 1930 -8
+
+tokenwithtagstemmed = konstitusi
+tokenwithtagstemmed = partai
+posisi dalam passage = 45
+jarak dengan tiap kandidat jawaban:
+1913 1917 -37
+tahun 1917 1930 -10
+
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = cao
+tokenwithtagstemmed = dai
+tokenwithtagstemmed = partai
+posisi dalam passage = 51
+jarak dengan tiap kandidat jawaban:
+1913 1917 -43
+tahun 1917 1930 -16
+
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = partai
+posisi dalam passage = 54
+jarak dengan tiap kandidat jawaban:
+1913 1917 -46
+tahun 1917 1930 -19
+
+tokenwithtagstemmed = partai
+posisi dalam passage = 55
+jarak dengan tiap kandidat jawaban:
+1913 1917 -47
+tahun 1917 1930 -20
+
+tokenwithtagstemmed = partai komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+kata kunci = komunis
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 1913 1917
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = kuang
+tokenwithtagstemmed = phuc
+tokenwithtagstemmed = hoi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = restorasi
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = phan
+tokenwithtagstemmed = boi
+tokenwithtagstemmed = phan
+tokenwithtagstemmed = trinh
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cipta
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = modern
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = tahun 1917 1930
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = partai progresif rakyat
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = konstitusi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = cao
+tokenwithtagstemmed = dai
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+posisi dalam passage = 52
+jarak dengan tiap kandidat jawaban:
+1913 1917 -44
+tahun 1917 1930 -17
+
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = partai komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+kata kunci = indonesia
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 1913 1917
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = kuang
+tokenwithtagstemmed = phuc
+tokenwithtagstemmed = hoi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = restorasi
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = phan
+tokenwithtagstemmed = boi
+tokenwithtagstemmed = phan
+tokenwithtagstemmed = trinh
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cipta
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = modern
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = tahun 1917 1930
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = partai progresif rakyat
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = konstitusi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = cao
+tokenwithtagstemmed = dai
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = partai komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+kata kunci = diri
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = 1913 1917
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = kuang
+tokenwithtagstemmed = phuc
+tokenwithtagstemmed = hoi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = restorasi
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = phan
+tokenwithtagstemmed = boi
+tokenwithtagstemmed = phan
+tokenwithtagstemmed = trinh
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cipta
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = modern
+tokenwithtagstemmed = periode
+tokenwithtagstemmed = tahun 1917 1930
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = politik
+tokenwithtagstemmed = partai progresif rakyat
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = konstitusi
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = cao
+tokenwithtagstemmed = dai
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = partai komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = vietnam
+
+
+selanjutnya setelah jepang mengalami kekalahan dalam perang dunia ii , gerakan nasionalis vietnam kembali berada di bawah kendali ho chi minh . dengan kekalahan jepang tersebut , ho chi minh segera memanfaatkan kesempatan dengan memproklamasikan kemerdekaan vietnam pada <TIME>tanggal 2 september 1945</TIME> . sementara itu , untuk menghadapi gerakan partai komunis vietnam , pada <TIME>tanggal 1 juni 1949</TIME> prancis ( vichy ) segera membentuk negara boneka . pembentukan negara boneka ini bertujuan untuk mempertahankan kolonialismenya . ternyata pembentukan negara boneka tersebut menjadi pemicu terjadinya perang vietnam ( vietnam utara dan vietnam selatan ) .
+
+memproses passage 21
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+tanggal 2 september 1945 | position = 27
+tanggal 1 juni 1949 | position = 34
+
+
+melakukan pencarian:
+kata kunci = partai
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = manfaat
+tokenwithtagstemmed = sempat
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tanggal 2 september 1945
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = partai
+posisi dalam passage = 31
+jarak dengan tiap kandidat jawaban:
+tanggal 2 september 1945 -4
+tanggal 1 juni 1949 3
+
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tanggal 1 juni 1949
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = vichy
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tahan
+tokenwithtagstemmed = kolonialisme
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = picu
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = utara
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = selatan
+kata kunci = komunis
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = manfaat
+tokenwithtagstemmed = sempat
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tanggal 2 september 1945
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+posisi dalam passage = 32
+jarak dengan tiap kandidat jawaban:
+tanggal 2 september 1945 -5
+tanggal 1 juni 1949 2
+
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tanggal 1 juni 1949
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = vichy
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tahan
+tokenwithtagstemmed = kolonialisme
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = picu
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = utara
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = selatan
+kata kunci = indonesia
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = manfaat
+tokenwithtagstemmed = sempat
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tanggal 2 september 1945
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tanggal 1 juni 1949
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = vichy
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tahan
+tokenwithtagstemmed = kolonialisme
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = picu
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = utara
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = selatan
+kata kunci = diri
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = manfaat
+tokenwithtagstemmed = sempat
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tanggal 2 september 1945
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tanggal 1 juni 1949
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = vichy
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = tahan
+tokenwithtagstemmed = kolonialisme
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = boneka
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = picu
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = utara
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = selatan
+
+
+di bawah pimpinan ho chi minh , partai komunis vietnam bercita-cita untuk merebut kemerdekaan vietnam dari tangan <PERSON>prancis .</PERSON> pola perjuangan partai ini ternyata sangat menarik perhatian dan <PERSON>minat rakyat</PERSON> vietnam . karena gerakan yang digunakan partai komunis vietnam ini bersifat radikal , maka prancis segera menghancurkan perjuangan partai tersebut . ho chi minh sebagai pemimpin partai komunis vietnam berhasil melarikan diri ke <LOCATION>hongkong</LOCATION> , kemudian pergi ke <LOCATION>rusia , cina ,</LOCATION> dan akhirnya kembali ke vietnam pada <TIME>tahun 1942</TIME> . selanjutnya setelah jepang mengalami kekalahan dalam perang dunia ii , gerakan nasionalis vietnam kembali berada di bawah kendali ho chi minh .
+
+memproses passage 20
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+tahun 1942 | position = 49
+
+
+melakukan pencarian:
+kata kunci = partai
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = partai
+posisi dalam passage = 5
+jarak dengan tiap kandidat jawaban:
+tahun 1942 44
+
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tangan
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = pola
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = partai
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+tahun 1942 31
+
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tarik
+tokenwithtagstemmed = perhati
+tokenwithtagstemmed = minat rakyat
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = partai
+posisi dalam passage = 26
+jarak dengan tiap kandidat jawaban:
+tahun 1942 23
+
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = radikal
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = partai
+posisi dalam passage = 34
+jarak dengan tiap kandidat jawaban:
+tahun 1942 15
+
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = partai
+posisi dalam passage = 39
+jarak dengan tiap kandidat jawaban:
+tahun 1942 10
+
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = hongkong
+tokenwithtagstemmed = pergi
+tokenwithtagstemmed = rusia cina
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tahun 1942
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+kata kunci = komunis
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+tahun 1942 43
+
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tangan
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = pola
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tarik
+tokenwithtagstemmed = perhati
+tokenwithtagstemmed = minat rakyat
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+posisi dalam passage = 27
+jarak dengan tiap kandidat jawaban:
+tahun 1942 22
+
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = radikal
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+posisi dalam passage = 40
+jarak dengan tiap kandidat jawaban:
+tahun 1942 9
+
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = hongkong
+tokenwithtagstemmed = pergi
+tokenwithtagstemmed = rusia cina
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tahun 1942
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+kata kunci = indonesia
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tangan
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = pola
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tarik
+tokenwithtagstemmed = perhati
+tokenwithtagstemmed = minat rakyat
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = radikal
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = hongkong
+tokenwithtagstemmed = pergi
+tokenwithtagstemmed = rusia cina
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tahun 1942
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+kata kunci = diri
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = cita
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tangan
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = pola
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tarik
+tokenwithtagstemmed = perhati
+tokenwithtagstemmed = minat rakyat
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = sifat
+tokenwithtagstemmed = radikal
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = hancur
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = partai
+tokenwithtagstemmed = komunis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = lari
+tokenwithtagstemmed = hongkong
+tokenwithtagstemmed = pergi
+tokenwithtagstemmed = rusia cina
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = tahun 1942
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasionalis
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = ho
+tokenwithtagstemmed = chi
+tokenwithtagstemmed = minh
 
 Pengurutan kandidat jawaban
-this.answer = tanggal 20 oktober 1943
-passage rank = 1
-distance = 1
-doc rank = 2
-total Score = 4
-frequency = 1
-order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
-
-this.answer = tanggal 20 oktober 1943
-passage rank = 3
-distance = 1
-doc rank = 3
-total Score = 7
-frequency = 1
-order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
-
-this.answer = 1930 1942
-passage rank = 5
-distance = 6
-doc rank = 7
-total Score = 18
-frequency = 1
-order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-
-this.answer = tanggal 20 oktober 1943
-passage rank = 1
-distance = 7
-doc rank = 2
+this.answer = tanggal 1 juni 1949
+passage rank = 4
+distance = 2
+doc rank = 4
 total Score = 10
 frequency = 1
-order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
 
-this.answer = tanggal 20 oktober 1943
-passage rank = 3
-distance = 7
-doc rank = 3
-total Score = 13
+this.answer = tanggal 1 juni 1949
+passage rank = 4
+distance = 3
+doc rank = 4
+total Score = 11
 frequency = 1
-order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
 
-this.answer = 1930 1942
+this.answer = tanggal 3 november 1945
+passage rank = 1
+distance = 6
+doc rank = 1
+total Score = 8
+frequency = 3
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+document Title = pembentukan partai politik
+
+this.answer = tanggal 3 november 1945
+passage rank = 1
+distance = 6
+doc rank = 1
+total Score = 8
+frequency = 3
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+document Title = pembentukan partai politik
+
+this.answer = tanggal 3 november 1945
+passage rank = 1
+distance = 7
+doc rank = 1
+total Score = 9
+frequency = 3
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+document Title = pembentukan partai politik
+
+this.answer = tahun 1942
 passage rank = 5
-distance = 8
-doc rank = 7
-total Score = 20
+distance = 9
+doc rank = 4
+total Score = 18
 frequency = 1
 order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
 
-this.answer = 1930 1942
+this.answer = tahun 1942
 passage rank = 5
 distance = 10
-doc rank = 7
-total Score = 22
+doc rank = 4
+total Score = 19
 frequency = 1
-order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
 
-this.answer = 1920 1930
-passage rank = 5
-distance = 11
-doc rank = 7
-total Score = 23
-frequency = 1
-order process = 21
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-
-this.answer = 1930 1942
-passage rank = 5
+this.answer = tanggal 3 november 1945
+passage rank = 1
 distance = 13
-doc rank = 7
-total Score = 25
-frequency = 1
-order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+doc rank = 1
+total Score = 15
+frequency = 3
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+document Title = pembentukan partai politik
 
-this.answer = tanggal 20 oktober 1943
+this.answer = tanggal 3 november 1945
 passage rank = 1
 distance = 14
-doc rank = 2
-total Score = 17
-frequency = 1
+doc rank = 1
+total Score = 16
+frequency = 3
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+document Title = pembentukan partai politik
 
-this.answer = tanggal 20 oktober 1943
-passage rank = 3
-distance = 14
-doc rank = 3
-total Score = 20
-frequency = 1
-order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
-
-this.answer = 1930 1942
-passage rank = 5
-distance = 14
-doc rank = 7
-total Score = 26
-frequency = 1
-order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-
-this.answer = 1930 1942
+this.answer = tahun 1942
 passage rank = 5
 distance = 15
-doc rank = 7
-total Score = 27
+doc rank = 4
+total Score = 24
+frequency = 1
+order process = 12
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+
+this.answer = tahun 1917 1930
+passage rank = 3
+distance = 17
+doc rank = 4
+total Score = 24
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+
+this.answer = tahun 1942
+passage rank = 5
+distance = 22
+doc rank = 4
+total Score = 31
 frequency = 1
 order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
 
-this.answer = 1930 1942
+this.answer = tahun 1942
 passage rank = 5
-distance = 17
-doc rank = 7
-total Score = 29
-frequency = 1
-order process = 23
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-
-this.answer = tanggal 20 oktober 1943
-passage rank = 1
-distance = 27
-doc rank = 2
-total Score = 30
-frequency = 1
-order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
-
-this.answer = tanggal 20 oktober 1943
-passage rank = 3
-distance = 27
-doc rank = 3
-total Score = 33
+distance = 23
+doc rank = 4
+total Score = 32
 frequency = 1
 order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
 
-this.answer = 1930 1942
+this.answer = tahun 1942
 passage rank = 5
-distance = 29
-doc rank = 7
-total Score = 41
-frequency = 1
-order process = 22
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok394.txt
-document Title = latar belakang tumbuh dan berkembangnya nasionalisme di indonesia
-
-this.answer = tanggal 20 oktober 1943
-passage rank = 1
-distance = 33
-doc rank = 2
-total Score = 36
-frequency = 1
-order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
-
-this.answer = tanggal 20 oktober 1943
-passage rank = 3
-distance = 33
-doc rank = 3
-total Score = 39
+distance = 31
+doc rank = 4
+total Score = 40
 frequency = 1
 order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
 
-this.answer = tanggal 20 oktober 1943
-passage rank = 1
-distance = 46
-doc rank = 2
-total Score = 49
-frequency = 1
-order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
-
-this.answer = tanggal 20 oktober 1943
-passage rank = 3
-distance = 46
-doc rank = 3
+this.answer = tahun 1942
+passage rank = 5
+distance = 43
+doc rank = 4
 total Score = 52
 frequency = 1
-order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
+order process = 14
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
 
-this.answer = tanggal 20 oktober 1943
-passage rank = 1
-distance = 50
-doc rank = 2
+this.answer = tahun 1942
+passage rank = 5
+distance = 44
+doc rank = 4
 total Score = 53
 frequency = 1
-order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
-
-this.answer = tanggal 20 oktober 1943
-passage rank = 3
-distance = 50
-doc rank = 3
-total Score = 56
-frequency = 1
-order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-document Title = dampak penjajahan jepang dalam berbagai aspek kehidupan
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
 
 
 

@@ -2,9 +2,14 @@ package core;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
+
+import org.apache.commons.lang3.tuple.MutablePair;
+import org.apache.commons.lang3.tuple.Pair;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -28,14 +33,21 @@ public class Utils {
 	public static String savePath5 = "debug question answering/coba1/hasilJalan5.txt";
 	public static String savePath6 = "debug question answering/coba1/hasilJalan6.txt";
 	public static String savePath7 = "debug question answering/coba1/hasilJalan7.txt";
-	public static String classifierPath = "classifier/sejarahIndonesia-model.ser.gz";
+	public static String classifierPath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\classifier\\sejarahIndonesia-model.ser.gz";
 	public static String savePath8 = "debug question answering/coba1/hasilJalan8.txt";
-	public static int percobaanKe = 11;
+	public static String savePath9 = "hasilJalan9.txt";
+	public static int percobaanKe = 100;
 	public static String saveDebug = "debug question answering/listQuestionDebug/percobaan "+percobaanKe+"/";
 	public static String saveRetrievedDocumentPath = "debug question answering/listRetrievedDocument/percobaan "+percobaanKe+"/";
 	public static String saveRetrievedAnswerPath = "debug question answering/listRetrievedAnswer/";
 	public static String relevanceAnswerPath = "debug question answering/listJawabanDokumenRelevan/";
 	public static String savePrecisionAndRecallResultPath = "debug question answering/listPrecisionAndRecallResult/percobaan "+percobaanKe+"/";
+	public static ArrayList<String> blockedQueryList = new ArrayList<String>();
+	
+	public static void addBlockedQueryList(String query)
+	{
+		blockedQueryList.add(query);
+	}
 	
 	public static void changePath(int PercobaanKe)
 	{
@@ -48,10 +60,52 @@ public class Utils {
 	public static double alpha = 1;
 	public static double beta = 0.5;
 	public static double gamma = 0;
-	public static int documentLimit=50;
-	public static int termLimit = 100;
-	public static int topNPassage = 10;
+	public static int documentLimit=10;
+	public static int termLimit = 10;
+	public static int topNPassage = 5;
 	public static int topNAnswer = 5;
+	
+	public static File[] sortDir(File[] dirList)
+	{
+		ArrayList<Pair<Integer,File>> dirlist = new ArrayList<Pair<Integer,File>>();
+		for (int i=0;i<dirList.length;i++)
+		{
+			if (dirList[i].getName().equals("allMAP.csv"))
+			{
+				continue;
+			}
+			int urutan = Integer.parseInt(dirList[i].getName().trim().split(" ")[1]);
+			dirlist.add(new MutablePair(urutan,dirList[i]));
+		}
+		Collections.sort(dirlist);
+		File[] result = new File[dirlist.size()];
+		for (int i=0;i<dirlist.size();i++)
+		{
+			result[i] = dirlist.get(i).getRight();
+		}
+		return result;
+	}
+	
+	public static File[] sortFiles(File[] dirList)
+	{
+		ArrayList<Pair<Integer,File>> dirlist = new ArrayList<Pair<Integer,File>>();
+		for (int i=0;i<dirList.length;i++)
+		{
+			if (dirList[i].getName().equals("allMRR.csv"))
+			{
+				continue;
+			}
+			int urutan = Integer.parseInt(dirList[i].getName().trim().split("_")[1].replace(".csv", ""));
+			dirlist.add(new MutablePair(urutan,dirList[i]));
+		}
+		Collections.sort(dirlist);
+		File[] result = new File[dirlist.size()];
+		for (int i=0;i<dirlist.size();i++)
+		{
+			result[i] = dirlist.get(i).getRight();
+		}
+		return result;
+	}
 	
 	public static void folderPreparation ()
 	{

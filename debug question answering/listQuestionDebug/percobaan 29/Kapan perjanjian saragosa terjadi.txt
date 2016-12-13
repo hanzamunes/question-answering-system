@@ -1,109 +1,172 @@
 searching awal
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok196.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok270.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok7.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok78.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok105.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok34.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok202.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok227.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok188.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok18.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok89.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok11.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok82.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok402.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok159.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok177.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok27.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok98.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok231.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok351.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok130.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok59.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok165.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok17.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok88.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok115.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok44.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok267.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok308.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok368.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok275.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok390.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok171.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok346.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok400.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok240.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok243.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok2.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok73.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok266.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok129.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok58.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok16.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok87.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok3.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok74.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok125.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok54.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok19.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok90.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok392.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok365.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok255.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok279.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok176.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok20.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok91.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok371.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok331.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok248.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok24.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok95.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok261.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok174.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok345.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok401.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok364.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok340.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok259.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok124.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok53.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok206.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok126.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok55.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok113.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok42.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok180.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok204.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok131.txt
-File: C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok60.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok7.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok78.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok264.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok135.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok64.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok192.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok360.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok107.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok36.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok350.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok256.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok366.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok109.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok38.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok363.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok138.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok67.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok12.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok83.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok122.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok51.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok100.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok29.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok104.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok33.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok383.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok184.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok186.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok370.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok339.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok106.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok181.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok35.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok337.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok178.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok136.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok65.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok101.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok30.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok123.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok269.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok52.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok110.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok39.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok233.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok352.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok349.txt
 
 
 query token : 
 janji saragosa jadi 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+title : perkembangan kolonialisme di indonesia
+passage 7 score = 8.166666666666668
+sentence 1: di filipina ( pulau cebu ) , magelhaens tewas terbunuh oleh suku mactan .
+sentence 2: juan sebastian del cano .
+sentence 3: pada tahun 1522 ia sampai di maluku , tetapi kedatangan mereka itu telah menimbulkan pertentangan antara spanyol dan portugis yang kedua-keduanya saling menuduh telah melanggar perjanjian tordesillas , yaitu perjanjian antara bangsa portugis dan spanyol yang mengakhiri peperangan selama puluhan tahun antara kedua negara yang bertikai di eropa untuk memperebutkan daerah jajahan .
+sentence 4: perjanjian ini diprakarsai oleh paus paulus yang membagi rute pelayaran spanyol ke timur dan portugis ke arah barat ) .
+sentence 5: pertentangan di antara mereka berakhir setelah ditandatanganinya perjanjian saragosa ( 1534 ) di indonesia .
+passage 19 score = 8.166666666666668
+sentence 1: belanda tidak segan-segan menggunakan kekerasan untuk mengusir inggris dari indonesia .
+sentence 2: setelah terjadi peristiwa ambon massacre , eic mengundurkan diri dari indonesia dan mengarahkan perhatiannya ke daerah lainnya di asia tenggara , seperti singapura , malaysia , dan brunei sampai memperoleh kesuksesan .
+sentence 3: inggris kembali berkuasa di indonesia melalui keberhasilannya memenangkan perjanjian tuntang pada tahun 1811 .
+sentence 4: selama lima tahun ( 1811-1816 ) , inggris memegang pemerintahan dan kekuasaannya di indonesia .
+sentence 5: selengkapnya di kekuasaan inggris di indonesia .
+passage 3 score = 7.833333333333333
+sentence 1: proses kolonialisme yang selalu dihubungkan dengan imperialisme yang terjadi di beberapa kawasan , seperti di asia , afrika , dan amerika dipelopori oleh inggris , kemudian disusul oleh portugis dan spanyol , belanda , inggris , dan prancis .
+sentence 2: negara-negara tersebut mengirimkan para penjelajahnya untuk mengarungi samudera dan mencari jalan menuju ke dunia timur yang terkenal itu .
+sentence 3: selengkapnya tentang penjajahan portugis di indonesia : portugis di maluku dampak dikuasainya malaka oleh portugis dalam penjelajahan tersebut portugis mengirimkan para penjelajahnya , yaitu sebagai berikut .
+sentence 4: bartholomeus diaz ( 1487-1488 ) yang diutus raja portugis untuk mengatur perjalanannya ke afrika barat .
+sentence 5: hal ini didasarkan pada kenyataan bahwa sampai abad ke-15 para pelaut portugis hanya mampu mendarat di pantai emas saja .
+passage 17 score = 7.833333333333333
+sentence 1: hal itu terbukti , dengan adanya perjanjian tuntang , yang isinya bahwa kekuasaan belanda atas indonesia diserahkan oleh janssens kepada inggris .
+sentence 2: inggris sebelum perjanjian tuntang ( 1811 ) , sebenarnya inggris telah datang ke indonesia .
+sentence 3: perhatian atas indonesia dimulai sewaktu penjelajah f. drake singgah di ternate pada tahun 1579 .
+sentence 4: selanjutnya , ekspedisi lainnya dikirimkan pada akhir abad ke-16 melalui kongsi dagang yang diberi nama east indies company ( eic ) .
+sentence 5: eic ini mengemban misi untuk mengadakan hubungan dagang dengan indonesia .
+passage 8 score = 7.666666666666667
+sentence 1: pertentangan di antara mereka berakhir setelah ditandatanganinya perjanjian saragosa ( 1534 ) di indonesia .
+sentence 2: dalam perjanjian itu diputuskan bahwa wilayah portugis tetap di maluku , dan filipina juga daerah portugis .
+sentence 3: tetapi disebabkan spanyol merasa berhak atas kepulauan itu maka spanyol berkuasa di filipina .
+sentence 4: voc ( belanda ) dengan adanya keberhasilan yang diraih oleh para penjelajah portugis dan spanyol maka negara-negara eropa lainnya mencoba untuk datang ke dunia timur , khususnya indonesia .
+sentence 5: pada kurun waktu berikutnya , belanda mulai mengadakan penjelajahan samudera .
+passage 9 score = 7.333333333333333
+sentence 1: pada kurun waktu berikutnya , belanda mulai mengadakan penjelajahan samudera .
+sentence 2: hal ini didorong oleh ditutupnya lisabon oleh spanyol bagi kapal-kapal belanda .
+sentence 3: sebagaimana kita ketahui bahwa sebelum kejadian itu , belanda sudah terbiasa berhubungan dagang dengan portugis lewat lisabon dan dari lisabon barang-barang disalurkan oleh belanda ke negeri-negeri eropa lainnya .
+sentence 4: karena selama perang 80 tahun antara belanda dengan spanyol maka belanda tidak dapat lagi membeli rempahrempah di lisabon yang sudah dikuasai spanyol .
+sentence 5: dengan demikian , situasi tersebut telah menyebabkan belanda berusaha untuk datang sendiri ke kepulauan rempah-rempah , yaitu indonesia .
+passage 10 score = 7.333333333333333
+sentence 1: dengan demikian , situasi tersebut telah menyebabkan belanda berusaha untuk datang sendiri ke kepulauan rempah-rempah , yaitu indonesia .
+sentence 2: selengkapnya tentang voc di indoenesia : lahirnya voc kekuasaan voc di indonesia pemerintahan voc di nusantara kekuatan baru voc voc bangkrut prancis sesudah voc dibubarkan , pemerintahan di nusantara langsung berada di bawah pemerintahan belanda .
+sentence 3: namun semenjak tahun 1806 , ketika raja louis napoleon diangkat menjadi raja belanda , sehingga indonesia secara tidak langsung telah berada di bawah kekuasaan prancis .
+sentence 4: di eropa , musuh bebuyutan prancis adalah inggris .
+sentence 5: prancis di bawah napoleon bonaparte masih belum mampu menaklukkan inggris .
+passage 11 score = 7.333333333333333
+sentence 1: prancis di bawah napoleon bonaparte masih belum mampu menaklukkan inggris .
+sentence 2: untuk itu , kehadiran inggris di asia tenggara telah mengancam kedudukan belanda di indonesia yang telah menjadi daerah kekuasaan prancis .
+sentence 3: dalam menghadapi masalah dengan inggris , pada tahun 1808 , louis napoleon menunjuk herman willem daendels menjadi gubernur jenderal di indonesia .
+sentence 4: tugas utama daendels adalah mempertahankan pulau jawa agar tidak jatuh ke tangan inggris .
+sentence 5: untuk keperluan itu , daendels membangun jalan raya ( grote postweg ) dari anyer sampai panarukan yang panjangnya 1.100 km .
+passage 13 score = 7.333333333333333
+sentence 1: selain membangun jalan raya , daendels juga mendirikan pabrik senjata dan mesiu , serta membangun pangkalan angkatan laut di ujung kulon .
+sentence 2: herman william daendels ; pada masa pemerintahannya , rakyat indonesia banyak yang dijadikan sebagai tenaga rodi di bidang pemerintahan , daendels mengubah sistem pemerintahan tradisional dengan sistem pemerintahan eropa .
+sentence 3: dalam pelaksanaannya , pulau jawa dibagi menjadi sembilan wilayah yang disebut perfektur .
+sentence 4: setiap perfektur dikepalai oleh seorang residen , dan setiap residen membawahi beberapa bupati .
+sentence 5: para bupati diberi gaji tetap dan tidak diperkenankan meminta upeti kepada rakyat .
+passage 4 score = 6.5
+sentence 1: hal ini didasarkan pada kenyataan bahwa sampai abad ke-15 para pelaut portugis hanya mampu mendarat di pantai emas saja .
+sentence 2: dengan perjalanan inilah , bartholomeus dia akhirnya berhasil sampai ke ujung selatan afrika yang disebut tanjung pengharapan ( cape of good hope ) .
+sentence 3: vasco da gama ( 1497-1498 ) yang diutus raja portugis yang bernama manuel i , karena merasa penasaran atas hasil penjelajahan yang dilakukan oleh columbus .
+sentence 4: perjalanan vasco da gama ini bertolak dari lisabon menuju kepulauan tanjung varde dan akhirnya tiba di tanjung harapan baik tahun 1497 .
+sentence 5: pada tahun 1498 , vasco da gama beserta rombongannya berhasil berlabuh di kalikut , pantai malabar india yang pada masa itu terkenal sebagai kota dagang .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 12 score = 8.5
 sentence 1: dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di maluku ( 1521 ) .
@@ -166,7 +229,7 @@ sentence 3: voc membuka kantor dagangnya yang pertama di di banten ( 1602 ) di k
 sentence 4: tujuan dibentuknya voc adalah sebagai berikut .
 sentence 5: 1 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 12 score = 8.5
 sentence 1: dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di maluku ( 1521 ) .
@@ -229,460 +292,410 @@ sentence 3: voc membuka kantor dagangnya yang pertama di di banten ( 1602 ) di k
 sentence 4: tujuan dibentuknya voc adalah sebagai berikut .
 sentence 5: 1 .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok196.txt
-title : perkembangan sistem informasi, komunikasi, dan transportasi serta dampaknya dalam kehidupan bermasyarakat, berbangsa, dan bernegara
-passage 3 score = 6.5
-sentence 1: sejarah satelit di indonesia sejarah radio diindonesia sejarah televisi di indonesia sarana perhubungan penggunaan roda diperkenalkan pertama oleh bangsa hyksos tahun 1675 sm .
-sentence 2: penemuan mesin uap oleh james watt 1769 membawa perubahan besar karena transportasi ( kapal , lokomotif , mobil ) dijalankan dengan mesin uap .
-sentence 3: dengan berkembangnya sektor perhubungan/transportasi berperan untuk : meningkatkan produksi dan jasa ; meningkatkan arus wisata ; memperlancar arus informasi ; memperlancar arus barang dan manusia ; sarana perhubungan meliputi darat , laut , dan udara ; perhubungan darat sarana perhubungan darat paling banyak diminati karena relatif murah , cepat , mudah dijangkau .
-sentence 4: untuk meningkatkan sarana transportasi upaya yang ditempuh pemerintah , antara lain sebagai berikut .
-sentence 5: pemeliharaan rehabilitasi jalan raya yang sudah ada .
-passage 2 score = 6.0
-sentence 1: pengertian komunikasi adalah membagi informasi , memberitahu , memindahkan atau bentukan pikiran baik secara lisan maupun tulisan .
-sentence 2: definisi lain menyebutkan komunikasi adalah suatu transformasi informasi antarorang atau kelompok atau lembaga dalam bentuk penyebaran berita melalui lisan , tulisan , suara , gambar maupun lambang tertentu .
-sentence 3: komunikasi massa adalah penyebaran informasi atau komunikasi yang membawa pesan untuk orang banyak , misalnya koran , televisi , majalah , radio sebagai pemberi informasi ( sender ) dan masyarakat sebagai penerima informasi ( receiver ) .
-sentence 4: pengertian transportasi adalah pengangkutan barang ( benda ) atau sebagai jenis kendaraan sesuai dengan kemajuan teknologi .
-sentence 5: sejarah satelit di indonesia sejarah radio diindonesia sejarah televisi di indonesia sarana perhubungan penggunaan roda diperkenalkan pertama oleh bangsa hyksos tahun 1675 sm .
-passage 5 score = 6.0
-sentence 1: pengadaan kereta api lebih modern , argo bromo , dan argo gede .
-sentence 2: perhubungan laut upaya pemerintah dalam meningkatkan sarana transportasi laut adalah : merehabilitasi dan meningkatkan kapasitas infrastruktur yang ada .
-sentence 3: pengadaan kapal feri dan kapal pengangkut barang .
-sentence 4: perbaikan pelabuhan laut , terminal peti kemas , dan dermaga-dermaga .
-sentence 5: meluncurkan kapal cepat palindo jaya 500 tahun 1995 .
-passage 6 score = 6.0
-sentence 1: meluncurkan kapal cepat palindo jaya 500 tahun 1995 .
-sentence 2: mendirikan pt pal di surabaya sebagai pusat pengembangan industry maritim indonesia .
-sentence 3: tujuan pembangunan perhubungan laut : mempercepat lalu lintas antarpulau .
-sentence 4: meningkatkan perdagangan domestik dan internasional .
-sentence 5: perhubungan udara perkembangan transportasi udara ditandai dengan semakin mudah dan cepatnya transportasi antarprovinsi , antarpulau , dan antarnegara .
-passage 7 score = 2.333333333333333
-sentence 1: perhubungan udara perkembangan transportasi udara ditandai dengan semakin mudah dan cepatnya transportasi antarprovinsi , antarpulau , dan antarnegara .
-sentence 2: dengan adanya maskapai penerbangan perintis , yaitu merpati nusantara , mandala , bouroq , sempati , dan pt industri pesawat terbang nurtania berubah menjadi iptn ( industri pesawat terbang nusantara ) yang sekarang dikenal dengan pesawat nc-212 , helikopter nbo 105 , cn 235 ( tetuko ) , n-250 ( gathotkaca ) , serta produksi komponen pesawat f-16 , boeing 747 , dan boeing 737 .
-sentence 3: perkembangan informasi , komunikasi , dan transportasi dapat meningkatkan arus informasi , memperpendek jarak antarpulau , maupun antarnegara .
-sentence 4: [ gs ]
-passage 1 score = 1.0
-sentence 1: perkembangan sistem informasi , komunikasi , dan transportasi serta dampaknya dalam kehidupan bermasyarakat , berbangsa , dan bernegara pengertian informasi dan komunikasi serta transportasi menurut kamus besar bahasa indonesia , sistem berarti perangkat unsure yang secara teratur saling berkaitan sehingga membentuk suatu totalitas .
-sentence 2: informasi adalah data yang telah diperoleh , sehingga mempunyai arti dan nilai .
-sentence 3: menurut kamus besar bahasa indonesia , informasi berarti penerangan , keterangan , pemberitahuan , kabar atau berita .
-sentence 4: menurut alfin toffler ( seorang futurolog as ) , informasi adalah fakta , laporan , perkembangan , perasaanperasaan , membuat kecenderungan-kecenderungan yang dapat memengaruhi keputusan/pembentukan masyarakat/dunia .
-sentence 5: pengertian komunikasi adalah membagi informasi , memberitahu , memindahkan atau bentukan pikiran baik secara lisan maupun tulisan .
-passage 4 score = 1.0
-sentence 1: pemeliharaan rehabilitasi jalan raya yang sudah ada .
-sentence 2: membangun jalan tol dan jalan layang , ringroad .
-sentence 3: pembangunan jalan kereta api .
-sentence 4: rehabilitasi infrastruktur dan penyediaan tambahan perlengkapan operasional jalan ka .
-sentence 5: pengadaan kereta api lebih modern , argo bromo , dan argo gede .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
-passage 14 score = 7.833333333333333
-sentence 1: f. mesin uap , ciptaan james watt ( 1769 ) .
-sentence 2: dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( 1804 ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang .
-sentence 3: kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( 1814 ) .
-sentence 4: mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' .
-sentence 5: penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok7.txt
+title : sejarah kerajaan ternate dan tidore
+passage 4 score = 8.0
+sentence 1: dua kekuatan telah berhadapan , namun belum terjadi pecah perang .
+sentence 2: untuk menyelesaikan persaingan antara portugis dan spanyol maka pada tahun 1529 diadakan perjanjian saragosa yang isinya bangsa spanyol harus meninggalkan maluku dan memusatkan kekuasaannya di filipina dan bangsa portugis tetap tinggal maluku .
+sentence 3: untuk memperkuat kedudukannya di maluku maka portugis mendirikan benteng sao paulo .
+sentence 4: menurut portugis benteng ini dibangun untuk melindungi ternate dari serangan tidore .
+sentence 5: tindakan portugis di maluku makin merajalela dengan memonopoli perdagangan dan terlalu ikut campur tangan dalam urusan dalam negeri ternate sehingga menimbulkan pertentangan .
+passage 3 score = 7.833333333333333
+sentence 1: kerajaan tidore sebagai pemimpin persekutuan uli siwa ( persekutuan sembilan saudara ) wilayahnya meliputi pulau-pulau makyan , jailolo atau halmahera , dan pulau-pulau di daerah itu sampai dengan papua barat .
+sentence 2: di antara keduanya saling terjadi persaingan dan makin tampak setelah datangnya bangsa barat .
+sentence 3: bangsa barat yang pertama kali datang di maluku ialah portugis ( 1512 ) yang bersekutu dengan kerajaan ternate .
+sentence 4: jejak ini diikuti oleh bangsa spanyol yang berhasil mendarat di maluku 1521 dan mengadakan persekutuan dengan kerajaan tidore .
+sentence 5: dua kekuatan telah berhadapan , namun belum terjadi pecah perang .
+passage 8 score = 7.833333333333333
+sentence 1: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
+sentence 2: belanda akhirnya berhasil menduduki benteng portugis di ambon dan dapat mengusir portugis dari maluku ( 1605 ) .
+sentence 3: belanda yang tampa ada saingan kemudian juga melakukan tindakan yang sewenang-wenang , seperti berikut ini .
+sentence 4: 1 ) melaksanakan sistem penyerahan wajib sebagian hasil bumi ( rempahrempah ) kepada voc ( contingenten ) .
+sentence 5: 2 ) adanya perintah penebangan/pemusnahan tanaman rempah-rempah jika harga rempah-rempah di pasaran turun ( hak ekstirpasi ) dan penanaman kembali secara serentak apabila harga rempah-rempah di pasaran naik/meningkat .
+passage 10 score = 7.833333333333333
+sentence 1: pada tahun 1635 – 1646 rakyat di kepulauan hitu bangkit melawan voc di bawah pimpinan kakiali dan dilanjutkan oleh telukabesi .
+sentence 2: pada tahun 1650 rakyat ambon dipimpin oleh saidi melakukan perlawanan terhadap voc .
+sentence 3: demikian juga di daerah lain , seperti seram , haruku , dan saparua juga terjadi perlawanan rakyat , tetapi semua perlawanan berhasil dipadamkan oleh voc .
+sentence 4: sampai akhir abad ke-17 tidak ada lagi perlawanan besar , tetapi pada akhir abad ke-18 muncul lagi perlawanan besar yang mengguncangkan kekuasaan voc di maluku .
+sentence 5: jika melawan portugis kasultanan dan rakyat ternate yanga memegang peranan penting maka untuk melawan vocsebaliknya , kasultanan dan rakyat tidore yang memimpinnya .
+passage 7 score = 7.333333333333333
+sentence 1: orang-orang portugis yang menyerah tidak dibunuh , tetapi harus meninggalkan ternate .
+sentence 2: mereka pun pindah ke ambon , maluku .
+sentence 3: sultan baabullah dapat meluaskan daerah kekuasaannya di maluku .
+sentence 4: daerah kekuasaannya terbentang antara sulawesi dan papua ; ke arah timur sampai papua ; barat sampai ke pulau buton ; utara sampai ke mindanao selatan ( filipina ) ; selatan sampai ke pulau bima ( nusa tenggara ) sehingga ia mendapat julukan tuan dari tujuh pulau dua pulau .
+sentence 5: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
+passage 1 score = 6.5
+sentence 1: sejarah kerajaan ternate dan tidore - masuknya islam ke maluku erat kaitannya dengan kegiatan perdagangan .
+sentence 2: pada abad ke-15 , para pedagang dan ulama dari malaka dan jawa menyebarkan islam ke sana .
+sentence 3: dari sini muncul empat kerajaan islam di maluku yang disebut maluku kie raha ( maluku empat raja ) yaitu kesultanan ternate yang dipimpin sultan zainal abidin ( 1486-1500 ) , kesultanan tidore yang dipimpin oleh sultan mansur , kesultanan jailolo yang dipimpin oleh sultan sarajati , dan kesultanan bacan yang dipimpin oleh sultan kaicil buko .
+sentence 4: pada masa kesultanan itu berkuasa , masyarakat muslim di maluku sudah menyebar sampai ke banda , hitu , haruku , makyan , dan halmahera .
+sentence 5: a. kehidupan politik kerajaan ternate dan tidore di maluku yang terletak di antara sulawesi dan papua terdapat dua kerajaan , yakni ternate dan tidore .
+passage 5 score = 6.5
+sentence 1: tindakan portugis di maluku makin merajalela dengan memonopoli perdagangan dan terlalu ikut campur tangan dalam urusan dalam negeri ternate sehingga menimbulkan pertentangan .
+sentence 2: salah seorang sultan ternate yang menentang ialah sultan hairun ( 1550 – 1570 ) .
+sentence 3: untuk menyelesaikan pertentangan itu diadakan perundingan antara ternate ( sultan hairun ) dan portugis ( gubernur lopez de mesquita ) .
+sentence 4: perdamaian dapat dicapai pada tanggal 27 februari 1570 .
+sentence 5: namun , perundingan persahabatan itu hanyalah tipuan belaka .
+passage 6 score = 6.5
+sentence 1: namun , perundingan persahabatan itu hanyalah tipuan belaka .
+sentence 2: pada pagi harinya ( 28 februari ) ketika sultan hairun berkunjung ke benteng sao paulo , ia ditangkap dan dibunuh .
+sentence 3: atas kematian sultan hairun , rakyat ternate bangkit menentang bangsa portugis di bawah pimpinan sultan baabullah ( putra dan pengganti sultan hairun ) .
+sentence 4: setelah terkepung hampir selama lima tahun , benteng sao paulo berhasil diduduki rakyat ternate ( 1575 ) .
+sentence 5: orang-orang portugis yang menyerah tidak dibunuh , tetapi harus meninggalkan ternate .
 passage 11 score = 6.5
-sentence 1: berbagai jenis penemuan penting adanya penemuan teknologi baru , besar peranannya dalam proses industrialisasi sebab teknologi baru dapat mempermudah dan mempercepat kerja industri , melipatgandakan hasil , dan menghemat biaya .
-sentence 2: penemuan-penemuan yang penting , antara lain sebagai berikut .
-sentence 3: a. kumparan terbang ( flying shuttle ) cipataan john kay ( 1733 ) .
-sentence 4: dengan alat ini proses pemintalan dapat berjalan secara cepat .
-sentence 5: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
-passage 12 score = 6.5
-sentence 1: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
-sentence 2: dengan alat ini hasilnya berlipat ganda .
-sentence 3: c. mesin tenun ( merupakan penyempurnaan dari kumparan terbang ) ciptaan edmund cartwight ( 1785 ) .
-sentence 4: dengan alat ini hasilnya berlipat ganda .
-sentence 5: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
-passage 13 score = 6.5
-sentence 1: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
-sentence 2: dengan alat ini maka kebutuhan kapas bersih dalam jumlah yang besar dapat tercukupi .
-sentence 3: e. cap selinder ciptaan thomas bell ( 1785 ) .
-sentence 4: dengan alat ini kain putih dapat dilukisi pola kembang 200 kali lebih cepat jika dibandingkan dengan pola cap balok dengan tenaga manusia .
-sentence 5: f. mesin uap , ciptaan james watt ( 1769 ) .
-passage 16 score = 6.5
-sentence 1: 2 .
-sentence 2: tahun 1802 : symington menemukan kapal kincir 3 .
-sentence 3: tahun 1807 : robert fulton membuat kapal api yang telah menggunakan baling-baling yang dapat menggerakkan kapal .
-sentence 4: kapal itu diberi nama clermont yang mengarungi lautan atlantik pertama kali .
-sentence 5: kapal ini berangkat dari paris dan berlabuh di new york .
-passage 17 score = 6.5
-sentence 1: kapal ini berangkat dari paris dan berlabuh di new york .
-sentence 2: selanjutnya , robert fulton berhasil membuat kapal perang pertama ( 1814 ) yang telah digerakkan oleh mesin uap .
-sentence 3: 4 .
-sentence 4: tahun 1804 : richard trevethick membuat kereta uap .
-sentence 5: 5 .
-passage 18 score = 6.5
-sentence 1: 5 .
-sentence 2: tahun 1832 : samuel morse membuat telegraf .
-sentence 3: 6 .
-sentence 4: tahun 1872 : graham bell membuat pesawat telepon .
-sentence 5: 7 .
-passage 19 score = 6.5
-sentence 1: 7 .
-sentence 2: tahun 1887 : daimlermembuat mobil .
-sentence 3: 8 .
-sentence 4: tahun 1903 : wilbur wright dan orville wright membuat pesawat terbang .
-passage 2 score = 6.0
-sentence 1: sebab-sebab timbulnya revolusi industri revolusi industri untuk kali pertamanya muncul di inggris .
-sentence 2: banyak faktor yang mempengaruhinya .
-sentence 3: adapun faktor-faktornya yang menyebabkannya adalah sebagai berikut .
-sentence 4: a. situasi politik yang stabil .
-sentence 5: adanya revolusi glorius tahun 1688 yang mengharuskan raja bersumpah setia kepada bill of right sehingga raja tunduk kepada undang-undang dan hanya menarik pajak berdasarkan atas persejutuan parlemen .
-passage 3 score = 6.0
-sentence 1: adanya revolusi glorius tahun 1688 yang mengharuskan raja bersumpah setia kepada bill of right sehingga raja tunduk kepada undang-undang dan hanya menarik pajak berdasarkan atas persejutuan parlemen .
-sentence 2: b. inggris kaya bahan tambang , seperti batu bara , biji besi , timah , dan kaolin .
-sentence 3: di samping itu , wol juga yang sangat menunjang industri tekstil .
-sentence 4: c. adanya penemuan baru di bidang teknologi yang dapat mempermudah cara kerja dan meningkatkan hasil produksi , misalnya alat-alat pemintal , mesin tenun , mesin uap , dan sebagainya .
-sentence 5: d. kemakmuran inggris akibat majunya pelayaran dan perdagangan sehingga dapat menyediakan modal yang besar untuk bidang usaha .
+sentence 1: jika melawan portugis kasultanan dan rakyat ternate yanga memegang peranan penting maka untuk melawan vocsebaliknya , kasultanan dan rakyat tidore yang memimpinnya .
+sentence 2: pada tahun 1780 rakyat tidore bangkit melawan voc di bawah pimpinan sultan nuku .
+sentence 3: selanjutnya , sultan nuku juga berhasil menyatukan ternate dengan tidore .
+sentence 4: setelah sultan nuku meninggal ( 1805 ) , tidak ada lagi perlawaan yang kuat menentang voc , maka mulailah voc memperkokoh kekuasaannya kembali di maluku .
+sentence 5: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
+passage 9 score = 6.0
+sentence 1: 2 ) adanya perintah penebangan/pemusnahan tanaman rempah-rempah jika harga rempah-rempah di pasaran turun ( hak ekstirpasi ) dan penanaman kembali secara serentak apabila harga rempah-rempah di pasaran naik/meningkat .
+sentence 2: 3 ) mengadakan pelayaran hongi ( patroli laut ) , yakni sistem perondaan yang dilakukan oleh voc dengan tujuan untuk mencegah timbulnya perdagangan gelap dan mengawasi pelaksanaan monopoli perdagangan di seluruh maluku .
+sentence 3: tindakan-tindakan penindasan tersebut jelas membuat rakyat hidup terkenan dan menderita .
+sentence 4: sebagai reaksinya rakyat maluku bangkit mengangkat senjata melawan voc .
+sentence 5: pada tahun 1635 – 1646 rakyat di kepulauan hitu bangkit melawan voc di bawah pimpinan kakiali dan dilanjutkan oleh telukabesi .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
-passage 14 score = 7.833333333333333
-sentence 1: f. mesin uap , ciptaan james watt ( 1769 ) .
-sentence 2: dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( 1804 ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang .
-sentence 3: kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( 1814 ) .
-sentence 4: mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' .
-sentence 5: penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok78.txt
+title : sejarah kerajaan ternate dan tidore
+passage 4 score = 8.0
+sentence 1: dua kekuatan telah berhadapan , namun belum terjadi pecah perang .
+sentence 2: untuk menyelesaikan persaingan antara portugis dan spanyol maka pada tahun 1529 diadakan perjanjian saragosa yang isinya bangsa spanyol harus meninggalkan maluku dan memusatkan kekuasaannya di filipina dan bangsa portugis tetap tinggal maluku .
+sentence 3: untuk memperkuat kedudukannya di maluku maka portugis mendirikan benteng sao paulo .
+sentence 4: menurut portugis benteng ini dibangun untuk melindungi ternate dari serangan tidore .
+sentence 5: tindakan portugis di maluku makin merajalela dengan memonopoli perdagangan dan terlalu ikut campur tangan dalam urusan dalam negeri ternate sehingga menimbulkan pertentangan .
+passage 3 score = 7.833333333333333
+sentence 1: kerajaan tidore sebagai pemimpin persekutuan uli siwa ( persekutuan sembilan saudara ) wilayahnya meliputi pulau-pulau makyan , jailolo atau halmahera , dan pulau-pulau di daerah itu sampai dengan papua barat .
+sentence 2: di antara keduanya saling terjadi persaingan dan makin tampak setelah datangnya bangsa barat .
+sentence 3: bangsa barat yang pertama kali datang di maluku ialah portugis ( 1512 ) yang bersekutu dengan kerajaan ternate .
+sentence 4: jejak ini diikuti oleh bangsa spanyol yang berhasil mendarat di maluku 1521 dan mengadakan persekutuan dengan kerajaan tidore .
+sentence 5: dua kekuatan telah berhadapan , namun belum terjadi pecah perang .
+passage 8 score = 7.833333333333333
+sentence 1: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
+sentence 2: belanda akhirnya berhasil menduduki benteng portugis di ambon dan dapat mengusir portugis dari maluku ( 1605 ) .
+sentence 3: belanda yang tampa ada saingan kemudian juga melakukan tindakan yang sewenang-wenang , seperti berikut ini .
+sentence 4: 1 ) melaksanakan sistem penyerahan wajib sebagian hasil bumi ( rempahrempah ) kepada voc ( contingenten ) .
+sentence 5: 2 ) adanya perintah penebangan/pemusnahan tanaman rempah-rempah jika harga rempah-rempah di pasaran turun ( hak ekstirpasi ) dan penanaman kembali secara serentak apabila harga rempah-rempah di pasaran naik/meningkat .
+passage 10 score = 7.833333333333333
+sentence 1: pada tahun 1635 – 1646 rakyat di kepulauan hitu bangkit melawan voc di bawah pimpinan kakiali dan dilanjutkan oleh telukabesi .
+sentence 2: pada tahun 1650 rakyat ambon dipimpin oleh saidi melakukan perlawanan terhadap voc .
+sentence 3: demikian juga di daerah lain , seperti seram , haruku , dan saparua juga terjadi perlawanan rakyat , tetapi semua perlawanan berhasil dipadamkan oleh voc .
+sentence 4: sampai akhir abad ke-17 tidak ada lagi perlawanan besar , tetapi pada akhir abad ke-18 muncul lagi perlawanan besar yang mengguncangkan kekuasaan voc di maluku .
+sentence 5: jika melawan portugis kasultanan dan rakyat ternate yanga memegang peranan penting maka untuk melawan vocsebaliknya , kasultanan dan rakyat tidore yang memimpinnya .
+passage 7 score = 7.333333333333333
+sentence 1: orang-orang portugis yang menyerah tidak dibunuh , tetapi harus meninggalkan ternate .
+sentence 2: mereka pun pindah ke ambon , maluku .
+sentence 3: sultan baabullah dapat meluaskan daerah kekuasaannya di maluku .
+sentence 4: daerah kekuasaannya terbentang antara sulawesi dan papua ; ke arah timur sampai papua ; barat sampai ke pulau buton ; utara sampai ke mindanao selatan ( filipina ) ; selatan sampai ke pulau bima ( nusa tenggara ) sehingga ia mendapat julukan tuan dari tujuh pulau dua pulau .
+sentence 5: pada abad ke-17 , bangsa belanda datang di maluku dan segera terjadi persaingan antara belanda dan portugis .
+passage 1 score = 6.5
+sentence 1: sejarah kerajaan ternate dan tidore - masuknya islam ke maluku erat kaitannya dengan kegiatan perdagangan .
+sentence 2: pada abad ke-15 , para pedagang dan ulama dari malaka dan jawa menyebarkan islam ke sana .
+sentence 3: dari sini muncul empat kerajaan islam di maluku yang disebut maluku kie raha ( maluku empat raja ) yaitu kesultanan ternate yang dipimpin sultan zainal abidin ( 1486-1500 ) , kesultanan tidore yang dipimpin oleh sultan mansur , kesultanan jailolo yang dipimpin oleh sultan sarajati , dan kesultanan bacan yang dipimpin oleh sultan kaicil buko .
+sentence 4: pada masa kesultanan itu berkuasa , masyarakat muslim di maluku sudah menyebar sampai ke banda , hitu , haruku , makyan , dan halmahera .
+sentence 5: a. kehidupan politik kerajaan ternate dan tidore di maluku yang terletak di antara sulawesi dan papua terdapat dua kerajaan , yakni ternate dan tidore .
+passage 5 score = 6.5
+sentence 1: tindakan portugis di maluku makin merajalela dengan memonopoli perdagangan dan terlalu ikut campur tangan dalam urusan dalam negeri ternate sehingga menimbulkan pertentangan .
+sentence 2: salah seorang sultan ternate yang menentang ialah sultan hairun ( 1550 – 1570 ) .
+sentence 3: untuk menyelesaikan pertentangan itu diadakan perundingan antara ternate ( sultan hairun ) dan portugis ( gubernur lopez de mesquita ) .
+sentence 4: perdamaian dapat dicapai pada tanggal 27 februari 1570 .
+sentence 5: namun , perundingan persahabatan itu hanyalah tipuan belaka .
+passage 6 score = 6.5
+sentence 1: namun , perundingan persahabatan itu hanyalah tipuan belaka .
+sentence 2: pada pagi harinya ( 28 februari ) ketika sultan hairun berkunjung ke benteng sao paulo , ia ditangkap dan dibunuh .
+sentence 3: atas kematian sultan hairun , rakyat ternate bangkit menentang bangsa portugis di bawah pimpinan sultan baabullah ( putra dan pengganti sultan hairun ) .
+sentence 4: setelah terkepung hampir selama lima tahun , benteng sao paulo berhasil diduduki rakyat ternate ( 1575 ) .
+sentence 5: orang-orang portugis yang menyerah tidak dibunuh , tetapi harus meninggalkan ternate .
 passage 11 score = 6.5
-sentence 1: berbagai jenis penemuan penting adanya penemuan teknologi baru , besar peranannya dalam proses industrialisasi sebab teknologi baru dapat mempermudah dan mempercepat kerja industri , melipatgandakan hasil , dan menghemat biaya .
-sentence 2: penemuan-penemuan yang penting , antara lain sebagai berikut .
-sentence 3: a. kumparan terbang ( flying shuttle ) cipataan john kay ( 1733 ) .
-sentence 4: dengan alat ini proses pemintalan dapat berjalan secara cepat .
-sentence 5: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
-passage 12 score = 6.5
-sentence 1: b. mesin pemintal benang ( spinning jenny ) ciptaan james hargreves ( 1767 ) dan richard arkwright ( 1769 ) .
-sentence 2: dengan alat ini hasilnya berlipat ganda .
-sentence 3: c. mesin tenun ( merupakan penyempurnaan dari kumparan terbang ) ciptaan edmund cartwight ( 1785 ) .
-sentence 4: dengan alat ini hasilnya berlipat ganda .
-sentence 5: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
-passage 13 score = 6.5
-sentence 1: d. cottongin , alat pemisah biji kapas dari serabutnya cipataan whitney ( 1794 ) .
-sentence 2: dengan alat ini maka kebutuhan kapas bersih dalam jumlah yang besar dapat tercukupi .
-sentence 3: e. cap selinder ciptaan thomas bell ( 1785 ) .
-sentence 4: dengan alat ini kain putih dapat dilukisi pola kembang 200 kali lebih cepat jika dibandingkan dengan pola cap balok dengan tenaga manusia .
-sentence 5: f. mesin uap , ciptaan james watt ( 1769 ) .
-passage 16 score = 6.5
-sentence 1: 2 .
-sentence 2: tahun 1802 : symington menemukan kapal kincir 3 .
-sentence 3: tahun 1807 : robert fulton membuat kapal api yang telah menggunakan baling-baling yang dapat menggerakkan kapal .
-sentence 4: kapal itu diberi nama clermont yang mengarungi lautan atlantik pertama kali .
-sentence 5: kapal ini berangkat dari paris dan berlabuh di new york .
-passage 17 score = 6.5
-sentence 1: kapal ini berangkat dari paris dan berlabuh di new york .
-sentence 2: selanjutnya , robert fulton berhasil membuat kapal perang pertama ( 1814 ) yang telah digerakkan oleh mesin uap .
-sentence 3: 4 .
-sentence 4: tahun 1804 : richard trevethick membuat kereta uap .
-sentence 5: 5 .
-passage 18 score = 6.5
-sentence 1: 5 .
-sentence 2: tahun 1832 : samuel morse membuat telegraf .
-sentence 3: 6 .
-sentence 4: tahun 1872 : graham bell membuat pesawat telepon .
-sentence 5: 7 .
-passage 19 score = 6.5
-sentence 1: 7 .
-sentence 2: tahun 1887 : daimlermembuat mobil .
-sentence 3: 8 .
-sentence 4: tahun 1903 : wilbur wright dan orville wright membuat pesawat terbang .
-passage 2 score = 6.0
-sentence 1: sebab-sebab timbulnya revolusi industri revolusi industri untuk kali pertamanya muncul di inggris .
-sentence 2: banyak faktor yang mempengaruhinya .
-sentence 3: adapun faktor-faktornya yang menyebabkannya adalah sebagai berikut .
-sentence 4: a. situasi politik yang stabil .
-sentence 5: adanya revolusi glorius tahun 1688 yang mengharuskan raja bersumpah setia kepada bill of right sehingga raja tunduk kepada undang-undang dan hanya menarik pajak berdasarkan atas persejutuan parlemen .
-passage 3 score = 6.0
-sentence 1: adanya revolusi glorius tahun 1688 yang mengharuskan raja bersumpah setia kepada bill of right sehingga raja tunduk kepada undang-undang dan hanya menarik pajak berdasarkan atas persejutuan parlemen .
-sentence 2: b. inggris kaya bahan tambang , seperti batu bara , biji besi , timah , dan kaolin .
-sentence 3: di samping itu , wol juga yang sangat menunjang industri tekstil .
-sentence 4: c. adanya penemuan baru di bidang teknologi yang dapat mempermudah cara kerja dan meningkatkan hasil produksi , misalnya alat-alat pemintal , mesin tenun , mesin uap , dan sebagainya .
-sentence 5: d. kemakmuran inggris akibat majunya pelayaran dan perdagangan sehingga dapat menyediakan modal yang besar untuk bidang usaha .
+sentence 1: jika melawan portugis kasultanan dan rakyat ternate yanga memegang peranan penting maka untuk melawan vocsebaliknya , kasultanan dan rakyat tidore yang memimpinnya .
+sentence 2: pada tahun 1780 rakyat tidore bangkit melawan voc di bawah pimpinan sultan nuku .
+sentence 3: selanjutnya , sultan nuku juga berhasil menyatukan ternate dengan tidore .
+sentence 4: setelah sultan nuku meninggal ( 1805 ) , tidak ada lagi perlawaan yang kuat menentang voc , maka mulailah voc memperkokoh kekuasaannya kembali di maluku .
+sentence 5: perlawanan yang lebih dahsyat di maluku baru muncul pada permulaan abad ke-19 di bawah pimpinan pattimura .
+passage 9 score = 6.0
+sentence 1: 2 ) adanya perintah penebangan/pemusnahan tanaman rempah-rempah jika harga rempah-rempah di pasaran turun ( hak ekstirpasi ) dan penanaman kembali secara serentak apabila harga rempah-rempah di pasaran naik/meningkat .
+sentence 2: 3 ) mengadakan pelayaran hongi ( patroli laut ) , yakni sistem perondaan yang dilakukan oleh voc dengan tujuan untuk mencegah timbulnya perdagangan gelap dan mengawasi pelaksanaan monopoli perdagangan di seluruh maluku .
+sentence 3: tindakan-tindakan penindasan tersebut jelas membuat rakyat hidup terkenan dan menderita .
+sentence 4: sebagai reaksinya rakyat maluku bangkit mengangkat senjata melawan voc .
+sentence 5: pada tahun 1635 – 1646 rakyat di kepulauan hitu bangkit melawan voc di bawah pimpinan kakiali dan dilanjutkan oleh telukabesi .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok353.txt
-title : sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia
-passage 1 score = 5.5
-sentence 1: sejarah proses migrasi ras proto melayu dan deutro melayu ke indonesia – sejarawan belanda van heine mengatakan bahwa sejak 2000 sm yang bersamaan dengan zaman neolitikum sampai dengan tahun 500 sm yang bersamaan dengan zaman perunggu mengalirlah gelombang perpindahan penduduk dari asia ke pulau-pulau sebelah selatan daratan asia ke indonesia .
-sentence 2: sekitar tahun 1500 sm , mereka terdesak dari campa kemudian pindah ke kampuchea dan melanjutkan perjalanan ke semenanjung malaka .
-sentence 3: sementara itu , bangsa yang lainnya masuk ke pulau-pulau di sebelah selatan asia tersebut , yakni austronesia ( austro artinya selatan , nesos artinya pulau ) .
-sentence 4: bangsa yang mendiami daerah austronesia disebut bangsa austronesia .
-sentence 5: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
-passage 6 score = 5.0
-sentence 1: 1 .
-sentence 2: bangsa melayu tua ( proto melayu ) .
-sentence 3: bangsa melayu tua adalah orang-orang austronesia dari asia ( yunan ) yang pertama kali ke nusantara pada sekitar 1500 sm .
-sentence 4: mereka datang ke nusantara melalui dua jalan .
-sentence 5: 1 .
-passage 2 score = 1.3333333333333333
-sentence 1: bangsa austronesia mendiami daerah sangat luas , meliputi pulau-pulau yang membentang dari madagaskar ( sebelah barat ) sampai pulau paskah ( sebelah timur ) dan taiwan ( sebelah utara ) sampai selandia baru ( sebelah selatan ) .
-sentence 2: pendapat van heine geldern ini diperkuat dengan penemuan peralatan manusia purba berupa beliung batu yang berbentuk persegi di sumatra , jawa , kalimantan , dan sulawesi di bagian barat .
-sentence 3: beliung seperti itu juga banyak ditemukan di asia , yakni di malaysia , birma ( myanmar ) , vietnam , kampuchea , dan terutama di daerah yunan ( daerah cina selatan ) .
-sentence 4: perpindahan penduduk pada gelombang kedua terjadi sekitar 500 sm bersamaan dengan zaman perunggu .
-sentence 5: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
-passage 5 score = 1.3333333333333333
-sentence 1: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
-sentence 2: orang-orang austronesia yang memasuki wilayah nusantara dan kemudian menetap di nusantara tersebut mendapat sebutan bangsa melayu austronesia atau bangsa melayu indonesia .
-sentence 3: mereka yang masuk ke daerah aceh menjadi suku aceh , yang masuk ke daerah kalimantan disebut suku dayak , yang ke jawa barat disebut suku sunda , yang masuk ke sulawesi disebut suku bugis dan tanah toraja , dan mereka yang masuk ke daerah jambi disebut suku kubu ( lubu ) .
-sentence 4: bangsa melayu dapat dibedakan menjadi dua , yakni bangsa melayu tua dan melayu muda .
-sentence 5: 1 .
-passage 9 score = 1.3333333333333333
-sentence 1: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
-sentence 2: menurut penelitian von heekern , di kalumpang , sulawesi utara telah terjadi perpaduan antara tradisi kapak persegi dan kapak lonjong yang dibawa orang austronesia yang datang dari arah utara indonesia melalui formosa ( taiwan ) , filipina , dan sulawesi .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+title : konferensi dan perjanjian pasca perang dunia ii
+passage 5 score = 6.833333333333333
+sentence 1: f. konferensi yalta konferensi yalta diselenggarakan pada bulan februari 1945 antara josep stalin , franklin delano roosevelt , dan winston churcill .
+sentence 2: konferensi berhasil mengambil keputusan , antara lain : a. penyerahan jerman tanpa syarat ; b. pembentukan organisasi internasional yang menjamin perdamaian dunia ; c. perencanaan penyelenggaraan konferensi di san fransisco pada tanggal 25 april 1945 .
 sentence 3: 2 .
-sentence 4: bangsa melayu muda ( deutero melayu ) bangsa melayu muda yang disebut juga deutero melayu datang dari daerah yunan ( cina selatan ) sekitar 500 sm .
-sentence 5: mereka masuk ke nusantara melalui jalan barat saja .
-passage 3 score = 0.0
-sentence 1: perpindahan ini membawa kebudayaan perunggu , seperti kapak sepatu dan nekara atau genderang yang berasal dari daerah dongson sehingga disebut kebudayaan dongson .
-sentence 2: pendukung kebudayaan dongson adalah orang-orang austronesia yang tinggal di pulau-pulau di benua asia dan australia .
-sentence 3: nenek moyang bangsa indonesia meninggalkan daerah yunan di sekitar hulu sungai salween dan sungai mekong yang tanahnya subur sehingga mereka pandai bercocok tanam , berlayar , dan berdagang .
-sentence 4: dalam perkembangan selanjutnya , berbagai suku bangsa yang mendiami wilayah indonesia kemudian membentuk komunitas sendiri-sendiri sehingga mereka mendapat sebutan tersendiri .
-sentence 5: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-passage 4 score = 0.0
-sentence 1: mereka datang di nusantara menggunakan alat transportasi , yaitu perahu bercadik .
-sentence 2: mereka berlayar secara berkelompok tanpa mengenal rasa takut dan selanjutnya menempati berbagai kepulauan di nusantara .
-sentence 3: hal ini memperjelas bahwa nenek moyang bangsa indonesia adalah pelaut-pelaut ulung yang memiliki jiwa kelautan yang kuat .
-sentence 4: mereka memiliki kepandaian dalam berlayar , navigasi , serta ilmu perbintangan yang penuh .
-sentence 5: selain itu , mereka menemukan model perahu bercadik yang merupakan perahu kuat dan mampu menghadapi gelombang serta sebagai ciri khas kapal bangsa indonesia .
-passage 7 score = 0.0
-sentence 1: 1 .
-sentence 2: jalan barat dari yunan ( cina selatan ) melalui selat malaka ( malaysia ) masuk kesumatra masuk ke jawa .
-sentence 3: mereka membawa alat berupa kapak persegi .
+sentence 4: perjanjian-perjanjian pasca perang dunia ii a. perjanjian sekutu – jerman jerman merupakan salah satu negara “ pact poros ” yang hancur dalam pd ii dan telah menyerah kepada sekutu pada tanggal 7 mei 1945 .
+sentence 5: as , uni soviet , dan inggris membicarakan tentang pembagian jerman , denazifikasi dan demiliterisasi jerman .
+passage 11 score = 6.666666666666667
+sentence 1: c. perjanjian sekutu dengan negara lainnya selain mengadakan perjanjian dengan jerman dan jepang , sekutu juga mengadakan perjanjian dengan negara-negara lain yang kalah berperang dalam perang dunia ii .
+sentence 2: 1 ) perjanjian sekutu – italia dilaksanakan di paris pada tahun 1945 dengan beberapa keputusan , antara lain sebagai berikut .
+sentence 3: a ) wilayah italia diperkecil .
+sentence 4: b ) triastie menjadi negara merdeka di bawah perwalian pbb .
+sentence 5: c ) abbesynia dan albania memperoleh kemerdekaannya kembali .
+passage 12 score = 6.666666666666667
+sentence 1: c ) abbesynia dan albania memperoleh kemerdekaannya kembali .
+sentence 2: d ) semua jajahan italia dan afrika utara dikuasai inggris .
+sentence 3: e ) italia harus membayar ganti rugi akibat perang yang ditimbulkannya .
+sentence 4: 2 ) perjanjian sekutu – austria dilaksanakan di austria pada tahun 1945 dengan berbagai keputusan , antara lain sebagai berikut .
+sentence 5: a ) kota wina dibagi menjadi empat wilayah pendudukan dan dikuasai oleh amerika serikat , inggris , prancis , dan uni soviet .
+passage 13 score = 6.666666666666667
+sentence 1: a ) kota wina dibagi menjadi empat wilayah pendudukan dan dikuasai oleh amerika serikat , inggris , prancis , dan uni soviet .
+sentence 2: b ) persyaratan lain menyusul karena belum ada keputusan dan persetujuan dari keempat negara pemenang perang dunia ii di wina .
+sentence 3: 3 ) perjanjian sekutu dengan hongaria , rumania , bulgaria , dan finlandia ditentukan di paris tahun 1945 dengan beberapa keputusan yang pada intinya sama , yaitu : a ) setiap negara wilayahnya diperkecil ; b ) setiap negara harus mengganti biaya perang .
+passage 6 score = 6.333333333333333
+sentence 1: as , uni soviet , dan inggris membicarakan tentang pembagian jerman , denazifikasi dan demiliterisasi jerman .
+sentence 2: perjanjian sekutu – jerman ditentukan oleh harry s. truman ( presiden amerika serikat ) , josep stalin ( presiden uni soviet ) , dan clement richard attlee ( perdana menteri inggris ) dalam konferensi postdam ( 2 agustus 1945 ) .
+sentence 3: konferensi postdam berisi , antara lain sebagai berikut .
+sentence 4: 1 ) jerman yang dikuasai oleh empat negara sekutu dibagi dua , yaitu jerman timur dan jerman barat .
+sentence 5: jerman timur , 1 zona dikuasai oleh uni soviet , sedangkan jerman barat , 3 zona dikuasai oleh amerika serikat , inggris , dan prancis .
+passage 8 score = 6.333333333333333
+sentence 1: 4 ) demiliterisasi bagi jerman .
+sentence 2: 5 ) penjahat perang harus dihukum .
+sentence 3: 6 ) jerman harus membayar kerugian perang .
+sentence 4: b. perjanjian sekutu – jepang perjanjian sekutu – jepang dilakukan di san fransisco pada tahun 1945 .
+sentence 5: perjanjian tersebut berisi , sebagai berikut .
+passage 2 score = 5.5
+sentence 1: berbagai konferensi selama perang dunia ii beberapa konferensi yang diselenggarakan selama perang dunia ii tentang strategi pertempuran ataupun perdamaian dunia , antara lain sebagai berikut .
+sentence 2: a. konferensi atlantik konferensi atlantik diselenggarakan pada tanggal 14 agustus 1941 antara franklin delano roosevelt ( presiden amerika serikat ) dan winston churcill ( perdana menteri inggris ) .
+sentence 3: konferensi atlantik menghasilkan piagam perdamaian yang disebut piagam atlantik ( atlantik charter ) .
+sentence 4: piagam atlantik sebagai fondasi berdirinya pbb .
+sentence 5: b. konferensi casablanca konferensi casablanca diselenggarakan pada bulan januari 1943 antara franklin delano roosevelt dan winston churcill .
+passage 3 score = 5.5
+sentence 1: b. konferensi casablanca konferensi casablanca diselenggarakan pada bulan januari 1943 antara franklin delano roosevelt dan winston churcill .
+sentence 2: konferensi itu membahas perencanaan penyerbuan tentara sekutu ke eropa guna mengalahkan tentara blok sentral ( poros atau blok jerman ) .
+sentence 3: c. konferensi moskow konferensi moskow diselenggarakan pada bulan oktober 1943 yang dihadiri oleh menteri luar negeri rusia ( vyacheslav mikhailovich molotov ) , menteri luar negeri amerika serikat ( cordel hull ) , dan menteri luar negeri inggris ( anthony eden ) .
+sentence 4: konferensi itu membahas tentang rencana pembentukan organisasi internasional yang menjamin perdamaian .
+sentence 5: d. konferensi kairo konferensi kairo diselenggarakan pada bulan november 1943 antara franklin delano roosevelt , winston churcill , dan chiang kai-shek ( cina ) .
+passage 4 score = 5.5
+sentence 1: d. konferensi kairo konferensi kairo diselenggarakan pada bulan november 1943 antara franklin delano roosevelt , winston churcill , dan chiang kai-shek ( cina ) .
+sentence 2: konferensi itu memutuskan bahwa mereka akan menggempur jepang sampai menyerah .
+sentence 3: e. konferensi teheran konferensi teheran diselenggarakan pada desember 1943 yang dihadiri josep stalin , franklin delano roosevelt , dan winston churcill .
+sentence 4: pada prinsipnya konferensi itu mendukung keputusan konferensi kairo dan bertekad melanjutkan kerja sama meskipun perang telah berakhir .
+sentence 5: f. konferensi yalta konferensi yalta diselenggarakan pada bulan februari 1945 antara josep stalin , franklin delano roosevelt , dan winston churcill .
+passage 1 score = 1.3333333333333333
+sentence 1: konferensi dan perjanjian pasca perang dunia ii - perang dunia ii diakhiri dengan berbagai perjanjian antara pihak yang kalah perang ( jerman , jepang , dan italia ) dan yang menang perang ( pihak sekutu : as , uni soviet , inggris , prancis , dll ) .
+sentence 2: perjanjian yang penting adalah perjanjian sekutu dengan jerman dan sekutu dengan jepang .
+sentence 3: selain itu , pasca-perang dunia ii juga ditandai dengan berbagai konferensi .
+sentence 4: 1 .
+sentence 5: berbagai konferensi selama perang dunia ii beberapa konferensi yang diselenggarakan selama perang dunia ii tentang strategi pertempuran ataupun perdamaian dunia , antara lain sebagai berikut .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+title : sejarah akhir perang dunia ii
+passage 5 score = 6.833333333333333
+sentence 1: konferensi berhasil mengambil keputusan , antara lain : 1 .
+sentence 2: penyerahan jerman tanpa syarat ; 2 .
+sentence 3: pembentukan organisasi internasional yang menjamin perdamaian dunia ; 3 .
+sentence 4: perencanaan penyelenggaraan konferensi di san fransisco pada tanggal 25 april 1945 .
+sentence 5: a. perjanjian sekutu – jerman jerman merupakan salah satu negara “ pact poros ” yang hancur dalam pd ii dan telah menyerah kepada sekutu pada tanggal 7 mei 1945 .
+passage 6 score = 6.833333333333333
+sentence 1: a. perjanjian sekutu – jerman jerman merupakan salah satu negara “ pact poros ” yang hancur dalam pd ii dan telah menyerah kepada sekutu pada tanggal 7 mei 1945 .
+sentence 2: as , uni soviet , dan inggris membicarakan tentang pembagian jerman , denazifikasi dan demiliterisasi jerman .
+sentence 3: perjanjian sekutu – jerman ditentukan oleh harry s. truman ( presiden amerika serikat ) , josep stalin ( presiden uni soviet ) , dan clement richard attlee ( perdana menteri inggris ) dalam konferensi postdam ( 2 agustus 1945 ) .
+sentence 4: konferensi postdam berisi , antara lain sebagai berikut .
+sentence 5: 1 .
+passage 14 score = 6.666666666666667
+sentence 1: 1 ) perjanjian sekutu – italia dilaksanakan di paris pada tahun 1945 dengan beberapa keputusan , antara lain sebagai berikut .
+sentence 2: 1 .
+sentence 3: wilayah italia diperkecil .
 sentence 4: 2 .
-sentence 5: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
-passage 8 score = 0.0
-sentence 1: jalan utara ( timur ) dari yunan melalui formosa ( taiwan ) masuk ke filipina kemudianke sulawesi kemudian masuk ke irian .
-sentence 2: mereka membawa alat kapak lonjong .
-sentence 3: bangsa melayu tua ini memiliki kebudayaan batu sebab alat-alatnya terbuat dari batu yang sudah maju , yakni sudah dihaluskan , berbeda dengan manusia purba yang alatnya masih kasar dan sederhana .
-sentence 4: hasil budaya mereka dikenal dengan kapak persegi yang banyak ditemukan di indonesia , seperti sumatra , jawa , bali , dan kalimantan .
-sentence 5: adapun kapak lonjong banyak digunakan mereka yang melalui jalan utara , yakni sulawesi dan irian .
-passage 10 score = 0.0
-sentence 1: mereka masuk ke nusantara melalui jalan barat saja .
-sentence 2: bangsa melayu muda berhasil mendesak dan bercampur dengan bangsa proto melayu .
-sentence 3: bangsa deutero melayu masuk melalui teluk tonkin ( yunan ) ke vietnam , lalu ke semenanjung malaka , terus ke sumatra , dan akhirnya masuk ke jawa .
-sentence 4: bangsa deutero melayu memiliki kebudayaan yang lebih maju dibandingkan dengan proto melayu .
-sentence 5: mereka sudah dapat membuat barang-barang dari perunggu dan besi .
+sentence 5: triastie menjadi negara merdeka di bawah perwalian pbb .
+passage 17 score = 6.666666666666667
+sentence 1: 1 .
+sentence 2: kota wina dibagi menjadi empat wilayah pendudukan dan dikuasai oleh amerika serikat , inggris , prancis , dan uni soviet .
+sentence 3: 2 .
+sentence 4: persyaratan lain menyusul karena belum ada keputusan dan persetujuan dari keempat negara pemenang perang dunia ii di wina .
+sentence 5: 3 ) perjanjian sekutu dengan hongaria , rumania , bulgaria , dan finlandia ditentukan di paris tahun 1945 dengan beberapa keputusan yang pada intinya sama , yaitu : 1 .
+passage 1 score = 6.333333333333333
+sentence 1: sejarah akhir perang dunia ii – perang dunia ii diakhiri dengan berbagai perjanjian antara pihak yang kalah perang ( jerman , jepang , dan italia ) dan yang menang perang ( pihak sekutu : as , uni soviet , inggris , prancis , dll ) .
+sentence 2: perjanjian yang penting adalah perjanjian sekutu dengan jerman dan sekutu dengan jepang .
+sentence 3: selain itu , pasca-perang dunia ii juga ditandai dengan berbagai konferensi .
+sentence 4: beberapa konferensi yang diselenggarakan selama perang dunia ii tentang strategi pertempuran ataupun perdamaian dunia , antara lain sebagai berikut .
+sentence 5: a. konferensi atlantik konferensi atlantik diselenggarakan pada tanggal 14 agustus 1941 antara franklin delano roosevelt ( presiden amerika serikat ) dan winston churcill ( perdana menteri inggris ) .
+passage 10 score = 6.333333333333333
+sentence 1: 6 .
+sentence 2: jerman harus membayar kerugian perang .
+sentence 3: b. perjanjian sekutu – jepang perjanjian sekutu – jepang dilakukan di san fransisco pada tahun 1945 .
+sentence 4: perjanjian tersebut berisi , sebagai berikut .
+sentence 5: 1 .
+passage 13 score = 6.333333333333333
+sentence 1: penjahat perang harus dihukum .
+sentence 2: 4 .
+sentence 3: jepang harus membayar ganti rugi perang .
+sentence 4: c. perjanjian sekutu dengan negara lainnya selain mengadakan perjanjian dengan jerman dan jepang , sekutu juga mengadakan perjanjian dengan negara-negara lain yang kalah berperang dalam perang dunia ii .
+sentence 5: 1 ) perjanjian sekutu – italia dilaksanakan di paris pada tahun 1945 dengan beberapa keputusan , antara lain sebagai berikut .
+passage 16 score = 6.333333333333333
+sentence 1: semua jajahan italia dan afrika utara dikuasai inggris .
+sentence 2: 5 .
+sentence 3: italia harus membayar ganti rugi akibat perang yang ditimbulkannya .
+sentence 4: 2 ) perjanjian sekutu – austria dilaksanakan di austria pada tahun 1945 dengan berbagai keputusan , antara lain sebagai berikut .
+sentence 5: 1 .
+passage 18 score = 6.333333333333333
+sentence 1: 3 ) perjanjian sekutu dengan hongaria , rumania , bulgaria , dan finlandia ditentukan di paris tahun 1945 dengan beberapa keputusan yang pada intinya sama , yaitu : 1 .
+sentence 2: setiap negara wilayahnya diperkecil ; 2 .
+sentence 3: setiap negara harus mengganti biaya perang .
+passage 2 score = 5.5
+sentence 1: a. konferensi atlantik konferensi atlantik diselenggarakan pada tanggal 14 agustus 1941 antara franklin delano roosevelt ( presiden amerika serikat ) dan winston churcill ( perdana menteri inggris ) .
+sentence 2: konferensi atlantik menghasilkan piagam perdamaian yang disebut piagam atlantik ( atlantik charter ) .
+sentence 3: piagam atlantik sebagai fondasi berdirinya pbb .
+sentence 4: b. konferensi casablanca konferensi casablanca diselenggarakan pada bulan januari 1943 antara franklin delano roosevelt dan winston churcill .
+sentence 5: konferensi itu membahas perencanaan penyerbuan tentara sekutu ke eropa guna mengalahkan tentara blok sentral ( poros atau blok jerman ) .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok111.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok264.txt
+title : perjanjian renville
+passage 3 score = 7.166666666666667
+sentence 1: seusai berakhir perdebatan dari tanggal 8 desember 1947 hingga dengan 17 januari 1948 maka diperoleh hasil persetujuan damai yang disebut perjanjian renville .
+sentence 2: pokok-poko isi perjanjian renville , antara lain sebagai berikut : belanda masih berdaulat atas seluruh wilayah indonesia samapi kedaulatan indonesia diserahkan terhadap republik indonesia serikat yang segera terbentuk .
+sentence 3: republik indonesia serikat memiliki kedudukan yang sejajar dengan negara belanda dalam uni indonesia-belanda .
+sentence 4: republik indonesia bakal menjadi negara tahap dari ris sebelum ris terbentuk , belanda bisa menyerahkan sebagain kekuasaannya terhadap pemerintahan federal sementara .
+sentence 5: pasukan republik indonesia yang berda di derah kantong haruns ditarik ke daerah republik indonesia .
+passage 2 score = 6.833333333333333
+sentence 1: delegasi belanda terdiri dari abdulkadir widjojoatmojo , jhr .
+sentence 2: van vredeburgh , dr. soumukil , pangran kartansupayaa serta zulkarnain .
+sentence 3: nyatanya wakil-wakil belanda hampir semua berasala dari bangsa indonesia sendiri yang pro belanda .
+sentence 4: dengan demikian belanda masih meperbuat politik adu domba supaya indonesia mudah dikuasainya .
+sentence 5: seusai berakhir perdebatan dari tanggal 8 desember 1947 hingga dengan 17 januari 1948 maka diperoleh hasil persetujuan damai yang disebut perjanjian renville .
+passage 1 score = 6.333333333333333
+sentence 1: perjanjian renville - atas usulan ktn pada tanggal 8 desember 1947 dilaksanakan perundingan antara indonesia serta belanada di atas kapal renville yang sedang berlabuh di jakarta .
+sentence 2: delegasi indonesia terdiri atas perdana menteri amir syarifudin , ali sastroamijoyo , dr. tjoa sik len , moh .
+sentence 3: roem , haji agus salim , narsun serta ir .
+sentence 4: juanda .
+sentence 5: delegasi belanda terdiri dari abdulkadir widjojoatmojo , jhr .
+passage 4 score = 6.333333333333333
+sentence 1: pasukan republik indonesia yang berda di derah kantong haruns ditarik ke daerah republik indonesia .
+sentence 2: daerah kantong merupakan daerah yang berada di belakang garis van mook , yakni garis yang menghubungkan dua derah terdepan yang diduduki belanda .
+sentence 3: perjanjian renville ditandatangani kedua belah pihak pada tanggal 17 januari 1948 .
+sentence 4: adapun kemenyesalan yang diderita indonesia dengan penandatanganan perjanjian renville merupakan sebagai berikut : indonesia terpaksa menyetujui dibentuknya negara indonesia serikat melalaui masa peralihan .
+sentence 5: indonesia kehilangan sebagaian daerah kekuasaannya sebab grais van mook terpaksa wajib diakui sebagai daerah kekuasaan belanda .
+passage 5 score = 1.6666666666666665
+sentence 1: indonesia kehilangan sebagaian daerah kekuasaannya sebab grais van mook terpaksa wajib diakui sebagai daerah kekuasaan belanda .
+sentence 2: pihak republik indonesia wajib luar biasa seluruh pasukanya yang berda di derah kekuasaan belanda serta kantong-kantong gerilya masuk ke daerah republic indonesia .
+sentence 3: penandatanganan naskah perjanjian renville memunculkan dampak kurang baik bagi pemerinthan republik indonesia , antra lain sebagai berikut : wilayah republik indonesia menjadi makin sempit serta dikurung oleh daerah-daerah kekuasaan belanda .
+sentence 4: timbulnya reaksi kekerasan dikalangan para pemimpin republic indonesia yang mengdampakkan jatuhnya cabinet amir syarifuddin sebab dianggap menjual negara terhadap belanda .
+sentence 5: perekonomian indonesia diblokade dengan cara ketata oleh belanda indonesia terpaksa wajib luar biasa mundur kesatuan-kesatuan militernya dari daerah-daerah gerilya untuk kemudian hijrah ke wilayah republik indonesia yang berdekatan .
+passage 6 score = 0.0
+sentence 1: perekonomian indonesia diblokade dengan cara ketata oleh belanda indonesia terpaksa wajib luar biasa mundur kesatuan-kesatuan militernya dari daerah-daerah gerilya untuk kemudian hijrah ke wilayah republik indonesia yang berdekatan .
+sentence 2: dalam usaha memecah belah negara kesatuan republic indonesia , belanda membentuk negara-negara boneka , semacam ; negara borneo barat , negara madura , negara sumatera timur , serta negara jawa timur .
+sentence 3: negara boneka tersebut tergabung dalam bfo ( bijeenkomstvoor federal overslag ) .
+sentence 4: .
+sentence 5: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+title : sejarah lengkap perang dunia ii
+passage 3 score = 6.833333333333333
+sentence 1: kaum fasis merupakan kumpulan pekerja yang menginginkan perubahan dan percaya pda kebanggaan nasional dan kepatuhan kepada pemimpinnya .
+sentence 2: untuk menarik kelas atas dan menengah golongan ini menyerang kelompok komunisme .
+sentence 3: pada tahun 1922 , 50.000 fasis bergerak ke roma , dan mussolini menjadi perdana menteri italia .
+sentence 4: pemerintahan fasis mussolini dalam menjalankan pemerintahannya dilakukan secara diktator sehingga rakyat tidak bisa mengeluarkan pendapatnya secara bebas dan menjalankan politik luar negeri yang agresif .
+sentence 5: pada awalnya mussolini bermusuhan dengan hitler karena takut akan invasi jerman ke austria , namun ketika akan menginvasi ethiopia pada 1935 , mussolini meminta bantuan hitler .
+passage 6 score = 6.833333333333333
+sentence 1: pada tahun 1932 jepang medirikan republik manchukuo .
+sentence 2: pada tahun 1937 jepang dan cina berperang hingga tahun 1945 , hingga tentara jepang di cina menyerah secara resmi .
+sentence 3: munculnya kelompok sebagai kekuatan baru di jepang lemahnya kontrol parlemen menjadi salah satu yang menyebabkan timbulnya perang asia timur raya ( perang pasifik ) pada 1942 .
+sentence 4: aksi di asia pasifik , diawali dengan serangan jepang secara mendadak pangkalan angkatan laut amerika serikat di pearl harbour pada 7 desember 1941 dibawah pimpinan jenderal isoroku yamamoto .
+sentence 5: tindakan jepang ini menjadikan asia sebagai medan pertempuran perang dunia ii .
 passage 11 score = 6.833333333333333
-sentence 1: dampak penjajahan jepang dalam birokrasi pada pertengahan tahun 1943 , kedudukan jepang dalam perang pasifik mulai terdesak , maka jepang memberi kesempatan kepada bangsa indonsia untuk turut mengambil bagian dalam pemerintahan negara .
-sentence 2: untuk itu pada tanggal 5 september 1943 , jepang membentuk badan pertimbangan karesidenan ( syu sangi kai ) dan badan pertimbangan kota praja istimewa ( syi sangi in ) .
-sentence 3: banyak orang indonesia yang menduduki jabatan-jabatan tinggi dalam pemerintahan , seperti prof. dr. husein jayadiningrat sebagai kepala departemen urusan agama ( 1 oktober 1943 ) dan pada tanggal 10 november 1943 sutardjo kartohadikusumo dan r.m.t.a. surio masing-masing diangkat menjadi kepala pemerintahan ( syikocan ) di jakarta dan banjarnegara .
-sentence 4: di samping itu , ada enam departemen ( bu ) dengan gelar sanyo , seperti berikut .
-sentence 5: a. ir .
-passage 18 score = 6.833333333333333
-sentence 1: mereka juga diberikan latihan-latihan dasar militer dengan tugas untuk membantu jepang dalam perang .
-sentence 2: 4 ) jibakutai ( barisan berani mati ) jibakutai dibentuk pada tanggal 8 desember 1944 .
-sentence 3: barisan ini rupanya mendapatkan inspirasi dari pilot kamikaze yang sanggup mengorbankan nyawanya dengan jalan menabrakkan pesawatnya kepada kapal perang musuh .
-sentence 4: b. kesatuan pertahanan militer 1 ) heiho ( pembantu prajurit jepang ) heiho adalah prajurit indonesia yang langsung ditempatkan di dalam organisasi militer jepang , baik angkatan darat maupun angkatan laut .
-sentence 5: mereka yang diterima menjadi anggota adalah yang memenuhi syarat , antara lain berbadan sehat , berkelakuan baik , berpendidikan terendah sd , dan berumur 18 – 25 tahun .
-passage 19 score = 6.833333333333333
-sentence 1: mereka yang diterima menjadi anggota adalah yang memenuhi syarat , antara lain berbadan sehat , berkelakuan baik , berpendidikan terendah sd , dan berumur 18 – 25 tahun .
-sentence 2: mereka dilatih kemiliteran secara lengkap dan setelah lulus dimasukkan ke dalam kesatuan militer jepang dan dikirim ke medan pertempuran , seperti ke kepulauan salomon , burma , dan malaya .
-sentence 3: 2 ) peta ( pembela tanah air ) peta dibentuk pada tanggal 3 oktober 1943 , dengan tugas mempertahankan tanah air .
-sentence 4: pembentukan peta ini atas permohonan gatot mangkuprojo kepada panglima tertinggi jepang letjen kumakichi harada tanggal 7 september 1943 .
-sentence 5: untuk menjadi anggota peta para pemuda dididik di bidang militer secara khusus di tangerang , di bawah pimpinan letnan yamagawa .
-passage 15 score = 5.5
-sentence 1: jepang menyadari bahwa untuk kepentingan perang perlu dukungan dari penduduk masing-masing daerah yang didudukinya .
-sentence 2: itulah sebabnya , jepang mulai membentuk kesatuan-kesatuan semimiliter dan militer untuk dididik dan dilatih secara intensif di bidang militer .
-sentence 3: di indonesia ada beberapa kesatuan pertahanan yang dibentuk oleh pemerintah jepang , seperi berikut .
-sentence 4: a. kesatuan pertahanan semimiliter 1 ) seinendan ( barisan pemuda ) seinendan dibentuk pada tanggal 29 april 1943 .
-sentence 5: anggotanya terdiri atas para pemuda yang berusia antara 14 – 22 tahun .
-passage 16 score = 5.5
-sentence 1: anggotanya terdiri atas para pemuda yang berusia antara 14 – 22 tahun .
-sentence 2: mereka dididik militer agar dapat menjaga dan mempertahankan tanah airnya dengan kekuatan sendiri .
-sentence 3: akan tetapi , tujuan yang sebenarnya ialah mempersiapkan pemuda untuk dapat membantu jepang dalam menghadapi tentara sekutu dalam perang asia pasifik .
-sentence 4: 2 ) keibodan ( barisan pembantu polisi ) keibodan dibentuk pada tanggal 29 april 1943 .
-sentence 5: anggotanya terdiri atas para pemuda yang berusia 26 – 35 tahun dengan tugas , seperti menjaga lalu lintas , pengamanan desa , dan lain-lain .
-passage 17 score = 5.5
-sentence 1: anggotanya terdiri atas para pemuda yang berusia 26 – 35 tahun dengan tugas , seperti menjaga lalu lintas , pengamanan desa , dan lain-lain .
-sentence 2: barisan ini di sumatra disebut bogodan , sedangkan di kalimantan dikenal dengan nama borneo konan hokokudan .
-sentence 3: 3 ) fujinkai ( barisan wanita ) fujinkai dibentuk pada bulan agustus 1943 .
-sentence 4: anggotanya terdiri atas para wanita berusia 15 tahun ke atas .
-sentence 5: mereka juga diberikan latihan-latihan dasar militer dengan tugas untuk membantu jepang dalam perang .
-passage 25 score = 5.5
-sentence 1: wakil ketua : iciki penulis : mr. r. suwandi penulis ahli : mr.s .
-sentence 2: takdir alisjabana anggota : abas st. pamuntjak , mr. amir syarifuddin , armien pane di bidang sastra , pada zaman jepang juga berkembang baik .
-sentence 3: hasil karya sastra , seperti roman , sajak , lagu , lukisan , sandiwara , dan film .
-sentence 4: agar hasil karya sastra tidak menyimpang dari tujuan jepang , maka pada tanggal 1 april 19943 di jakarta didirikan pusat kebudayaan degan nama keimin bunko shidosho .
-sentence 5: hasil karya sastra yang terbit , seperti cinta tanah air karya nur sutan iskandar , palawija karya karim halim , angin fuji karya usmar ismail .
+sentence 1: hitler menjawab kesepakatan ini dengan mengadakan perjanjian jerman-rusia pada 23 agustus 1939 yang berisi kesepakatan non-agresi , dimana kedua negara tidak akan saling menyerang .
+sentence 2: jerman pada 1 septemer 1939 menyerang polandia .
+sentence 3: serangan yang dilancarkan jerman ini mengawali perang dunia ii di front eropa .
+sentence 4: untuk kawasan asia pasifik , sebab khusus yang mengawali perang dunia ii adalah penyerangan pangkalan angkatan laut amerika serikat di pearl harbour , hawaii oleh jepang pada 7 desember 1941 .
+sentence 5: penyerangan iini mengawali berkobarnya perang pasifik atau perang asia timur raya .
+passage 2 score = 6.333333333333333
+sentence 1: perancis dan inggris hanya mengamati tanpa ikut campur , karena kondisi ekonomi yang melanda mereka , namun akhirnya terlibat perang untuk menghentikan agresi jerman pada tahun 1939 .
+sentence 2: italia yang berperang bersama sekutu pada perang dunia i , merasa kecewa karena memperoleh bagian yang sedikit dalam perjanjian damai .
+sentence 3: pasca perang dunia i , di italia muncul konflik yang hampir berujung pada perang saudara .
+sentence 4: sebuah gerakan baru , yang dipimpin benito mussolini , fasisme , tumbuh di kota-kota .
+sentence 5: kaum fasis merupakan kumpulan pekerja yang menginginkan perubahan dan percaya pda kebanggaan nasional dan kepatuhan kepada pemimpinnya .
+passage 10 score = 6.333333333333333
+sentence 1: perlombaan senjata .
+sentence 2: usai perang dunia i , terutama negara yang kalah perang , membangun angkatan bersenjata dan teknologi perang , seperti yang dilakukan jerman di bawah kepemimpinan hitler jerman tidak mengakui lagi perjanjian versailles sebab khusus berdasarkan perjanjian versailles , wilayah prusia timur dipisahkan dari jerman dengan dibentuknya negara polandia ( jalan keluar jerman menuju laut ) .
+sentence 3: di tengah-tengah negara ini terletak kota danzig yang dituntut jerman karena penduduk wilayah itu berbangsa jerman .
+sentence 4: polandia sendiri menolak untuk menyerahkan wilayah tersebut bahkan kemudian mengadakan perjanjian dengan inggris , perancis , rumania dan yunani yang berisi saling menjamin kemerdekaan masing-masing negara .
+sentence 5: hitler menjawab kesepakatan ini dengan mengadakan perjanjian jerman-rusia pada 23 agustus 1939 yang berisi kesepakatan non-agresi , dimana kedua negara tidak akan saling menyerang .
+passage 4 score = 5.5
+sentence 1: pada awalnya mussolini bermusuhan dengan hitler karena takut akan invasi jerman ke austria , namun ketika akan menginvasi ethiopia pada 1935 , mussolini meminta bantuan hitler .
+sentence 2: pada tahun 1936 keduanya membuat pakta kerja sama poros roma berlin .
+sentence 3: pada masa kekaisaran hirohito , perindustrian jepang semakin berkembang dan kehidupan politik bertumpu dengan kuat pada pemerintahan parlementer .
+sentence 4: akan tetapi , kemunculan faktor-faktor baru pada masa itu dapat merusak dan menurunkan wibawa dan pengaruh parati-partai politik , antara lain kehidupan perekonomian bangsa jepang semakin tidak menentu .
+sentence 5: selain itu , kepercayaan rakyat terhadap partai politik semakin merosot karena bebeapa skandal terbuka di muka umum .
+passage 1 score = 5.0
+sentence 1: perang dunia ii tahun-tahun setelah perang dunia i usai ditandai dengan kerinduan akan perdamaian , sesuatu yang tidak bisa dijaga oleh liga bangsa-bangsa .
+sentence 2: beberapa negara mencoba-coba sistem pemerintahan baru , seperti komunisme yang jalankan di rusia ( uni soviet ) , nazisme yang dijalankan di jerman , dan fasisme yang dijalankan di italia dan spanyol , dimana para diktator memaksakan kekuasaanya pada semua aspek kehidupan , membungkam kelompok oposisi dengan menggunakan polisi rahasia yang brutal , siksaan dan kamp penjara .
+sentence 3: diktator jerman adolf hitler , pemimpin partai nazi jerman , berupaya untuk mendirikan kembali kekaisaran jerman .
+sentence 4: negara-negara kecil , seperti cekoslovakia dan austria , terancam oleh ekspansi jerman .
+sentence 5: perancis dan inggris hanya mengamati tanpa ikut campur , karena kondisi ekonomi yang melanda mereka , namun akhirnya terlibat perang untuk menghentikan agresi jerman pada tahun 1939 .
 passage 5 score = 5.0
-sentence 1: romusa mempunyai persamaan dengan kerja rodi/kerja paksa pada zaman hindia belanda , yakni kerja tanpa mendapatkan upah .
-sentence 2: memasuki tahun 1944 tuntutan kebutuhan pangan dan perang makin meningkat .
-sentence 3: pemerintah jepang mulai melancarkan kampanye pengerahan barang dan menambah bahan pangan secara besar-besaran yang dilakukan oleh jawa hokokai melalui nagyo kumiai ( koperasi pertanian ) , dan instansi pemerintah lainnya .
-sentence 4: pengerahan bahan makanan ini dilakukan dengan cara penyerahan padi atau hasil panen lainnya kepada pemerintah .
-sentence 5: dari jumlah hasil panen , rakyat hanya boleh memiliki 40 % , 30 % diserahkan kepada pemerintah , dan 30 % lagi diserahkan lumbung untuk persediaan bibit .
-passage 9 score = 5.0
-sentence 1: tugasnya menyiapkan tenaga sesuai dengan jatah yang ditetapkan .
-sentence 2: untuk menghilangkan ketakutan penduduk dan menutupi rahasia itu maka jepang menyebut para romusa dengan sebutan prajurit ekonomi atau pahlawan pekerja .
-sentence 3: menurut catatan sejarah , jumlah tenaga kerja yang dikirim ke luar jawa , bahkan ke luar negeri seperti ke burma , malaya , vietnam , dan mungthai/thailand mencapai 300.000 orang .
-sentence 4: pada bulan januari 1944 , jepang memperkenalkan sistem tonarigumi ( rukun tetangga ) .
-sentence 5: tonarigumi merupakan kelompok-kelompok yang masing-masing terdiri atas 10 – 20 rumah tangga .
-passage 10 score = 5.0
-sentence 1: tonarigumi merupakan kelompok-kelompok yang masing-masing terdiri atas 10 – 20 rumah tangga .
-sentence 2: maksud diadakannnya tonarigumi adalah untuk mengawasi penduduk , mengendalikan , dan memperlancar kewajiban yang dibebankan kepada mereka .
-sentence 3: dengan adanya perang yang makin mendesak maka tugas yang dilakukan tonarigumi adalah mengadakan latihan tentang pencegahan bahaya udara , kebakaran , pemberantasan kabar bohong , dan mata-mata musuh .
-sentence 4: 4 .
-sentence 5: dampak penjajahan jepang dalam birokrasi pada pertengahan tahun 1943 , kedudukan jepang dalam perang pasifik mulai terdesak , maka jepang memberi kesempatan kepada bangsa indonsia untuk turut mengambil bagian dalam pemerintahan negara .
+sentence 1: selain itu , kepercayaan rakyat terhadap partai politik semakin merosot karena bebeapa skandal terbuka di muka umum .
+sentence 2: keadaan ini dimanfaatkan oleh kaum ekstrimis dan kaum militer sehingga memperburuk keadaan jepang saat itu .
+sentence 3: bahkan , partai politik digabungkan dan rakyat dipaksa untuk berperang melawan cina .
+sentence 4: di cina , terutama di manchuria , jepang semakin menyebarkan pengaruhnya lewat perkembangan industri yang berbiaya mahal .
+sentence 5: pada tahun 1932 jepang medirikan republik manchukuo .
+passage 7 score = 1.3333333333333333
+sentence 1: tindakan jepang ini menjadikan asia sebagai medan pertempuran perang dunia ii .
+sentence 2: amerika serikat yang awalnya tidak ikut perang secara langsung mulai mengangkat senjata melawan blok axis bergabung bersama inggris dan perancis .
+sentence 3: salah satu faktor yang mendorong menjadi negara imperium adalah kebutuhan akan bahan baku industri dan daerah pemasaran hasil-hasil industri ; dan keinginan jepang menguasai dunia , sebagaimana yang dilakukan oleh negara-negara maju lainnya .
+sentence 4: tekad jepang ini dipengaruhi oleh ajaran shinto yang memandang dunia sebagai satu keluarga ( hakko ichi u ) .
+sentence 5: ajaran ini mengartikan bahwa dunia baru disusun sebagai satu keluarga , dengan jepang sebagai pemimpinnya .
+passage 8 score = 1.3333333333333333
+sentence 1: ajaran ini mengartikan bahwa dunia baru disusun sebagai satu keluarga , dengan jepang sebagai pemimpinnya .
+sentence 2: hal inilah yang melatar belakangi jepang melakukan ekspansi ke selatan .
+sentence 3: latar belakang terjadinya perang dunia ii pada hakikatnya faktor yang melatarbelakangi terjadinya perang dunia ii pembagiannya sama dengan faktor penyebab perang dunia i , yakni adanya sebab umum dan sebab khusus .
+sentence 4: sebab umum kegagalan liga bangsa-bangsa ( lbb ) dalam menjalankan tugas-tugasnya .
+sentence 5: lbb yang diharapkan mampu menjadi suatu lembaga yang dapat menciptakan perdamaian dunia , ternyata gagal menjalankan perannya dengan baik munculnya politik aliansi ( mencari kawan ) berkembangnya berbagai paham setelah perang dunia i telah menjadikan eropa membentuk persekutuan berdasarkan kepentingan ideologi yang berkembang di negara masing-masing .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok40.txt
-title : dampak penjajahan jepang dalam berbagai aspek kehidupan
-passage 11 score = 6.833333333333333
-sentence 1: dampak penjajahan jepang dalam birokrasi pada pertengahan tahun 1943 , kedudukan jepang dalam perang pasifik mulai terdesak , maka jepang memberi kesempatan kepada bangsa indonsia untuk turut mengambil bagian dalam pemerintahan negara .
-sentence 2: untuk itu pada tanggal 5 september 1943 , jepang membentuk badan pertimbangan karesidenan ( syu sangi kai ) dan badan pertimbangan kota praja istimewa ( syi sangi in ) .
-sentence 3: banyak orang indonesia yang menduduki jabatan-jabatan tinggi dalam pemerintahan , seperti prof. dr. husein jayadiningrat sebagai kepala departemen urusan agama ( 1 oktober 1943 ) dan pada tanggal 10 november 1943 sutardjo kartohadikusumo dan r.m.t.a. surio masing-masing diangkat menjadi kepala pemerintahan ( syikocan ) di jakarta dan banjarnegara .
-sentence 4: di samping itu , ada enam departemen ( bu ) dengan gelar sanyo , seperti berikut .
-sentence 5: a. ir .
-passage 18 score = 6.833333333333333
-sentence 1: mereka juga diberikan latihan-latihan dasar militer dengan tugas untuk membantu jepang dalam perang .
-sentence 2: 4 ) jibakutai ( barisan berani mati ) jibakutai dibentuk pada tanggal 8 desember 1944 .
-sentence 3: barisan ini rupanya mendapatkan inspirasi dari pilot kamikaze yang sanggup mengorbankan nyawanya dengan jalan menabrakkan pesawatnya kepada kapal perang musuh .
-sentence 4: b. kesatuan pertahanan militer 1 ) heiho ( pembantu prajurit jepang ) heiho adalah prajurit indonesia yang langsung ditempatkan di dalam organisasi militer jepang , baik angkatan darat maupun angkatan laut .
-sentence 5: mereka yang diterima menjadi anggota adalah yang memenuhi syarat , antara lain berbadan sehat , berkelakuan baik , berpendidikan terendah sd , dan berumur 18 – 25 tahun .
-passage 19 score = 6.833333333333333
-sentence 1: mereka yang diterima menjadi anggota adalah yang memenuhi syarat , antara lain berbadan sehat , berkelakuan baik , berpendidikan terendah sd , dan berumur 18 – 25 tahun .
-sentence 2: mereka dilatih kemiliteran secara lengkap dan setelah lulus dimasukkan ke dalam kesatuan militer jepang dan dikirim ke medan pertempuran , seperti ke kepulauan salomon , burma , dan malaya .
-sentence 3: 2 ) peta ( pembela tanah air ) peta dibentuk pada tanggal 3 oktober 1943 , dengan tugas mempertahankan tanah air .
-sentence 4: pembentukan peta ini atas permohonan gatot mangkuprojo kepada panglima tertinggi jepang letjen kumakichi harada tanggal 7 september 1943 .
-sentence 5: untuk menjadi anggota peta para pemuda dididik di bidang militer secara khusus di tangerang , di bawah pimpinan letnan yamagawa .
-passage 15 score = 5.5
-sentence 1: jepang menyadari bahwa untuk kepentingan perang perlu dukungan dari penduduk masing-masing daerah yang didudukinya .
-sentence 2: itulah sebabnya , jepang mulai membentuk kesatuan-kesatuan semimiliter dan militer untuk dididik dan dilatih secara intensif di bidang militer .
-sentence 3: di indonesia ada beberapa kesatuan pertahanan yang dibentuk oleh pemerintah jepang , seperi berikut .
-sentence 4: a. kesatuan pertahanan semimiliter 1 ) seinendan ( barisan pemuda ) seinendan dibentuk pada tanggal 29 april 1943 .
-sentence 5: anggotanya terdiri atas para pemuda yang berusia antara 14 – 22 tahun .
-passage 16 score = 5.5
-sentence 1: anggotanya terdiri atas para pemuda yang berusia antara 14 – 22 tahun .
-sentence 2: mereka dididik militer agar dapat menjaga dan mempertahankan tanah airnya dengan kekuatan sendiri .
-sentence 3: akan tetapi , tujuan yang sebenarnya ialah mempersiapkan pemuda untuk dapat membantu jepang dalam menghadapi tentara sekutu dalam perang asia pasifik .
-sentence 4: 2 ) keibodan ( barisan pembantu polisi ) keibodan dibentuk pada tanggal 29 april 1943 .
-sentence 5: anggotanya terdiri atas para pemuda yang berusia 26 – 35 tahun dengan tugas , seperti menjaga lalu lintas , pengamanan desa , dan lain-lain .
-passage 17 score = 5.5
-sentence 1: anggotanya terdiri atas para pemuda yang berusia 26 – 35 tahun dengan tugas , seperti menjaga lalu lintas , pengamanan desa , dan lain-lain .
-sentence 2: barisan ini di sumatra disebut bogodan , sedangkan di kalimantan dikenal dengan nama borneo konan hokokudan .
-sentence 3: 3 ) fujinkai ( barisan wanita ) fujinkai dibentuk pada bulan agustus 1943 .
-sentence 4: anggotanya terdiri atas para wanita berusia 15 tahun ke atas .
-sentence 5: mereka juga diberikan latihan-latihan dasar militer dengan tugas untuk membantu jepang dalam perang .
-passage 25 score = 5.5
-sentence 1: wakil ketua : iciki penulis : mr. r. suwandi penulis ahli : mr.s .
-sentence 2: takdir alisjabana anggota : abas st. pamuntjak , mr. amir syarifuddin , armien pane di bidang sastra , pada zaman jepang juga berkembang baik .
-sentence 3: hasil karya sastra , seperti roman , sajak , lagu , lukisan , sandiwara , dan film .
-sentence 4: agar hasil karya sastra tidak menyimpang dari tujuan jepang , maka pada tanggal 1 april 19943 di jakarta didirikan pusat kebudayaan degan nama keimin bunko shidosho .
-sentence 5: hasil karya sastra yang terbit , seperti cinta tanah air karya nur sutan iskandar , palawija karya karim halim , angin fuji karya usmar ismail .
-passage 5 score = 5.0
-sentence 1: romusa mempunyai persamaan dengan kerja rodi/kerja paksa pada zaman hindia belanda , yakni kerja tanpa mendapatkan upah .
-sentence 2: memasuki tahun 1944 tuntutan kebutuhan pangan dan perang makin meningkat .
-sentence 3: pemerintah jepang mulai melancarkan kampanye pengerahan barang dan menambah bahan pangan secara besar-besaran yang dilakukan oleh jawa hokokai melalui nagyo kumiai ( koperasi pertanian ) , dan instansi pemerintah lainnya .
-sentence 4: pengerahan bahan makanan ini dilakukan dengan cara penyerahan padi atau hasil panen lainnya kepada pemerintah .
-sentence 5: dari jumlah hasil panen , rakyat hanya boleh memiliki 40 % , 30 % diserahkan kepada pemerintah , dan 30 % lagi diserahkan lumbung untuk persediaan bibit .
-passage 9 score = 5.0
-sentence 1: tugasnya menyiapkan tenaga sesuai dengan jatah yang ditetapkan .
-sentence 2: untuk menghilangkan ketakutan penduduk dan menutupi rahasia itu maka jepang menyebut para romusa dengan sebutan prajurit ekonomi atau pahlawan pekerja .
-sentence 3: menurut catatan sejarah , jumlah tenaga kerja yang dikirim ke luar jawa , bahkan ke luar negeri seperti ke burma , malaya , vietnam , dan mungthai/thailand mencapai 300.000 orang .
-sentence 4: pada bulan januari 1944 , jepang memperkenalkan sistem tonarigumi ( rukun tetangga ) .
-sentence 5: tonarigumi merupakan kelompok-kelompok yang masing-masing terdiri atas 10 – 20 rumah tangga .
-passage 10 score = 5.0
-sentence 1: tonarigumi merupakan kelompok-kelompok yang masing-masing terdiri atas 10 – 20 rumah tangga .
-sentence 2: maksud diadakannnya tonarigumi adalah untuk mengawasi penduduk , mengendalikan , dan memperlancar kewajiban yang dibebankan kepada mereka .
-sentence 3: dengan adanya perang yang makin mendesak maka tugas yang dilakukan tonarigumi adalah mengadakan latihan tentang pencegahan bahaya udara , kebakaran , pemberantasan kabar bohong , dan mata-mata musuh .
-sentence 4: 4 .
-sentence 5: dampak penjajahan jepang dalam birokrasi pada pertengahan tahun 1943 , kedudukan jepang dalam perang pasifik mulai terdesak , maka jepang memberi kesempatan kepada bangsa indonsia untuk turut mengambil bagian dalam pemerintahan negara .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok252.txt
-title : biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia
-passage 1 score = 5.5
-sentence 1: biografi syahruddin tokoh pemberitaan proklamasi kemerdekaan indonesia - syahruddin dalah seorang telegraphis pada kantor berita jepang ( domei ) yang mengabarkan berita proklamasi kemerdekaan negara indonesia ke seluruh dunia secara sembunyi-sembunyi ketika personil jepang istirahat pada tanggal 17 agustus 1945 jam 4 sore .
-sentence 2: tanpa jasa syahruddin , maka niscaya berita proklamasi tidak akan cepat disebarluaskan .
-sentence 3: jumat , 17 agustus 1945 , sekitar jam 17:30 wib .
-sentence 4: saat itu pak jusuf sedang berada di kantornya , hoso kyoku ( radio militer jepang di jakarta ) .
-sentence 5: tiba-tiba muncullah syahruddin , seorang pewarta dari kantor berita jepang domei dengan tergesa-gesa .
-passage 3 score = 5.0
-sentence 1: masalahnya , semua studio radio hoso kyoku sudah di jaga ketat sejak beberapa hari sebelumnya , tepatnya sehari setelah hiroshima dan nagasaki di bom oleh amerika .
-sentence 2: jusuf kemudian berunding dengan rekan-rekannya , diantaranya bachtiar lubis ( kakak dari sastrawan dan tokoh pers indonesia mochtar lubis ) dan joe saragih , seorang teknisi radio .
-sentence 3: beruntung , studio siaran luar negeri tidak dijaga .
-sentence 4: saat itu juga dengan bantuan joe , kabel di studio siaran dalam negeri di lepas dan disambungkan ke studio siaran luar negeri .
-sentence 5: tepat pukul 19:00 wib selama kurang lebh 15 menit jusuf pun membacakan kabar tentang proklamasi di udara , sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang jepang .
-passage 4 score = 5.0
-sentence 1: tepat pukul 19:00 wib selama kurang lebh 15 menit jusuf pun membacakan kabar tentang proklamasi di udara , sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang jepang .
-sentence 2: belakangan tentara jepang mengetahui akal bulus jusuf dan kawan-kawannya .
-sentence 3: mereka pun sempat disiksa .
-sentence 4: beruntung mereka selamat .
-sentence 5: malam itu pun radio hoso kyoku resmi dinyatakan bubar , tetapi dunia saat itu juga sudah mengetahui kabar tentang proklamasi langsung dari mulut jusuf ronodipuro .
-passage 2 score = 0.0
-sentence 1: tiba-tiba muncullah syahruddin , seorang pewarta dari kantor berita jepang domei dengan tergesa-gesa .
-sentence 2: ( catatan : pak jusuf sempat meralat kebenaran berita bahwa yang datang itu adalah sejarawan des alwi ) .
-sentence 3: syahruddin yang masuk ke kantor hoso kyoku dengan melompati pagar itu menyerahkan selembar kertas dari adam malik yang isinya “ harap berita terlampir disiarkan ” .
-sentence 4: berita yang dimaksud adalah naskah proklamasi yang telah dibacakan bung karno jam 10 pagi .
-sentence 5: masalahnya , semua studio radio hoso kyoku sudah di jaga ketat sejak beberapa hari sebelumnya , tepatnya sehari setelah hiroshima dan nagasaki di bom oleh amerika .
-passage 5 score = 0.0
-sentence 1: malam itu pun radio hoso kyoku resmi dinyatakan bubar , tetapi dunia saat itu juga sudah mengetahui kabar tentang proklamasi langsung dari mulut jusuf ronodipuro .
-sentence 2: sayang rekaman suara ini tidak diketahui lagi keberadaannya , atau jangan-jangan sudah tidak ada mengingat malam itu juga radio tersebut ditutup oleh jepang .
-sentence 3: [ gs ]
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok189.txt
-title : dampak pendudukan jepang di indonesia
-passage 15 score = 6.833333333333333
-sentence 1: mengenai seni musik , komponis c. simandjuntak berhasil menciptakan lagu tumpah darahku dan maju putra-putri indonesia .
-sentence 2: birokrasi dan militer pada pertengahan tahun 1943 , kedudukan jepang dalam perang pasifik mulai terdesak , maka jepang memberi kesempatan kepada bangsa indonsia untuk turut mengambil bagian dalam pemerintahan negara .
-sentence 3: untuk itu pada tanggal 5 september 1943 , jepang membentuk badan pertimbangan karesidenan ( syu sangi kai ) dan badan pertimbangan kota praja istimewa ( syi sangi in ) .
-sentence 4: banyak orang indonesia yang menduduki jabatan-jabatan tinggi dalam pemerintahan , seperti prof. dr. husein jayadiningrat sebagai kepala departemen urusan agama ( 1 oktober 1943 ) dan pada tanggal 10 november 1943 sutardjo kartohadikusumo dan r.m.t.a. surio masing-masing diangkat menjadi kepala pemerintahan ( syikocan ) di jakarta dan banjarnegara .
-sentence 5: di samping itu , ada enam departemen ( bu ) dengan gelar sanyo , seperti berikut .
-passage 1 score = 5.5
-sentence 1: dampak pendudukan jepang di indonesia bidang politik kebijakan pertama yang dilakukan dai nippon ( pemerintah militer jepang ) adalah melarang semua rapat dan kegiatan politik .
-sentence 2: pada tanggal20 maret 1942 , dikeluarkan peraturan yang membubarkan semua organisasi politik dan semua bentuk perkumpulan .
-sentence 3: pada tanggal 8 september 1942 dikeluarkan uu no. 2 jepang mengendalikan seluruh organisasi nasional .
-sentence 4: selain itu , jepangpun melakukan propaganda untuk menarik simpati bangsa indonesia dengan cara : menganggap jepang sebagai saudara tua bangsa asia ( hakko ichiu ) ; melancarkan semboyan 3a ( jepang pemimpin , jepang cahaya dan jepang pelindung asia ) ; melancarkan simpati lewat pendidikan berbentuk beasiswa pelajar ; menarik simpati umat islam untuk pergi haji ; menarik simpati organisasi islam miai ; melancarkan politik dumping .
-sentence 5: mengajak untuk bergabung tokoh-tokoh perjuangan nasional seperti : ir .
-passage 13 score = 5.5
-sentence 1: bahasa indonesia adalah salah satu unsur kebudayaan sehingga dengan digunakannya bahasa indonesia secara luas akan mendukung perkembangan kebudayaan indonesia .
-sentence 2: pada tanggal 20 oktober 1943 atas desakan dari beberapa tokoh indonesia didirikanlah komisi ( penyempurnaan ) bahasa indonesia .
-sentence 3: tugas komisi adalah menentukan terminologi , yaitu istilah-istilah modern dan menyusun suatu tata bahasa normatif dan menentukan kata-kata yang umum bagi bahasa indonesia .
-sentence 4: di bidang sastra , pada zaman jepang juga berkembang baik .
-sentence 5: hasil karya sastra , seperti roman , sajak , lagu , lukisan , sandiwara , dan film .
-passage 5 score = 5.0
-sentence 1: autarki , artinya setiap wilayah harus mencukupi kebutuhan sendiri dan juga harus dapat menunjang kebutuhan perang .
-sentence 2: romusa mempunyai persamaan dengan kerja rodi/kerja paksa pada zaman hindia belanda , yakni kerja tanpa mendapatkan upah .
-sentence 3: memasuki tahun 1944 tuntutan kebutuhan pangan dan perang makin meningkat .
-sentence 4: pemerintah jepang mulai melancarkan kampanye pengerahan barang dan menambah bahan pangan secara besar-besaran yang dilakukan oleh jawa hokokai melalui nagyo kumiai ( koperasi pertanian ) , dan instansi pemerintah lainnya .
-sentence 5: pengerahan bahan makanan ini dilakukan dengan cara penyerahan padi atau hasil panen lainnya kepada pemerintah .
-passage 9 score = 5.0
-sentence 1: tugasnya menyiapkan tenaga sesuai dengan jatah yang ditetapkan .
-sentence 2: untuk menghilangkan ketakutan penduduk dan menutupi rahasia itu maka jepang menyebut para romusa dengan sebutan prajurit ekonomi atau pahlawan pekerja .
-sentence 3: menurut catatan sejarah , jumlah tenaga kerja yang dikirim ke luar jawa , bahkan ke luar negeri seperti ke burma , malaya , vietnam , dan mungthai/thailand mencapai 300.000 orang .
-sentence 4: pada bulan januari 1944 , jepang memperkenalkan sistem tonarigumi ( rukun tetangga ) .
-sentence 5: tonarigumi merupakan kelompok-kelompok yang masing-masing terdiri atas 10 – 20 rumah tangga .
-passage 14 score = 5.0
-sentence 1: hasil karya sastra , seperti roman , sajak , lagu , lukisan , sandiwara , dan film .
-sentence 2: agar hasil karya sastra tidak menyimpang dari tujuan jepang , maka pada tanggal 1 april 19943 di jakarta didirikan pusat kebudayaan degan nama keimin bunko shidosho .
-sentence 3: hasil karya sastra yang terbit , seperti cinta tanah air karya nur sutan iskandar , palawija karya karim halim , angin fuji karya usmar ismail .
-sentence 4: gubahan untuk drama , seperti api dan cintra karya usman ismail ; topan di atas asia dan intelek istimewa karya el hakim ( dr. abu hanifah ) .
-sentence 5: mengenai seni musik , komponis c. simandjuntak berhasil menciptakan lagu tumpah darahku dan maju putra-putri indonesia .
-passage 17 score = 5.0
-sentence 1: dengan demikian masa pendudukan jepang di indonesia membawa dampak yang sangat besar dalam birokrasi pemerintahan .
-sentence 2: situasi perang asia pasifik pada awal tahun 1943 mulai berubah .
-sentence 3: sikap ofensif jepang beralih ke defensif .
-sentence 4: jepang menyadari bahwa untuk kepentingan perang perlu dukungan dari penduduk masing-masing daerah yang didudukinya .
-sentence 5: itulah sebabnya , jepang mulai membentuk kesatuan-kesatuan semimiliter dan militer untuk dididik dan dilatih secara intensif di bidang militer .
-passage 3 score = 1.3333333333333333
-sentence 1: penerapan sistem autarki ( daerah yang harus memenuhi kebutuhan sendiri dan kebutuhan perang ) .
-sentence 2: sistem ini diterapkan di setiap wilayah ekonomi .
-sentence 3: contoh jawa menjadi 17 daerah , sumatera 3 daerah , dan meinsefu ( daerah yang diperintah angkatan laut ) 3 daerah .
-sentence 4: keadaan sosial budaya dan ekonomi jepang berusaha untuk mendapatkan dan menguasai sumber-sumber bahan mentah untuk industri perang .
-sentence 5: jepang membagi rencananya dalam dua tahap .
-passage 10 score = 1.3333333333333333
-sentence 1: tonarigumi merupakan kelompok-kelompok yang masing-masing terdiri atas 10 – 20 rumah tangga .
-sentence 2: maksud diadakannnya tonarigumi adalah untuk mengawasi penduduk , mengendalikan , dan memperlancar kewajiban yang dibebankan kepada mereka .
-sentence 3: dengan adanya perang yang makin mendesak maka tugas yang dilakukan tonarigumi adalah mengadakan latihan tentang pencegahan bahaya udara , kebakaran , pemberantasan kabar bohong , dan mata-mata musuh .
-sentence 4: pendidikan zaman pendudukan jepang , pendidikan di indonesia mengalami kemerosotan drastis , jika dibandingkan zaman hindia belanda .
-sentence 5: jumlah sekolah dasar ( sd ) menurun dari 21.500 menjadi 13.500 dansekolah menengah dari 850 menjadi 20 .
-passage 11 score = 1.3333333333333333
-sentence 1: jumlah sekolah dasar ( sd ) menurun dari 21.500 menjadi 13.500 dansekolah menengah dari 850 menjadi 20 .
-sentence 2: oleh jepang sekolah-sekolah dan perguruan-perguruan dijadikan tempat indoktrinasi .
-sentence 3: melalui pendidikan dibentuk kader-kader untuk memelopori dan melaksanakan konsepsi kemakmuran bersama asia timur raya .
-sentence 4: sistem pengajaran dan struktur kurikulum ditujukan untuk keperluan perang asia pasifik .
-sentence 5: bahasa indonesia sebagai bahasa pengantar digunakan di semua sekolah dan dianggap sebagai mata pelajaran utama , sedangkan bahasa jepang diberikan sebagai mata pelajaran wajib .
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok135.txt
+title : perkembangan nasionalisme turki
+passage 4 score = 6.833333333333333
+sentence 1: 3 ) timbulnya kaum terpelajar yang berpaham modern sehingga mereka mengetahui apa itu liberalisme , nasionalisme , dan demokrasi .
+sentence 2: 4 ) kiegiatan bangsa barat yang semakin gencar untuk merebut daerah-daerah jajahan turki dan siap menghancurkan turki .
+sentence 3: dalam situasi demikian itulah , akhirnya mendorong timbulnya semangat nasionalisme terutama di kalangan tokoh-tokoh muda untuk mengadakan pembaharuan di segala bidang .
+sentence 4: tokohnya , antara lain kemal pasha , midhat pasha , rasjid pasha , dan ali pasha .
+sentence 5: pada tahun 1906 , dibawah pimpinan kemal pasha berdirilah perkumpulan tanah air dan kemerdekaan dan pada tahun l908 tumbuh menjadi gerakan turki muda .
+passage 5 score = 6.833333333333333
+sentence 1: pada tahun 1906 , dibawah pimpinan kemal pasha berdirilah perkumpulan tanah air dan kemerdekaan dan pada tahun l908 tumbuh menjadi gerakan turki muda .
+sentence 2: 1 ) menyelamatkan turki dari keruntuhan total ; 2 ) menanamkan semangat nasionalisme di kalangan rakyat ; 3 ) mengadakan perbaikan sosial , ekonomi dan budaya ; 4 ) mengadakan pembaharuan organisasi pemerintahan .
+sentence 3: d. turki dalam perang dunia i selama perang dunia i , pemerintah turki didominasi oleh gerakan turki muda .
+sentence 4: dalam perang dunia i , turki memihak kepada jerman ( sentral ) dan ikut serta membendung serangan rusia , inggris , dan prancis ke laut tengah .
+sentence 5: sekutu menyerang dardanella , tetapi dapat digagalkan oleh mustafa kemal pasha dalam pe-tempuran di gallipoli .
+passage 7 score = 6.833333333333333
+sentence 1: akan tetapi , pemimpin turki muda tidak mau menyerah begitu saja .
+sentence 2: tampillah the strong man turki , yakni mustafa kemal pasha yang menentang sekutu dan tidak mau mengakui perjanjian sevres yang dibuat dengan sultan .
+sentence 3: ia memimpin gerakan revolusi dan berhasil menurunkan sultan muhammad v dari takhtanya ( 1 november 1923 ) .
+sentence 4: selanjutnya , ia memperbarui perjanjian sevres dengan perjanjian lausanne yang isinya tidak begitu merugikan turki .
+sentence 5: tepat pada tanggal 29 oktober 1923 secara resmi diumumkan proklamasi kemerdekaan turki .
+passage 6 score = 6.666666666666667
+sentence 1: sekutu menyerang dardanella , tetapi dapat digagalkan oleh mustafa kemal pasha dalam pe-tempuran di gallipoli .
+sentence 2: itulah sebabnya , mustafa kemal pasha disebut pahlawan gallipoli .
+sentence 3: sejak itulah sekutu tidak berani menerobos dardanella .
+sentence 4: perang dunia i berakhir dengan kekalahan di pihak blok sentral , sehingga terjadilah perjanjian sevres ( 20 agustus 1920 ) antara sekutu dan turki .
+sentence 5: akan tetapi , pemimpin turki muda tidak mau menyerah begitu saja .
+passage 1 score = 6.333333333333333
+sentence 1: perkembangan nasionalisme turki a. kemunduran turki usmani kerajaan turki usmani yang pernah mencapai puncak kejayaannya pada abad ke-19 terus mengalami kemunduran sampai akhirnya mendapat julukan the sick man .
+sentence 2: hal ini disebabkan oleh berikut ini .
+sentence 3: 1 ) tidak ada lagi sultan-sultan yang kuat dan besar .
+sentence 4: 2 ) intrik-intrik dalam istana semakin merajalela .
+sentence 5: 3 ) tentara janisari yang terkenal telah merosot martabatnya menjadi pengacau kerajaan daripada pembela kerajaan .
+passage 8 score = 6.333333333333333
+sentence 1: tepat pada tanggal 29 oktober 1923 secara resmi diumumkan proklamasi kemerdekaan turki .
+sentence 2: sejak itu kerajaan turki usmani yang ortodok dihapuskan dan digantikan dengan republik turki yang modern .
+sentence 3: ankara dijadikan sebagai ibu kotanya .
+sentence 4: sebagai presiden pertama ialah mustafa kemal pasha atau disebut juga kemal pasha attaturk ( bapak bangsa turki ) .
+sentence 5: ismet pasha atau ismet inonu sebagai perdana menterinya .
+passage 2 score = 1.3333333333333333
+sentence 1: 3 ) tentara janisari yang terkenal telah merosot martabatnya menjadi pengacau kerajaan daripada pembela kerajaan .
+sentence 2: 4 ) pemerintahan yang lemah dan kacau mengakibatkan adanya krisis gezag sehingga negara-negara bagian berani mengadakan pemberontakan untuk melepaskan diri dari turki .
+sentence 3: 5 ) revolusi prancis mengilhami negara-negara bagian untuk merdeka ( seperti , yunani , bulgaria , serbia , rumania , dan mesir ) .
+sentence 4: b. masalah timur kelemahan turki kemudian dimanfaatkan oleh negara-negara imperialisme barat untuk menguasai jajahan turki atau menghancurkan turki sekaligus .
+sentence 5: adanya perbenturan kepentingan antara negar - negara barat mengenai status turki dan daerah jajahan inilah yang menimbulkan “ masalah timur ” ( the eastren question ) .
+passage 3 score = 0.0
+sentence 1: adanya perbenturan kepentingan antara negar - negara barat mengenai status turki dan daerah jajahan inilah yang menimbulkan “ masalah timur ” ( the eastren question ) .
+sentence 2: c. timbulnya nasionalisme turki sebab-sebab timbulnya nasionalisme turki adalah sebagai berikut .
+sentence 3: 1 ) kekuasaan turki usmani yang semakin merosot .
+sentence 4: 2 ) adanya pengaruh dari revolusi prancis dengan semboyannya liberte , egalite , dan fraternite .
+sentence 5: 3 ) timbulnya kaum terpelajar yang berpaham modern sehingga mereka mengetahui apa itu liberalisme , nasionalisme , dan demokrasi .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 12 score = 8.5
 sentence 1: dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di maluku ( 1521 ) .
@@ -691,7 +704,7 @@ sentence 3: sebaliknya , kedatangan spanyol di maluku bagi portugis merupakan pe
 sentence 4: oleh karena itu , timbullah persaingan antara portugis dan spanyol .
 sentence 5: sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( 22 april 1529 ) yang isinya sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 12 score = 8.5
 sentence 1: dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di maluku ( 1521 ) .
@@ -700,7 +713,25 @@ sentence 3: sebaliknya , kedatangan spanyol di maluku bagi portugis merupakan pe
 sentence 4: oleh karena itu , timbullah persaingan antara portugis dan spanyol .
 sentence 5: sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( 22 april 1529 ) yang isinya sebagai berikut .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+title : perkembangan kolonialisme di indonesia
+passage 7 score = 8.166666666666668
+sentence 1: di filipina ( pulau cebu ) , magelhaens tewas terbunuh oleh suku mactan .
+sentence 2: juan sebastian del cano .
+sentence 3: pada tahun 1522 ia sampai di maluku , tetapi kedatangan mereka itu telah menimbulkan pertentangan antara spanyol dan portugis yang kedua-keduanya saling menuduh telah melanggar perjanjian tordesillas , yaitu perjanjian antara bangsa portugis dan spanyol yang mengakhiri peperangan selama puluhan tahun antara kedua negara yang bertikai di eropa untuk memperebutkan daerah jajahan .
+sentence 4: perjanjian ini diprakarsai oleh paus paulus yang membagi rute pelayaran spanyol ke timur dan portugis ke arah barat ) .
+sentence 5: pertentangan di antara mereka berakhir setelah ditandatanganinya perjanjian saragosa ( 1534 ) di indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+title : perkembangan kolonialisme di indonesia
+passage 19 score = 8.166666666666668
+sentence 1: belanda tidak segan-segan menggunakan kekerasan untuk mengusir inggris dari indonesia .
+sentence 2: setelah terjadi peristiwa ambon massacre , eic mengundurkan diri dari indonesia dan mengarahkan perhatiannya ke daerah lainnya di asia tenggara , seperti singapura , malaysia , dan brunei sampai memperoleh kesuksesan .
+sentence 3: inggris kembali berkuasa di indonesia melalui keberhasilannya memenangkan perjanjian tuntang pada tahun 1811 .
+sentence 4: selama lima tahun ( 1811-1816 ) , inggris memegang pemerintahan dan kekuasaannya di indonesia .
+sentence 5: selengkapnya di kekuasaan inggris di indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 9 score = 8.166666666666668
 sentence 1: pada tahun 1522 portugis datang ke pajajaran di bawah pimpinan henry leme dan disambut baik oleh pajajaran dengan maksud agar portugis mau membantu dalam menghadapi ekspansi demak .
@@ -709,7 +740,7 @@ sentence 3: 1 ) portugis diijinkan mendirikan benteng di sunda kelapa .
 sentence 4: 2 ) pajajaran akan menerima barang-barang yang dibutuhkan dari portugis termasuk senjata .
 sentence 5: 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 10 score = 8.166666666666668
 sentence 1: 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
@@ -718,7 +749,7 @@ sentence 3: pertempuran berakhir dan namanya diganti menjadi jayakarta , artinya
 sentence 4: b. masuknya bangsa spanyol ke indonesia kedatangan bangsa portugis sampai di indonesia ( maluku ) segera diikuti oleh bangsa spanyol .
 sentence 5: ekspedisi bangsa spanyol di bawah pimpinan magelhaen , pada tanggal 7 april 1521 telah sampai di pulau cebu .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 9 score = 8.166666666666668
 sentence 1: pada tahun 1522 portugis datang ke pajajaran di bawah pimpinan henry leme dan disambut baik oleh pajajaran dengan maksud agar portugis mau membantu dalam menghadapi ekspansi demak .
@@ -727,7 +758,7 @@ sentence 3: 1 ) portugis diijinkan mendirikan benteng di sunda kelapa .
 sentence 4: 2 ) pajajaran akan menerima barang-barang yang dibutuhkan dari portugis termasuk senjata .
 sentence 5: 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 10 score = 8.166666666666668
 sentence 1: 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
@@ -736,7 +767,7 @@ sentence 3: pertempuran berakhir dan namanya diganti menjadi jayakarta , artinya
 sentence 4: b. masuknya bangsa spanyol ke indonesia kedatangan bangsa portugis sampai di indonesia ( maluku ) segera diikuti oleh bangsa spanyol .
 sentence 5: ekspedisi bangsa spanyol di bawah pimpinan magelhaen , pada tanggal 7 april 1521 telah sampai di pulau cebu .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 13 score = 8.0
 sentence 1: sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( 22 april 1529 ) yang isinya sebagai berikut .
@@ -745,7 +776,7 @@ sentence 3: 2 ) portugis tetap melakukan aktivitas perdagangan di maluku .
 sentence 4: c. masuknya bangsa belanda ke indonesia sebelum datang ke indonesia , para pedagang belanda membeli rempah-rempah di lisabon ( ibu kota portugis ) .
 sentence 5: pada waktu itu belanda masih berada di bawah penjajahan spanyol .
 
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 passage 13 score = 8.0
 sentence 1: sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( 22 april 1529 ) yang isinya sebagai berikut .
@@ -753,24 +784,6 @@ sentence 2: 1 ) spanyol harus meninggalkan maluku , dan memusatkan kegiatannya d
 sentence 3: 2 ) portugis tetap melakukan aktivitas perdagangan di maluku .
 sentence 4: c. masuknya bangsa belanda ke indonesia sebelum datang ke indonesia , para pedagang belanda membeli rempah-rempah di lisabon ( ibu kota portugis ) .
 sentence 5: pada waktu itu belanda masih berada di bawah penjajahan spanyol .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
-passage 14 score = 7.833333333333333
-sentence 1: f. mesin uap , ciptaan james watt ( 1769 ) .
-sentence 2: dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( 1804 ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang .
-sentence 3: kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( 1814 ) .
-sentence 4: mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' .
-sentence 5: penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
-
-document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
-passage 14 score = 7.833333333333333
-sentence 1: f. mesin uap , ciptaan james watt ( 1769 ) .
-sentence 2: dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( 1804 ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang .
-sentence 3: kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( 1814 ) .
-sentence 4: mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' .
-sentence 5: penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
 
 
 Pencarian jawaban
@@ -780,7 +793,7 @@ Pencarian jawaban
 dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di <LOCATION>maluku</LOCATION> ( <TIME>1521</TIME> ) . kedatangan bangsa spanyol ini diterima baik oleh sultan tidore yang saat itu sedang bermusuhan dengan portugis . sebaliknya , kedatangan spanyol di maluku bagi <PERSON>portugis</PERSON> merupakan pelanggaran atas " hak monopoli " . oleh karena itu , timbullah persaingan antara portugis dan spanyol . sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( <TIME>22 april 1529</TIME> ) yang isinya sebagai berikut .
 
 memproses passage 12
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 list jawaban dan posisi dalam passage
 1521 | position = 5
@@ -919,7 +932,7 @@ tokenwithtagstemmed = ikut
 dengan melewati kepulauan cagayan dan mindanao akhirnya sampai di <LOCATION>maluku</LOCATION> ( <TIME>1521</TIME> ) . kedatangan bangsa spanyol ini diterima baik oleh sultan tidore yang saat itu sedang bermusuhan dengan portugis . sebaliknya , kedatangan spanyol di maluku bagi <PERSON>portugis</PERSON> merupakan pelanggaran atas " hak monopoli " . oleh karena itu , timbullah persaingan antara portugis dan spanyol . sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( <TIME>22 april 1529</TIME> ) yang isinya sebagai berikut .
 
 memproses passage 12
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 list jawaban dan posisi dalam passage
 1521 | position = 5
@@ -1055,10 +1068,389 @@ tokenwithtagstemmed = isi
 tokenwithtagstemmed = ikut
 
 
+di <LOCATION>filipina</LOCATION> ( pulau cebu ) , magelhaens tewas terbunuh oleh suku mactan . juan sebastian del cano . pada <TIME>tahun 1522</TIME> ia sampai di <LOCATION>maluku</LOCATION> , tetapi kedatangan mereka itu telah menimbulkan pertentangan antara spanyol dan portugis yang kedua-keduanya saling menuduh telah melanggar perjanjian tordesillas , yaitu perjanjian antara <PERSON>bangsa portugis</PERSON> dan spanyol yang mengakhiri peperangan selama puluhan tahun antara kedua negara yang bertikai di eropa untuk memperebutkan daerah jajahan . perjanjian ini diprakarsai oleh <PERSON>paus paulus</PERSON> yang membagi rute pelayaran spanyol ke timur dan portugis ke arah barat ) . pertentangan di antara mereka berakhir setelah ditandatanganinya perjanjian saragosa ( <TIME>1534</TIME> ) di <LOCATION>indonesia .</LOCATION>
+
+memproses passage 7
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+title : perkembangan kolonialisme di indonesia
+list jawaban dan posisi dalam passage
+tahun 1522 | position = 12
+1534 | position = 56
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = cebu
+tokenwithtagstemmed = magelhaens
+tokenwithtagstemmed = tewas
+tokenwithtagstemmed = bunuh
+tokenwithtagstemmed = suku
+tokenwithtagstemmed = mactan
+tokenwithtagstemmed = juan
+tokenwithtagstemmed = sebastian
+tokenwithtagstemmed = del
+tokenwithtagstemmed = cano
+tokenwithtagstemmed = tahun 1522
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = portugis
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tuduh
+tokenwithtagstemmed = langgar
+tokenwithtagstemmed = janji
+posisi dalam passage = 23
+jarak dengan tiap kandidat jawaban:
+tahun 1522 -11
+1534 33
+
+tokenwithtagstemmed = tordesillas
+tokenwithtagstemmed = janji
+posisi dalam passage = 25
+jarak dengan tiap kandidat jawaban:
+tahun 1522 -13
+1534 31
+
+tokenwithtagstemmed = bangsa portugis
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = peperangan
+tokenwithtagstemmed = puluh
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = tika
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = jajah
+tokenwithtagstemmed = janji
+posisi dalam passage = 40
+jarak dengan tiap kandidat jawaban:
+tahun 1522 -28
+1534 16
+
+tokenwithtagstemmed = prakarsa
+tokenwithtagstemmed = paus paulus
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = rute
+tokenwithtagstemmed = layar
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = portugis
+tokenwithtagstemmed = arah
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = ditandatanganinya
+tokenwithtagstemmed = janji
+posisi dalam passage = 54
+jarak dengan tiap kandidat jawaban:
+tahun 1522 -42
+1534 2
+
+tokenwithtagstemmed = saragosa
+tokenwithtagstemmed = 1534
+tokenwithtagstemmed = indonesia
+kata kunci = saragosa
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = cebu
+tokenwithtagstemmed = magelhaens
+tokenwithtagstemmed = tewas
+tokenwithtagstemmed = bunuh
+tokenwithtagstemmed = suku
+tokenwithtagstemmed = mactan
+tokenwithtagstemmed = juan
+tokenwithtagstemmed = sebastian
+tokenwithtagstemmed = del
+tokenwithtagstemmed = cano
+tokenwithtagstemmed = tahun 1522
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = portugis
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tuduh
+tokenwithtagstemmed = langgar
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = tordesillas
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = bangsa portugis
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = peperangan
+tokenwithtagstemmed = puluh
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = tika
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = jajah
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = prakarsa
+tokenwithtagstemmed = paus paulus
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = rute
+tokenwithtagstemmed = layar
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = portugis
+tokenwithtagstemmed = arah
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = ditandatanganinya
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = saragosa
+posisi dalam passage = 55
+jarak dengan tiap kandidat jawaban:
+tahun 1522 -43
+1534 1
+
+tokenwithtagstemmed = 1534
+tokenwithtagstemmed = indonesia
+kata kunci = jadi
+tokenwithtagstemmed = filipina
+tokenwithtagstemmed = pulau
+tokenwithtagstemmed = cebu
+tokenwithtagstemmed = magelhaens
+tokenwithtagstemmed = tewas
+tokenwithtagstemmed = bunuh
+tokenwithtagstemmed = suku
+tokenwithtagstemmed = mactan
+tokenwithtagstemmed = juan
+tokenwithtagstemmed = sebastian
+tokenwithtagstemmed = del
+tokenwithtagstemmed = cano
+tokenwithtagstemmed = tahun 1522
+tokenwithtagstemmed = malu
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = timbul
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = portugis
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tuduh
+tokenwithtagstemmed = langgar
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = tordesillas
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = bangsa portugis
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = peperangan
+tokenwithtagstemmed = puluh
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = tika
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = jajah
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = prakarsa
+tokenwithtagstemmed = paus paulus
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = rute
+tokenwithtagstemmed = layar
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = portugis
+tokenwithtagstemmed = arah
+tokenwithtagstemmed = barat
+tokenwithtagstemmed = tentang
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = ditandatanganinya
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = saragosa
+tokenwithtagstemmed = 1534
+tokenwithtagstemmed = indonesia
+
+
+belanda tidak segan-segan menggunakan kekerasan untuk mengusir inggris dari indonesia . setelah terjadi peristiwa ambon massacre , eic mengundurkan diri dari indonesia dan mengarahkan perhatiannya ke <LOCATION>daerah</LOCATION> lainnya di <LOCATION>asia tenggara</LOCATION> , seperti <PERSON>singapura , malaysia ,</PERSON> dan brunei sampai memperoleh kesuksesan . inggris kembali berkuasa di <LOCATION>indonesia</LOCATION> melalui keberhasilannya memenangkan perjanjian tuntang pada <TIME>tahun 1811</TIME> . selama lima <TIME>tahun</TIME> ( <TIME>1811-1816</TIME> ) <PERSON>, inggris</PERSON> memegang pemerintahan dan kekuasaannya di <LOCATION>indonesia .</LOCATION> selengkapnya di kekuasaan inggris di <LOCATION>indonesia .</LOCATION>
+
+memproses passage 19
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+title : perkembangan kolonialisme di indonesia
+list jawaban dan posisi dalam passage
+tahun 1811 | position = 32
+tahun | position = 34
+1811 1816 | position = 35
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = segan
+tokenwithtagstemmed = segan
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = keras
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = usir
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = massacre
+tokenwithtagstemmed = eic
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = arah
+tokenwithtagstemmed = perhati
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = asia tenggara
+tokenwithtagstemmed = singapura malaysia
+tokenwithtagstemmed = brunei
+tokenwithtagstemmed = oleh
+tokenwithtagstemmed = sukses
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = menang
+tokenwithtagstemmed = janji
+posisi dalam passage = 30
+jarak dengan tiap kandidat jawaban:
+tahun 1811 2
+tahun 4
+1811 1816 5
+
+tokenwithtagstemmed = tuntang
+tokenwithtagstemmed = tahun 1811
+tokenwithtagstemmed = lima
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = 1811 1816
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = lengkap
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = indonesia
+kata kunci = saragosa
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = segan
+tokenwithtagstemmed = segan
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = keras
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = usir
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = massacre
+tokenwithtagstemmed = eic
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = arah
+tokenwithtagstemmed = perhati
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = asia tenggara
+tokenwithtagstemmed = singapura malaysia
+tokenwithtagstemmed = brunei
+tokenwithtagstemmed = oleh
+tokenwithtagstemmed = sukses
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = menang
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = tuntang
+tokenwithtagstemmed = tahun 1811
+tokenwithtagstemmed = lima
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = 1811 1816
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = lengkap
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = indonesia
+kata kunci = jadi
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = segan
+tokenwithtagstemmed = segan
+tokenwithtagstemmed = guna
+tokenwithtagstemmed = keras
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = usir
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = jadi
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+tahun 1811 23
+tahun 25
+1811 1816 26
+
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = massacre
+tokenwithtagstemmed = eic
+tokenwithtagstemmed = undur
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = arah
+tokenwithtagstemmed = perhati
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = asia tenggara
+tokenwithtagstemmed = singapura malaysia
+tokenwithtagstemmed = brunei
+tokenwithtagstemmed = oleh
+tokenwithtagstemmed = sukses
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = menang
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = tuntang
+tokenwithtagstemmed = tahun 1811
+tokenwithtagstemmed = lima
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = 1811 1816
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = lengkap
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = indonesia
+
+
 pada <TIME>tahun 1522</TIME> portugis datang ke pajajaran di bawah pimpinan <PERSON>henry leme</PERSON> dan disambut baik oleh pajajaran dengan maksud agar portugis mau membantu dalam menghadapi ekspansi demak . terjadilah perjanjian sunda kelapa ( <TIME>1522</TIME> ) antara portugis dan pajajaran , yang isinya sebagai berikut . 1 ) portugis diijinkan mendirikan benteng di <LOCATION>sunda kelapa .</LOCATION> 2 ) pajajaran akan menerima barang-barang yang dibutuhkan dari portugis termasuk senjata . 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
 
 memproses passage 9
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 list jawaban dan posisi dalam passage
 tahun 1522 | position = 0
@@ -1225,7 +1617,7 @@ tokenwithtagstemmed = butuh
 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya . awal <TIME>tahun 1527</TIME> portugis datang lagi ke pajajaran untuk merealisasi perjanjian sunda kelapa , namun disambut dengan pertempuran oleh pasukan demak di bawah pimpinan fatahilah . pertempuran berakhir dan namanya diganti menjadi jayakarta , artinya pekerjaan yang jaya ( menang ) . b. masuknya bangsa spanyol ke <LOCATION>indonesia</LOCATION> kedatangan bangsa portugis sampai di <LOCATION>indonesia</LOCATION> ( maluku ) segera diikuti oleh bangsa spanyol . ekspedisi bangsa spanyol di bawah pimpinan <PERSON>magelhaen ,</PERSON> pada <TIME>tanggal 7 april 1521</TIME> telah sampai di <LOCATION>pulau cebu .</LOCATION>
 
 memproses passage 10
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 list jawaban dan posisi dalam passage
 tahun 1527 | position = 8
@@ -1416,7 +1808,7 @@ tokenwithtagstemmed = pulau cebu
 pada <TIME>tahun 1522</TIME> portugis datang ke pajajaran di bawah pimpinan <PERSON>henry leme</PERSON> dan disambut baik oleh pajajaran dengan maksud agar portugis mau membantu dalam menghadapi ekspansi demak . terjadilah perjanjian sunda kelapa ( <TIME>1522</TIME> ) antara portugis dan pajajaran , yang isinya sebagai berikut . 1 ) portugis diijinkan mendirikan benteng di <LOCATION>sunda kelapa .</LOCATION> 2 ) pajajaran akan menerima barang-barang yang dibutuhkan dari portugis termasuk senjata . 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya .
 
 memproses passage 9
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 list jawaban dan posisi dalam passage
 tahun 1522 | position = 0
@@ -1583,7 +1975,7 @@ tokenwithtagstemmed = butuh
 3 ) portugis akan memperoleh lada dari pajajaran menurut kebutuhannya . awal <TIME>tahun 1527</TIME> portugis datang lagi ke pajajaran untuk merealisasi perjanjian sunda kelapa , namun disambut dengan pertempuran oleh pasukan demak di bawah pimpinan fatahilah . pertempuran berakhir dan namanya diganti menjadi jayakarta , artinya pekerjaan yang jaya ( menang ) . b. masuknya bangsa spanyol ke <LOCATION>indonesia</LOCATION> kedatangan bangsa portugis sampai di <LOCATION>indonesia</LOCATION> ( maluku ) segera diikuti oleh bangsa spanyol . ekspedisi bangsa spanyol di bawah pimpinan <PERSON>magelhaen ,</PERSON> pada <TIME>tanggal 7 april 1521</TIME> telah sampai di <LOCATION>pulau cebu .</LOCATION>
 
 memproses passage 10
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 list jawaban dan posisi dalam passage
 tahun 1527 | position = 8
@@ -1774,7 +2166,7 @@ tokenwithtagstemmed = pulau cebu
 sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( <TIME>22 april 1529</TIME> ) yang isinya sebagai berikut . 1 ) spanyol harus meninggalkan maluku , dan memusatkan kegiatannya di <LOCATION>filipina .</LOCATION> 2 ) portugis tetap melakukan aktivitas perdagangan di <LOCATION>maluku .</LOCATION> c. masuknya <PERSON>bangsa belanda</PERSON> ke <LOCATION>indonesia</LOCATION> sebelum datang ke <PERSON>indonesia , para pedagang belanda</PERSON> membeli rempah-rempah di <LOCATION>lisabon</LOCATION> ( ibu kota portugis ) . pada waktu itu <PERSON>belanda</PERSON> masih berada di bawah penjajahan spanyol .
 
 memproses passage 13
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 list jawaban dan posisi dalam passage
 22 april 1529 | position = 6
@@ -1927,7 +2319,7 @@ tokenwithtagstemmed = spanyol
 sebelum terjadi perang besar , akhirnya diadakan perjanjian saragosa ( <TIME>22 april 1529</TIME> ) yang isinya sebagai berikut . 1 ) spanyol harus meninggalkan maluku , dan memusatkan kegiatannya di <LOCATION>filipina .</LOCATION> 2 ) portugis tetap melakukan aktivitas perdagangan di <LOCATION>maluku .</LOCATION> c. masuknya <PERSON>bangsa belanda</PERSON> ke <LOCATION>indonesia</LOCATION> sebelum datang ke <PERSON>indonesia , para pedagang belanda</PERSON> membeli rempah-rempah di <LOCATION>lisabon</LOCATION> ( ibu kota portugis ) . pada waktu itu <PERSON>belanda</PERSON> masih berada di bawah penjajahan spanyol .
 
 memproses passage 13
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 title : masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 list jawaban dan posisi dalam passage
 22 april 1529 | position = 6
@@ -2075,561 +2467,247 @@ tokenwithtagstemmed = ada
 tokenwithtagstemmed = bawah
 tokenwithtagstemmed = jajah
 tokenwithtagstemmed = spanyol
-
-
-f. mesin uap , ciptaan james watt ( <TIME>1769</TIME> ) . dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( <TIME>1804</TIME> ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang . kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( <TIME>1814</TIME> ) . mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' . penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
-
-memproses passage 14
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
-list jawaban dan posisi dalam passage
-1769 | position = 6
-1804 | position = 18
-1814 | position = 34
-
-
-melakukan pencarian:
-kata kunci = janji
-tokenwithtagstemmed = f
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = 1769
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = takjub
-tokenwithtagstemmed = lokomotif
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = richard
-tokenwithtagstemmed = trevethiek
-tokenwithtagstemmed = 1804
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = george
-tokenwithtagstemmed = stepenson
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = kereta
-tokenwithtagstemmed = api
-tokenwithtagstemmed = tumpang
-tokenwithtagstemmed = kapal
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = gerak
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = olehrobert
-tokenwithtagstemmed = fulton
-tokenwithtagstemmed = 1814
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = inti
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = anggap
-tokenwithtagstemmed = bapak
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = i
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = baru
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = lengkap
-tokenwithtagstemmed = sempurna
-kata kunci = saragosa
-tokenwithtagstemmed = f
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = 1769
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = takjub
-tokenwithtagstemmed = lokomotif
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = richard
-tokenwithtagstemmed = trevethiek
-tokenwithtagstemmed = 1804
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = george
-tokenwithtagstemmed = stepenson
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = kereta
-tokenwithtagstemmed = api
-tokenwithtagstemmed = tumpang
-tokenwithtagstemmed = kapal
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = gerak
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = olehrobert
-tokenwithtagstemmed = fulton
-tokenwithtagstemmed = 1814
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = inti
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = anggap
-tokenwithtagstemmed = bapak
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = i
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = baru
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = lengkap
-tokenwithtagstemmed = sempurna
-kata kunci = jadi
-tokenwithtagstemmed = f
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = 1769
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = takjub
-tokenwithtagstemmed = lokomotif
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = richard
-tokenwithtagstemmed = trevethiek
-tokenwithtagstemmed = 1804
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = george
-tokenwithtagstemmed = stepenson
-tokenwithtagstemmed = jadi
-posisi dalam passage = 22
-jarak dengan tiap kandidat jawaban:
-1769 -16
-1804 -4
-1814 12
-
-tokenwithtagstemmed = kereta
-tokenwithtagstemmed = api
-tokenwithtagstemmed = tumpang
-tokenwithtagstemmed = kapal
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = gerak
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = olehrobert
-tokenwithtagstemmed = fulton
-tokenwithtagstemmed = 1814
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = inti
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = anggap
-tokenwithtagstemmed = bapak
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = i
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = baru
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = lengkap
-tokenwithtagstemmed = sempurna
-
-
-f. mesin uap , ciptaan james watt ( <TIME>1769</TIME> ) . dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan , seperti lokomotif ciptaan richard trevethiek ( <TIME>1804</TIME> ) yang kemudian disempurnakan oleh george stepenson menjadi kereta api penumpang . kapal perang yang digerakkan dengan mesin uap diciptakan olehrobert fulton ( <TIME>1814</TIME> ) . mesin uap merupakan inti dari revolusi industri sehingga james watt sering dianggap sebagai bapak revolusi industri i ' . penemuan-penemuan baru selanjutnya , semakin lengkap dan menyempurnakan .
-
-memproses passage 14
-from document : C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-title : sejarah timbulnya revolusi industri dan berbagai penemuan penting
-list jawaban dan posisi dalam passage
-1769 | position = 6
-1804 | position = 18
-1814 | position = 34
-
-
-melakukan pencarian:
-kata kunci = janji
-tokenwithtagstemmed = f
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = 1769
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = takjub
-tokenwithtagstemmed = lokomotif
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = richard
-tokenwithtagstemmed = trevethiek
-tokenwithtagstemmed = 1804
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = george
-tokenwithtagstemmed = stepenson
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = kereta
-tokenwithtagstemmed = api
-tokenwithtagstemmed = tumpang
-tokenwithtagstemmed = kapal
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = gerak
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = olehrobert
-tokenwithtagstemmed = fulton
-tokenwithtagstemmed = 1814
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = inti
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = anggap
-tokenwithtagstemmed = bapak
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = i
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = baru
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = lengkap
-tokenwithtagstemmed = sempurna
-kata kunci = saragosa
-tokenwithtagstemmed = f
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = 1769
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = takjub
-tokenwithtagstemmed = lokomotif
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = richard
-tokenwithtagstemmed = trevethiek
-tokenwithtagstemmed = 1804
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = george
-tokenwithtagstemmed = stepenson
-tokenwithtagstemmed = jadi
-tokenwithtagstemmed = kereta
-tokenwithtagstemmed = api
-tokenwithtagstemmed = tumpang
-tokenwithtagstemmed = kapal
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = gerak
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = olehrobert
-tokenwithtagstemmed = fulton
-tokenwithtagstemmed = 1814
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = inti
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = anggap
-tokenwithtagstemmed = bapak
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = i
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = baru
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = lengkap
-tokenwithtagstemmed = sempurna
-kata kunci = jadi
-tokenwithtagstemmed = f
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = 1769
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = alat
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = takjub
-tokenwithtagstemmed = lokomotif
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = richard
-tokenwithtagstemmed = trevethiek
-tokenwithtagstemmed = 1804
-tokenwithtagstemmed = sempurna
-tokenwithtagstemmed = george
-tokenwithtagstemmed = stepenson
-tokenwithtagstemmed = jadi
-posisi dalam passage = 22
-jarak dengan tiap kandidat jawaban:
-1769 -16
-1804 -4
-1814 12
-
-tokenwithtagstemmed = kereta
-tokenwithtagstemmed = api
-tokenwithtagstemmed = tumpang
-tokenwithtagstemmed = kapal
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = gerak
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = cipta
-tokenwithtagstemmed = olehrobert
-tokenwithtagstemmed = fulton
-tokenwithtagstemmed = 1814
-tokenwithtagstemmed = mesin
-tokenwithtagstemmed = uap
-tokenwithtagstemmed = inti
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = james
-tokenwithtagstemmed = watt
-tokenwithtagstemmed = anggap
-tokenwithtagstemmed = bapak
-tokenwithtagstemmed = revolusi
-tokenwithtagstemmed = industri
-tokenwithtagstemmed = i
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = temu
-tokenwithtagstemmed = baru
-tokenwithtagstemmed = lanjut
-tokenwithtagstemmed = lengkap
-tokenwithtagstemmed = sempurna
 
 Pengurutan kandidat jawaban
+this.answer = 1534
+passage rank = 3
+distance = 1
+doc rank = 1
+total Score = 5
+frequency = 1
+order process = 11
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
+
 this.answer = 22 april 1529
 passage rank = 1
 distance = 1
-doc rank = 1
-total Score = 3
+doc rank = 2
+total Score = 4
 frequency = 1
 order process = 2
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 
 this.answer = 22 april 1529
-passage rank = 7
+passage rank = 9
 distance = 1
-doc rank = 1
-total Score = 9
+doc rank = 2
+total Score = 12
 frequency = 1
-order process = 16
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+order process = 27
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 
 this.answer = 22 april 1529
 passage rank = 2
 distance = 1
-doc rank = 2
-total Score = 5
+doc rank = 3
+total Score = 6
 frequency = 1
 order process = 5
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 
 this.answer = 22 april 1529
-passage rank = 8
+passage rank = 10
 distance = 1
+doc rank = 3
+total Score = 14
+frequency = 1
+order process = 30
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = 1534
+passage rank = 3
+distance = 2
+doc rank = 1
+total Score = 6
+frequency = 1
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
+
+this.answer = tahun 1811
+passage rank = 4
+distance = 2
+doc rank = 1
+total Score = 7
+frequency = 1
+order process = 12
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
+
+this.answer = 22 april 1529
+passage rank = 1
+distance = 2
+doc rank = 2
+total Score = 5
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = 22 april 1529
+passage rank = 9
+distance = 2
+doc rank = 2
+total Score = 13
+frequency = 1
+order process = 26
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = 22 april 1529
+passage rank = 2
+distance = 2
+doc rank = 3
+total Score = 7
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = 22 april 1529
+passage rank = 10
+distance = 2
+doc rank = 3
+total Score = 15
+frequency = 1
+order process = 29
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = 1522
+passage rank = 5
+distance = 3
+doc rank = 2
+total Score = 10
+frequency = 1
+order process = 18
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = 1522
+passage rank = 7
+distance = 3
+doc rank = 3
+total Score = 13
+frequency = 1
+order process = 22
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = tahun
+passage rank = 4
+distance = 4
+doc rank = 1
+total Score = 9
+frequency = 1
+order process = 13
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
+
+this.answer = 1522
+passage rank = 5
+distance = 4
 doc rank = 2
 total Score = 11
 frequency = 1
 order process = 19
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 
-this.answer = 22 april 1529
-passage rank = 1
-distance = 2
-doc rank = 1
-total Score = 4
-frequency = 1
-order process = 1
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
-
-this.answer = 22 april 1529
+this.answer = 1522
 passage rank = 7
-distance = 2
-doc rank = 1
-total Score = 10
-frequency = 1
-order process = 15
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
-
-this.answer = 22 april 1529
-passage rank = 2
-distance = 2
-doc rank = 2
-total Score = 6
-frequency = 1
-order process = 4
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
-
-this.answer = 22 april 1529
-passage rank = 8
-distance = 2
-doc rank = 2
-total Score = 12
-frequency = 1
-order process = 18
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
-
-this.answer = 1522
-passage rank = 3
-distance = 3
-doc rank = 1
-total Score = 7
-frequency = 1
-order process = 7
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
-
-this.answer = 1522
-passage rank = 5
-distance = 3
-doc rank = 2
-total Score = 10
-frequency = 1
-order process = 11
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
-
-this.answer = 1522
-passage rank = 3
 distance = 4
-doc rank = 1
-total Score = 8
-frequency = 1
-order process = 8
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
-
-this.answer = 1522
-passage rank = 5
-distance = 4
-doc rank = 2
-total Score = 11
-frequency = 1
-order process = 12
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
-
-this.answer = 22 april 1529
-passage rank = 1
-distance = 6
-doc rank = 1
-total Score = 8
-frequency = 1
-order process = 3
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
-
-this.answer = 22 april 1529
-passage rank = 7
-distance = 6
-doc rank = 1
+doc rank = 3
 total Score = 14
 frequency = 1
-order process = 17
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+order process = 23
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = 1811 1816
+passage rank = 4
+distance = 5
+doc rank = 1
+total Score = 10
+frequency = 1
+order process = 14
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
+
+this.answer = 22 april 1529
+passage rank = 1
+distance = 6
+doc rank = 2
+total Score = 9
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = 22 april 1529
+passage rank = 9
+distance = 6
+doc rank = 2
+total Score = 17
+frequency = 1
+order process = 28
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 
 this.answer = 22 april 1529
 passage rank = 2
 distance = 6
-doc rank = 2
-total Score = 10
+doc rank = 3
+total Score = 11
 frequency = 1
 order process = 6
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 
 this.answer = 22 april 1529
-passage rank = 8
+passage rank = 10
 distance = 6
-doc rank = 2
-total Score = 16
+doc rank = 3
+total Score = 19
 frequency = 1
-order process = 20
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+order process = 31
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 
-this.answer = 1814
-passage rank = 9
-distance = 12
-doc rank = 4
-total Score = 25
+this.answer = 1534
+passage rank = 3
+distance = 16
+doc rank = 1
+total Score = 20
 frequency = 1
-order process = 21
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok101.txt
-document Title = sejarah timbulnya revolusi industri dan berbagai penemuan penting
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
 
-this.answer = 1814
-passage rank = 10
-distance = 12
-doc rank = 5
-total Score = 27
+this.answer = tahun 1811
+passage rank = 4
+distance = 23
+doc rank = 1
+total Score = 28
 frequency = 1
-order process = 22
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok30.txt
-document Title = sejarah timbulnya revolusi industri dan berbagai penemuan penting
+order process = 15
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
 
-this.answer = tanggal 7 april 1521
+this.answer = tahun
 passage rank = 4
 distance = 25
 doc rank = 1
 total Score = 30
 frequency = 1
-order process = 10
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
-document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+order process = 16
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
 
 this.answer = tanggal 7 april 1521
 passage rank = 6
@@ -2637,19 +2715,49 @@ distance = 25
 doc rank = 2
 total Score = 33
 frequency = 1
-order process = 14
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+order process = 21
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 
 this.answer = tanggal 7 april 1521
-passage rank = 4
-distance = 39
-doc rank = 1
-total Score = 44
+passage rank = 8
+distance = 25
+doc rank = 3
+total Score = 36
 frequency = 1
-order process = 9
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok133.txt
+order process = 25
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = 1811 1816
+passage rank = 4
+distance = 26
+doc rank = 1
+total Score = 31
+frequency = 1
+order process = 17
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
+
+this.answer = 1534
+passage rank = 3
+distance = 31
+doc rank = 1
+total Score = 35
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
+
+this.answer = 1534
+passage rank = 3
+distance = 33
+doc rank = 1
+total Score = 37
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+document Title = perkembangan kolonialisme di indonesia
 
 this.answer = tanggal 7 april 1521
 passage rank = 6
@@ -2657,8 +2765,18 @@ distance = 39
 doc rank = 2
 total Score = 47
 frequency = 1
-order process = 13
-document file = C:\Users\hobert\workspace\tesLuceneLowerVersion\dokumenSejarah\dok62.txt
+order process = 20
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
+
+this.answer = tanggal 7 april 1521
+passage rank = 8
+distance = 39
+doc rank = 3
+total Score = 50
+frequency = 1
+order process = 24
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
 document Title = masuknya kekuasaan asing dan berkembangnya kolonialisme dan imperialisme barat di indonesia
 
 

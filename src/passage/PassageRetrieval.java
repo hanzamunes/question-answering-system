@@ -1,12 +1,19 @@
 package passage;
 
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.StringReader;
 import java.io.UnsupportedEncodingException;
+import java.io.Writer;
 import java.util.ArrayList;
 import java.util.List;
+
+import javax.xml.parsers.ParserConfigurationException;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
@@ -15,6 +22,7 @@ import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.apache.lucene.analysis.tokenattributes.TermAttribute;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.util.Version;
+import org.xml.sax.SAXException;
 
 import com.tutorialspoint.lucene.LuceneConstants;
 
@@ -113,6 +121,41 @@ public class PassageRetrieval {
 		
 		write.close();
 		return result;
+	}
+	
+	public static void main (String[] args)
+	{
+		Writer out;
+		try
+		{
+			File dok = new File ("dokumenSejarah/dok365.txt");
+			out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("hasil token.txt"), "UTF-8"));
+			final org.w3c.dom.Document doc = javax.xml.parsers.DocumentBuilderFactory.newInstance()
+		  		    .newDocumentBuilder()
+		  		    .parse(dok);
+		      	final org.w3c.dom.NodeList field = doc.getElementsByTagName("field");
+		      	String text = field.item(2).getTextContent().toLowerCase();
+			String serializedClassifier = Utils.classifierPath;
+			AbstractSequenceClassifier classifier = CRFClassifier.getClassifierNoExceptions(serializedClassifier);
+			out.write( classifier.classifyWithInlineXML(text)+"\n");
+		} catch (UnsupportedEncodingException | FileNotFoundException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SAXException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ParserConfigurationException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
 	}
 	
 	/*
