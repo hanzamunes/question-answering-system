@@ -76,6 +76,7 @@ import javax.swing.SpinnerModel;
 import javax.swing.SpinnerNumberModel;
 import javax.swing.JSpinner;
 import java.awt.Font;
+import javax.swing.SwingConstants;
 
 public class QuestionAnswering
 {
@@ -93,11 +94,9 @@ public class QuestionAnswering
 	private JTextField textField_2;
 	private JTextField textField_3;
 	private String csvAnswerPath;
-	private JTextField textField_4;
 	private JTextField alphaTextField;
 	private JTextField betaTextField;
 	private JTextField gammaTextField;
-	private JTextField docLimitTextField;
 	private JTextField termLimitTextField;
 	private boolean sentenceBased=true;
 	private boolean relevanceFeedback=true;
@@ -106,6 +105,7 @@ public class QuestionAnswering
 	private JSpinner spinnerPercobaan;
 	private JTextField textField_5;
 	private String csvDocumentPathFolder;
+	private JTextField docLimitTextField;
 	
 	class runQuestionAnswering extends SwingWorker<Integer,Integer>
 	{
@@ -148,7 +148,7 @@ public class QuestionAnswering
 				}
 				
 			}
-			String savePath = "debug question answering/hasil bersih/listRetrievedAnswer/allMRR.csv";
+			String savePath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\hasil bersih\\listRetrievedAnswer\\allMRR.csv";
 			CSVWriter write = new CSVWriter (new FileWriter (savePath));
 			write.writeAll(dataset);
 			write.close();
@@ -237,7 +237,7 @@ public class QuestionAnswering
 							{
 								averagePrecision.add(avgPrecision);
 							}
-							String savePath = "debug question answering/listPrecisionAndRecallResult/percobaan "+i+"/";
+							String savePath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listPrecisionAndRecallResult\\percobaan "+i+"\\";
 							par.savePrecisionAndRecall(savePath, file.getAbsolutePath(), question, precision, recall, avgPrecision);
 						}
 					}
@@ -250,7 +250,7 @@ public class QuestionAnswering
 				
 			}
 			
-			String savePath = "debug question answering/hasil bersih/listPrecisionAndRecallResult/allMAP.csv";
+			String savePath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\hasil bersih\\listPrecisionAndRecallResult\\allMAP.csv";
 			CSVWriter write = new CSVWriter (new FileWriter (savePath));
 			write.writeAll(meanAveragePrecision);
 			write.close();
@@ -293,6 +293,7 @@ public class QuestionAnswering
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
+			  System.out.println(queryList.size());
 			  ProgressMonitor1 pbar = new ProgressMonitor1(queryList.size(),"processing query...");
 			  int in = 0;
 			for (String query : queryList)
@@ -513,7 +514,7 @@ public class QuestionAnswering
                 	alphaTextField.setText("1");
                 	betaTextField.setText("0.5");
                 	gammaTextField.setText("0");
-                	termLimitTextField.setText("100");
+                	termLimitTextField.setText("10");
                 }
                 else
                 {
@@ -563,12 +564,8 @@ public class QuestionAnswering
 		lblGamma.setBounds(126, 143, 55, 16);
 		panel2.add(lblGamma);
 		
-		JLabel lblDocLimit = new JLabel("doc Limit");
-		lblDocLimit.setBounds(193, 143, 55, 16);
-		panel2.add(lblDocLimit);
-		
 		JLabel lblTermLimit = new JLabel("Term Limit");
-		lblTermLimit.setBounds(261, 143, 69, 16);
+		lblTermLimit.setBounds(177, 144, 69, 16);
 		panel2.add(lblTermLimit);
 		
 		alphaTextField = new JTextField();
@@ -592,18 +589,11 @@ public class QuestionAnswering
 		gammaTextField.setBounds(126, 161, 39, 28);
 		panel2.add(gammaTextField);
 		
-		docLimitTextField = new JTextField();
-		docLimitTextField.setText("10");
-		docLimitTextField.setFont(new Font("SansSerif", Font.PLAIN, 10));
-		docLimitTextField.setColumns(10);
-		docLimitTextField.setBounds(199, 160, 39, 28);
-		panel2.add(docLimitTextField);
-		
 		termLimitTextField = new JTextField();
 		termLimitTextField.setText("10");
 		termLimitTextField.setFont(new Font("SansSerif", Font.PLAIN, 10));
 		termLimitTextField.setColumns(10);
-		termLimitTextField.setBounds(271, 160, 39, 28);
+		termLimitTextField.setBounds(187, 161, 39, 28);
 		panel2.add(termLimitTextField);
 		
 		JButton btnCheck = new JButton("check");
@@ -613,6 +603,7 @@ public class QuestionAnswering
 			}
 		});
 		btnCheck.setBounds(404, 137, 90, 28);
+		btnCheck.setVisible(false);
 		panel2.add(btnCheck);
 		
 		JLabel lblPercobaanKe = new JLabel("Percobaan ke");
@@ -623,6 +614,17 @@ public class QuestionAnswering
 		spinnerPercobaan = new JSpinner(percobaanModel);
 		spinnerPercobaan.setBounds(458, 63, 57, 28);
 		panel2.add(spinnerPercobaan);
+		
+		JLabel lblTopNDokumen = new JLabel("Top N Dokumen");
+		lblTopNDokumen.setBounds(268, 143, 98, 16);
+		panel2.add(lblTopNDokumen);
+		
+		docLimitTextField = new JTextField();
+		docLimitTextField.setText("10");
+		docLimitTextField.setFont(new Font("SansSerif", Font.PLAIN, 10));
+		docLimitTextField.setColumns(10);
+		docLimitTextField.setBounds(295, 161, 39, 28);
+		panel2.add(docLimitTextField);
 		tabbedPane.add("input pertanyaan manual", panel1);
 		tabbedPane.add("Precision and Recall",panel3);
 		panel3.setLayout(null);
@@ -675,11 +677,12 @@ public class QuestionAnswering
 		textField_2.setColumns(10);
 		
 		JLabel lbluntukPrecisionRecall = new JLabel("*untuk precision, recall dan average precision harap lihat di folder:");
-		lbluntukPrecisionRecall.setBounds(0, 155, 403, 16);
+		lbluntukPrecisionRecall.setBounds(6, 145, 403, 16);
 		panel3.add(lbluntukPrecisionRecall);
 		
-		JLabel lblSaveLocation = new JLabel(Utils.savePrecisionAndRecallResultPath);
-		lblSaveLocation.setBounds(76, 173, 457, 16);
+		JLabel lblSaveLocation = new JLabel("<html>C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listPrecisionAndRecallResult\\percobaan 100\\</html>");
+		lblSaveLocation.setVerticalAlignment(SwingConstants.TOP);
+		lblSaveLocation.setBounds(6, 163, 529, 32);
 		panel3.add(lblSaveLocation);
 		
 		JLabel lblNomorPercobaan = new JLabel("Nomor Percobaan");
@@ -698,7 +701,8 @@ public class QuestionAnswering
 	        public void stateChanged(ChangeEvent e) {
 	            //LOG.info("value changed: " + spinnerPercobaanPrecisionAndRecall.getValue());
 	        	Utils.changePath((Integer)spinnerPercobaanPrecisionAndRecall.getValue());
-	        	lblSaveLocation.setText(Utils.savePrecisionAndRecallResultPath);
+	        	lblSaveLocation.setText("<html>"+Utils.savePrecisionAndRecallResultPath+"<html>");
+	        	
 	        }
 	    });
 		spinnerPercobaanPrecisionAndRecall.setBounds(125, 74, 61, 28);
@@ -736,22 +740,12 @@ public class QuestionAnswering
 		JButton btnCalculateMeanReciprocal = new JButton("Calculate Mean Reciprocal Rank");
 		btnCalculateMeanReciprocal.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				textField_4.setText("");
+				//textField_4.setText("");
 				new calculateMeanReciprocalRank().execute();
 			}
 		});
 		btnCalculateMeanReciprocal.setBounds(131, 68, 257, 28);
 		panel4.add(btnCalculateMeanReciprocal);
-		
-		JLabel lblMeanReciprocalRank = new JLabel("Mean Reciprocal Rank:");
-		lblMeanReciprocalRank.setBounds(6, 114, 136, 16);
-		panel4.add(lblMeanReciprocalRank);
-		
-		textField_4 = new JTextField();
-		textField_4.setEditable(false);
-		textField_4.setBounds(141, 108, 63, 28);
-		panel4.add(textField_4);
-		textField_4.setColumns(10);
 		frame.getContentPane().add(tabbedPane);
 		
 		JPanel panel5 = new JPanel();

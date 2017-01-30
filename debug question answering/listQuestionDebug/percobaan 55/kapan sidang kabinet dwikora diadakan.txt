@@ -1,0 +1,3563 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok296.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok362.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok228.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok281.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok148.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok285.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok205.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok377.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok363.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok218.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok161.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok272.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok212.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok249.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok144.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok369.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok234.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok143.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok158.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok286.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok307.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok192.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok231.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok351.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok215.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok110.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok39.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok210.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok401.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok251.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok256.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok366.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok257.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok108.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok37.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok230.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok367.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok341.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok338.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok141.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok70.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok208.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok247.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok181.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok337.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok149.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok343.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok109.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok38.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok171.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok227.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok346.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok347.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok221.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok209.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok142.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok71.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok293.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok398.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok344.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok330.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok355.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok168.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok185.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok360.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok191.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok326.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok135.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok64.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok219.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok252.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok282.txt
+
+searching dari query expansion
+query hasil ekspansi = dwikora industr konstituante bantu ase kabinet indonesia mpr sidang
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok148.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok285.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok237.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok369.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok218.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+
+query token : 
+sidang kabinet dwikora ada 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+passage 3 score = 7.25
+sentence 1: dalam konsepsi ini presiden juga mengusulkan perlunya dibentuk kabinet ke empat yaitu pni , masyumi nu dan pki .
+sentence 2: beberapa partai seperti masyumi , nu , psii , partai katolik dan pir tidak menyetujuinya karena perubahan sistem pemerintahan menjadi wewenang badan konstituante .
+sentence 3: pada tanggal 25 april 1959 dihadapan sidang konstituante , presiden soekarno menganjurkan agar kembali kepada uud 1945 anjuran ini diperdebatkan dalam sidang konstituante , kemudian diputuskan untuk mengadakan pemungutar suara ( voting ) .
+sentence 4: sebagai gambaran hasil-hasil pemungutar suara waktu itu adalah sebagai berikut : pada tanggal 30 mei 1959 , 269 suara setuju dan 199 suara menolak pada tanggal 1 juni 1959 , 263 suara setuju dan 203 suara menolak pada tanggal 2 juli 1959 , 264 suara setuju dan 204 suara meniolak meskipun mayoritas suara setuju kembali pada uud 1945 , namun karena jumlahnya tidak mencukup dua pertiga anggota konstituante seperti yang diisyaratkan dalam pasal 137 uuds 1950 , maka tidak dapat diambil keputusan atas anjuran bung karno tersebut .
+sentence 5: pada tanggal 3 juni 1959 badan konstituante memasuki masa reses ( istirahat tidak mengadakan sidang ) dengan batas waktu yang tidak ditentukan dan berbagai fraksi dalam konstituante menyatakar tidak akan menghadiri sidang .
+passage 1 score = 7.0
+sentence 1: dekrit presiden 5 juli 1959 badan konstituante yang dibentuk melalui pemilihan urnurn 1955 , dipersiapkan untuk merumuskan uud ( konstitusi ) baru sebagai pengganti uuds 1950 .
+sentence 2: sejak tahun 1956 konstituante merumuskan uud yang baru .
+sentence 3: akan tetapi hingga tahun 1959 badan konstituante tidak pernah dapat merumuskan uud yang baru .
+sentence 4: dalam sidang-sidangnya , selalu diwarnai adanya benturan-benturan antara partai politik dan golongan , mereka lebih mementingkan kelompoknya sendiri sehingga mengabaikan kepentingan nasional .
+sentence 5: kegagalan konstituante merumuskan uud sebagai pengganti uuds 1950 menyebabkan negara dilanda kekalutan konstitusional , sehingga mengganggu dan membahayakan stabilitas nasional dengan persatuan bangsa indonesia .
+passage 2 score = 7.0
+sentence 1: kegagalan konstituante merumuskan uud sebagai pengganti uuds 1950 menyebabkan negara dilanda kekalutan konstitusional , sehingga mengganggu dan membahayakan stabilitas nasional dengan persatuan bangsa indonesia .
+sentence 2: pada tanggal 21 februari 1957 presiden soekarno mengajukan gagasan yang dikenal dengan konsepsi soekarno , dengan isi pokoknya adalah sebagai berikut : sistem demokrasi parlementer secara berat tidak cocok dengan kepribadian bangsa indonesia , sehingga harus diganti dengan demokrasi terpimpin .
+sentence 3: dibentuk kabinet gotong royong yang terdiri dari semua partai dan organisasi masyarakat lainnya .
+sentence 4: pembentukan dewan nasional yang terdiri dari golongan fungsional dalam masyarakat .
+sentence 5: dalam konsepsi ini presiden juga mengusulkan perlunya dibentuk kabinet ke empat yaitu pni , masyumi nu dan pki .
+passage 4 score = 7.0
+sentence 1: pada tanggal 3 juni 1959 badan konstituante memasuki masa reses ( istirahat tidak mengadakan sidang ) dengan batas waktu yang tidak ditentukan dan berbagai fraksi dalam konstituante menyatakar tidak akan menghadiri sidang .
+sentence 2: sementara pada tanggal yang sama pemerintah mengeluarkan larangan kegiatan politik dengan peraturan nomor prt/peperpu/040 / 1959 .
+sentence 3: kegagalan badan konstituante mencapai kesepakatan untuk kembali ke uud 1945 , masa reses yang tidak menentu dan pernyataan berbagai fraksi yang memboikot untuk menghadiri sidang , menyebabkan presiden soekarno mengambil langkah ­melalui dekret presiden 5 juli 1959 isinya sebagai berikut : pembubaran badan konstituante berlakunya uud 1945 dan tidak berlakunya uuds 1950 pembentukan mprs dan dpas .
+sentence 4: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok148.txt
+title : kebijakan luar negeri pemerintahan orde baru
+passage 1 score = 7.0
+sentence 1: kebijakan luar negeri pemerintahan orde baru - orde baru adalah suatu tatanan seluruh peri kehidupan rakyat , bangsa , dan negara yang diletakkan kembali kepada pelaksanaan pancasila dan uud 1945 secara murni dan konsekuen .
+sentence 2: langkah-langkah yang diambil oleh kabinet ampera dalam menata kembali politik luar negeri , antara lain sebagai berikut .
+sentence 3: a. indonesia kembali menjadi anggota pbb indonesia kembali menjadi anggota pbb pada tanggal 28 september 1966 dan tercatat sebagai anggota ke-60 .
+sentence 4: sebagai anggota pbb , indonesia telah banyak memperoleh manfaat dan bantuan dari organisasi internasional tersebut .
+sentence 5: manfaat dan bantuan pbb , antara lain sebagai berikut .
+passage 3 score = 7.0
+sentence 1: hubungan yang harmonis antara indonesia dan pbb menjadi terganggu sejak indonesia menyatakan diri keluar dari keanggotaan pbb pada tanggal 7 januari 1965 .
+sentence 2: keluarnya indonesia dari keanggotaan pbb tersebut sebagai protes atas diterimanya federasi malaysia sebagai anggota tidak tetap dewan keamanan pbb , sedangkan indonesia sendiri pada saat itu sedang berkonfrontasi dengan malaysia .
+sentence 3: akibat keluar dari keanggotaan pbb , indonesia praktis terkucil dari pergaulan dunia .
+sentence 4: hal itu jelas sangat merugikan pihak indonesia .
+sentence 5: b. penghentian konfrontasi dengan malaysia indonesia melakukan konfrontasi dengan malaysia setelah diumumkan dwikora oleh presiden soekarno pada tanggal 3 mei 1964 .
+passage 4 score = 7.0
+sentence 1: b. penghentian konfrontasi dengan malaysia indonesia melakukan konfrontasi dengan malaysia setelah diumumkan dwikora oleh presiden soekarno pada tanggal 3 mei 1964 .
+sentence 2: tindakan pemerintah orde lama ini jelas menyimpang dari pelaksanaan politik luar negeri bebas aktif .
+sentence 3: pada masa orde baru , politik luar negeri indonesia dikembalikan lagi pada politik bebas aktif sesuai dengan pancasila dan uud 1945 .
+sentence 4: hal ini merupakan pelaksanaan dari ketetapan mprs no .
+sentence 5: xii/mprs/1966 .
+passage 13 score = 7.0
+sentence 1: bantuan iggi kepada indonesia ini diberikan setiap tahun .
+sentence 2: setiap tahun diselenggarakan sidang iggi untuk membahas dan mengevaluasi pelaksanaan pembangunan indonesia sebagai dasar pemberian bantuan tahun berikutnya .
+sentence 3: bantuan yang berbentuk pinjaman ( devisa kredit ) bersyarat lunak dengan bunga berkisar 0 – 3 % setahun dengan jangka waktu angsuran berkisar 7 – 10 tahun .
+sentence 4: bantuan dari iggi yang digunakan untuk pembangunan proyek-proyek produktif dan kesejahteraan sosial itu , antara lain sebagai berikut .
+sentence 5: a ) bantuan teknik , umumnya tidak diterima dalam bentuk uang , tetapi dalam bentuk bantuan tenaga ahli , peralatan laboratorium , dan penelitian .
+passage 15 score = 7.0
+sentence 1: e ) bantuan program digunakan untuk biaya penyusunan program pembangunan .
+sentence 2: pada tanggal 25 maret 1992 , iggi bubar sebab indonesia menolak bantuan belanda yang dianggap terlalu banyak mengaitkan pinjaman luar negerinya dengan masalah politik di indonesia .
+sentence 3: sebagai penggantinya , pemerintah indonesia meminta pada bank dunia membentuk consultative group on indonesia ( cgi ) .
+sentence 4: cgi mengadakan sidang pertama kali di paris , prancis tanggal 16 juli 1992 .
+sentence 5: sidang dihadiri oleh 18 negara dan 10 lembaga internasional yang dipimpin oleh bank dunia .
+passage 19 score = 7.0
+sentence 1: sebagai ketua apec , indonesia berhasil menyelenggarakan pertemuan apec di bogor pada tanggal 14 – 15 november 1994 yang dihadiri oleh 18 kepala negara dan kepala pemerintahan negara anggota .
+sentence 2: sidang apec di tokyo tahun 1995 , memutuskan bahwa era perdagangan bebas akan mulai diberlakukan tahun 2003 bagi negara maju dan 2010 bagi negara berkembang .
+passage 5 score = 6.75
+sentence 1: xii/mprs/1966 .
+sentence 2: indonesia segera memulihkan hubungan dengan malaysia yang sejak 1964 terputus .
+sentence 3: normalisasi hubungan indonesia – malaysia tersebut berhasil dicapai dengan ditandatangani jakarta accord pada tanggal 11 agustus 1966 .
+sentence 4: persetujuan normalisasi hubungan indonesia – malaysia merupakan hasil perundingan di bangkok ( 29 mei – 1 juni 1966 ) .
+sentence 5: perundingan dilakukan wakil perdana menteri/menteri luar negeri malaysia , tun abdul razak dan menteri utama/menteri luar negeri indonesia , adam malik .
+passage 8 score = 6.75
+sentence 1: kelima menteri luar negeri tersebut adalah narsisco ramos dari filipina , adam malik dari indonesia , thanat khoman dari thailand , tun abdul razak dari malaysia , dan s. rajaratnam dari singapura .
+sentence 2: penandatanganan naskah pembentukan asean dilaksanakan pada tanggal 8 agustus 1967 di bangkok sehingga naskah pembentukan asean itu disebut deklarasi bangkok .
+sentence 3: syarat menjadi anggota adalah dapat menyetujui dasar dan tujuan pembentukan asean seperti yang tercantum dalam deklarasi asean .
+sentence 4: keanggotaan asean bertambah seiring dengan banyaknya negara yang merdeka .
+sentence 5: brunei darussalam secara resmi diterima menjadi anggota asean yang keenam pada tanggal 7 januari 1984 .
+passage 9 score = 6.75
+sentence 1: brunei darussalam secara resmi diterima menjadi anggota asean yang keenam pada tanggal 7 januari 1984 .
+sentence 2: vietnam diterima menjadi anggota asean ketujuh pada tanggal 28 juli 1995 .
+sentence 3: sementara itu , laos dan myanmar bergabung dengan asean pada tanggal 23 juli 1997 dan menjadi anggota kedelapan dan kesembilan .
+sentence 4: kampuchea menjadi anggota asean yang kesepuluh pada tanggal 30 april 1999 .
+sentence 5: asean mempunyai tujuan utama , antara lain : 1 ) meletakkan dasar yang kukuh bagi usaha bersama secara regional dalam mempercepat pertumbuhan ekonomi , kemajuan sosial , dan perkembangan kebudayaan ; 2 ) meletakkan landasan bagi terwujudnya suatu masyarakat yang sejahtera dan damai di kawasan asia tenggara ; 3 ) memberi sumbangan ke arah kemajuan dan kesejahteraan dunia ; 4 ) memajukan perdamaian dan stabilitas regional dengan menghormati keadilan , hukum , serta prinsip-prinsip piagam pbb ; 5 ) memajukan kerja sama aktif dan tukar-menukar bantuan untuk kepentingan bersama dalam bidang ekonomi , sosial , kebudayaan , teknik , ilmu pengetahuan , dan administrasi ; 6 ) memajukan pelajaran-pelajaran ( studies ) tentang asia tenggara ; 7 ) memajukan kerja sama yang erat dan bermanfaat , di tengah-tengah organisasi-organisasi regional dan internasional lainnya dengan maksud dan tujuan yang sama dan menjajaki semua bidang untuk kerja sama yang lebih erat di antara anggota .
+passage 18 score = 6.75
+sentence 1: hal ini diikuti dengan kekhawatiran gagalnya perundingan putaran uruguay ( masalah perdagangan bebas ) .
+sentence 2: apabila perdagangan bebas gagal disepakati , diduga akan memicu sikap proteksi dari negara-negara maju .
+sentence 3: indonesia , sebagai anggota apec , mempunyai peranan yang cukup penting .
+sentence 4: dalam pertemuan di seattle , amerika serikat ( 1993 ) , indonesia ditunjuk sebagai ketua apec untuk periode 1994 – 1995 .
+sentence 5: sebagai ketua apec , indonesia berhasil menyelenggarakan pertemuan apec di bogor pada tanggal 14 – 15 november 1994 yang dihadiri oleh 18 kepala negara dan kepala pemerintahan negara anggota .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok285.txt
+title : kebijakan luar negeri pemerintahan orde baru
+passage 4 score = 7.0
+sentence 1: akibat keluar dari keanggotaan pbb , indonesia praktis terkucil dari pergaulan dunia .
+sentence 2: hal itu jelas sangat merugikan pihak indonesia .
+sentence 3: b. penghentian konfrontasi dengan malaysia indonesia melakukan konfrontasi dengan malaysia setelah diumumkan dwikora oleh presiden soekarno pada tanggal 3 mei 1964 .
+sentence 4: tindakan pemerintah orde lama ini jelas menyimpang dari pelaksanaan politik luar negeri bebas aktif .
+sentence 5: pada masa orde baru , politik luar negeri indonesia dikembalikan lagi pada politik bebas aktif sesuai dengan pancasila dan uud 1945 .
+passage 17 score = 7.0
+sentence 1: ketua iggi dijabat oleh menteri kerja sama pembangunan kerajaan belanda .
+sentence 2: bantuan iggi kepada indonesia , antara lain berbentuk : a ) bantuan proyek , b ) bantuan program , c ) bantuan pangan , d ) bantuan teknik , e ) devisa kredit ( devisa yang diperoleh dari pinjaman ) , dan f ) grant ( sumbangan atau hadiah ) .
+sentence 3: bantuan iggi kepada indonesia ini diberikan setiap tahun .
+sentence 4: setiap tahun diselenggarakan sidang iggi untuk membahas dan mengevaluasi pelaksanaan pembangunan indonesia sebagai dasar pemberian bantuan tahun berikutnya .
+sentence 5: bantuan yang berbentuk pinjaman ( devisa kredit ) bersyarat lunak dengan bunga berkisar 0 – 3 % setahun dengan jangka waktu angsuran berkisar 7 – 10 tahun .
+passage 23 score = 7.0
+sentence 1: indonesia , sebagai anggota apec , mempunyai peranan yang cukup penting .
+sentence 2: dalam pertemuan di seattle , amerika serikat ( 1993 ) , indonesia ditunjuk sebagai ketua apec untuk periode 1994 – 1995 .
+sentence 3: sebagai ketua apec , indonesia berhasil menyelenggarakan pertemuan apec di bogor pada tanggal 14 – 15 november 1994 yang dihadiri oleh 18 kepala negara dan kepala pemerintahan negara anggota .
+sentence 4: sidang apec di tokyo tahun 1995 , memutuskan bahwa era perdagangan bebas akan mulai diberlakukan tahun 2003 bagi negara maju dan 2010 bagi negara berkembang .
+sentence 5: [ ps ]
+passage 5 score = 6.75
+sentence 1: pada masa orde baru , politik luar negeri indonesia dikembalikan lagi pada politik bebas aktif sesuai dengan pancasila dan uud 1945 .
+sentence 2: hal ini merupakan pelaksanaan dari ketetapan mprs no .
+sentence 3: xii/mprs/1966 .
+sentence 4: indonesia segera memulihkan hubungan dengan malaysia yang sejak 1964 terputus .
+sentence 5: normalisasi hubungan indonesia – malaysia tersebut berhasil dicapai dengan ditandatangani jakarta accord pada tanggal 11 agustus 1966 .
+passage 6 score = 6.75
+sentence 1: normalisasi hubungan indonesia – malaysia tersebut berhasil dicapai dengan ditandatangani jakarta accord pada tanggal 11 agustus 1966 .
+sentence 2: persetujuan normalisasi hubungan indonesia – malaysia merupakan hasil perundingan di bangkok ( 29 mei – 1 juni 1966 ) .
+sentence 3: perundingan dilakukan wakil perdana menteri/menteri luar negeri malaysia , tun abdul razak dan menteri utama/menteri luar negeri indonesia , adam malik .
+sentence 4: perundingan telah menghasilkan persetujuan yang dikenal sebagai persetujuan bangkok .
+sentence 5: adapun persetujuan bangkok mengandung tiga hal pokok , yaitu sebagai berikut .
+passage 10 score = 6.75
+sentence 1: keanggotaan asean bertambah seiring dengan banyaknya negara yang merdeka .
+sentence 2: brunei darussalam secara resmi diterima menjadi anggota asean yang keenam pada tanggal 7 januari 1984 .
+sentence 3: vietnam diterima menjadi anggota asean ketujuh pada tanggal 28 juli 1995 .
+sentence 4: sementara itu , laos dan myanmar bergabung dengan asean pada tanggal 23 juli 1997 dan menjadi anggota kedelapan dan kesembilan .
+sentence 5: kampuchea menjadi anggota asean yang kesepuluh pada tanggal 30 april 1999 .
+passage 1 score = 6.5
+sentence 1: kebijakan luar negeri pemerintahan orde baru – langkah-langkah yang diambil oleh kabinet ampera dalam menata kembali politik luar negeri , antara lain sebagai berikut .
+sentence 2: a. indonesia kembali menjadi anggota pbb indonesia kembali menjadi anggota pbb pada tanggal 28 september 1966 dan tercatat sebagai anggota ke-60 .
+sentence 3: sebagai anggota pbb , indonesia telah banyak memperoleh manfaat dan bantuan dari organisasi internasional tersebut .
+sentence 4: manfaat dan bantuan pbb , antara lain sebagai berikut .
+sentence 5: 1 .
+passage 18 score = 6.5
+sentence 1: bantuan yang berbentuk pinjaman ( devisa kredit ) bersyarat lunak dengan bunga berkisar 0 – 3 % setahun dengan jangka waktu angsuran berkisar 7 – 10 tahun .
+sentence 2: bantuan dari iggi yang digunakan untuk pembangunan proyek-proyek produktif dan kesejahteraan sosial itu , antara lain sebagai berikut .
+sentence 3: a ) bantuan teknik , umumnya tidak diterima dalam bentuk uang , tetapi dalam bentuk bantuan tenaga ahli , peralatan laboratorium , dan penelitian .
+sentence 4: b ) grant digunakan untuk biaya berbagai macam keperluan pembangunan , misalnya untuk membeli kapal angkutan laut .
+sentence 5: c ) devisa kredit dan bantuan pangan digunakan untuk biaya impor barang modal , bahan baku , dan bahan makanan .
+passage 20 score = 6.5
+sentence 1: sebagai penggantinya , pemerintah indonesia meminta pada bank dunia membentuk consultative group on indonesia ( cgi ) .
+sentence 2: cgi mengadakan sidang pertama kali di paris , prancis tanggal 16 juli 1992 .
+sentence 3: sidang dihadiri oleh 18 negara dan 10 lembaga internasional yang dipimpin oleh bank dunia .
+sentence 4: anggota cgi terdiri atas negara-negara bekas anggota iggi ( kecuali belanda ) dan lembaga-lembaga internasional .
+sentence 5: negara anggota cgi itu , antara lain : a ) jepang , b ) korea selatan , c ) amerika serikat , d ) prancis , e ) jerman , f ) inggris , g ) swiss , h ) belgia , i ) denmark , j ) austria , k ) kanada , l ) italia , m ) spanyol , n ) finlandia , o ) swedia , p ) norwegia , dan q ) selandia baru .
+passage 3 score = 6.25
+sentence 1: 3 .
+sentence 2: pbb banyak memberikan sumbangan kepada bangsa indonesia dalam bidang ekonomi , sosial , dan kebudayaan .
+sentence 3: hubungan yang harmonis antara indonesia dan pbb menjadi terganggu sejak indonesia menyatakan diri keluar dari keanggotaan pbb pada tanggal 7 januari 1965 .
+sentence 4: keluarnya indonesia dari keanggotaan pbb tersebut sebagai protes atas diterimanya federasi malaysia sebagai anggota tidak tetap dewan keamanan pbb , sedangkan indonesia sendiri pada saat itu sedang berkonfrontasi dengan malaysia .
+sentence 5: akibat keluar dari keanggotaan pbb , indonesia praktis terkucil dari pergaulan dunia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+title : perkembangan masyarakat indonesia pada masa orde baru
+passage 1 score = 8.25
+sentence 1: a. proses pertumbuhan dan mobilitas penduduk dan perkembangan masyarakat intelektual pada masa pemerintahan orde baru 1 .
+sentence 2: latar belakang lahirnya orde baru a. adanya gerakan 30 s/pki b. kekosongan pimpinan angkatan darat c. demonstrasi yang dilakukan oleh para mahasiswa , pemuda dan pelajar di depan gedung dpr-gr yang mengajukan tun tutan ( tritura : pembubaran pki , pembersihan kabinet dwikora dan turunkan harga barang ) d. perubahan kabinet ( dwikora-seratus menteri ) e. tertembaknya mahasiswa arif rahman hakim akhirnya pada tanggal 11 maret 1966 presiden mengeluarkan surat perintah yang berisi tentang pemulihan keamanan dan jaminan keamanan bagi presiden soekarno .
+sentence 3: dengan berkuasanya soeharto memegang tampuk pemerintahan dimulailah babak baru yaitu orde baru .
+sentence 4: 2 .
+sentence 5: perkembangan kekuasaan orde baru pada hakikatnya orde baru merupakan tatanan seluruh kehidupan rakyat , bangsa dan negara yang diletakkan pada kemurnian pelaksanaan pancasila dan uud 1945 atau sebagai koreksi terhadap penyelewengan penyelewengan yang terjadi pada masa lalu tritura mengungkapkan keinginan rakyat yang mendalam untuk melaksanakan kehidupan bernegara sesuai dengan aspirasi masyarakat .
+passage 3 score = 7.0
+sentence 1: xxv / mprs / 1966 ) c. pelurusan kembali tertib konstitusional berdasarkan pancasila dan tertib hukum ( tap mprs no .
+sentence 2: xx / mprs / 1966 ) pada tanggal 3 pebruari 1967 dpr-gr yang menganjurkan kepada soeharto untuk melaksanakan sidang istimewa , sehingga pada 20 pebruari 1967 presiden soekarno menyerahkan kekuasaan kepada soeharto .
+sentence 3: tahap selanjutnya adalah : a. penyederhanaan partai b. memurnikan kembali politik luar negeri bebas aktif c. menghentikan konfrontasi dengan malaysia dan membentuk kerjasama asean d. kembali menjadi anggota pbb 3 .
+sentence 4: kebijakan pemerintah orde baru setelah berhasil memulihkan keamanan kemudian pemerintah melaksanakan pembangunan nasional jangka pendek dan jangka panjang melalui pelita yang tidak terlepas dari trilogi pembangunan , yaitu a. pemerataan pembangunan dan hasil-hasilnya yang menuju pada terciptanya keadilan sosial bagi seluruh rakyat b. pertumbuhan ekonomi yang cukup timggi c. stabilitas nasional yang sehat dan dinamis pelaksanaan pembangunan tidak akan berjalan lancar tanpa ada pemerataan pembangunan yang menetapkan 8 jalur pemerataan , yakni : a. pemerataan pemenuhan kebutuhan pokok rakyat , hususnya sandang , pangan dan perumahan .
+sentence 5: b. pemerataan kesempatan memperoleh pendidikan dan pelayanan kesehatan c. pemerataan pembagian pendapatan d. pemerataan kesempatan kerja e. pemerataan berusaha f. pemerataan kesempatan berpartisipasi dalam pembangunan khususnya bagi generasi muda dan kaum wanita g. pemerataan penyebaran pembangunan di seluruh wilayah tanah air h. pemeratan kesempatan memperoleh keadilan .
+passage 2 score = 6.75
+sentence 1: perkembangan kekuasaan orde baru pada hakikatnya orde baru merupakan tatanan seluruh kehidupan rakyat , bangsa dan negara yang diletakkan pada kemurnian pelaksanaan pancasila dan uud 1945 atau sebagai koreksi terhadap penyelewengan penyelewengan yang terjadi pada masa lalu tritura mengungkapkan keinginan rakyat yang mendalam untuk melaksanakan kehidupan bernegara sesuai dengan aspirasi masyarakat .
+sentence 2: jawaban dari tuntutan itu terdapat pada 3 ketetapan sebagai berikut : a. pengukuhan tindakan pengemban supersemar yang membubarkan pki dan ormasnya ( tap mprs no .
+sentence 3: iv dan no .
+sentence 4: ix / mprs / 1966 b. pelarangan paham dan ajaran komunisme/marxisme-leninisme di indonesia ( tap mprs no .
+sentence 5: xxv / mprs / 1966 ) c. pelurusan kembali tertib konstitusional berdasarkan pancasila dan tertib hukum ( tap mprs no .
+passage 4 score = 6.5
+sentence 1: b. pemerataan kesempatan memperoleh pendidikan dan pelayanan kesehatan c. pemerataan pembagian pendapatan d. pemerataan kesempatan kerja e. pemerataan berusaha f. pemerataan kesempatan berpartisipasi dalam pembangunan khususnya bagi generasi muda dan kaum wanita g. pemerataan penyebaran pembangunan di seluruh wilayah tanah air h. pemeratan kesempatan memperoleh keadilan .
+sentence 2: 4 .
+sentence 3: proses menguatnya peran negara pada masa orde baru sejak orde baru berkuasa telah banyak perubahan yang dicapai oleh bangsa indonesia , langkah yang dilakukannya adalah menciptakan stabilitas ekonomi politik .
+sentence 4: tujuan perjuangannya adalah menegakkan tata kehidupan negara yang didasarkan atas kemurnian pelaksanaan pancasila dan uud 1945 .
+sentence 5: kabinet yang pertamakali dibentuk adalah kabinet ampera dengan tugas menciptakan stabilitas politik dan ekonomi sebagai persyaratan untuk melaksanakan pembangunan nasional yang disebut dwi dharma kabinet ampera .
+passage 5 score = 1.5
+sentence 1: kabinet yang pertamakali dibentuk adalah kabinet ampera dengan tugas menciptakan stabilitas politik dan ekonomi sebagai persyaratan untuk melaksanakan pembangunan nasional yang disebut dwi dharma kabinet ampera .
+sentence 2: adapun programnya antara lain : a. memperbaiki kehidupan rakyat terutama sandang dan pangan b. melaksanakan pemilu c. melaksanakan politik luar negeri yang bebas dan aktif d. melanjutkan perjuangan anti imperialisme dan kolonialisme dalam segala bentuk .
+sentence 3: keempat program ini disebut dengan catur karya kabinet ampera .
+sentence 4: 5 .
+sentence 5: proses pertumbuhan dan mobilitas penduduk pada masa orde baru a. pertumbuhan dan mobilitas penduduk menurut edward ullman ada 3 faktor yang mempengaruhi timbulnya interaksi kota , yaitu : 1 .
+passage 6 score = 1.25
+sentence 1: proses pertumbuhan dan mobilitas penduduk pada masa orde baru a. pertumbuhan dan mobilitas penduduk menurut edward ullman ada 3 faktor yang mempengaruhi timbulnya interaksi kota , yaitu : 1 .
+sentence 2: adanya wilayah yang saling melengkapi 2 .
+sentence 3: adanya kesempatan untuk berinteraksi 3 .
+sentence 4: adanya kemudahan transfer/pemindahan dalam ruang dalam kaitannya dengan interaksi kota tersebut , maka mobilitas penduduk dapat diartikan sebagai suatu perpindahan penduduk baik secara teritorial ataupun geografis .
+sentence 5: hubungan timbal balik antara kota dengan kota maupun antara kota dengan desa dapat menyebabkan munculnya gejala-gejala yang baru yang meliputi aspek ekonomi , sosial maupun budaya .
+passage 7 score = 1.25
+sentence 1: hubungan timbal balik antara kota dengan kota maupun antara kota dengan desa dapat menyebabkan munculnya gejala-gejala yang baru yang meliputi aspek ekonomi , sosial maupun budaya .
+sentence 2: gejala ini dapat bersifat positif ataupun negatif bagi desa dan kota .
+sentence 3: b. pusat-pusat pertumbuhan di indonesia pada masa orde baru untuk mengetahui munculnya pusat-pusat pertumbuhan di indonesia terdapat 2 teori yaitu : 1 .
+sentence 4: teori tempat sentral ( central place theory ) oleh walter christaller bahwa pusat lokasi aktivitas yang melayani berbagai kebutuhan penduduk harus berada di suatu tempat sentral yaitu tempat yang memungkinkan partisipasi manusia dengan jumlah yang maksimum.tempat sentral itu berupa ibukota kabupaten , kecamatan , propinsi ataupun ibukota negara .
+sentence 5: masing-masing titik sentral memiliki daya tarik terhadap penduduk untuk tinggal disekitarnya dengan daya jangkau yang berbeda .
+passage 8 score = 1.25
+sentence 1: masing-masing titik sentral memiliki daya tarik terhadap penduduk untuk tinggal disekitarnya dengan daya jangkau yang berbeda .
+sentence 2: 2 .
+sentence 3: teori kutub pertumbuhan ( growth pole theory ) oleh lerroux bahwa pembangunan yang terjadi di manapun tidak terjadi secara serentak tapi muncul pada tempat-tempat tertentu dengan kecepatan dan identitas yang berbeda .
+sentence 4: kawasan yang menjadi pusat pembangunan dinamakan pusat-pusat atau kutub-kutub pertumbuhan .
+sentence 5: dari kutub inilah proses pembangunan menyebarke wilayah-wilayah lain di sekitarnya .
+passage 10 score = 1.25
+sentence 1: sarana dan prasarana transportasi 4 .
+sentence 2: adanya industri b. dampak revolusi hijau dan industrialisasi terhadap perubahan teknlogi dan lingkungan di berbagai daerah pada masa orde baru 1 .
+sentence 3: revolusi hijau revolusi hijau merupakan revolusi biji-bijian dari hasil penemuan ilmiah berupa benih unggul dari berbagai varietas gandum , padi , dan jagung yang membuat hasil panen komoditas tersebut meningkat di begara-negara berkembang .
+sentence 4: revolusi hijau lahir karena masalah pertambahan penduduk yang pesat .
+sentence 5: pertambahan penduduk harus diimbangi dengan peningkatan produksi pertanian .
+passage 9 score = 1.0
+sentence 1: dari kutub inilah proses pembangunan menyebarke wilayah-wilayah lain di sekitarnya .
+sentence 2: c. faktor penyebab suatu titik lokasi menjadi pusat pertumbuhan suatu titik lokasi menjadi pusat pertumbuhan disebabkan oleh beberapa hal antara lain : 1 .
+sentence 3: kondisi fisik wilayah 2 .
+sentence 4: kekayaan sumber daya alam 3 .
+sentence 5: sarana dan prasarana transportasi 4 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+title : jatuh bangunnya pemerintahan ri setelah 21 mei 1998
+passage 2 score = 7.25
+sentence 1: faktor penting yang menyebabkan ditolaknya laporan pertanggungjawaban presiden b.j. habibie adalah patut diduga bahwa presiden menguraikan indikator pertumbuhan ekonomi yang tidak akurat dan manipulatif .
+sentence 2: sidang umum mpr juga berhasil mengambil keputusan memilih dan menetapkan k.h. abdurrahman wahid ( gus dur ) sebagai presiden ri masa bakti 1999 – 2004 .
+sentence 3: presiden k.h. abdurrahman wahid dalam menjalankan pemerintahan didampingi wapres megawati sukarnoputri .
+sentence 4: sidang umum mpr setelah berhasil menetapkan presiden dan wakil presiden ri juga berhasil membuat sembilan ketetapan dan untuk kali pertama melakukan amandemen terhadap uud 1945 .
+sentence 5: presiden abdurrahman wahid menjalankan pemerintahan dengan membentuk kabinet yang disebut kabinet persatuan nasional .
+passage 1 score = 7.0
+sentence 1: jatuh bangunnya pemerintahan ri setelah 21 mei 1998 – pemilihan umum dilaksanakan pada 7 juni 1999 .
+sentence 2: dari seratus lebih partai politik yang terdaftar , hanya 48 partai politik yang dinyatakan memenuhi persyaratan untuk mengikuti pemilihan umum .
+sentence 3: lima besar hasil pemilu adalah partai demokrasi indonesia perjuangan ( pdi perjuangan ) , partai golongan karya ( partai golkar ) , partai kebangkitan bangsa ( pkb ) , partai persatuan pembangunan ( ppp ) , dan partai amanat nasional ( pan ) dan sekaligus merupakan lima penyusunan keanggotaan mpr yang menempatkan amin rais sebagai ketua mpr dan akbar tanjung sebagai ketua dpr ri .
+sentence 4: sidang umum mpr pada tanggal 19 oktober 1999 menolak laporan pertanggungjawaban presiden b.j. habibie yang disampaikan pada tanggal 16 oktober 1999 .
+sentence 5: faktor penting yang menyebabkan ditolaknya laporan pertanggungjawaban presiden b.j. habibie adalah patut diduga bahwa presiden menguraikan indikator pertumbuhan ekonomi yang tidak akurat dan manipulatif .
+passage 8 score = 7.0
+sentence 1: namun , jika sampai tanggal 31 juli 1998 kompromi ini tidak didapatkan , presiden akan menyatakan negara dalam keadaan bahaya .
+sentence 2: mpr berencana menggelar sidang istimewa mulai tanggal 21 juli 2001 .
+sentence 3: presiden direncanakan akan memberikan laporan pertanggungjawabannya pada tanggal 23 juli 2003 .
+sentence 4: namun , presiden menolak rencana tersebut dan menyatakan sidang istimewa mpr tidak sah dan ilegal .
+sentence 5: di lain pihak , beberapa pimpinan partai politik lima besar pemenang pemilu minus pkb mulai mendekati dan mendorong wapres megawati sukarnoputri untuk maju menjadi presiden .
+passage 9 score = 7.0
+sentence 1: di lain pihak , beberapa pimpinan partai politik lima besar pemenang pemilu minus pkb mulai mendekati dan mendorong wapres megawati sukarnoputri untuk maju menjadi presiden .
+sentence 2: melihat perkembangan politik yang tidak menguntungkan tersebut , presiden k.h. abdurrahman wahid menengarai adanya persekongkolan untuk menjatuhkan dirinya sebagai presiden .
+sentence 3: oleh karena itu , presiden segera bertindak meskipun tidak mendapat dukungan penuh dari kabinetnya untuk mengeluarkan dekret presiden pada tanggal 23 juli 2001 pukul 1.10 wib dini hari .
+sentence 4: dekret presiden 23 juli 2001 pada intinya berisi hal sebagai berikut : 1 .
+sentence 5: membekukan mpr dan dpr ri ; 2 .
+passage 7 score = 6.5
+sentence 1: partai kebangkitan bangsa sebagai basis politik k.h. abdurrahman wahid jelas mendukung langkah-langkahnya .
+sentence 2: sikap mpr untuk menggelar sidang istimewa makin tegas setelah presiden secara sepihak melantik pemangku sementara jabatan kepala kepolisian ri komisaris jenderal ( pol ) chaerudin ismail menggantikan kapolri jenderal suroyo bimantoro yang telah dinonaktifkan karena berseberangan pendapat dengan presiden .
+sentence 3: padahal sesuai aturan yang berlaku pengangkatan jabatan setingkat kapolri meskipun itu hak prerogatif presiden harus tetap berkoordinasi dengan dpr .
+sentence 4: presiden sendiri dalam menanggapi rencana sidang istimewa berusaha mencari kompromi politik yang sama-sama menguntungkan .
+sentence 5: namun , jika sampai tanggal 31 juli 1998 kompromi ini tidak didapatkan , presiden akan menyatakan negara dalam keadaan bahaya .
+passage 11 score = 6.5
+sentence 1: mpr pada tanggal 23 juli 2001 pukul 8.00 wib , akhirnya bersikap bahwa dekret tidak sah dan presiden jelas-jelas telah melanggar haluan negara yang diembannya .
+sentence 2: pernyataan mpr didukung oleh fatwa mahkamah agung yang langsung dibacakan pada sidang istimewa mpr itu .
+sentence 3: sidang istimewa mpr terus berjalan meskipun pkb dan pdkb menyatakan walk out dan tidak bertanggung jawab atas hasil apapun dari sidang istimewa mpr .
+sentence 4: fraksi-fraksi mpr yang ada akhirnya setuju memberhentikan k.h. abdurrahman wahid sebagai presiden ri dan menetapkan megawati sukarnoputri sebagai presiden ri .
+sentence 5: keputusan menetapkan megawati sukarnoputri sebagai presiden dituangkan dalam tap .
+passage 13 score = 6.5
+sentence 1: hamzah haz terpilih wakil presiden ri .
+sentence 2: presiden megawati sukarnoputri menjalankan pemerintahan dengan membentuk kabinet yang diberi nama kabinet gotong royong .
+sentence 3: komposisi kabinet ini ditetapkan pada tanggal 9 agustus 2001 .
+sentence 4: persoalan berat yang dihadapi bangsa indonesia telah menghadang presiden megawati dan kabinetnya untuk diselesaikan secepatnya .
+sentence 5: [ ps ]
+passage 6 score = 6.25
+sentence 1: presiden abdurrahman wahid tidak mengindahkan peringatan dpr tersebut .
+sentence 2: dpr akhirnya bertindak meminta mpr menggelar sidang istimewa untuk meminta pertanggungjawaban kinerja presiden .
+sentence 3: presiden berusaha menyelesaikan masalah laporan pertanggungjawaban dengan kompromi politik .
+sentence 4: namun , upaya itu tidak mendapat sambutan positif lima dari enam partai politik pemenang pemilu 1999 , yaitu pdi perjuangan , partai golkar , ppp , pan , dan partai bulan bintang .
+sentence 5: partai kebangkitan bangsa sebagai basis politik k.h. abdurrahman wahid jelas mendukung langkah-langkahnya .
+passage 10 score = 6.25
+sentence 1: membekukan mpr dan dpr ri ; 2 .
+sentence 2: mengembalikan kedaulatan ke tangan rakyat dan mengambil tindakan serta menyusun badan-badan yang diperlukan untuk menyelenggarakan pemilihan umum dalam waktu satu tahun ; 3 .
+sentence 3: menyelamatkan gerakan reformasi total dari hambatan unsur-unsur orde baru dengan membekukan partai golkar sambil menunggu keputusan mahkamah agung .
+sentence 4: bangsa indonesia menanggapi dekret presiden itu dengan penuh kebimbangan .
+sentence 5: mpr pada tanggal 23 juli 2001 pukul 8.00 wib , akhirnya bersikap bahwa dekret tidak sah dan presiden jelas-jelas telah melanggar haluan negara yang diembannya .
+passage 12 score = 6.0
+sentence 1: keputusan menetapkan megawati sukarnoputri sebagai presiden dituangkan dalam tap .
+sentence 2: mpr no .
+sentence 3: iii/mpr/2001 .
+sentence 4: masa jabatan terhitung sejak dilantik sampai tahun 2004 atau melanjutkan sisa masa pemerintahan presiden k.h. abdurrahman wahid .
+sentence 5: hamzah haz terpilih wakil presiden ri .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok237.txt
+title : asean (assosiation of south east nations)
+passage 1 score = 5.75
+sentence 1: asean ( assosiation of south east nations ) asean atau perbara ( persatuan bangsa-bangsa asia tenggara ) didirikan berdasarkan deklarasi bangkok 8 agustus 1967 , yang ditandatangani oleh lima menteri luar negeri negara-negara di kawasan asia tenggara , antara lain : adam malik ( indonesia ) tun abdul rozak ( malaysia ) thanat khoman ( thailand ) s. rajaratnam ( singapura ) narcisco ramos ( filipina ) .
+sentence 2: berdirinya asean dilatarbelakangi oleh persamaan-persamaan yang dimiliki oleh negara-negara asia tenggara , antara lain persamaan nasib , kepentingan , letak geografis dan sosial budaya .
+sentence 3: berdasarkan deklarasi bangkok tahun 1967 , tujuan asean antara lain sebagai berikut : mempercepat pertumbuhan ekonomi , kemajuan sosial dan perkembangan kebudayaan melalui usaha­-usaha bersama dalam semangat persamaan persahabatan .
+sentence 4: memajukan perdamaian dan stabilitas regional dengan menghormati keadilan , hukum serta prinsip­prinsip piagam pbb .
+sentence 5: menunjukkan kerja sama secara aktif dan tukar-menukar bantuan untuk kepentingan bersama dalam bidang ekonomi , sosial , budaya .
+passage 2 score = 5.75
+sentence 1: menunjukkan kerja sama secara aktif dan tukar-menukar bantuan untuk kepentingan bersama dalam bidang ekonomi , sosial , budaya .
+sentence 2: dan dministrasi .
+sentence 3: memajukan studi tentang asia tenggara anggota asean keanggotaan asean terbuka bagi negara di asia tenggara dengan syarat bahwa negara tersebut dapat menyetujui dasar dan tujuan asean seperti yang tercantum dalam deklarasi bangkok , mengenai anggota baru perlu adanya kesepakatan oleh kelima negara pendiri asean .
+sentence 4: anggota-anggota asean antara lain , indonesia , malaysia , thailand , singapura , filipina , brunai darussalam ( 7 januari 1984 ) , vietnam ( 28 juli 1985 ) , laos ( 23 juli 1997 ) , birma ( 23 juli 1997 ) , dan kamboja ( 15 desember 1998 ) .
+sentence 5: dasar-dasar kerja sama asean , antara lain sebagai berikut : saling menghormati terhadap kemerdekaan , kedaulatan , persamaan , integritas teritorial dan identitas semua bangsa .
+passage 6 score = 5.75
+sentence 1: di bidang politik .
+sentence 2: sejak tahun 1971 memasuki kerja sama di bidang politik .
+sentence 3: hal ini didasarkan pada deklarasi kuala lumpur 27 november 1971 , yang mencetuskan konsepsi wilayah asia tenggara sebagai suatu kawasan damai , bebas dan netral ( zopfan : zone of peace freedom and neutrality ) .
+sentence 4: konferensi tingkat tinggi ( ktt ) asean ktt i tanggal 23 - 24 februari 1976 di denpasar , indonesia ktt ii tanggal 4 - 5 agustus 1977 di kuala lumpur , malaysia ktt iii tanggal 14 - 15 desember 1987 di manila .
+sentence 5: filipina , ktt iv tanggal 27 - 28 februari 1992 di singapura ktt v tanggal 14 - 15 desember 1995 di bangkok , thailand ktt vi tanggal 15 - 17 desember 1998 di hanoi , vietnam sekretaris asean sekretaris tetap asean , dipimpin oleh seorang sekretaris jenderal ( sekjend ) yang berkedudukan di jakarta , indonesia .
+passage 7 score = 5.75
+sentence 1: filipina , ktt iv tanggal 27 - 28 februari 1992 di singapura ktt v tanggal 14 - 15 desember 1995 di bangkok , thailand ktt vi tanggal 15 - 17 desember 1998 di hanoi , vietnam sekretaris asean sekretaris tetap asean , dipimpin oleh seorang sekretaris jenderal ( sekjend ) yang berkedudukan di jakarta , indonesia .
+sentence 2: sekretaris nasional asean , berada di setiap negara anggota asean .
+sentence 3: [ gs ]
+passage 3 score = 0.25
+sentence 1: dasar-dasar kerja sama asean , antara lain sebagai berikut : saling menghormati terhadap kemerdekaan , kedaulatan , persamaan , integritas teritorial dan identitas semua bangsa .
+sentence 2: mengakui hak setiap bangsa untuk menghidupkan nasional.yang bebas dari turut campur , subversi dan konvensi dari luar .
+sentence 3: tidak sating turut campur urusan dalam negeri masing-masing .
+sentence 4: penyelesaian pertikaian dengan persaingan secara damai .
+sentence 5: tidak menggunakan ancaman atau penggunaan kekuatan .
+passage 4 score = 0.25
+sentence 1: tidak menggunakan ancaman atau penggunaan kekuatan .
+sentence 2: menjalankan kerja sama secara efektif .
+sentence 3: kerjasama asean di bidang ekonomi .
+sentence 4: ada lima komisi tetap df bidang ekonomi , antara lain : komite pangan , pertanian , dan kehutangan ( cofaf ) di indonesia ; komite transportasi dan komunikasi ( cotac ) di malaysia ; komite industri , pertambangan , dan energi ( coime ) di singapura ; komite keuangan dan perbankan ( cofab ) ' di thailand ; komite perdagangan dan pariwisata ( cott ) di singapura di bidang sosial .
+sentence 5: kerja sama asean di bidang sosial ditangani oleh komite pengembangan sosial ( cosd commute on social development ) .
+passage 5 score = 0.0
+sentence 1: kerja sama asean di bidang sosial ditangani oleh komite pengembangan sosial ( cosd commute on social development ) .
+sentence 2: hasilnya peningkatan kerja sama dalam menanggulangi masalah kependudukan dan dalam mencegah sekaligus pemberantasan narkoba .
+sentence 3: di bidang kebudayaan .
+sentence 4: di bidang kebudayaan ditangani oleh due komite tetap asean yaitu komite ketudayaan dan penerangan ( coci ) , serta komite pengetahuan dan teknologi ( cost ) .
+sentence 5: di bidang politik .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok369.txt
+title : perkembangan politik dan ekonomi serta perubahan masyarakat di indonesia dalam upaya mengisi kemerdekaan
+passage 5 score = 6.25
+sentence 1: dalam bidang pendidikan mengusahakan agar ajaran marxis leninisme menjadi salah satu masta pelajaran wajib 3 .
+sentence 2: dalam bidang militer , mengindoktrinasi perwira abri dengan ajaran komunis b. luar negeri berusaha mengubah politik luar negeri yang bebas dan aktif menjurus ke negara-negara yang komunis .
+sentence 3: b. faktor-faktor penyebab kegagalan penyusunan uud baru badan konstituante yang terbentuk hasil pemilu 1955 bertugas merumuskan konstitusi/uud yang tetap sebagai pengganti uud asementara tahun 1950 bersidang pada tanggal 20 nopember 1956 .
+sentence 4: ternyata dalam sidangt tersebut diwarnai dengan perdebatan sengit , para anggota badan konstituante lebih banyak mementingkan urusan partainya sendiri daripada kepentingan rakyat .
+sentence 5: untuk itulah maka pada 21 pebruari 1957 mengajukan gagasan yang disebut konsepsi presiden yang berisi : a. demokrasi terpimpin b. kabinet gotong royong yang beranggotakan semua wakil parpol c. pembentukan dewan nasional yang beranggotakan semua wakil partai politik konsepsi ini ditolak oleh beberapa partai seperti masyumi , nu , psii , partai katolik dan pri karena lebih banyak didominasi oleh pki .
+passage 6 score = 6.25
+sentence 1: untuk itulah maka pada 21 pebruari 1957 mengajukan gagasan yang disebut konsepsi presiden yang berisi : a. demokrasi terpimpin b. kabinet gotong royong yang beranggotakan semua wakil parpol c. pembentukan dewan nasional yang beranggotakan semua wakil partai politik konsepsi ini ditolak oleh beberapa partai seperti masyumi , nu , psii , partai katolik dan pri karena lebih banyak didominasi oleh pki .
+sentence 2: pada tanggal 22 april 1959 dihadapan sidang badan konstitante presiden mengumumkan kembali ke uud 1945 namun jumlah pendukung tidak mencapai kuorum sehingga situasi tetap tidak menentu .
+sentence 3: untuk itulah maka presiden mengeluarkan dekritnya pada tanggal 5 juli 1959 .
+sentence 4: c. kebijakan ekonomi pemerintah dengan kondisi ekonomi nasional dan daerahsampai tahun 1965 1 .
+sentence 5: sistem ekonomi liberal a. nasionalisasi de javasche bank sejak tahun 1951 bangsa indonesia hanya mengandalkan hasil perkebunan tanpa ditunjang oleh barang ekspor lain sedangkan barang impor semakin bertambah .
+passage 1 score = 6.0
+sentence 1: a. perkembangan politik di indonesia dalam upaya mengisi kemerdekaan 1 .
+sentence 2: demokrasi liberal pada masa berlakunya konstitusi ris ( 1949 ) dan uuds ( 1950 ) bangsa kita melaksanakan pesta demokrasi liberal dengan menggunakan sistem pemerintahan secara parlementer , di mana kepal negara adalah presiden sedangkan kepala pemerintahan dipimpin oleh perdana menteri dan bertanggung jawab pada parlemen ( dpr ) .
+sentence 3: pada masa itu situasi politik tidak stabil karena sering terjadi nya pergantian kabinet dan sering terjadi pertentangan politik di antara partai-partai yang ada .
+sentence 4: adapun kabinet yang pernah memerintah antara lain a. kabinet natsir ( 6 september 1950 – 20 maret 1951 ) kabinet ini jatuh karena ada mosi tidak percaya bahwa m. natsir tidak mampu menyelesaikan masalah irian barat dan sering terjadi pemberontakan sehingga muncul gerakan di/tii , andi azis , apra , rms dsb .
+sentence 5: b. kabinet sukiman ( 26 april 1951 – 3 april 1952 ) masalah yang dihadapinya adanya pertukaran nota antara menlu ahmad subarjo dengan duber as merle cochran tentang bantuan ekonomi dan militer berdasarkan mutual security act ( msa ) atau uu kerjasama keamanan .
+passage 2 score = 6.0
+sentence 1: b. kabinet sukiman ( 26 april 1951 – 3 april 1952 ) masalah yang dihadapinya adanya pertukaran nota antara menlu ahmad subarjo dengan duber as merle cochran tentang bantuan ekonomi dan militer berdasarkan mutual security act ( msa ) atau uu kerjasama keamanan .
+sentence 2: c. kabinet wilopo ( 3 april 1952 – 3 juni 1953 ) masalah yang dihadapinya yaitu : 1 .
+sentence 3: gerakan separatis di sumatera dan sulawesi 2 .
+sentence 4: peristiwa 17 oktober 3 .
+sentence 5: peristiwa tanjung morawa d. kabinet ali i ( 31 juli 1953 – 12 agustus 1955 ) masalah yang dihadapinya yaitu pemberontakan di/tii di jawa barat , aceh dan sulawesi serta pergantian ksad dari bambang sugeng pada bambang oetoyo e. kabinet burhanudin harahap ( 12 agustus 1955 – 3 maret 1956 ) pada masa ini berhasil melaksanakan pemilu i dengan 2 periode , tanggal 29 september 1955 memilih anggota dpr dan tanggal 15 desember 1955 memilih anggota badan konstituante .
+passage 3 score = 6.0
+sentence 1: peristiwa tanjung morawa d. kabinet ali i ( 31 juli 1953 – 12 agustus 1955 ) masalah yang dihadapinya yaitu pemberontakan di/tii di jawa barat , aceh dan sulawesi serta pergantian ksad dari bambang sugeng pada bambang oetoyo e. kabinet burhanudin harahap ( 12 agustus 1955 – 3 maret 1956 ) pada masa ini berhasil melaksanakan pemilu i dengan 2 periode , tanggal 29 september 1955 memilih anggota dpr dan tanggal 15 desember 1955 memilih anggota badan konstituante .
+sentence 2: pemilu i ini dimenangkan oleh 4 partai besar yaitu pni , masyumi , nu dan pki .
+sentence 3: f. kabinet ali ii ( 24 maret 1956 – 14 maret 1957 ) masalah yang dihadapinya yaitu timbulnya gerakan anti china dan pemberontakan prri/permesta .
+sentence 4: g. kabinet djuanda kabinet ini jatuh karena badan konstituante tidak bisa membuat uud yang baru pengganti uuds sehingga presiden mengeluarkan dekritnya tanggal 5 juli 1959 dan mengumumkan berlakunya demokrasi terpimpin .
+sentence 5: 2 .
+passage 4 score = 5.75
+sentence 1: 2 .
+sentence 2: demokrasi terpimpin karena badan konstituante tidak dapat membuat uud baru pengganti uuds maka pada tanggal 5 juli 1959 jam 17.00 hari jum ’ at presiden soekarno mengeluarkan dekritnya yang berisi : a. pembubaran badan konstitiante b. berlaku kembalinya uud 1945 dan tidak berlakunya uuds c. pembentukan mprs dan dpas dalam waktu singkat sejak saat itu presiden mengumumkan berlakunya sistem demokrasi terpimpin yang di dalamnya banyak terjadi penyimpangan dan penyelewengan terhadap uud 1945 antara lain : a. mprs mengangkat soekarno sebagai presiden seumur hidup b. presiden mengangkat mprs c. pidato presiden yang berjdul ” penemuan kembali revolusi kita ” dijadikan gbhn d. lembaga tinggi dan tertinggi negara dijadikan pembantu presiden e. presiden membubarkan dpr hasil pemilu dan menggantikannya dengan dpr-gr pada masa demokrasi terpimpin presiden lebih anyak dipengaruhi oleh pki dan pki memainkan peranan pentingnya sehingga mendapatkan perlakuan istimewa dari presiden .
+sentence 3: dalam rangka mewujudkan tujuannya maka pki melakukan tindakan antara lain : a. dalam negeri 1 .
+sentence 4: berusaha menyusup ke parpol dan ormas yang menjadi lawan politiknya kemudian memecah belah 2 .
+sentence 5: dalam bidang pendidikan mengusahakan agar ajaran marxis leninisme menjadi salah satu masta pelajaran wajib 3 .
+passage 11 score = 5.75
+sentence 1: b. menekan laju inflasi dalam upaya membendung aju inflasi pemerintah mengeluarkan peraturan pemerintah pengganti uu no. 2 tahun 1959 dan mulai berlaku sejak tanggal 25 agustus 1959 dengan maksud untuk mengurangi banyaknya uang yang beredar agar dapat memperbaiki kondisi keuangan dan pereknomian negara .
+sentence 2: c. melaksanakan pembangunan nasional pada tanggal 28 maret 1963 presiden soekarno menyampaikan deklarasi ekonomi ( dekon ) di jakarta.tujuannya adalah untuk menciptakan ekonomi nasional yang bersifat demokratis dan bebas dari imperialisme untuk mencapai kemajuan ekonomi yang berpegang pada sistem ekonomi berdikari .
+passage 7 score = 5.5
+sentence 1: sistem ekonomi liberal a. nasionalisasi de javasche bank sejak tahun 1951 bangsa indonesia hanya mengandalkan hasil perkebunan tanpa ditunjang oleh barang ekspor lain sedangkan barang impor semakin bertambah .
+sentence 2: untuk itu pemerintah pada masa kabinet sukiman menasionalisasi bank milik belanda menjadi milik indonesia dengan nama bank indonesia .
+sentence 3: usaha ini bertujuan untuk mengatasi krisis keuangan saat itu dan untuk menata ekonomi9 ekonomi indonesia ke arah yang lebih baik .
+sentence 4: b. sistem ekonomi gerakan benteng sistem ini merupakan gagasan dr. soemitro djoyohadikusumo yang intinya merupakan suatu kebijakan untuk melindungi pengusaha pribumi namun gagal karena para pegusaha indonesia lamban dalam usahanya dan ada yang menyalahgunakan bantuan pemerintah .
+sentence 5: usaha ini dilanjutkan oleh menteri yusuf wibisono , pengusaha indonesia diberikan pinjaman modal dengan harapan akan menjadi produsen dan dapat menghemat devisa negara .
+passage 10 score = 5.5
+sentence 1: 500,00 menjadi rp .
+sentence 2: 50,00 , sementara yang di bawah rp .
+sentence 3: 100,00 tidak didevaluasi .
+sentence 4: tujuan devaluasi untuk meningkatkan nilai rupiah dan rakyat kecil tidak dirugikan .
+sentence 5: b. menekan laju inflasi dalam upaya membendung aju inflasi pemerintah mengeluarkan peraturan pemerintah pengganti uu no. 2 tahun 1959 dan mulai berlaku sejak tanggal 25 agustus 1959 dengan maksud untuk mengurangi banyaknya uang yang beredar agar dapat memperbaiki kondisi keuangan dan pereknomian negara .
+passage 9 score = 5.25
+sentence 1: 2 .
+sentence 2: sistem ekonomi pada masa demokrasi terpimpin a. devaluasi mata uang tanggal 24 agustus 1959 pemerintah mendevaluasi mata uang rp .
+sentence 3: 100,00 menjadi rp .
+sentence 4: 100,00 dan rp .
+sentence 5: 500,00 menjadi rp .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+passage 2 score = 7.5
+sentence 1: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+sentence 2: pada peringatan hari kemerdekaan 17 agustus 1966 , presiden mengucapkan pidato di depan rakyat dari halaman istana merdeka yang dikenal dengan nama “ jangan sekali-kali meninggalkan sejarah ” , disingkat “ jasmerah ” .
+sentence 3: pidato yang kemudian menjadi pidato 17 agustus presiden soekarno yang terakhir tersebut mendapat reaksi dari berbagai kalangan dan menjadi bahan pertentangan politik , yang di beberapa tempat menyebabkan timbulnya bentrokan-bentrokan fisik .
+sentence 4: 2 .
+sentence 5: lahirnya surat perintah 11 maret 1966 ( supersemar ) pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+passage 3 score = 7.5
+sentence 1: lahirnya surat perintah 11 maret 1966 ( supersemar ) pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+sentence 2: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+sentence 3: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+sentence 4: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
+sentence 5: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
+passage 7 score = 7.25
+sentence 1: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
+sentence 2: b. tanggal 18 maret 1966 pengemban supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam g 30 s/pki dan diragukan etika baiknya yang dituangkan dalam keputusan presiden no. 5 tanggal 18 maret 1966 .
+sentence 3: c. tanggal 27 maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
+sentence 4: tokoh-tokoh yang duduk di dalam kabinet ini adalah mereka yang jelas tidak terlibat dalam g 30 s/pki .
+sentence 5: d. membersihkan lembaga legislatif dimulai dari tokoh-tokoh pimpinan mprs dan dprgr yang diduga terlibat g 30 s/pki .
+passage 9 score = 6.75
+sentence 1: mprs dibersihkan dari unsur-unsur g 30 s/pki .
+sentence 2: seperti halnya dengan dprgr , keanggotaan pki dalam mprs dinyatakan gugur .
+sentence 3: sesuai dengan uud 1945 , mprs mempunyai kedudukan yang lebih tinggi daripada lembaga kepresidenan .
+sentence 4: pengamanan menteri-menteri kabinet dwikora mayjen .
+sentence 5: soeharto selaku pengemban supersemar mengambil tindakan dengan “ pengamanan ” terhadap sejumlah menteri kabinet dwikora yang disempurnakan dan tokoh-tokoh yang terlibat dalam g 30 s/pki , yaitu sebagai berikut : 1 .
+passage 18 score = 6.0
+sentence 1: j.k tumakaka : menteri/sekretaris jenderal front nasional .
+sentence 2: 15 .
+sentence 3: mayjen .
+sentence 4: dr. soemarno : menteri/gubernur jakarta raya .
+sentence 5: tanggal 20 juni sampai 5 juli 1966 diadakan sidang umum iv mprs dengan hasil sebagai berikut .
+passage 19 score = 6.0
+sentence 1: tanggal 20 juni sampai 5 juli 1966 diadakan sidang umum iv mprs dengan hasil sebagai berikut .
+sentence 2: a. ketetapan mprs no .
+sentence 3: ix/mprs/1966 tentang pengesahan dan pengukuhan supersemar .
+sentence 4: b. ketetapan mprs no .
+sentence 5: x/mprs/1966 mengatur kedudukan lembaga-lembaga negara tingkat pusat dan daerah .
+passage 1 score = 5.75
+sentence 1: pemerintahan zaman orde baru dan lahirnya supersemar 1 .
+sentence 2: pengertian orde baru orde baru adalah suatu tatanan seluruh perikehidupan rakyat , bangsa dan negara yang diletakkan kembali kepada pelaksanaan pancasila dan uud 1945 secara murni dan konsekuen .
+sentence 3: dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap dan tekad untuk mengabdi pada kepentingan rakyat dan nasional dengan dilandasi oleh semangat dan jiwa pancasila serta uud 1945 .
+sentence 4: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
+sentence 5: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+passage 6 score = 5.75
+sentence 1: 3 .
+sentence 2: tindak lanjut supersemar sebagai tindak lanjut keluarnya surat perintah 11 maret 1966 , letnan jenderal soeharto sebagai pengemban supersemar segera mengambil tindakan untuk menata kembali kehidupan bermasyarakat , berbangsa , dan bernegara sesuai dengan pancasila dan uud 1945 , yaitu sebagai berikut .
+sentence 3: a. tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
+sentence 4: keputusan tersebut diperkuat dengan keputusan presiden/pangti abri/mandataris mprs no. 1/3/1966 tangal 12 maret 1966 .
+sentence 5: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
+passage 5 score = 5.25
+sentence 1: mereka juga memohon agar presiden soekarno mengambil tindakan untuk mengatasi keadaan .
+sentence 2: kemudian presiden mengeluarkan surat perintah yang ditujukan kepada letnan jenderal soeharto selaku menteri panglima angkatan darat untuk mengambil tindakan menjamin keamanan , ketenangan , dan kestabilan jalannya pemerintahan demi keutuhan bangsa dan negara republik indonesia .
+sentence 3: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
+sentence 4: surat itulah yang kemudian dikenal sebagai surat perintah 11 maret 1966 atau supersemar .
+sentence 5: 3 .
+passage 21 score = 5.25
+sentence 1: xiii/mprs/1966 tentang pembentukan kabinet ampera .
+sentence 2: e. ketetapan mprs no .
+sentence 3: xix/mprs/1966 tentang peninjauan kembali tap.mprs yang bertentangan dengan uud 1945 .
+sentence 4: f. ketetapan mprs no .
+sentence 5: xx/mprs/1966 tentang sumber tertib hukum ri dan tata urutan perundang-undangan di indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok218.txt
+title : pembentukan badan badan negara
+passage 1 score = 6.0
+sentence 1: pembentukan badan badan negara - sidang tanggal 22 agustus 1945 , ppki membentuk knip .
+sentence 2: dibentuk komite nasional sebagai penjelmaan tujuan dan impian bangsa indonesia untuk menyelenggarakan kemerdekaan yang didasarkan kedaulaan rakyat .
+sentence 3: komite nasional indonesia pusat ( knip ) berkedudukan di jakarta , sedangkan komite nasional indonesia daerah ( knid ) berkedudukan di ibukota propinsi .
+sentence 4: tanggal 29 agustus 1945 , presiden sukarno melantik 135 anak buah knip di gedung kesenian jakarta dengan ketua kasman singodimejo .
+sentence 5: knip ( komite nasional indonesia pusat ) dibentuk dan dilantik pada tanggal 29 agustus 1945 .
+passage 2 score = 6.0
+sentence 1: knip ( komite nasional indonesia pusat ) dibentuk dan dilantik pada tanggal 29 agustus 1945 .
+sentence 2: komite ini dibentuk berdasarkan hasil sidang ppki pada 18 agustus 1945 dan aturan peralihan uud 1945 pasal iv .
+sentence 3: hasil sidang ppki 18 agustus 1945 menetapkan dan mengesahkan undang-undang dasar negara republik indonesia 1945 ( uud 1945 ) yang berisi 37 pasal .
+sentence 4: memilih dan membawa ceo tinggi negara , yaitu soekarno sebagai presiden ri dan moh .
+sentence 5: hatta sebagai wakil presiden ri .
+passage 3 score = 6.0
+sentence 1: hatta sebagai wakil presiden ri .
+sentence 2: presiden dan wakil presieden dibantu oleh suatu komite nasional hingga terbentuknya majelis permusyawaratan rakyat ( mpr ) dan dewan perwakilan rakyat ( dpr ) .
+sentence 3: aturan peralihan uud 1945 pasal iv .
+sentence 4: sebelum majelis permusyawaratan rakyat , dewan perwakilan rakyat dan dewan pertimbangan agung dibentuk menurut undang-undang dasar ini , segala kekuasaannya dijalankan oleh presiden dengan bantuan suatu komite nasional .
+sentence 5: petinggi-petinggi knip mr. kasman singodimedjo - ketua m. sutardjo kartohadikusumo - wakil ketua i mr. j. latuharhary - wakil ketua ii adam malik - wakil ketua iii hasil sidang knip 16 oktober 1945 dalam sidang ini drs. moh hatta mengeluarkan maklumat nomor x tahun 1945 yang menetapkan bahwa knip sebelum terbentuk mpr dan dpr diserahi kekuasaan legislatif , ikut menetapkan garis-garis besar haluan negara , dan menyetujui bahwa pekerjaan knip sehari-hari sehubungan dengan gentingnya keadaan dijalankan oleh suatu badan pekerja yang diplih di antara mereka dan bertanggungjawab terhadap knip .
+passage 4 score = 6.0
+sentence 1: petinggi-petinggi knip mr. kasman singodimedjo - ketua m. sutardjo kartohadikusumo - wakil ketua i mr. j. latuharhary - wakil ketua ii adam malik - wakil ketua iii hasil sidang knip 16 oktober 1945 dalam sidang ini drs. moh hatta mengeluarkan maklumat nomor x tahun 1945 yang menetapkan bahwa knip sebelum terbentuk mpr dan dpr diserahi kekuasaan legislatif , ikut menetapkan garis-garis besar haluan negara , dan menyetujui bahwa pekerjaan knip sehari-hari sehubungan dengan gentingnya keadaan dijalankan oleh suatu badan pekerja yang diplih di antara mereka dan bertanggungjawab terhadap knip .
+sentence 2: badan pekerja knip ( bp-knip ) akhirnya dibentuk dan diketuai oleh sutan syahrir dan wakilnya amir syarifuddin .
+sentence 3: kemudian drs. moh .
+sentence 4: hatta mengeluarkan maklumat politilk 3 november 1945 atas desakan dari sutan syahrir selaku ketua bp-knip .
+sentence 5: dampak dari maklumat/kebijakan itu adalan munculnya beberapa partai politik di indonesia dengan ideologi yang beraneka ragam .
+passage 5 score = 6.0
+sentence 1: dampak dari maklumat/kebijakan itu adalan munculnya beberapa partai politik di indonesia dengan ideologi yang beraneka ragam .
+sentence 2: contohnya : majelis syuro muslimin indonesia ( masyumi ) , partai komunis indonesia , partai buruh indonesia , partai rakyat jakarta , partai kristen indonesia , partai katolik indonesia , partai nasional indonesia .
+sentence 3: tanggal 11 november 1945 bp-knip mengeluarkan pemkabarhuan nomor 5 mengenai pertanggungjawaban materi terhadap perwakilan rakyat .
+sentence 4: anehnya , presiden sukarno menyetujui usul tersebut dan mengeluarkan maklumat pemerintah tanggal 14 november 1945 .
+sentence 5: dengan persetujuan tersebut sistem cabinet presidensial dalam uud 1945 sudah diamandemen menjadi sistem kabinet parlementer .
+passage 6 score = 6.0
+sentence 1: dengan persetujuan tersebut sistem cabinet presidensial dalam uud 1945 sudah diamandemen menjadi sistem kabinet parlementer .
+sentence 2: maklumat wakil president no x sesudah mendengar pembitjaraan oleh komite nasional pusat tentang usul supaja sebelum madjelis permusjawaratan rakjat dan dewan perwakilan rakjat dibentuk kekuasaannja jang hingga sekarang didjalankan oleh presiden dengan bantuan sebuah komite nasional menurut pasal iv aturan peralihan dari undang-undang dasar hendaknja dikerdjakan oleh komite nosional pusat dan supaja pekerdjaan komite nasional pusat itu sehari-harinja berhubung dengan gentingnja keadaan didjalankan oleh sebuah badan bernama dewan pekerdja jang bertanggung djawab kepada komite nasional pusat ; bahwa komite nasional pusat , sebelum terbentuk madjelis permusjawaratan rakjat dan dewan perwakilan rakjat diserahi kekuasaan legislative dan ikut menetapkan garis-garis besar dari pada haluan negara , serta menjetudjui bahwa pekerdjaan komite nasional pusat sehari-hari berhubung dengan gentingnja keadaan didjalankan oleh sebuah badan pekerdja jang dipilih diantara mereka dan jang bertanggung djawab kepada komite nasional pusat .
+sentence 3: pendjelasan maklumat wakil presiden no x karena terbukti ada salah faham tentang kedudukan , kewadjiban dan kekuasaan .
+sentence 4: badan pekerdja komite nasional , jang dibentuk oleh rakjat pada tanggal 16/17 oktober 1945 berhubung - dengan maklumat wakil presiden republik indone ¬ sia no .
+sentence 5: x , maka dengan ini diberitahukan kepada umum seperti berikut : dalam maklumat wakil presiden tersebut ditetapkan bahwa komite ' nasional pusat , sebelum terbentuk madjelis permusjawaratan rakjat dan dewan perwakilan rakjat , diserahi kekuasaan legislatif dan ikut menetapkan garisgaris besar dari pada haluan negara dan mengingat gentingnja keadaan , pekerdjaan komite nasional pusat sehari-hari akan dikerdjakan oleh sebuah badan pekerdja .
+passage 8 score = 5.25
+sentence 1: ini tetap ditangan presiden semata-mata .
+sentence 2: b. menetapkan bersama-sama dengan presiden undang-undang jang boleh mengenai segala matjam urusan pemerintahan .
+sentence 3: jang mendjalankan undang2 ini ialah pemerintah , artinja : presiden dibantu oleh menteri-menteri dan pegawai-pegawai jang dibawahnja .
+sentence 4: berhubung dengan perubahan dalam kedudukan dan kewadjiban komite nasiona.l pusat , mulai tanggal 17 oktober 1945 komite nasinoal pusat ( dan atas namanja badan pekerdja ) tidak berhak lagi mengurus hal-hal jang berkenaan dengan tindakan pemerintahan ( uitvoering ) .
+sentence 5: kedudukan komite nasional daerah akan lekas diurus oleh pemerintah ( presiden ) .
+passage 9 score = 5.25
+sentence 1: kedudukan komite nasional daerah akan lekas diurus oleh pemerintah ( presiden ) .
+sentence 2: kewadjiban dan kekuasaan badan pekerdja jang diterangkan diatas ( a dan b ) berlaku selama madjelis permusjawaratan rakjat dan dewan perwakilan rakjat belum terbentuk dengan tjara jang ditetapkan dalam undang-undang dasar .
+sentence 3: djakarta , 20 oktober 1945 .
+passage 7 score = 0.25
+sentence 1: x , maka dengan ini diberitahukan kepada umum seperti berikut : dalam maklumat wakil presiden tersebut ditetapkan bahwa komite ' nasional pusat , sebelum terbentuk madjelis permusjawaratan rakjat dan dewan perwakilan rakjat , diserahi kekuasaan legislatif dan ikut menetapkan garisgaris besar dari pada haluan negara dan mengingat gentingnja keadaan , pekerdjaan komite nasional pusat sehari-hari akan dikerdjakan oleh sebuah badan pekerdja .
+sentence 2: menurut putusan ini maka badan pekerdja iberkewadjibari dan berhak : a. turut menetapkan garis-garis besar haluan negara .
+sentence 3: ini berarti , bahwa badan pekerdja , bersama-sama dengan presiden , menetapkan garis-garis besar haluan negara .
+sentence 4: badan pekerdja tidak berhak tjampur dalam kebidjaksanaan ( dagelijks beleid ) pemerintah sehari-hari .
+sentence 5: ini tetap ditangan presiden semata-mata .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+title : pemerintahan orde baru
+passage 2 score = 7.5
+sentence 1: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+sentence 2: 2 .
+sentence 3: lahirnya surat perintah 11 maret 1966 pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+sentence 4: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+sentence 5: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada perkembangan masyarakat indonesia pada masa orde baru 3 waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+passage 6 score = 7.25
+sentence 1: tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
+sentence 2: keputusan tersebut diperkuat dengan keputusan presiden/pangti abri/mandataris mprs no. 1/3/1966 tangal 12 maret 1966 .
+sentence 3: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
+sentence 4: tanggal 18 maret 1966 pengemban supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam g 30 s/pki dan diragukan etika baiknya yang dituangkan dalam keputusan presiden no. 5 tanggal 18 maret 1966 .
+sentence 5: tanggal 27 maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
+passage 3 score = 6.75
+sentence 1: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada perkembangan masyarakat indonesia pada masa orde baru 3 waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+sentence 2: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
+sentence 3: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
+sentence 4: tiga orang perwira tinggi yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud menghadap letnan jenderal soeharto selaku menteri panglima angkatan darat dan panglima komando operasi pemulihan keamanan dan ketertiban ( pangkopkamtib ) untuk minta izin akan menghadap presiden .
+sentence 5: pada hari itu juga , tiga orang perwira tinggi sepakat untuk menghadap presiden soekarno di istana bogor dengan tujuan untuk meyakinkan kepada presiden soekarno bahwa abri khususnya ad tetap siap siaga mengatasi keadaan .
+passage 9 score = 6.0
+sentence 1: sesuai dengan uud 1945 , mprs mempunyai kedudukan yang lebih tinggi daripada lembaga kepresidenan .
+sentence 2: tanggal 20 juni sampai 5 juli 1966 diadakan sidang umum iv mprs dengan hasil sebagai berikut .
+sentence 3: ketetapan mprs no .
+sentence 4: ix/mprs/1966 tentang pengesahan dan pengukuhan supersemar .
+sentence 5: ketetapan mprs no .
+passage 1 score = 5.75
+sentence 1: pemerintahan orde baru 1 .
+sentence 2: pengertian orde baru orde baru adalah suatu tatanan seluruh perikehidupan rakyat , bangsa dan negara yang diletakkan kembali kepada pelaksanaan pancasila dan uud 1945 secara murni dan konsekuen .
+sentence 3: dengan kata lain , orde baru adalah suatu orde yang mempunyai sikap dan tekad untuk mengabdi pada kepentingan rakyat dan nasional dengan dilandasi oleh semangat dan jiwa pancasila serta uud 1945 .
+sentence 4: lahirnya orde baru diawali dengan dikeluarkannya surat perintah 11 maret 1966 .
+sentence 5: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+passage 5 score = 5.75
+sentence 1: adapun yang merumuskan surat perintah tersebut adalah ketiga perwira tinggi , yaitu mayor jenderal basuki rakhmat , brigadir jenderal m. yusuf , dan brigadir jenderal amir machmud bersama brigadir jenderal subur , komandan pasukan pengawal presiden cakrabirawa .
+sentence 2: surat itulah yang kemudian dikenal sebagai surat perintah 11 maret 1966 atau supersemar .
+sentence 3: 3 .
+sentence 4: tindak lanjut supersemar sebagai tindak lanjut keluarnya surat perintah 11 maret 1966 , letnan jenderal soeharto sebagai pengemban supersemar segera mengambil tindakan untuk menata kembali kehidupan bermasyarakat , berbangsa , dan bernegara sesuai dengan pancasila dan uud 1945 , yaitu sebagai berikut .
+sentence 5: tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
+passage 8 score = 5.25
+sentence 1: pimpinan dprgr baru memberhentikan 62 orang anggota dprgr yang mewakili pki dan ormas-ormasnya .
+sentence 2: memisahkan jabatan pimpinan dprgr dengan jabatan eksekutif sehingga pimpinan dprgr tidak lagi diberi kedudukan sebagai menteri .
+sentence 3: mprs dibersihkan dari unsur-unsur g 30 s/pki .
+sentence 4: seperti halnya dengan dprgr , keanggotaan pki dalam mprs dinyatakan gugur .
+sentence 5: sesuai dengan uud 1945 , mprs mempunyai kedudukan yang lebih tinggi daripada lembaga kepresidenan .
+passage 11 score = 5.25
+sentence 1: ketetapan mprs no .
+sentence 2: xiii/mprs/1966 tentang pembentukan kabinet ampera .
+sentence 3: ketetapan mprs no .
+sentence 4: xix/mprs/1966 tentang peninjauan kembali tap .
+sentence 5: mprs yang bertentangan dengan uud 1945 .
+passage 12 score = 5.0
+sentence 1: mprs yang bertentangan dengan uud 1945 .
+sentence 2: ketetapan mprs no .
+sentence 3: xx/mprs/1966 tentang sumber tertib hukum ri dan tata urutan perundang-undangan di indonesia .
+sentence 4: ketetapan mprs no .
+sentence 5: xxv/mprs/1966 tentang pembubaran pki dan pernyataan pki dan ormas-ormasnya sebagai organisasi terlarang di indonesia .
+passage 7 score = 1.75
+sentence 1: tanggal 27 maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
+sentence 2: tokoh-tokoh yang duduk di dalam kabinet ini adalah mereka yang jelas tidak terlibat dalam g 30 s/pki .
+sentence 3: membersihkan lembaga legislatif dimulai dari tokoh-tokoh pimpinan mprs dan dprgr yang diduga terlibat g 30 s/pki .
+sentence 4: sebagai tindak lanjut kemudian dibentuk pimpinan dprgr dan mprs yang baru .
+sentence 5: pimpinan dprgr baru memberhentikan 62 orang anggota dprgr yang mewakili pki dan ormas-ormasnya .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+title : perkembangan masyarakat indonesia pada masa orde baru
+passage 1 score = 8.25
+sentence 1: a. proses pertumbuhan dan mobilitas penduduk dan perkembangan masyarakat intelektual pada masa pemerintahan orde baru 1 .
+sentence 2: latar belakang lahirnya orde baru a. adanya gerakan 30 s/pki b. kekosongan pimpinan angkatan darat c. demonstrasi yang dilakukan oleh para mahasiswa , pemuda dan pelajar di depan gedung dpr-gr yang mengajukan tun tutan ( tritura : pembubaran pki , pembersihan kabinet dwikora dan turunkan harga barang ) d. perubahan kabinet ( dwikora-seratus menteri ) e. tertembaknya mahasiswa arif rahman hakim akhirnya pada tanggal 11 maret 1966 presiden mengeluarkan surat perintah yang berisi tentang pemulihan keamanan dan jaminan keamanan bagi presiden soekarno .
+sentence 3: dengan berkuasanya soeharto memegang tampuk pemerintahan dimulailah babak baru yaitu orde baru .
+sentence 4: 2 .
+sentence 5: perkembangan kekuasaan orde baru pada hakikatnya orde baru merupakan tatanan seluruh kehidupan rakyat , bangsa dan negara yang diletakkan pada kemurnian pelaksanaan pancasila dan uud 1945 atau sebagai koreksi terhadap penyelewengan penyelewengan yang terjadi pada masa lalu tritura mengungkapkan keinginan rakyat yang mendalam untuk melaksanakan kehidupan bernegara sesuai dengan aspirasi masyarakat .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+passage 2 score = 7.5
+sentence 1: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+sentence 2: pada peringatan hari kemerdekaan 17 agustus 1966 , presiden mengucapkan pidato di depan rakyat dari halaman istana merdeka yang dikenal dengan nama “ jangan sekali-kali meninggalkan sejarah ” , disingkat “ jasmerah ” .
+sentence 3: pidato yang kemudian menjadi pidato 17 agustus presiden soekarno yang terakhir tersebut mendapat reaksi dari berbagai kalangan dan menjadi bahan pertentangan politik , yang di beberapa tempat menyebabkan timbulnya bentrokan-bentrokan fisik .
+sentence 4: 2 .
+sentence 5: lahirnya surat perintah 11 maret 1966 ( supersemar ) pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+passage 3 score = 7.5
+sentence 1: lahirnya surat perintah 11 maret 1966 ( supersemar ) pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+sentence 2: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+sentence 3: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+sentence 4: dengan helikopter , presiden soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
+sentence 5: seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+title : pemerintahan orde baru
+passage 2 score = 7.5
+sentence 1: dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+sentence 2: 2 .
+sentence 3: lahirnya surat perintah 11 maret 1966 pada tanggal 11 maret 1966 di istana negara diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh presiden soekarno dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+sentence 4: ketika sidang tengah berlangsung , ajudan presiden melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+sentence 5: untuk menghindari segala sesuatu yang tidak diinginkan , maka presiden soekarno menyerahkan pimpinan sidang kepada perkembangan masyarakat indonesia pada masa orde baru 3 waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+passage 3 score = 7.25
+sentence 1: dalam konsepsi ini presiden juga mengusulkan perlunya dibentuk kabinet ke empat yaitu pni , masyumi nu dan pki .
+sentence 2: beberapa partai seperti masyumi , nu , psii , partai katolik dan pir tidak menyetujuinya karena perubahan sistem pemerintahan menjadi wewenang badan konstituante .
+sentence 3: pada tanggal 25 april 1959 dihadapan sidang konstituante , presiden soekarno menganjurkan agar kembali kepada uud 1945 anjuran ini diperdebatkan dalam sidang konstituante , kemudian diputuskan untuk mengadakan pemungutar suara ( voting ) .
+sentence 4: sebagai gambaran hasil-hasil pemungutar suara waktu itu adalah sebagai berikut : pada tanggal 30 mei 1959 , 269 suara setuju dan 199 suara menolak pada tanggal 1 juni 1959 , 263 suara setuju dan 203 suara menolak pada tanggal 2 juli 1959 , 264 suara setuju dan 204 suara meniolak meskipun mayoritas suara setuju kembali pada uud 1945 , namun karena jumlahnya tidak mencukup dua pertiga anggota konstituante seperti yang diisyaratkan dalam pasal 137 uuds 1950 , maka tidak dapat diambil keputusan atas anjuran bung karno tersebut .
+sentence 5: pada tanggal 3 juni 1959 badan konstituante memasuki masa reses ( istirahat tidak mengadakan sidang ) dengan batas waktu yang tidak ditentukan dan berbagai fraksi dalam konstituante menyatakar tidak akan menghadiri sidang .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+title : jatuh bangunnya pemerintahan ri setelah 21 mei 1998
+passage 2 score = 7.25
+sentence 1: faktor penting yang menyebabkan ditolaknya laporan pertanggungjawaban presiden b.j. habibie adalah patut diduga bahwa presiden menguraikan indikator pertumbuhan ekonomi yang tidak akurat dan manipulatif .
+sentence 2: sidang umum mpr juga berhasil mengambil keputusan memilih dan menetapkan k.h. abdurrahman wahid ( gus dur ) sebagai presiden ri masa bakti 1999 – 2004 .
+sentence 3: presiden k.h. abdurrahman wahid dalam menjalankan pemerintahan didampingi wapres megawati sukarnoputri .
+sentence 4: sidang umum mpr setelah berhasil menetapkan presiden dan wakil presiden ri juga berhasil membuat sembilan ketetapan dan untuk kali pertama melakukan amandemen terhadap uud 1945 .
+sentence 5: presiden abdurrahman wahid menjalankan pemerintahan dengan membentuk kabinet yang disebut kabinet persatuan nasional .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+passage 7 score = 7.25
+sentence 1: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
+sentence 2: b. tanggal 18 maret 1966 pengemban supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam g 30 s/pki dan diragukan etika baiknya yang dituangkan dalam keputusan presiden no. 5 tanggal 18 maret 1966 .
+sentence 3: c. tanggal 27 maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
+sentence 4: tokoh-tokoh yang duduk di dalam kabinet ini adalah mereka yang jelas tidak terlibat dalam g 30 s/pki .
+sentence 5: d. membersihkan lembaga legislatif dimulai dari tokoh-tokoh pimpinan mprs dan dprgr yang diduga terlibat g 30 s/pki .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+title : pemerintahan orde baru
+passage 6 score = 7.25
+sentence 1: tanggal 12 maret 1966 , dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan pki beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di seluruh wilayah indonesia .
+sentence 2: keputusan tersebut diperkuat dengan keputusan presiden/pangti abri/mandataris mprs no. 1/3/1966 tangal 12 maret 1966 .
+sentence 3: keputusan pembubaran pki beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari tritura .
+sentence 4: tanggal 18 maret 1966 pengemban supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam g 30 s/pki dan diragukan etika baiknya yang dituangkan dalam keputusan presiden no. 5 tanggal 18 maret 1966 .
+sentence 5: tanggal 27 maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+passage 1 score = 7.0
+sentence 1: dekrit presiden 5 juli 1959 badan konstituante yang dibentuk melalui pemilihan urnurn 1955 , dipersiapkan untuk merumuskan uud ( konstitusi ) baru sebagai pengganti uuds 1950 .
+sentence 2: sejak tahun 1956 konstituante merumuskan uud yang baru .
+sentence 3: akan tetapi hingga tahun 1959 badan konstituante tidak pernah dapat merumuskan uud yang baru .
+sentence 4: dalam sidang-sidangnya , selalu diwarnai adanya benturan-benturan antara partai politik dan golongan , mereka lebih mementingkan kelompoknya sendiri sehingga mengabaikan kepentingan nasional .
+sentence 5: kegagalan konstituante merumuskan uud sebagai pengganti uuds 1950 menyebabkan negara dilanda kekalutan konstitusional , sehingga mengganggu dan membahayakan stabilitas nasional dengan persatuan bangsa indonesia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+passage 2 score = 7.0
+sentence 1: kegagalan konstituante merumuskan uud sebagai pengganti uuds 1950 menyebabkan negara dilanda kekalutan konstitusional , sehingga mengganggu dan membahayakan stabilitas nasional dengan persatuan bangsa indonesia .
+sentence 2: pada tanggal 21 februari 1957 presiden soekarno mengajukan gagasan yang dikenal dengan konsepsi soekarno , dengan isi pokoknya adalah sebagai berikut : sistem demokrasi parlementer secara berat tidak cocok dengan kepribadian bangsa indonesia , sehingga harus diganti dengan demokrasi terpimpin .
+sentence 3: dibentuk kabinet gotong royong yang terdiri dari semua partai dan organisasi masyarakat lainnya .
+sentence 4: pembentukan dewan nasional yang terdiri dari golongan fungsional dalam masyarakat .
+sentence 5: dalam konsepsi ini presiden juga mengusulkan perlunya dibentuk kabinet ke empat yaitu pni , masyumi nu dan pki .
+
+
+Pencarian jawaban
+---------------------
+
+
+a. proses pertumbuhan dan mobilitas penduduk dan perkembangan <PERSON>masyarakat intelektual</PERSON> pada <TIME>masa pemerintahan orde</TIME> baru 1 .
+
+memproses passage 1
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+title : perkembangan masyarakat indonesia pada masa orde baru
+list jawaban dan posisi dalam passage
+masa pemerintahan orde | position = 7
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = a
+tokenwithtagstemmed = proses
+tokenwithtagstemmed = tumbuh
+tokenwithtagstemmed = mobilitas
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = masyarakat intelektual
+tokenwithtagstemmed = masa perintah orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = 1
+kata kunci = kabinet
+tokenwithtagstemmed = a
+tokenwithtagstemmed = proses
+tokenwithtagstemmed = tumbuh
+tokenwithtagstemmed = mobilitas
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = masyarakat intelektual
+tokenwithtagstemmed = masa perintah orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = 1
+kata kunci = dwikora
+tokenwithtagstemmed = a
+tokenwithtagstemmed = proses
+tokenwithtagstemmed = tumbuh
+tokenwithtagstemmed = mobilitas
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = masyarakat intelektual
+tokenwithtagstemmed = masa perintah orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = 1
+kata kunci = ada
+tokenwithtagstemmed = a
+tokenwithtagstemmed = proses
+tokenwithtagstemmed = tumbuh
+tokenwithtagstemmed = mobilitas
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = masyarakat intelektual
+tokenwithtagstemmed = masa perintah orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = 1
+
+
+latar belakang lahirnya orde baru a. adanya gerakan 30 s/pki b. kekosongan pimpinan angkatan darat c. demonstrasi yang dilakukan oleh <PERSON>para mahasiswa , pemuda</PERSON> dan pelajar di depan gedung dpr-gr yang mengajukan tun tutan ( tritura : pembubaran pki , pembersihan kabinet dwikora dan turunkan harga barang ) d. perubahan kabinet ( dwikora-seratus menteri ) e. tertembaknya mahasiswa arif rahman hakim akhirnya pada <TIME>tanggal 11 maret 1966</TIME> <PERSON>presiden</PERSON> mengeluarkan surat perintah yang berisi tentang pemulihan keamanan dan jaminan keamanan bagi <PERSON>presiden soekarno .</PERSON>
+
+memproses passage 1
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+title : perkembangan masyarakat indonesia pada masa orde baru
+list jawaban dan posisi dalam passage
+tanggal 11 maret 1966 | position = 47
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = latar
+tokenwithtagstemmed = belakang
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = a
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = b
+tokenwithtagstemmed = kosong
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = darat
+tokenwithtagstemmed = c
+tokenwithtagstemmed = demonstrasi
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = mahasiswa pemuda
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = gedung
+tokenwithtagstemmed = dpr
+tokenwithtagstemmed = gr
+tokenwithtagstemmed = aju
+tokenwithtagstemmed = tun
+tokenwithtagstemmed = tutan
+tokenwithtagstemmed = tritura
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = bersih
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = harga
+tokenwithtagstemmed = barang
+tokenwithtagstemmed = d
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = ratus
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = e
+tokenwithtagstemmed = tembak
+tokenwithtagstemmed = mahasiswa
+tokenwithtagstemmed = arif
+tokenwithtagstemmed = rahman
+tokenwithtagstemmed = hakim
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = pulih
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = jamin
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = presiden soekarno
+kata kunci = kabinet
+tokenwithtagstemmed = latar
+tokenwithtagstemmed = belakang
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = a
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = b
+tokenwithtagstemmed = kosong
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = darat
+tokenwithtagstemmed = c
+tokenwithtagstemmed = demonstrasi
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = mahasiswa pemuda
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = gedung
+tokenwithtagstemmed = dpr
+tokenwithtagstemmed = gr
+tokenwithtagstemmed = aju
+tokenwithtagstemmed = tun
+tokenwithtagstemmed = tutan
+tokenwithtagstemmed = tritura
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = bersih
+tokenwithtagstemmed = kabinet
+posisi dalam passage = 30
+jarak dengan tiap kandidat jawaban:
+tanggal 11 maret 1966 17
+
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = harga
+tokenwithtagstemmed = barang
+tokenwithtagstemmed = d
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = kabinet
+posisi dalam passage = 37
+jarak dengan tiap kandidat jawaban:
+tanggal 11 maret 1966 10
+
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = ratus
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = e
+tokenwithtagstemmed = tembak
+tokenwithtagstemmed = mahasiswa
+tokenwithtagstemmed = arif
+tokenwithtagstemmed = rahman
+tokenwithtagstemmed = hakim
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = pulih
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = jamin
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = presiden soekarno
+kata kunci = dwikora
+tokenwithtagstemmed = latar
+tokenwithtagstemmed = belakang
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = a
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = b
+tokenwithtagstemmed = kosong
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = darat
+tokenwithtagstemmed = c
+tokenwithtagstemmed = demonstrasi
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = mahasiswa pemuda
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = gedung
+tokenwithtagstemmed = dpr
+tokenwithtagstemmed = gr
+tokenwithtagstemmed = aju
+tokenwithtagstemmed = tun
+tokenwithtagstemmed = tutan
+tokenwithtagstemmed = tritura
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = bersih
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+posisi dalam passage = 31
+jarak dengan tiap kandidat jawaban:
+tanggal 11 maret 1966 16
+
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = harga
+tokenwithtagstemmed = barang
+tokenwithtagstemmed = d
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+posisi dalam passage = 38
+jarak dengan tiap kandidat jawaban:
+tanggal 11 maret 1966 9
+
+tokenwithtagstemmed = ratus
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = e
+tokenwithtagstemmed = tembak
+tokenwithtagstemmed = mahasiswa
+tokenwithtagstemmed = arif
+tokenwithtagstemmed = rahman
+tokenwithtagstemmed = hakim
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = pulih
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = jamin
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = presiden soekarno
+kata kunci = ada
+tokenwithtagstemmed = latar
+tokenwithtagstemmed = belakang
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = a
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = b
+tokenwithtagstemmed = kosong
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = darat
+tokenwithtagstemmed = c
+tokenwithtagstemmed = demonstrasi
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = mahasiswa pemuda
+tokenwithtagstemmed = ajar
+tokenwithtagstemmed = gedung
+tokenwithtagstemmed = dpr
+tokenwithtagstemmed = gr
+tokenwithtagstemmed = aju
+tokenwithtagstemmed = tun
+tokenwithtagstemmed = tutan
+tokenwithtagstemmed = tritura
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = bersih
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = harga
+tokenwithtagstemmed = barang
+tokenwithtagstemmed = d
+tokenwithtagstemmed = ubah
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = ratus
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = e
+tokenwithtagstemmed = tembak
+tokenwithtagstemmed = mahasiswa
+tokenwithtagstemmed = arif
+tokenwithtagstemmed = rahman
+tokenwithtagstemmed = hakim
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = pulih
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = jamin
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = presiden soekarno
+
+
+dengan berkuasanya soeharto memegang tampuk pemerintahan dimulailah babak baru yaitu orde baru .
+
+
+tidak ada entitas jawaban, skip
+
+
+2 .
+
+
+tidak ada entitas jawaban, skip
+
+
+perkembangan kekuasaan orde baru pada hakikatnya orde baru merupakan tatanan seluruh kehidupan rakyat , bangsa dan negara yang diletakkan pada kemurnian pelaksanaan pancasila dan <TIME>uud 1945</TIME> atau sebagai koreksi terhadap penyelewengan penyelewengan yang terjadi pada masa lalu tritura mengungkapkan keinginan rakyat yang mendalam untuk melaksanakan kehidupan bernegara sesuai dengan aspirasi <PERSON>masyarakat .</PERSON>
+
+memproses passage 1
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+title : perkembangan masyarakat indonesia pada masa orde baru
+list jawaban dan posisi dalam passage
+uud 1945 | position = 16
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = hakikat
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tatanan
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = murni
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = pancasila
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = koreksi
+tokenwithtagstemmed = seleweng
+tokenwithtagstemmed = seleweng
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = tritura
+tokenwithtagstemmed = ungkap
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = dalam
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sesuai
+tokenwithtagstemmed = aspirasi
+tokenwithtagstemmed = masyarakat
+kata kunci = kabinet
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = hakikat
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tatanan
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = murni
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = pancasila
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = koreksi
+tokenwithtagstemmed = seleweng
+tokenwithtagstemmed = seleweng
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = tritura
+tokenwithtagstemmed = ungkap
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = dalam
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sesuai
+tokenwithtagstemmed = aspirasi
+tokenwithtagstemmed = masyarakat
+kata kunci = dwikora
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = hakikat
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tatanan
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = murni
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = pancasila
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = koreksi
+tokenwithtagstemmed = seleweng
+tokenwithtagstemmed = seleweng
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = tritura
+tokenwithtagstemmed = ungkap
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = dalam
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sesuai
+tokenwithtagstemmed = aspirasi
+tokenwithtagstemmed = masyarakat
+kata kunci = ada
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = hakikat
+tokenwithtagstemmed = orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = tatanan
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = murni
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = pancasila
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = koreksi
+tokenwithtagstemmed = seleweng
+tokenwithtagstemmed = seleweng
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = tritura
+tokenwithtagstemmed = ungkap
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = dalam
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = sesuai
+tokenwithtagstemmed = aspirasi
+tokenwithtagstemmed = masyarakat
+
+
+dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>peringatan hari kemerdekaan 17 agustus 1966</TIME> , presiden mengucapkan pidato di depan rakyat dari halaman istana merdeka yang dikenal dengan nama “ jangan sekali-kali meninggalkan sejarah ” , disingkat “ jasmerah ” .
+
+memproses passage 2
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+list jawaban dan posisi dalam passage
+peringatan hari kemerdekaan 17 agustus 1966 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = ingat hari merdeka 17 agustus 1966
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = ucap
+tokenwithtagstemmed = pidato
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = halaman
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = jasmerah
+kata kunci = kabinet
+tokenwithtagstemmed = ingat hari merdeka 17 agustus 1966
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = ucap
+tokenwithtagstemmed = pidato
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = halaman
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = jasmerah
+kata kunci = dwikora
+tokenwithtagstemmed = ingat hari merdeka 17 agustus 1966
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = ucap
+tokenwithtagstemmed = pidato
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = halaman
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = jasmerah
+kata kunci = ada
+tokenwithtagstemmed = ingat hari merdeka 17 agustus 1966
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = ucap
+tokenwithtagstemmed = pidato
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = halaman
+tokenwithtagstemmed = istana
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = sejarah
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = jasmerah
+
+
+pidato yang kemudian menjadi pidato 17 agustus presiden soekarno yang terakhir tersebut mendapat reaksi dari berbagai kalangan dan menjadi bahan pertentangan politik , yang di beberapa tempat menyebabkan timbulnya bentrokan-bentrokan fisik .
+
+
+tidak ada entitas jawaban, skip
+
+
+2 .
+
+
+tidak ada entitas jawaban, skip
+
+
+lahirnya surat perintah <TIME>11 maret 1966</TIME> ( supersemar ) pada <TIME>tanggal 11 maret 1966</TIME> di <LOCATION>istana negara</LOCATION> diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh <PERSON>presiden soekarno</PERSON> dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+
+memproses passage 2
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+list jawaban dan posisi dalam passage
+11 maret 1966 | position = 3
+tanggal 11 maret 1966 | position = 5
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -5
+tanggal 11 maret 1966 -3
+
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = kabinet
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -6
+tanggal 11 maret 1966 -4
+
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = dwikora
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+posisi dalam passage = 10
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -7
+tanggal 11 maret 1966 -5
+
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = ada
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -4
+tanggal 11 maret 1966 -2
+
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+
+
+lahirnya surat perintah <TIME>11 maret 1966</TIME> ( supersemar ) pada <TIME>tanggal 11 maret 1966</TIME> di <LOCATION>istana negara</LOCATION> diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh <PERSON>presiden soekarno</PERSON> dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+
+memproses passage 3
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+list jawaban dan posisi dalam passage
+11 maret 1966 | position = 3
+tanggal 11 maret 1966 | position = 5
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -5
+tanggal 11 maret 1966 -3
+
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = kabinet
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -6
+tanggal 11 maret 1966 -4
+
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = dwikora
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+posisi dalam passage = 10
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -7
+tanggal 11 maret 1966 -5
+
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = ada
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -4
+tanggal 11 maret 1966 -2
+
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+
+
+ketika sidang tengah berlangsung , ajudan <PERSON>presiden</PERSON> melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+
+
+tidak ada entitas jawaban, skip
+
+
+untuk menghindari segala sesuatu yang tidak diinginkan , maka <PERSON>presiden soekarno</PERSON> menyerahkan pimpinan sidang kepada <PERSON>waperdam ii</PERSON> ( wakil perdana menteri ii ) dr j. laimena .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan <PERSON>helikopter , presiden</PERSON> soekarno didampingi waperdam i , dr subandrio , dan waperdam ii chaerul saleh menuju istana bogor .
+
+
+tidak ada entitas jawaban, skip
+
+
+seusai sidang kabinet , dr j. laimena pun menyusul ke bogor .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan demikian surat perintah 11 maret ( supersemar ) sebagai tonggak lahirnya orde baru .
+
+
+tidak ada entitas jawaban, skip
+
+
+2 .
+
+
+tidak ada entitas jawaban, skip
+
+
+lahirnya surat perintah <TIME>11 maret 1966</TIME> pada <TIME>tanggal 11 maret 1966</TIME> di <LOCATION>istana negara</LOCATION> diadakan sidang kabinet dwikora yang telah disempurnakan yang dipimpin langsung oleh <PERSON>presiden soekarno</PERSON> dengan tujuan untuk mencari jalan keluar terbaik agar dapat menyelesaikan krisis yang memuncak secara bijak .
+
+memproses passage 2
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+title : pemerintahan orde baru
+list jawaban dan posisi dalam passage
+11 maret 1966 | position = 3
+tanggal 11 maret 1966 | position = 4
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -4
+tanggal 11 maret 1966 -3
+
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = kabinet
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -5
+tanggal 11 maret 1966 -4
+
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = dwikora
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+posisi dalam passage = 9
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -6
+tanggal 11 maret 1966 -5
+
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+kata kunci = ada
+tokenwithtagstemmed = lahir
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = 11 maret 1966
+tokenwithtagstemmed = tanggal 11 maret 1966
+tokenwithtagstemmed = istana negara
+tokenwithtagstemmed = ada
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+11 maret 1966 -3
+tanggal 11 maret 1966 -2
+
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = cari
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = selesai
+tokenwithtagstemmed = krisis
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = bijak
+
+
+ketika sidang tengah berlangsung , ajudan <PERSON>presiden</PERSON> melaporkan bahwa di sekitar istana terdapat pasukan yang tidak dikenal .
+
+
+tidak ada entitas jawaban, skip
+
+
+untuk menghindari segala sesuatu yang tidak diinginkan , maka <PERSON>presiden soekarno</PERSON> menyerahkan pimpinan sidang kepada perkembangan <PERSON>masyarakat indonesia</PERSON> pada <TIME>masa orde</TIME> baru 3 waperdam ii ( wakil perdana menteri ii ) dr j. laimena .
+
+memproses passage 2
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+title : pemerintahan orde baru
+list jawaban dan posisi dalam passage
+masa orde | position = 9
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hindar
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = sidang
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+masa orde 3
+
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = masyarakat indonesia
+tokenwithtagstemmed = masa orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = waperdam
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = perdana
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = dr
+tokenwithtagstemmed = j
+tokenwithtagstemmed = laimena
+kata kunci = kabinet
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hindar
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = masyarakat indonesia
+tokenwithtagstemmed = masa orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = waperdam
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = perdana
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = dr
+tokenwithtagstemmed = j
+tokenwithtagstemmed = laimena
+kata kunci = dwikora
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hindar
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = masyarakat indonesia
+tokenwithtagstemmed = masa orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = waperdam
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = perdana
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = dr
+tokenwithtagstemmed = j
+tokenwithtagstemmed = laimena
+kata kunci = ada
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = hindar
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = kembang
+tokenwithtagstemmed = masyarakat indonesia
+tokenwithtagstemmed = masa orde
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = 3
+tokenwithtagstemmed = waperdam
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = perdana
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = dr
+tokenwithtagstemmed = j
+tokenwithtagstemmed = laimena
+
+
+dalam konsepsi ini presiden juga mengusulkan perlunya dibentuk kabinet ke empat yaitu <PERSON>pni , masyumi</PERSON> nu dan pki .
+
+
+tidak ada entitas jawaban, skip
+
+
+beberapa partai seperti <PERSON>masyumi , nu , psii , partai katolik</PERSON> dan <PERSON>pir</PERSON> tidak menyetujuinya karena perubahan sistem pemerintahan menjadi wewenang badan konstituante .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>tanggal 25 april 1959</TIME> dihadapan sidang konstituante , <PERSON>presiden soekarno</PERSON> menganjurkan agar kembali kepada <TIME>uud 1945</TIME> anjuran ini diperdebatkan dalam sidang konstituante , kemudian diputuskan untuk mengadakan pemungutar suara ( voting ) .
+
+memproses passage 3
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+list jawaban dan posisi dalam passage
+tanggal 25 april 1959 | position = 0
+uud 1945 | position = 7
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = tanggal 25 april 1959
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = sidang
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+tanggal 25 april 1959 -2
+uud 1945 5
+
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = debat
+tokenwithtagstemmed = sidang
+posisi dalam passage = 10
+jarak dengan tiap kandidat jawaban:
+tanggal 25 april 1959 -10
+uud 1945 -3
+
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = pemungutar
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = voting
+kata kunci = kabinet
+tokenwithtagstemmed = tanggal 25 april 1959
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = debat
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = pemungutar
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = voting
+kata kunci = dwikora
+tokenwithtagstemmed = tanggal 25 april 1959
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = debat
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = pemungutar
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = voting
+kata kunci = ada
+tokenwithtagstemmed = tanggal 25 april 1959
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = debat
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = ada
+posisi dalam passage = 14
+jarak dengan tiap kandidat jawaban:
+tanggal 25 april 1959 -14
+uud 1945 -7
+
+tokenwithtagstemmed = pemungutar
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = voting
+
+
+sebagai gambaran hasil-hasil pemungutar suara waktu itu adalah sebagai berikut : pada <TIME>tanggal 30 mei 1959</TIME> , 269 suara setuju dan 199 suara menolak pada <TIME>tanggal 1 juni 1959</TIME> , 263 suara setuju dan 203 suara menolak pada <TIME>tanggal 2 juli 1959</TIME> , 264 suara setuju dan 204 suara meniolak meskipun mayoritas suara setuju kembali pada <TIME>uud 1945</TIME> , namun karena jumlahnya tidak mencukup dua pertiga anggota konstituante seperti yang diisyaratkan dalam pasal <TIME>137 uuds 1950</TIME> , maka tidak dapat diambil keputusan atas anjuran bung karno tersebut .
+
+memproses passage 3
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+list jawaban dan posisi dalam passage
+tanggal 30 mei 1959 | position = 7
+tanggal 1 juni 1959 | position = 14
+tanggal 2 juli 1959 | position = 21
+uud 1945 | position = 32
+137 uuds 1950 | position = 41
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = gambar
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = pemungutar
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = waktu
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tanggal 30 mei 1959
+tokenwithtagstemmed = 269
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 199
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = tanggal 1 juni 1959
+tokenwithtagstemmed = 263
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 203
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = tanggal 2 juli 1959
+tokenwithtagstemmed = 264
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 204
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = meniolak
+tokenwithtagstemmed = mayoritas
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = jumlah
+tokenwithtagstemmed = cukup
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = isyarat
+tokenwithtagstemmed = pasal
+tokenwithtagstemmed = 137 uuds 1950
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = bung
+tokenwithtagstemmed = karno
+kata kunci = kabinet
+tokenwithtagstemmed = gambar
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = pemungutar
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = waktu
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tanggal 30 mei 1959
+tokenwithtagstemmed = 269
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 199
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = tanggal 1 juni 1959
+tokenwithtagstemmed = 263
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 203
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = tanggal 2 juli 1959
+tokenwithtagstemmed = 264
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 204
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = meniolak
+tokenwithtagstemmed = mayoritas
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = jumlah
+tokenwithtagstemmed = cukup
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = isyarat
+tokenwithtagstemmed = pasal
+tokenwithtagstemmed = 137 uuds 1950
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = bung
+tokenwithtagstemmed = karno
+kata kunci = dwikora
+tokenwithtagstemmed = gambar
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = pemungutar
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = waktu
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tanggal 30 mei 1959
+tokenwithtagstemmed = 269
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 199
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = tanggal 1 juni 1959
+tokenwithtagstemmed = 263
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 203
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = tanggal 2 juli 1959
+tokenwithtagstemmed = 264
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 204
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = meniolak
+tokenwithtagstemmed = mayoritas
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = jumlah
+tokenwithtagstemmed = cukup
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = isyarat
+tokenwithtagstemmed = pasal
+tokenwithtagstemmed = 137 uuds 1950
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = bung
+tokenwithtagstemmed = karno
+kata kunci = ada
+tokenwithtagstemmed = gambar
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = pemungutar
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = waktu
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = tanggal 30 mei 1959
+tokenwithtagstemmed = 269
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 199
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = tanggal 1 juni 1959
+tokenwithtagstemmed = 263
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 203
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tolak
+tokenwithtagstemmed = tanggal 2 juli 1959
+tokenwithtagstemmed = 264
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = 204
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = meniolak
+tokenwithtagstemmed = mayoritas
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = uud 1945
+tokenwithtagstemmed = jumlah
+tokenwithtagstemmed = cukup
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = isyarat
+tokenwithtagstemmed = pasal
+tokenwithtagstemmed = 137 uuds 1950
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = anjur
+tokenwithtagstemmed = bung
+tokenwithtagstemmed = karno
+
+
+pada <TIME>tanggal 3 juni 1959</TIME> badan konstituante memasuki masa reses ( istirahat tidak mengadakan sidang ) dengan batas waktu yang tidak ditentukan dan berbagai fraksi dalam konstituante menyatakar tidak akan menghadiri sidang .
+
+memproses passage 3
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+list jawaban dan posisi dalam passage
+tanggal 3 juni 1959 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = tanggal 3 juni 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = pasuk
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = reses
+tokenwithtagstemmed = istirahat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+tanggal 3 juni 1959 -8
+
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = waktu
+tokenwithtagstemmed = tentu
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = fraksi
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = menyatakar
+tokenwithtagstemmed = hadir
+tokenwithtagstemmed = sidang
+posisi dalam passage = 17
+jarak dengan tiap kandidat jawaban:
+tanggal 3 juni 1959 -17
+
+kata kunci = kabinet
+tokenwithtagstemmed = tanggal 3 juni 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = pasuk
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = reses
+tokenwithtagstemmed = istirahat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = waktu
+tokenwithtagstemmed = tentu
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = fraksi
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = menyatakar
+tokenwithtagstemmed = hadir
+tokenwithtagstemmed = sidang
+kata kunci = dwikora
+tokenwithtagstemmed = tanggal 3 juni 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = pasuk
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = reses
+tokenwithtagstemmed = istirahat
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = waktu
+tokenwithtagstemmed = tentu
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = fraksi
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = menyatakar
+tokenwithtagstemmed = hadir
+tokenwithtagstemmed = sidang
+kata kunci = ada
+tokenwithtagstemmed = tanggal 3 juni 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = pasuk
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = reses
+tokenwithtagstemmed = istirahat
+tokenwithtagstemmed = ada
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tanggal 3 juni 1959 -7
+
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = batas
+tokenwithtagstemmed = waktu
+tokenwithtagstemmed = tentu
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = fraksi
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = menyatakar
+tokenwithtagstemmed = hadir
+tokenwithtagstemmed = sidang
+
+
+faktor penting yang menyebabkan ditolaknya laporan <PERSON>pertanggungjawaban presiden</PERSON> b.j. habibie adalah patut diduga bahwa <PERSON>presiden</PERSON> menguraikan indikator pertumbuhan ekonomi yang tidak akurat dan <PERSON>manipulatif .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+sidang umum mpr juga berhasil mengambil keputusan memilih dan menetapkan k.h. abdurrahman wahid ( gus dur ) sebagai presiden ri masa bakti <TIME>1999 – 2004</TIME> .
+
+memproses passage 2
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+title : jatuh bangunnya pemerintahan ri setelah 21 mei 1998
+list jawaban dan posisi dalam passage
+1999 2004 | position = 17
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = sidang
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+1999 2004 17
+
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mpr
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = k.h
+tokenwithtagstemmed = abdurrahman
+tokenwithtagstemmed = wahid
+tokenwithtagstemmed = gus
+tokenwithtagstemmed = dur
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = ri
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bakti
+tokenwithtagstemmed = 1999 2004
+kata kunci = kabinet
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mpr
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = k.h
+tokenwithtagstemmed = abdurrahman
+tokenwithtagstemmed = wahid
+tokenwithtagstemmed = gus
+tokenwithtagstemmed = dur
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = ri
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bakti
+tokenwithtagstemmed = 1999 2004
+kata kunci = dwikora
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mpr
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = k.h
+tokenwithtagstemmed = abdurrahman
+tokenwithtagstemmed = wahid
+tokenwithtagstemmed = gus
+tokenwithtagstemmed = dur
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = ri
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bakti
+tokenwithtagstemmed = 1999 2004
+kata kunci = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mpr
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = ambil
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = k.h
+tokenwithtagstemmed = abdurrahman
+tokenwithtagstemmed = wahid
+tokenwithtagstemmed = gus
+tokenwithtagstemmed = dur
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = ri
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = bakti
+tokenwithtagstemmed = 1999 2004
+
+
+<PERSON>presiden k.h. abdurrahman wahid</PERSON> dalam menjalankan pemerintahan didampingi wapres megawati sukarnoputri .
+
+
+tidak ada entitas jawaban, skip
+
+
+sidang umum mpr setelah berhasil menetapkan <PERSON>presiden</PERSON> dan wakil <PERSON>presiden ri</PERSON> juga berhasil membuat sembilan ketetapan dan untuk kali pertama melakukan amandemen terhadap <TIME>uud 1945</TIME> .
+
+memproses passage 2
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+title : jatuh bangunnya pemerintahan ri setelah 21 mei 1998
+list jawaban dan posisi dalam passage
+uud 1945 | position = 17
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = sidang
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+uud 1945 17
+
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mpr
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = presiden ri
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = amandemen
+tokenwithtagstemmed = uud 1945
+kata kunci = kabinet
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mpr
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = presiden ri
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = amandemen
+tokenwithtagstemmed = uud 1945
+kata kunci = dwikora
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mpr
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = presiden ri
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = amandemen
+tokenwithtagstemmed = uud 1945
+kata kunci = ada
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = umum
+tokenwithtagstemmed = mpr
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = presiden ri
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = tetap
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = amandemen
+tokenwithtagstemmed = uud 1945
+
+
+presiden abdurrahman wahid menjalankan pemerintahan dengan membentuk kabinet yang disebut kabinet persatuan nasional .
+
+
+tidak ada entitas jawaban, skip
+
+
+keputusan pembubaran <PERSON>pki</PERSON> beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh <PERSON>rakyat</PERSON> karena merupakan salah satu realisasi dari tritura .
+
+
+tidak ada entitas jawaban, skip
+
+
+b. <TIME>tanggal 18 maret 1966</TIME> pengemban supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam g 30 s/pki dan diragukan etika baiknya yang dituangkan dalam keputusan presiden no. <TIME>5 tanggal 18 maret 1966</TIME> .
+
+memproses passage 7
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+list jawaban dan posisi dalam passage
+tanggal 18 maret 1966 | position = 1
+5 tanggal 18 maret 1966 | position = 21
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = b
+tokenwithtagstemmed = tanggal 18 maret 1966
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = 15
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = nilai
+tokenwithtagstemmed = sangkut
+tokenwithtagstemmed = g
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ragu
+tokenwithtagstemmed = etika
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tuang
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 5 tanggal 18 maret 1966
+kata kunci = kabinet
+tokenwithtagstemmed = b
+tokenwithtagstemmed = tanggal 18 maret 1966
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = 15
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = nilai
+tokenwithtagstemmed = sangkut
+tokenwithtagstemmed = g
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ragu
+tokenwithtagstemmed = etika
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tuang
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 5 tanggal 18 maret 1966
+kata kunci = dwikora
+tokenwithtagstemmed = b
+tokenwithtagstemmed = tanggal 18 maret 1966
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = 15
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = nilai
+tokenwithtagstemmed = sangkut
+tokenwithtagstemmed = g
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ragu
+tokenwithtagstemmed = etika
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tuang
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 5 tanggal 18 maret 1966
+kata kunci = ada
+tokenwithtagstemmed = b
+tokenwithtagstemmed = tanggal 18 maret 1966
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = 15
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = nilai
+tokenwithtagstemmed = sangkut
+tokenwithtagstemmed = g
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ragu
+tokenwithtagstemmed = etika
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tuang
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 5 tanggal 18 maret 1966
+
+
+c. <TIME>tanggal 27</TIME> maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
+
+memproses passage 7
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok145.txt
+title : pemerintahan zaman orde baru dan lahirnya supersemar
+list jawaban dan posisi dalam passage
+tanggal 27 | position = 1
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = c
+tokenwithtagstemmed = tanggal 27
+tokenwithtagstemmed = maret
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = perintah
+kata kunci = kabinet
+tokenwithtagstemmed = c
+tokenwithtagstemmed = tanggal 27
+tokenwithtagstemmed = maret
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = kabinet
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+tanggal 27 -5
+
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = perintah
+kata kunci = dwikora
+tokenwithtagstemmed = c
+tokenwithtagstemmed = tanggal 27
+tokenwithtagstemmed = maret
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tanggal 27 -6
+
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = perintah
+kata kunci = ada
+tokenwithtagstemmed = c
+tokenwithtagstemmed = tanggal 27
+tokenwithtagstemmed = maret
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = kabinet
+tokenwithtagstemmed = dwikora
+tokenwithtagstemmed = sempurna
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = perintah
+
+
+tokoh-tokoh yang duduk di dalam kabinet ini adalah mereka yang jelas tidak terlibat dalam g 30 s/pki .
+
+
+tidak ada entitas jawaban, skip
+
+
+d. membersihkan lembaga legislatif dimulai dari tokoh-tokoh pimpinan mprs dan dprgr yang diduga terlibat g 30 s/pki .
+
+
+tidak ada entitas jawaban, skip
+
+
+<TIME>tanggal 12 maret 1966</TIME> , dikeluarkanlah surat keputusan yang berisi pembubaran dan <PERSON>larangan pki</PERSON> beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya , beraktivitas dan hidup di <LOCATION>seluruh wilayah indonesia .</LOCATION>
+
+memproses passage 6
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+title : pemerintahan orde baru
+list jawaban dan posisi dalam passage
+tanggal 12 maret 1966 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = tanggal 12 maret 1966
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = larang pki
+tokenwithtagstemmed = serta
+tokenwithtagstemmed = ormas
+tokenwithtagstemmed = ormasnya
+tokenwithtagstemmed = naung
+tokenwithtagstemmed = lindung
+tokenwithtagstemmed = nada
+tokenwithtagstemmed = dengan
+tokenwithtagstemmed = aktivitas
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = wilayah indonesia
+kata kunci = kabinet
+tokenwithtagstemmed = tanggal 12 maret 1966
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = larang pki
+tokenwithtagstemmed = serta
+tokenwithtagstemmed = ormas
+tokenwithtagstemmed = ormasnya
+tokenwithtagstemmed = naung
+tokenwithtagstemmed = lindung
+tokenwithtagstemmed = nada
+tokenwithtagstemmed = dengan
+tokenwithtagstemmed = aktivitas
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = wilayah indonesia
+kata kunci = dwikora
+tokenwithtagstemmed = tanggal 12 maret 1966
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = larang pki
+tokenwithtagstemmed = serta
+tokenwithtagstemmed = ormas
+tokenwithtagstemmed = ormasnya
+tokenwithtagstemmed = naung
+tokenwithtagstemmed = lindung
+tokenwithtagstemmed = nada
+tokenwithtagstemmed = dengan
+tokenwithtagstemmed = aktivitas
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = wilayah indonesia
+kata kunci = ada
+tokenwithtagstemmed = tanggal 12 maret 1966
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = surat
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = larang pki
+tokenwithtagstemmed = serta
+tokenwithtagstemmed = ormas
+tokenwithtagstemmed = ormasnya
+tokenwithtagstemmed = naung
+tokenwithtagstemmed = lindung
+tokenwithtagstemmed = nada
+tokenwithtagstemmed = dengan
+tokenwithtagstemmed = aktivitas
+tokenwithtagstemmed = hidup
+tokenwithtagstemmed = wilayah indonesia
+
+
+keputusan tersebut diperkuat dengan keputusan <PERSON>presiden/pangti abri/mandataris mprs no.</PERSON> <TIME>1/3/1966 tangal 12 maret 1966</TIME> .
+
+memproses passage 6
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+title : pemerintahan orde baru
+list jawaban dan posisi dalam passage
+1 3 1966 tangal 12 maret 1966 | position = 4
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden pangti abri mandataris mprs no
+tokenwithtagstemmed = 1 3 1966 tangal 12 maret 1966
+kata kunci = kabinet
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden pangti abri mandataris mprs no
+tokenwithtagstemmed = 1 3 1966 tangal 12 maret 1966
+kata kunci = dwikora
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden pangti abri mandataris mprs no
+tokenwithtagstemmed = 1 3 1966 tangal 12 maret 1966
+kata kunci = ada
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden pangti abri mandataris mprs no
+tokenwithtagstemmed = 1 3 1966 tangal 12 maret 1966
+
+
+keputusan pembubaran <PERSON>pki</PERSON> beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh <PERSON>rakyat</PERSON> karena merupakan salah satu realisasi dari tritura .
+
+
+tidak ada entitas jawaban, skip
+
+
+<TIME>tanggal 18 maret 1966</TIME> pengemban supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam g 30 s/pki dan diragukan etika baiknya yang dituangkan dalam keputusan presiden no. <TIME>5 tanggal 18 maret 1966</TIME> .
+
+memproses passage 6
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+title : pemerintahan orde baru
+list jawaban dan posisi dalam passage
+tanggal 18 maret 1966 | position = 0
+5 tanggal 18 maret 1966 | position = 20
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = tanggal 18 maret 1966
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = 15
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = nilai
+tokenwithtagstemmed = sangkut
+tokenwithtagstemmed = g
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ragu
+tokenwithtagstemmed = etika
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tuang
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 5 tanggal 18 maret 1966
+kata kunci = kabinet
+tokenwithtagstemmed = tanggal 18 maret 1966
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = 15
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = nilai
+tokenwithtagstemmed = sangkut
+tokenwithtagstemmed = g
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ragu
+tokenwithtagstemmed = etika
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tuang
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 5 tanggal 18 maret 1966
+kata kunci = dwikora
+tokenwithtagstemmed = tanggal 18 maret 1966
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = 15
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = nilai
+tokenwithtagstemmed = sangkut
+tokenwithtagstemmed = g
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ragu
+tokenwithtagstemmed = etika
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tuang
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 5 tanggal 18 maret 1966
+kata kunci = ada
+tokenwithtagstemmed = tanggal 18 maret 1966
+tokenwithtagstemmed = emban
+tokenwithtagstemmed = supersemar
+tokenwithtagstemmed = aman
+tokenwithtagstemmed = 15
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = nilai
+tokenwithtagstemmed = sangkut
+tokenwithtagstemmed = g
+tokenwithtagstemmed = 30
+tokenwithtagstemmed = s
+tokenwithtagstemmed = pki
+tokenwithtagstemmed = ragu
+tokenwithtagstemmed = etika
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tuang
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = no
+tokenwithtagstemmed = 5 tanggal 18 maret 1966
+
+
+tanggal 27 maret pengemban supersemar membentuk kabinet dwikora yang disempurnakan untuk menjalankan pemerintahan .
+
+
+tidak ada entitas jawaban, skip
+
+
+dekrit presiden 5 juli <TIME>1959</TIME> badan konstituante yang dibentuk melalui pemilihan urnurn <TIME>1955</TIME> , dipersiapkan untuk merumuskan uud ( konstitusi ) baru sebagai pengganti uuds <TIME>1950</TIME> .
+
+memproses passage 1
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+list jawaban dan posisi dalam passage
+1959 | position = 4
+1955 | position = 10
+1950 | position = 19
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = dekrit
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = 5
+tokenwithtagstemmed = juli
+tokenwithtagstemmed = 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = urnurn
+tokenwithtagstemmed = 1955
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = konstitusi
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+kata kunci = kabinet
+tokenwithtagstemmed = dekrit
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = 5
+tokenwithtagstemmed = juli
+tokenwithtagstemmed = 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = urnurn
+tokenwithtagstemmed = 1955
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = konstitusi
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+kata kunci = dwikora
+tokenwithtagstemmed = dekrit
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = 5
+tokenwithtagstemmed = juli
+tokenwithtagstemmed = 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = urnurn
+tokenwithtagstemmed = 1955
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = konstitusi
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+kata kunci = ada
+tokenwithtagstemmed = dekrit
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = 5
+tokenwithtagstemmed = juli
+tokenwithtagstemmed = 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = urnurn
+tokenwithtagstemmed = 1955
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = konstitusi
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+
+
+sejak <TIME>tahun 1956</TIME> konstituante merumuskan uud yang baru .
+
+memproses passage 1
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+list jawaban dan posisi dalam passage
+tahun 1956 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = tahun 1956
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = baru
+kata kunci = kabinet
+tokenwithtagstemmed = tahun 1956
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = baru
+kata kunci = dwikora
+tokenwithtagstemmed = tahun 1956
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = baru
+kata kunci = ada
+tokenwithtagstemmed = tahun 1956
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = baru
+
+
+akan tetapi hingga <TIME>tahun 1959</TIME> badan konstituante tidak pernah dapat merumuskan uud yang baru .
+
+memproses passage 1
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+list jawaban dan posisi dalam passage
+tahun 1959 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = tahun 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = baru
+kata kunci = kabinet
+tokenwithtagstemmed = tahun 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = baru
+kata kunci = dwikora
+tokenwithtagstemmed = tahun 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = baru
+kata kunci = ada
+tokenwithtagstemmed = tahun 1959
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = baru
+
+
+dalam sidang-sidangnya , selalu diwarnai adanya benturan-benturan antara partai politik dan <PERSON>golongan ,</PERSON> mereka lebih mementingkan kelompoknya sendiri sehingga mengabaikan kepentingan nasional .
+
+
+tidak ada entitas jawaban, skip
+
+
+kegagalan konstituante merumuskan uud sebagai pengganti uuds <TIME>1950</TIME> menyebabkan negara dilanda kekalutan konstitusional , sehingga mengganggu dan membahayakan stabilitas nasional dengan persatuan bangsa indonesia .
+
+memproses passage 1
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+list jawaban dan posisi dalam passage
+1950 | position = 6
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = gagal
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = landa
+tokenwithtagstemmed = kalut
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = ganggu
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = stabilitas
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = indonesia
+kata kunci = kabinet
+tokenwithtagstemmed = gagal
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = landa
+tokenwithtagstemmed = kalut
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = ganggu
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = stabilitas
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = indonesia
+kata kunci = dwikora
+tokenwithtagstemmed = gagal
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = landa
+tokenwithtagstemmed = kalut
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = ganggu
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = stabilitas
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = indonesia
+kata kunci = ada
+tokenwithtagstemmed = gagal
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = landa
+tokenwithtagstemmed = kalut
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = ganggu
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = stabilitas
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = indonesia
+
+
+kegagalan konstituante merumuskan uud sebagai pengganti uuds <TIME>1950</TIME> menyebabkan negara dilanda kekalutan konstitusional , sehingga mengganggu dan membahayakan stabilitas nasional dengan persatuan bangsa indonesia .
+
+memproses passage 2
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+list jawaban dan posisi dalam passage
+1950 | position = 6
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = gagal
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = landa
+tokenwithtagstemmed = kalut
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = ganggu
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = stabilitas
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = indonesia
+kata kunci = kabinet
+tokenwithtagstemmed = gagal
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = landa
+tokenwithtagstemmed = kalut
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = ganggu
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = stabilitas
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = indonesia
+kata kunci = dwikora
+tokenwithtagstemmed = gagal
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = landa
+tokenwithtagstemmed = kalut
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = ganggu
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = stabilitas
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = indonesia
+kata kunci = ada
+tokenwithtagstemmed = gagal
+tokenwithtagstemmed = konstituante
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = uud
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = uuds
+tokenwithtagstemmed = 1950
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = landa
+tokenwithtagstemmed = kalut
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = ganggu
+tokenwithtagstemmed = bahaya
+tokenwithtagstemmed = stabilitas
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = bangsa
+tokenwithtagstemmed = indonesia
+
+
+pada <TIME>tanggal 21 februari 1957</TIME> <PERSON>presiden soekarno</PERSON> mengajukan gagasan yang dikenal dengan konsepsi soekarno , dengan isi pokoknya adalah sebagai berikut : sistem demokrasi parlementer secara berat tidak cocok dengan kepribadian <PERSON>bangsa indonesia</PERSON> , sehingga harus diganti dengan demokrasi terpimpin .
+
+memproses passage 2
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+title : dekrit presiden 5 juli 1959
+list jawaban dan posisi dalam passage
+tanggal 21 februari 1957 | position = 0
+
+
+melakukan pencarian:
+kata kunci = sidang
+tokenwithtagstemmed = tanggal 21 februari 1957
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = aju
+tokenwithtagstemmed = gagas
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = konsepsi
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = pokok
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = parlementer
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = berat
+tokenwithtagstemmed = cocok
+tokenwithtagstemmed = pribadi
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = pimpin
+kata kunci = kabinet
+tokenwithtagstemmed = tanggal 21 februari 1957
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = aju
+tokenwithtagstemmed = gagas
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = konsepsi
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = pokok
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = parlementer
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = berat
+tokenwithtagstemmed = cocok
+tokenwithtagstemmed = pribadi
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = pimpin
+kata kunci = dwikora
+tokenwithtagstemmed = tanggal 21 februari 1957
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = aju
+tokenwithtagstemmed = gagas
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = konsepsi
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = pokok
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = parlementer
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = berat
+tokenwithtagstemmed = cocok
+tokenwithtagstemmed = pribadi
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = pimpin
+kata kunci = ada
+tokenwithtagstemmed = tanggal 21 februari 1957
+tokenwithtagstemmed = presiden soekarno
+tokenwithtagstemmed = aju
+tokenwithtagstemmed = gagas
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = konsepsi
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = isi
+tokenwithtagstemmed = pokok
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = sistem
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = parlementer
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = berat
+tokenwithtagstemmed = cocok
+tokenwithtagstemmed = pribadi
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = demokrasi
+tokenwithtagstemmed = pimpin
+
+
+dibentuk kabinet gotong royong yang terdiri dari semua partai dan <PERSON>organisasi masyarakat</PERSON> lainnya .
+
+
+tidak ada entitas jawaban, skip
+
+
+pembentukan dewan nasional yang terdiri dari golongan fungsional dalam <PERSON>masyarakat .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+dalam konsepsi ini presiden juga mengusulkan perlunya dibentuk kabinet ke empat yaitu <PERSON>pni , masyumi</PERSON> nu dan pki .
+
+
+tidak ada entitas jawaban, skip
+
+Pengurutan kandidat jawaban
+this.answer = masa orde
+passage rank = 4
+distance = 3
+doc rank = 10
+total Score = 17
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok276.txt
+document Title = pemerintahan orde baru
+
+this.answer = uud 1945
+passage rank = 5
+distance = 5
+doc rank = 1
+total Score = 11
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok225.txt
+document Title = dekrit presiden 5 juli 1959
+
+this.answer = tanggal 11 maret 1966
+passage rank = 1
+distance = 9
+doc rank = 4
+total Score = 14
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+document Title = perkembangan masyarakat indonesia pada masa orde baru
+
+this.answer = tanggal 11 maret 1966
+passage rank = 1
+distance = 10
+doc rank = 4
+total Score = 15
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+document Title = perkembangan masyarakat indonesia pada masa orde baru
+
+this.answer = tanggal 11 maret 1966
+passage rank = 1
+distance = 16
+doc rank = 4
+total Score = 21
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+document Title = perkembangan masyarakat indonesia pada masa orde baru
+
+this.answer = tanggal 11 maret 1966
+passage rank = 1
+distance = 17
+doc rank = 4
+total Score = 22
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok368.txt
+document Title = perkembangan masyarakat indonesia pada masa orde baru
+
+this.answer = 1999 2004
+passage rank = 6
+distance = 17
+doc rank = 5
+total Score = 28
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+document Title = jatuh bangunnya pemerintahan ri setelah 21 mei 1998
+
+this.answer = uud 1945
+passage rank = 6
+distance = 17
+doc rank = 5
+total Score = 28
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok283.txt
+document Title = jatuh bangunnya pemerintahan ri setelah 21 mei 1998
+
+
+
+selesai

@@ -1,0 +1,20 @@
+percobaan Top 10 Dokumen 
+dimana perjanjian renville dibuat.csv noFeedback = 0.26107 feedback = 0.34079 selisih = 0.07972
+Kapan Budi Utomo didirikan.csv noFeedback = 0.68282 feedback = 0.68341 selisih = 0.00060
+kapan indische partij didirikan.csv noFeedback = 0.57036 feedback = 0.69325 selisih = 0.12290
+kapan indonesia kembali menjadi anggota pbb.csv noFeedback = 0.25246 feedback = 0.48579 selisih = 0.23333
+kapan pancasila lahir.csv noFeedback = 0.06456 feedback = 0.96889 selisih = 0.90433
+kapan sarekat islam didirikan.csv noFeedback = 0.52063 feedback = 0.71325 selisih = 0.19262
+siapa pendiri budi utomo.csv noFeedback = 0.68282 feedback = 0.68341 selisih = 0.00060
+siapa pendiri sarekat islam.csv noFeedback = 0.52063 feedback = 0.71325 selisih = 0.19262
+Siapa presiden pada masa orde baru.csv noFeedback = 0.42353 feedback = 0.67599 selisih = 0.25246
+Siapa presiden pertama Indonesia.csv noFeedback = 0.35079 feedback = 0.53369 selisih = 0.18290
+
+
+Percobaan Top 50 Dokumen
+dimana taman siswa didirikan.csv noFeedback = 0.12997 feedback = 0.15997 selisih = 0.03000
+siapa penulis konsep naskah proklamasi.csv noFeedback = 0.14997 feedback = 0.15997 selisih = 0.01000
+
+
+percobaan Top 100 Dokumen
+kapan konferensi asia afrika diselenggarakan.csv noFeedback = 0.19929 feedback = 0.20229 selisih = 0.00299

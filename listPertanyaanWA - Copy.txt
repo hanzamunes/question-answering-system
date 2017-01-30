@@ -1,0 +1,2 @@
+Siapa pendiri Taman Siswa? ->  tanpa sentence based -> posisi kata suwardi suryaningrat (-7) | relevance feedback gagal token tidak benar
+siapa pemimpin RMS? -> jawabannya dr (cacat NER)

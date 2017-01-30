@@ -1,0 +1,5 @@
+rank,document,verdict,Precision,Recall
+1,dok131.txt,AC,1.0,0.3333333333333333
+2,dok60.txt,AC,1.0,0.6666666666666666
+3,dok188.txt,AC,1.0,1.0
+average precision,1.0

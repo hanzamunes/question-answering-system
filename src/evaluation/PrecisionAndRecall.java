@@ -8,6 +8,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -140,6 +141,56 @@ public class PrecisionAndRecall
 		
 	}
 	
+	public static ArrayList<Pair<String,Double>> getImprovedQuery(String noFeedbackPath, String withFeedbackPath)
+	{
+		ArrayList<Pair<String,Double>> result = new ArrayList<Pair<String,Double>>();
+		File dir = new File(noFeedbackPath);
+		File[] dirList = dir.listFiles();
+		File dir1 = new File(withFeedbackPath);
+		File[] dir1List = dir1.listFiles();
+		for (int i=0;i<dirList.length;i++)
+		{
+			if (dirList[i].isFile())
+			{
+				List<String[]> dataset1 = null;
+				try
+				{
+					CSVReader reader = new CSVReader (new FileReader (dirList[i].getAbsolutePath()));
+					dataset1 = new ArrayList<String[]>(reader.readAll());
+					reader.close();
+				} catch (IOException e)
+				{
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				List<String[]> dataset2 = null;
+				try
+				{
+					CSVReader reader = new CSVReader (new FileReader (dir1List[i].getAbsolutePath()));
+					dataset2 = new ArrayList<String[]>(reader.readAll());
+					reader.close();
+				} catch (IOException e)
+				{
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				String percent1 = dataset1.get(dataset1.size()-1)[1].replace("%", "").trim();
+				String percent2 = dataset2.get(dataset2.size()-1)[1].replace("%", "").trim();
+				
+				double percents1 = Double.parseDouble(percent1);
+				double percents2 = Double.parseDouble(percent2);
+				DecimalFormat df = new DecimalFormat ("#0.00000");
+				if (percents2>percents1)
+				{
+					result.add(new MutablePair(dirList[i].getName(),df.format(Math.abs(percents1-percents2))));
+					System.out.println(dirList[i].getName()+" noFeedback = "+df.format(percents1)+" feedback = "+df.format(percents2)+ " selisih = "+df.format(Math.abs(percents1-percents2)));
+				}
+			}
+		}
+		return result;
+		
+	}
+	
 	public static void main (String[] Args)
 	{
 		/*String file = "tesPrecisionAndRecall.csv";
@@ -172,7 +223,7 @@ public class PrecisionAndRecall
 		long percent = Math.round(meanAveragePrecision * 100);
 		System.out.println("Mean average Precision = "+meanAveragePrecision);
 		System.out.println("mean average precision in percent = "+percent+"%");*/
-		
+		/*
 		File roots = new File ("debug question answering/listRetrievedDocument");
 		File[] rootDir = Utils.sortDir(roots.listFiles());
 		for (File dir:rootDir)
@@ -195,7 +246,15 @@ public class PrecisionAndRecall
 			double meanAveragePrecision = calculateMeanAveragePrecision (averagePrecision);
 			long percent = Math.round(meanAveragePrecision * 100);
 			System.out.println(dir.getName()+" -> "+percent+"%");
-		}
+		}*/
+		//ArrayList<Pair<String,Double>> queri = getImprovedQuery ("debug question answering/hasil bersih/listPrecisionAndRecallResult/percobaan 26/","debug question answering/hasil bersih/listPrecisionAndRecallResult/percobaan 17/");
+		//ArrayList<Pair<String,Double>> queri = getImprovedQuery ("debug question answering/hasil bersih/listPrecisionAndRecallResult/percobaan 31/","debug question answering/hasil bersih/listPrecisionAndRecallResult/percobaan 24/");
+		ArrayList<Pair<String,Double>> queri = getImprovedQuery ("debug question answering/hasil bersih/listPrecisionAndRecallResult/percobaan 32/","debug question answering/hasil bersih/listPrecisionAndRecallResult/percobaan 25/");
+		/*System.out.println (queri.size());
+		for (int i=0;i<queri.size();i++)
+		{
+			System.out.println(queri.get(i).getLeft()+" -> "+queri.get(i).getRight());
+		}*/
 	}
 	
 

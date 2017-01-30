@@ -134,7 +134,7 @@ public class PassageRetrieval {
 		  		    .newDocumentBuilder()
 		  		    .parse(dok);
 		      	final org.w3c.dom.NodeList field = doc.getElementsByTagName("field");
-		      	String text = field.item(2).getTextContent().toLowerCase();
+		      	String text = field.item(2).getTextContent();
 			String serializedClassifier = Utils.classifierPath;
 			AbstractSequenceClassifier classifier = CRFClassifier.getClassifierNoExceptions(serializedClassifier);
 			out.write( classifier.classifyWithInlineXML(text)+"\n");

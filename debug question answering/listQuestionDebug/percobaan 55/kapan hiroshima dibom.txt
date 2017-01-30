@@ -1,0 +1,1982 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok198.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok252.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+
+searching dari query expansion
+query hasil ekspansi = rakyat anggota negara uud dasar undang adil indonesia sukarno 1945
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok218.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok247.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok212.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok110.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok39.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok215.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok307.txt
+
+query token : 
+hiroshima bom 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 1 score = 8.5
+sentence 1: peristiwa seputar proklamasi kemerdekaan 17 agustus 1945 - menjelang berakhirnya perang dunia ii ( 1939-1945 ) pasukan gabungan sekutu yaitu front abcd ( amerika serikat , british / inggris , china dan dutch / belanda ) berhasil mengalahkan pasukan tentara jepang dalam pertempuran di laut karang pada tanggal 7 mei 1945 .
+sentence 2: setelah itu , pasukan amerika serikat kemudian melakukan penyerbuan terhadap pusat-pusat industri , pemerintahan dan militer di jepang .
+sentence 3: sehingga akhirnya pada tanggal 6 agustus 1945 amerika serikat menjatuhkan bom atom dikota hiroshima dan pada tanggal 9 agustus 1945 amerika serikat menjatuhkan bom atom dikota nagasaki .
+sentence 4: setelah kedudukan jepang bertambah sulit baik dalam perang dunia ii maupun perang asia timur raya , maka perdana menteri jepang kaiso pada tanggal 7 september 1944 mengeluarkan janji kemerdekaan kepada bangsa indonesia kelak dikemudian hari .
+sentence 5: hal ini perlu dilakukan oleh jepang agar rakyat indonesia tidak melakukan perlawanan militer serta aksi-aksi perebutan kekuasaan .
+passage 2 score = 6.5
+sentence 1: hal ini perlu dilakukan oleh jepang agar rakyat indonesia tidak melakukan perlawanan militer serta aksi-aksi perebutan kekuasaan .
+sentence 2: dengan adanya janji kaiso tersebut maka arah perjuangan bangsa indonesia untuk memperoleh kemerdekaan makin nyata dan jelas .
+sentence 3: hal ini terbukti , ketika pemerintah jepang memberi kesempatan kepada para tokoh-tokoh pergerakan nasional untuk duduk dalam badan-badan yang dibentuk oleh pemerintah jepang seperti chuo-sangi-in ( dewan pertimbangan pusat ) pada tanggal 5 september 1943 .
+sentence 4: oleh karena itu para tokoh-tokoh pergerakan nasional memanfaatkan badan-badan pemerintah jepang untuk kepentingan perjuangan .
+sentence 5: terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia sebagai tindak lanjut dari janji kaiso , maka pada tanggal 1 maret 1945 letnan jendral kumakici harada selakupanglima tentara jepangmengumumkan pembentukanbadan penyelidik usaha-usaha persiapan kemerdekaan indonesia disingkat bpupki atau disebut dokuritsu junbi cosakai .
+passage 3 score = 6.5
+sentence 1: terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia sebagai tindak lanjut dari janji kaiso , maka pada tanggal 1 maret 1945 letnan jendral kumakici harada selakupanglima tentara jepangmengumumkan pembentukanbadan penyelidik usaha-usaha persiapan kemerdekaan indonesia disingkat bpupki atau disebut dokuritsu junbi cosakai .
+sentence 2: kemudian pada tanggal 29 april 1945 pemerintah jepang membentuk bpupki dengan jumlah anggota 62 orang indonesia dan tujuh orang jepang .
+sentence 3: secara resmi pemerintah jepang melantik dan meresmikan bpupki beserta anggotanya pada tanggal 29 mei 1945 .
+sentence 4: adapun ketua bpupki pada mulanya akan ditunjuk ir soekarno , tetapi ditolak , karena tidak memiliki kebebasan berpendapat .
+sentence 5: maka pemerintah jepang akhirnya menunjuk dr. k.r.t. radjiman wedyodiningrat , sedangkan wakilnya antara lain icibangase dan r.p. suroso , sekretarisnya adalah a.g. pringgodigdo .
+passage 4 score = 6.5
+sentence 1: maka pemerintah jepang akhirnya menunjuk dr. k.r.t. radjiman wedyodiningrat , sedangkan wakilnya antara lain icibangase dan r.p. suroso , sekretarisnya adalah a.g. pringgodigdo .
+sentence 2: dengan demikian sejak saat itu bpupki sudah dapat melaksanakan tugasnya yaitu menyusun rumusan dasar negara dan rancangan undang-undang dasar .
+sentence 3: karena dasar negara dan undang-undang dasar merupakan bagian dari syarat terbentuknya negara yaitu pemerintah yang berdaulat .
+sentence 4: dalam melaksanakan tugasnya tersebut , maka bpupki mengadakan sidang yang berlangsung sampai dua tahap , sebagai berikut : 1 .
+sentence 5: sidang pertama ( 29 mei sampai 1 juni 1945 ) .
+passage 5 score = 6.5
+sentence 1: sidang pertama ( 29 mei sampai 1 juni 1945 ) .
+sentence 2: dalam sidang pertama bpupki membahas dasar dan falsafah negara indonesia merdeka .
+sentence 3: oleh karena itu ada tiga orang tokoh yang menyampaiakan dan mengusulkan lima azas sebagai dasar negara indonesia , yaitu : a. mr. muhammad yamin .
+sentence 4: pada tanggal 29 mei 1945 mr. muhammad yamin mengusulkan lima azas sebagai dasar negara indonesia , mr. supomodalam pidatonya didepan sidang bpupki tanggal 31 mei 1945 , mr. supomo mengusulkan dasar negara indonesia .
+sentence 5: ir .
+passage 6 score = 6.5
+sentence 1: ir .
+sentence 2: sukarno pada tanggal 1 juni 1945 ir sukarno mengusulkan lima dasar negara indonesia , oleh ir .
+sentence 3: sukarno diusulkan agar lima dasar negara tersebut diberi nama pancasila .
+sentence 4: setelah bpupki melaksanakan sidangnya selama tiga hari , maka para anggota bpupki memasuki masa reses atau istirahat.pada masa reses tersebut dibentuk panitia kecil yang beranggotakan sembilan orang , maka disebut panitia sembilan.adapun susunan anggota panitia sembilan antara lain : ketua : ir .
+sentence 5: sukarno .
+passage 7 score = 6.5
+sentence 1: sukarno .
+sentence 2: anggota : drs. mohammad hatta , mr. muhammad yamin , mr ahmad subarjo mr. a.a. maramis , abikusno cokrosuyoso , abdul kahar muzakir , wachid hasyim dan h. agus salim .
+sentence 3: adapun tugas panitia sembilan adalah merumuskan kembali konsep dasar negara yang diusul oleh mr. muhammad yamin , mr. supomo , dan ir soekarno pada sidang bpupki tanggal 29 maret-1 juni 1945 .
+sentence 4: setelah konsep dasar negara dibahas , maka panitia sembilan berhasil merumuskan dasar negara sebagai berikut : lima rumusan dasar negara tersebut oleh panitia sembilan dicantumkan dan disyahkan pada piagam djakarta ( djakarta charter ) pada tanggal 22 juni 1945 .
+sentence 5: kemudian setelah mendengar saran dan usul dari umat kristen , maka sila pertama dirubah menjadi ketuhanan yang maha esa .
+passage 10 score = 6.5
+sentence 1: hasil rumusan hukum dasar atau undang-undang dasar tersebut kemudian diserahkan pada panitia penghalus bahasa untuk disempurnakan bahasanya .
+sentence 2: panitia penghalus bahasa beranggotakan husein jayadiningrat , haji agus salim dan mr. supomo .
+sentence 3: setelah sidang kedua berhasil merumuskan undang-undang dasar secara lengkap berikut pembukaannya , maka pada tanggal 17 juli 1945 sidang bpupki ditutup .
+sentence 4: dengan demikian sidang bpupki yang berlangsung sampai dua kali sudah berhasil merumuskan dasar negara dan undang-undang dasar .
+sentence 5: kedua rumusan tersebut merupakan syarat syah berdirinya suatu negara indonesia secara hukum dasar atau konstitusional terbentuknya panitia persiapan kemerdekaan indonesia setelah berhasil melaksanakan tugasnya , maka pada tanggal 7 agustus 1945 bpupki dibubarkan , sebagai gantinya jepang membentuk panitia persiapan kemerdekaan indonesia disingkat ppki atau dokuritsu zunbi inkai .
+passage 12 score = 6.5
+sentence 1: pada mulanya anggota ppki berjumlah 21 orang , tetapi tanpa sepengetahun jepang jumlah anggotanya ditambah 6 orang .
+sentence 2: hal ini dimaksudkan agar ppki benar-benar milik bangsa indonesia .
+sentence 3: enam orang anggota tambahan tersebut antara lain : a. mr. ahmad subarjo d. iwa kusumasumantri b. sayuti melik e. r.a.a. wiranatakusumah c. ki hajar dewantara f. mr. kasman singodimejo untuk kepentingan pelantikan anggota ppki , pada tanggal 9 agustus 1945 ir .
+sentence 4: sukarno , drs. mohammad hatta dan dr. k.r.t. radjiman wedyodiningrat dipanggil oleh jendral terauchi ke dalat , saigon , vietnam .
+sentence 5: pada tanggal 12 agustus 1945 jendral terauchi mengucapkan selamat atas dibentuknya ppki dan menyerahkan pelaksanaan proklamasi kemerdekaan pada ppki .
+passage 13 score = 6.5
+sentence 1: pada tanggal 12 agustus 1945 jendral terauchi mengucapkan selamat atas dibentuknya ppki dan menyerahkan pelaksanaan proklamasi kemerdekaan pada ppki .
+sentence 2: dengan demikian jepang sudah menyerahkan sepenuhnya pelaksanaan proklamasi kemerdekaan kepada bangsa indonesia melalui ppki .
+sentence 3: peristiwa seputar proklamasi dari rengasdengklok hingga proklamasi kemerdekaan indonesia menjelang berlangsung pelaksanaan proklamasi kemerdekaan , terjadi beberapa peristiwa yang merupakan salah satu bentuk aspirasi perjuangan baik dari golongan tua maupun golongan pemuda .
+sentence 4: meskipun demikian aspirasi-aspirasi tersebut merupakan suatu upaya agar kemerdekaan yang diperoleh merupakan hasil perjuangan bangsa indonesia , bukan pemberian dari jepang atau bangsa asing lainnya .
+sentence 5: adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada tanggal 14 agustus 1945 jepang menyerah tanpa syarat pada sekutu di kapal missaurri milik angkatan laut amerika serikat .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+passage 34 score = 8.5
+sentence 1: pada 1 april 1945 pasukan amerika mendarat di okinawa .
+sentence 2: kemudian pada tanggal 6 dan 9 agustus 1945 amerika menjatukan bom atom di hiroshima dan nagasaki ( jepang ) .
+sentence 3: beberapa hari kemudian , pada 14 agustus 1945 , jepang menyerah kepada tentara sekutu .
+sentence 4: kejadian tersebut membuka peluang bagi bangsa indonesia untuk memproklamirkan kemerdekaan .
+sentence 5: tiga hari setelah jepang menyerah tanpa syarat , pada tanggal 17 agustus 1945 , pemimpin nasional indonesia ir .
+passage 1 score = 6.5
+sentence 1: bpupki a.pembentukan bpupki badan penyelidik usaha persiapan kemerdekaan indonesia atau ( jepang : dokuritsu junbi cosakai atau dilafalkan dokuritsu zyunbi tyoosakai ) adalah sebuah badan yang dibentuk oleh pemerintah pendudukan balatentara jepang pada tanggal 29 april 1945 bertepatan dengan hari ulang tahun kaisar hirohito .
+sentence 2: badan ini dibentuk sebagai upaya mendapatkan dukungan bangsa indonesia dengan menjanjikan bahwa jepang akan membantu proses kemerdekaan indonesia .
+sentence 3: bpupki beranggotakan 63 orang yang diketuai oleh radjiman wedyodiningrat dengan wakil ketua hibangase yosio ( orang jepang ) dan r.p. soeroso .
+sentence 4: adapun latar belakang pembentukan bpupki secara formil , termuat dalam maklumat gunseikan nomor 23 tanggal 29 mei 1945 , dilihat dari latar belakang dikeluarnya maklumat no. 23 itu adalah karena kedudukan facisme ( kekuasaan ) jepang yang sudah sangat terancam .
+sentence 5: maka sebenarnya , kebijaksanaan pemerintah jepang dengan membentuk bpupki bukan merupakan kebaikan hati yang murni tetapi jepang hanya ingin mementingkan dirinya sendiri , yaitu pertama ; jepang ingin mempertahankan sisa-sisa kekuatannya dengan cara memikat hati rakyat indonesia , dan yang kedua ; untuk melaksanakan politik kolonialnya .
+passage 2 score = 6.5
+sentence 1: maka sebenarnya , kebijaksanaan pemerintah jepang dengan membentuk bpupki bukan merupakan kebaikan hati yang murni tetapi jepang hanya ingin mementingkan dirinya sendiri , yaitu pertama ; jepang ingin mempertahankan sisa-sisa kekuatannya dengan cara memikat hati rakyat indonesia , dan yang kedua ; untuk melaksanakan politik kolonialnya .
+sentence 2: di luar anggota bpupki , dibentuk sebuah badan tata usaha ( semacam sekretariat ) yang beranggotakan 60 orang .
+sentence 3: badan tata usaha ini dipimpin oleh r.p.soeroso , dengan wakil abdoel gafar pringgodigdo dan masuda ( orang jepang ) .
+sentence 4: pada tanggal 7 agustus 1945 , jepang membubarkan bpupki dan membentuk panitia persiapan kemerdekaan indonesia atau ( jepang : dokuritsu junbi inkai ) dengan anggota berjumlah 21 orang sebagai upaya pencerminan perwakilan etnis [ 1 ] terdiri berasal dari 12 orang dari jawa , 3 orang dari sumatra , 2 orang dari sulawesi , 1 orang dari kalimantan , 1 orang dari nusa tenggara , 1 orang dari maluku , 1 orang dari tionghoa .
+sentence 5: pada tahun 1944 saipan jatuh ke tangan sekutu.dengan pasukan jepang di papua nugini kepulauan solomon , dan kepulauan marshall yang berhasil di pukul mundur oleh pasukan sekutu.dalam situasi kritis tersebut , pada tanggal 1 maret 1945 letnan jendral kumakici harada , pimpinan pemerintah pendudukan jepang di jawa , mengumumkan pembentukan badan penyelidik usaha-usaha persiapan kemerdekan indonesia ( dokuritsu junbi cosakai ) .
+passage 3 score = 6.5
+sentence 1: pada tahun 1944 saipan jatuh ke tangan sekutu.dengan pasukan jepang di papua nugini kepulauan solomon , dan kepulauan marshall yang berhasil di pukul mundur oleh pasukan sekutu.dalam situasi kritis tersebut , pada tanggal 1 maret 1945 letnan jendral kumakici harada , pimpinan pemerintah pendudukan jepang di jawa , mengumumkan pembentukan badan penyelidik usaha-usaha persiapan kemerdekan indonesia ( dokuritsu junbi cosakai ) .
+sentence 2: pengangkatan pengurus ini di umumkan pada tanggal 29 april 1945 .
+sentence 3: dr.radjiman wediodiningrat diangkat sebagai ( kaico ) , sedangkan yang duduk sebagai ketua muda ( fuku kico ) pertama di jabat oleh seorang jepang , shucokai cirebon yang bernama icibangase .
+sentence 4: r .
+sentence 5: p .
+passage 5 score = 6.5
+sentence 1: pringgodigdo yang disusul dengan pengibaran bendera merah putih oleh toyohiko masuda .
+sentence 2: rapat pertama rapat pertama diadakan di gedung chuo sangi in di jalan pejambon 6 jakarta yang kini dikenal dengan sebutan gedung pancasila .
+sentence 3: pada zaman belanda , gedung tersebut merupakan gedung volksraad , lembaga dpr pada jaman kolonial belanda .
+sentence 4: rapat dibuka pada tanggal 28 mei 1945 dan pembahasan dimulai keesokan harinya 29 mei 1945 dengan tema dasar negara .
+sentence 5: pada rapat pertama ini terdapat 3 orang yang mengajukan pendapatnya tentang dasar negara .
+passage 6 score = 6.5
+sentence 1: pada rapat pertama ini terdapat 3 orang yang mengajukan pendapatnya tentang dasar negara .
+sentence 2: pada tanggal 29 mei 1945 , mr. muhammad yamin dalam pidato singkatnya mengemukakan lima asas yaitu : peri kebangsaan peri ke tuhanan kesejahteraan rakyat peri kemanusiaan peri kerakyatan pada tanggal 31 mei 1945 , prof. dr. mr. soepomo mengusulkan lima asas yaitu persatuan mufakat dan demokrasi keadilan sosial kekeluargaan musyawarah pada tanggal 1 juni 1945 , soekarno mengusulkan lima asas pula yang disebut pancasila yaitu : kebangsaan indonesia internasionalisme dan peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa kelima asas dari soekarno disebut pancasila yang menurut beliau bilamana diperlukan dapat diperas menjadi trisila atau tiga sila yaitu : sosionasionalisme sosiodemokrasi ketuhanan yang berkebudayaan bahkan masih menurut soekarno , trisila tersebut di atas bila diperas kembali disebutnya sebagai ekasila yaitu merupakan sila gotong royong merupakan upaya soekarno dalam menjelaskan bahwa konsep tersebut adalah dalam satu-kesatuan .
+sentence 3: selanjutnya lima asas tersebut kini dikenal dengan istilah pancasila , namun konsep bersikaf kesatuan tersebut pada akhirnya disetujui dengan urutan serta redaksi yang sedikit berbeda .
+sentence 4: sementara itu , perdebatan terus berlanjut di antara peserta sidang bpupki mengenai penerapan aturan islam dalam indonesia yang baru .
+sentence 5: masa antara rapat pertama dan kedua sampai akhir rapat pertama , masih belum ditemukan kesepakatan untuk perumusan dasar negara , sehingga akhirnya dibentuklah panitia kecil untuk menggodok berbagai masukan .
+passage 7 score = 6.5
+sentence 1: masa antara rapat pertama dan kedua sampai akhir rapat pertama , masih belum ditemukan kesepakatan untuk perumusan dasar negara , sehingga akhirnya dibentuklah panitia kecil untuk menggodok berbagai masukan .
+sentence 2: panitia kecil beranggotakan 9 orang dan dikenal pula sebagai panitia sembilan dengan susunan sebagai berikut : ir .
+sentence 3: soekarno ( ketua ) drs. moh .
+sentence 4: hatta ( wakil ketua ) mr. achmad soebardjo ( anggota ) mr. muhammad yamin ( anggota ) kh .
+sentence 5: wachid hasyim ( anggota ) abdul kahar muzakir ( anggota ) abikoesno tjokrosoejoso ( anggota ) h. agus salim ( anggota ) mr. a.a. maramis ( anggota ) setelah melakukan kompromi antara 4 orang dari kaum kebangsaan ( nasionalis ) dan 4 orang dari pihak islam , tanggal 22 juni 1945 panitia sembilan kembali bertemu dan menghasilkan rumusan dasar negara yang dikenal dengan piagam jakarta ( jakarta charter ) yang berisikan : ketuhanan dengan kewajiban menjalankan syariat islam bagi pemeluk-pemeluknya kemanusiaan yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan keadilan sosial bagi seluruh rakyat indonesia rapat kedua rapat kedua berlangsung 10-17 juli 1945 dengan tema bahasan bentuk negara , wilayah negara , kewarganegaraan , rancangan undang-undang dasar , ekonomi dan keuangan , pembelaan negara , pendidikan dan pengajaran .
+passage 8 score = 6.5
+sentence 1: wachid hasyim ( anggota ) abdul kahar muzakir ( anggota ) abikoesno tjokrosoejoso ( anggota ) h. agus salim ( anggota ) mr. a.a. maramis ( anggota ) setelah melakukan kompromi antara 4 orang dari kaum kebangsaan ( nasionalis ) dan 4 orang dari pihak islam , tanggal 22 juni 1945 panitia sembilan kembali bertemu dan menghasilkan rumusan dasar negara yang dikenal dengan piagam jakarta ( jakarta charter ) yang berisikan : ketuhanan dengan kewajiban menjalankan syariat islam bagi pemeluk-pemeluknya kemanusiaan yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan keadilan sosial bagi seluruh rakyat indonesia rapat kedua rapat kedua berlangsung 10-17 juli 1945 dengan tema bahasan bentuk negara , wilayah negara , kewarganegaraan , rancangan undang-undang dasar , ekonomi dan keuangan , pembelaan negara , pendidikan dan pengajaran .
+sentence 2: dalam rapat ini dibentuk panitia perancang undang-undang dasar beranggotakan 19 orang dengan ketua ir .
+sentence 3: soekarno , panitia pembelaan tanah air dengan ketua abikoesno tjokrosoejoso dan panitia ekonomi dan keuangan diketuai mohamad hatta .
+sentence 4: dengan pemungutan suara , akhirnya ditentukan wilayah indonesia merdeka yakni wilayah hindia belanda dahulu , ditambah dengan malaya , borneo utara , papua , timor-portugis , dan pulau-pulau sekitarnya .
+sentence 5: pada tanggal 11 juli 1945 panitia perancang uud membentuk lagi panitia kecil beranggotakan 7 orang yaitu : prof. dr. mr. soepomo ( ketua merangkap anggota ) mr. wongsonegoro mr. achmad soebardjo mr. a.a. maramis mr. r.p. singgih h. agus salim dr. soekiman pada tanggal 13 juli 1945 panitia perancang uud mengadakan sidang untuk membahas hasil kerja panitia kecil perancang uud tersebut .
+passage 9 score = 6.5
+sentence 1: pada tanggal 11 juli 1945 panitia perancang uud membentuk lagi panitia kecil beranggotakan 7 orang yaitu : prof. dr. mr. soepomo ( ketua merangkap anggota ) mr. wongsonegoro mr. achmad soebardjo mr. a.a. maramis mr. r.p. singgih h. agus salim dr. soekiman pada tanggal 13 juli 1945 panitia perancang uud mengadakan sidang untuk membahas hasil kerja panitia kecil perancang uud tersebut .
+sentence 2: pada tanggal 14 juli 1945 , rapat pleno bpupki menerima laporan panitia perancang uud yang dibacakan oleh ir .
+sentence 3: soekarno .
+sentence 4: dalam laporan tersebut tercantum tiga masalah pokok yaitu : a. pernyataan indonesia merdeka b. pembukaan uud c. batang tubuh uud konsep proklamasi kemerdekaan rencananya akan disusun dengan mengambil tiga alenia pertama piagam jakarta .
+sentence 5: sedangkan konsep undang-undang dasar hampir seluruhnya diambil dari alinea keempat piagam jakarta .1 .
+passage 11 score = 6.5
+sentence 1: yamin mengemukakan lima ” ajas dasar negara republik indonesia ” sebagai berikut : a ) peri kebangsaan b ) peri kemusiaan c ) peri ke-tuhanan d ) perikerakyataan e ) kesejahteraan rakyat 2 ) rumusan prof. dr .
+sentence 2: mr. soepomo pada tanggal 31 mei 1945 prof. dr.mr soepomo mengajukan dasar negara indonesia merdeka yaitu sebagai berikut : a ) persatuan b ) kekeluargaan c ) keseimbangan d ) musyawarah e ) keadilan sosial 3 ) rumusan ir .
+sentence 3: soekarno pada tanggal 1 juni 1945 berlangsunglah rapat terakhir dalam persidangan pertama itu .
+sentence 4: pada kesempatan itulah ir soekarno mengemukakan pidatonya yang kemudian dikenal sebagai ” lahirnya pancasila ” .
+sentence 5: selain berisi pandangan mengenai dasar negara indonesia merdeka , keistimewaan pidato ir soekarno juga berisi usulan mengenai nama bagi dasar negara , yaitu pancasila , trisiia , atau ekasila .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 32 score = 8.0
+sentence 1: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
+sentence 2: ketika ketiga tokoh itu berangkat kembali menuju jakarta pada tanggal 14 agustus 1945 , jepang telah dibom atom oleh sekutu di kota hirosima dan nagasaki .
+sentence 3: bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke manchuria .
+sentence 4: dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
+sentence 5: keesokan harinya , pada tanggal 15 agustus 1945 sukarno-hatta tiba kembali di tanah air .
+passage 2 score = 6.5
+sentence 1: bahkan pasukan sekutu telah mendarat di daerah-daerah minyak seperti tarakan dan balikpapan .
+sentence 2: dalam situasi kritis tersebut , pada tanggal 1 maret 1945 letnan jendral kumakici harada , pimpinan pemerintah pendudukan jepang di jawa , mengumumkan pembentukan badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( dokuritsu junbi cosakai ) .
+sentence 3: pembentukan badan ini bertujuan untuk menyelidiki hal-hal penting menyangkut pembentukan negara indonesia merdeka .
+sentence 4: pengangkatan pengurus ini diumumkan pada tanggal 29 april 1945 .
+sentence 5: dr. k.r.t. radjiman wediodiningrat diangkat sebagai ketua ( kaico ) .
+passage 8 score = 6.5
+sentence 1: kekeluargaan 3 .
+sentence 2: keseimbangan 4 .
+sentence 3: musyawarah 5 .
+sentence 4: keadilan sosial keesokan harinya pada tanggal 1 juni 1945 berlangsunglah rapat terakhir dalam persidangan pertama itu .
+sentence 5: pada kesempatan itulah ir .
+passage 12 score = 6.5
+sentence 1: persidangan pertama bpupki berakhir pada tanggal 1 juni 1945 .
+sentence 2: sidang tersebut belum menghasilkan keputusan akhir mengenai dasar negara indonesia merdeka .
+sentence 3: selanjutnya diadakan masa “ reses ” selama satu bulan lebih .
+sentence 4: pada tanggal 22 juni 1945 bpupki membentuk panitia kecil yang beranggotakan 9 orang .
+sentence 5: oleh karena itu panitia ini juga disebut sebagai panitia sembilan .
+passage 18 score = 6.5
+sentence 1: ( dan ) kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan ; 5 .
+sentence 2: ( serta dengan mewujudkan suatu ) keadilan sosial bagi seluruh rakyat indonesia .
+sentence 3: pada tanggal 10 juli 1945 dibahas rencana undang-undang dasar , termasuk soal pembukaan atau preambule-nya oleh sebuah panitia perancang undang-undang dasar yang diketuai oleh ir .
+sentence 4: sukarno dan beranggotakan 21 orang .
+sentence 5: pada tanggal 11 juli 1945 , panitia perancang undang-undang dasar dengan suara bulat menyetujui isi preambule ( pembukaan ) yang diambil dari piagam jakarta .
+passage 19 score = 6.5
+sentence 1: pada tanggal 11 juli 1945 , panitia perancang undang-undang dasar dengan suara bulat menyetujui isi preambule ( pembukaan ) yang diambil dari piagam jakarta .
+sentence 2: selanjutnya panitia tersebut membentuk panitia kecil perancang undang-undang dasar yang diketuai prof. dr. mr. supomo dengan anggotanya mr. wongsonegoro , mr. ahmad subardjo , mr. a.a. maramis , mr. r.p. singgih , h. agus salim dan sukiman .
+sentence 3: hasil perumusan panitia kecil ini kemudian disempurnakan bahasanya oleh panitia penghalus bahasa yang terdiri dari husein djajadiningrat , agus salim dan supomo .
+sentence 4: persidangan kedua bpupki dilaksanakan pada tanggal 14 juli 1945 dalam rangka menerima laporan panitia perancang undang-undang dasar .
+sentence 5: ir .
+passage 21 score = 6.5
+sentence 1: undang-undang dasar ( batang tubuh ) .
+sentence 2: c. aktivitas golongan muda angkatan moeda indonesia dan gerakan angkatan baroe indonesia sebelum bpupki dibentuk di bandung pada tanggal 16 mei 1945 telah diadakan kongres pemuda seluruh jawa yang diprakarsai angkatan moeda indonesia .
+sentence 3: organisasi itu sebenarnya dibentuk atas inisitaif jepang pada pertengahan 1944 , akan tetapi kemudian berkembang menjadi suatu pergerakan pemuda yang anti-jepang .
+sentence 4: kongres pemuda itu dihadiri oleh lebih 100 utusan pemuda , pelajar dan mahasiswa seluruh jawa diantaranya djamal ali , chairul saleh , anwar tjokroaminoto , harsono tjokroaminoto serta sejumlah mahasiswa ika daigaku jakarta .
+sentence 5: kongres menghimbau para pemuda di jawa hendaknya bersatu dan mempersiapkan diri untuk melaksanakan proklamasi kemerdekaan yang bukan hadiah jepang .
+passage 24 score = 6.5
+sentence 1: untuk itulah pada tanggal 3 juni 1945 diadakan suatu pertemuan rahasia di jakarta untuk membentuk suatu panitia khusus yang diketuai oleh b.m. diah , dengan anggotanya sukarni , sudiro , sjarif thajeb , harsono tjokroaminoto , wikana , chairul saleh , p. gultom , supeno dan asmara hadi .
+sentence 2: pertemuan semacam itu diadakan lagi pada tanggal 15 juni 1945 , yang menghasilkan pembentukan gerakan angkatan baroe indonesia .
+sentence 3: dalam prakteknya kegiatan organisasi itu banyak dikendalikan oleh para pemuda dari asrama menteng 31 .
+sentence 4: tujuan dari gerakan itu , seperti yang tercantum di dalam surat kabar asia raja pada pertengahan bulan juni 1945 , menunjukkan sifat gerakan yang lebih radikal sebagai berikut : 1 .
+sentence 5: mencapai persatuan kompak di antara seluruh golongan masyarakat indonesia ; 2 .
+passage 28 score = 6.5
+sentence 1: oleh karena itulah , tatkala gerakan rakyat baroe ini diresmikan pada tanggal 28 juli 1945 , tidak seorang pun pemuda radikal yang bersedia memduduki kursi yang telah disediakan .
+sentence 2: sehingga nampak semakin tajam perselisihan paham antara golongan tua dan golongan muda tentang cara melaksanakan pembentukan negara indonesia merdeka .
+sentence 3: d. pembentukan ppki pada tanggal 7 agustus 1945 bpupki dibubarkan .
+sentence 4: sebagai gantinya pemerintah pendudukan jepang membentuk ppki ( dokuritsu junbi inkai ) .
+sentence 5: sebanyak 21 anggota ppki yang terpilih tidak hanya terbatas pada wakil-wakil dari jawa yang berada di bawah pemerintahan tentara keenambelas , tetapi juga dari berbagai pulau , yaitu : 12 wakil dari jawa , 3 wakil dari sumatera , 2 wakil dari sulawesi , seorang dari kalimantan , seorang dari sunda kecil ( nusatenggara ) , seorang dari maluku dan seorang lagi dari golongan penduduk cina .
+passage 31 score = 6.5
+sentence 1: hatta dan dr. radjiman wediodiningrat .
+sentence 2: pada tanggal 9 agustus 1945 mereka berangkat menuju markas besar terauci di dalat , vietnam selatan .
+sentence 3: dalam pertemuan di dalat pada tanggal 12 agustus 1945 jenderal besar terauci menyampaikan kepada ketiga tokoh itu bahwa pemerintah kemaharajaan telah memutuskan untuk memberikan kemerdekaan kepada indonesia .
+sentence 4: pelaksanaannya dapat dilakukan segera setelah persiapannya selesai oleh ppki .
+sentence 5: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok218.txt
+title : pembentukan badan badan negara
+passage 1 score = 6.5
+sentence 1: pembentukan badan badan negara - sidang tanggal 22 agustus 1945 , ppki membentuk knip .
+sentence 2: dibentuk komite nasional sebagai penjelmaan tujuan dan impian bangsa indonesia untuk menyelenggarakan kemerdekaan yang didasarkan kedaulaan rakyat .
+sentence 3: komite nasional indonesia pusat ( knip ) berkedudukan di jakarta , sedangkan komite nasional indonesia daerah ( knid ) berkedudukan di ibukota propinsi .
+sentence 4: tanggal 29 agustus 1945 , presiden sukarno melantik 135 anak buah knip di gedung kesenian jakarta dengan ketua kasman singodimejo .
+sentence 5: knip ( komite nasional indonesia pusat ) dibentuk dan dilantik pada tanggal 29 agustus 1945 .
+passage 2 score = 6.5
+sentence 1: knip ( komite nasional indonesia pusat ) dibentuk dan dilantik pada tanggal 29 agustus 1945 .
+sentence 2: komite ini dibentuk berdasarkan hasil sidang ppki pada 18 agustus 1945 dan aturan peralihan uud 1945 pasal iv .
+sentence 3: hasil sidang ppki 18 agustus 1945 menetapkan dan mengesahkan undang-undang dasar negara republik indonesia 1945 ( uud 1945 ) yang berisi 37 pasal .
+sentence 4: memilih dan membawa ceo tinggi negara , yaitu soekarno sebagai presiden ri dan moh .
+sentence 5: hatta sebagai wakil presiden ri .
+passage 3 score = 6.5
+sentence 1: hatta sebagai wakil presiden ri .
+sentence 2: presiden dan wakil presieden dibantu oleh suatu komite nasional hingga terbentuknya majelis permusyawaratan rakyat ( mpr ) dan dewan perwakilan rakyat ( dpr ) .
+sentence 3: aturan peralihan uud 1945 pasal iv .
+sentence 4: sebelum majelis permusyawaratan rakyat , dewan perwakilan rakyat dan dewan pertimbangan agung dibentuk menurut undang-undang dasar ini , segala kekuasaannya dijalankan oleh presiden dengan bantuan suatu komite nasional .
+sentence 5: petinggi-petinggi knip mr. kasman singodimedjo - ketua m. sutardjo kartohadikusumo - wakil ketua i mr. j. latuharhary - wakil ketua ii adam malik - wakil ketua iii hasil sidang knip 16 oktober 1945 dalam sidang ini drs. moh hatta mengeluarkan maklumat nomor x tahun 1945 yang menetapkan bahwa knip sebelum terbentuk mpr dan dpr diserahi kekuasaan legislatif , ikut menetapkan garis-garis besar haluan negara , dan menyetujui bahwa pekerjaan knip sehari-hari sehubungan dengan gentingnya keadaan dijalankan oleh suatu badan pekerja yang diplih di antara mereka dan bertanggungjawab terhadap knip .
+passage 4 score = 6.5
+sentence 1: petinggi-petinggi knip mr. kasman singodimedjo - ketua m. sutardjo kartohadikusumo - wakil ketua i mr. j. latuharhary - wakil ketua ii adam malik - wakil ketua iii hasil sidang knip 16 oktober 1945 dalam sidang ini drs. moh hatta mengeluarkan maklumat nomor x tahun 1945 yang menetapkan bahwa knip sebelum terbentuk mpr dan dpr diserahi kekuasaan legislatif , ikut menetapkan garis-garis besar haluan negara , dan menyetujui bahwa pekerjaan knip sehari-hari sehubungan dengan gentingnya keadaan dijalankan oleh suatu badan pekerja yang diplih di antara mereka dan bertanggungjawab terhadap knip .
+sentence 2: badan pekerja knip ( bp-knip ) akhirnya dibentuk dan diketuai oleh sutan syahrir dan wakilnya amir syarifuddin .
+sentence 3: kemudian drs. moh .
+sentence 4: hatta mengeluarkan maklumat politilk 3 november 1945 atas desakan dari sutan syahrir selaku ketua bp-knip .
+sentence 5: dampak dari maklumat/kebijakan itu adalan munculnya beberapa partai politik di indonesia dengan ideologi yang beraneka ragam .
+passage 5 score = 6.5
+sentence 1: dampak dari maklumat/kebijakan itu adalan munculnya beberapa partai politik di indonesia dengan ideologi yang beraneka ragam .
+sentence 2: contohnya : majelis syuro muslimin indonesia ( masyumi ) , partai komunis indonesia , partai buruh indonesia , partai rakyat jakarta , partai kristen indonesia , partai katolik indonesia , partai nasional indonesia .
+sentence 3: tanggal 11 november 1945 bp-knip mengeluarkan pemkabarhuan nomor 5 mengenai pertanggungjawaban materi terhadap perwakilan rakyat .
+sentence 4: anehnya , presiden sukarno menyetujui usul tersebut dan mengeluarkan maklumat pemerintah tanggal 14 november 1945 .
+sentence 5: dengan persetujuan tersebut sistem cabinet presidensial dalam uud 1945 sudah diamandemen menjadi sistem kabinet parlementer .
+passage 6 score = 6.5
+sentence 1: dengan persetujuan tersebut sistem cabinet presidensial dalam uud 1945 sudah diamandemen menjadi sistem kabinet parlementer .
+sentence 2: maklumat wakil president no x sesudah mendengar pembitjaraan oleh komite nasional pusat tentang usul supaja sebelum madjelis permusjawaratan rakjat dan dewan perwakilan rakjat dibentuk kekuasaannja jang hingga sekarang didjalankan oleh presiden dengan bantuan sebuah komite nasional menurut pasal iv aturan peralihan dari undang-undang dasar hendaknja dikerdjakan oleh komite nosional pusat dan supaja pekerdjaan komite nasional pusat itu sehari-harinja berhubung dengan gentingnja keadaan didjalankan oleh sebuah badan bernama dewan pekerdja jang bertanggung djawab kepada komite nasional pusat ; bahwa komite nasional pusat , sebelum terbentuk madjelis permusjawaratan rakjat dan dewan perwakilan rakjat diserahi kekuasaan legislative dan ikut menetapkan garis-garis besar dari pada haluan negara , serta menjetudjui bahwa pekerdjaan komite nasional pusat sehari-hari berhubung dengan gentingnja keadaan didjalankan oleh sebuah badan pekerdja jang dipilih diantara mereka dan jang bertanggung djawab kepada komite nasional pusat .
+sentence 3: pendjelasan maklumat wakil presiden no x karena terbukti ada salah faham tentang kedudukan , kewadjiban dan kekuasaan .
+sentence 4: badan pekerdja komite nasional , jang dibentuk oleh rakjat pada tanggal 16/17 oktober 1945 berhubung - dengan maklumat wakil presiden republik indone ¬ sia no .
+sentence 5: x , maka dengan ini diberitahukan kepada umum seperti berikut : dalam maklumat wakil presiden tersebut ditetapkan bahwa komite ' nasional pusat , sebelum terbentuk madjelis permusjawaratan rakjat dan dewan perwakilan rakjat , diserahi kekuasaan legislatif dan ikut menetapkan garisgaris besar dari pada haluan negara dan mengingat gentingnja keadaan , pekerdjaan komite nasional pusat sehari-hari akan dikerdjakan oleh sebuah badan pekerdja .
+passage 8 score = 6.0
+sentence 1: ini tetap ditangan presiden semata-mata .
+sentence 2: b. menetapkan bersama-sama dengan presiden undang-undang jang boleh mengenai segala matjam urusan pemerintahan .
+sentence 3: jang mendjalankan undang2 ini ialah pemerintah , artinja : presiden dibantu oleh menteri-menteri dan pegawai-pegawai jang dibawahnja .
+sentence 4: berhubung dengan perubahan dalam kedudukan dan kewadjiban komite nasiona.l pusat , mulai tanggal 17 oktober 1945 komite nasinoal pusat ( dan atas namanja badan pekerdja ) tidak berhak lagi mengurus hal-hal jang berkenaan dengan tindakan pemerintahan ( uitvoering ) .
+sentence 5: kedudukan komite nasional daerah akan lekas diurus oleh pemerintah ( presiden ) .
+passage 9 score = 6.0
+sentence 1: kedudukan komite nasional daerah akan lekas diurus oleh pemerintah ( presiden ) .
+sentence 2: kewadjiban dan kekuasaan badan pekerdja jang diterangkan diatas ( a dan b ) berlaku selama madjelis permusjawaratan rakjat dan dewan perwakilan rakjat belum terbentuk dengan tjara jang ditetapkan dalam undang-undang dasar .
+sentence 3: djakarta , 20 oktober 1945 .
+passage 7 score = 1.0
+sentence 1: x , maka dengan ini diberitahukan kepada umum seperti berikut : dalam maklumat wakil presiden tersebut ditetapkan bahwa komite ' nasional pusat , sebelum terbentuk madjelis permusjawaratan rakjat dan dewan perwakilan rakjat , diserahi kekuasaan legislatif dan ikut menetapkan garisgaris besar dari pada haluan negara dan mengingat gentingnja keadaan , pekerdjaan komite nasional pusat sehari-hari akan dikerdjakan oleh sebuah badan pekerdja .
+sentence 2: menurut putusan ini maka badan pekerdja iberkewadjibari dan berhak : a. turut menetapkan garis-garis besar haluan negara .
+sentence 3: ini berarti , bahwa badan pekerdja , bersama-sama dengan presiden , menetapkan garis-garis besar haluan negara .
+sentence 4: badan pekerdja tidak berhak tjampur dalam kebidjaksanaan ( dagelijks beleid ) pemerintah sehari-hari .
+sentence 5: ini tetap ditangan presiden semata-mata .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok247.txt
+title : upaya mempersiapkan kemerdekaan indonesia
+passage 1 score = 6.5
+sentence 1: upaya mempersiapkan kemerdekaan indonesia - kekalahan jepang dalam perang pasifik semakin jelas , sehingga pada 1 maret 1945 jenderal kumakichi harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan indonesia yang bernama dokuritsu junbi chosakai atau badan penyelidik usaha-usaha persiapak kemerdekaan indonesia ( bpupki ) .
+sentence 2: badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan indonesia merdeka .
+sentence 3: anggota dari bupki terdiri atas 60 orang tokoh bangsa indonesia dan 7 orang bangsa jepang ( mereka tidak mempunyai hak suara ) diketuai oleh krt radjiman widyodiningrat dan wakil ketua r. surono dan seorang lagi orang jepang .
+sentence 4: bpupki diresmikan pada tanggal 29 mei 1945 .
+sentence 5: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
+passage 2 score = 6.5
+sentence 1: sidang pertama berlangsung pada 29 mei-1 juni 1945 yang membicarakan dasar filsafat negara indonesia merdeka .
+sentence 2: tokoh-tokoh yang mengusulkan dasar negara ini , yakni : mr. muh .
+sentence 3: yamin pada sidang tanggal 29 mei 1945 , mr. muh .
+sentence 4: yamin mengajukan lima rancangan dasar negara indonesia , yakni : peri kebangsaan peri kemanusiaan peri ketuhanan peri kerakyatan kesejahteraan rakyat prof. dr. supomo pada sidang tanggal 31 mei 1945 , prof. dr. supomo mengajukan lima rancangan dasar negara , yakni : persatuan kekeluargaan mufakat dan demokrasi musyawarah keadilan sosial ir .
+sentence 5: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
+passage 3 score = 6.5
+sentence 1: soekarno pada sidang tanggal 1 juni 1945 , mengajukan lima rancangan yang dinamakan pancasila , yakni : kebangsaan indonesia internasionalisme atau peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa setelah persidangan pertama itu selesai , bpupki menundan persidangan hingga bulan juli 1945 .
+sentence 2: namun pada tanggal 22 juni 1945 , sembilan orang anggota yaitu ir .
+sentence 3: soekarno , drs. moch .
+sentence 4: hatta , mr. muh .
+sentence 5: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
+passage 5 score = 6.5
+sentence 1: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
+sentence 2: adapun pokok-pokok isi pembukaan uud 1945 : bahwa kemerdekaan itu adalah hak segala bangsa … .
+sentence 3: dan perjuangan kemerdekaan indonesia telah sampailah kepada saat yang berbahagia … .
+sentence 4: atas berkat rahmat allah yang maha kuasa … kemudian daripada itu untuk membentuk suatu pemerintahan negara indonesia … .
+sentence 5: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
+passage 4 score = 6.0
+sentence 1: yamin , mr. ahmad subarjo , mr. a. a. maramis , abdulkahar muzakkar , wachid hasyim , h. agus salim dan abikusno tjokrosujoso membentuk panitia sembilan atau panitia kecil .
+sentence 2: panitia sembilan ini menghasilkan dokumen yang berisi asas dan tujuan indonesia merdeka .
+sentence 3: dokumen ini lebih dikenal dengan nama piagam djakarta , yang isinya sebagai berikut : ketuhanan dengan berkewajiban menjalankan syariat-syariat islam bagi para pemeluknya .
+sentence 4: kemanusian yang adil dan beradab persatuan indonesia kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan atau perwakilan keadilan sosial bagi seluruh rakyat indonesia .
+sentence 5: landasan dasar proklamasi kemerdekaan indonesia landasan dasar nasional landasan ini tercermin di dalam pembukaan uud 1945 , sekaligus merupakan deklarasi kemerdekaan indonesia .
+passage 6 score = 6.0
+sentence 1: untuk memajukan kesejahteraan umum , mencerdaskan kehidupan bangsa , dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan , perdamaian abadi dan keadilan social … .
+sentence 2: landasan dasar internasional piagam atlantik ( 14 agustus 1941 ) yang ditanda tangani oleh franklin delano roosevelt ( presiden as ) dengan winston churchill ( pm inggris ) .
+sentence 3: yang berisi : tidak boleh ada perluasan daerah tampa persetujuan dari penduduk asli .
+sentence 4: setiap bangsa berhak menentukan dan menetapkan bentuk pemerintahannya sendiri .
+sentence 5: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
+passage 7 score = 1.0
+sentence 1: setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan .
+sentence 2: piagam san fransisco , merupakan piagam pbb yang diresmikan dan ditandatangani oleh 50 negara sebagai negara yang pertama menjadi anggotanya .
+sentence 3: dalam piagam pbb ini disebutkan : “ … kami akan meneguhkan keyakinan akan dasar-dasar hak manusia sebagai manusia sesuai dengan harkat dan derajat manusia berdasarkan atas hak-hak yang sama … .
+sentence 4: serta berusaha memajukan rakyat dan tingkat kehidupan yang lebih baik dalam suasana kemerdekaan yang lebih luas ” .
+sentence 5: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
+passage 8 score = 1.0
+sentence 1: berdasarkan kedua piagam itu , maka bangsa indonesia berhak menentukan nasib sendiri , berhak untuk hidup bebas dari kemiskinan dan rasa takut .
+sentence 2: maka berdasarkan piagam tersebut pula , proklamasi kemerdekaan indonesia memiliki kedudukan yang kuat , baik secara nasional maupun internasional .
+sentence 3: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok212.txt
+title : pengesahan uud 1945 dan pemilihan presiden dan wakil presiden
+passage 1 score = 5.5
+sentence 1: pengesahan uud 1945 dan pemilihan presiden dan wakil presiden - ppki mengadakan sidang untuk pertama kalinya pada tanggal 18 agustus 1945 .
+sentence 2: serta pada sidang tersebut didapat keputusan bahwa uud 1945 ditetapkan serta disahkan menjadi kontitusi negara indonesia serta dipilihkan presiden indonesia beser wakilnya beserta wakilnya .
+sentence 3: sidang dari ppki ini merupakan kelanjutan sidang bpupki pada tanggal 10-16 juli 1945 yang mengulas persoalan rancangan undang-undang dasar .
+sentence 4: berbagai pembetulan disepakati oleh sidang , yaitu rumusan sila pertama pancasila yang sebalumnya disepakati merupakan “ ketuhanan serta keharusan menjalankan syariat-syariat islam bagi pemeliknya ’’ , di ubah menjadi “ ketuhanan yang maha esa ’’ .
+sentence 5: tidak hanya itu , bab iii , pasal 6 , uud 1945yang sebelumnya menyebutkan bahwa ” presiden ialah orang indonesia orisinil yang beragama islam ’’ .
+passage 2 score = 5.5
+sentence 1: tidak hanya itu , bab iii , pasal 6 , uud 1945yang sebelumnya menyebutkan bahwa ” presiden ialah orang indonesia orisinil yang beragama islam ’’ .
+sentence 2: dalam sidang itu pularancangn undang-undang dasar ditetapkan serta disahkan menjadi undang-undang dasar negara yang kemudian dikenal sebagai undang-undang dasar 1945 .
+sentence 3: pada saat mengulas bab iii rancangan uud 1945 , otto iskandardinata menganjurkan supaya sekaligus saja memilih presiden serta wakil presiden .
+sentence 4: ia menganjurkan soekarno menjadi presiden , serta moh hatta sebagai wakil presiden .
+sentence 5: laksana dayung bersambut , usul dari otto iskandardinata langsung diterima dengan cara bulat serta disambut dengan upacara menyanyikan lagu indonesia raya setidak sedikit dua kali .
+passage 3 score = 5.0
+sentence 1: laksana dayung bersambut , usul dari otto iskandardinata langsung diterima dengan cara bulat serta disambut dengan upacara menyanyikan lagu indonesia raya setidak sedikit dua kali .
+sentence 2: dengan demikian , kedua proklamator tersebut sejak tanggal 18 agustus 1945 resmi menjadi presiden serta wakil presiden republik indonesia yang pertama .
+sentence 3: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok110.txt
+title : aktivitas perjuangan dalam mempersiapkan kemerdekaan
+passage 1 score = 5.5
+sentence 1: 1 .
+sentence 2: terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpipki ) sampai pertengahan tahun 1944 , kedudukan jepang dalam perang asiapasifik sudah sangat terdesak .
+sentence 3: di berbagai medan pertempuran , jepang menderita kekalahan .
+sentence 4: pada tanggal 7 september 1944 dalam sidang parlemen jepang di tokyo , perdana menteri kuniaki koiso ( pengganti tojo ) memberikan janji kemerdekaan di kelak kemudian hari kepada rakyat indonesia .
+sentence 5: pada tanggal 1 maret 1945 penguasa pemerintah pendudukan jepang di jawa , letjen kumakichi harada mengumumkan terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpupki = dokuritsu junbi cosakai ) .
+passage 2 score = 5.5
+sentence 1: pada tanggal 1 maret 1945 penguasa pemerintah pendudukan jepang di jawa , letjen kumakichi harada mengumumkan terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpupki = dokuritsu junbi cosakai ) .
+sentence 2: ketua : dr. r.t. rajiman wediodiningrat anggota : 60 orang tugasnya : mempelajari dan menyelidiki berbagai hal penting yang menyangkut negara indonesia merdeka .
+sentence 3: peresmian ( pelantikan ) baru dilangsungkan pada tanggal 28 mei 1945 di gedung cuo sangi in , jakarta .
+sentence 4: pelantikan itu dihadiri oleh seluruh anggota dan pembesar jepang , yaitu jenderal itagaki dan jenderal yaiciro .
+sentence 5: pada saat itu , bendera merah putih dikibarkan di samping bendera hinomoru .
+passage 3 score = 5.5
+sentence 1: pada saat itu , bendera merah putih dikibarkan di samping bendera hinomoru .
+sentence 2: peristiwa tersebut telah membangkitkan semangat para anggota dalam usahanya mempersiapkan kemerdekaan indonesia .
+sentence 3: selama bpupki dibentuk telah mengadakan dua kali sidang , yakni : a. masa sidang pertama ( 29 mei – 1 juni 1945 ) dalam sidang ini dibicarakan masalah dasar negara .
+sentence 4: pada pada sidang pertama , muncul tiga tokoh pembicara yang mengemukakan konsepnya .
+sentence 5: mereka berturut-turut ialah mr. moh .
+passage 5 score = 5.5
+sentence 1: yamin mengemukakan tentang asas dasar kesatuan negara indonesia merdeka , yakni sebagai berikut : 1 ) peri kebangsaan ; 2 ) peri kemanusiaan ; 3 ) peri ketuhanan ; 4 ) peri kerakyatan ; 5 ) kesejahteraan rakyat .
+sentence 2: pembicara kedua , prof. dr. mr. supomo yang tampil pada tanggal 31 mei 1945 dan mengemukakan dasar negara untuk indonesia merdeka sebagai berikut : 1 ) paham negara kesatuan ; 2 ) perhubungan negara dan agama ; 3 ) sistem badan permusyawaratan ; 4 ) sosialisme indonesia ; 5 ) hubungan antarbangsa .
+sentence 3: pada tanggal 1 juni 1945 ir .
+sentence 4: soekarno tampil berbicara tentang dasar negara indonesia merdeka yang juga atas lima dasar , yakni sebagai berikut : 1 ) kebangsaan indonesia ; 2 ) internasionalisme atau peri kemanusiaan ; 3 ) mufakat atau demokrasi ; 4 ) kesejahteraan sosial ; 5 ) ketuhanan yang maha esa .
+sentence 5: kelima asas itu atas petunjuk seorang ahli bahasa oleh ir .
+passage 10 score = 5.5
+sentence 1: 4 ) kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan .
+sentence 2: 5 ) keadilan sosial bagi seluruh rakyat indonesia .
+sentence 3: setelah mengalami beberapa perubahan , terutama rumusan dasar negara ( sila pertama ) , piagam jakarta kemudian dijadikan pembukaan uud 1945 .
+sentence 4: b. masa sidang kedua ( 10-17 juli 1945 ) pada sidang yang kedua ini bpupkitelah membentuk tiga buah panitia , yakni : 1 ) panitia perancang uud , yang diketuai oleh ir .
+sentence 5: soekarno .
+passage 4 score = 5.0
+sentence 1: mereka berturut-turut ialah mr. moh .
+sentence 2: yamin , prof. dr. mr. supomo , dan ir .
+sentence 3: soekarno .
+sentence 4: pada tanggal 29 mei 1945 dalam pidatonya mr. muh .
+sentence 5: yamin mengemukakan tentang asas dasar kesatuan negara indonesia merdeka , yakni sebagai berikut : 1 ) peri kebangsaan ; 2 ) peri kemanusiaan ; 3 ) peri ketuhanan ; 4 ) peri kerakyatan ; 5 ) kesejahteraan rakyat .
+passage 8 score = 5.0
+sentence 1: yamin .
+sentence 2: panitia sembilan diketuai oleh ir .
+sentence 3: soekarno .
+sentence 4: mereka menghasilkan suatu rumusan yang menggambarkan asas dan tujuan terbentuknya negara indonesia merdeka , akhirnya diterima dan ditanda tangani pada tanggal 22 juni 1945 .
+sentence 5: oleh moh.yamin rumusan panitia sembilan itu diberi nama piagam jakarta atau jakarta charter .
+passage 12 score = 5.0
+sentence 1: dalam sidang yang kedua , bpupki akan membahas adalah rancangan undang-undang dasar .
+sentence 2: mereka menyetujui bahwa naskah pembukaan uud akan diambilkan dari naskah piagam jakarta .
+sentence 3: panitia kemudian membentuk panitia kecil yang diketuai oleh prof. dr. mr. soepomo untuk merumuskannya .
+sentence 4: selanjutnya , pada tanggal 14 juli 1945 , ir .
+sentence 5: soekarno melaporkan hasil kerja panitia kecil kepada sidang yang terdiri atas tiga hal berikut .
+passage 13 score = 5.0
+sentence 1: soekarno melaporkan hasil kerja panitia kecil kepada sidang yang terdiri atas tiga hal berikut .
+sentence 2: 1 ) pernyataan indonesia merdeka ; 2 ) pmbukaan undang-undang dasar ; 3 ) batang tubuh undang-undang dasar .
+sentence 3: sidang bpupki menerima bulat hasil kerja panitia .
+sentence 4: dengan demikian , bpupki telahmenyelesaikan tugasnya sehingga pada tanggal 7 agustus 1945 dinyatakan bubar .
+sentence 5: selanjutnya , jepang membentuk panitia persiapan kemerdekaan indonesia ( ppki ) untuk melanjutkan tugas bpupki .
+passage 14 score = 5.0
+sentence 1: selanjutnya , jepang membentuk panitia persiapan kemerdekaan indonesia ( ppki ) untuk melanjutkan tugas bpupki .
+sentence 2: 2 .
+sentence 3: pembentukan panitia persiapan kemerdekaan indonesia ( ppki ) sebagai pengganti bpupki yang telah menyelesaikan tugasnya maka pada tanggal 7 agustus 1945 pemerintah jepang membentuk ppki atau dokuritsu junbi iinkai .
+sentence 4: tiga tokoh pemimpin nasional , yaitu ir .
+sentence 5: soekarno , drs. moh .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok39.txt
+title : aktivitas perjuangan dalam mempersiapkan kemerdekaan
+passage 1 score = 5.5
+sentence 1: 1 .
+sentence 2: terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpipki ) sampai pertengahan tahun 1944 , kedudukan jepang dalam perang asiapasifik sudah sangat terdesak .
+sentence 3: di berbagai medan pertempuran , jepang menderita kekalahan .
+sentence 4: pada tanggal 7 september 1944 dalam sidang parlemen jepang di tokyo , perdana menteri kuniaki koiso ( pengganti tojo ) memberikan janji kemerdekaan di kelak kemudian hari kepada rakyat indonesia .
+sentence 5: pada tanggal 1 maret 1945 penguasa pemerintah pendudukan jepang di jawa , letjen kumakichi harada mengumumkan terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpupki = dokuritsu junbi cosakai ) .
+passage 2 score = 5.5
+sentence 1: pada tanggal 1 maret 1945 penguasa pemerintah pendudukan jepang di jawa , letjen kumakichi harada mengumumkan terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia ( bpupki = dokuritsu junbi cosakai ) .
+sentence 2: ketua : dr. r.t. rajiman wediodiningrat anggota : 60 orang tugasnya : mempelajari dan menyelidiki berbagai hal penting yang menyangkut negara indonesia merdeka .
+sentence 3: peresmian ( pelantikan ) baru dilangsungkan pada tanggal 28 mei 1945 di gedung cuo sangi in , jakarta .
+sentence 4: pelantikan itu dihadiri oleh seluruh anggota dan pembesar jepang , yaitu jenderal itagaki dan jenderal yaiciro .
+sentence 5: pada saat itu , bendera merah putih dikibarkan di samping bendera hinomoru .
+passage 3 score = 5.5
+sentence 1: pada saat itu , bendera merah putih dikibarkan di samping bendera hinomoru .
+sentence 2: peristiwa tersebut telah membangkitkan semangat para anggota dalam usahanya mempersiapkan kemerdekaan indonesia .
+sentence 3: selama bpupki dibentuk telah mengadakan dua kali sidang , yakni : a. masa sidang pertama ( 29 mei – 1 juni 1945 ) dalam sidang ini dibicarakan masalah dasar negara .
+sentence 4: pada pada sidang pertama , muncul tiga tokoh pembicara yang mengemukakan konsepnya .
+sentence 5: mereka berturut-turut ialah mr. moh .
+passage 5 score = 5.5
+sentence 1: yamin mengemukakan tentang asas dasar kesatuan negara indonesia merdeka , yakni sebagai berikut : 1 ) peri kebangsaan ; 2 ) peri kemanusiaan ; 3 ) peri ketuhanan ; 4 ) peri kerakyatan ; 5 ) kesejahteraan rakyat .
+sentence 2: pembicara kedua , prof. dr. mr. supomo yang tampil pada tanggal 31 mei 1945 dan mengemukakan dasar negara untuk indonesia merdeka sebagai berikut : 1 ) paham negara kesatuan ; 2 ) perhubungan negara dan agama ; 3 ) sistem badan permusyawaratan ; 4 ) sosialisme indonesia ; 5 ) hubungan antarbangsa .
+sentence 3: pada tanggal 1 juni 1945 ir .
+sentence 4: soekarno tampil berbicara tentang dasar negara indonesia merdeka yang juga atas lima dasar , yakni sebagai berikut : 1 ) kebangsaan indonesia ; 2 ) internasionalisme atau peri kemanusiaan ; 3 ) mufakat atau demokrasi ; 4 ) kesejahteraan sosial ; 5 ) ketuhanan yang maha esa .
+sentence 5: kelima asas itu atas petunjuk seorang ahli bahasa oleh ir .
+passage 10 score = 5.5
+sentence 1: 4 ) kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan .
+sentence 2: 5 ) keadilan sosial bagi seluruh rakyat indonesia .
+sentence 3: setelah mengalami beberapa perubahan , terutama rumusan dasar negara ( sila pertama ) , piagam jakarta kemudian dijadikan pembukaan uud 1945 .
+sentence 4: b. masa sidang kedua ( 10-17 juli 1945 ) pada sidang yang kedua ini bpupkitelah membentuk tiga buah panitia , yakni : 1 ) panitia perancang uud , yang diketuai oleh ir .
+sentence 5: soekarno .
+passage 4 score = 5.0
+sentence 1: mereka berturut-turut ialah mr. moh .
+sentence 2: yamin , prof. dr. mr. supomo , dan ir .
+sentence 3: soekarno .
+sentence 4: pada tanggal 29 mei 1945 dalam pidatonya mr. muh .
+sentence 5: yamin mengemukakan tentang asas dasar kesatuan negara indonesia merdeka , yakni sebagai berikut : 1 ) peri kebangsaan ; 2 ) peri kemanusiaan ; 3 ) peri ketuhanan ; 4 ) peri kerakyatan ; 5 ) kesejahteraan rakyat .
+passage 8 score = 5.0
+sentence 1: yamin .
+sentence 2: panitia sembilan diketuai oleh ir .
+sentence 3: soekarno .
+sentence 4: mereka menghasilkan suatu rumusan yang menggambarkan asas dan tujuan terbentuknya negara indonesia merdeka , akhirnya diterima dan ditanda tangani pada tanggal 22 juni 1945 .
+sentence 5: oleh moh.yamin rumusan panitia sembilan itu diberi nama piagam jakarta atau jakarta charter .
+passage 12 score = 5.0
+sentence 1: dalam sidang yang kedua , bpupki akan membahas adalah rancangan undang-undang dasar .
+sentence 2: mereka menyetujui bahwa naskah pembukaan uud akan diambilkan dari naskah piagam jakarta .
+sentence 3: panitia kemudian membentuk panitia kecil yang diketuai oleh prof. dr. mr. soepomo untuk merumuskannya .
+sentence 4: selanjutnya , pada tanggal 14 juli 1945 , ir .
+sentence 5: soekarno melaporkan hasil kerja panitia kecil kepada sidang yang terdiri atas tiga hal berikut .
+passage 13 score = 5.0
+sentence 1: soekarno melaporkan hasil kerja panitia kecil kepada sidang yang terdiri atas tiga hal berikut .
+sentence 2: 1 ) pernyataan indonesia merdeka ; 2 ) pmbukaan undang-undang dasar ; 3 ) batang tubuh undang-undang dasar .
+sentence 3: sidang bpupki menerima bulat hasil kerja panitia .
+sentence 4: dengan demikian , bpupki telahmenyelesaikan tugasnya sehingga pada tanggal 7 agustus 1945 dinyatakan bubar .
+sentence 5: selanjutnya , jepang membentuk panitia persiapan kemerdekaan indonesia ( ppki ) untuk melanjutkan tugas bpupki .
+passage 14 score = 5.0
+sentence 1: selanjutnya , jepang membentuk panitia persiapan kemerdekaan indonesia ( ppki ) untuk melanjutkan tugas bpupki .
+sentence 2: 2 .
+sentence 3: pembentukan panitia persiapan kemerdekaan indonesia ( ppki ) sebagai pengganti bpupki yang telah menyelesaikan tugasnya maka pada tanggal 7 agustus 1945 pemerintah jepang membentuk ppki atau dokuritsu junbi iinkai .
+sentence 4: tiga tokoh pemimpin nasional , yaitu ir .
+sentence 5: soekarno , drs. moh .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok215.txt
+title : pembentukan departemen dan pemerintahan daerah
+passage 1 score = 5.5
+sentence 1: pembentukan departemen dan pemerintahan daerah - sebagai negara yang baru merdeka indonesia belum mempunyai pemimpin serta pemerintahan yang berdaulat , oleh sebab itu diadakan sidang ppki dalam upaya pembentukan pemerintahan , alat kelengkapan , serta keamanan negara indonesia .
+sentence 2: sidang tanggal 18 agustus1945 , menghasilkan keputusan sebagai berikut : mengesahkan serta menetapkan uud ri yang dikenal dengan nama uud 1945 .
+sentence 3: memilih serta menetapkan sukarno sebagai presiden serta mohammad hatta sebagai wakil presiden ( secara aklamasi ) pembentukan komite nasional untuk menolong pekerjaan presiden sebelum terbentuknya mpr serta dpr .
+sentence 4: sidang tanggal 19 agustus 1945 , menetapkan tentang : pembagian wilayah indonesia .
+sentence 5: menetapkan wilayah indonesia menjadi 8 propinsi dengan 2 daerah istimewa beserta gubernurnya , yaitu : jawa barat : sutardjo kartohadikusumo jawa tengah : r. panji soeroso jawa timur : r.a soerjo kalimantan : ir .
+passage 3 score = 5.5
+sentence 1: departemen dalam negeri : wiranata kusumah departemen luar negeri : ahmad subardjo departemen kehakiman : dr. soepomo departemen keuangan : a.a maramis departemen kemakmuran : ir .
+sentence 2: surachman tjokrodisuryo departemen pengajaran : ki hajar dewantara departemen penerangan : amir syarifudin departemen sosial : iwa kusumasumantri departemen pertahanan : supriyadi departemen kesehatan : boentaran martoatmodjo departemen perhubungan : abikusno tjokrosujoso departemen pekerjaan umum : abikusno tjokrosujoso menteri negara : wachid hasyim menteri negara : r.m sartono menteri negara : m. amir menteri negara : r. otto iskandardinata sidang tanggal 22 agustus 1945 , ppki membentuk tiga badan yaitu : pembentukan komite nasional indonesia ( kni ) .
+sentence 3: dibentuk komite nasional sebagai penjelmaan tujuan serta impian bangsa indonesia untuk menyelenggarakan kemerdekaan yang didasarkan kedaulaan rakyat .
+sentence 4: komite nasional indonesia pusat ( knip ) berkedudukan di jakarta , sedangkan komite nasional indonesia daerah ( knid ) berkedudukan di ibukota propinsi .
+sentence 5: tanggal 29 agustus 1945 , presiden sukarno melantik 135 anak buah knip di gedung kesenian jakarta dengan ketua kasman singodimejo [ gs ]
+passage 2 score = 0.0
+sentence 1: menetapkan wilayah indonesia menjadi 8 propinsi dengan 2 daerah istimewa beserta gubernurnya , yaitu : jawa barat : sutardjo kartohadikusumo jawa tengah : r. panji soeroso jawa timur : r.a soerjo kalimantan : ir .
+sentence 2: mohammad noor sulawesi : dr. sam ratulangi maluku : mr. j. latuharhary sunda kecil : mr. i gusti ketut pudja sumatera : mr. teuku moh .
+sentence 3: hasan dua daerah istimewa yaitu yogyakarta serta surakarta pembentukan dpartemen serta kementrian .
+sentence 4: pembentukan 12 departemen serta 4 kementrian negara untuk menolong presiden .
+sentence 5: departemen dalam negeri : wiranata kusumah departemen luar negeri : ahmad subardjo departemen kehakiman : dr. soepomo departemen keuangan : a.a maramis departemen kemakmuran : ir .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok307.txt
+title : sebab-sebab terjadi reformasi
+passage 1 score = 5.5
+sentence 1: sebab-sebab terjadi reformasi – sejak 13 mei 1998 rakyat meminta agar presiden soeharto mengundurkan diri .
+sentence 2: tanggal 14 mei 1998 terjadi kerusuhan di jakarta dan di surakarta .
+sentence 3: tanggal 15 mei 1998 presiden soeharto pulang dari mengikuti ktt g-15 di kairo , mesir .
+sentence 4: tanggal 18 mei para mahasiswa menduduki gedung mpr/dpr dan pada saat itu ketua dpr/mpr mengeluarkan pernyataan agar presiden soeharto mengundurkan diri .
+sentence 5: hal ini jelas berpengaruh terhadap nilai tukar rupiah yang merosot sampai rp15 .000 per dollar .
+passage 9 score = 5.5
+sentence 1: sulitnya mendapatkan barang-barang kebutuhan pokok .
+sentence 2: 3 ) faktor sosial masyarakat : adanya kerusuhan tanggal 13 dan 14 mei 1998 yang melumpuhkan perekonomian rakyat .
+sentence 3: 4 ) faktor hukum : belum adanya keadilan dalam perlakuan hukum yang sama di antara warga negara .
+sentence 4: suksesi ( pergantian pimpinan ) 1 ) sukarno – soeharto , ada beberapa hal , yaitu sebagai berikut .
+sentence 5: 1 .
+passage 2 score = 5.0
+sentence 1: hal ini jelas berpengaruh terhadap nilai tukar rupiah yang merosot sampai rp15 .000 per dollar .
+sentence 2: dari realita di atas , akhirnya tanggal 21 mei 1998 presiden soeharto menyerahkan kekuasaan kepada b.j. habibie , yang membuka peluang suksesi kepemimpinan nasional kepada b.j. habibie .
+sentence 3: tujuan reformasi adalah terciptanya kehidupan dalam bidang politik , ekonomi , hukum , dan sosial yang lebih baik dari masa sebelumnya .
+sentence 4: tujuan reformasi 1 .
+sentence 5: reformasi politik bertujuan tercapainya demokratisasi .
+passage 11 score = 5.0
+sentence 1: 3 .
+sentence 2: adanya dualisme : ada pro dan anti pembubaran pki .
+sentence 3: 4 .
+sentence 4: sidang istimewa mprs 1967 didahului turunnya supersemar .
+sentence 5: 2 ) soeharto – habibie , ada beberapa hal , antara lain sebagai berikut .
+passage 3 score = 0.0
+sentence 1: reformasi politik bertujuan tercapainya demokratisasi .
+sentence 2: 2 .
+sentence 3: reformasi ekonomi bertujuan meningkatkan tercapainya masyarakat .
+sentence 4: 3 .
+sentence 5: reformasi hukum bertujuan tercapainya keadilan bagi seluruh rakyat indonesia .
+passage 4 score = 0.0
+sentence 1: reformasi hukum bertujuan tercapainya keadilan bagi seluruh rakyat indonesia .
+sentence 2: 4 .
+sentence 3: reformasi sosial bertujuan terwujudkan integrasi bangsa indonesia .
+sentence 4: faktor pendorong terjadinya reformasi 1 ) faktor politik meliputi hal-hal berikut .
+sentence 5: 1 .
+passage 5 score = 0.0
+sentence 1: 1 .
+sentence 2: adanya kkn ( korupsi , kolusi , dan nepotisme ) dalam kehidupan pemerintahan .
+sentence 3: 2 .
+sentence 4: adanya rasa tidak percaya kepada pemerintah orba yang penuh dengan nepotisme dan kronisme serta merajalelanya korupsi .
+sentence 5: 3 .
+passage 6 score = 0.0
+sentence 1: 3 .
+sentence 2: kekuasaan orba di bawah soeharto otoriter tertutup .
+sentence 3: 4 .
+sentence 4: adanya keinginan demokratisasi dalam kehidupan berbangsa dan bernegara .
+sentence 5: 5 .
+passage 7 score = 0.0
+sentence 1: 5 .
+sentence 2: mahasiswa menginginkan perubahan .
+sentence 3: 2 ) faktor ekonomi , meliputi hal-hal berikut .
+sentence 4: 1 .
+sentence 5: adanya krisis mata uang rupiah .
+passage 8 score = 0.0
+sentence 1: adanya krisis mata uang rupiah .
+sentence 2: 2 .
+sentence 3: naiknya harga barang-barang kebutuhan masyarakat .
+sentence 4: 3 .
+sentence 5: sulitnya mendapatkan barang-barang kebutuhan pokok .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 1 score = 8.5
+sentence 1: peristiwa seputar proklamasi kemerdekaan 17 agustus 1945 - menjelang berakhirnya perang dunia ii ( 1939-1945 ) pasukan gabungan sekutu yaitu front abcd ( amerika serikat , british / inggris , china dan dutch / belanda ) berhasil mengalahkan pasukan tentara jepang dalam pertempuran di laut karang pada tanggal 7 mei 1945 .
+sentence 2: setelah itu , pasukan amerika serikat kemudian melakukan penyerbuan terhadap pusat-pusat industri , pemerintahan dan militer di jepang .
+sentence 3: sehingga akhirnya pada tanggal 6 agustus 1945 amerika serikat menjatuhkan bom atom dikota hiroshima dan pada tanggal 9 agustus 1945 amerika serikat menjatuhkan bom atom dikota nagasaki .
+sentence 4: setelah kedudukan jepang bertambah sulit baik dalam perang dunia ii maupun perang asia timur raya , maka perdana menteri jepang kaiso pada tanggal 7 september 1944 mengeluarkan janji kemerdekaan kepada bangsa indonesia kelak dikemudian hari .
+sentence 5: hal ini perlu dilakukan oleh jepang agar rakyat indonesia tidak melakukan perlawanan militer serta aksi-aksi perebutan kekuasaan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+passage 34 score = 8.5
+sentence 1: pada 1 april 1945 pasukan amerika mendarat di okinawa .
+sentence 2: kemudian pada tanggal 6 dan 9 agustus 1945 amerika menjatukan bom atom di hiroshima dan nagasaki ( jepang ) .
+sentence 3: beberapa hari kemudian , pada 14 agustus 1945 , jepang menyerah kepada tentara sekutu .
+sentence 4: kejadian tersebut membuka peluang bagi bangsa indonesia untuk memproklamirkan kemerdekaan .
+sentence 5: tiga hari setelah jepang menyerah tanpa syarat , pada tanggal 17 agustus 1945 , pemimpin nasional indonesia ir .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 32 score = 8.0
+sentence 1: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
+sentence 2: ketika ketiga tokoh itu berangkat kembali menuju jakarta pada tanggal 14 agustus 1945 , jepang telah dibom atom oleh sekutu di kota hirosima dan nagasaki .
+sentence 3: bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke manchuria .
+sentence 4: dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
+sentence 5: keesokan harinya , pada tanggal 15 agustus 1945 sukarno-hatta tiba kembali di tanah air .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 2 score = 6.5
+sentence 1: hal ini perlu dilakukan oleh jepang agar rakyat indonesia tidak melakukan perlawanan militer serta aksi-aksi perebutan kekuasaan .
+sentence 2: dengan adanya janji kaiso tersebut maka arah perjuangan bangsa indonesia untuk memperoleh kemerdekaan makin nyata dan jelas .
+sentence 3: hal ini terbukti , ketika pemerintah jepang memberi kesempatan kepada para tokoh-tokoh pergerakan nasional untuk duduk dalam badan-badan yang dibentuk oleh pemerintah jepang seperti chuo-sangi-in ( dewan pertimbangan pusat ) pada tanggal 5 september 1943 .
+sentence 4: oleh karena itu para tokoh-tokoh pergerakan nasional memanfaatkan badan-badan pemerintah jepang untuk kepentingan perjuangan .
+sentence 5: terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia sebagai tindak lanjut dari janji kaiso , maka pada tanggal 1 maret 1945 letnan jendral kumakici harada selakupanglima tentara jepangmengumumkan pembentukanbadan penyelidik usaha-usaha persiapan kemerdekaan indonesia disingkat bpupki atau disebut dokuritsu junbi cosakai .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 3 score = 6.5
+sentence 1: terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia sebagai tindak lanjut dari janji kaiso , maka pada tanggal 1 maret 1945 letnan jendral kumakici harada selakupanglima tentara jepangmengumumkan pembentukanbadan penyelidik usaha-usaha persiapan kemerdekaan indonesia disingkat bpupki atau disebut dokuritsu junbi cosakai .
+sentence 2: kemudian pada tanggal 29 april 1945 pemerintah jepang membentuk bpupki dengan jumlah anggota 62 orang indonesia dan tujuh orang jepang .
+sentence 3: secara resmi pemerintah jepang melantik dan meresmikan bpupki beserta anggotanya pada tanggal 29 mei 1945 .
+sentence 4: adapun ketua bpupki pada mulanya akan ditunjuk ir soekarno , tetapi ditolak , karena tidak memiliki kebebasan berpendapat .
+sentence 5: maka pemerintah jepang akhirnya menunjuk dr. k.r.t. radjiman wedyodiningrat , sedangkan wakilnya antara lain icibangase dan r.p. suroso , sekretarisnya adalah a.g. pringgodigdo .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 4 score = 6.5
+sentence 1: maka pemerintah jepang akhirnya menunjuk dr. k.r.t. radjiman wedyodiningrat , sedangkan wakilnya antara lain icibangase dan r.p. suroso , sekretarisnya adalah a.g. pringgodigdo .
+sentence 2: dengan demikian sejak saat itu bpupki sudah dapat melaksanakan tugasnya yaitu menyusun rumusan dasar negara dan rancangan undang-undang dasar .
+sentence 3: karena dasar negara dan undang-undang dasar merupakan bagian dari syarat terbentuknya negara yaitu pemerintah yang berdaulat .
+sentence 4: dalam melaksanakan tugasnya tersebut , maka bpupki mengadakan sidang yang berlangsung sampai dua tahap , sebagai berikut : 1 .
+sentence 5: sidang pertama ( 29 mei sampai 1 juni 1945 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 5 score = 6.5
+sentence 1: sidang pertama ( 29 mei sampai 1 juni 1945 ) .
+sentence 2: dalam sidang pertama bpupki membahas dasar dan falsafah negara indonesia merdeka .
+sentence 3: oleh karena itu ada tiga orang tokoh yang menyampaiakan dan mengusulkan lima azas sebagai dasar negara indonesia , yaitu : a. mr. muhammad yamin .
+sentence 4: pada tanggal 29 mei 1945 mr. muhammad yamin mengusulkan lima azas sebagai dasar negara indonesia , mr. supomodalam pidatonya didepan sidang bpupki tanggal 31 mei 1945 , mr. supomo mengusulkan dasar negara indonesia .
+sentence 5: ir .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 6 score = 6.5
+sentence 1: ir .
+sentence 2: sukarno pada tanggal 1 juni 1945 ir sukarno mengusulkan lima dasar negara indonesia , oleh ir .
+sentence 3: sukarno diusulkan agar lima dasar negara tersebut diberi nama pancasila .
+sentence 4: setelah bpupki melaksanakan sidangnya selama tiga hari , maka para anggota bpupki memasuki masa reses atau istirahat.pada masa reses tersebut dibentuk panitia kecil yang beranggotakan sembilan orang , maka disebut panitia sembilan.adapun susunan anggota panitia sembilan antara lain : ketua : ir .
+sentence 5: sukarno .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 7 score = 6.5
+sentence 1: sukarno .
+sentence 2: anggota : drs. mohammad hatta , mr. muhammad yamin , mr ahmad subarjo mr. a.a. maramis , abikusno cokrosuyoso , abdul kahar muzakir , wachid hasyim dan h. agus salim .
+sentence 3: adapun tugas panitia sembilan adalah merumuskan kembali konsep dasar negara yang diusul oleh mr. muhammad yamin , mr. supomo , dan ir soekarno pada sidang bpupki tanggal 29 maret-1 juni 1945 .
+sentence 4: setelah konsep dasar negara dibahas , maka panitia sembilan berhasil merumuskan dasar negara sebagai berikut : lima rumusan dasar negara tersebut oleh panitia sembilan dicantumkan dan disyahkan pada piagam djakarta ( djakarta charter ) pada tanggal 22 juni 1945 .
+sentence 5: kemudian setelah mendengar saran dan usul dari umat kristen , maka sila pertama dirubah menjadi ketuhanan yang maha esa .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 10 score = 6.5
+sentence 1: hasil rumusan hukum dasar atau undang-undang dasar tersebut kemudian diserahkan pada panitia penghalus bahasa untuk disempurnakan bahasanya .
+sentence 2: panitia penghalus bahasa beranggotakan husein jayadiningrat , haji agus salim dan mr. supomo .
+sentence 3: setelah sidang kedua berhasil merumuskan undang-undang dasar secara lengkap berikut pembukaannya , maka pada tanggal 17 juli 1945 sidang bpupki ditutup .
+sentence 4: dengan demikian sidang bpupki yang berlangsung sampai dua kali sudah berhasil merumuskan dasar negara dan undang-undang dasar .
+sentence 5: kedua rumusan tersebut merupakan syarat syah berdirinya suatu negara indonesia secara hukum dasar atau konstitusional terbentuknya panitia persiapan kemerdekaan indonesia setelah berhasil melaksanakan tugasnya , maka pada tanggal 7 agustus 1945 bpupki dibubarkan , sebagai gantinya jepang membentuk panitia persiapan kemerdekaan indonesia disingkat ppki atau dokuritsu zunbi inkai .
+
+
+Pencarian jawaban
+---------------------
+
+
+peristiwa seputar proklamasi kemerdekaan <TIME>17 agustus 1945</TIME> - menjelang berakhirnya perang dunia ii ( <TIME>1939-1945</TIME> ) pasukan gabungan sekutu yaitu front abcd ( amerika serikat , british / inggris , china dan dutch / belanda ) berhasil mengalahkan pasukan tentara jepang dalam pertempuran di laut karang pada <TIME>tanggal 7 mei 1945</TIME> .
+
+memproses passage 1
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+17 agustus 1945 | position = 4
+1939 1945 | position = 10
+tanggal 7 mei 1945 | position = 31
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = putar
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = 17 agustus 1945
+tokenwithtagstemmed = jelang
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = 1939 1945
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = front
+tokenwithtagstemmed = abcd
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = british
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = china
+tokenwithtagstemmed = dutch
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = laut
+tokenwithtagstemmed = karang
+tokenwithtagstemmed = tanggal 7 mei 1945
+kata kunci = bom
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = putar
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = 17 agustus 1945
+tokenwithtagstemmed = jelang
+tokenwithtagstemmed = akhir
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = 1939 1945
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = front
+tokenwithtagstemmed = abcd
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = british
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = china
+tokenwithtagstemmed = dutch
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kalah
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = laut
+tokenwithtagstemmed = karang
+tokenwithtagstemmed = tanggal 7 mei 1945
+
+
+setelah itu , pasukan amerika serikat kemudian melakukan penyerbuan terhadap <PERSON>pusat-pusat industri</PERSON> , pemerintahan dan militer di <LOCATION>jepang .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+sehingga akhirnya pada <TIME>tanggal 6 agustus 1945</TIME> amerika serikat menjatuhkan bom atom dikota hiroshima dan pada <TIME>tanggal 9 agustus 1945</TIME> amerika serikat menjatuhkan bom atom dikota nagasaki .
+
+memproses passage 1
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 6 agustus 1945 | position = 0
+tanggal 9 agustus 1945 | position = 8
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = tanggal 6 agustus 1945
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = jatuh
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hiroshima
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tanggal 6 agustus 1945 -7
+tanggal 9 agustus 1945 1
+
+tokenwithtagstemmed = tanggal 9 agustus 1945
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = jatuh
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+kata kunci = bom
+tokenwithtagstemmed = tanggal 6 agustus 1945
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = jatuh
+tokenwithtagstemmed = bom
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+tanggal 6 agustus 1945 -4
+tanggal 9 agustus 1945 4
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = hiroshima
+tokenwithtagstemmed = tanggal 9 agustus 1945
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+tokenwithtagstemmed = jatuh
+tokenwithtagstemmed = bom
+posisi dalam passage = 12
+jarak dengan tiap kandidat jawaban:
+tanggal 6 agustus 1945 -12
+tanggal 9 agustus 1945 -4
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = kota
+tokenwithtagstemmed = nagasaki
+
+
+setelah kedudukan jepang bertambah sulit baik dalam perang dunia ii maupun perang asia timur raya , maka perdana menteri jepang kaiso pada <TIME>tanggal 7 september 1944</TIME> mengeluarkan janji kemerdekaan kepada <PERSON>bangsa indonesia</PERSON> kelak dikemudian hari .
+
+memproses passage 1
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 7 september 1944 | position = 16
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = sulit
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = raya
+tokenwithtagstemmed = perdana
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = kaiso
+tokenwithtagstemmed = tanggal 7 september 1944
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = kelak
+tokenwithtagstemmed = kemudi
+tokenwithtagstemmed = hari
+kata kunci = bom
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = sulit
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = asia
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = raya
+tokenwithtagstemmed = perdana
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = kaiso
+tokenwithtagstemmed = tanggal 7 september 1944
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = bangsa indonesia
+tokenwithtagstemmed = kelak
+tokenwithtagstemmed = kemudi
+tokenwithtagstemmed = hari
+
+
+hal ini perlu dilakukan oleh <PERSON>jepang agar rakyat indonesia</PERSON> tidak melakukan perlawanan militer serta aksi-aksi perebutan kekuasaan .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>1 april 1945</TIME> pasukan amerika mendarat di <LOCATION>okinawa .</LOCATION>
+
+memproses passage 34
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+list jawaban dan posisi dalam passage
+1 april 1945 | position = 0
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = 1 april 1945
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = darat
+tokenwithtagstemmed = okinawa
+kata kunci = bom
+tokenwithtagstemmed = 1 april 1945
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = darat
+tokenwithtagstemmed = okinawa
+
+
+kemudian pada <TIME>tanggal 6 dan 9 agustus 1945</TIME> amerika menjatukan bom atom di <LOCATION>hiroshima</LOCATION> dan nagasaki ( jepang ) .
+
+memproses passage 34
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+list jawaban dan posisi dalam passage
+tanggal 6 9 agustus 1945 | position = 0
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = tanggal 6 9 agustus 1945
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = menjatukan
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = hiroshima
+posisi dalam passage = 5
+jarak dengan tiap kandidat jawaban:
+tanggal 6 9 agustus 1945 -5
+
+tokenwithtagstemmed = nagasaki
+tokenwithtagstemmed = jepang
+kata kunci = bom
+tokenwithtagstemmed = tanggal 6 9 agustus 1945
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = menjatukan
+tokenwithtagstemmed = bom
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+tanggal 6 9 agustus 1945 -3
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = hiroshima
+tokenwithtagstemmed = nagasaki
+tokenwithtagstemmed = jepang
+
+
+beberapa hari kemudian , pada <TIME>14 agustus 1945</TIME> , jepang menyerah kepada tentara sekutu .
+
+memproses passage 34
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+list jawaban dan posisi dalam passage
+14 agustus 1945 | position = 1
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = 14 agustus 1945
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = sekutu
+kata kunci = bom
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = 14 agustus 1945
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = sekutu
+
+
+kejadian tersebut membuka peluang bagi <PERSON>bangsa indonesia</PERSON> untuk memproklamirkan kemerdekaan .
+
+
+tidak ada entitas jawaban, skip
+
+
+tiga hari setelah jepang menyerah tanpa syarat , pada <TIME>tanggal 17 agustus 1945</TIME> , pemimpin nasional indonesia ir .
+
+memproses passage 34
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+list jawaban dan posisi dalam passage
+tanggal 17 agustus 1945 | position = 5
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = syarat
+tokenwithtagstemmed = tanggal 17 agustus 1945
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = ir
+kata kunci = bom
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = hari
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = syarat
+tokenwithtagstemmed = tanggal 17 agustus 1945
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = ir
+
+
+wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
+
+
+tidak ada entitas jawaban, skip
+
+
+ketika ketiga tokoh itu berangkat kembali menuju jakarta pada <TIME>tanggal 14 agustus 1945</TIME> , jepang telah dibom atom oleh <PERSON>sekutu</PERSON> di <LOCATION>kota hirosima</LOCATION> dan nagasaki .
+
+memproses passage 32
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+list jawaban dan posisi dalam passage
+tanggal 14 agustus 1945 | position = 6
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = berangkat
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = jakarta
+tokenwithtagstemmed = tanggal 14 agustus 1945
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bom
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = kota hirosima
+tokenwithtagstemmed = nagasaki
+kata kunci = bom
+tokenwithtagstemmed = tiga
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = berangkat
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = jakarta
+tokenwithtagstemmed = tanggal 14 agustus 1945
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bom
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+tanggal 14 agustus 1945 -2
+
+tokenwithtagstemmed = atom
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = kota hirosima
+tokenwithtagstemmed = nagasaki
+
+
+bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke <LOCATION>manchuria .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
+
+
+tidak ada entitas jawaban, skip
+
+
+<TIME>keesokan harinya ,</TIME> pada <TIME>tanggal 15 agustus 1945</TIME> sukarno-hatta tiba kembali di tanah air .
+
+memproses passage 32
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+list jawaban dan posisi dalam passage
+keesokan harinya | position = 0
+tanggal 15 agustus 1945 | position = 1
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = esok hari
+tokenwithtagstemmed = tanggal 15 agustus 1945
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = tiba
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = tanah
+tokenwithtagstemmed = air
+kata kunci = bom
+tokenwithtagstemmed = esok hari
+tokenwithtagstemmed = tanggal 15 agustus 1945
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = tiba
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = tanah
+tokenwithtagstemmed = air
+
+
+hal ini perlu dilakukan oleh <PERSON>jepang agar rakyat indonesia</PERSON> tidak melakukan perlawanan militer serta aksi-aksi perebutan kekuasaan .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan adanya janji kaiso tersebut maka arah perjuangan <PERSON>bangsa indonesia</PERSON> untuk memperoleh kemerdekaan makin nyata dan jelas .
+
+
+tidak ada entitas jawaban, skip
+
+
+hal ini terbukti , ketika <PERSON>pemerintah</PERSON> jepang memberi kesempatan kepada para tokoh-tokoh pergerakan nasional untuk duduk dalam badan-badan yang dibentuk oleh <PERSON>pemerintah</PERSON> jepang seperti chuo-sangi-in ( dewan pertimbangan pusat ) pada <TIME>tanggal 5 september 1943</TIME> .
+
+memproses passage 2
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 5 september 1943 | position = 22
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = bukti
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = sempat
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = chuo
+tokenwithtagstemmed = sang
+tokenwithtagstemmed = in
+tokenwithtagstemmed = dewan
+tokenwithtagstemmed = timbang
+tokenwithtagstemmed = pusat
+tokenwithtagstemmed = tanggal 5 september 1943
+kata kunci = bom
+tokenwithtagstemmed = bukti
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = beri
+tokenwithtagstemmed = sempat
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = gera
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = chuo
+tokenwithtagstemmed = sang
+tokenwithtagstemmed = in
+tokenwithtagstemmed = dewan
+tokenwithtagstemmed = timbang
+tokenwithtagstemmed = pusat
+tokenwithtagstemmed = tanggal 5 september 1943
+
+
+oleh karena itu para tokoh-tokoh pergerakan nasional memanfaatkan badan-badan pemerintah jepang untuk kepentingan perjuangan .
+
+
+tidak ada entitas jawaban, skip
+
+
+terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia sebagai tindak lanjut dari janji kaiso , maka pada <TIME>tanggal 1 maret 1945</TIME> letnan jendral kumakici harada selakupanglima tentara jepangmengumumkan pembentukanbadan penyelidik usaha-usaha persiapan kemerdekaan indonesia disingkat bpupki atau disebut dokuritsu junbi cosakai .
+
+memproses passage 2
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 1 maret 1945 | position = 12
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tindak
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = kaiso
+tokenwithtagstemmed = tanggal 1 maret 1945
+tokenwithtagstemmed = letnan
+tokenwithtagstemmed = jendral
+tokenwithtagstemmed = kumakici
+tokenwithtagstemmed = harada
+tokenwithtagstemmed = selakupanglima
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = jepangmengumumkan
+tokenwithtagstemmed = pembentukanbadan
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = dokuritsu
+tokenwithtagstemmed = junbi
+tokenwithtagstemmed = cosakai
+kata kunci = bom
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tindak
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = kaiso
+tokenwithtagstemmed = tanggal 1 maret 1945
+tokenwithtagstemmed = letnan
+tokenwithtagstemmed = jendral
+tokenwithtagstemmed = kumakici
+tokenwithtagstemmed = harada
+tokenwithtagstemmed = selakupanglima
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = jepangmengumumkan
+tokenwithtagstemmed = pembentukanbadan
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = dokuritsu
+tokenwithtagstemmed = junbi
+tokenwithtagstemmed = cosakai
+
+
+terbentuknya badan penyelidik usaha-usaha persiapan kemerdekaan indonesia sebagai tindak lanjut dari janji kaiso , maka pada <TIME>tanggal 1 maret 1945</TIME> letnan jendral kumakici harada selakupanglima tentara jepangmengumumkan pembentukanbadan penyelidik usaha-usaha persiapan kemerdekaan indonesia disingkat bpupki atau disebut dokuritsu junbi cosakai .
+
+memproses passage 3
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 1 maret 1945 | position = 12
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tindak
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = kaiso
+tokenwithtagstemmed = tanggal 1 maret 1945
+tokenwithtagstemmed = letnan
+tokenwithtagstemmed = jendral
+tokenwithtagstemmed = kumakici
+tokenwithtagstemmed = harada
+tokenwithtagstemmed = selakupanglima
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = jepangmengumumkan
+tokenwithtagstemmed = pembentukanbadan
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = dokuritsu
+tokenwithtagstemmed = junbi
+tokenwithtagstemmed = cosakai
+kata kunci = bom
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = badan
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tindak
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = kaiso
+tokenwithtagstemmed = tanggal 1 maret 1945
+tokenwithtagstemmed = letnan
+tokenwithtagstemmed = jendral
+tokenwithtagstemmed = kumakici
+tokenwithtagstemmed = harada
+tokenwithtagstemmed = selakupanglima
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = jepangmengumumkan
+tokenwithtagstemmed = pembentukanbadan
+tokenwithtagstemmed = selidik
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = usaha
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = dokuritsu
+tokenwithtagstemmed = junbi
+tokenwithtagstemmed = cosakai
+
+
+kemudian pada <TIME>tanggal 29 april 1945</TIME> <PERSON>pemerintah</PERSON> jepang membentuk bpupki dengan jumlah anggota 62 orang indonesia dan tujuh orang jepang .
+
+memproses passage 3
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 29 april 1945 | position = 0
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = tanggal 29 april 1945
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = jumlah
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = 62
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = jepang
+kata kunci = bom
+tokenwithtagstemmed = tanggal 29 april 1945
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = jumlah
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = 62
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tujuh
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = jepang
+
+
+secara resmi <PERSON>pemerintah</PERSON> jepang melantik dan meresmikan bpupki beserta anggotanya pada <TIME>tanggal 29 mei 1945</TIME> .
+
+memproses passage 3
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 29 mei 1945 | position = 9
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = resmi
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = lantik
+tokenwithtagstemmed = resmi
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = serta
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = tanggal 29 mei 1945
+kata kunci = bom
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = resmi
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = lantik
+tokenwithtagstemmed = resmi
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = serta
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = tanggal 29 mei 1945
+
+
+adapun ketua bpupki pada mulanya akan ditunjuk ir soekarno , tetapi ditolak , karena tidak memiliki kebebasan berpendapat .
+
+
+tidak ada entitas jawaban, skip
+
+
+maka <PERSON>pemerintah</PERSON> jepang akhirnya menunjuk <PERSON>dr. k.r.t. radjiman wedyodiningrat</PERSON> , sedangkan wakilnya antara lain icibangase dan r.p. suroso , sekretarisnya adalah a.g. pringgodigdo .
+
+
+tidak ada entitas jawaban, skip
+
+
+maka <PERSON>pemerintah</PERSON> jepang akhirnya menunjuk <PERSON>dr. k.r.t. radjiman wedyodiningrat</PERSON> , sedangkan wakilnya antara lain icibangase dan r.p. suroso , sekretarisnya adalah a.g. pringgodigdo .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan demikian sejak saat itu bpupki sudah dapat melaksanakan tugasnya yaitu menyusun rumusan dasar negara dan rancangan undang-undang dasar .
+
+
+tidak ada entitas jawaban, skip
+
+
+karena dasar negara dan undang-undang dasar merupakan bagian dari syarat terbentuknya negara yaitu <PERSON>pemerintah</PERSON> yang berdaulat .
+
+
+tidak ada entitas jawaban, skip
+
+
+dalam melaksanakan tugasnya tersebut , maka bpupki mengadakan sidang yang berlangsung sampai dua tahap , sebagai berikut : 1 .
+
+
+tidak ada entitas jawaban, skip
+
+
+sidang pertama ( <TIME>29 mei</TIME> sampai <TIME>1 juni 1945</TIME> ) .
+
+memproses passage 4
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+29 mei | position = 2
+1 juni 1945 | position = 3
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = 29 mei
+tokenwithtagstemmed = 1 juni 1945
+kata kunci = bom
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = 29 mei
+tokenwithtagstemmed = 1 juni 1945
+
+
+sidang pertama ( <TIME>29 mei</TIME> sampai <TIME>1 juni 1945</TIME> ) .
+
+memproses passage 5
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+29 mei | position = 2
+1 juni 1945 | position = 3
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = 29 mei
+tokenwithtagstemmed = 1 juni 1945
+kata kunci = bom
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = 29 mei
+tokenwithtagstemmed = 1 juni 1945
+
+
+dalam sidang pertama bpupki membahas dasar dan falsafah negara indonesia merdeka .
+
+
+tidak ada entitas jawaban, skip
+
+
+oleh karena itu ada tiga orang tokoh yang menyampaiakan dan mengusulkan lima azas sebagai dasar negara indonesia , yaitu : a. mr. muhammad yamin .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>tanggal 29 mei 1945</TIME> <PERSON>mr. muhammad</PERSON> yamin mengusulkan lima azas sebagai dasar negara indonesia , mr. supomodalam pidatonya didepan sidang bpupki <TIME>tanggal 31 mei 1945</TIME> , mr. supomo mengusulkan dasar negara indonesia .
+
+memproses passage 5
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 29 mei 1945 | position = 0
+tanggal 31 mei 1945 | position = 15
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = tanggal 29 mei 1945
+tokenwithtagstemmed = mr muhammad
+tokenwithtagstemmed = yamin
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = lima
+tokenwithtagstemmed = azas
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = supomodalam
+tokenwithtagstemmed = pidato
+tokenwithtagstemmed = depan
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = tanggal 31 mei 1945
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = supomo
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = indonesia
+kata kunci = bom
+tokenwithtagstemmed = tanggal 29 mei 1945
+tokenwithtagstemmed = mr muhammad
+tokenwithtagstemmed = yamin
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = lima
+tokenwithtagstemmed = azas
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = supomodalam
+tokenwithtagstemmed = pidato
+tokenwithtagstemmed = depan
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = tanggal 31 mei 1945
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = supomo
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = indonesia
+
+
+ir .
+
+
+tidak ada entitas jawaban, skip
+
+
+ir .
+
+
+tidak ada entitas jawaban, skip
+
+
+sukarno pada <TIME>tanggal 1 juni 1945</TIME> ir sukarno mengusulkan lima dasar negara indonesia , oleh ir .
+
+memproses passage 6
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 1 juni 1945 | position = 1
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = tanggal 1 juni 1945
+tokenwithtagstemmed = ir
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = lima
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = ir
+kata kunci = bom
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = tanggal 1 juni 1945
+tokenwithtagstemmed = ir
+tokenwithtagstemmed = sukarno
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = lima
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = ir
+
+
+sukarno diusulkan agar lima dasar negara tersebut diberi nama pancasila .
+
+
+tidak ada entitas jawaban, skip
+
+
+setelah bpupki melaksanakan sidangnya selama <TIME>tiga hari ,</TIME> maka para anggota bpupki memasuki masa reses atau istirahat.pada masa reses tersebut dibentuk panitia kecil yang beranggotakan sembilan orang , maka disebut panitia sembilan.adapun susunan anggota panitia sembilan antara lain : ketua : ir .
+
+memproses passage 6
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tiga hari | position = 3
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = tiga hari
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = pasuk
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = reses
+tokenwithtagstemmed = istirahat.pada
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = reses
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan.adapun
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = ir
+kata kunci = bom
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = tiga hari
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = pasuk
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = reses
+tokenwithtagstemmed = istirahat.pada
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = reses
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan.adapun
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = ir
+
+
+sukarno .
+
+
+tidak ada entitas jawaban, skip
+
+
+sukarno .
+
+
+tidak ada entitas jawaban, skip
+
+
+anggota : drs. mohammad hatta , mr. muhammad yamin , mr ahmad subarjo mr. a.a. maramis , abikusno cokrosuyoso , abdul kahar muzakir , wachid hasyim dan h. agus salim .
+
+
+tidak ada entitas jawaban, skip
+
+
+adapun tugas panitia sembilan adalah merumuskan kembali konsep dasar negara yang diusul oleh <PERSON>mr. muhammad yamin , mr. supomo ,</PERSON> dan <PERSON>ir soekarno</PERSON> pada sidang bpupki <TIME>tanggal 29 maret-1 juni 1945</TIME> .
+
+memproses passage 7
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 29 maret 1 juni 1945 | position = 13
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = konsep
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = mr muhammad yamin mr supomo
+tokenwithtagstemmed = ir soekarno
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = tanggal 29 maret 1 juni 1945
+kata kunci = bom
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = konsep
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = usul
+tokenwithtagstemmed = mr muhammad yamin mr supomo
+tokenwithtagstemmed = ir soekarno
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = tanggal 29 maret 1 juni 1945
+
+
+setelah konsep dasar negara dibahas , maka panitia sembilan berhasil merumuskan dasar negara sebagai berikut : lima rumusan dasar negara tersebut oleh <PERSON>panitia</PERSON> sembilan dicantumkan dan disyahkan pada piagam djakarta ( djakarta charter ) pada <TIME>tanggal 22 juni 1945</TIME> .
+
+memproses passage 7
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 22 juni 1945 | position = 23
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = konsep
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = bahas
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = lima
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = cantum
+tokenwithtagstemmed = syah
+tokenwithtagstemmed = piagam
+tokenwithtagstemmed = djakarta
+tokenwithtagstemmed = djakarta
+tokenwithtagstemmed = charter
+tokenwithtagstemmed = tanggal 22 juni 1945
+kata kunci = bom
+tokenwithtagstemmed = konsep
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = bahas
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = lima
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = sembilan
+tokenwithtagstemmed = cantum
+tokenwithtagstemmed = syah
+tokenwithtagstemmed = piagam
+tokenwithtagstemmed = djakarta
+tokenwithtagstemmed = djakarta
+tokenwithtagstemmed = charter
+tokenwithtagstemmed = tanggal 22 juni 1945
+
+
+kemudian setelah mendengar saran dan usul dari umat kristen , maka sila pertama dirubah menjadi ketuhanan yang maha esa .
+
+
+tidak ada entitas jawaban, skip
+
+
+hasil rumusan hukum dasar atau undang-undang dasar tersebut kemudian diserahkan pada panitia penghalus bahasa untuk disempurnakan bahasanya .
+
+
+tidak ada entitas jawaban, skip
+
+
+panitia penghalus bahasa beranggotakan husein jayadiningrat , haji agus salim dan <PERSON>mr. supomo .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+setelah sidang kedua berhasil merumuskan undang-undang dasar secara lengkap berikut pembukaannya , maka pada <TIME>tanggal 17 juli 1945</TIME> sidang bpupki ditutup .
+
+memproses passage 10
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 17 juli 1945 | position = 11
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lengkap
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = buka
+tokenwithtagstemmed = tanggal 17 juli 1945
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = tutup
+kata kunci = bom
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = lengkap
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = buka
+tokenwithtagstemmed = tanggal 17 juli 1945
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = tutup
+
+
+dengan demikian sidang bpupki yang berlangsung sampai dua kali sudah berhasil merumuskan dasar negara dan undang-undang dasar .
+
+
+tidak ada entitas jawaban, skip
+
+
+kedua rumusan tersebut merupakan syarat syah berdirinya suatu negara indonesia secara hukum dasar atau konstitusional terbentuknya panitia persiapan kemerdekaan indonesia setelah berhasil melaksanakan tugasnya , maka pada <TIME>tanggal 7 agustus 1945</TIME> bpupki dibubarkan , sebagai gantinya jepang membentuk panitia persiapan kemerdekaan indonesia disingkat ppki atau dokuritsu zunbi inkai .
+
+memproses passage 10
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 7 agustus 1945 | position = 19
+
+
+melakukan pencarian:
+kata kunci = hiroshima
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = syarat
+tokenwithtagstemmed = syah
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = tanggal 7 agustus 1945
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = ppki
+tokenwithtagstemmed = dokuritsu
+tokenwithtagstemmed = zunbi
+tokenwithtagstemmed = inkai
+kata kunci = bom
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = syarat
+tokenwithtagstemmed = syah
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = cara
+tokenwithtagstemmed = hukum
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = konstitusional
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = tanggal 7 agustus 1945
+tokenwithtagstemmed = bpupki
+tokenwithtagstemmed = bubar
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = panitia
+tokenwithtagstemmed = siap
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = singkat
+tokenwithtagstemmed = ppki
+tokenwithtagstemmed = dokuritsu
+tokenwithtagstemmed = zunbi
+tokenwithtagstemmed = inkai
+
+Pengurutan kandidat jawaban
+this.answer = tanggal 9 agustus 1945
+passage rank = 1
+distance = 1
+doc rank = 1
+total Score = 3
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+document Title = peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+
+this.answer = tanggal 9 agustus 1945
+passage rank = 1
+distance = 4
+doc rank = 1
+total Score = 6
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+document Title = peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+
+
+
+selesai

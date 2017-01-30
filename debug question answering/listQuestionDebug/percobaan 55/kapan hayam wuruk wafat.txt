@@ -1,0 +1,2581 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok21.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok92.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok157.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok159.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok300.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok57.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok380.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+
+searching dari query expansion
+query hasil ekspansi = rtanagara samudera wafat tumapel kadir sultan malik wuruk hayam pasa
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok268.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok325.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok388.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+
+query token : 
+hayam wuruk wafat 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+passage 8 score = 8.166666666666668
+sentence 1: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+sentence 2: sosial ekonomi masyarakat kerajaan samudera pasai menurunnya peranan kerajaan sriwijaya di selat malaka bersamaan dengan berdirinya kerajaan samudera pasai .
+sentence 3: di bawah kekuasaan samudera pasai , jalur perdagangan di selat malaka berkembang pesat .
+sentence 4: banyak pedagang-pedagang dari arab , persia dan gujarat yang berlabuh di pidie , perlak , dan pasai .
+sentence 5: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+passage 9 score = 8.166666666666668
+sentence 1: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+sentence 2: walau demikian samudera pasai diberi keleluasan untuk tetap menguasai perdagangan di selat malaka .
+sentence 3: belakangan diketahui bahwa sebagian wilayah dari kerajaan majapahit sudah memeluk agama islam .
+sentence 4: karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada abad ke-14 dapat dipanen dua kali setahun , berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+sentence 5: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+passage 1 score = 7.833333333333333
+sentence 1: sejarah kerajaan samudera pasai - kerajaan samudera pasai dalam sejarah indonesia tercatat sebagai kerajaan islam yang pertama di indonesia .
+sentence 2: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+sentence 3: kerajaan samudera pasai terletak di sebelah utara perlak di daerah lhok seumawe sekarang ( pantai timur aceh ) , berbatasan langsung dengan selat malaka .
+sentence 4: pada tahun 1297 m , sultan malik al-saleh wafat , kemudian kerajaan samudera pasai dipimpin oleh putranya yang bernama sultan malik al-tahir ( 1297-1326 ) .
+sentence 5: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+passage 2 score = 7.833333333333333
+sentence 1: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+sentence 2: mengenai pribadi sultan ini , ibnu batutah ( pengembara dari maroko ) yang pernah singgah di samudera pasai pada tahun 1345 dan 1346 mengatakan bahwa sultan malik al-zahir adalah seorang sultan yang taat pada agama dan menganut ma hab syafi i. pada masa pemerintahan malik al-zahir terdapat orang persia yang menjadi pejabat istana .
+sentence 3: pada tahun 1348 , sultan malik al-zahir wafat , kemudian takhta kerajaan dipegang oleh zainal abidin .
+sentence 4: pada masa zainal abidin inilah , majapahit berhasil menguasai samudera pasai .
+sentence 5: dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+passage 7 score = 7.833333333333333
+sentence 1: sultan malikul zahir , meninggal tahun 1326 3 .
+sentence 2: sultan muhammad , wafat tahun 1354 4 .
+sentence 3: sultan ahmad malikul zahir atau al malik jamaluddin , meninggal tahun 1383 5 .
+sentence 4: sultan zainal abidin , meninggal tahun 1405 6 .
+sentence 5: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+passage 14 score = 6.5
+sentence 1: ia diundang ke istana dan bertemu dengan sultan muhammad , cucu malik as-saleh .
+sentence 2: setelah setahun di pasai , batutah segera melanjutkan pelayarannya ke cina , dan kembali ke samudera pasai lagi pada 1347 .
+sentence 3: bukti lain dari keberadaan pasai adalah ditemukannya mata uang dirham sebagai alat tukar dagang .
+sentence 4: pada mata uang ini , tertulis nama para sultan yang memerintah kerajaan .
+sentence 5: nama-nama sultan ( memerintah dari abad ke-14 hingga 15 ) yang tercetak pada mata uang tersebut di antaranya sultan alauddin , mansur malik zahir , abu zaid malik zahir , muhammad malik zahir , ahmad malik zahir , dan abdullah malik zahir .
+passage 15 score = 6.5
+sentence 1: nama-nama sultan ( memerintah dari abad ke-14 hingga 15 ) yang tercetak pada mata uang tersebut di antaranya sultan alauddin , mansur malik zahir , abu zaid malik zahir , muhammad malik zahir , ahmad malik zahir , dan abdullah malik zahir .
+sentence 2: dengan munculnya pusat politik dan perdagangan baru di malaka pada abad ke-15 merupakan faktor yang menyebabkan kerajaan samudera pasai mengalami kemunduran .
+sentence 3: hancur dan hilangnya peranan pase dalam jaringan antar bangsa , yaitu ketika suatu pusat kekuasan baru muncul di ujung barat pulau sumatera , yakni kerajaan aceh darussalam pada abad ke-16 .
+sentence 4: pasai ditaklukan dan dimasukkan ke dalam wilayah kekuasaan kerajaan aceh darussalam oleh sultan ali mughayat syah dan lonceng cakra donya hadiah dari raja cina untuk kerajaan islam samudera pasai dipindahkan ke aceh darussalam ( sekarang banda aceh ) .
+sentence 5: namun demikian , dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudera pasai muncul dan berkembang .
+passage 16 score = 6.5
+sentence 1: namun demikian , dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudera pasai muncul dan berkembang .
+sentence 2: runtuhnya kekuatan kerajaan pasai sangat berkaitan dengan perkembangan yang terjadi di luar pasai itu sendiri .
+sentence 3: walaupun kerajan islam samudera pasai berhasil ditaklukan oleh sultan asli mughayat syah , namun peninggalan dari kerajaan ini masih banyak dijumpai sampai saat ini .
+sentence 4: pada 1913 dan 1915 , j.j. de vink bangsa belanda telah mengadakan inventarisasi di bekas peninggalan kerajaan islam samudera pasai .
+sentence 5: dan pada 1937 , beberapa makam di samudera pasai dipugar oleh pemerintah belanda .
+passage 17 score = 6.5
+sentence 1: dan pada 1937 , beberapa makam di samudera pasai dipugar oleh pemerintah belanda .
+sentence 2: kemudian pada 1972 , 1973 , dan 1976 .
+sentence 3: peninggalan kerajaan samudera pasai di kecamatan samudera geudong kabupaten aceh utara telah diinventarisasi oleh direktur jendral kebudayaan departemen pendidikan dan kebudayaan milik pemerintah republik indonesia .
+sentence 4: pada umumnya , tulisan pada makam tersebut belum diteliti seluruhnya dan hal ini perlu penelitian lebih lanjut oleh generasi pada masa sekarang .
+sentence 5: berbagai peninggalan sejarah berupa situs makam para raja yang hingga saat ini penduduk di sekitar makam sultan malikussaleh sering menemukan mata uang emas ( dirham ) , keramik , dan gelang mata delima yang umumnya ditemukan di sekitar kawasan tersebut .
+passage 3 score = 6.0
+sentence 1: dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+sentence 2: setelah majapahit mengalami kehancuran , samudera pasai tegak kembali .
+sentence 3: keberadaan samudera pasai sampai tahun 1405 masih terdengar diberitakan oleh mohammad cheng ho pemimpin armada cina , yang beragama islam , dan sempat singgah di samudera pasai .
+sentence 4: setelah zainal abidin , kerajaan ini tidak terdengar lagi karena telah tergeser oleh kerajaan malaka .
+sentence 5: perekonomian masyarakat samudera pasai tergantung dari perdagangan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+title : sejarah kerajaan samudera pasai
+passage 8 score = 8.166666666666668
+sentence 1: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+sentence 2: sosial ekonomi masyarakat kerajaan samudera pasai menurunnya peranan kerajaan sriwijaya di selat malaka bersamaan dengan berdirinya kerajaan samudera pasai .
+sentence 3: di bawah kekuasaan samudera pasai , jalur perdagangan di selat malaka berkembang pesat .
+sentence 4: banyak pedagang-pedagang dari arab , persia dan gujarat yang berlabuh di pidie , perlak , dan pasai .
+sentence 5: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+passage 9 score = 8.166666666666668
+sentence 1: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+sentence 2: walau demikian samudera pasai diberi keleluasan untuk tetap menguasai perdagangan di selat malaka .
+sentence 3: belakangan diketahui bahwa sebagian wilayah dari kerajaan majapahit sudah memeluk agama islam .
+sentence 4: karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada abad ke-14 dapat dipanen dua kali setahun , berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+sentence 5: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+passage 1 score = 7.833333333333333
+sentence 1: sejarah kerajaan samudera pasai - kerajaan samudera pasai dalam sejarah indonesia tercatat sebagai kerajaan islam yang pertama di indonesia .
+sentence 2: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+sentence 3: kerajaan samudera pasai terletak di sebelah utara perlak di daerah lhok seumawe sekarang ( pantai timur aceh ) , berbatasan langsung dengan selat malaka .
+sentence 4: pada tahun 1297 m , sultan malik al-saleh wafat , kemudian kerajaan samudera pasai dipimpin oleh putranya yang bernama sultan malik al-tahir ( 1297-1326 ) .
+sentence 5: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+passage 2 score = 7.833333333333333
+sentence 1: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+sentence 2: mengenai pribadi sultan ini , ibnu batutah ( pengembara dari maroko ) yang pernah singgah di samudera pasai pada tahun 1345 dan 1346 mengatakan bahwa sultan malik al-zahir adalah seorang sultan yang taat pada agama dan menganut ma hab syafi i. pada masa pemerintahan malik al-zahir terdapat orang persia yang menjadi pejabat istana .
+sentence 3: pada tahun 1348 , sultan malik al-zahir wafat , kemudian takhta kerajaan dipegang oleh zainal abidin .
+sentence 4: pada masa zainal abidin inilah , majapahit berhasil menguasai samudera pasai .
+sentence 5: dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+passage 7 score = 7.833333333333333
+sentence 1: sultan malikul zahir , meninggal tahun 1326 3 .
+sentence 2: sultan muhammad , wafat tahun 1354 4 .
+sentence 3: sultan ahmad malikul zahir atau al malik jamaluddin , meninggal tahun 1383 5 .
+sentence 4: sultan zainal abidin , meninggal tahun 1405 6 .
+sentence 5: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+passage 14 score = 6.5
+sentence 1: ia diundang ke istana dan bertemu dengan sultan muhammad , cucu malik as-saleh .
+sentence 2: setelah setahun di pasai , batutah segera melanjutkan pelayarannya ke cina , dan kembali ke samudera pasai lagi pada 1347 .
+sentence 3: bukti lain dari keberadaan pasai adalah ditemukannya mata uang dirham sebagai alat tukar dagang .
+sentence 4: pada mata uang ini , tertulis nama para sultan yang memerintah kerajaan .
+sentence 5: nama-nama sultan ( memerintah dari abad ke-14 hingga 15 ) yang tercetak pada mata uang tersebut di antaranya sultan alauddin , mansur malik zahir , abu zaid malik zahir , muhammad malik zahir , ahmad malik zahir , dan abdullah malik zahir .
+passage 15 score = 6.5
+sentence 1: nama-nama sultan ( memerintah dari abad ke-14 hingga 15 ) yang tercetak pada mata uang tersebut di antaranya sultan alauddin , mansur malik zahir , abu zaid malik zahir , muhammad malik zahir , ahmad malik zahir , dan abdullah malik zahir .
+sentence 2: dengan munculnya pusat politik dan perdagangan baru di malaka pada abad ke-15 merupakan faktor yang menyebabkan kerajaan samudera pasai mengalami kemunduran .
+sentence 3: hancur dan hilangnya peranan pase dalam jaringan antar bangsa , yaitu ketika suatu pusat kekuasan baru muncul di ujung barat pulau sumatera , yakni kerajaan aceh darussalam pada abad ke-16 .
+sentence 4: pasai ditaklukan dan dimasukkan ke dalam wilayah kekuasaan kerajaan aceh darussalam oleh sultan ali mughayat syah dan lonceng cakra donya hadiah dari raja cina untuk kerajaan islam samudera pasai dipindahkan ke aceh darussalam ( sekarang banda aceh ) .
+sentence 5: namun demikian , dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudera pasai muncul dan berkembang .
+passage 16 score = 6.5
+sentence 1: namun demikian , dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudera pasai muncul dan berkembang .
+sentence 2: runtuhnya kekuatan kerajaan pasai sangat berkaitan dengan perkembangan yang terjadi di luar pasai itu sendiri .
+sentence 3: walaupun kerajan islam samudera pasai berhasil ditaklukan oleh sultan asli mughayat syah , namun peninggalan dari kerajaan ini masih banyak dijumpai sampai saat ini .
+sentence 4: pada 1913 dan 1915 , j.j. de vink bangsa belanda telah mengadakan inventarisasi di bekas peninggalan kerajaan islam samudera pasai .
+sentence 5: dan pada 1937 , beberapa makam di samudera pasai dipugar oleh pemerintah belanda .
+passage 17 score = 6.5
+sentence 1: dan pada 1937 , beberapa makam di samudera pasai dipugar oleh pemerintah belanda .
+sentence 2: kemudian pada 1972 , 1973 , dan 1976 .
+sentence 3: peninggalan kerajaan samudera pasai di kecamatan samudera geudong kabupaten aceh utara telah diinventarisasi oleh direktur jendral kebudayaan departemen pendidikan dan kebudayaan milik pemerintah republik indonesia .
+sentence 4: pada umumnya , tulisan pada makam tersebut belum diteliti seluruhnya dan hal ini perlu penelitian lebih lanjut oleh generasi pada masa sekarang .
+sentence 5: berbagai peninggalan sejarah berupa situs makam para raja yang hingga saat ini penduduk di sekitar makam sultan malikussaleh sering menemukan mata uang emas ( dirham ) , keramik , dan gelang mata delima yang umumnya ditemukan di sekitar kawasan tersebut .
+passage 3 score = 6.0
+sentence 1: dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+sentence 2: setelah majapahit mengalami kehancuran , samudera pasai tegak kembali .
+sentence 3: keberadaan samudera pasai sampai tahun 1405 masih terdengar diberitakan oleh mohammad cheng ho pemimpin armada cina , yang beragama islam , dan sempat singgah di samudera pasai .
+sentence 4: setelah zainal abidin , kerajaan ini tidak terdengar lagi karena telah tergeser oleh kerajaan malaka .
+sentence 5: perekonomian masyarakat samudera pasai tergantung dari perdagangan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok389.txt
+title : kerajaan singasari
+passage 1 score = 6.5
+sentence 1: kerajaan singhasari atau sering pula ditulis singasari , adalah sebuah kerajaan di jawa timur yang didirikan oleh ken arok pada tahun 1222 .
+sentence 2: lokasi kerajaan ini sekarang diperkirakan berada di daerah singosari , malang .
+sentence 3: berdasarkan prasasti kudadu , nama resmi kerajaan singhasari yang sesungguhnya ialah kerajaan tumapel .
+sentence 4: menurut nagarakretagama , ketika pertama kali didirikan tahun 1222 , ibu kota kerajaan tumapel bernama kutaraja .
+sentence 5: pada tahun 1254 , raja wisnuwardhana mengangkat putranya yang bernama kertanagara sebagai yuwaraja dan mengganti nama ibu kota menjadi singhasari .
+passage 6 score = 6.5
+sentence 1: terdapat perbedaan antara pararaton dan nagarakretagama dalam menyebutkan urutan raja-raja singhasari .
+sentence 2: raja-raja tumapel versi pararaton adalah : 1 .
+sentence 3: ken arok alias rajasa sang amurwabhumi ( 1222 - 1247 ) 2 .
+sentence 4: anusapati ( 1247 - 1249 ) 3 .
+sentence 5: tohjaya ( 1249 - 1250 ) 4 .
+passage 7 score = 6.5
+sentence 1: tohjaya ( 1249 - 1250 ) 4 .
+sentence 2: ranggawuni alias wisnuwardhana ( 1250 - 1272 ) 5 .
+sentence 3: kertanagara ( 1272 - 1292 ) raja-raja tumapel versi nagarakretagama adalah : 1 .
+sentence 4: rangga rajasa sang girinathaputra ( 1222 - 1227 ) 2 .
+sentence 5: anusapati ( 1227 - 1248 ) 3 .
+passage 8 score = 6.5
+sentence 1: anusapati ( 1227 - 1248 ) 3 .
+sentence 2: wisnuwardhana ( 1248 - 1254 ) 4 .
+sentence 3: kertanagara ( 1254 - 1292 ) kisah suksesi raja-raja tumapel versi pararaton diwarnai pertumpahan darah yang dilatari balas dendam .
+sentence 4: ken arok mati dibunuh anusapati ( anak tirinya ) .
+sentence 5: anusapati mati dibunuh tohjaya ( anak ken arok dari selir ) .
+passage 11 score = 6.5
+sentence 1: hal ini memperkuat kebenaran berita dalam nagarakretagama .
+sentence 2: prasasti tersebut dikeluarkan oleh kertanagara tahun 1255 selaku raja bawahan di kadiri .
+sentence 3: jadi , pemberitaan kalau kertanagara naik takhta tahun 1254 perlu dibetulkan .
+sentence 4: yang benar adalah , kertanagara menjadi raja muda di kadiri dahulu .
+sentence 5: baru pada tahun 1268 , ia bertakhta di singhasari .
+passage 15 score = 6.5
+sentence 1: kertanagara adalah raja terakhir dan raja terbesar dalam sejarah singhasari ( 1268 - 1292 ) .
+sentence 2: ia adalah raja pertama yang mengalihkan wawasannya ke luar jawa .
+sentence 3: pada tahun 1275 ia mengirim pasukan ekspedisi pamalayu untuk menjadikan pulau sumatra sebagai benteng pertahanan dalam menghadapi ekspansi bangsamongol .
+sentence 4: saat itu penguasa pulau sumatra adalah kerajaan dharmasraya ( kelanjutan dari kerajaan malayu ) .
+sentence 5: kerajaan ini akhirnya tunduk dengan ditemukannya bukti arca amoghapasa yang dikirim kertanagara sebagai tanda persahabatan kedua negara .
+passage 16 score = 6.5
+sentence 1: kerajaan ini akhirnya tunduk dengan ditemukannya bukti arca amoghapasa yang dikirim kertanagara sebagai tanda persahabatan kedua negara .
+sentence 2: pada tahun 1284 , kertanagara juga mengadakan ekspedisi menaklukkan bali .
+sentence 3: pada tahun 1289 kaisar kubilai khan mengirim utusan ke singhasari meminta agar jawa mengakui kedaulatan mongol .
+sentence 4: namun permintaan itu ditolak tegas oleh kertanagara .
+sentence 5: nagarakretagama menyebutkan daerah-daerah bawahan singhasari di luar jawa pada masa kertanagara antara lain , melayu , bali , pahang , gurun , dan bakulapura .
+passage 2 score = 6.0
+sentence 1: pada tahun 1254 , raja wisnuwardhana mengangkat putranya yang bernama kertanagara sebagai yuwaraja dan mengganti nama ibu kota menjadi singhasari .
+sentence 2: nama singhasari yang merupakan nama ibu kota kemudian justru lebih terkenal daripada nama tumapel .
+sentence 3: maka , kerajaan tumapel pun terkenal pula dengan nama kerajaan singhasari .
+sentence 4: nama tumapel juga muncul dalam kronik cina dari dinasti yuan dengan ejaan tu-ma-pan .
+sentence 5: menurut pararaton , tumapel semula hanya sebuah daerah bawahan kerajaan kadiri .
+passage 3 score = 6.0
+sentence 1: menurut pararaton , tumapel semula hanya sebuah daerah bawahan kerajaan kadiri .
+sentence 2: yang menjabat sebagai akuwu ( setara camat ) tumapel saat itu adalah tunggul ametung .
+sentence 3: ia mati dibunuh secara licik oleh pengawalnya sendiri yang bernama ken arok , yang kemudian menjadi akuwu baru .
+sentence 4: tidak hanya itu , ken arok bahkan berniat melepaskan tumapel dari kekuasaan kadiri .
+sentence 5: pada tahun 1222 terjadi perseteruan antara kertajaya raja kadiri melawan kaum brahmana .
+passage 4 score = 6.0
+sentence 1: pada tahun 1222 terjadi perseteruan antara kertajaya raja kadiri melawan kaum brahmana .
+sentence 2: para brahmana lalu menggabungkan diri dengan ken arok yang mengangkat dirinya menjadi raja pertama tumapel bergelar sri rajasa sang amurwabhumi .
+sentence 3: perang melawan kadiri meletus di desa ganter yang dimenangkan oleh pihak tumapel .
+sentence 4: nagarakretagama juga menyebut tahun yang sama untuk pendirian kerajaan tumapel , namun tidak menyebutkan adanya nama ken arok .
+sentence 5: dalam naskah itu , pendiri kerajaan tumapel bernama ranggah rajasa sang girinathaputra yang berhasil mengalahkan kertajaya raja kadiri .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+passage 1 score = 8.166666666666668
+sentence 1: kerajaan majapahit didirikan tahun 1294 oleh raden wijaya yang bergelar kertarajasa jayawardana yang merupakan keturunan ken arok raja singosari .
+sentence 2: raja-raja yang pernah memerintah kerajaan majapahit : raden wijaya 1273 – 1309 jayanegara 1309-1328 tribhuwanatunggaldewi 1328-1350 hayam wuruk 1350-1389 wikramawardana 1389-1429 kertabhumi 1429-1478 kerajaan majapahit ini mencapai puncak kejayaannya di masa pemerintahan raja hayam wuruk ( 1350-1389 ) .
+sentence 3: kebesaran kerajaan ditunjang oleh pertanian sudah teratur , perdagangan lancar dan maju , memiliki armada angkutan laut yang kuat serta dipimpin oleh hayam wuruk dengan patih gajah mada .
+sentence 4: di bawah patih gajah mada majapahit banyak menaklukkan daerah lain .
+sentence 5: dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+passage 2 score = 8.166666666666668
+sentence 1: dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+sentence 2: mpu prapanca dalam bukunya negara kertagama menceritakan tentang zaman gemilang kerajaan di masa hayam wuruk dan juga silsilah raja sebelumnya tahun 1364 gajah mada meninggal disusun oleh hayam wuruk di tahun 1389 dan kerajaan majapahit mulai mengalami kemunduran .
+sentence 3: penyebab kemunduran : majapahit kehilangan tokoh besar seperti hayam wuruk dan gajah mada meletusnya perang paragreg tahun 1401-1406 merupakan perang saudara memperebutkan kekuasaan daerah bawahan mulai melepaskan diri .
+sentence 4: peninggalan kerajaan majapahit : bangunan : candi panataran , sawentar , tiga wangi , muara takus kitab : negara kertagama oleh mpu prapanca , sitosoma oleh mpu tantular yang memuat slogan bhinneka tunggal ika .
+sentence 5: paraton kidung sundayana dan sorandaka r wijaya mendapat wangsit mendirikan kerajaan majapahit .
+passage 22 score = 8.166666666666668
+sentence 1: ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi majapahit tahun 1413 masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari gujarat dan malaka .
+sentence 2: disebutkannya , tahun 1400 masehi saudagar islam dari gujarat dan parsi sudah bermukim di pantai utara jawa .
+sentence 3: salah satunya adalah maulana malik ibrahim yang dimakamkan di pasarean gapura wetan kab .
+sentence 4: gresik dengan angka tahun 12 rabi’ul awwal 882 h atau 8 april 1419 masehi , berarti pada jaman pemerintahan wikramawardhana ( 1389-1429 ) yaitu raja majapahit iv setelah hayam wuruk .
+sentence 5: batu nisan yang berpahat kaligrafi arab itu menurut tjokrosujono ( mantan kepala suaka peninggalan sejarah dan purbakala , mojokerto ) , nisan itu asli bukan buatan baru .
+passage 32 score = 8.166666666666668
+sentence 1: berhenti pemberontakan kuti , tahun 1331 muncul pemberontakan di sadeng dan keta ( daerah besuki ) .
+sentence 2: maka patih majapahit pu naga digantikan patih daha yaitu gajah mada , sehingga pemberontakan dapat ditumpas .
+sentence 3: keberhasilan gajah mada memadamkan pemberontakan sadeng membawanya meraih karier diangkat sebagai mahapatih kerajaan .
+sentence 4: namun pada masa pemerintahan hayam wuruk pada tahun 1350-1389 , berkali-kali sang patih gajah mada – yang juga panglima ahli perang di masa itu – harus menguras energi untuk memadamkan pemberontakan di beberapa daerah .
+sentence 5: pemberontakan ronggolawe sampai serangan kerajaan dhaha , kediri .
+passage 26 score = 7.833333333333333
+sentence 1: menurut babad tanah jawi , putri cempa ( jeumpa , bahasa aceh ) adalah istri prabu brawijaya yang beragama islam .
+sentence 2: dua nisan yang ditemukan dikompleks kekunaan ini berangka tahun 1370 saka ( 1448 masehi ) dan 1313 saka ( 1391 masehi ) .
+sentence 3: dalam legenda rakyat disebutkan dengan memperistri putri cempa itu , sang prabu sebenarnya sudah memeluk agama islam .
+sentence 4: ketika wafat ia dimakamkan secara islam dimakam panjang ( kubur dawa ) .
+sentence 5: dusun unggah-unggahan jarak 300 meter dari makam putri cempa bangsawan islam itu .
+passage 7 score = 7.666666666666667
+sentence 1: sedangkan dibagian depan pintu bergantung sebuah papan kecil dengan tulisan ” lima pedoman ” yang merupakan pedoman suri teladan bagi warga .
+sentence 2: selengkapnya ” ponco waliko ” itu bertuliskan ” kudutrisno marang sepadane urip , ora pareng ngilik sing dudu semestine , ora pareng sepatah nyepatani dan ora pareng eidra hing ubaya ” dikisahkan sajadu pula , petilasan panggung ini sempat dinyatakan tertutup bagi umum pada tahun 1985 hingga 1995 .
+sentence 3: baru setelah itu dibuka lagi untuk umum , sejak dinyatakan dibuka lagi , pintu depan tidak lagi tertutup dan siangpun boleh masuk .
+sentence 4: masa kejayaan majapahit kerajaan majapahit mencapai masa keemasan ketika dipimpin oleh hayam wuruk dengan patihnya gajah mada yang terkenal dengan sumpah palapa .
+sentence 5: majapahit menaklukkan hampir seluruh nusantara dan melebarkan sayapnya hingga ke seluruh asia tenggara .
+passage 33 score = 7.666666666666667
+sentence 1: pemberontakan ronggolawe sampai serangan kerajaan dhaha , kediri .
+sentence 2: bahkan salah satu penyebab kemunduran dan hancurnya kerajaan majapahit adalah ketika meletusnya perang paragreg tahun 1401-1406 merupakan perang saudara memperebutkan kekuasaan , daerah bawahan mulai melepaskan diri dan berkembangnya islam di daerah pesisir kerajaan majapahit yang pernah mengalami masa keemasan dan kejayaan harus runtuh terpecah-pecah setelah kehilangan tokoh besar seperti hayam wuruk dan gajah mada .
+passage 6 score = 6.5
+sentence 1: sampai sekarang , batu tersebut masih ada di dalam , katanya .
+sentence 2: kemudian pada 1964 , dilakukan pemugaran pertama kali oleh ibu sudarijah atau yang dikenal dengan ibu dar moeriar dari surabaya .
+sentence 3: baru pada tahun 1995 dilakukan pemugaran kembali oleh pangdam brawijaya yang saat itu dijabat oleh utomo .
+sentence 4: memasuki kawasan petilasan panggung , terpampang gambar gajah mada tepat disamping pintu masuk .
+sentence 5: sedangkan dibagian depan pintu bergantung sebuah papan kecil dengan tulisan ” lima pedoman ” yang merupakan pedoman suri teladan bagi warga .
+passage 14 score = 6.5
+sentence 1: karena terdesak , prabu brawijaya mengungsi ke ( tanjung ) sengguruh beserta keluarganya diiringi patih gajah mada .
+sentence 2: itu terjadi tahun 1399 saka atau 1477 masehi .
+sentence 3: setelah dinobatkan menjadi sultan demak bergelar “ panembahan jinbun ” , adipati bintara mengutus lembu peteng dan jaran panoleh ke sengguruh meminta sang prabu masuk agama islam .
+sentence 4: tapi beliau tetap menolak .
+sentence 5: akhirnya sengguruh diserbu dan prabu brawijaya lari kepulau bali .
+passage 18 score = 6.5
+sentence 1: sejak itu majapahit telah berhenti sebagai ibu kota kerajaan .
+sentence 2: dengan demikian tak mungkin majapahit runtuh karena serbuan demak .
+sentence 3: sumber sejarah portugis tulisan tome pires juga menyebutkan bahwa kerajaan demak sudah berdiri dijaman pemerintahan girindrawardhana di keling .
+sentence 4: saat itu tuban , gresik , surabaya dan madura serta beberapa kota lain dipesisir utara jawa berada dalam wilayah kerajaan kediri , sehingga tidak mungkin seperti diceritakan dalam babad jawa , raden patah mengumpulkan para bupati itu untuk menggempur majapahit .
+sentence 5: penggubah babad tanah jawi tampaknya mencampur adukkan antara pembentukan kerajaan demak pada tahun 1478 dengan runtuhnya kediri oleh serbuan demak dijaman pemerintahan sultan trenggano 1527 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok268.txt
+title : kehidupan kerajaan-kerajaan islam di indonesia
+passage 4 score = 6.5
+sentence 1: 3 .
+sentence 2: kerajaan aceh kerajaan aceh berdiri dan muncul sebagai kekuatan baru di selat malaka , pada abad ke-16 setelah jatuhnya malaka ke tangan portugis .
+sentence 3: para pedagang islam tidak mengakui kekuasaan portugis di malaka dan segera memindahkan jalur perniagaan ke bandar-bandar lainnya di seluruh nusantara .
+sentence 4: peran malaka sebagai pusat perdagangan internasional digantikan oleh aceh selama beberapa abad .
+sentence 5: di selat malaka , kerajaan aceh bersaing dengan kerajaan johor di semenanjung malaysia .
+passage 7 score = 6.5
+sentence 1: setelah berhasil menaklukkan penguasa-penguasa lokal di jawa timur raja pajang memberikan hadiah kepada dua orang yang berjasa dalam penaklukan-penaklukannya , yaitu ki ageng pamanahan danki ageng panjawi .
+sentence 2: ki ageng pamanahan yang telah berjasa dalam pertempuran melawan aria panangsang , diberi kekuasaan di mataram , sedangkan ki ageng panjawi diberi kekuasaan di pati .
+sentence 3: 6 .
+sentence 4: kerajaan mataram kerajaan mataram didirikan oleh panembahan senopati ing alaga ( sutawijaya ) ( 1584-1601 ) , pada sekitar abad ke-16 .
+sentence 5: pusat kerajaan terletak di yogyakarta .
+passage 9 score = 6.5
+sentence 1: para pelaut belanda melaporkan tentang ekspedisi mataram melawan banten sekitar tahun 1597 yang mengalami kegagalan .
+sentence 2: 7 .
+sentence 3: kerajaan banten sultan pertama kerajaan banten ini adalah sultan hasanuddinyang memerintah tahun 1522-1570 .
+sentence 4: ia adalah putra fatahillah , seorang panglima tentara demak yang pernah diutus oleh sultan trenggana menguasai bandarbandar di jawa barat .
+sentence 5: pada waktu kerajaan demak berkuasa , daerah banten merupakan bagian dari kerajaan demak .
+passage 14 score = 6.5
+sentence 1: kata banjarmasin merupakan paduan dari dua kata , yaitu bandardan masih .
+sentence 2: nama bandar masih diambil dari nama patih masih , seorang perdana menteri kerajaan banjar yang cakap dan berwibawa .
+sentence 3: sebelum menjadi kerajaan islam , kerajaan banjar telah diperintah oleh tujuh orang raja .
+sentence 4: raja pertama ialah pangeran surianata ( 1438-1460 ) dan raja terakhir ialah pangeran tumenggung ( 1588-1595 ) .
+sentence 5: 11 .
+passage 15 score = 6.5
+sentence 1: 11 .
+sentence 2: kerajaan ternate dan tidore masuknya islam ke maluku erat kaitannya dengan kegiatan perdagangan .
+sentence 3: pada abad ke-15 , para pedagang dan ulama dari malaka dan jawa menyebarkan islam ke sana .
+sentence 4: dari sini muncul empat kerajaan islam di maluku yang disebut maluku kie raha ( maluku empat raja ) yaitu kesultanan ternate yang dipimpinsultan zainal abidin ( 1486-1500 ) , kesultanan tidore yang dipimpin olehsultan mansur , kesultanan jailoloyang dipimpin oleh sultan sarajati , dankesultanan bacanyang dipimpin oleh sultan kaicil buko .
+sentence 5: [ gs ]
+passage 2 score = 6.0
+sentence 1: sampai sejauh mana peran kerajaan-kerajaan islam dalam penyebaran agama islam di nusantara ?
+sentence 2: untuk mengetahui jawabannya , simaklah uraian berikut ini .
+sentence 3: 1 .
+sentence 4: kerajaan samudera pasai kerajaan samudera pasai dalam sejarah indonesia tercatat sebagai kerajaan islam yang pertama di indonesia .
+sentence 5: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+passage 3 score = 6.0
+sentence 1: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+sentence 2: kerajaan samudera pasai terletak di sebelah utara perlak di daerah lhok seumawe sekarang ( pantai timur aceh ) , berbatasan langsung dengan selat malaka .
+sentence 3: 2 .
+sentence 4: kerajaan malaka kerajaan malaka sekarang termasuk wilayah negara malaysia , tetapi karena malaka memainkan peranan penting dalam pertumbuhan kerajaankerajaan islam di indonesia maka kerajaan malaka perlu dibahas dalam sejarah islam di indonesia .
+sentence 5: 3 .
+passage 5 score = 6.0
+sentence 1: di selat malaka , kerajaan aceh bersaing dengan kerajaan johor di semenanjung malaysia .
+sentence 2: 4 .
+sentence 3: kerajaan demak kerajaan demak merupakan kerajaan islam yang pertama di pulau jawa .
+sentence 4: kerajaan demak berdiri sekitar abad ke-15 m. pendiri kerajaan ini adalah raden patah , seorang putra raja majapahit kertawijaya yang menikah dengan putri campa .
+sentence 5: secara geografis demak terletak di jawa tengah .
+passage 6 score = 6.0
+sentence 1: secara geografis demak terletak di jawa tengah .
+sentence 2: 5 .
+sentence 3: kerajaan pajang kerajaan pajang yang didirikan oleh sultan adiwijayapada tahun 1568 , tidak berumur panjang .
+sentence 4: kerajaan pajang terus mengadakan ekspansi ke jawa timur .
+sentence 5: setelah berhasil menaklukkan penguasa-penguasa lokal di jawa timur raja pajang memberikan hadiah kepada dua orang yang berjasa dalam penaklukan-penaklukannya , yaitu ki ageng pamanahan danki ageng panjawi .
+passage 8 score = 6.0
+sentence 1: pusat kerajaan terletak di yogyakarta .
+sentence 2: ia mempunyai cita-cita untuk mempersatukan jawa ke dalam pengaruh kekuasaannya .
+sentence 3: untuk itu , ia melakukan perluasan kekuasaan ke wilayah kekuasaan kerajaan mataram daerah demak , madiun , kediri , ponorogo , tuban , dan pasuruan .
+sentence 4: tetapi cita-citanya itu mendapat rintangan dari daerah lainnya dan surabaya tidak dapat ditaklukkan .
+sentence 5: para pelaut belanda melaporkan tentang ekspedisi mataram melawan banten sekitar tahun 1597 yang mengalami kegagalan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok325.txt
+title : sejarah kehidupan kerajaan-kerajaan islam di indonesia
+passage 4 score = 5.5
+sentence 1: 1 .
+sentence 2: kerajaan aceh kerajaan aceh berdiri dan muncul sebagai kekuatan baru di selat malaka , pada abad ke-16 setelah jatuhnya malaka ke tangan portugis .
+sentence 3: para pedagang islam tidak mengakui kekuasaan portugis di malaka dan segera memindahkan jalur perniagaan ke bandar-bandar lainnya di seluruh nusantara .
+sentence 4: peran malaka sebagai pusat perdagangan internasional digantikan oleh aceh selama beberapa abad .
+sentence 5: di selat malaka , kerajaan aceh bersaing dengan kerajaan johor di semenanjung malaysia .
+passage 7 score = 5.5
+sentence 1: setelah berhasil menaklukkan penguasa-penguasa lokal di jawa timur raja pajang memberikan hadiah kepada dua orang yang berjasa dalam penaklukan-penaklukannya , yaitu ki ageng pamanahan danki ageng panjawi .
+sentence 2: ki ageng pamanahan yang telah berjasa dalam pertempuran melawan aria panangsang , diberi kekuasaan di mataram , sedangkan ki ageng panjawi diberi kekuasaan di pati .
+sentence 3: 1 .
+sentence 4: kerajaan mataram kerajaan mataram didirikan oleh panembahan senopati ing alaga ( sutawijaya ) ( 1584-1601 ) , pada sekitar abad ke-16 .
+sentence 5: pusat kerajaan terletak di yogyakarta .
+passage 9 score = 5.5
+sentence 1: para pelaut belanda melaporkan tentang ekspedisi mataram melawan banten sekitar tahun 1597 yang mengalami kegagalan .
+sentence 2: 1 .
+sentence 3: kerajaan banten sultan pertama kerajaan banten ini adalah sultan hasanuddinyang memerintah tahun 1522-1570 .
+sentence 4: ia adalah putra fatahillah , seorang panglima tentara demak yang pernah diutus oleh sultan trenggana menguasai bandarbandar di jawa barat .
+sentence 5: pada waktu kerajaan demak berkuasa , daerah banten merupakan bagian dari kerajaan demak .
+passage 14 score = 5.5
+sentence 1: kata banjarmasin merupakan paduan dari dua kata , yaitu bandardan masih .
+sentence 2: nama bandar masih diambil dari nama patih masih , seorang perdana menteri kerajaan banjar yang cakap dan berwibawa .
+sentence 3: sebelum menjadi kerajaan islam , kerajaan banjar telah diperintah oleh tujuh orang raja .
+sentence 4: raja pertama ialah pangeran surianata ( 1438-1460 ) dan raja terakhir ialah pangeran tumenggung ( 1588-1595 ) .
+sentence 5: 1 .
+passage 15 score = 5.5
+sentence 1: 1 .
+sentence 2: kerajaan ternate dan tidore masuknya islam ke maluku erat kaitannya dengan kegiatan perdagangan .
+sentence 3: pada abad ke-15 , para pedagang dan ulama dari malaka dan jawa menyebarkan islam ke sana .
+sentence 4: dari sini muncul empat kerajaan islam di maluku yang disebut maluku kie raha ( maluku empat raja ) yaitu kesultanan ternate yang dipimpinsultan zainal abidin ( 1486-1500 ) , kesultanan tidore yang dipimpin olehsultan mansur , kesultanan jailoloyang dipimpin oleh sultan sarajati , dankesultanan bacanyang dipimpin oleh sultan kaicil buko .
+sentence 5: [ ps ]
+passage 2 score = 5.0
+sentence 1: sampai sejauh mana peran kerajaan-kerajaan islam dalam penyebaran agama islam di nusantara ?
+sentence 2: untuk mengetahui jawabannya , simaklah uraian berikut ini .
+sentence 3: 1 .
+sentence 4: kerajaan samudera pasai kerajaan samudera pasai dalam sejarah indonesia tercatat sebagai kerajaan islam yang pertama di indonesia .
+sentence 5: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+passage 3 score = 5.0
+sentence 1: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+sentence 2: kerajaan samudera pasai terletak di sebelah utara perlak di daerah lhok seumawe sekarang ( pantai timur aceh ) , berbatasan langsung dengan selat malaka .
+sentence 3: 1 .
+sentence 4: kerajaan malaka kerajaan malaka sekarang termasuk wilayah negara malaysia , tetapi karena malaka memainkan peranan penting dalam pertumbuhan kerajaankerajaan islam di indonesia maka kerajaan malaka perlu dibahas dalam sejarah islam di indonesia .
+sentence 5: 1 .
+passage 5 score = 5.0
+sentence 1: di selat malaka , kerajaan aceh bersaing dengan kerajaan johor di semenanjung malaysia .
+sentence 2: 1 .
+sentence 3: kerajaan demak kerajaan demak merupakan kerajaan islam yang pertama di pulau jawa .
+sentence 4: kerajaan demak berdiri sekitar abad ke-15 m. pendiri kerajaan ini adalah raden patah , seorang putra raja majapahit kertawijaya yang menikah dengan putri campa .
+sentence 5: secara geografis demak terletak di jawa tengah .
+passage 6 score = 5.0
+sentence 1: secara geografis demak terletak di jawa tengah .
+sentence 2: 1 .
+sentence 3: kerajaan pajang kerajaan pajang yang didirikan oleh sultan adiwijayapada tahun 1568 , tidak berumur panjang .
+sentence 4: kerajaan pajang terus mengadakan ekspansi ke jawa timur .
+sentence 5: setelah berhasil menaklukkan penguasa-penguasa lokal di jawa timur raja pajang memberikan hadiah kepada dua orang yang berjasa dalam penaklukan-penaklukannya , yaitu ki ageng pamanahan danki ageng panjawi .
+passage 8 score = 5.0
+sentence 1: pusat kerajaan terletak di yogyakarta .
+sentence 2: ia mempunyai cita-cita untuk mempersatukan jawa ke dalam pengaruh kekuasaannya .
+sentence 3: untuk itu , ia melakukan perluasan kekuasaan ke wilayah kekuasaan kerajaan mataram daerah demak , madiun , kediri , ponorogo , tuban , dan pasuruan .
+sentence 4: tetapi cita-citanya itu mendapat rintangan dari daerah lainnya dan surabaya tidak dapat ditaklukkan .
+sentence 5: para pelaut belanda melaporkan tentang ekspedisi mataram melawan banten sekitar tahun 1597 yang mengalami kegagalan .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 13 score = 7.5
+sentence 1: selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan .
+sentence 2: 4 ) hayam wuruk ( 1350 – 1389 ) pada tahun 1350 gayatri wafat sehingga tribhuanatunggadewi turun takhta dan digantikan oleh putranya , yakni hayam wuruk dengan gelar rajasanegara .
+sentence 3: pada masa pemerintahannya bersama patih gajah mada , kerajaan majapahit mencapai masa kejayaannya .
+sentence 4: pemerintahan terlaksana secara teratur , baik di tingkat pusat ( ibu kota ) , tingkat menengah ( vasal ) , dan tingkat desa .
+sentence 5: sistem pemerintahan daerah ( tingkat menengah dan desa ) tidak berubah , sedangkan di tingkat pusat diatur sebagai berikut : a ) dewan saptap prabu , merupakan penasihat raja yang terdiri atas kerabat keraton dengan jabatan rakryan i hino , rakryan i halu , dan rakryan i sirikan .
+passage 18 score = 7.5
+sentence 1: dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya .
+sentence 2: majapahit juga menjalin hubungan baik dengan negara-negara yang jauh , seperi siam , champa dan cina .
+sentence 3: negara-negara tersebut dianggap sebagai mitreka satata ( negara sahabat yang berkedudukan sama ) .
+sentence 4: hayam wuruk wafat pada tahun 1389 dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( 1389 – 1429 ) .
+sentence 5: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+passage 19 score = 7.166666666666667
+sentence 1: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+sentence 2: akan tetapi , bhre wirabumi menuntut takhta majapahit sehingga menimbulkan perang saudara ( perang peregreg ) tahun1401 – 1406 .
+sentence 3: pada akhirnya bhre wirabhumi kalah dan perang saudara tersebut mengakibatkan lemahnya kekuasaan majapahit .
+sentence 4: setelah wikramawardhana meninggal ( 1429 ) takhtanya digantikan oleh suhita yang memerintah hingga 1447 .
+sentence 5: sampai dengan akhir abad ke-15 masih ada raja-raja yang memerintah sebagai keturunan majapahit , namun telah suram karena tidak ada persatuan dan kesatuan sehingga daerah-daerah jajahan satu demi satu melepaskan diri .
+passage 26 score = 7.166666666666667
+sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
+sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
+sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+passage 27 score = 7.166666666666667
+sentence 1: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+sentence 2: kerajaan majapahit mencapai puncak kejayaannya pada masa pemerintahan hayam wuruk .
+sentence 3: wilayah kekuasaan majapahit meliputi seluruh nusantara .
+sentence 4: pada saat itulah cita-cita gajah mada dengan sumpah palapa berhasil diwujudkan .
+sentence 5: usaha gajah mada dalam melaksanakan politiknya , berakhir pada tahun 1357 dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
+passage 29 score = 7.166666666666667
+sentence 1: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
+sentence 2: pada tahun 1364 m , gajah mada meninggal dunia .
+sentence 3: hal itu merupakan kehilangan yang sangat besar bagi majapahit .
+sentence 4: kemudian pada tahun 1389 raja hayam wuruk meninggal dunia .
+sentence 5: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+passage 30 score = 7.166666666666667
+sentence 1: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+sentence 2: setelah hayam wuruk meninggal , takhta kerajaan majapahit diduduki oleh wikramawardhana .
+sentence 3: ia adalah menantu hayam wuruk yang menikah dengan putrinya yang bernama kusumawardhani .
+sentence 4: ia memerintah kerajaan majapahit selama dua belas tahun .
+sentence 5: pada tahun 1401 mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
+passage 31 score = 7.166666666666667
+sentence 1: pada tahun 1401 mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
+sentence 2: bhre wirabhumi adalah anak hayam wuruk dari istri selirnya .
+sentence 3: kemudian meletuslah perang saudara , yang dikenal dengan nama perang paregreg , yang berhasil dimenangkan oleh wikramawardhana .
+sentence 4: tetapi , pertentangan antarkeluarga ini belum reda dan menimbulkan perasaan balas dendam .
+sentence 5: pada tahun 1429 m , wikramawardhana meninggal dunia .
+passage 33 score = 7.166666666666667
+sentence 1: selain itu , keruntuhan majapahit disebabkan karena serangan dari kerajaan islam demak .
+sentence 2: antara tahun 1518 dan 1521 , kekuasaan kerajaan majapahit telah beralih dari tangan penguasa hindu ke tangan adipati unus penguasa dari demak .
+sentence 3: demikianlah riwayat dari kerajaan majapahit yang merupakan suatu kerajaan besar di nusantara .
+sentence 4: b. kehidupan ekonomi kerajaan majapahit di bidang ekonomi , hayam wuruk menaruh perhatian pada pertanian dan perdagangan dengan menjadikan tuban sebagai salah satu pusat perdagangan majapahit .
+sentence 5: berdasarkan berita cina bernama wng ta-yuan yang menggambarkan pulau jawa yang padat penduduknya , tanahnya subur dan banyak menghasilkan padi , lada , garam , kain , dan burung kakatua yang semuanya merupakan barang ekspor .
+passage 40 score = 7.166666666666667
+sentence 1: ( 7 ) kitab tantu panggelaran , tentang pemindahan gunung mahameru ke pulau jawa oleh dewa brahma , wisnu , dan siwa .
+sentence 2: d. kehidupan hukum kerajaan majapahit majapahit di masa pemerintahan hayam wuruk dan patih gajah mada , telah diciptakan hukum/perundangan-undangan majapahit .
+sentence 3: kitab hukum/perundangan-undangan majapahit ini disebut kutaramanawa yang termuat dalam dua piagam , yakni piagam bendasari ( tidak bertarihk ) dan piagam trowulan ( bertarihk 1358 ) .
+sentence 4: kitab kutaramanawa terdiri atas 275 pasal , namun dalam terjemahannya hanya disajikan 272 pasal karena satu pasal rusak dan yang dua lainnya merupakan ulangan pasal yang sejenis .
+sentence 5: kitab perundang-undangan ini meliputi hukum pidana dan perdata dan disusun dalam 20 ( dua puluh ) bab .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+title : sejarah kerajaan majapahit (politik ekonomi sosial budaya dan sumber sejarah)
+passage 13 score = 7.5
+sentence 1: selanjutnya , satu per satu kerajaan-kerajaan di nusantara berhasil dipersatukan .
+sentence 2: 4 ) hayam wuruk ( 1350 – 1389 ) pada tahun 1350 gayatri wafat sehingga tribhuanatunggadewi turun takhta dan digantikan oleh putranya , yakni hayam wuruk dengan gelar rajasanegara .
+sentence 3: pada masa pemerintahannya bersama patih gajah mada , kerajaan majapahit mencapai masa kejayaannya .
+sentence 4: pemerintahan terlaksana secara teratur , baik di tingkat pusat ( ibu kota ) , tingkat menengah ( vasal ) , dan tingkat desa .
+sentence 5: sistem pemerintahan daerah ( tingkat menengah dan desa ) tidak berubah , sedangkan di tingkat pusat diatur sebagai berikut : a ) dewan saptap prabu , merupakan penasihat raja yang terdiri atas kerabat keraton dengan jabatan rakryan i hino , rakryan i halu , dan rakryan i sirikan .
+passage 18 score = 7.5
+sentence 1: dalam kitab negarakrtagama secara jelas disebutkan daerah-daearah yang masuk wilayah kekuasaan majapahit ialah jawa , sumatra , tanjungpura ( kalimantan ) , nusa tenggara , sulawesi , maluku , papua , semenanjung malaka , dan daerah-daerah pulau di sekitarnya .
+sentence 2: majapahit juga menjalin hubungan baik dengan negara-negara yang jauh , seperi siam , champa dan cina .
+sentence 3: negara-negara tersebut dianggap sebagai mitreka satata ( negara sahabat yang berkedudukan sama ) .
+sentence 4: hayam wuruk wafat pada tahun 1389 dan digantikan oleh putrinya dyah kusumawardhani yang didampingi oleh suaminya wikramawardhana ( 1389 – 1429 ) .
+sentence 5: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+passage 19 score = 7.166666666666667
+sentence 1: hayam wuruk dengan isteri selir mempunyai anak bhre wirabhumi yang telah diberi kekuasaan sebagai penguasa daerah ( bupati ) di blambangan .
+sentence 2: akan tetapi , bhre wirabumi menuntut takhta majapahit sehingga menimbulkan perang saudara ( perang peregreg ) tahun1401 – 1406 .
+sentence 3: pada akhirnya bhre wirabhumi kalah dan perang saudara tersebut mengakibatkan lemahnya kekuasaan majapahit .
+sentence 4: setelah wikramawardhana meninggal ( 1429 ) takhtanya digantikan oleh suhita yang memerintah hingga 1447 .
+sentence 5: sampai dengan akhir abad ke-15 masih ada raja-raja yang memerintah sebagai keturunan majapahit , namun telah suram karena tidak ada persatuan dan kesatuan sehingga daerah-daerah jajahan satu demi satu melepaskan diri .
+passage 26 score = 7.166666666666667
+sentence 1: dalam rangka mewujudkan cita-citanya , gajah mada menaklukkan bali pada tahun 1334 , kemudian kalimantan , nusa tenggara , sulawesi , maluku , sumatera , dan beberapa daerah di semenanjung malaka .
+sentence 2: seperti yang tercantum dalam kitab negarakertagama , wilayah kekuasaan kerajaan majapahit sangat luas , yakni meliputi daerah hampir seluas wilayah republik indonesia sekarang .
+sentence 3: tribhuanatunggadewi memerintah selama dua puluh dua tahun .
+sentence 4: pada tahun 1350 , ia mengundurkan diri dari pemerintahan dan digantikan oleh putranya yang bernama hayam wuruk .
+sentence 5: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+passage 27 score = 7.166666666666667
+sentence 1: pada tahun 1350 m , putra mahkota hayam wuruk dinobatkan menjadi raja majapahit dengan gelar sri rajasanagara dan ia didampingi oleh mahapatih gajah mada .
+sentence 2: kerajaan majapahit mencapai puncak kejayaannya pada masa pemerintahan hayam wuruk .
+sentence 3: wilayah kekuasaan majapahit meliputi seluruh nusantara .
+sentence 4: pada saat itulah cita-cita gajah mada dengan sumpah palapa berhasil diwujudkan .
+sentence 5: usaha gajah mada dalam melaksanakan politiknya , berakhir pada tahun 1357 dengan terjadinya peristiwa di bubat , yaitu perang antara pajajaran dengan majapahit .
+passage 29 score = 7.166666666666667
+sentence 1: para pembesar kerajaan pajajaran tidak setuju , akhirnya terjadilah peperangan di bubat yang menyebabkan semua rombongan kerajaan pajajaran gugur .
+sentence 2: pada tahun 1364 m , gajah mada meninggal dunia .
+sentence 3: hal itu merupakan kehilangan yang sangat besar bagi majapahit .
+sentence 4: kemudian pada tahun 1389 raja hayam wuruk meninggal dunia .
+sentence 5: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+passage 30 score = 7.166666666666667
+sentence 1: hal ini menjadi salah satu penyebab surutnya kebesaran kerajaan majapahit di samping terjadinya pertentangan yang berkembang menjadi perang saudara .
+sentence 2: setelah hayam wuruk meninggal , takhta kerajaan majapahit diduduki oleh wikramawardhana .
+sentence 3: ia adalah menantu hayam wuruk yang menikah dengan putrinya yang bernama kusumawardhani .
+sentence 4: ia memerintah kerajaan majapahit selama dua belas tahun .
+sentence 5: pada tahun 1401 mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
+passage 31 score = 7.166666666666667
+sentence 1: pada tahun 1401 mulai timbul persengketaan antara wikramawardhana dengan bhre wirabhumi .
+sentence 2: bhre wirabhumi adalah anak hayam wuruk dari istri selirnya .
+sentence 3: kemudian meletuslah perang saudara , yang dikenal dengan nama perang paregreg , yang berhasil dimenangkan oleh wikramawardhana .
+sentence 4: tetapi , pertentangan antarkeluarga ini belum reda dan menimbulkan perasaan balas dendam .
+sentence 5: pada tahun 1429 m , wikramawardhana meninggal dunia .
+passage 33 score = 7.166666666666667
+sentence 1: selain itu , keruntuhan majapahit disebabkan karena serangan dari kerajaan islam demak .
+sentence 2: antara tahun 1518 dan 1521 , kekuasaan kerajaan majapahit telah beralih dari tangan penguasa hindu ke tangan adipati unus penguasa dari demak .
+sentence 3: demikianlah riwayat dari kerajaan majapahit yang merupakan suatu kerajaan besar di nusantara .
+sentence 4: b. kehidupan ekonomi kerajaan majapahit di bidang ekonomi , hayam wuruk menaruh perhatian pada pertanian dan perdagangan dengan menjadikan tuban sebagai salah satu pusat perdagangan majapahit .
+sentence 5: berdasarkan berita cina bernama wng ta-yuan yang menggambarkan pulau jawa yang padat penduduknya , tanahnya subur dan banyak menghasilkan padi , lada , garam , kain , dan burung kakatua yang semuanya merupakan barang ekspor .
+passage 40 score = 7.166666666666667
+sentence 1: ( 7 ) kitab tantu panggelaran , tentang pemindahan gunung mahameru ke pulau jawa oleh dewa brahma , wisnu , dan siwa .
+sentence 2: d. kehidupan hukum kerajaan majapahit majapahit di masa pemerintahan hayam wuruk dan patih gajah mada , telah diciptakan hukum/perundangan-undangan majapahit .
+sentence 3: kitab hukum/perundangan-undangan majapahit ini disebut kutaramanawa yang termuat dalam dua piagam , yakni piagam bendasari ( tidak bertarihk ) dan piagam trowulan ( bertarihk 1358 ) .
+sentence 4: kitab kutaramanawa terdiri atas 275 pasal , namun dalam terjemahannya hanya disajikan 272 pasal karena satu pasal rusak dan yang dua lainnya merupakan ulangan pasal yang sejenis .
+sentence 5: kitab perundang-undangan ini meliputi hukum pidana dan perdata dan disusun dalam 20 ( dua puluh ) bab .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok388.txt
+title : kerajaan samudra pasai
+passage 2 score = 5.5
+sentence 1: aceh utara provinsi aceh .
+sentence 2: wilayah kekuasaan kesultanan pase ( pasai ) pada masa kejayaannya sekitar abad ke 14 terletak di daerah yang diapit oleh dua sungai besar di pantai utara aceh , yaitu sungai peusangan dan sungai jambo aye , jelasnya kerajaan samudra pasai adalah daerah aliran sungai yang hulunya berasal jauh ke pedalaman daratan tinggi gayo kab .
+sentence 3: aceh tengah .
+sentence 4: karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada abad ke 14 dapat dipanen dua kali setahun , dalam berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+sentence 5: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+passage 3 score = 5.5
+sentence 1: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+sentence 2: hubungan perdagangan penduduk pesisir dengan penduduk pedalaman adalah dengan sistem barter dengan munculnya pusat politik dan perdagangan baru di malaka pada abad ke 15 adalah faktor yang menyebabkan kerajaan samudra pasai mengalami kemunduran .
+sentence 3: hancur dan hilangnya peranan pase dalam jaringan antar bangsa , yaitu ketika suatu pusat kekuasan baru muncul di ujung barat pulau sumatera yakni kerajaan aceh darussalam pada abad ke 16 .
+sentence 4: pasai ditaklukan dan di masukkan ke dalam wilayah kekuasaan kerajaan aceh darussalam oleh sultan ali mughayat syah dan lonceng cakra donya hadiah dari raja cina untuk kerajaan islam samudra pasai dipindahkan ke aceh darussalam ( sekarang banda aceh ) .
+sentence 5: namun demikian dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudra pasai muncul dan berkembang .
+passage 4 score = 5.5
+sentence 1: namun demikian dari perjalanan sejarah pasai antara akhir abad ke 13 sampai awal abad ke 16 memang menunjukkan kerajaan samudra pasai muncul dan berkembang .
+sentence 2: runtuhnya kekuatan kerajaan pasai sangat berkaitan dengan perkembangan yang terjadi di luar pasai itu sendiri , tetapi lebih di titik beratkan dalam kesatuan zona selat malaka walaupun kerajan islam samudra pasai berhasil ditaklukan oleh sultan asli mughayat syah , namun peninggalan dari kerajaan ini masih banyak dijumpai sampai saat ini di abad ke 21 .
+sentence 3: pada tahun 1913 , 1915 , j.j. de vink bangsa belanda telah mengadakan inventarisasi di bekas peninggalan kerajaan islam samudra pasai dan pada tahun 1937 di pugar beberapa makam di samudra pasai oleh pemerintah belanda kemudian pada tahun 1972,1973 dan tahun 1976 peninggalan kerajaan samudra pasai di kec .
+sentence 4: samudera geudong kabupaten aceh utara telah di inventarisasi oleh direktur jendral kebudayaan departemen pendidikan dan kebudayaan milik pemerintah republik indonesia .
+sentence 5: pada umumnya tulisan pada makam tersebut belum diteliti seluruhnmya dan hal ini perlu penelitian lebih lanjut oleh generasi sekarang .
+passage 1 score = 5.0
+sentence 1: kerajaan samudra pasai muncul pada abad ke 13 masehi ketika kerajaan sriwijaya hancur .
+sentence 2: kerajaan ini didirikan oleh malikussaleh , merupakan kerajaan yang kaya dengan penduduknya yang banyak .
+sentence 3: kota kerajaan di sebut pasai , sekarang ini letaknya di desa beuringen kec .
+sentence 4: samudera geudong kab .
+sentence 5: aceh utara provinsi aceh .
+passage 5 score = 0.0
+sentence 1: pada umumnya tulisan pada makam tersebut belum diteliti seluruhnmya dan hal ini perlu penelitian lebih lanjut oleh generasi sekarang .
+sentence 2: berbagai peninggalan sejarah berupa situs makam para raja yang hingga saat ini penduduk disekitar makam sultan malikussaleh sering mendapat mata uang emas ( dirham ) keramik , gelang mata delima yang umumnya ditemukan oleh petani tebat , saat meraka menggali tebat di sekitar kawasan tersebut .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+title : tokoh penyebar islam di indonesia
+passage 8 score = 6.833333333333333
+sentence 1: ia memperkenalkan budi pekerti yang diajarkan islam dengan tutur kata yang sopan , lemah lembut sehingga banyak penduduk jawa yang tertarik memeluk agama islam .
+sentence 2: maulana malik ibrahim wafat pada tanggal 12 rabiul awal 822 hijriah atau 9 april 1419 m dan dimakamkan di gresik .
+sentence 3: b. sunan ampel sunan ampel nama aslinya raden rahmat , seorang kemenakan dari raja majapahit kertawijaya .
+sentence 4: menurut cerita rakyat , ia berasal dari campa .
+sentence 5: mengenai campa ini ada dua pendapat , pertama champa di indochina , kedua jeumpa di aceh .
+passage 12 score = 6.833333333333333
+sentence 1: dialah yang melantik raden patah sebagai sultan demak yang pertama tahun 1403 saka ( 1481 m ) .
+sentence 2: pada tahun 900 hijriyah ( 1494 m ) , sunan ampel wafat .
+sentence 3: jena ahnya dimakamkan di ampeldenta , surabaya .
+sentence 4: c. sunan bonang sunan bonang atau makhdum ibrahim lahir pada tahun 1450 m. ia adalah putra sunan ampel dari istrinya yang bernama nyi ageng manila , putri seorang adipati di tuban .
+sentence 5: sunan bonang belajar agama dari pesantren ayahnya di ampeldenta .
+passage 33 score = 6.833333333333333
+sentence 1: ia dikenal sebagai pribadi yang mampu memecahkan berbagai masalah betapa pun rumitnya .
+sentence 2: solusi pemecahannya pun selalu dapat diterima oleh semua pihak yang berseteru .
+sentence 3: beliau wafat pada tahun 1560 m dan dimakamkan di atas gunung muria .
+sentence 4: i. sunan gunung jati sunan gunung jati atau syarif hidayatullah lebih dikenal dengan nama sunan gunung jati karena pusat kegiatan dakwahnya berada di daerah gunung jati , cirebon , jawa barat .
+sentence 5: pada tahun 1570 m , sunan gunung jati wafat dan dimakamkan di gunung jati , cirebon .
+passage 16 score = 6.333333333333333
+sentence 1: ajarannya berintikan pada filsafat isyq ( cinta ) .
+sentence 2: menurut bonang , cinta sama dengan iman , pengetahuan , dan kepatuhan kepada allah swt atau haq al yaqqin .
+sentence 3: ajaran tersebut disampaikan secara populer melalui media kesenian .
+sentence 4: pada tahun 1525 m , sunan bonang wafat dan dimakamkan di daerah tuban .
+sentence 5: d. sunan derajat sunan derajat nama sebenarnya adalah masih munat , putra dari sunan ampel , saudara dari sunan bonang .
+passage 19 score = 6.333333333333333
+sentence 1: dialah wali yang memelopori penyantunan anak-anak yatim , fakir miskin , dan orang sakit .
+sentence 2: sunan derajat wafat pada pertengahan abad ke-15 dan dimakamkan di sedayu , gresik ( jawa timur ) .
+sentence 3: e. sunan giri sunan giri atau raden paku .
+sentence 4: ia adalah putra dari maulana ishak dari blambangan , yang juga sahabat sunan ampel .
+sentence 5: raden paku bersahabat dengan makhdum ibrahim , dan keduanya oleh sunan ampel disuruh pergi haji ke mekkah sambil menuntut ilmu .
+passage 23 score = 6.333333333333333
+sentence 1: gending pucung yang bernuansa jawa namun syarat dengan ajaran islam adalah salah satu karya sunan giri .
+sentence 2: sunan giri wafat pada tahun 1600 m dan dimakamkan di atas bukit giri , dekat gresik .
+sentence 3: f. sunan kalijaga sunan kalijaga atau raden jaka said .
+sentence 4: ia adalah putra seorang adipati tuban yang bernama tumenggung wilatikta .
+sentence 5: sejak kecil , dalam diri raden jaka said sudah tampak jiwa luhur yang ditandai dengan selalu taat kepada agama dan berbakti kepada orang tua , serta mempunyai sikap welas asih kepada semua orang .
+passage 25 score = 6.333333333333333
+sentence 1: kisah mahabharata yang melandasi cerita wayang disesuaikan agar tidak bertentangan dengan ajaran islam .
+sentence 2: penggunaan wayang sebagai alat dakwah ini ternyata memberi kemudahan dalam meluaskan penyebaran islam ke masyarakat .
+sentence 3: sunan kalijaga sebagai mubalig yang ahli seni , ahli filsafat , dan kebudayaan memiliki beberapa karya seni hasil ciptaannya antara lain orang pertama yang merancang baju takwa , menciptakan lagu dandang gula dan semarangan , menciptakan seni ukir bermotif dedaunan , menciptakan bedug di masjid , memprakarsai gerebeg maulud , menciptakan gong sekaten , dan membuat kreasi baru wayang menjadi karikatur , digambar dan diukir pada kulit binatang .
+sentence 4: pada pertengahan abad ke-15 , sunan kalijaga wafat dan di makamkan di daerah kadilangu , dekat demak .
+sentence 5: g. sunan kudus sunan kudus atau jafar sadiq .
+passage 30 score = 6.333333333333333
+sentence 1: dalam bidang kesenian ia dikenal sebagai pencipta gending asmarandana .
+sentence 2: pada tahun 1550 , sunan kudus wafat dan dimakamkan di daerah kudus , jawa tengah .
+sentence 3: h. sunan muria sunan muria atau raden prawoto atau raden umar said , adalah putra sunan kalijaga dari istrinya yang bernama dewi sorah .
+sentence 4: dewi sorah adalah adik kandung sunan giri .
+sentence 5: gaya berdakwah sunan muria seperti ayahnya , sunan kalijaga .
+passage 34 score = 6.333333333333333
+sentence 1: pada tahun 1570 m , sunan gunung jati wafat dan dimakamkan di gunung jati , cirebon .
+sentence 2: setelah walisongo , proses penyebaran agama islam diteruskan oleh para ulama yang peranannya sama dengan para wali .
+sentence 3: para ulama itu tersebar di berbagai pelosok tanah air , antara lain sebagai berikut .
+sentence 4: 1 ) tokoh ulama dari jawa a ) syekh bentong dengan daerah dakwah di gunung lawu b ) sunan bayat yang banyak menyebarkan islam di daerah klaten dan sekitarnya c ) syekh majagung , sunan prapen , dan sunan sendang yang berperan dalam pendidikan pondok pesantren di daerah jawa 2 ) tokoh ulama dari luar jawa a ) datuk ri bandang yang menyebarkan agama islam di daerah makassar b ) datuk sulaeman yang menyebarkan agama islam di daerah sulawesi c ) tuan tunggang parangang dan penghulu demak yang menyebarkan islam di kalimantan .
+passage 9 score = 5.5
+sentence 1: mengenai campa ini ada dua pendapat , pertama champa di indochina , kedua jeumpa di aceh .
+sentence 2: disebutkan ia adalah anak dari raja cempa ibrahim asmarakandi ( maulana malik ibrahim ) yang diutus ke majapahit dan oleh raja majapahit diperkenankan tinggal dan menetap di ampeldenta ( surabaya ) .
+sentence 3: beberapa versi menyatakan bahwa sunan ampel masuk ke pulau jawa pada tahun 1443 m bersama adiknya , sayid ali murtadha .
+sentence 4: tetapi sebelum sampai ke jawa , ia singgah dahulu di palembang , kemudian berlabuh di daerah gresik , dilanjutkan ke majapahit untuk menemui bibinya yang bernama dwarawati , seorang putri campa yang dipersunting raja majapahit yang bergelar prabu sri kertawijaya .
+sentence 5: pada tahun 1450 , raden rahmat menikah dengan nyi ageng manila , putri bupati tuban yang sudah memeluk agama islam .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+passage 8 score = 8.166666666666668
+sentence 1: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+sentence 2: sosial ekonomi masyarakat kerajaan samudera pasai menurunnya peranan kerajaan sriwijaya di selat malaka bersamaan dengan berdirinya kerajaan samudera pasai .
+sentence 3: di bawah kekuasaan samudera pasai , jalur perdagangan di selat malaka berkembang pesat .
+sentence 4: banyak pedagang-pedagang dari arab , persia dan gujarat yang berlabuh di pidie , perlak , dan pasai .
+sentence 5: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+passage 9 score = 8.166666666666668
+sentence 1: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+sentence 2: walau demikian samudera pasai diberi keleluasan untuk tetap menguasai perdagangan di selat malaka .
+sentence 3: belakangan diketahui bahwa sebagian wilayah dari kerajaan majapahit sudah memeluk agama islam .
+sentence 4: karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada abad ke-14 dapat dipanen dua kali setahun , berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+sentence 5: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+title : sejarah kerajaan samudera pasai
+passage 8 score = 8.166666666666668
+sentence 1: sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada tahun 1428 .
+sentence 2: sosial ekonomi masyarakat kerajaan samudera pasai menurunnya peranan kerajaan sriwijaya di selat malaka bersamaan dengan berdirinya kerajaan samudera pasai .
+sentence 3: di bawah kekuasaan samudera pasai , jalur perdagangan di selat malaka berkembang pesat .
+sentence 4: banyak pedagang-pedagang dari arab , persia dan gujarat yang berlabuh di pidie , perlak , dan pasai .
+sentence 5: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+title : sejarah kerajaan samudera pasai
+passage 9 score = 8.166666666666668
+sentence 1: pada masa raja hayam wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+sentence 2: walau demikian samudera pasai diberi keleluasan untuk tetap menguasai perdagangan di selat malaka .
+sentence 3: belakangan diketahui bahwa sebagian wilayah dari kerajaan majapahit sudah memeluk agama islam .
+sentence 4: karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada abad ke-14 dapat dipanen dua kali setahun , berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+sentence 5: selain hasil pertanian yang melimpah ruah di dataran rendah , di dataran tinggi ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke daerah pantai melalui sungai .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+passage 1 score = 8.166666666666668
+sentence 1: kerajaan majapahit didirikan tahun 1294 oleh raden wijaya yang bergelar kertarajasa jayawardana yang merupakan keturunan ken arok raja singosari .
+sentence 2: raja-raja yang pernah memerintah kerajaan majapahit : raden wijaya 1273 – 1309 jayanegara 1309-1328 tribhuwanatunggaldewi 1328-1350 hayam wuruk 1350-1389 wikramawardana 1389-1429 kertabhumi 1429-1478 kerajaan majapahit ini mencapai puncak kejayaannya di masa pemerintahan raja hayam wuruk ( 1350-1389 ) .
+sentence 3: kebesaran kerajaan ditunjang oleh pertanian sudah teratur , perdagangan lancar dan maju , memiliki armada angkutan laut yang kuat serta dipimpin oleh hayam wuruk dengan patih gajah mada .
+sentence 4: di bawah patih gajah mada majapahit banyak menaklukkan daerah lain .
+sentence 5: dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+passage 2 score = 8.166666666666668
+sentence 1: dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+sentence 2: mpu prapanca dalam bukunya negara kertagama menceritakan tentang zaman gemilang kerajaan di masa hayam wuruk dan juga silsilah raja sebelumnya tahun 1364 gajah mada meninggal disusun oleh hayam wuruk di tahun 1389 dan kerajaan majapahit mulai mengalami kemunduran .
+sentence 3: penyebab kemunduran : majapahit kehilangan tokoh besar seperti hayam wuruk dan gajah mada meletusnya perang paragreg tahun 1401-1406 merupakan perang saudara memperebutkan kekuasaan daerah bawahan mulai melepaskan diri .
+sentence 4: peninggalan kerajaan majapahit : bangunan : candi panataran , sawentar , tiga wangi , muara takus kitab : negara kertagama oleh mpu prapanca , sitosoma oleh mpu tantular yang memuat slogan bhinneka tunggal ika .
+sentence 5: paraton kidung sundayana dan sorandaka r wijaya mendapat wangsit mendirikan kerajaan majapahit .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+passage 22 score = 8.166666666666668
+sentence 1: ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi majapahit tahun 1413 masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari gujarat dan malaka .
+sentence 2: disebutkannya , tahun 1400 masehi saudagar islam dari gujarat dan parsi sudah bermukim di pantai utara jawa .
+sentence 3: salah satunya adalah maulana malik ibrahim yang dimakamkan di pasarean gapura wetan kab .
+sentence 4: gresik dengan angka tahun 12 rabi’ul awwal 882 h atau 8 april 1419 masehi , berarti pada jaman pemerintahan wikramawardhana ( 1389-1429 ) yaitu raja majapahit iv setelah hayam wuruk .
+sentence 5: batu nisan yang berpahat kaligrafi arab itu menurut tjokrosujono ( mantan kepala suaka peninggalan sejarah dan purbakala , mojokerto ) , nisan itu asli bukan buatan baru .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+passage 32 score = 8.166666666666668
+sentence 1: berhenti pemberontakan kuti , tahun 1331 muncul pemberontakan di sadeng dan keta ( daerah besuki ) .
+sentence 2: maka patih majapahit pu naga digantikan patih daha yaitu gajah mada , sehingga pemberontakan dapat ditumpas .
+sentence 3: keberhasilan gajah mada memadamkan pemberontakan sadeng membawanya meraih karier diangkat sebagai mahapatih kerajaan .
+sentence 4: namun pada masa pemerintahan hayam wuruk pada tahun 1350-1389 , berkali-kali sang patih gajah mada – yang juga panglima ahli perang di masa itu – harus menguras energi untuk memadamkan pemberontakan di beberapa daerah .
+sentence 5: pemberontakan ronggolawe sampai serangan kerajaan dhaha , kediri .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+passage 1 score = 7.833333333333333
+sentence 1: sejarah kerajaan samudera pasai - kerajaan samudera pasai dalam sejarah indonesia tercatat sebagai kerajaan islam yang pertama di indonesia .
+sentence 2: raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( 1290-1297 ) .
+sentence 3: kerajaan samudera pasai terletak di sebelah utara perlak di daerah lhok seumawe sekarang ( pantai timur aceh ) , berbatasan langsung dengan selat malaka .
+sentence 4: pada tahun 1297 m , sultan malik al-saleh wafat , kemudian kerajaan samudera pasai dipimpin oleh putranya yang bernama sultan malik al-tahir ( 1297-1326 ) .
+sentence 5: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+passage 2 score = 7.833333333333333
+sentence 1: setelah sultan malik al-tahir wafat pada tahun 1326 , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+sentence 2: mengenai pribadi sultan ini , ibnu batutah ( pengembara dari maroko ) yang pernah singgah di samudera pasai pada tahun 1345 dan 1346 mengatakan bahwa sultan malik al-zahir adalah seorang sultan yang taat pada agama dan menganut ma hab syafi i. pada masa pemerintahan malik al-zahir terdapat orang persia yang menjadi pejabat istana .
+sentence 3: pada tahun 1348 , sultan malik al-zahir wafat , kemudian takhta kerajaan dipegang oleh zainal abidin .
+sentence 4: pada masa zainal abidin inilah , majapahit berhasil menguasai samudera pasai .
+sentence 5: dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+
+
+Pencarian jawaban
+---------------------
+
+
+sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada <TIME>tahun 1428</TIME> .
+
+memproses passage 8
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+tahun 1428 | position = 7
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = sultanah
+tokenwithtagstemmed = bahiah
+tokenwithtagstemmed = puter
+tokenwithtagstemmed = zainal
+tokenwithtagstemmed = abidin
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1428
+kata kunci = wuruk
+tokenwithtagstemmed = sultanah
+tokenwithtagstemmed = bahiah
+tokenwithtagstemmed = puter
+tokenwithtagstemmed = zainal
+tokenwithtagstemmed = abidin
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1428
+kata kunci = wafat
+tokenwithtagstemmed = sultanah
+tokenwithtagstemmed = bahiah
+tokenwithtagstemmed = puter
+tokenwithtagstemmed = zainal
+tokenwithtagstemmed = abidin
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1428
+
+
+sosial ekonomi <PERSON>masyarakat kerajaan samudera pasai</PERSON> menurunnya peranan kerajaan sriwijaya di selat malaka bersamaan dengan berdirinya kerajaan samudera pasai .
+
+
+tidak ada entitas jawaban, skip
+
+
+di bawah kekuasaan samudera pasai , jalur perdagangan di selat malaka berkembang pesat .
+
+
+tidak ada entitas jawaban, skip
+
+
+banyak <PERSON>pedagang-pedagang</PERSON> dari <PERSON>arab , persia</PERSON> dan gujarat yang berlabuh di pidie , perlak , dan <PERSON>pasai .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>masa raja hayam</TIME> wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+
+memproses passage 8
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+masa raja hayam | position = 0
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+kata kunci = wuruk
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+masa raja hayam -1
+
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+kata kunci = wafat
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+
+
+pada <TIME>masa raja hayam</TIME> wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+
+memproses passage 9
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+masa raja hayam | position = 0
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+kata kunci = wuruk
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+masa raja hayam -1
+
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+kata kunci = wafat
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+
+
+walau demikian samudera pasai diberi keleluasan untuk tetap menguasai perdagangan di selat malaka .
+
+
+tidak ada entitas jawaban, skip
+
+
+belakangan diketahui bahwa sebagian wilayah dari kerajaan majapahit sudah memeluk agama islam .
+
+
+tidak ada entitas jawaban, skip
+
+
+karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada <TIME>abad ke-14</TIME> dapat dipanen dua kali <TIME>setahun</TIME> , berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+
+memproses passage 9
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+abad 14 | position = 16
+setahun | position = 20
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = alir
+tokenwithtagstemmed = lembah
+tokenwithtagstemmed = sungai
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = tanah
+tokenwithtagstemmed = tani
+tokenwithtagstemmed = subur
+tokenwithtagstemmed = padi
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = abad 14
+tokenwithtagstemmed = panen
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = makmur
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = bibit
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = lada
+tokenwithtagstemmed = malabar
+kata kunci = wuruk
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = alir
+tokenwithtagstemmed = lembah
+tokenwithtagstemmed = sungai
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = tanah
+tokenwithtagstemmed = tani
+tokenwithtagstemmed = subur
+tokenwithtagstemmed = padi
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = abad 14
+tokenwithtagstemmed = panen
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = makmur
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = bibit
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = lada
+tokenwithtagstemmed = malabar
+kata kunci = wafat
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = alir
+tokenwithtagstemmed = lembah
+tokenwithtagstemmed = sungai
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = tanah
+tokenwithtagstemmed = tani
+tokenwithtagstemmed = subur
+tokenwithtagstemmed = padi
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = abad 14
+tokenwithtagstemmed = panen
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = makmur
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = bibit
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = lada
+tokenwithtagstemmed = malabar
+
+
+selain hasil pertanian yang melimpah ruah di dataran rendah , di <LOCATION>dataran tinggi</LOCATION> ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke <LOCATION>daerah</LOCATION> pantai melalui sungai .
+
+
+tidak ada entitas jawaban, skip
+
+
+sultanah bahiah ( puteri zainal abidin ) , sultan ini meninggal pada <TIME>tahun 1428</TIME> .
+
+memproses passage 8
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+tahun 1428 | position = 7
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = sultanah
+tokenwithtagstemmed = bahiah
+tokenwithtagstemmed = puter
+tokenwithtagstemmed = zainal
+tokenwithtagstemmed = abidin
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1428
+kata kunci = wuruk
+tokenwithtagstemmed = sultanah
+tokenwithtagstemmed = bahiah
+tokenwithtagstemmed = puter
+tokenwithtagstemmed = zainal
+tokenwithtagstemmed = abidin
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1428
+kata kunci = wafat
+tokenwithtagstemmed = sultanah
+tokenwithtagstemmed = bahiah
+tokenwithtagstemmed = puter
+tokenwithtagstemmed = zainal
+tokenwithtagstemmed = abidin
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1428
+
+
+sosial ekonomi <PERSON>masyarakat kerajaan samudera pasai</PERSON> menurunnya peranan kerajaan sriwijaya di selat malaka bersamaan dengan berdirinya kerajaan samudera pasai .
+
+
+tidak ada entitas jawaban, skip
+
+
+di bawah kekuasaan samudera pasai , jalur perdagangan di selat malaka berkembang pesat .
+
+
+tidak ada entitas jawaban, skip
+
+
+banyak <PERSON>pedagang-pedagang</PERSON> dari <PERSON>arab , persia</PERSON> dan gujarat yang berlabuh di pidie , perlak , dan <PERSON>pasai .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>masa raja hayam</TIME> wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+
+memproses passage 8
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+masa raja hayam | position = 0
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+kata kunci = wuruk
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+masa raja hayam -1
+
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+kata kunci = wafat
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+
+
+pada <TIME>masa raja hayam</TIME> wuruk berkuasa , samudera pasai berada di bawah kendali majapahit .
+
+memproses passage 9
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+masa raja hayam | position = 0
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+kata kunci = wuruk
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+masa raja hayam -1
+
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+kata kunci = wafat
+tokenwithtagstemmed = masa raja hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = kendali
+tokenwithtagstemmed = majapahit
+
+
+walau demikian samudera pasai diberi keleluasan untuk tetap menguasai perdagangan di selat malaka .
+
+
+tidak ada entitas jawaban, skip
+
+
+belakangan diketahui bahwa sebagian wilayah dari kerajaan majapahit sudah memeluk agama islam .
+
+
+tidak ada entitas jawaban, skip
+
+
+karena letak kerajaan pasai pada aliran lembah sungai membuat tanah pertanian subur , padi yang ditanami penduduk kerajaan islam pasai pada <TIME>abad ke-14</TIME> dapat dipanen dua kali <TIME>setahun</TIME> , berikutnya kerajaan ini bertambah makmur dengan dimasukkannya bibit tanaman lada dari malabar .
+
+memproses passage 9
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+abad 14 | position = 16
+setahun | position = 20
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = alir
+tokenwithtagstemmed = lembah
+tokenwithtagstemmed = sungai
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = tanah
+tokenwithtagstemmed = tani
+tokenwithtagstemmed = subur
+tokenwithtagstemmed = padi
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = abad 14
+tokenwithtagstemmed = panen
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = makmur
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = bibit
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = lada
+tokenwithtagstemmed = malabar
+kata kunci = wuruk
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = alir
+tokenwithtagstemmed = lembah
+tokenwithtagstemmed = sungai
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = tanah
+tokenwithtagstemmed = tani
+tokenwithtagstemmed = subur
+tokenwithtagstemmed = padi
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = abad 14
+tokenwithtagstemmed = panen
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = makmur
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = bibit
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = lada
+tokenwithtagstemmed = malabar
+kata kunci = wafat
+tokenwithtagstemmed = letak
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = alir
+tokenwithtagstemmed = lembah
+tokenwithtagstemmed = sungai
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = tanah
+tokenwithtagstemmed = tani
+tokenwithtagstemmed = subur
+tokenwithtagstemmed = padi
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = duduk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = abad 14
+tokenwithtagstemmed = panen
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = tahun
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = makmur
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = bibit
+tokenwithtagstemmed = tanam
+tokenwithtagstemmed = lada
+tokenwithtagstemmed = malabar
+
+
+selain hasil pertanian yang melimpah ruah di dataran rendah , di <LOCATION>dataran tinggi</LOCATION> ( daerah pedalaman juga menghasilkan berbagai hasil hutan yang di angkut ke <LOCATION>daerah</LOCATION> pantai melalui sungai .
+
+
+tidak ada entitas jawaban, skip
+
+
+kerajaan majapahit didirikan <TIME>tahun 1294</TIME> oleh <PERSON>raden wijaya</PERSON> yang bergelar kertarajasa jayawardana yang merupakan keturunan ken arok raja singosari .
+
+memproses passage 1
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+tahun 1294 | position = 3
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = tahun 1294
+tokenwithtagstemmed = raden wijaya
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = kertarajasa
+tokenwithtagstemmed = jayawardana
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = ken
+tokenwithtagstemmed = arok
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = singosari
+kata kunci = wuruk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = tahun 1294
+tokenwithtagstemmed = raden wijaya
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = kertarajasa
+tokenwithtagstemmed = jayawardana
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = ken
+tokenwithtagstemmed = arok
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = singosari
+kata kunci = wafat
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = tahun 1294
+tokenwithtagstemmed = raden wijaya
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = kertarajasa
+tokenwithtagstemmed = jayawardana
+tokenwithtagstemmed = turun
+tokenwithtagstemmed = ken
+tokenwithtagstemmed = arok
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = singosari
+
+
+raja-raja yang pernah memerintah kerajaan majapahit : raden wijaya <TIME>1273 – 1309 jayanegara 1309-1328 tribhuwanatunggaldewi 1328-1350 hayam wuruk 1350-1389 wikramawardana 1389-1429 kertabhumi 1429-1478</TIME> kerajaan majapahit ini mencapai puncak kejayaannya di <TIME>masa pemerintahan raja hayam wuruk</TIME> ( <TIME>1350-1389</TIME> ) .
+
+memproses passage 1
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+1273 1309 jayanegara 1309 1328 tribhuwanatunggaldewi 1328 1350 hayam wuruk 1350 1389 wikramawardana 1389 1429 kertabhumi 1429 1478 | position = 7
+masa pemerintahan raja hayam wuruk | position = 13
+1350 1389 | position = 14
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = raden
+tokenwithtagstemmed = wijaya
+tokenwithtagstemmed = 1273 1309 jayanegara 1309 1328 tribhuwanatunggaldewi 1328 1350 hayam wuruk 1350 1389 wikramawardana 1389 1429 kertabhumi 1429 1478
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = capai
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = jaya
+tokenwithtagstemmed = masa perintah raja hayam wuruk
+tokenwithtagstemmed = 1350 1389
+kata kunci = wuruk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = raden
+tokenwithtagstemmed = wijaya
+tokenwithtagstemmed = 1273 1309 jayanegara 1309 1328 tribhuwanatunggaldewi 1328 1350 hayam wuruk 1350 1389 wikramawardana 1389 1429 kertabhumi 1429 1478
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = capai
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = jaya
+tokenwithtagstemmed = masa perintah raja hayam wuruk
+tokenwithtagstemmed = 1350 1389
+kata kunci = wafat
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = raden
+tokenwithtagstemmed = wijaya
+tokenwithtagstemmed = 1273 1309 jayanegara 1309 1328 tribhuwanatunggaldewi 1328 1350 hayam wuruk 1350 1389 wikramawardana 1389 1429 kertabhumi 1429 1478
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = capai
+tokenwithtagstemmed = puncak
+tokenwithtagstemmed = jaya
+tokenwithtagstemmed = masa perintah raja hayam wuruk
+tokenwithtagstemmed = 1350 1389
+
+
+kebesaran kerajaan ditunjang oleh pertanian sudah teratur , perdagangan lancar dan maju , memiliki armada angkutan laut yang kuat serta dipimpin oleh hayam wuruk dengan patih gajah mada .
+
+
+tidak ada entitas jawaban, skip
+
+
+di bawah patih gajah mada majapahit banyak menaklukkan daerah lain .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+
+
+tidak ada entitas jawaban, skip
+
+
+dengan semangat persatuan yang dimilikinya , dan membuatkan sumpah palapa yang berbunyi “ ia tidak akan makan buah palapa sebelum berhasil menyatukan seluruh wilayah nusantara ” .
+
+
+tidak ada entitas jawaban, skip
+
+
+mpu prapanca dalam bukunya negara kertagama menceritakan tentang zaman gemilang kerajaan di <TIME>masa hayam</TIME> wuruk dan juga silsilah raja sebelumnya <TIME>tahun 1364</TIME> gajah mada meninggal disusun oleh hayam wuruk di <TIME>tahun 1389</TIME> dan kerajaan majapahit mulai mengalami kemunduran .
+
+memproses passage 2
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+masa hayam | position = 9
+tahun 1364 | position = 13
+tahun 1389 | position = 20
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = mpu
+tokenwithtagstemmed = prapanca
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = kertagama
+tokenwithtagstemmed = cerita
+tokenwithtagstemmed = zaman
+tokenwithtagstemmed = gemilang
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = masa hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = silsilah
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = tahun 1364
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = hayam
+posisi dalam passage = 18
+jarak dengan tiap kandidat jawaban:
+masa hayam -9
+tahun 1364 -5
+tahun 1389 2
+
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = mundur
+kata kunci = wuruk
+tokenwithtagstemmed = mpu
+tokenwithtagstemmed = prapanca
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = kertagama
+tokenwithtagstemmed = cerita
+tokenwithtagstemmed = zaman
+tokenwithtagstemmed = gemilang
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = masa hayam
+tokenwithtagstemmed = wuruk
+posisi dalam passage = 10
+jarak dengan tiap kandidat jawaban:
+masa hayam -1
+tahun 1364 3
+tahun 1389 10
+
+tokenwithtagstemmed = silsilah
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = tahun 1364
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+posisi dalam passage = 19
+jarak dengan tiap kandidat jawaban:
+masa hayam -10
+tahun 1364 -6
+tahun 1389 1
+
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = mundur
+kata kunci = wafat
+tokenwithtagstemmed = mpu
+tokenwithtagstemmed = prapanca
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = kertagama
+tokenwithtagstemmed = cerita
+tokenwithtagstemmed = zaman
+tokenwithtagstemmed = gemilang
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = masa hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = silsilah
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = tahun 1364
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = tahun 1389
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = alami
+tokenwithtagstemmed = mundur
+
+
+penyebab kemunduran : majapahit kehilangan tokoh besar seperti hayam wuruk dan gajah mada meletusnya perang paragreg <TIME>tahun 1401-1406</TIME> merupakan perang saudara memperebutkan kekuasaan daerah bawahan mulai melepaskan diri .
+
+memproses passage 2
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+tahun 1401 1406 | position = 13
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = hilang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = hayam
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+tahun 1401 1406 7
+
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = paragreg
+tokenwithtagstemmed = tahun 1401 1406
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = saudara
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = lepas
+kata kunci = wuruk
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = hilang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tahun 1401 1406 6
+
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = paragreg
+tokenwithtagstemmed = tahun 1401 1406
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = saudara
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = lepas
+kata kunci = wafat
+tokenwithtagstemmed = sebab
+tokenwithtagstemmed = mundur
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = hilang
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = paragreg
+tokenwithtagstemmed = tahun 1401 1406
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = saudara
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = lepas
+
+
+peninggalan kerajaan majapahit : bangunan : candi panataran , sawentar , tiga wangi , muara takus kitab : negara kertagama oleh mpu prapanca , sitosoma oleh mpu tantular yang memuat slogan bhinneka tunggal ika .
+
+
+tidak ada entitas jawaban, skip
+
+
+paraton kidung sundayana dan sorandaka r wijaya mendapat wangsit mendirikan kerajaan majapahit .
+
+
+tidak ada entitas jawaban, skip
+
+
+ma huan , penulis tionghoa muslim , dalam bukunya “ ying yai sheng lan ” menyebutkan , ketika mendatangi <TIME>majapahit tahun 1413</TIME> masehi sudah menyebutkan masyarakat islam yang bermukim di majapahit berasal dari <LOCATION>gujarat</LOCATION> dan <PERSON>malaka .</PERSON>
+
+memproses passage 22
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+majapahit tahun 1413 | position = 12
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = ma
+tokenwithtagstemmed = huan
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = tionghoa
+tokenwithtagstemmed = muslim
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = ying
+tokenwithtagstemmed = yai
+tokenwithtagstemmed = sheng
+tokenwithtagstemmed = lan
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = majapahit tahun 1413
+tokenwithtagstemmed = masehi
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = mukim
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = asal
+tokenwithtagstemmed = gujarat
+tokenwithtagstemmed = malaka
+kata kunci = wuruk
+tokenwithtagstemmed = ma
+tokenwithtagstemmed = huan
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = tionghoa
+tokenwithtagstemmed = muslim
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = ying
+tokenwithtagstemmed = yai
+tokenwithtagstemmed = sheng
+tokenwithtagstemmed = lan
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = majapahit tahun 1413
+tokenwithtagstemmed = masehi
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = mukim
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = asal
+tokenwithtagstemmed = gujarat
+tokenwithtagstemmed = malaka
+kata kunci = wafat
+tokenwithtagstemmed = ma
+tokenwithtagstemmed = huan
+tokenwithtagstemmed = tulis
+tokenwithtagstemmed = tionghoa
+tokenwithtagstemmed = muslim
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = ying
+tokenwithtagstemmed = yai
+tokenwithtagstemmed = sheng
+tokenwithtagstemmed = lan
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = majapahit tahun 1413
+tokenwithtagstemmed = masehi
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = mukim
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = asal
+tokenwithtagstemmed = gujarat
+tokenwithtagstemmed = malaka
+
+
+disebutkannya , <TIME>tahun 1400</TIME> masehi saudagar islam dari gujarat dan parsi sudah bermukim di <LOCATION>pantai utara jawa .</LOCATION>
+
+memproses passage 22
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+tahun 1400 | position = 1
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = tahun 1400
+tokenwithtagstemmed = masehi
+tokenwithtagstemmed = saudagar
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = gujarat
+tokenwithtagstemmed = parsi
+tokenwithtagstemmed = mukim
+tokenwithtagstemmed = pantai utara jawa
+kata kunci = wuruk
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = tahun 1400
+tokenwithtagstemmed = masehi
+tokenwithtagstemmed = saudagar
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = gujarat
+tokenwithtagstemmed = parsi
+tokenwithtagstemmed = mukim
+tokenwithtagstemmed = pantai utara jawa
+kata kunci = wafat
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = tahun 1400
+tokenwithtagstemmed = masehi
+tokenwithtagstemmed = saudagar
+tokenwithtagstemmed = islam
+tokenwithtagstemmed = gujarat
+tokenwithtagstemmed = parsi
+tokenwithtagstemmed = mukim
+tokenwithtagstemmed = pantai utara jawa
+
+
+salah satunya adalah maulana malik ibrahim yang dimakamkan di <LOCATION>pasarean gapura wetan</LOCATION> kab .
+
+
+tidak ada entitas jawaban, skip
+
+
+gresik dengan angka <TIME>tahun 12 rabi’ul</TIME> awwal 882 h atau <TIME>8 april 1419</TIME> masehi , berarti pada <TIME>jaman pemerintahan wikramawardhana</TIME> ( <TIME>1389-1429</TIME> ) yaitu raja majapahit iv setelah hayam wuruk .
+
+memproses passage 22
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+tahun 12 rabi’ul | position = 2
+8 april 1419 | position = 6
+jaman pemerintahan wikramawardhana | position = 9
+1389 1429 | position = 10
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = gresik
+tokenwithtagstemmed = angka
+tokenwithtagstemmed = tahun 12 rabi’ul
+tokenwithtagstemmed = awwal
+tokenwithtagstemmed = 882
+tokenwithtagstemmed = h
+tokenwithtagstemmed = 8 april 1419
+tokenwithtagstemmed = masehi
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = jaman perintah wikramawardhana
+tokenwithtagstemmed = 1389 1429
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = hayam
+posisi dalam passage = 14
+jarak dengan tiap kandidat jawaban:
+tahun 12 rabi’ul -12
+8 april 1419 -8
+jaman pemerintahan wikramawardhana -5
+1389 1429 -4
+
+tokenwithtagstemmed = wuruk
+kata kunci = wuruk
+tokenwithtagstemmed = gresik
+tokenwithtagstemmed = angka
+tokenwithtagstemmed = tahun 12 rabi’ul
+tokenwithtagstemmed = awwal
+tokenwithtagstemmed = 882
+tokenwithtagstemmed = h
+tokenwithtagstemmed = 8 april 1419
+tokenwithtagstemmed = masehi
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = jaman perintah wikramawardhana
+tokenwithtagstemmed = 1389 1429
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+posisi dalam passage = 15
+jarak dengan tiap kandidat jawaban:
+tahun 12 rabi’ul -13
+8 april 1419 -9
+jaman pemerintahan wikramawardhana -6
+1389 1429 -5
+
+kata kunci = wafat
+tokenwithtagstemmed = gresik
+tokenwithtagstemmed = angka
+tokenwithtagstemmed = tahun 12 rabi’ul
+tokenwithtagstemmed = awwal
+tokenwithtagstemmed = 882
+tokenwithtagstemmed = h
+tokenwithtagstemmed = 8 april 1419
+tokenwithtagstemmed = masehi
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = jaman perintah wikramawardhana
+tokenwithtagstemmed = 1389 1429
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = hayam
+tokenwithtagstemmed = wuruk
+
+
+batu nisan yang berpahat kaligrafi arab itu menurut tjokrosujono ( mantan kepala suaka peninggalan sejarah dan purbakala , mojokerto ) , nisan itu asli bukan buatan baru .
+
+
+tidak ada entitas jawaban, skip
+
+
+berhenti pemberontakan kuti , <TIME>tahun 1331</TIME> muncul pemberontakan di <LOCATION>sadeng dan keta</LOCATION> ( daerah besuki ) .
+
+memproses passage 32
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+tahun 1331 | position = 3
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = henti
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = kuti
+tokenwithtagstemmed = tahun 1331
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = sadeng keta
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = besuk
+kata kunci = wuruk
+tokenwithtagstemmed = henti
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = kuti
+tokenwithtagstemmed = tahun 1331
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = sadeng keta
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = besuk
+kata kunci = wafat
+tokenwithtagstemmed = henti
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = kuti
+tokenwithtagstemmed = tahun 1331
+tokenwithtagstemmed = muncul
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = sadeng keta
+tokenwithtagstemmed = daerah
+tokenwithtagstemmed = besuk
+
+
+maka patih majapahit pu naga digantikan patih daha yaitu gajah mada , sehingga pemberontakan dapat ditumpas .
+
+
+tidak ada entitas jawaban, skip
+
+
+keberhasilan gajah mada memadamkan pemberontakan sadeng membawanya meraih karier diangkat sebagai mahapatih kerajaan .
+
+
+tidak ada entitas jawaban, skip
+
+
+namun pada <TIME>masa pemerintahan hayam wuruk</TIME> pada <TIME>tahun 1350-1389</TIME> , berkali-kali sang patih gajah mada – yang juga panglima ahli perang di masa itu – harus menguras energi untuk memadamkan pemberontakan di <LOCATION>beberapa daerah .</LOCATION>
+
+memproses passage 32
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+title : kerajaan majapahit
+list jawaban dan posisi dalam passage
+masa pemerintahan hayam wuruk | position = 0
+tahun 1350 1389 | position = 1
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = masa perintah hayam wuruk
+tokenwithtagstemmed = tahun 1350 1389
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = sang
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = panglima
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = uras
+tokenwithtagstemmed = energi
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = madam
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = daerah
+kata kunci = wuruk
+tokenwithtagstemmed = masa perintah hayam wuruk
+tokenwithtagstemmed = tahun 1350 1389
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = sang
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = panglima
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = uras
+tokenwithtagstemmed = energi
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = madam
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = daerah
+kata kunci = wafat
+tokenwithtagstemmed = masa perintah hayam wuruk
+tokenwithtagstemmed = tahun 1350 1389
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = kali
+tokenwithtagstemmed = sang
+tokenwithtagstemmed = patih
+tokenwithtagstemmed = gajah
+tokenwithtagstemmed = mada
+tokenwithtagstemmed = panglima
+tokenwithtagstemmed = ahli
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = masa
+tokenwithtagstemmed = uras
+tokenwithtagstemmed = energi
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = madam
+tokenwithtagstemmed = ronta
+tokenwithtagstemmed = daerah
+
+
+pemberontakan ronggolawe sampai serangan kerajaan dhaha , kediri .
+
+
+tidak ada entitas jawaban, skip
+
+
+sejarah kerajaan samudera pasai - kerajaan samudera pasai dalam sejarah indonesia tercatat sebagai kerajaan islam yang pertama di <LOCATION>indonesia .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+raja pertama dan pendiri kerajaan samudera pasai ini adalah sultan malik al-saleh ( <TIME>1290-1297</TIME> ) .
+
+memproses passage 1
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+1290 1297 | position = 10
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = saleh
+tokenwithtagstemmed = 1290 1297
+kata kunci = wuruk
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = saleh
+tokenwithtagstemmed = 1290 1297
+kata kunci = wafat
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pertama
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = saleh
+tokenwithtagstemmed = 1290 1297
+
+
+kerajaan samudera pasai terletak di sebelah utara perlak di <LOCATION>daerah lhok</LOCATION> seumawe sekarang ( pantai timur aceh ) , berbatasan langsung dengan selat malaka .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>tahun 1297</TIME> m , sultan malik al-saleh wafat , kemudian kerajaan samudera pasai dipimpin oleh putranya yang bernama sultan malik al-tahir ( 1297-1326 ) .
+
+memproses passage 1
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+tahun 1297 | position = 0
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = tahun 1297
+tokenwithtagstemmed = m
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = saleh
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = tahir
+tokenwithtagstemmed = 1297
+tokenwithtagstemmed = 1326
+kata kunci = wuruk
+tokenwithtagstemmed = tahun 1297
+tokenwithtagstemmed = m
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = saleh
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = tahir
+tokenwithtagstemmed = 1297
+tokenwithtagstemmed = 1326
+kata kunci = wafat
+tokenwithtagstemmed = tahun 1297
+tokenwithtagstemmed = m
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = saleh
+tokenwithtagstemmed = wafat
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+tahun 1297 -6
+
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = tahir
+tokenwithtagstemmed = 1297
+tokenwithtagstemmed = 1326
+
+
+setelah sultan malik al-tahir wafat pada <TIME>tahun 1326</TIME> , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+
+memproses passage 1
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+tahun 1326 | position = 5
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = tahir
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1326
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+kata kunci = wuruk
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = tahir
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1326
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+kata kunci = wafat
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = tahir
+tokenwithtagstemmed = wafat
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+tahun 1326 1
+
+tokenwithtagstemmed = tahun 1326
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+
+
+setelah sultan malik al-tahir wafat pada <TIME>tahun 1326</TIME> , kerajaan samudera pasai dipimpin oleh putranya , bernama sultan malik al-zahir .
+
+memproses passage 2
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+tahun 1326 | position = 5
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = tahir
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1326
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+kata kunci = wuruk
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = tahir
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1326
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+kata kunci = wafat
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = tahir
+tokenwithtagstemmed = wafat
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+tahun 1326 1
+
+tokenwithtagstemmed = tahun 1326
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+
+
+mengenai pribadi sultan ini , ibnu batutah ( pengembara dari maroko ) yang pernah singgah di samudera pasai pada <TIME>tahun 1345</TIME> dan <TIME>1346</TIME> mengatakan bahwa sultan malik al-zahir adalah seorang sultan yang taat pada agama dan menganut ma hab syafi i. pada <TIME>masa pemerintahan malik al-zahir</TIME> terdapat orang persia yang menjadi pejabat istana .
+
+memproses passage 2
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+tahun 1345 | position = 10
+1346 | position = 11
+masa pemerintahan malik al zahir | position = 25
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = pribadi
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = ibnu
+tokenwithtagstemmed = batu
+tokenwithtagstemmed = embara
+tokenwithtagstemmed = maroko
+tokenwithtagstemmed = singgah
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = tahun 1345
+tokenwithtagstemmed = 1346
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = taat
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = anut
+tokenwithtagstemmed = ma
+tokenwithtagstemmed = hab
+tokenwithtagstemmed = syafi
+tokenwithtagstemmed = i
+tokenwithtagstemmed = masa perintah malik al zahir
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = sia
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = jabat
+tokenwithtagstemmed = istana
+kata kunci = wuruk
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = pribadi
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = ibnu
+tokenwithtagstemmed = batu
+tokenwithtagstemmed = embara
+tokenwithtagstemmed = maroko
+tokenwithtagstemmed = singgah
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = tahun 1345
+tokenwithtagstemmed = 1346
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = taat
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = anut
+tokenwithtagstemmed = ma
+tokenwithtagstemmed = hab
+tokenwithtagstemmed = syafi
+tokenwithtagstemmed = i
+tokenwithtagstemmed = masa perintah malik al zahir
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = sia
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = jabat
+tokenwithtagstemmed = istana
+kata kunci = wafat
+tokenwithtagstemmed = kena
+tokenwithtagstemmed = pribadi
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = ibnu
+tokenwithtagstemmed = batu
+tokenwithtagstemmed = embara
+tokenwithtagstemmed = maroko
+tokenwithtagstemmed = singgah
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+tokenwithtagstemmed = tahun 1345
+tokenwithtagstemmed = 1346
+tokenwithtagstemmed = kata
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = taat
+tokenwithtagstemmed = agama
+tokenwithtagstemmed = anut
+tokenwithtagstemmed = ma
+tokenwithtagstemmed = hab
+tokenwithtagstemmed = syafi
+tokenwithtagstemmed = i
+tokenwithtagstemmed = masa perintah malik al zahir
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = orang
+tokenwithtagstemmed = sia
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = jabat
+tokenwithtagstemmed = istana
+
+
+pada <TIME>tahun 1348</TIME> , sultan malik al-zahir wafat , kemudian takhta kerajaan dipegang oleh zainal abidin .
+
+memproses passage 2
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+tahun 1348 | position = 0
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = tahun 1348
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = takhta
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = zainal
+tokenwithtagstemmed = abidin
+kata kunci = wuruk
+tokenwithtagstemmed = tahun 1348
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = takhta
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = zainal
+tokenwithtagstemmed = abidin
+kata kunci = wafat
+tokenwithtagstemmed = tahun 1348
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = malik
+tokenwithtagstemmed = al
+tokenwithtagstemmed = zahir
+tokenwithtagstemmed = wafat
+posisi dalam passage = 5
+jarak dengan tiap kandidat jawaban:
+tahun 1348 -5
+
+tokenwithtagstemmed = takhta
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = pegang
+tokenwithtagstemmed = zainal
+tokenwithtagstemmed = abidin
+
+
+pada <TIME>masa zainal</TIME> abidin inilah , majapahit berhasil menguasai samudera pasai .
+
+memproses passage 2
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+title : sejarah kerajaan samudera pasai
+list jawaban dan posisi dalam passage
+masa zainal | position = 0
+
+
+melakukan pencarian:
+kata kunci = hayam
+tokenwithtagstemmed = masa zainal
+tokenwithtagstemmed = abidin
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+kata kunci = wuruk
+tokenwithtagstemmed = masa zainal
+tokenwithtagstemmed = abidin
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+kata kunci = wafat
+tokenwithtagstemmed = masa zainal
+tokenwithtagstemmed = abidin
+tokenwithtagstemmed = majapahit
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = kuasa
+tokenwithtagstemmed = samudera
+tokenwithtagstemmed = pasai
+
+
+dengan demikian , samudera pasai berada di bawah kekuasaan majapahit .
+
+
+tidak ada entitas jawaban, skip
+
+Pengurutan kandidat jawaban
+this.answer = tahun 1326
+passage rank = 9
+distance = 1
+doc rank = 1
+total Score = 11
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+document Title = sejarah kerajaan samudera pasai
+
+this.answer = tahun 1326
+passage rank = 10
+distance = 1
+doc rank = 1
+total Score = 12
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+document Title = sejarah kerajaan samudera pasai
+
+this.answer = tahun 1389
+passage rank = 6
+distance = 1
+doc rank = 4
+total Score = 11
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+this.answer = tahun 1389
+passage rank = 6
+distance = 2
+doc rank = 4
+total Score = 12
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+this.answer = tahun 1364
+passage rank = 6
+distance = 3
+doc rank = 4
+total Score = 13
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+this.answer = tahun 1401 1406
+passage rank = 6
+distance = 6
+doc rank = 4
+total Score = 16
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+this.answer = tahun 1401 1406
+passage rank = 6
+distance = 7
+doc rank = 4
+total Score = 17
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+this.answer = tahun 1389
+passage rank = 6
+distance = 10
+doc rank = 4
+total Score = 20
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+document Title = kerajaan majapahit
+
+
+
+selesai

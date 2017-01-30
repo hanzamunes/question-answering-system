@@ -174,7 +174,7 @@ public class AnswerFiller
 			}
 		}
 		ans.putAnswer("debug question answering/listRetrievedAnswer/percobaan_7.csv");*/
-		File dir = new File (Utils.saveRetrievedAnswerPath);
+		File dir = new File ("debug question answering/hasil bersih/listRetrievedAnswer/");
 		File[] dirList = dir.listFiles();
 		ArrayList<String> filter = new ArrayList<String>();
 		/*filter.add("percobaan_1.csv");
@@ -207,13 +207,13 @@ public class AnswerFiller
 		filter.add("percobaan_28.csv");
 		filter.add("percobaan_29.csv");
 		filter.add("percobaan_30.csv");*/
-		AnswerFiller ans = new AnswerFiller ("debug question answering/listRetrievedAnswer/percobaan_29.csv");
+		AnswerFiller ans = new AnswerFiller ("debug question answering/hasil bersih/listRetrievedAnswer/percobaan_8.csv");
 		//AnswerFiller ans = new AnswerFiller();
 		//ans.loadAnswer("C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion\\debug question answering\\listRetrievedAnswer");
 		for (File file:dirList)
 		{
 			String fileName = file.getName();
-			if (!filter.contains(fileName))
+			if (!filter.contains(fileName) && !fileName.equals("allMRR.csv"))
 			{
 				ans.putAnswer(file.getAbsolutePath());
 			}

@@ -261,7 +261,7 @@ public class MeanReciprocalRank
 		long persen = Math.round(hasil * 100);
 		System.out.println(hasil);
 		System.out.println("MRR dalam persen = "+persen+"%");*/
-		/*String[] list = getProblemQuery (Utils.saveRetrievedAnswerPath,"listPertanyaanUji.txt");
+		String[] list = getProblemQuery ("debug question answering/hasil bersih/listRetrievedAnswer/","listPertanyaanUji.txt");
 		try
 		{
 			Writer out = out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("listPertanyaanWA.txt"), "UTF-8"));
@@ -274,8 +274,8 @@ public class MeanReciprocalRank
 		{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}*/
-		
+		}
+		/*
 		MRRImprover im = new MRRImprover ("improveList.txt");
 		ArrayList<String> li = im.getImprovedQuery();
 		File dir = new File ("C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listRetrievedAnswer");
@@ -294,7 +294,7 @@ public class MeanReciprocalRank
 				System.out.println(file.getName()+"  = "+per);
 			}
 			
-		}
+		}*/
 		
 		
 		

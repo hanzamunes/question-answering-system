@@ -37,11 +37,11 @@ public class Utils {
 	public static String savePath8 = "debug question answering/coba1/hasilJalan8.txt";
 	public static String savePath9 = "hasilJalan9.txt";
 	public static int percobaanKe = 100;
-	public static String saveDebug = "debug question answering/listQuestionDebug/percobaan "+percobaanKe+"/";
-	public static String saveRetrievedDocumentPath = "debug question answering/listRetrievedDocument/percobaan "+percobaanKe+"/";
-	public static String saveRetrievedAnswerPath = "debug question answering/listRetrievedAnswer/";
-	public static String relevanceAnswerPath = "debug question answering/listJawabanDokumenRelevan/";
-	public static String savePrecisionAndRecallResultPath = "debug question answering/listPrecisionAndRecallResult/percobaan "+percobaanKe+"/";
+	public static String saveDebug = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listQuestionDebug\\percobaan "+percobaanKe+"\\";
+	public static String saveRetrievedDocumentPath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listRetrievedDocument\\percobaan "+percobaanKe+"\\";
+	public static String saveRetrievedAnswerPath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listRetrievedAnswer\\";
+	public static String relevanceAnswerPath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listJawabanDokumenRelevan\\";
+	public static String savePrecisionAndRecallResultPath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listPrecisionAndRecallResult\\percobaan "+percobaanKe+"\\";
 	public static ArrayList<String> blockedQueryList = new ArrayList<String>();
 	
 	public static void addBlockedQueryList(String query)
@@ -52,9 +52,9 @@ public class Utils {
 	public static void changePath(int PercobaanKe)
 	{
 		percobaanKe = PercobaanKe;
-		saveDebug = "debug question answering/listQuestionDebug/percobaan "+percobaanKe+"/";
-		saveRetrievedDocumentPath = "debug question answering/listRetrievedDocument/percobaan "+percobaanKe+"/";
-		savePrecisionAndRecallResultPath = "debug question answering/listPrecisionAndRecallResult/percobaan "+percobaanKe+"/";
+		saveDebug = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listQuestionDebug\\percobaan "+percobaanKe+"\\";
+		saveRetrievedDocumentPath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listRetrievedDocument\\percobaan "+percobaanKe+"\\";
+		savePrecisionAndRecallResultPath = "C:\\Users\\hobert\\workspace\\tesLuceneLowerVersion1\\debug question answering\\listPrecisionAndRecallResult\\percobaan "+percobaanKe+"\\";
 	}
 	
 	public static double alpha = 1;
@@ -91,7 +91,7 @@ public class Utils {
 		ArrayList<Pair<Integer,File>> dirlist = new ArrayList<Pair<Integer,File>>();
 		for (int i=0;i<dirList.length;i++)
 		{
-			if (dirList[i].getName().equals("allMRR.csv"))
+			if (dirList[i].getName().equals("allMRR.csv") || dirList[i].getName().equals("allAkurasi1Answer.csv"))
 			{
 				continue;
 			}

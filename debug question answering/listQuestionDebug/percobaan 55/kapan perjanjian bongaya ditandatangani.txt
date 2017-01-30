@@ -1,0 +1,2323 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok264.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok350.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok190.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok301.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok370.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok256.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok366.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok379.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok400.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok181.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok337.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok373.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok393.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok253.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok151.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok310.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok214.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok152.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok208.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok344.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok192.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok135.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok64.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok237.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok247.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok360.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok363.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok107.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok36.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok125.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok243.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok288.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok54.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok148.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok285.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok109.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok275.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok38.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok12.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok124.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok138.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok53.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok67.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok83.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok105.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok34.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok378.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok201.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok352.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok122.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok133.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok51.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok62.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok213.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok249.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok318.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok184.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok186.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok339.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok200.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok100.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok104.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok106.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok29.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok33.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok35.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok364.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok383.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok88.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok150.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok169.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok161.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok399.txt
+
+searching dari query expansion
+query hasil ekspansi = bom raja janji ri bongaya belanda vietnam tandatang makassar mee
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok351.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok366.txt
+
+query token : 
+janji bongaya ditandatangani 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 8.166666666666668
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+passage 7 score = 7.333333333333333
+sentence 1: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+sentence 2: 4 ) semua benteng harus dihancurkan , kecuali satu yakni benteng ujung pandang yang kemudian namanya diganti menjadi benteng rotterdam .
+sentence 3: 5 ) makassar harus mengganti kerugian perang sebesar 250 ribu ringgit .
+sentence 4: walaupun sultan hasanuddin telah menandatangani perjanjian tersebut , perlawanan terhadap voc muncul lagi ( 1667 – 1669 ) .
+sentence 5: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+passage 2 score = 6.5
+sentence 1: 1 ) terletak di tepi sungai .
+sentence 2: 2 ) letak makasar yang sangat strategis dalam lalu lintas perdagangan malaka – maluku .
+sentence 3: 3 ) jatuhnya malaka ke tangan portugis 1511 .
+sentence 4: 4 ) beralihnya sistem pemerintahan di jawa tengah ke corak agraris .
+sentence 5: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+passage 3 score = 6.5
+sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
+sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
+sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
+sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+passage 4 score = 6.5
+sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
+sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
+sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
+sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+passage 1 score = 6.0
+sentence 1: sejarah kerajaan makassar ( goa-tallo ) a. kehidupan politik kerajaan makassar pada abad ke-17 di sulawesi selatan telah muncul beberapa kerajaan kecil , seperti goa , tallo , sopeng , dan bone .
+sentence 2: di antara kerajaan-kerajaan tersebut yang kemudian muncul sebagai kerajaan besar ialah goa dan tallo .
+sentence 3: keduanya lebih dikenal dengan nama kerajaan makassar .
+sentence 4: faktor yang membawa perkembangan makassar , antara lain sebagai berikut .
+sentence 5: 1 ) terletak di tepi sungai .
+passage 6 score = 2.6666666666666665
+sentence 1: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+sentence 2: 1 ) wilayah makassar terbatas pada goa .
+sentence 3: wilayah bone dikembalikan kepada aru palaka .
+sentence 4: 2 ) kapal makassar dilarang berlayar tanpa seizin voc .
+sentence 5: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+passage 8 score = 1.0
+sentence 1: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+sentence 2: b. kehidupan ekonomi kerajaan makassar untuk menunjang makassar sebagai pelabuhan transit dan untuk mencukupi kebutuhannya maka kerajaan ini menguasai daerah-daerah sekitarnya .
+sentence 3: di sebelah timur ditaklukanlah kerajaan bone , sedangan untuk memperlancar dan memperluas jalan perdagangan , makasar mengusai daerah-daerah selatan , seperti pulau selayar , buton , lombok , dan sumbawa di nusa tenggara barat .
+sentence 4: dengan demikian , jalan perdagangan pada waktu musim barat yang melalui sebelah utara kepulauan nusa tenggara dan jalan perdagangan waktu musim timur yang melalui sebelah selatan dapat dikuasainya .
+sentence 5: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+passage 9 score = 1.0
+sentence 1: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+sentence 2: dengan jenis perahu-perahunya seperti pinisi dan lambo , pedagang makassar memegang peranan penting dalam perdagangan di indonesia .
+sentence 3: hal ini menyebabkan mereka berhadapan dengan belanda sehingga menimbulkan beberapa kali peperangan .
+sentence 4: pihak belanda yang merasa berkuasa atas maluku sebagai sumber rempah rempah , menganggap makasar sebagai pelabuhan gelap .
+sentence 5: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+passage 10 score = 1.0
+sentence 1: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+sentence 2: untuk mengatur pelayaran dan perniagaan dalam wilayahnya disusunlah hukum niaga dan perniagaan yang disebut ade allopioping bicarance pabbalu'e dan sebuah naskah lontar karya amanna gappa .
+sentence 3: c. aspek sosial – budaya kerajaan makassar mengingat makaasar sebagai kerajaan maritim dengan sumber kehidupan masyarakat pada aktivitas pelayaran perdagangan maka sebagian besar kebudayaannya dipengaruhi oleh keadaan tersebut .
+sentence 4: hasil kebudayaan yang terkenal dari makasar adalah perahu pinisi dan lambo .
+sentence 5: selain itu juga berkembang kebudayaan lain , seperti seni bangun , seni sastra , seni suara , dan sebagainya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 8.166666666666668
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+passage 7 score = 7.333333333333333
+sentence 1: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+sentence 2: 4 ) semua benteng harus dihancurkan , kecuali satu yakni benteng ujung pandang yang kemudian namanya diganti menjadi benteng rotterdam .
+sentence 3: 5 ) makassar harus mengganti kerugian perang sebesar 250 ribu ringgit .
+sentence 4: walaupun sultan hasanuddin telah menandatangani perjanjian tersebut , perlawanan terhadap voc muncul lagi ( 1667 – 1669 ) .
+sentence 5: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+passage 2 score = 6.5
+sentence 1: 1 ) terletak di tepi sungai .
+sentence 2: 2 ) letak makasar yang sangat strategis dalam lalu lintas perdagangan malaka – maluku .
+sentence 3: 3 ) jatuhnya malaka ke tangan portugis 1511 .
+sentence 4: 4 ) beralihnya sistem pemerintahan di jawa tengah ke corak agraris .
+sentence 5: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+passage 3 score = 6.5
+sentence 1: pada tahun 1605 penguasa dari kerajaan kembar goa dan tallo memeluk agama islam setelah menerima dakwah dari dato ri bandang .
+sentence 2: raja tallo bernama karaeng mataoya yang bergelar sultan abdullah dengan julukan awalul islam dan raja goa bernama daeng manrabia dengan gelar sultan alaudin .
+sentence 3: pada masa dwitunggal ini giat mengislamkan rakyat .
+sentence 4: oleh karena itu , kerajaan makassar merupakan kerajaan islam pertama di sulawesi selatan .
+sentence 5: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+passage 4 score = 6.5
+sentence 1: kerajaan goa – tallo ( makassar ) berkembang di bawah pemerintahan muhammad said ( 1639 – 1653 ) dan mencapai puncak kejayaan pada masa pemerintahan sultan hasanuddin ( 1654 – 1670 ) .
+sentence 2: sultan hasanuddin mendapat julukan ayam jantan dari timur karena keberaniannya menetang monopoli belanda .
+sentence 3: usaha-usaha penetrasi kekuasaan terhadap makassar dilakukan oleh voc dalam rangka melaksanakan politik monopoli perdagangan .
+sentence 4: hubungan makasar – voc yang semula baik , kemudian retak dan akhirnya menjadi permusuhan .
+sentence 5: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+passage 1 score = 6.0
+sentence 1: sejarah kerajaan makassar ( goa-tallo ) a. kehidupan politik kerajaan makassar pada abad ke-17 di sulawesi selatan telah muncul beberapa kerajaan kecil , seperti goa , tallo , sopeng , dan bone .
+sentence 2: di antara kerajaan-kerajaan tersebut yang kemudian muncul sebagai kerajaan besar ialah goa dan tallo .
+sentence 3: keduanya lebih dikenal dengan nama kerajaan makassar .
+sentence 4: faktor yang membawa perkembangan makassar , antara lain sebagai berikut .
+sentence 5: 1 ) terletak di tepi sungai .
+passage 6 score = 2.6666666666666665
+sentence 1: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+sentence 2: 1 ) wilayah makassar terbatas pada goa .
+sentence 3: wilayah bone dikembalikan kepada aru palaka .
+sentence 4: 2 ) kapal makassar dilarang berlayar tanpa seizin voc .
+sentence 5: 3 ) makassar tertutup untuk semua bangsa , kecuali voc dengan hak monopolinya .
+passage 8 score = 1.0
+sentence 1: makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik voc .
+sentence 2: b. kehidupan ekonomi kerajaan makassar untuk menunjang makassar sebagai pelabuhan transit dan untuk mencukupi kebutuhannya maka kerajaan ini menguasai daerah-daerah sekitarnya .
+sentence 3: di sebelah timur ditaklukanlah kerajaan bone , sedangan untuk memperlancar dan memperluas jalan perdagangan , makasar mengusai daerah-daerah selatan , seperti pulau selayar , buton , lombok , dan sumbawa di nusa tenggara barat .
+sentence 4: dengan demikian , jalan perdagangan pada waktu musim barat yang melalui sebelah utara kepulauan nusa tenggara dan jalan perdagangan waktu musim timur yang melalui sebelah selatan dapat dikuasainya .
+sentence 5: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+passage 9 score = 1.0
+sentence 1: makassar berkembang sebagai pelabuhan internasional , banyak pedagang asing , seperti portugis , inggris , dan denmark berdagang di makassar .
+sentence 2: dengan jenis perahu-perahunya seperti pinisi dan lambo , pedagang makassar memegang peranan penting dalam perdagangan di indonesia .
+sentence 3: hal ini menyebabkan mereka berhadapan dengan belanda sehingga menimbulkan beberapa kali peperangan .
+sentence 4: pihak belanda yang merasa berkuasa atas maluku sebagai sumber rempah rempah , menganggap makasar sebagai pelabuhan gelap .
+sentence 5: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+passage 10 score = 1.0
+sentence 1: hal itu disebabkan di makasar dijual belikan rempah-rempah yang berasal dari maluku .
+sentence 2: untuk mengatur pelayaran dan perniagaan dalam wilayahnya disusunlah hukum niaga dan perniagaan yang disebut ade allopioping bicarance pabbalu'e dan sebuah naskah lontar karya amanna gappa .
+sentence 3: c. aspek sosial – budaya kerajaan makassar mengingat makaasar sebagai kerajaan maritim dengan sumber kehidupan masyarakat pada aktivitas pelayaran perdagangan maka sebagian besar kebudayaannya dipengaruhi oleh keadaan tersebut .
+sentence 4: hasil kebudayaan yang terkenal dari makasar adalah perahu pinisi dan lambo .
+sentence 5: selain itu juga berkembang kebudayaan lain , seperti seni bangun , seni sastra , seni suara , dan sebagainya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+passage 4 score = 7.833333333333333
+sentence 1: selanjutnya jepang mengembangkannya sendiri sampai akhirnya jepang menjadi negara imperialis pada perang dunia ii .
+sentence 2: keberhasilan bangsa jepang mengadakan restorasi dengan memodernisasi diri dan keberhasilan mengusir bangsa barat dari dalam negeri dapat mendorong bangsa-bangsa asia untuk berbuat seperti jepang , khususnya bangsa-bangsa di asia yang mengalami penjajahan dari bangsa barat seperti indonesia yang dikuasai oleh belanda .
+sentence 3: nasionalisme di cina pada abad ke-19 , melalui perjanjian-perjanjian yang dilakukan oleh pemerintah dinasti manchu dengan bangsa-bangsa barat , membuat cina diintervensi oleh bangsa barat .
+sentence 4: perjanjian itu di antaranya perjanjian nanking ( 1842 ) dan perjanjian peking ( 1860 ) .
+sentence 5: kedua perjanjian itu telah memaksa dibukanya beberapa pelabuhan untuk bangsa barat .
+passage 10 score = 6.5
+sentence 1: mahatma gandhi mampu mengembangkan partai kongres menjadi partai politik .
+sentence 2: nasionalisme di filipina spanyol menguasai filipina sejak tahun 1571 dan berakhir tahun 1898 .
+sentence 3: penjajahan di filipina pada akhirnya bermuara pada kebangkitan semangat nasionalisme .
+sentence 4: kebangkitan nasionalisme filipina ini termasuk sebagai kebangkitan yang paling awal jika dibandingkan dengan kebangkitan nasional di negaranegara lain di asia tenggara .
+sentence 5: gerakan nasionalisme di filipina dilatarbelakangi oleh adanya pemberlakuan dua model kekuasaan , yakni : pemerintahan sipil yang dipimpin oleh gubernur jenderal dan bertanggung jawab langsung kepada raja spanyol ; pemerintahan agama yang dipimpin oleh seorang uskup dan bertanggung jawab langsung kepada paus di roma .
+passage 12 score = 6.5
+sentence 1: hadirnya kaum terpelajar yang berpendidikan barat ; perlakuan yang tidak adil ; masuknya paham-paham baru ke filipina ; pengaruh kemenangan jepang atas rusia pada tahun 1905 , revolusi cina , dan turki muda .
+sentence 2: perlawanan dalam menentang kolonialisme spanyol di filipina berlangsung di bawah kepemimpinan tokoh-tokoh terkenal , seperti jose rizal , andres bonifacio , dan emilio aquinaldo .
+sentence 3: dalam hal ini , jose ri al memimpin perlawanan terhadap spanyol melalui organisasi pergerakan yang dikenal dengan nama liga filipina .
+sentence 4: strategi perjuangannya ditempuh dengan caracara radikal , tetapi tetap mengutamakan cara persuasif untuk menyadarkan rakyat dan bangsa filipina dalam melawan kekuasaan spanyol .
+sentence 5: akibat gerakan yang dilakukannya , jose ri al ditangkap dan kemudian dijatuhi hukumanmati pada tanggal 30 desember 1896 .
+passage 13 score = 6.5
+sentence 1: akibat gerakan yang dilakukannya , jose ri al ditangkap dan kemudian dijatuhi hukumanmati pada tanggal 30 desember 1896 .
+sentence 2: dengan meninggalnya jose ri al tidak menyebabkan semangat perjuangan menentang kolonialisme spanyol di filipina menjadi padam .
+sentence 3: bahkan sebaliknya , rakyat menjadi semakin marah dan semakin berani menunjukkan perlawanannya .
+sentence 4: hal ini terbukti dengan adanya perlawanan yang terus menerus sejak tahun 1897 di bawah pimpinan andres bonifacio yang mendirikan gerakan radikal dengan nama katipunan ng mga anak ng bayan , yang artinya gerakan persatuan anak rakyat dan gerakan yang dipimpin oleh emilio aquinaldo , yang dikenal sebagai seorang pejuang radikal dalam meneruskan pemberontakan katipunan jose ri al. ketika spanyol dihadapkan pada perang melawan amerika serikat dalam perebutan daerah di sekitar laut karibia , maka emilio aquinaldo memanfaatkan kesempatan tersebut untuk memproklamirkan kemerdekaan filipina pada tanggal 12 juni 1898 .
+sentence 5: seperti kita ketahui , sejak tahun 1898 kondisi perpolitikan kembali diwarnai dengan suasana tegang .
+passage 16 score = 6.5
+sentence 1: setelah memproklamirkan kemerdekaan filipina , emilio aquinaldo ditangkap oleh amerika .
+sentence 2: dengan demikian , setelah lepas dari spanyol , filipina jatuh ke tangan amerika ( 1898 ) .
+sentence 3: perjuangan menentang kolonialisme di filipina terus dikobarkan dan pada tahun 1919 filipina menuntut kemerdekaan penuh , tetapi ditolak oleh amerika dengan alasan filipina belum saatnya untuk merdeka .
+sentence 4: amerika hanya memberikan status commonwealth kepada bangsa filipina pada tahun 1943 .
+sentence 5: sepuluh tahun kemudian , filipina diberi kemerdekaan oleh amerika dengan hari yang sama dengan hari kemerdekaan amerika , yaitu tanggal 4 juli 1946 .
+passage 18 score = 6.5
+sentence 1: gerakan nasionalisme vietnam terjadi melalui tiga periode , yaitu sebagai berikut .
+sentence 2: periode 1913-1917 yang secara umum gerakan nasionalisme vietnam dikendalikan oleh kuang phuc hoi ( partai restorasi vietnam ) di bawah pimpinan phan boi dan phan trinh .
+sentence 3: gerakan tersebut bertujuan untuk menciptakan negara vietnam yang modern .
+sentence 4: periode tahun 1917-1930 yang ditandai dengan munculnya partai-partai politik , seperti , partai progresif rakyat vietnam , partai konstitusi , partai kebangsaan vietnam , gerakan cao dai , dan partai komunis vietnam .
+sentence 5: dari partai-partai tersebut , partai komunis vietnam berhasil memegang dan mengendalikan gerakan nasionalisme vietnam .
+passage 21 score = 6.5
+sentence 1: selanjutnya setelah jepang mengalami kekalahan dalam perang dunia ii , gerakan nasionalis vietnam kembali berada di bawah kendali ho chi minh .
+sentence 2: dengan kekalahan jepang tersebut , ho chi minh segera memanfaatkan kesempatan dengan memproklamasikan kemerdekaan vietnam pada tanggal 2 september 1945 .
+sentence 3: sementara itu , untuk menghadapi gerakan partai komunis vietnam , pada tanggal 1 juni 1949 prancis ( vichy ) segera membentuk negara boneka .
+sentence 4: pembentukan negara boneka ini bertujuan untuk mempertahankan kolonialismenya .
+sentence 5: ternyata pembentukan negara boneka tersebut menjadi pemicu terjadinya perang vietnam ( vietnam utara dan vietnam selatan ) .
+passage 22 score = 6.5
+sentence 1: ternyata pembentukan negara boneka tersebut menjadi pemicu terjadinya perang vietnam ( vietnam utara dan vietnam selatan ) .
+sentence 2: dalam perang tersebut , vietnam selatan dibantu dan dikendalikan oleh kekuatan prancis .
+sentence 3: perang tersebut diakhiri dengan perundingan jenewa .
+sentence 4: amerika khawatir dengan kemenangan komunis di vietnam dapat menyuburkan komunis di asia tenggara , akhirnya amerika ikut campur di vietnam .
+sentence 5: terjadilah reaksi keras dari vietnam , sehingga pecahlah perang vietnam i ( 1954-1964 ) dan perang vietnam ii ( 1964-1975 ) .
+passage 23 score = 6.5
+sentence 1: terjadilah reaksi keras dari vietnam , sehingga pecahlah perang vietnam i ( 1954-1964 ) dan perang vietnam ii ( 1964-1975 ) .
+sentence 2: nasionalisme di myanmar myanmar setelah jatuh ke tangan inggris mengalami tiga kali perang yang disebut the three burmese wars .
+sentence 3: dari sini nasionalisme myanmar terus bergelora .
+sentence 4: nasionalisme myanmar timbul di antaranya karena : kemenangan jepang dalam perang jepang-rusia 1905 ; nasionalisme di india mempengaruhi timbulnya nasionalisme di myanmar ; adanya perdamaian versailles yang memperjuangkan hak-hak menentukan nasib sendiri bagi bangsa-bangsa yang belum merdeka .
+sentence 5: pada tahun 1919 muncul gerakan melawan inggris dengan membentuk the general council of burmese association ( gcba ) yang menjalankan politik non kooperatif dengan inggris .
+passage 1 score = 6.0
+sentence 1: perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia nasionalisme di jepang nasionalisme jepang berkembang dengan diadakannya modernisasi negara dengan mengadopsi nilai-nilai budaya barat .
+sentence 2: tetapi tidak secara menyeluruh diserap melainkan disesuaikan dengan budaya jepang sendiri .
+sentence 3: awal modernisasi ini dijalankan jepang setelah amerika serikat dengan komodor perrynya berhasil mendobrak politik isolasi jepang yang menutup diri dari pengaruh luar pada tahun 1853 .
+sentence 4: masuknya bangsa barat di jepang atas sikap politik shogun menyebabkan golongan samurai menentangnya .
+sentence 5: akhirnya golongan samurai berhasil mengambil alih kekuasaan shogun dan menempatkan pangeran mutsuhito diangkat sebagai kaisar dengan gelar meiji .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+passage 2 score = 8.166666666666668
+sentence 1: pada tahun 1950 menteri luar negeri prancis , maurice schuman berkeinginan menyatukan produksi baja dan batu bara prancis dan jerman dalam wadah kerja sama yang terbuka untuk negara-negara eropa lainnya , sekaligus mengurangi kemungkinan terjadinya perang .
+sentence 2: keinginan itu terwujud dengan ditandatanganinya perjanjian pendirian pasaran bersama batu bara dan baja eropa atau european coal and steel community ( ecsc ) oleh enam negara , yaitu prancis , jerman barat ( republik federal jerman-rfj ) , belanda , belgia , luksemburg , dan italia .
+sentence 3: keenam negara tersebut selanjutnya disebut the six state .
+sentence 4: keberhasilan ecsc mendorong negara-negara the six state membentuk pasar bersama yang mencakup sektor ekonomi .
+sentence 5: hasil pertemuan di messina , pada tanggal 1 juni 1955 menunjuk paul henry spaak ( menlu belgia ) sebagai ketua komite yang harus menyusun laporan tentang kemungkinan kerja sama ke semua bidang ekonomi .
+passage 10 score = 8.166666666666668
+sentence 1: untuk melancarkan aktivitasnya , masyarakat ekonomi eropa membentuk beberapa organisasi baru , yaitu : parlemen eropa ( european parliament ) ; sistem moneter eropa ( european monetary system ) ; unit uang eropa ( european currency unit ) ; pasar tunggal ( single market ) .
+sentence 2: menurut perhitungan suara referendum prancis yang diselenggarakan pada tanggal 20 september 1992 tentang perjanjian maastrich , menunjukkan bahwa 50,95 % pemilih menyatakan setuju .
+sentence 3: untuk mendirikan organisasi-organisasi tersebut pada tanggal 7 februari 1992 di maastrich , belanda diadakan pertemuan anggota mee .
+sentence 4: hasil pertemuan itu dituangkan dalam sebuah naskah perjanjian yang disebut the treaty on european union ( teu ) atau perjanjian penyatuan eropa yang telah ditandatangani oleh kepala negara/pemerintah di maastrich , belanda .
+sentence 5: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+passage 3 score = 7.833333333333333
+sentence 1: hasil pertemuan di messina , pada tanggal 1 juni 1955 menunjuk paul henry spaak ( menlu belgia ) sebagai ketua komite yang harus menyusun laporan tentang kemungkinan kerja sama ke semua bidang ekonomi .
+sentence 2: laporan komite spaak berisi dua rancangan yang lebih mengintegrasikan eropa , yaitu : membentuk european economic community ( eec ) atau masyarakat ekonomi eropa ( mee ) ; membentuk european atomic energy community ( euratom ) atau badan tenaga atom eropa .
+sentence 3: rancangan spaak itu disetujui pada tanggal 25 maret 1957 di roma dan kedua perjanjian itu mulai berlaku tanggal 1 januari 1958 .
+sentence 4: dengan demikian , terdapat tiga organisasi di eropa , yaitu ecsc , eec ( mee ) , dan euratom ( eaec ) .
+sentence 5: pada konferensi di brussel tanggal 22 januari 1972 , inggris , irlandia , dan denmark bergabung dalam mee .
+passage 11 score = 7.833333333333333
+sentence 1: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+sentence 2: perubahan masyarakat ekonomi eropa ( mee ) menjadi uni eropa ( ue ) melalui perjanjian maastrich , ke – 12 negara anggota masyarakat eropa dipersatukan dalam mekanisme kesatuan eropa , dengan pelaksanaan secara bertahap .
+sentence 3: the treaty on european union mulai dilaksanakan pada tanggal 1 januari 1993 , setelah diratifikasi oleh semua parlemen anggota masyarakat eropa .
+sentence 4: mulai tahun 1999 , masyarakat eropa hanya mengenal satu mata uang yang disebut european currency unit ( ecu ) atau ( european union – eu ) .
+sentence 5: beberapa bentuk perjanjian yang pernah dilakukan mee harus mengalami beberapa kali amandemen .
+passage 12 score = 7.333333333333333
+sentence 1: beberapa bentuk perjanjian yang pernah dilakukan mee harus mengalami beberapa kali amandemen .
+sentence 2: hal itu berkaitan dengan bertambahnya anggota .
+sentence 3: kenggotaan uni eropa terbuka bagi semua negara dengan syarat : negara tersebut berada di kawasan benua eropa ; negara tersebut harus menerapkan prinsip-prinsip demokrasi , penegakan hukum , menghormati hak asasi manusia ( ham ) , dan bersedia menjalankan segala peraturan perundang-undangan eropa .
+sentence 4: pada tahun 2004 keanggotaan uni eropa berjumlah dua puluh lima negara .
+sentence 5: sepuluh negara yang menjadi anggota baru uni eropa sebelumnya berada di wilayah eropa timur .
+passage 4 score = 6.5
+sentence 1: pada konferensi di brussel tanggal 22 januari 1972 , inggris , irlandia , dan denmark bergabung dalam mee .
+sentence 2: pada tahun 1981 yunani masuk menjadi anggota mee yang kemudian disusul spanyol dan portugal .
+sentence 3: dengan demikian keanggotaan mee sebanyak 12 negara .
+sentence 4: mee merupakan organisasi yang terpenting dari ketiga organisasi tersebut .
+sentence 5: bukan saja karena meliputi sektor ekonomi , melainkan juga karena pelaksanaannya memerlukan pengaturan bersama yang meliputi industri , keuangan , dan perekonomian .
+passage 7 score = 6.5
+sentence 1: keanggotaannya terdiri atas menteri luar negeri negara-negara anggota .
+sentence 2: tugasnya menjamin terlaksananya kerja sama ekonomi negara anggota dan mempunyai kekuasaan membuat suatu peraturan organisasi .
+sentence 3: ketuanya dipilih secara bergilir menurut abjad negara anggota dan memegang jabatan selama enam tahun .
+sentence 4: badan pengurus harian atau komisi ( commision ) .
+sentence 5: keanggotaan badan pengurus harian atau komisi mee terdiri atas sembilan anggota yang dipilih berdasarkan kemampuannya secara umum dengan masa jabatan empat tahun .
+passage 1 score = 6.0
+sentence 1: masyarakat ekonomi eropa mee atau uni eropa eu - masyarakat ekonomi eropa ( european economic community ) atau uni eropa ( european union ) .
+sentence 2: sejak berakhirnya perang dunia ii , eropa mengalami kemiskinan dan perpecahan .
+sentence 3: usaha untuk mempersatukan eropa sudah dilakukan .
+sentence 4: namun , keberhasilannya bergantung pada dua negara besar , yaitu prancis dan jerman barat .
+sentence 5: pada tahun 1950 menteri luar negeri prancis , maurice schuman berkeinginan menyatukan produksi baja dan batu bara prancis dan jerman dalam wadah kerja sama yang terbuka untuk negara-negara eropa lainnya , sekaligus mengurangi kemungkinan terjadinya perang .
+passage 8 score = 6.0
+sentence 1: keanggotaan badan pengurus harian atau komisi mee terdiri atas sembilan anggota yang dipilih berdasarkan kemampuannya secara umum dengan masa jabatan empat tahun .
+sentence 2: komisi berperan sebagai pemegang kekuasaan eksekutif dan badan pelaksana mee .
+sentence 3: di samping itu komisi juga mengamati dan mengawasi keputusan mee , memperhatikan saran-saran baru , serta memberikan usul dan kritik kepada sidang mee dalam segala bidang .
+sentence 4: hasil kerjanya dilaporkan setiap tahun kepada majelis umum ( general assembly ) .
+sentence 5: mahkamah peradilan ( the court of justice ) .
+passage 13 score = 6.0
+sentence 1: sepuluh negara yang menjadi anggota baru uni eropa sebelumnya berada di wilayah eropa timur .
+sentence 2: negara anggota uni eropa yang baru itu adalah republik ceko , estonia , hongaria , latvia , lithuania , malta , polandia , siprus , republik slovakia , dan slovenia .
+sentence 3: pada tahun 2007 , bulgaria dan rumania juga diharapkan bergabung dengan uni eropa .
+sentence 4: sementara itu , permintaan turki untuk menjadi anggota uni eropa masih ditangguhkan .
+sentence 5: hal itu disebabkan turki belum melaksanakan perubahan ( reformasi ) politik dan ekonomi di dalam negerinya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+passage 12 score = 8.166666666666668
+sentence 1: pasar tunggal ( single market ) .
+sentence 2: menurut perhitungan suara referendum prancis yang diselenggarakan pada tanggal 20 september 1992 tentang perjanjian maastrich , menunjukkan bahwa 50,95 % pemilih menyatakan setuju .
+sentence 3: untuk mendirikan organisasi-organisasi tersebut pada tanggal 7 februari 1992 di maastrich , belanda diadakan pertemuan anggota mee .
+sentence 4: hasil pertemuan itu dituangkan dalam sebuah naskah perjanjian yang disebut the treaty on european union ( teu ) atau perjanjian penyatuan eropa yang telah ditandatangani oleh kepala negara/pemerintah di maastrich , belanda .
+sentence 5: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+passage 4 score = 7.833333333333333
+sentence 1: membentuk european atomic energy community ( euratom ) atau badan tenaga atom eropa .
+sentence 2: rancangan spaak itu disetujui pada tanggal 25 maret 1957 di roma dan kedua perjanjian itu mulai berlaku tanggal 1 januari 1958 .
+sentence 3: dengan demikian , terdapat tiga organisasi di eropa , yaitu ecsc , eec ( mee ) , dan euratom ( eaec ) .
+sentence 4: pada konferensi di brussel tanggal 22 januari 1972 , inggris , irlandia , dan denmark bergabung dalam mee .
+sentence 5: pada tahun 1981 yunani masuk menjadi anggota mee yang kemudian disusul spanyol dan portugal .
+passage 13 score = 7.833333333333333
+sentence 1: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+sentence 2: perubahan masyarakat ekonomi eropa ( mee ) menjadi uni eropa ( ue ) melalui perjanjian maastrich , ke – 12 negara anggota masyarakat eropa dipersatukan dalam mekanisme kesatuan eropa , dengan pelaksanaan secara bertahap .
+sentence 3: the treaty on european unionmulai dilaksanakan pada tanggal 1 januari 1993 , setelah diratifikasi oleh semua parlemen anggota masyarakat eropa .
+sentence 4: mulai tahun 1999 , masyarakat eropa hanya mengenal satu mata uang yang disebut european currency unit ( ecu ) atau ( european union – eu ) .
+sentence 5: beberapa bentuk perjanjian yang pernah dilakukan mee harus mengalami beberapa kali amandemen .
+passage 2 score = 7.666666666666667
+sentence 1: namun , keberhasilannya bergantung pada dua negara besar , yaitu prancis dan jerman barat .
+sentence 2: pada tahun 1950 menteri luar negeri prancis , maurice schuman berkeinginan menyatukan produksi baja dan batu bara prancis dan jerman dalam wadah kerja sama yang terbuka untuk negara-negara eropa lainnya , sekaligus mengurangi kemungkinan terjadinya perang .
+sentence 3: keinginan itu terwujud dengan ditandatanganinya perjanjian pendirian pasaran bersama batu bara dan baja eropa atau european coal and steel community ( ecsc ) oleh enam negara , yaitu prancis , jerman barat ( republik federal jerman-rfj ) , belanda , belgia , luksemburg , dan italia .
+sentence 4: keenam negara tersebut selanjutnya disebut the six state .
+sentence 5: keberhasilan ecsc mendorong negara-negara the six state membentuk pasar bersama yang mencakup sektor ekonomi .
+passage 9 score = 6.5
+sentence 1: ketuanya dipilih secara bergilir menurut abjad negara anggota dan memegang jabatan selama enam tahun .
+sentence 2: c ) badan pengurus harian atau komisi ( commision ) keanggotaan badan pengurus harian atau komisi mee terdiri atas sembilan anggota yang dipilih berdasarkan kemampuannya secara umum dengan masa jabatan empat tahun .
+sentence 3: komisi berperan sebagai pemegang kekuasaan eksekutif dan badan pelaksana mee .
+sentence 4: di samping itu komisi juga mengamati dan mengawasi keputusan mee , memperhatikan saran-saran baru , serta memberikan usul dan kritik kepada sidang mee dalam segala bidang .
+sentence 5: hasil kerjanya dilaporkan setiap tahun kepada majelis umum ( general assembly ) .
+passage 15 score = 6.5
+sentence 1: negara tersebut harus menerapkan prinsip-prinsip demokrasi , penegakan hukum , menghormati hak asasi manusia ( ham ) , dan bersedia menjalankan segala peraturan perundang-undangan eropa .
+sentence 2: pada tahun 2004 keanggotaan uni eropa berjumlah dua puluh lima negara .
+sentence 3: sepuluh negara yang menjadi anggota baru uni eropa sebelumnya berada di wilayah eropa timur .
+sentence 4: negara anggota uni eropa yang baru itu adalah republik ceko , estonia , hongaria , latvia , lithuania , malta , polandia , siprus , republik slovakia , dan slovenia .
+sentence 5: pada tahun 2007 , bulgaria dan rumania juga diharapkan bergabung dengan uni eropa .
+passage 3 score = 6.0
+sentence 1: keberhasilan ecsc mendorong negara-negara the six state membentuk pasar bersama yang mencakup sektor ekonomi .
+sentence 2: hasil pertemuan di messina , pada tanggal 1 juni 1955 menunjuk paul henry spaak ( menlu belgia ) sebagai ketua komite yang harus menyusun laporan tentang kemungkinan kerja sama ke semua bidang ekonomi .
+sentence 3: laporan komite spaak berisi dua rancangan yang lebih mengintegrasikan eropa , yaitu : 1 .
+sentence 4: membentuk european economic community ( eec ) atau masyarakat ekonomi eropa ( mee ) ; 2 .
+sentence 5: membentuk european atomic energy community ( euratom ) atau badan tenaga atom eropa .
+passage 5 score = 6.0
+sentence 1: pada tahun 1981 yunani masuk menjadi anggota mee yang kemudian disusul spanyol dan portugal .
+sentence 2: dengan demikian keanggotaan mee sebanyak 12 negara .
+sentence 3: mee merupakan organisasi yang terpenting dari ketiga organisasi tersebut .
+sentence 4: bukan saja karena meliputi sektor ekonomi , melainkan juga karena pelaksanaannya memerlukan pengaturan bersama yang meliputi industri , keuangan , dan perekonomian .
+sentence 5: mee menegaskan tujuannya , antara lain : 1 .
+passage 8 score = 6.0
+sentence 1: tugasnya memberikan nasihat dan mengajukan usul kepada dewan menteri dan kepada komisi tentang langkah-langkah kebijakan yang diambil , serta mengawasi pekerjaan badan pengurus harian atau komisi mee serta meminta pertanggungjawabannya .
+sentence 2: b ) dewan menteri ( the council ) dewan menteri mee mempunyai kekuasaan tertinggi untuk merencanakan dan memberikan keputusan kebijakan yang diambil .
+sentence 3: keanggotaannya terdiri atas menteri luar negeri negara-negara anggota .
+sentence 4: tugasnya menjamin terlaksananya kerja sama ekonomi negara anggota dan mempunyai kekuasaan membuat suatu peraturan organisasi .
+sentence 5: ketuanya dipilih secara bergilir menurut abjad negara anggota dan memegang jabatan selama enam tahun .
+passage 16 score = 6.0
+sentence 1: pada tahun 2007 , bulgaria dan rumania juga diharapkan bergabung dengan uni eropa .
+sentence 2: sementara itu , permintaan turki untuk menjadi anggota uni eropa masih ditangguhkan .
+sentence 3: hal itu disebabkan turki belum melaksanakan perubahan ( reformasi ) politik dan ekonomi di dalam negerinya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok308.txt
+title : sejarah agresi militer belanda ii 19 desember 1948
+passage 3 score = 7.166666666666667
+sentence 1: mesikipun demikian , pada kenyataannya , kekuatan tentaralah yang dikerahkan untuk melaksanakan penyerangan militer belanda ii 19 desember 1948 .
+sentence 2: kekuatan “ polisi ” yang dipakai oleh pihak belanda dengan cara praktis adalah suatu kekuatan “ militer ” sebab dibekali dengan peralatan yang biasanya hanya dimiliki oleh kesatuan-kesatuan militer , antara lain kendaraan lapis baja serta alat-alat persenjataan berat .
+sentence 3: alasan lain yang tidak jarang dikemukakan belanda untuk membenarkan penyerangan militer belanda ii 19 desember 1948 adalah bahwa ri tidak sepenuhnya menjalankan perjanjian renville , yang ditandatangani pada 17 januari 1947 .
+sentence 4: menurut perjanjian tersebut , ri wajib mengosongkan kekuatan tni dari jawa barat serta jawa timur .
+sentence 5: perjanjian ini menyebabkan jatuhnya kabinet amir syarifuddin .
+passage 4 score = 6.833333333333333
+sentence 1: perjanjian ini menyebabkan jatuhnya kabinet amir syarifuddin .
+sentence 2: rakyat indonesia yang nasib di kurang lebih tahun tersebut tidak jarang menyebut momen tersebut sebagai zaman dorsetut ( doorstoot ) , alias “ kles ” ( clash ) .
+sentence 3: pemerintah ri sendiri dengan cara resmi menyebut momen itu sebagai penyerangan militer belanda ii 19 desember 1948 .
+sentence 4: angka ii di belakang istilah tersebut menunjukkan bahwa belanda sebelumnya juga sempat melancarkan serangan ke wilayah ri .
+sentence 5: dalam buku-buku sejarah resmi indonesia , diceritakan bahwa pada tahun 1947 belanda sempat melancarkan penyerangan militer belanda i pada 1947 tidak lama seusai penandatanganan perjanjian linggarjati .
+passage 5 score = 6.833333333333333
+sentence 1: dalam buku-buku sejarah resmi indonesia , diceritakan bahwa pada tahun 1947 belanda sempat melancarkan penyerangan militer belanda i pada 1947 tidak lama seusai penandatanganan perjanjian linggarjati .
+sentence 2: semacam istilah yang diberbagi untuk penyerangan militer belanda ii 19 desember 1948 , belanda menyebut serangan ini sebagai “ aksi polisionil i ” .
+sentence 3: mesikipun pihak belanda bersikeras menyebut momen penyerbuan ke wilayah-wilayah ri sebagai “ aksi polisionil ” , serta dengan demikian tidak lebih cocok bila disebut sebagai suatu “ perang ” , perencanaan serta pelaksanaan penyerbuan tersebut adalah khas militer serta taktik serta taktik yang diterapkan menunjukkan bahwa penyerbuan tersebut terbukti adalah suatu perang .
+sentence 4: pihak belanda menyebut gerakan ofensif dalam penyerangan militer belanda ii 19 desember 1948 sebagai operasi kraai alias operasi gagak .
+sentence 5: sasaran utamanya adalah bunda kota republik indonesia pada saat itu , yaitu yogyakarta , serta wilayah-wilayah ri yang lain baik di pulau jawa maupun pulau sumatera .
+passage 1 score = 5.5
+sentence 1: sejarah agresi militer belanda ii 19 desember 1948 – agresi militer belanda ii 19 desember 1948 merupakan peristiwa penyerbuan ke wilayah republik indonesia oleh tentara belanda .
+sentence 2: pemerintahan belanda di wilayah bekas hindia belanda bersikeras menyebut momen penyerbuan tersebut sebagai “ aksi polisionil ” .
+sentence 3: dengan istilah “ aksi polisionil ” , pihak belanda ingin menegaskan bahwa momen tersebut bukan adalah momen militer .
+sentence 4: sebuah momen militer menganggapankan adanya perang antara dua entitas negara yang tidak sama .
+sentence 5: padahal , bagi pihak belanda , ri bukan adalah suatu negara , melainkan tahap dari wilayah yang dikuasai oleh belanda .
+passage 2 score = 5.5
+sentence 1: padahal , bagi pihak belanda , ri bukan adalah suatu negara , melainkan tahap dari wilayah yang dikuasai oleh belanda .
+sentence 2: penyerangan militer belanda ii 19 desember 1948 dimaksudkan oleh belanda untuk memusnahkan kekuatan bersenjata yang berada di pihak ri , yaitu tni , yang dianggap sebagai ekstrimis alias bahkan kriminal .
+sentence 3: bagi belanda , apa yang kami kenal sebagai penyerangan militer belanda ii 19 desember 1948 adalah suatu perbuatan yang diperbuat oleh kekuatan polisi , yang dalam struktur kelembagaan negara manapun adalah suatu lembaga untuk menegakkan keamanan serta ketertiban sipil .
+sentence 4: dengan demikian , tni bagi belanda adalah “ kriminal ” yang mengganggu ketertiban serta keamanan .
+sentence 5: mesikipun demikian , pada kenyataannya , kekuatan tentaralah yang dikerahkan untuk melaksanakan penyerangan militer belanda ii 19 desember 1948 .
+passage 6 score = 5.5
+sentence 1: sasaran utamanya adalah bunda kota republik indonesia pada saat itu , yaitu yogyakarta , serta wilayah-wilayah ri yang lain baik di pulau jawa maupun pulau sumatera .
+sentence 2: sebab perencanaan yang sangat matang serta pelaksanaan yang sempurna , operasi ini tidak jarang dianggap sebagai salah satu operasi militer paling berhasil di dunia .
+sentence 3: pasukan belanda yang melaksanakan operasi gagak alias penyerangan militer belanda ii 19 desember 1948 adalah perpaduan dari personel kl ( koninlijk leger/tentara kerajaan belanda ) serta knil ( koninlijk nederlandsche indische leger/tentara kerajaan hindia belanda ) .
+sentence 4: pemegang komando militer paling atas pasukan belanda adalah jenderal simon m. spoor , yang juga memimpin penyerangan militer belanda i pada 1947 .
+sentence 5: penyerbuan ke sasaran mutlak penyerangan militer belanda ii 19 desember 1948 , yaitu bunda kota yogyakarta , dimulai dari lapangan terbang maguwo ( kini bandar udara adisutjipto , sebelah timur kota yogyakarta ) .
+passage 7 score = 5.5
+sentence 1: penyerbuan ke sasaran mutlak penyerangan militer belanda ii 19 desember 1948 , yaitu bunda kota yogyakarta , dimulai dari lapangan terbang maguwo ( kini bandar udara adisutjipto , sebelah timur kota yogyakarta ) .
+sentence 2: pasukan pertama yang menyerbu lapangan udara maguwo terdiri dari 432 anak buah pasukan kst .
+sentence 3: seluruh anak buah pasukan ini selamat .
+sentence 4: 1 .
+sentence 5: 18 desember 1948 .
+passage 8 score = 5.5
+sentence 1: 18 desember 1948 .
+sentence 2: pukul 23:30 : radio antara dari jakarta mengabarkan bahwa dr. beel , wakil tinggi mahkota belanda , bakal mengucapkan pidato penting besok pagi .
+sentence 3: 2 .
+sentence 4: 19 desember 1948 .
+sentence 5: pukul 02.00 : pasukan 1e para-compagnie ( pasukan para i ) kst di andir mulai memeproleh perlengkapan parasut masing-masing .
+passage 10 score = 5.0
+sentence 1: pukul 03:45 : mayor jendral engles tiba di bandar udara andir .
+sentence 2: 5 .
+sentence 3: pukul 04:00 : jendral spoor tiba .
+sentence 4: pemimpin seluruh operasi gagak alias penyerangan militer belanda ii 19 desember 1948 ini meperbuat inspeksi serta memberbagi pidato singkat .
+sentence 5: 6 .
+passage 14 score = 5.0
+sentence 1: pukul 06:45 : pasukan kst mulai diterjunkan .
+sentence 2: pada saat yang sama , dr. beel mengucapkan suatu pidato radio , di mana dirinya menyebutkan bahwa belanda tidak terbelit lagi dengan persetujuan renville .
+sentence 3: penyerangan terhadap lapangan udara maguwo , yang memulai seluruh peperangan selagi penyerangan militer belanda ii 19 desember 1948 , terbukti adalah operasi militer yang berhasil .
+sentence 4: pertahanan lapangan udara tersebut bisa dikatakan tidak ada .
+sentence 5: hanya tersedia berbagai pucuk senapan serta suatu senapan anti pesawat kaliber 12,7 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok267.txt
+title : agresi militer belanda ii 19 desember 1948
+passage 3 score = 7.166666666666667
+sentence 1: mesikipun demikian , pada kenyataannya , kekuatan tentaralah yang dikerahkan untuk melaksanakan penyerangan militer belanda ii 19 desember 1948 .
+sentence 2: kekuatan “ polisi ” yang dipakai oleh pihak belanda dengan cara praktis adalah suatu kekuatan “ militer ” sebab dibekali dengan peralatan yang biasanya hanya dimiliki oleh kesatuan-kesatuan militer , antara lain kendaraan lapis baja serta alat-alat persenjataan berat .
+sentence 3: alasan lain yang tidak jarang dikemukakan belanda untuk membenarkan penyerangan militer belanda ii 19 desember 1948 adalah bahwa ri tidak sepenuhnya menjalankan perjanjian renville , yang ditandatangani pada 17 januari 1947 .
+sentence 4: menurut perjanjian tersebut , ri wajib mengosongkan kekuatan tni dari jawa barat serta jawa timur .
+sentence 5: perjanjian ini menyebabkan jatuhnya kabinet amir syarifuddin .
+passage 4 score = 6.833333333333333
+sentence 1: perjanjian ini menyebabkan jatuhnya kabinet amir syarifuddin .
+sentence 2: rakyat indonesia yang nasib di kurang lebih tahun tersebut tidak jarang menyebut momen tersebut sebagai zaman dorsetut ( doorstoot ) , alias “ kles ” ( clash ) .
+sentence 3: pemerintah ri sendiri dengan cara resmi menyebut momen itu sebagai penyerangan militer belanda ii 19 desember 1948 .
+sentence 4: angka ii di belakang istilah tersebut menunjukkan bahwa belanda sebelumnya juga sempat melancarkan serangan ke wilayah ri .
+sentence 5: dalam buku-buku sejarah resmi indonesia , diceritakan bahwa pada tahun 1947 belanda sempat melancarkan penyerangan militer belanda i pada 1947 tidak lama seusai penandatanganan perjanjian linggarjati .
+passage 5 score = 6.833333333333333
+sentence 1: dalam buku-buku sejarah resmi indonesia , diceritakan bahwa pada tahun 1947 belanda sempat melancarkan penyerangan militer belanda i pada 1947 tidak lama seusai penandatanganan perjanjian linggarjati .
+sentence 2: semacam istilah yang diberbagi untuk penyerangan militer belanda ii 19 desember 1948 , belanda menyebut serangan ini sebagai “ aksi polisionil i ” .
+sentence 3: mesikipun pihak belanda bersikeras menyebut momen penyerbuan ke wilayah-wilayah ri sebagai “ aksi polisionil ” , serta dengan demikian tidak lebih cocok bila disebut sebagai suatu “ perang ” , perencanaan serta pelaksanaan penyerbuan tersebut adalah khas militer serta taktik serta taktik yang diterapkan menunjukkan bahwa penyerbuan tersebut terbukti adalah suatu perang .
+sentence 4: pihak belanda menyebut gerakan ofensif dalam penyerangan militer belanda ii 19 desember 1948 sebagai operasi kraai alias operasi gagak .
+sentence 5: sasaran utamanya adalah bunda kota republik indonesia pada saat itu , yaitu yogyakarta , serta wilayah-wilayah ri yang lain baik di pulau jawa maupun pulau sumatera .
+passage 2 score = 5.5
+sentence 1: padahal , bagi pihak belanda , ri bukan adalah suatu negara , melainkan tahap dari wilayah yang dikuasai oleh belanda .
+sentence 2: penyerangan militer belanda ii 19 desember 1948 dimaksudkan oleh belanda untuk memusnahkan kekuatan bersenjata yang berada di pihak ri , yaitu tni , yang dianggap sebagai ekstrimis alias bahkan kriminal .
+sentence 3: bagi belanda , apa yang kami kenal sebagai penyerangan militer belanda ii 19 desember 1948 adalah suatu perbuatan yang diperbuat oleh kekuatan polisi , yang dalam struktur kelembagaan negara manapun adalah suatu lembaga untuk menegakkan keamanan serta ketertiban sipil .
+sentence 4: dengan demikian , tni bagi belanda adalah “ kriminal ” yang mengganggu ketertiban serta keamanan .
+sentence 5: mesikipun demikian , pada kenyataannya , kekuatan tentaralah yang dikerahkan untuk melaksanakan penyerangan militer belanda ii 19 desember 1948 .
+passage 6 score = 5.5
+sentence 1: sasaran utamanya adalah bunda kota republik indonesia pada saat itu , yaitu yogyakarta , serta wilayah-wilayah ri yang lain baik di pulau jawa maupun pulau sumatera .
+sentence 2: sebab perencanaan yang sangat matang serta pelaksanaan yang sempurna , operasi ini tidak jarang dianggap sebagai salah satu operasi militer paling berhasil di dunia .
+sentence 3: pasukan belanda yang melaksanakan operasi gagak alias penyerangan militer belanda ii 19 desember 1948 adalah perpaduan dari personel kl ( koninlijk leger/tentara kerajaan belanda ) serta knil ( koninlijk nederlandsche indische leger/tentara kerajaan hindia belanda ) .
+sentence 4: pemegang komando militer paling atas pasukan belanda adalah jenderal simon m. spoor , yang juga memimpin penyerangan militer belanda i pada 1947 .
+sentence 5: penyerbuan ke sasaran mutlak penyerangan militer belanda ii 19 desember 1948 , yaitu bunda kota yogyakarta , dimulai dari lapangan terbang maguwo ( kini bandar udara adisutjipto , sebelah timur kota yogyakarta ) .
+passage 7 score = 5.5
+sentence 1: penyerbuan ke sasaran mutlak penyerangan militer belanda ii 19 desember 1948 , yaitu bunda kota yogyakarta , dimulai dari lapangan terbang maguwo ( kini bandar udara adisutjipto , sebelah timur kota yogyakarta ) .
+sentence 2: pasukan pertama yang menyerbu lapangan udara maguwo terdiri dari 432 anak buah pasukan kst .
+sentence 3: seluruh anak buah pasukan ini selamat .
+sentence 4: 18 desember 1948 .
+sentence 5: pukul 23:30 : radio antara dari jakarta mengabarkan bahwa dr. beel , wakil tinggi mahkota belanda , bakal mengucapkan pidato penting besok pagi .
+passage 1 score = 5.0
+sentence 1: agresi militer belanda ii 19 desember 1948 merupakan peristiwa penyerbuan ke wilayah republik indonesia oleh tentara belanda .
+sentence 2: pemerintahan belanda di wilayah bekas hindia belanda bersikeras menyebut momen penyerbuan tersebut sebagai “ aksi polisionil ” .
+sentence 3: dengan istilah “ aksi polisionil ” , pihak belanda ingin menegaskan bahwa momen tersebut bukan adalah momen militer .
+sentence 4: sebuah momen militer menganggapankan adanya perang antara dua entitas negara yang tidak sama .
+sentence 5: padahal , bagi pihak belanda , ri bukan adalah suatu negara , melainkan tahap dari wilayah yang dikuasai oleh belanda .
+passage 8 score = 5.0
+sentence 1: pukul 23:30 : radio antara dari jakarta mengabarkan bahwa dr. beel , wakil tinggi mahkota belanda , bakal mengucapkan pidato penting besok pagi .
+sentence 2: 19 desember 1948 .
+sentence 3: pukul 02.00 : pasukan 1e para-compagnie ( pasukan para i ) kst di andir mulai memeproleh perlengkapan parasut masing-masing .
+sentence 4: pukul 03.30 : briefing akhir para komandan .
+sentence 5: pukul 03:45 : mayor jendral engles tiba di bandar udara andir .
+passage 9 score = 5.0
+sentence 1: pukul 03:45 : mayor jendral engles tiba di bandar udara andir .
+sentence 2: pukul 04:00 : jendral spoor tiba .
+sentence 3: pemimpin seluruh operasi gagak alias penyerangan militer belanda ii 19 desember 1948 ini meperbuat inspeksi serta memberbagi pidato singkat .
+sentence 4: pukul 04:20 : seluruh personel kst naik ke pesawat .
+sentence 5: mereka diangkut dengan enambelas buah pesawat angkut dakota .
+passage 11 score = 5.0
+sentence 1: pukul 05:45 : lima pesawat mustang serta sembilan pesawat kittyhawk membombardir lapangan udara maguwo dengan mitralyur serta bom .
+sentence 2: pukul 06:25 : para pilot pesawat pemburu mengabarkan bahwa zona penerjunan sudah bisa dipakai .
+sentence 3: pukul 06:45 : pasukan kst mulai diterjunkan .
+sentence 4: pada saat yang sama , dr. beel mengucapkan suatu pidato radio , di mana dirinya menyebutkan bahwa belanda tidak terbelit lagi dengan persetujuan renville .
+sentence 5: penyerangan terhadap lapangan udara maguwo , yang memulai seluruh peperangan selagi penyerangan militer belanda ii 19 desember 1948 , terbukti adalah operasi militer yang berhasil .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok351.txt
+title : sejarah perjuangan pembebasan irian barat
+passage 1 score = 5.5
+sentence 1: sejarah perjuangan pembebasan irian barat – pada kesempatan ini admin pengertian sejarah akan berbagi informasi mengenai sejarah perjuangan pembebasan irian barat , sebelumnya admin juga sudah berbagi tentang sejarah perang vietnam .
+sentence 2: salah satu keputusan dalam kmb ( 27 desember 1949 ) belanda mengikuti kedaulatan indonesia sepenuhnya kecuali wilayah irian barat yang rencananya akan dikembalikan setahun kemudian .
+sentence 3: namun setelah pengakuan kedaulatan , belanda tidak juga menyerahkan irian barat kepada indonesia .
+sentence 4: perjuangan diplomasi dalam upaya membebaskan wilayah irian barat dari cengkeraman belanda pemerintah ri pertarna mengambil langkah diplomasi dilakukan secara bilataral baik dengan pemerintah belanda maupun dengan dunia internasional .
+sentence 5: perundingan ( diplomasi ) dengan pemerintah belanda terjadi pertama kali pada masa kabineg natsir tahun 1950 tetapi gagal , bahkan pada tahun 1952 secara sepihak belanda memasukkan irian barat dalam wilayah kerajaan belanda .
+passage 2 score = 5.5
+sentence 1: perundingan ( diplomasi ) dengan pemerintah belanda terjadi pertama kali pada masa kabineg natsir tahun 1950 tetapi gagal , bahkan pada tahun 1952 secara sepihak belanda memasukkan irian barat dalam wilayah kerajaan belanda .
+sentence 2: upaya diplomasi internasional dilakukan oleh kabinet sastroamijoyo yaitu dengan membawa masalah irian barat ke forum pbb , tapi tidak membawa hasil .
+sentence 3: pada masa kabinet burhanuddin , belanda menanggapi bahwa masalah irian barat merupakan masalah antara indonesia – belanda dan mengajukan usul yang berisi tentang penempatan irian barat di bawah uni indonesia – belanda .
+sentence 4: disamping membawa masalah irian barat ke forum pbb indonesia juga melakukan pendekatan dengan negara-negara asia afrika dan ini membawa hasil yang positif , antara lain sebagai berikut : 1 .
+sentence 5: dalam konferensi pancanegara ii di bogor lima negara peserta sepakat mendukung indonesia dalam mengembalikan irian barat ke dalam wilayah indonesia 2 .
+passage 4 score = 5.5
+sentence 1: 2 .
+sentence 2: pada tanggal 3 mei 1956 melakukan pembatalan hasil-hasil kmb \ pada tanggal 17 agustus 1956 membentuk provinsi irian barat yang berkedudukan di saosiu dan menunjuk sultan tidore , zaenal abidin syah sebagai gubernurnya .
+sentence 3: 3 .
+sentence 4: pada tanggal 18 november 1957 diadakan rapat umum penbebasan irian barat .
+sentence 5: 4 .
+passage 5 score = 5.5
+sentence 1: 4 .
+sentence 2: pada tanggal 5 desember 1957 melarang semua film yang berbahasa belanda , kapal terbang belanda juga dilarang mendarat dan terbang di wilayah ri .
+sentence 3: 5 .
+sentence 4: pada tanggal 5 desember 1958 melakukan penghentian semua kegiatan konsuler belanda di indonesia .
+sentence 5: 6 .
+passage 6 score = 5.5
+sentence 1: 6 .
+sentence 2: dengan peraturan pemerintah no. 23 tahun 1958 dilakukan pengambilalihan modal belanda di indonesia .
+sentence 3: 7 .
+sentence 4: pada tanggal 19 februari 1958 dibentuk front nasional pembebasan irian barat 8 .
+sentence 5: pada tanggal 17 agustus 1960 memutuskan hubungan diplomatik dengan belanda 9 .
+passage 7 score = 5.5
+sentence 1: pada tanggal 17 agustus 1960 memutuskan hubungan diplomatik dengan belanda 9 .
+sentence 2: menasionalisasi 700 perusahaan milik belanda di indonesia sementara itu pemerintah belanda meningkatkan kekuatan militernya dengan mengirimkan kapal induk karel doorman ke irian barat .
+sentence 3: situasi semakin memanas dan pada sidang majelis umum pbb tahun 1961 kembali dibicarakan masalah irian barat kepada indonesia dengan perantara pbb .
+sentence 4: pemerintah indonesia menyetujui usul tersebut dengan syarat waktunya dipercepat .
+sentence 5: sedangkan belanda menyatakan akan melepaskan irian barat untuk dilanjutkan di dewan perwakilan pbb kemudian membentuk negara papua .
+passage 10 score = 5.5
+sentence 1: operasi militer itu dinamakan operasi jaya wijaya .
+sentence 2: 2 .
+sentence 3: eksploitasi , dimulai awal tahun 1963 dengan mengadakan serangan terbuka guna menguasai pos-pos musuh yang penting .
+sentence 4: 3 .
+sentence 5: konsolidasi , dilakukan pada tahun 1964 dengan mendudukkan kekuasaan ri secara mutlak di iran barat .
+passage 13 score = 5.5
+sentence 1: sejak itu , operasi pembebasan irian barat semakin ditingkatkan .
+sentence 2: namun sebelum operasi jaya wijaya dilaksanakan , datang perintah dari presiden untuk menghentikan tembak-menembak pada tanggal 18 maret 1962 , karma pada tanggal 19 agustus 1962 telah tercapai persetujuan antara indonesia dengan belanda mengenai irian barat di markas besar pbb di kota new york dengan pokok-pokok kesepakatan , antara lain sebagai berikut : 1 .
+sentence 3: akan dibentuk pemerintah pbb irian barat dengan nama untea ( united nations temporaty ex­ecutive authority ) selambat-lambatnya 1 oktober 1962 tiba di irian barat .
+sentence 4: 2 .
+sentence 5: untea memakai tenaga indonesia 3 .
+passage 15 score = 5.5
+sentence 1: pada tanggat 31 desember 1962 bendera ri berkibar di samping bendera pbb 7 .
+sentence 2: selambat-lambatnya 1 mei 1963 rl secara resmi menerima pemerintahan irian barat 8 .
+sentence 3: ri berkewajiban melakukan pepera ( penentuan pendapatan rakyat ) untuk menjamin keamanan di irian barat .
+sentence 4: pbb membentuk pasukan keamanan dengan nama united nations security forces ( unsf ) di bawah komando brigjend said udin khan dari pakistan .
+sentence 5: penyerahan kekuasaan irian barat dari pbb kepadda pemerintah indonesia dilaksanakan pada tanggal 1 mei 1963 di kota baru .
+passage 16 score = 5.5
+sentence 1: penyerahan kekuasaan irian barat dari pbb kepadda pemerintah indonesia dilaksanakan pada tanggal 1 mei 1963 di kota baru .
+sentence 2: dan pada hari yang sama , di makasar ( ujung pandang ) dilaksanakan upacara pembubaran komando mandala .
+sentence 3: pepera ( penentuan pendapatan rakyat ) pepera merupakan salah satu ketentuan persetujua - 1962 mengenai penyeraha­n kekuasaan pemerintahan atas irian barat oleh belanda kepada indonesia .
+sentence 4: pepera diselenggaraka­n melalui tiga tahap , antara lain sebagai berikut : 1 .
+sentence 5: tahap pertama , dimulai pada tanggal 24 maret 1969 , yaitu mengadakan konsultasi denga dewan kabupaten di jayapura mengenai tata cara penyelenggaraan pepera 2 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok172.txt
+title : perkembangan sistem ekonomi internasional dengan perubahan politik dan ekonomi indonesia
+passage 7 score = 5.5
+sentence 1: lahirnya perserikatan bangsa-bangsa dilandasi adanya charter of peace ( piagam perdamaian ) diharapkan dapat menjamin keamanan dan ketertiban dunia , mencegah terulangnya perang dunia , serta menjamin keselamatan dunia .
+sentence 2: semakin kuat kedudukan golongan cerdik pandai .
+sentence 3: pd ii menunjukkan bahwa peperangan tidak dapat dimenangkan tanpa bantuan kaum cerdik pandai yang merupakan prajurit tanpa senjata yang berjuang di laboratorium dengan penelitian-penelitian , sehingga dapat ditemukan alat-alat perang modern seperti radar , peluru kendali , bom atom , dan sebagainya .
+sentence 4: bom atom berhasil mengakhiri pd ii setelah sukses diujicobakan di kota hirosima pada tanggal 6 agustus 1945 dan kota nagasaki pada tanggal 9 agustus 1945 .
+sentence 5: 3 .
+passage 13 score = 5.5
+sentence 1: program bantuan ekonomi amerika serikat tersebut dikenal dengan nama marshall plan yang dicetuskan pada tanggal 5 juli 1947 .
+sentence 2: negara-negara eropa barat yang menerima bantuan ekonomi melalui marshall plan harus bersedia bekerja sama dengan amerika serikat untuk meningkatkan produksi secara maksimal , menciptakan lapangan kerja , dan meningkatkan volume perdagangan .
+sentence 3: negara-negara eropa barat dengan memperoleh bantuan ekonomi melalu marshall plan secara bertahap berhasil menata kembali keadaan perekonomiannya .
+sentence 4: bahkan , masyarakat eropa barat akhirnya dapat membentuk suatu badan kerja sama ekonomi yang disebut masyarakat ekonomi eropa ( mee ) atau european economic community ( eec ) pada tanggal 25 maret 1957 di roma , italia .
+sentence 5: di dalam pertemuan di roma digariskan tujuan pembentukan masyarakat ekonomi eropa , antara lain : meningkatkan perekonomian negara anggota melalui kerja sama yang harmonis ; memperluas bidang perdagangan ; liberalisasi dalam perdagangan ; menjaga keseimbangan perdagangan di antara negara anggota ; menghapus semua rintangan yang menghambat laju perdagangan antaranggota ; memperluas kerja sama perdagangan dengan negara lain .
+passage 12 score = 5.0
+sentence 1: hancurnya perekonomian dunia menyebabkan amerika serikat dan uni soviet sebagai negara adidaya tampil memberikan bantuan ekonomi .
+sentence 2: namun , kedua negara adidaya itu tidak sekadar memberi bantuan ekonomi .
+sentence 3: dibalik pemberian bantuan ekonomi tersebut , kedua negara adidaya juga memperluas pengaruh ideologinya .
+sentence 4: presiden amerika serikat , harry s. truman dengan dibantu menteri luar negeri , marshall menawarkan bantuan ekonomi ke sejumlah negara eropa barat .
+sentence 5: program bantuan ekonomi amerika serikat tersebut dikenal dengan nama marshall plan yang dicetuskan pada tanggal 5 juli 1947 .
+passage 14 score = 5.0
+sentence 1: di dalam pertemuan di roma digariskan tujuan pembentukan masyarakat ekonomi eropa , antara lain : meningkatkan perekonomian negara anggota melalui kerja sama yang harmonis ; memperluas bidang perdagangan ; liberalisasi dalam perdagangan ; menjaga keseimbangan perdagangan di antara negara anggota ; menghapus semua rintangan yang menghambat laju perdagangan antaranggota ; memperluas kerja sama perdagangan dengan negara lain .
+sentence 2: pada awalnya masyarakat ekonomi eropa beranggotakan negara jerman barat , prancis , italia , belgia , belanda , dan luksemburg .
+sentence 3: namun , pada konferensi mee di brusel , belgia pada tanggal 22 januari 1962 keanggotaannya bertambah dengan masuknya inggris , irlandia , denmark , dan norwegia .
+sentence 4: amerika serikat juga berusaha memperluas paham ideologinya ke wilayah lainnya .
+sentence 5: misalnya , amerika serikat juga berusaha mendekati negara yunani dan turki agar bersedia bergabung dalam ideologi liberalisme kapitalisme .
+passage 1 score = 0.0
+sentence 1: perkembangan sistem ekonomi internasional dengan perubahan politik dan ekonomi indonesia - perang dunia ii merupakan perang yang sangat mengerikan dan lebih hebat dibandingkan dengan perang dunia i. akibat yang ditimbulkan perang dunia ii menyangkut perubahan bidang politik dan ekonomi .
+sentence 2: 1 .
+sentence 3: perubahan di bidang politik perubahan politik yang tampak setelah berakhirnya perang dunia ii , antara lain sebagai berikut .
+sentence 4: tampilnya amerika serikat dan uni soviet sebagai negara adidaya amerika serikat dan uni soviet adalah dua negara adikuasa ( super power ) yang besar peranannya di dalam mengakhiri pd ii dan memainkan peranan di dunia internasional .
+sentence 5: negara barat lain , seperti inggris , prancis , jerman , dan italia , sudah mundur kedudukannya sebagai kekuatan dunia ( world power ) .
+passage 2 score = 0.0
+sentence 1: negara barat lain , seperti inggris , prancis , jerman , dan italia , sudah mundur kedudukannya sebagai kekuatan dunia ( world power ) .
+sentence 2: terjadi persaingan di antara negara adidaya amerika serikat dan uni soviet berusaha untuk saling berpengaruh dan berkuasa di dunia .
+sentence 3: persekutuan mereka dalam pd ii merupakan persekutuan aneh .
+sentence 4: mereka dapat bersekutu karena mempunyai musuh yang sama , yaitu pihak poros ( jerman , jepang , dan italia ) namun , setelah musuh bersamanya lenyap , amerika serikat yang berpaham liberal-kapitalis tidak sejalan dengan uni soviet yang berpaham sosialis-komunis .
+sentence 5: secara material , amerika serikat lebih kuat dibandingkan uni soviet .
+passage 3 score = 0.0
+sentence 1: secara material , amerika serikat lebih kuat dibandingkan uni soviet .
+sentence 2: mereka saling berebut untuk mendapatkan pengaruh dan berkuasa di dunia .
+sentence 3: timbul politik memecah belah .
+sentence 4: amerika serikat dan uni soviet berusaha menjalankan politik memecah belah bangsa lain demi kepentingan mereka sendiri .
+sentence 5: mereka membagi negaranegara yang mempunyai arti penting , seperti korea , vietnam , dan jerman untuk mendukung kepentingan kedua negara adidaya tersebut .
+passage 4 score = 0.0
+sentence 1: mereka membagi negaranegara yang mempunyai arti penting , seperti korea , vietnam , dan jerman untuk mendukung kepentingan kedua negara adidaya tersebut .
+sentence 2: timbulnya negara-negara nasional .
+sentence 3: negara-negara imperialis barat , seperti , as , inggris , prancis , belanda , portugal , dan spanyol tidak mampu lagi menghalangi semangat perjuangan bangsa-bangsa yang mereka jajah .
+sentence 4: usaha untuk menindas rakyat jajahan hanya membuang biaya dan mengorbankan rakyatnya sendiri .
+sentence 5: mereka mengakui atau memberikan kemerdekaan kembali kepada negara-negara yang dijajah .
+passage 5 score = 0.0
+sentence 1: mereka mengakui atau memberikan kemerdekaan kembali kepada negara-negara yang dijajah .
+sentence 2: dengan demikian pasca-pd ii banyak negara-negara di kawaan asia dan afrika memperoleh kemerdekaan .
+sentence 3: timbul persekutuan militer kembali .
+sentence 4: sebagai balance of power policy ( penyeimbang kekuatan ) , negara-negara adidaya berusaha mengadakan persekutuan baru demi keamanan bersama ( collective security ) sehingga timbul pakta-pakta yang bersifat militer .
+sentence 5: misalnya , amerika serikat mendirikan north atlantic treaty organization ( nato ) yang diimbangi oleh uni soviet dengan membentuk persekutuan militer pact of mutual assistance and unifield command atau pakta warsawa .
+passage 6 score = 0.0
+sentence 1: misalnya , amerika serikat mendirikan north atlantic treaty organization ( nato ) yang diimbangi oleh uni soviet dengan membentuk persekutuan militer pact of mutual assistance and unifield command atau pakta warsawa .
+sentence 2: 2 .
+sentence 3: perubahan di bidang sosial terbentuknya united nations ( un ) atau perserikatan bangsa-bangsa ( pbb ) .
+sentence 4: berakhirnya perang dunia ii menyebabkan lahirnya perserikatan bangsa-bangsa ( pbb ) sebagai lembaga dunia penyempurnaan dari liga bangsa bangsa ( lbb ) .
+sentence 5: lahirnya perserikatan bangsa-bangsa dilandasi adanya charter of peace ( piagam perdamaian ) diharapkan dapat menjamin keamanan dan ketertiban dunia , mencegah terulangnya perang dunia , serta menjamin keselamatan dunia .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok366.txt
+title : konflik indonesia-belanda tahun 1945-1949
+passage 5 score = 7.166666666666667
+sentence 1: ternyata belanda menghianati isi perjanjian tersebut dan melakukan agresi militer i tanggal 21 juni 1947 sehingga mendapat reaksi pbb .
+sentence 2: penghentian tembak menembak dilakukan tanggal 1 agustus 1947 dan dk pbb membentuk ktn yang anggota-anggotanya : 1 .
+sentence 3: australia ( wakil indonesia ) : richard kirby 2 .
+sentence 4: belgia ( wakil belanda ) : paul van zeeland 3 .
+sentence 5: usa ( penengah ) : dr. frank graham anggota ktn tersebut membantu pihak ri-belanda untuk mengadakan perundingan di atas geladak kapal amerika uss renville ( 8 desember 1947 ) dan ditandatangani tanggal 17 januari 1948 yang isinya : 1 .
+passage 4 score = 6.833333333333333
+sentence 1: ri-belanda akan membentuk nis dengan nama ris 3 .
+sentence 2: ri-belanda akan membentuk uni indonesia-belanda dan ratu belanda sebagai ketuanya .
+sentence 3: 4 .
+sentence 4: belanda harus meninggalkan wilayah ri selambat-lambatnya 1 januari 1949 .
+sentence 5: ternyata belanda menghianati isi perjanjian tersebut dan melakukan agresi militer i tanggal 21 juni 1947 sehingga mendapat reaksi pbb .
+passage 6 score = 6.833333333333333
+sentence 1: usa ( penengah ) : dr. frank graham anggota ktn tersebut membantu pihak ri-belanda untuk mengadakan perundingan di atas geladak kapal amerika uss renville ( 8 desember 1947 ) dan ditandatangani tanggal 17 januari 1948 yang isinya : 1 .
+sentence 2: belanda mengakui wilayah ri yang sedang diduduki ( yogyakarta ) 2 .
+sentence 3: tni harus hijrah ke daerah ri 3 .
+sentence 4: ri merupakan bagian dari ris 4 .
+sentence 5: dalam jangka waktu ± 6 bulan sampai 1 tahun akan diadakan pemilu untuk membentuk dewan konstitusi ris .
+passage 7 score = 6.833333333333333
+sentence 1: dalam jangka waktu ± 6 bulan sampai 1 tahun akan diadakan pemilu untuk membentuk dewan konstitusi ris .
+sentence 2: namun tidak semua masyarakat indonesia menyetujui isi perjanjian tersebut , seperti sm kartosuwiryo yang mendirikan di / tii , pemberontakan pki madiun ( muso ) 1948 .
+sentence 3: belanda bertekad untuk menghapus ri dan menghancurkan kekuatan tni .
+sentence 4: untuk iti belanda melakukan agresi militer ii tanggal 19 desember 1948 .
+sentence 5: belanda menyerbu yogyakarta dan menawan presiden dan wapres serta pemimpin politik lainnya .
+passage 8 score = 6.833333333333333
+sentence 1: belanda menyerbu yogyakarta dan menawan presiden dan wapres serta pemimpin politik lainnya .
+sentence 2: sebelum itu presiden sempat mengirimkan kawat pada syafrudin prawiranegara untuk membentuk pdri di sumatera .
+sentence 3: apabila tidak sanggup maka diserahkan pada sudarsono , aa maramis dan ln palar untuk membentuk pemerintah pelarian ri di india .
+sentence 4: pada tanggal 28 januari 1948 dk pbb memutuskan penghentian operasi militer belanda dan para pemimpin ri yang ditawan harus dikembalikan .
+sentence 5: pada tanggal 14 april 1949 diadakan perjanjian room royen di bawah pengawasan unci ( perubahan dari ktn ) dan pada tanggal 7 mei 1949 terjadi kesepakatan : a. pernyataan delegasi indonesia 1 .
+passage 9 score = 6.833333333333333
+sentence 1: pada tanggal 14 april 1949 diadakan perjanjian room royen di bawah pengawasan unci ( perubahan dari ktn ) dan pada tanggal 7 mei 1949 terjadi kesepakatan : a. pernyataan delegasi indonesia 1 .
+sentence 2: menghentikan perang gerilya 2 .
+sentence 3: bekerjasama mengembalikan keamanan b. pernyataan delegasi belanda 1 .
+sentence 4: menyetujui pengembalian pemerintahan ri ke yogyakarta 2 .
+sentence 5: menghentikan operasi militer serta membebaskan para pemimpin ri dan selekasnya mengadakan kmb d. hasil kmb dan kelanjutan konflik indonesia-belanda kmb dilaksanakan di denhaag ( negeri belanda ) pada tanggal 22 agustus 1949 sd 29 oktober 1949 dengan hasil keputusan : a. belanda menyerahkan kedaulatan ri kepada ris b. antara ris dan belanda akan diadakan hubungan uni indonesia - belanda yang dikepalai oleh ratu belanda c. tentara belanda akan ditarik mundur dan tentara knil akan dibubarkan d. masalah irian barat akan dibicarakan setahun setelah penyerahan kedaulatan .
+passage 3 score = 5.5
+sentence 1: konflik ini dimanfaatkan oleh belanda untuk melancarkan agresi militernya .
+sentence 2: c. wilayah pendudukan belanda dan pusat-pusat konflik indonesia-belanda di berbagai daerah pada tanggal 15 september 1945 sekutu masuk ke indonesia dan membonceng nica ( belanda ) yang bertujuan untuk menjajah kembali bangsa indonesia sehingga terjadi pertempuran ambarawa , bandung lautan api , pertempuran di sulaswesi selatan , peristiwa merah putih di minahasa , pertempuran medan area , 5 hari di semarang , puputan margarana , dsb .
+sentence 3: untuk menghentikan tembak menembak antara ri-belanda maka mulai 10 nopember 1946 diadakan perundingan linggajati ( ditanda tangani 25 maret 1947 ) yang isinya : 1 .
+sentence 4: belanda mengakui secara defakto wilayah ri atas jawa , sumatera dan madura 2 .
+sentence 5: ri-belanda akan membentuk nis dengan nama ris 3 .
+passage 10 score = 5.5
+sentence 1: menghentikan operasi militer serta membebaskan para pemimpin ri dan selekasnya mengadakan kmb d. hasil kmb dan kelanjutan konflik indonesia-belanda kmb dilaksanakan di denhaag ( negeri belanda ) pada tanggal 22 agustus 1949 sd 29 oktober 1949 dengan hasil keputusan : a. belanda menyerahkan kedaulatan ri kepada ris b. antara ris dan belanda akan diadakan hubungan uni indonesia - belanda yang dikepalai oleh ratu belanda c. tentara belanda akan ditarik mundur dan tentara knil akan dibubarkan d. masalah irian barat akan dibicarakan setahun setelah penyerahan kedaulatan .
+sentence 2: pada tanggal 27 desember 1949 dilakukan penyerahan kedaulatan oleh belanda kepada ris yang wilayahnya bekas kekuasaan belanda tanpa irian barat .
+sentence 3: penyerahan kedaulatan dilakukan di tiga tempat antara lain : a. amsterdam dilakukan oleh ratu belanda kepada pm ris b. yogyakarta dilakukan oleh pemerintah ri pada pemerintah ris c. jakarta dilakukan oleh wakil tinggi mahkota belanda kepada ris pembentukan negara ris ( 16 negara bagian ) berdasarkan isi kmb ternyata tidak disetujui oleh masyarakat indonesia dan dengan tegas mereka menuntut dibubarkannya ris dan kembali pada negara kesatuan ri mengingat bahasa , bendera maupun hari nasional sama dengan ri .
+sentence 4: berdasarkan hasrat dan desakan rakyat indonesia maka pada tanggal 17 agustus 1950 ris dibubarkan dan dibentuk nkri dan saat itu juga konstitusi ris diganti dengan uud sementara ri dan bangsa indonesia segera memasuki era baru yaitu demokrasi liberal .
+passage 2 score = 5.0
+sentence 1: belanda hanya mengakui wilayah ri meliputi jawa dan sumatera yang di dalamnya berdiri negara-negara boneka bikinan belanda .
+sentence 2: b. perbedaan idiologi dan strategi dalam menghadapi belanda pada tanggal 1 nopember 1945 pemerintah mengeluarkan maklumat politik dengan tujuan agar kedaulatan ri diakui dan agar di indonesia terbentuk dan berkembang partai politik.namun kemauan itu diselewengkan dengan terjadinya pergeseran bentuk pemerintah dari bentuk kabinet presidensial ke kabinet parlementer.sutan syahrir terpilih sebagai perdana menterinya .
+sentence 3: pemerintah sutan syahrir berkeinginan mempertahankan kemerdekaan indonesia melalui jalur diplomasi bukan dengan kekuatan senjata .
+sentence 4: hal inilah yang menimbulkan pro kontra terhadap strategi menghadapi belanda .
+sentence 5: konflik ini dimanfaatkan oleh belanda untuk melancarkan agresi militernya .
+passage 1 score = 1.3333333333333333
+sentence 1: a. peta wilayah pendudukan belanda setelah indonesia merdeka tidak berarti indonesia bebas dari segala bentuk penguasaan asing tapi masih berhadapan dengan belanda yang ingin mencoba kembali menananmkan kekuasaannya .
+sentence 2: belanda menggunakan berbagai macam cara untuk bisa kembali berkuasa seperti , membonceng pada pasukan sekutu dan pembentukan negara-negara boneka .
+sentence 3: pembentukan negara boneka bertujuan untuk mengepung kedudukan pemerintah indonesia atau mempersempit wilayah kekuasaan ri .
+sentence 4: setiap ada perjanjian selalu diingkari oleh belanda .
+sentence 5: belanda hanya mengakui wilayah ri meliputi jawa dan sumatera yang di dalamnya berdiri negara-negara boneka bikinan belanda .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 8.166666666666668
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+passage 5 score = 8.166666666666668
+sentence 1: pertempuran besar meletus pada tahun 1666 ketika makassar di bawah pemerintahan sultan hasanuddin .
+sentence 2: dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan aru palaka raja bone .
+sentence 3: perlawanan hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada voc , seperti kraeng galesung dan montemerano melarikan diri ke jawa .
+sentence 4: sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada tanggal 18 nopember 1667 .
+sentence 5: isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+passage 2 score = 8.166666666666668
+sentence 1: pada tahun 1950 menteri luar negeri prancis , maurice schuman berkeinginan menyatukan produksi baja dan batu bara prancis dan jerman dalam wadah kerja sama yang terbuka untuk negara-negara eropa lainnya , sekaligus mengurangi kemungkinan terjadinya perang .
+sentence 2: keinginan itu terwujud dengan ditandatanganinya perjanjian pendirian pasaran bersama batu bara dan baja eropa atau european coal and steel community ( ecsc ) oleh enam negara , yaitu prancis , jerman barat ( republik federal jerman-rfj ) , belanda , belgia , luksemburg , dan italia .
+sentence 3: keenam negara tersebut selanjutnya disebut the six state .
+sentence 4: keberhasilan ecsc mendorong negara-negara the six state membentuk pasar bersama yang mencakup sektor ekonomi .
+sentence 5: hasil pertemuan di messina , pada tanggal 1 juni 1955 menunjuk paul henry spaak ( menlu belgia ) sebagai ketua komite yang harus menyusun laporan tentang kemungkinan kerja sama ke semua bidang ekonomi .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+passage 10 score = 8.166666666666668
+sentence 1: untuk melancarkan aktivitasnya , masyarakat ekonomi eropa membentuk beberapa organisasi baru , yaitu : parlemen eropa ( european parliament ) ; sistem moneter eropa ( european monetary system ) ; unit uang eropa ( european currency unit ) ; pasar tunggal ( single market ) .
+sentence 2: menurut perhitungan suara referendum prancis yang diselenggarakan pada tanggal 20 september 1992 tentang perjanjian maastrich , menunjukkan bahwa 50,95 % pemilih menyatakan setuju .
+sentence 3: untuk mendirikan organisasi-organisasi tersebut pada tanggal 7 februari 1992 di maastrich , belanda diadakan pertemuan anggota mee .
+sentence 4: hasil pertemuan itu dituangkan dalam sebuah naskah perjanjian yang disebut the treaty on european union ( teu ) atau perjanjian penyatuan eropa yang telah ditandatangani oleh kepala negara/pemerintah di maastrich , belanda .
+sentence 5: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+passage 12 score = 8.166666666666668
+sentence 1: pasar tunggal ( single market ) .
+sentence 2: menurut perhitungan suara referendum prancis yang diselenggarakan pada tanggal 20 september 1992 tentang perjanjian maastrich , menunjukkan bahwa 50,95 % pemilih menyatakan setuju .
+sentence 3: untuk mendirikan organisasi-organisasi tersebut pada tanggal 7 februari 1992 di maastrich , belanda diadakan pertemuan anggota mee .
+sentence 4: hasil pertemuan itu dituangkan dalam sebuah naskah perjanjian yang disebut the treaty on european union ( teu ) atau perjanjian penyatuan eropa yang telah ditandatangani oleh kepala negara/pemerintah di maastrich , belanda .
+sentence 5: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+passage 4 score = 7.833333333333333
+sentence 1: selanjutnya jepang mengembangkannya sendiri sampai akhirnya jepang menjadi negara imperialis pada perang dunia ii .
+sentence 2: keberhasilan bangsa jepang mengadakan restorasi dengan memodernisasi diri dan keberhasilan mengusir bangsa barat dari dalam negeri dapat mendorong bangsa-bangsa asia untuk berbuat seperti jepang , khususnya bangsa-bangsa di asia yang mengalami penjajahan dari bangsa barat seperti indonesia yang dikuasai oleh belanda .
+sentence 3: nasionalisme di cina pada abad ke-19 , melalui perjanjian-perjanjian yang dilakukan oleh pemerintah dinasti manchu dengan bangsa-bangsa barat , membuat cina diintervensi oleh bangsa barat .
+sentence 4: perjanjian itu di antaranya perjanjian nanking ( 1842 ) dan perjanjian peking ( 1860 ) .
+sentence 5: kedua perjanjian itu telah memaksa dibukanya beberapa pelabuhan untuk bangsa barat .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+passage 3 score = 7.833333333333333
+sentence 1: hasil pertemuan di messina , pada tanggal 1 juni 1955 menunjuk paul henry spaak ( menlu belgia ) sebagai ketua komite yang harus menyusun laporan tentang kemungkinan kerja sama ke semua bidang ekonomi .
+sentence 2: laporan komite spaak berisi dua rancangan yang lebih mengintegrasikan eropa , yaitu : membentuk european economic community ( eec ) atau masyarakat ekonomi eropa ( mee ) ; membentuk european atomic energy community ( euratom ) atau badan tenaga atom eropa .
+sentence 3: rancangan spaak itu disetujui pada tanggal 25 maret 1957 di roma dan kedua perjanjian itu mulai berlaku tanggal 1 januari 1958 .
+sentence 4: dengan demikian , terdapat tiga organisasi di eropa , yaitu ecsc , eec ( mee ) , dan euratom ( eaec ) .
+sentence 5: pada konferensi di brussel tanggal 22 januari 1972 , inggris , irlandia , dan denmark bergabung dalam mee .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+passage 11 score = 7.833333333333333
+sentence 1: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+sentence 2: perubahan masyarakat ekonomi eropa ( mee ) menjadi uni eropa ( ue ) melalui perjanjian maastrich , ke – 12 negara anggota masyarakat eropa dipersatukan dalam mekanisme kesatuan eropa , dengan pelaksanaan secara bertahap .
+sentence 3: the treaty on european union mulai dilaksanakan pada tanggal 1 januari 1993 , setelah diratifikasi oleh semua parlemen anggota masyarakat eropa .
+sentence 4: mulai tahun 1999 , masyarakat eropa hanya mengenal satu mata uang yang disebut european currency unit ( ecu ) atau ( european union – eu ) .
+sentence 5: beberapa bentuk perjanjian yang pernah dilakukan mee harus mengalami beberapa kali amandemen .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+passage 4 score = 7.833333333333333
+sentence 1: membentuk european atomic energy community ( euratom ) atau badan tenaga atom eropa .
+sentence 2: rancangan spaak itu disetujui pada tanggal 25 maret 1957 di roma dan kedua perjanjian itu mulai berlaku tanggal 1 januari 1958 .
+sentence 3: dengan demikian , terdapat tiga organisasi di eropa , yaitu ecsc , eec ( mee ) , dan euratom ( eaec ) .
+sentence 4: pada konferensi di brussel tanggal 22 januari 1972 , inggris , irlandia , dan denmark bergabung dalam mee .
+sentence 5: pada tahun 1981 yunani masuk menjadi anggota mee yang kemudian disusul spanyol dan portugal .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+passage 13 score = 7.833333333333333
+sentence 1: referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni inggris , jerman , prancis , belanda , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+sentence 2: perubahan masyarakat ekonomi eropa ( mee ) menjadi uni eropa ( ue ) melalui perjanjian maastrich , ke – 12 negara anggota masyarakat eropa dipersatukan dalam mekanisme kesatuan eropa , dengan pelaksanaan secara bertahap .
+sentence 3: the treaty on european unionmulai dilaksanakan pada tanggal 1 januari 1993 , setelah diratifikasi oleh semua parlemen anggota masyarakat eropa .
+sentence 4: mulai tahun 1999 , masyarakat eropa hanya mengenal satu mata uang yang disebut european currency unit ( ecu ) atau ( european union – eu ) .
+sentence 5: beberapa bentuk perjanjian yang pernah dilakukan mee harus mengalami beberapa kali amandemen .
+
+
+Pencarian jawaban
+---------------------
+
+
+pertempuran besar meletus pada <TIME>tahun 1666</TIME> ketika makassar di bawah pemerintahan sultan hasanuddin .
+
+memproses passage 5
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+list jawaban dan posisi dalam passage
+tahun 1666 | position = 3
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tahun 1666
+tokenwithtagstemmed = makassar
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+kata kunci = bongaya
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tahun 1666
+tokenwithtagstemmed = makassar
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+kata kunci = ditandatangani
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tahun 1666
+tokenwithtagstemmed = makassar
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+
+
+dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan <PERSON>aru palaka raja</PERSON> bone .
+
+
+tidak ada entitas jawaban, skip
+
+
+perlawanan hasanuddin berhasil dipatahkan dan <PERSON>para pemimpin</PERSON> yang tidak mau tunduk kepada voc , seperti kraeng galesung dan <PERSON>montemerano</PERSON> melarikan diri ke jawa .
+
+
+tidak ada entitas jawaban, skip
+
+
+sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada <TIME>tanggal 18 nopember 1667</TIME> .
+
+memproses passage 5
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+title : sejarah kerajaan makassar (goa-tallo)
+list jawaban dan posisi dalam passage
+tanggal 18 nopember 1667 | position = 6
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = janji
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+tanggal 18 nopember 1667 2
+
+tokenwithtagstemmed = bongaya
+tokenwithtagstemmed = tanggal 18 nopember 1667
+kata kunci = bongaya
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = bongaya
+posisi dalam passage = 5
+jarak dengan tiap kandidat jawaban:
+tanggal 18 nopember 1667 1
+
+tokenwithtagstemmed = tanggal 18 nopember 1667
+kata kunci = ditandatangani
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = bongaya
+tokenwithtagstemmed = tanggal 18 nopember 1667
+
+
+isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+
+
+tidak ada entitas jawaban, skip
+
+
+pertempuran besar meletus pada <TIME>tahun 1666</TIME> ketika makassar di bawah pemerintahan sultan hasanuddin .
+
+memproses passage 5
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+list jawaban dan posisi dalam passage
+tahun 1666 | position = 3
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tahun 1666
+tokenwithtagstemmed = makassar
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+kata kunci = bongaya
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tahun 1666
+tokenwithtagstemmed = makassar
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+kata kunci = ditandatangani
+tokenwithtagstemmed = tempur
+tokenwithtagstemmed = besar
+tokenwithtagstemmed = letus
+tokenwithtagstemmed = tahun 1666
+tokenwithtagstemmed = makassar
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = perintah
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+
+
+dalam pertempuran ini , voc di bawah pimpinan speelman berkoalisi dengan kapten jonker dari ambon dan <PERSON>aru palaka raja</PERSON> bone .
+
+
+tidak ada entitas jawaban, skip
+
+
+perlawanan hasanuddin berhasil dipatahkan dan <PERSON>para pemimpin</PERSON> yang tidak mau tunduk kepada voc , seperti kraeng galesung dan <PERSON>montemerano</PERSON> melarikan diri ke jawa .
+
+
+tidak ada entitas jawaban, skip
+
+
+sultan hasanuddin dipaksa menandatangani perjanjian bongaya pada <TIME>tanggal 18 nopember 1667</TIME> .
+
+memproses passage 5
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+title : sejarah kerajaan makassar (goa-tallo)
+list jawaban dan posisi dalam passage
+tanggal 18 nopember 1667 | position = 6
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = janji
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+tanggal 18 nopember 1667 2
+
+tokenwithtagstemmed = bongaya
+tokenwithtagstemmed = tanggal 18 nopember 1667
+kata kunci = bongaya
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = bongaya
+posisi dalam passage = 5
+jarak dengan tiap kandidat jawaban:
+tanggal 18 nopember 1667 1
+
+tokenwithtagstemmed = tanggal 18 nopember 1667
+kata kunci = ditandatangani
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hasanuddin
+tokenwithtagstemmed = paksa
+tokenwithtagstemmed = menandatangani
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = bongaya
+tokenwithtagstemmed = tanggal 18 nopember 1667
+
+
+isi perjanjian bongaya sangat merugikan rakyat makassar , seperti berikut ini .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>tahun 1950</TIME> menteri luar negeri prancis , maurice schuman berkeinginan menyatukan produksi baja dan batu bara prancis dan jerman dalam wadah kerja sama yang terbuka untuk negara-negara eropa lainnya , sekaligus mengurangi kemungkinan terjadinya perang .
+
+memproses passage 2
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+list jawaban dan posisi dalam passage
+tahun 1950 | position = 0
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = tahun 1950
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = maurice
+tokenwithtagstemmed = schuman
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = produksi
+tokenwithtagstemmed = baja
+tokenwithtagstemmed = batu
+tokenwithtagstemmed = bara
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = jerman
+tokenwithtagstemmed = wadah
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = buka
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = mungkin
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+kata kunci = bongaya
+tokenwithtagstemmed = tahun 1950
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = maurice
+tokenwithtagstemmed = schuman
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = produksi
+tokenwithtagstemmed = baja
+tokenwithtagstemmed = batu
+tokenwithtagstemmed = bara
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = jerman
+tokenwithtagstemmed = wadah
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = buka
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = mungkin
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+kata kunci = ditandatangani
+tokenwithtagstemmed = tahun 1950
+tokenwithtagstemmed = menteri
+tokenwithtagstemmed = luar
+tokenwithtagstemmed = negeri
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = maurice
+tokenwithtagstemmed = schuman
+tokenwithtagstemmed = ingin
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = produksi
+tokenwithtagstemmed = baja
+tokenwithtagstemmed = batu
+tokenwithtagstemmed = bara
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = jerman
+tokenwithtagstemmed = wadah
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = buka
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = negara
+tokenwithtagstemmed = eropa
+tokenwithtagstemmed = kurang
+tokenwithtagstemmed = mungkin
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+
+
+keinginan itu terwujud dengan ditandatanganinya perjanjian pendirian pasaran bersama batu bara dan baja eropa atau european coal and steel community ( ecsc ) oleh enam negara , yaitu <PERSON>prancis , jerman barat</PERSON> ( republik federal jerman-rfj ) , belanda , belgia , luksemburg , dan italia .
+
+
+tidak ada entitas jawaban, skip
+
+
+keenam negara tersebut selanjutnya disebut the six state .
+
+
+tidak ada entitas jawaban, skip
+
+
+keberhasilan ecsc mendorong negara-negara the six state membentuk pasar bersama yang mencakup sektor ekonomi .
+
+
+tidak ada entitas jawaban, skip
+
+
+hasil pertemuan di messina , pada <TIME>tanggal 1 juni 1955</TIME> menunjuk paul henry spaak ( menlu belgia ) sebagai ketua komite yang harus menyusun laporan tentang kemungkinan kerja sama ke semua bidang ekonomi .
+
+memproses passage 2
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+list jawaban dan posisi dalam passage
+tanggal 1 juni 1955 | position = 3
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = messina
+tokenwithtagstemmed = tanggal 1 juni 1955
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = paul
+tokenwithtagstemmed = henry
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = menlu
+tokenwithtagstemmed = belgia
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = komite
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = lapor
+tokenwithtagstemmed = mungkin
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = bidang
+tokenwithtagstemmed = ekonomi
+kata kunci = bongaya
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = messina
+tokenwithtagstemmed = tanggal 1 juni 1955
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = paul
+tokenwithtagstemmed = henry
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = menlu
+tokenwithtagstemmed = belgia
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = komite
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = lapor
+tokenwithtagstemmed = mungkin
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = bidang
+tokenwithtagstemmed = ekonomi
+kata kunci = ditandatangani
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = messina
+tokenwithtagstemmed = tanggal 1 juni 1955
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = paul
+tokenwithtagstemmed = henry
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = menlu
+tokenwithtagstemmed = belgia
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = komite
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = lapor
+tokenwithtagstemmed = mungkin
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = bidang
+tokenwithtagstemmed = ekonomi
+
+
+untuk melancarkan aktivitasnya , masyarakat ekonomi eropa membentuk beberapa organisasi baru , yaitu : parlemen eropa ( european parliament ) ; sistem moneter eropa ( european monetary system ) ; unit uang eropa ( european currency unit ) ; pasar tunggal ( single market ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+menurut perhitungan suara referendum prancis yang diselenggarakan pada <TIME>tanggal 20 september 1992</TIME> tentang perjanjian maastrich , menunjukkan bahwa 50,95 % pemilih menyatakan setuju .
+
+memproses passage 10
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+list jawaban dan posisi dalam passage
+tanggal 20 september 1992 | position = 6
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = hitung
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = referendum
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = tanggal 20 september 1992
+tokenwithtagstemmed = janji
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tanggal 20 september 1992 -1
+
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = 50,95
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tuju
+kata kunci = bongaya
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = hitung
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = referendum
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = tanggal 20 september 1992
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = 50,95
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tuju
+kata kunci = ditandatangani
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = hitung
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = referendum
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = tanggal 20 september 1992
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = 50,95
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tuju
+
+
+untuk mendirikan organisasi-organisasi tersebut pada <TIME>tanggal 7 februari 1992</TIME> di <LOCATION>maastrich</LOCATION> <PERSON>, belanda</PERSON> diadakan pertemuan anggota mee .
+
+memproses passage 10
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+list jawaban dan posisi dalam passage
+tanggal 7 februari 1992 | position = 4
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = tanggal 7 februari 1992
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mee
+kata kunci = bongaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = tanggal 7 februari 1992
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mee
+kata kunci = ditandatangani
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = tanggal 7 februari 1992
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mee
+
+
+hasil pertemuan itu dituangkan dalam sebuah naskah perjanjian yang disebut the treaty on european union ( teu ) atau perjanjian penyatuan eropa yang telah ditandatangani oleh kepala <PERSON>negara/pemerintah di maastrich , belanda .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni <PERSON>inggris , jerman , prancis , belanda</PERSON> , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+
+
+tidak ada entitas jawaban, skip
+
+
+pasar tunggal ( single market ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+menurut perhitungan suara referendum prancis yang diselenggarakan pada <TIME>tanggal 20 september 1992</TIME> tentang perjanjian maastrich , menunjukkan bahwa 50,95 % pemilih menyatakan setuju .
+
+memproses passage 12
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+list jawaban dan posisi dalam passage
+tanggal 20 september 1992 | position = 6
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = hitung
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = referendum
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = tanggal 20 september 1992
+tokenwithtagstemmed = janji
+posisi dalam passage = 7
+jarak dengan tiap kandidat jawaban:
+tanggal 20 september 1992 -1
+
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = 50,95
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tuju
+kata kunci = bongaya
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = hitung
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = referendum
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = tanggal 20 september 1992
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = 50,95
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tuju
+kata kunci = ditandatangani
+tokenwithtagstemmed = turut
+tokenwithtagstemmed = hitung
+tokenwithtagstemmed = suara
+tokenwithtagstemmed = referendum
+tokenwithtagstemmed = prancis
+tokenwithtagstemmed = selenggara
+tokenwithtagstemmed = tanggal 20 september 1992
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = 50,95
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = nyata
+tokenwithtagstemmed = tuju
+
+
+untuk mendirikan organisasi-organisasi tersebut pada <TIME>tanggal 7 februari 1992</TIME> di <LOCATION>maastrich</LOCATION> <PERSON>, belanda</PERSON> diadakan pertemuan anggota mee .
+
+memproses passage 12
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+list jawaban dan posisi dalam passage
+tanggal 7 februari 1992 | position = 4
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = tanggal 7 februari 1992
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mee
+kata kunci = bongaya
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = tanggal 7 februari 1992
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mee
+kata kunci = ditandatangani
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = diri
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = organisasi
+tokenwithtagstemmed = tanggal 7 februari 1992
+tokenwithtagstemmed = maastrich
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mee
+
+
+hasil pertemuan itu dituangkan dalam sebuah naskah perjanjian yang disebut the treaty on european union ( teu ) atau perjanjian penyatuan eropa yang telah ditandatangani oleh kepala <PERSON>negara/pemerintah di maastrich , belanda .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni <PERSON>inggris , jerman , prancis , belanda</PERSON> , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+
+
+tidak ada entitas jawaban, skip
+
+
+selanjutnya jepang mengembangkannya sendiri sampai akhirnya jepang menjadi negara imperialis pada perang dunia ii .
+
+
+tidak ada entitas jawaban, skip
+
+
+keberhasilan bangsa jepang mengadakan restorasi dengan memodernisasi diri dan keberhasilan mengusir bangsa barat dari dalam negeri dapat mendorong bangsa-bangsa asia untuk berbuat seperti jepang , khususnya bangsa-bangsa di asia yang mengalami penjajahan dari bangsa barat seperti <PERSON>indonesia</PERSON> yang dikuasai oleh <PERSON>belanda .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+nasionalisme di cina pada <TIME>abad ke-19</TIME> , melalui perjanjian-perjanjian yang dilakukan oleh <PERSON>pemerintah dinasti manchu</PERSON> dengan <PERSON>bangsa-bangsa barat</PERSON> , membuat cina diintervensi oleh <PERSON>bangsa barat .</PERSON>
+
+memproses passage 4
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+abad 19 | position = 2
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = abad 19
+tokenwithtagstemmed = janji
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+abad 19 -1
+
+tokenwithtagstemmed = janji
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+abad 19 -2
+
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = perintah dinasti manchu
+tokenwithtagstemmed = bangsa bangsa barat
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = intervensi
+tokenwithtagstemmed = bangsa barat
+kata kunci = bongaya
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = abad 19
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = perintah dinasti manchu
+tokenwithtagstemmed = bangsa bangsa barat
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = intervensi
+tokenwithtagstemmed = bangsa barat
+kata kunci = ditandatangani
+tokenwithtagstemmed = nasionalisme
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = abad 19
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = perintah dinasti manchu
+tokenwithtagstemmed = bangsa bangsa barat
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = cina
+tokenwithtagstemmed = intervensi
+tokenwithtagstemmed = bangsa barat
+
+
+perjanjian itu di antaranya perjanjian nanking ( <TIME>1842</TIME> ) dan perjanjian peking ( <TIME>1860</TIME> ) .
+
+memproses passage 4
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+title : perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+list jawaban dan posisi dalam passage
+1842 | position = 3
+1860 | position = 6
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = janji
+posisi dalam passage = 0
+jarak dengan tiap kandidat jawaban:
+1842 3
+1860 6
+
+tokenwithtagstemmed = janji
+posisi dalam passage = 1
+jarak dengan tiap kandidat jawaban:
+1842 2
+1860 5
+
+tokenwithtagstemmed = nanking
+tokenwithtagstemmed = 1842
+tokenwithtagstemmed = janji
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+1842 -1
+1860 2
+
+tokenwithtagstemmed = peking
+tokenwithtagstemmed = 1860
+kata kunci = bongaya
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = nanking
+tokenwithtagstemmed = 1842
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = peking
+tokenwithtagstemmed = 1860
+kata kunci = ditandatangani
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = nanking
+tokenwithtagstemmed = 1842
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = peking
+tokenwithtagstemmed = 1860
+
+
+kedua perjanjian itu telah memaksa dibukanya beberapa pelabuhan untuk bangsa barat .
+
+
+tidak ada entitas jawaban, skip
+
+
+hasil pertemuan di messina , pada <TIME>tanggal 1 juni 1955</TIME> menunjuk paul henry spaak ( menlu belgia ) sebagai ketua komite yang harus menyusun laporan tentang kemungkinan kerja sama ke semua bidang ekonomi .
+
+memproses passage 3
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+list jawaban dan posisi dalam passage
+tanggal 1 juni 1955 | position = 3
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = messina
+tokenwithtagstemmed = tanggal 1 juni 1955
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = paul
+tokenwithtagstemmed = henry
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = menlu
+tokenwithtagstemmed = belgia
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = komite
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = lapor
+tokenwithtagstemmed = mungkin
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = bidang
+tokenwithtagstemmed = ekonomi
+kata kunci = bongaya
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = messina
+tokenwithtagstemmed = tanggal 1 juni 1955
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = paul
+tokenwithtagstemmed = henry
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = menlu
+tokenwithtagstemmed = belgia
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = komite
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = lapor
+tokenwithtagstemmed = mungkin
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = bidang
+tokenwithtagstemmed = ekonomi
+kata kunci = ditandatangani
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = messina
+tokenwithtagstemmed = tanggal 1 juni 1955
+tokenwithtagstemmed = tunjuk
+tokenwithtagstemmed = paul
+tokenwithtagstemmed = henry
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = menlu
+tokenwithtagstemmed = belgia
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = komite
+tokenwithtagstemmed = susun
+tokenwithtagstemmed = lapor
+tokenwithtagstemmed = mungkin
+tokenwithtagstemmed = kerja
+tokenwithtagstemmed = bidang
+tokenwithtagstemmed = ekonomi
+
+
+laporan komite spaak berisi dua rancangan yang lebih mengintegrasikan eropa , yaitu : membentuk european economic community ( eec ) atau <PERSON>masyarakat</PERSON> ekonomi eropa ( mee ) ; membentuk european atomic energy community ( euratom ) atau badan tenaga atom eropa .
+
+
+tidak ada entitas jawaban, skip
+
+
+rancangan spaak itu disetujui pada <TIME>tanggal 25 maret 1957</TIME> di <LOCATION>roma</LOCATION> dan kedua perjanjian itu mulai berlaku <TIME>tanggal 1 januari 1958</TIME> .
+
+memproses passage 3
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+list jawaban dan posisi dalam passage
+tanggal 25 maret 1957 | position = 3
+tanggal 1 januari 1958 | position = 9
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = rancang
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = tanggal 25 maret 1957
+tokenwithtagstemmed = roma
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = janji
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+tanggal 25 maret 1957 -3
+tanggal 1 januari 1958 3
+
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = tanggal 1 januari 1958
+kata kunci = bongaya
+tokenwithtagstemmed = rancang
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = tanggal 25 maret 1957
+tokenwithtagstemmed = roma
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = tanggal 1 januari 1958
+kata kunci = ditandatangani
+tokenwithtagstemmed = rancang
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = tanggal 25 maret 1957
+tokenwithtagstemmed = roma
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = tanggal 1 januari 1958
+
+
+dengan demikian , terdapat tiga organisasi di <LOCATION>eropa</LOCATION> , yaitu ecsc , eec ( mee ) , dan euratom ( eaec ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada konferensi di brussel <TIME>tanggal 22 januari 1972</TIME> , inggris , irlandia , dan denmark bergabung dalam mee .
+
+memproses passage 3
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+list jawaban dan posisi dalam passage
+tanggal 22 januari 1972 | position = 2
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = brussel
+tokenwithtagstemmed = tanggal 22 januari 1972
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = irlandia
+tokenwithtagstemmed = denmark
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = mee
+kata kunci = bongaya
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = brussel
+tokenwithtagstemmed = tanggal 22 januari 1972
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = irlandia
+tokenwithtagstemmed = denmark
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = mee
+kata kunci = ditandatangani
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = brussel
+tokenwithtagstemmed = tanggal 22 januari 1972
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = irlandia
+tokenwithtagstemmed = denmark
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = mee
+
+
+referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni <PERSON>inggris , jerman , prancis , belanda</PERSON> , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+
+
+tidak ada entitas jawaban, skip
+
+
+perubahan masyarakat ekonomi eropa ( mee ) menjadi uni eropa ( ue ) melalui perjanjian maastrich , ke – 12 negara anggota masyarakat eropa dipersatukan dalam mekanisme kesatuan eropa , dengan pelaksanaan secara bertahap .
+
+
+tidak ada entitas jawaban, skip
+
+
+the treaty on european union mulai dilaksanakan pada <TIME>tanggal 1 januari 1993</TIME> , setelah diratifikasi oleh semua parlemen anggota masyarakat eropa .
+
+memproses passage 11
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+list jawaban dan posisi dalam passage
+tanggal 1 januari 1993 | position = 7
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = the
+tokenwithtagstemmed = treaty
+tokenwithtagstemmed = on
+tokenwithtagstemmed = european
+tokenwithtagstemmed = union
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tanggal 1 januari 1993
+tokenwithtagstemmed = ratifikasi
+tokenwithtagstemmed = parlemen
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = eropa
+kata kunci = bongaya
+tokenwithtagstemmed = the
+tokenwithtagstemmed = treaty
+tokenwithtagstemmed = on
+tokenwithtagstemmed = european
+tokenwithtagstemmed = union
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tanggal 1 januari 1993
+tokenwithtagstemmed = ratifikasi
+tokenwithtagstemmed = parlemen
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = eropa
+kata kunci = ditandatangani
+tokenwithtagstemmed = the
+tokenwithtagstemmed = treaty
+tokenwithtagstemmed = on
+tokenwithtagstemmed = european
+tokenwithtagstemmed = union
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tanggal 1 januari 1993
+tokenwithtagstemmed = ratifikasi
+tokenwithtagstemmed = parlemen
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = eropa
+
+
+mulai <TIME>tahun 1999</TIME> <PERSON>, masyarakat eropa</PERSON> hanya mengenal satu mata uang yang disebut european currency unit ( ecu ) atau ( european union – eu ) .
+
+memproses passage 11
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+title : masyarakat ekonomi eropa mee atau uni eropa eu
+list jawaban dan posisi dalam passage
+tahun 1999 | position = 1
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = tahun 1999
+tokenwithtagstemmed = masyarakat eropa
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = mata
+tokenwithtagstemmed = uang
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = european
+tokenwithtagstemmed = currency
+tokenwithtagstemmed = unit
+tokenwithtagstemmed = ecu
+tokenwithtagstemmed = european
+tokenwithtagstemmed = union
+tokenwithtagstemmed = eu
+kata kunci = bongaya
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = tahun 1999
+tokenwithtagstemmed = masyarakat eropa
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = mata
+tokenwithtagstemmed = uang
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = european
+tokenwithtagstemmed = currency
+tokenwithtagstemmed = unit
+tokenwithtagstemmed = ecu
+tokenwithtagstemmed = european
+tokenwithtagstemmed = union
+tokenwithtagstemmed = eu
+kata kunci = ditandatangani
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = tahun 1999
+tokenwithtagstemmed = masyarakat eropa
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = mata
+tokenwithtagstemmed = uang
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = european
+tokenwithtagstemmed = currency
+tokenwithtagstemmed = unit
+tokenwithtagstemmed = ecu
+tokenwithtagstemmed = european
+tokenwithtagstemmed = union
+tokenwithtagstemmed = eu
+
+
+beberapa bentuk perjanjian yang pernah dilakukan mee harus mengalami beberapa kali amandemen .
+
+
+tidak ada entitas jawaban, skip
+
+
+membentuk european atomic energy community ( euratom ) atau badan tenaga atom eropa .
+
+
+tidak ada entitas jawaban, skip
+
+
+rancangan spaak itu disetujui pada <TIME>tanggal 25 maret 1957</TIME> di <LOCATION>roma</LOCATION> dan kedua perjanjian itu mulai berlaku <TIME>tanggal 1 januari 1958</TIME> .
+
+memproses passage 4
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+list jawaban dan posisi dalam passage
+tanggal 25 maret 1957 | position = 3
+tanggal 1 januari 1958 | position = 9
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = rancang
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = tanggal 25 maret 1957
+tokenwithtagstemmed = roma
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = janji
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+tanggal 25 maret 1957 -3
+tanggal 1 januari 1958 3
+
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = tanggal 1 januari 1958
+kata kunci = bongaya
+tokenwithtagstemmed = rancang
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = tanggal 25 maret 1957
+tokenwithtagstemmed = roma
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = tanggal 1 januari 1958
+kata kunci = ditandatangani
+tokenwithtagstemmed = rancang
+tokenwithtagstemmed = spaak
+tokenwithtagstemmed = tuju
+tokenwithtagstemmed = tanggal 25 maret 1957
+tokenwithtagstemmed = roma
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = janji
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = laku
+tokenwithtagstemmed = tanggal 1 januari 1958
+
+
+dengan demikian , terdapat tiga organisasi di <LOCATION>eropa</LOCATION> , yaitu ecsc , eec ( mee ) , dan euratom ( eaec ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+pada konferensi di brussel <TIME>tanggal 22 januari 1972</TIME> , inggris , irlandia , dan denmark bergabung dalam mee .
+
+memproses passage 4
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+list jawaban dan posisi dalam passage
+tanggal 22 januari 1972 | position = 2
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = brussel
+tokenwithtagstemmed = tanggal 22 januari 1972
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = irlandia
+tokenwithtagstemmed = denmark
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = mee
+kata kunci = bongaya
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = brussel
+tokenwithtagstemmed = tanggal 22 januari 1972
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = irlandia
+tokenwithtagstemmed = denmark
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = mee
+kata kunci = ditandatangani
+tokenwithtagstemmed = konferensi
+tokenwithtagstemmed = brussel
+tokenwithtagstemmed = tanggal 22 januari 1972
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = irlandia
+tokenwithtagstemmed = denmark
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = mee
+
+
+pada <TIME>tahun 1981</TIME> yunani masuk menjadi anggota mee yang kemudian disusul spanyol dan portugal .
+
+memproses passage 4
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+list jawaban dan posisi dalam passage
+tahun 1981 | position = 0
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = tahun 1981
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mee
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = portugal
+kata kunci = bongaya
+tokenwithtagstemmed = tahun 1981
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mee
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = portugal
+kata kunci = ditandatangani
+tokenwithtagstemmed = tahun 1981
+tokenwithtagstemmed = yunani
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mee
+tokenwithtagstemmed = susul
+tokenwithtagstemmed = spanyol
+tokenwithtagstemmed = portugal
+
+
+referendum dimaksudkan untuk mendapatkan persetujuan dari 12 negara anggota masyarakat eropa , yakni <PERSON>inggris , jerman , prancis , belanda</PERSON> , belgia , luksemburg , italia , irlandia , denmark , portugal , spanyol , dan yunani .
+
+
+tidak ada entitas jawaban, skip
+
+
+perubahan masyarakat ekonomi eropa ( mee ) menjadi uni eropa ( ue ) melalui perjanjian maastrich , ke – 12 negara anggota masyarakat eropa dipersatukan dalam mekanisme kesatuan eropa , dengan pelaksanaan secara bertahap .
+
+
+tidak ada entitas jawaban, skip
+
+
+the treaty on european unionmulai dilaksanakan pada <TIME>tanggal 1 januari 1993</TIME> , setelah diratifikasi oleh semua parlemen anggota masyarakat eropa .
+
+memproses passage 13
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+list jawaban dan posisi dalam passage
+tanggal 1 januari 1993 | position = 6
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = the
+tokenwithtagstemmed = treaty
+tokenwithtagstemmed = on
+tokenwithtagstemmed = european
+tokenwithtagstemmed = unionmulai
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tanggal 1 januari 1993
+tokenwithtagstemmed = ratifikasi
+tokenwithtagstemmed = parlemen
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = eropa
+kata kunci = bongaya
+tokenwithtagstemmed = the
+tokenwithtagstemmed = treaty
+tokenwithtagstemmed = on
+tokenwithtagstemmed = european
+tokenwithtagstemmed = unionmulai
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tanggal 1 januari 1993
+tokenwithtagstemmed = ratifikasi
+tokenwithtagstemmed = parlemen
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = eropa
+kata kunci = ditandatangani
+tokenwithtagstemmed = the
+tokenwithtagstemmed = treaty
+tokenwithtagstemmed = on
+tokenwithtagstemmed = european
+tokenwithtagstemmed = unionmulai
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tanggal 1 januari 1993
+tokenwithtagstemmed = ratifikasi
+tokenwithtagstemmed = parlemen
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = masyarakat
+tokenwithtagstemmed = eropa
+
+
+mulai <TIME>tahun 1999</TIME> <PERSON>, masyarakat eropa</PERSON> hanya mengenal satu mata uang yang disebut european currency unit ( ecu ) atau ( european union – eu ) .
+
+memproses passage 13
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+title : sejarah terbentuknya tujuan dan struktur organisasi mee
+list jawaban dan posisi dalam passage
+tahun 1999 | position = 1
+
+
+melakukan pencarian:
+kata kunci = janji
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = tahun 1999
+tokenwithtagstemmed = masyarakat eropa
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = mata
+tokenwithtagstemmed = uang
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = european
+tokenwithtagstemmed = currency
+tokenwithtagstemmed = unit
+tokenwithtagstemmed = ecu
+tokenwithtagstemmed = european
+tokenwithtagstemmed = union
+tokenwithtagstemmed = eu
+kata kunci = bongaya
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = tahun 1999
+tokenwithtagstemmed = masyarakat eropa
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = mata
+tokenwithtagstemmed = uang
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = european
+tokenwithtagstemmed = currency
+tokenwithtagstemmed = unit
+tokenwithtagstemmed = ecu
+tokenwithtagstemmed = european
+tokenwithtagstemmed = union
+tokenwithtagstemmed = eu
+kata kunci = ditandatangani
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = tahun 1999
+tokenwithtagstemmed = masyarakat eropa
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = mata
+tokenwithtagstemmed = uang
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = european
+tokenwithtagstemmed = currency
+tokenwithtagstemmed = unit
+tokenwithtagstemmed = ecu
+tokenwithtagstemmed = european
+tokenwithtagstemmed = union
+tokenwithtagstemmed = eu
+
+
+beberapa bentuk perjanjian yang pernah dilakukan mee harus mengalami beberapa kali amandemen .
+
+
+tidak ada entitas jawaban, skip
+
+Pengurutan kandidat jawaban
+this.answer = tanggal 18 nopember 1667
+passage rank = 1
+distance = 1
+doc rank = 1
+total Score = 3
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+document Title = sejarah kerajaan makassar (goa-tallo)
+
+this.answer = tanggal 18 nopember 1667
+passage rank = 2
+distance = 1
+doc rank = 2
+total Score = 5
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+document Title = sejarah kerajaan makassar (goa-tallo)
+
+this.answer = tanggal 18 nopember 1667
+passage rank = 1
+distance = 2
+doc rank = 1
+total Score = 4
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok18.txt
+document Title = sejarah kerajaan makassar (goa-tallo)
+
+this.answer = tanggal 18 nopember 1667
+passage rank = 2
+distance = 2
+doc rank = 2
+total Score = 6
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok89.txt
+document Title = sejarah kerajaan makassar (goa-tallo)
+
+this.answer = 1842
+passage rank = 6
+distance = 2
+doc rank = 3
+total Score = 11
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+
+this.answer = 1860
+passage rank = 6
+distance = 2
+doc rank = 3
+total Score = 11
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+
+this.answer = 1842
+passage rank = 6
+distance = 3
+doc rank = 3
+total Score = 12
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+
+this.answer = tanggal 1 januari 1958
+passage rank = 7
+distance = 3
+doc rank = 4
+total Score = 14
+frequency = 1
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok242.txt
+document Title = masyarakat ekonomi eropa mee atau uni eropa eu
+
+this.answer = tanggal 1 januari 1958
+passage rank = 9
+distance = 3
+doc rank = 5
+total Score = 17
+frequency = 1
+order process = 11
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok357.txt
+document Title = sejarah terbentuknya tujuan dan struktur organisasi mee
+
+this.answer = 1860
+passage rank = 6
+distance = 5
+doc rank = 3
+total Score = 14
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+
+this.answer = 1860
+passage rank = 6
+distance = 6
+doc rank = 3
+total Score = 15
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok197.txt
+document Title = perkembangan nasionalisme di asia dan pengaruhnya terhadap perkembangan nasionalisme di indonesia
+
+
+
+selesai

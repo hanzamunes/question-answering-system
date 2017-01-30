@@ -1,0 +1,12 @@
+rank,document,verdict,Precision,Recall
+1,dok386.txt,WA,0.0,NaN
+2,dok11.txt,WA,0.0,NaN
+3,dok82.txt,WA,0.0,NaN
+4,dok6.txt,WA,0.0,NaN
+5,dok77.txt,WA,0.0,NaN
+6,dok270.txt,WA,0.0,NaN
+7,dok162.txt,WA,0.0,NaN
+8,dok113.txt,WA,0.0,NaN
+9,dok42.txt,WA,0.0,NaN
+10,dok381.txt,WA,0.0,NaN
+average precision,0.0

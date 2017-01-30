@@ -1,0 +1,2134 @@
+searching awal
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok127.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok56.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok57.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok15.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok86.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok126.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok55.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok79.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok8.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok300.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok10.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok80.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok81.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok131.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok28.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok60.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok99.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok232.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok334.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok331.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok372.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok113.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok397.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok42.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok20.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok23.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok380.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok91.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok94.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok385.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok6.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok77.txt
+
+searching dari query expansion
+query hasil ekspansi = ii mataram bali buwana dewa garuda ponegoro pader amangkurat voc
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok57.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok371.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok21.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok92.txt
+File: C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+
+query token : 
+diponegoro wafat 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 4 score = 8.0
+sentence 1: pemanahan berhasil membangun hutan mentaok itu menjadi desa yang makmur , bahkan lama-kelamaan menjadi kerajaan kecil yang siap bersaing dengan pajang sebagai atasannya .
+sentence 2: setelah pemanahan meninggal pada tahun 1575 ia digantikan putranya , danang sutawijaya , yang juga sering disebut pangeran ngabehi loring pasar .
+sentence 3: sutawijaya kemudian berhasil memberontak pada pajang .
+sentence 4: setelah sultan hadiwijaya wafat ( 1582 ) sutawijaya mengangkat diri sebagai raja mataram dengan gelar panembahan senapati .
+sentence 5: pajang kemudian dijadikan salah satu wilayah bagian daari mataram yang beribukota di kotagede .
+passage 12 score = 8.0
+sentence 1: pada tahun 1674 pecahlah perang trunajaya yang didukung para ulama dan bangsawan , bahkan termasuk putra mahkota sendiri .
+sentence 2: ibukota kerta jatuh dan amangkurat i ( bersama putra mahkota yang akhirnya berbalik memihak ayahnya ) melarikan diri untuk mencari bantuan voc .
+sentence 3: akan tetapi sampai di tegalarum , ( dekat tegal , jawa tengah ) amangkurat i jatuh sakit dan akhirnya wafat .
+sentence 4: ia digantikan oleh putra mahkota yang bergelar amangkurat ii atau dikenal juga dengan sebutan sunan amral .
+sentence 5: sunan amangkurat ii bertahta pada tahun 1677-1703 .
+passage 20 score = 8.0
+sentence 1: mulailah terjadi perang perebutan mahkota iii ( 1747-1755 ) .
+sentence 2: paku buwana ii dan voc tak mampu menghadapi 2 bangsawan yang didukung rakyat tersebut , bahkan akhirnya paku buwana ii jatuh sakit dan wafat ( 1749 ) .
+sentence 3: namun menurut pengakuan hogendorf , wakil voc semarang saat sakratul maut paku buwana ii menyerahkan tahtanya kepada voc .
+sentence 4: sejak saat itulah voc merasa berdaulat atas mataram .
+sentence 5: atas inisiatif voc , putra mahkota dinobatkan menjadi paku buwana iii ( 1749 ) .
+passage 5 score = 7.5
+sentence 1: pajang kemudian dijadikan salah satu wilayah bagian daari mataram yang beribukota di kotagede .
+sentence 2: senapati bertahta sampai wafatnya pada tahun 1601 .
+sentence 3: selama pemerintahannya boleh dikatakan terus-menerus berperang menundukkan bupati-bupati daerah .
+sentence 4: kasultanan demak menyerah , panaraga , pasuruan , kediri , surabaya , berturut-turut direbut .
+sentence 5: cirebon pun berada di bawah pengaruhnya .
+passage 7 score = 6.5
+sentence 1: pada masa pemerintahannya , dibangun taman danalaya di sebelah barat kraton .
+sentence 2: panembahan seda krapyak hanya memerintah selama 12 tahun ia meninggal ketika sedang berburu di hutan krapyak .
+sentence 3: selanjutnya bertahtalah mas rangsang , yang bergelar sultan agung hanyakrakusuma .
+sentence 4: di bawah pemerintahannya ( tahun 1613-1645 ) mataram mengalami masa kejayaan .
+sentence 5: ibukota kerajaan kotagede dipindahkan ke kraton plered .
+passage 11 score = 6.5
+sentence 1: sultan agung meninggal pada tahun 1645 dengan meninggalkan mataram dalam keadaan yang kokoh , aman , dan makmur .
+sentence 2: ia diganti oleh putranya yang bergelar amangkurat i. amangkurat i tidak mewarisi sifat-sifat ayahnya .
+sentence 3: pemerintahannya yang berlangsung tahun 1645-1676 diwarnai dengasn banyak pembunuhan/kekejaman .
+sentence 4: pada masa pemerintahannya ibukota kerajaan mataram dipindahkan ke kerta .
+sentence 5: pada tahun 1674 pecahlah perang trunajaya yang didukung para ulama dan bangsawan , bahkan termasuk putra mahkota sendiri .
+passage 13 score = 6.5
+sentence 1: sunan amangkurat ii bertahta pada tahun 1677-1703 .
+sentence 2: ia sangat tunduk kepada voc demi mempertahankan tahtanya .
+sentence 3: pada akhirnya trunajaya berhasil dibunuh oleh amangkurat ii dengan bantuan voc , dan sebagai konpensasinya voc menghendaki perjanjian yang berisi : mataram harus menggadaikan pelabuhan semarang dan mataram harus mengganti kerugian akibat perang .
+sentence 4: oleh karena kraton kerta telah rusak , ia memindahkan kratonnya ke kartasura ( 1681 ) .
+sentence 5: kraton dilindungi oleh benteng tentara voc .
+passage 15 score = 6.5
+sentence 1: hubungan amangkurat ii dengan voc menjadi tegang dan semakin memuncak setelah amangkurat ii mangkat ( 1703 ) dan digantikan oleh putranya , sunan mas ( amangkurat iii ) .
+sentence 2: ia juga menentang voc .
+sentence 3: pihak voc yang mengetahui rasa permusuhan yang ditunjukkan raja baru tersebut , maka voc tidak setuju dengan penobatannya .
+sentence 4: pihak voc lantas mengakui pangeran puger sebagai raja mataram dengan gelar paku buwana i. hal ini menyebabkan terjadinya perang saudara atau dikenal dengan sebutan perang perebutan mahkota i ( 1704-1708 ) .
+sentence 5: akhirnya amangkurat iii menyerah dan ia dibuang ke sailan oleh voc .
+passage 16 score = 6.5
+sentence 1: akhirnya amangkurat iii menyerah dan ia dibuang ke sailan oleh voc .
+sentence 2: namun paku buwana i harus membayar ongkos perang dengan menyerahkan priangan , cirebon , dan madura bagian timur kepada voc .
+sentence 3: paku buwana i meninggal tahun 1719 dan digantikan oleh amangkurat iv ( 1719-1727 ) atau dikenal dengan sebutan sunan prabu , dalam pemerintahannya dipenuhi dengan pemberontakan para bangsawan yang menentangnya , dan seperti biasa voc turut andil pada konflik ini , sehinggga konflik membesar dan terjadilah perang perebutan mahkota ii ( 1719-1723 ) .
+sentence 4: voc berpihak pada sunan prabu sehingga para pemberontak berhasil ditaklukkan dan dibuang voc ke sri langka dan afrika selatan .
+sentence 5: sunan prabu meninggal tahun 1727 dan diganti oleh paku buwana ii ( 1727-1749 ) .
+passage 17 score = 6.5
+sentence 1: sunan prabu meninggal tahun 1727 dan diganti oleh paku buwana ii ( 1727-1749 ) .
+sentence 2: pada masa pemerintahannya terjadi pemberontakan china terhadap voc .
+sentence 3: paku buwana ii memihak china dan turut membantu menghancurkan benteng voc di kartasura .
+sentence 4: voc yang mendapat bantuan panembahan cakraningrat dari madura berhasil menaklukan pemberontak china .
+sentence 5: hal ini membuat paku buwana ii merasa ketakutan dan berganti berpihak kepada voc .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+title : sejarah kerajaan mataram islam
+passage 19 score = 8.0
+sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
+sentence 2: pada tahun 1719 sunan paku buwono i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
+sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada kompeni .
+sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
+sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+passage 17 score = 7.5
+sentence 1: bupati-bupati seluruh jawa timur mendukungnya , dengan demikian kedudukannya makin kuat .
+sentence 2: pada tahun 1703 , amangkurat ii wafat , digantikan oleh putranya sunan mas dengan gelar sultan amangkurat iii yang anti kepada belanda .
+sentence 3: pamannya pangeran puger ( adik amangkurat ii ) berambisi ingin menjadi raja di mataram dan pergi ke semarang untuk mendapatkan dukungan dari voc .
+sentence 4: selanjutnya , voc berserta pangeran puger menyerang kartasuradan berhasil diduduki .
+sentence 5: amangkurat iii melarikan diri ke jawa timur bergabung dengan untung suropati .
+passage 24 score = 7.5
+sentence 1: dalam keadaan lemah dan tidak sadar , paku buwono ii menyerahkan mataram kepada voc .
+sentence 2: hasl yang demikian mungkin saja terjadi .
+sentence 3: menurut tradisi timur orang yang akan meninggal biasanya menyerahkan keluarganya kepada orang yang menjadi kepercayaannya .
+sentence 4: hal ini diartikan oleh belanda bahwa sejak itu voc berkuasa penuh atas mataram .
+sentence 5: pada tahun 1749 paku buwono ii wafat dan digantikan oleh putranya yang bergelar paku buwono iii .
+passage 25 score = 7.5
+sentence 1: pada tahun 1749 paku buwono ii wafat dan digantikan oleh putranya yang bergelar paku buwono iii .
+sentence 2: awalnya , belanda mengakuinya sebagai sultan mataram yang baru , tetapi setelah itu voc berusaha untuk memecah belah mataram sehingga dapat dikuasainya .
+sentence 3: perlawanan mangkubumi dan mas said cukup tangguh .
+sentence 4: raden mas said mendapat julukan pangeran samber nyowo ( pangeran perenggut jiwa ) .
+sentence 5: namun , karena di antara keduanya kterjadi perselisihan sehingga dimanfaatkan oleh belanda untuk memecah belah mataram .
+passage 2 score = 6.5
+sentence 1: untuk melambangkan status kebesaran raja dapat dilihat dari bangunan keratonnya .
+sentence 2: sultan agung membangun keraton mataram di karta dan sitinggil ( yogyakarta ) pada tahun 1614 dan 1625 yang dilengkapi dengan alun-alun , tembok keliling , pepohonan , masjid besar , dan kolam .
+sentence 3: a. kehidupan politik kerajaan mataram islam sesudah runtuhnya kerajaan demak , pusat pemerintahan dipindahkan ke pajang oleh joko tingkir ( menantu sultan trenggono ) .
+sentence 4: joko tingkir menaiki takhta kerajaan pajang dengan gelar sultan hadiwijoyo .
+sentence 5: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
+passage 3 score = 6.5
+sentence 1: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
+sentence 2: hal ini disebabkan kota-kota pesisir terus memperkuat diri dan erusaha melepaskan dari kekuasaan pajang .
+sentence 3: setelah sultan hadiwijoyo meninggal ( 1586 ) takhta pajang digantikan oleh putranya , yakni pangeran benowo .
+sentence 4: ternyata , pangeran benowo tidak dapat mengatasi kekacauan-kekacauan sehingga kekuasaan diserahkan kepada sutowijoyo .
+sentence 5: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+passage 4 score = 6.5
+sentence 1: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+sentence 2: sutowijoyo mengangkat dirinya sebagai raja mataram pertama dengan gelar panembahan senopati ( 1586 – 1601 ) dengan kotagede sebagai ibukotnya .
+sentence 3: tindakan-tindakannya yang penting , antara lain sebagai berikut : 1 ) meletakkan dasar-dasar kerajaan mataram ; 2 ) memperluas wilayah kekuasaan dengan menundukkan surabaya , madiun , dan ponorogo ke timur dan ke barat berhasil menundukkan cirebon dan galuh .
+sentence 4: pengganti panembahan senopati ialah mas jolang gugur di daerah krapyak sehingga disebut panembahan seda krapyak .
+sentence 5: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+passage 5 score = 6.5
+sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+sentence 2: sultan agung bercita-cita mempersatukan seluruh jawa di bawah kekuasaan mataram dan mengusir kompeni ( voc ) dari batavia .
+sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas dua periode , yaitu masa penyatuan kerajaan dan masa pembangunan .
+sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
+sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
+passage 7 score = 6.5
+sentence 1: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
+sentence 2: batavia dikepung dari darat dan laut selama dua bulan , namun tidak mau menyera , h bahkan sebaliknya tentara mataram dipukul mundur .
+sentence 3: dipersiapkan serangan yang kedua lebih matang dengan membuat pusat-pusat perbekalan makanan di tegal , cirebon , dan krawang .
+sentence 4: serangan kedua dilancarkan bulan september 1629 di bawah pimpinan bupati sura agul-agul , mandurarejo , dan uposonto .
+sentence 5: namun , voc telah mengetahui lebih dahulu rencana tersebut .
+passage 10 score = 6.5
+sentence 1: trunojoyo adalah pangeran dari madura yang tidak senang terhadap tindakan amangkurat i sehingga menghimpun kekuatan untuk menyerang mataram .
+sentence 2: pada tahun 1677 pasukan trunojoyo berhasil menduduki plered , ibu kota mataram .
+sentence 3: amangkuat i bermaksud minta bantuan voc ke batavia , namun baru sampai di tegalarum meninggal sehingga dimakamkan di tempat itu juga .
+sentence 4: oleh karena itu , amangkurat i dikenal juga sebagai sultan tegalarum .
+sentence 5: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+title : sejarah kerajaan mataram islam
+passage 19 score = 8.0
+sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
+sentence 2: pada tahun 1719 sunan paku buwono i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
+sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada kompeni .
+sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
+sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+passage 17 score = 7.5
+sentence 1: bupati-bupati seluruh jawa timur mendukungnya , dengan demikian kedudukannya makin kuat .
+sentence 2: pada tahun 1703 , amangkurat ii wafat , digantikan oleh putranya sunan mas dengan gelar sultan amangkurat iii yang anti kepada belanda .
+sentence 3: pamannya pangeran puger ( adik amangkurat ii ) berambisi ingin menjadi raja di mataram dan pergi ke semarang untuk mendapatkan dukungan dari voc .
+sentence 4: selanjutnya , voc berserta pangeran puger menyerang kartasuradan berhasil diduduki .
+sentence 5: amangkurat iii melarikan diri ke jawa timur bergabung dengan untung suropati .
+passage 24 score = 7.5
+sentence 1: dalam keadaan lemah dan tidak sadar , paku buwono ii menyerahkan mataram kepada voc .
+sentence 2: hasl yang demikian mungkin saja terjadi .
+sentence 3: menurut tradisi timur orang yang akan meninggal biasanya menyerahkan keluarganya kepada orang yang menjadi kepercayaannya .
+sentence 4: hal ini diartikan oleh belanda bahwa sejak itu voc berkuasa penuh atas mataram .
+sentence 5: pada tahun 1749 paku buwono ii wafat dan digantikan oleh putranya yang bergelar paku buwono iii .
+passage 25 score = 7.5
+sentence 1: pada tahun 1749 paku buwono ii wafat dan digantikan oleh putranya yang bergelar paku buwono iii .
+sentence 2: awalnya , belanda mengakuinya sebagai sultan mataram yang baru , tetapi setelah itu voc berusaha untuk memecah belah mataram sehingga dapat dikuasainya .
+sentence 3: perlawanan mangkubumi dan mas said cukup tangguh .
+sentence 4: raden mas said mendapat julukan pangeran samber nyowo ( pangeran perenggut jiwa ) .
+sentence 5: namun , karena di antara keduanya kterjadi perselisihan sehingga dimanfaatkan oleh belanda untuk memecah belah mataram .
+passage 2 score = 6.5
+sentence 1: untuk melambangkan status kebesaran raja dapat dilihat dari bangunan keratonnya .
+sentence 2: sultan agung membangun keraton mataram di karta dan sitinggil ( yogyakarta ) pada tahun 1614 dan 1625 yang dilengkapi dengan alun-alun , tembok keliling , pepohonan , masjid besar , dan kolam .
+sentence 3: a. kehidupan politik kerajaan mataram islam sesudah runtuhnya kerajaan demak , pusat pemerintahan dipindahkan ke pajang oleh joko tingkir ( menantu sultan trenggono ) .
+sentence 4: joko tingkir menaiki takhta kerajaan pajang dengan gelar sultan hadiwijoyo .
+sentence 5: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
+passage 3 score = 6.5
+sentence 1: usia pemerintahannya tidak begitu lama yakni 1568 – 1586 .
+sentence 2: hal ini disebabkan kota-kota pesisir terus memperkuat diri dan erusaha melepaskan dari kekuasaan pajang .
+sentence 3: setelah sultan hadiwijoyo meninggal ( 1586 ) takhta pajang digantikan oleh putranya , yakni pangeran benowo .
+sentence 4: ternyata , pangeran benowo tidak dapat mengatasi kekacauan-kekacauan sehingga kekuasaan diserahkan kepada sutowijoyo .
+sentence 5: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+passage 4 score = 6.5
+sentence 1: puncaknya , sutawijoyo memindahkan pusat pemerintahan ke kotagede dan berdirilah kerajaan mataram islam .
+sentence 2: sutowijoyo mengangkat dirinya sebagai raja mataram pertama dengan gelar panembahan senopati ( 1586 – 1601 ) dengan kotagede sebagai ibukotnya .
+sentence 3: tindakan-tindakannya yang penting , antara lain sebagai berikut : 1 ) meletakkan dasar-dasar kerajaan mataram ; 2 ) memperluas wilayah kekuasaan dengan menundukkan surabaya , madiun , dan ponorogo ke timur dan ke barat berhasil menundukkan cirebon dan galuh .
+sentence 4: pengganti panembahan senopati ialah mas jolang gugur di daerah krapyak sehingga disebut panembahan seda krapyak .
+sentence 5: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+passage 5 score = 6.5
+sentence 1: raja terbesar kerajaan mataram ialah mas rangsang dengan gelar sultan agung hanyokrokusumo ( 1613 – 1645 ) .
+sentence 2: sultan agung bercita-cita mempersatukan seluruh jawa di bawah kekuasaan mataram dan mengusir kompeni ( voc ) dari batavia .
+sentence 3: masa pemerintahan sultan agung yang selama 32 tahun dibedakan atas dua periode , yaitu masa penyatuan kerajaan dan masa pembangunan .
+sentence 4: masa penyatuan kerajaan ( 1613 – 1629 ) merupakan masa peperangan untuk mewujudkan cita-cita menyatukan seluruh jawa .
+sentence 5: sultan agung menundukkan gresik , surabaya , kediri , pasuruan , dan tuban .
+passage 7 score = 6.5
+sentence 1: serangan pertama dilancarkan pada bulan agustus 1628 di bawah pimpinan bupati baurekso dari kendal dan bupati ukur dari sumedang .
+sentence 2: batavia dikepung dari darat dan laut selama dua bulan , namun tidak mau menyera , h bahkan sebaliknya tentara mataram dipukul mundur .
+sentence 3: dipersiapkan serangan yang kedua lebih matang dengan membuat pusat-pusat perbekalan makanan di tegal , cirebon , dan krawang .
+sentence 4: serangan kedua dilancarkan bulan september 1629 di bawah pimpinan bupati sura agul-agul , mandurarejo , dan uposonto .
+sentence 5: namun , voc telah mengetahui lebih dahulu rencana tersebut .
+passage 10 score = 6.5
+sentence 1: trunojoyo adalah pangeran dari madura yang tidak senang terhadap tindakan amangkurat i sehingga menghimpun kekuatan untuk menyerang mataram .
+sentence 2: pada tahun 1677 pasukan trunojoyo berhasil menduduki plered , ibu kota mataram .
+sentence 3: amangkuat i bermaksud minta bantuan voc ke batavia , namun baru sampai di tegalarum meninggal sehingga dimakamkan di tempat itu juga .
+sentence 4: oleh karena itu , amangkurat i dikenal juga sebagai sultan tegalarum .
+sentence 5: pengganti amangkurat i adalah putra mahkota yang bergelar sultan amangkurat ii ( 1677 – 1703 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+passage 1 score = 8.0
+sentence 1: pengiriman pasukan garuda pada tanggal 26 juli 1956 presiden mesir gamal abdul nasser menasionalisasi terusan suez , akibatnya inggris dan perancis yang memiliki saham atas terusan suez menjadi marah dan mengirimkan pasukannya untuk menggempur mesir .
+sentence 2: serangan inggris dan perancis yang dibantu israel terhadap mesir sangat membahayakan perdamaian dunia sehingga pbb terpaksa turun tangan dan mengirimkan pasukan perdamaian .
+sentence 3: indonesia mengirimkan pasukan garuda i untuk bergabung dengan pasukan negara-negara lain di bawah pbb .
+sentence 4: pasukan perdamaian pbb yang dikirim ke timur tengah ( mesir ) dinamakan united nations emergency force ( u n e f ) .
+sentence 5: pasukan garuda i di bawah pimpinan mayor sudiyono berkekuatan 550 personil terbagi atas kesatuan teriotium iv diponegoro , teritorium v brawijaya dengan komando letkol infantri suyudi sumodiharjo pasukan garuda i berhasil melaksanakan tugasnya dengan baik dan pada tanggal 12 september 1957 pasukan garuda i ini membuat indonesia terus mendapat kepercayaan dari pbb untuk membantu memelihara perdamaian di berbagai belahan dunia bila terjadi sengketa , diantaranya sebagai berikut : pasukan garuda 11 di bawah pimpinan kolonel priyanto diberangkatkan ke kongo 10 september 1960 untuk bergabung dengan pasukan perdamaian pbb dengan united nations operation for the congo ( unoc ) , bertugas hingga bulan mei 1961 .
+passage 2 score = 8.0
+sentence 1: pasukan garuda i di bawah pimpinan mayor sudiyono berkekuatan 550 personil terbagi atas kesatuan teriotium iv diponegoro , teritorium v brawijaya dengan komando letkol infantri suyudi sumodiharjo pasukan garuda i berhasil melaksanakan tugasnya dengan baik dan pada tanggal 12 september 1957 pasukan garuda i ini membuat indonesia terus mendapat kepercayaan dari pbb untuk membantu memelihara perdamaian di berbagai belahan dunia bila terjadi sengketa , diantaranya sebagai berikut : pasukan garuda 11 di bawah pimpinan kolonel priyanto diberangkatkan ke kongo 10 september 1960 untuk bergabung dengan pasukan perdamaian pbb dengan united nations operation for the congo ( unoc ) , bertugas hingga bulan mei 1961 .
+sentence 2: pasukan garuda iii di bawah pimpinan brigjen kemal juga bertugas di kongo dari bulan desember 1962 sampai bulan agustus 1964 .
+sentence 3: pasukan garuda iv di bawah pimpinan brigjen tni wivono , bertugas di vietnam mulai bulan januari 1973 sampai juli 1972 .
+sentence 4: pasukan garuda vii di bawah pimpinan kolonel rudini dan wakilnya mayor basofi sudirman dikirim ke timur tengah pada tanggal 3 desember 1973 .
+sentence 5: pasukan garuda vii di bawah pimpinan brigjen sukemi sumantrio bertugas di vietnam dari bulan af 1974 sampai november 1974 , kemudian digantikan pasukan garuda vlii di bawah pimpinan brigjen t , bambang sumantri dari bulan november 1974 sampai bulan juni 1975 .
+passage 3 score = 6.5
+sentence 1: pasukan garuda vii di bawah pimpinan brigjen sukemi sumantrio bertugas di vietnam dari bulan af 1974 sampai november 1974 , kemudian digantikan pasukan garuda vlii di bawah pimpinan brigjen t , bambang sumantri dari bulan november 1974 sampai bulan juni 1975 .
+sentence 2: pada tahun ini pula pasuka perdamaian pbb untuk vietnam iccs ( intemasionalcommision for control and supervision ) ditarik mend .
+sentence 3: sefelah seluruh vietnam jatuh ke tangan vietnam utara atau vietkong yang berhaluan komunis .
+sentence 4: pasukan garuda viii di bawah pimpinan kolonel gunawan wibisono , kontingen garuda vi dan v bergabung dalam pasukan perdamaian pbb yang diberi nama united nations emergency force ( unief ) bagi bangsa indonesia pengiriman misi garuda untuk memenuhi permintaan pbb memiliki alasan yang kuat .
+sentence 5: yang pertama sesuai dengan pembukaan uud 1945 alinea keempat yang berbunyi ikut melaksanaka ketertiban dunia berdasarkan perdamaian abadi dan keadilan sosial dan kedua sesuai dengan politik luar ngeri indonesia bebas aktif .
+passage 4 score = 6.0
+sentence 1: yang pertama sesuai dengan pembukaan uud 1945 alinea keempat yang berbunyi ikut melaksanaka ketertiban dunia berdasarkan perdamaian abadi dan keadilan sosial dan kedua sesuai dengan politik luar ngeri indonesia bebas aktif .
+sentence 2: [ gs ]
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
+passage 5 score = 8.0
+sentence 1: sebaliknya , belanda yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
+sentence 2: b. periode 1825 – 1830 , ditandai dengan meredanya pertempuran .
+sentence 3: kaum paderi perlu menyusun kekuatan , sedangkan pihak belanda baru memusatkan perhatiannya menghadapi perlawanan diponegoro di jawa .
+sentence 4: c. periode 1830 – 1838 , ditandai dengan perlawanan di kedua belah yang makin menghebat .
+sentence 5: pemimpin di pihak belanda , antara lain letkol a.f. raaff , kolonel de stuer , mac .
+passage 8 score = 8.0
+sentence 1: akhirnya , benteng bonjol berhasil dilumpuhkan oleh belanda .
+sentence 2: selanjutnya , belanda mengajak berunding kaum paderi yang berujung pada penangkapan tuanku imam bonjol ( 25 oktober 1837 ) .
+sentence 3: setelah ditahan , tuanku imam bonjol dibuang ke cianjur , dipindahkan ke ambon ( 1839 ) , dan tahun 1841 dipindahkan ke manado hingga wafat tanggal 6 november 1864 .
+sentence 4: perlawanan kaum paderi kemudian dilanjutkan oleh tuanku tambusai .
+sentence 5: setelah imam bonjol tertangkap , akhirnya seluruh sumatra barat jatuh ke tangan belanda .
+passage 1 score = 6.5
+sentence 1: sejarah perlawanan kaum paderi terhadap belanda ( 1821 – 1838 ) - perang paderi melawan belanda berlangsung 1821 – 1838 , tetapi gerakan paderi sendiri sudah ada sejak awal abad ke-19 .
+sentence 2: di lihat dari sasarannya , gerakan paderi dapat dibagi menjadi dua periode .
+sentence 3: a. periode 1803 – 1821 adalah masa perang paderi melawan adat dengan corak keagamaan .
+sentence 4: b. periode 1821 – 1838 adalah masa perang paderi melawan belanda dengan corak keagamaan dan patriotisme .
+sentence 5: sejak tahun 1821 saat kembalinya tiga orang haji dari mekkah , yaitu haji miskin , haji sumanik dan haji piabang , gerakan paderi melawan kaum adat dimulai .
+passage 3 score = 6.5
+sentence 1: terjadilan perbenturan antara kaum adat dengan kaum paderi .
+sentence 2: kaum adat yang merasa terdesak , kemudian minta bantuan kepada pihak ketiga , yang semula inggris kemudian digantikan oleh belanda ( berdasarkan konvensi london ) .
+sentence 3: perang paderi melawan belanda meletus ketika belanda mengerahkan pasukannya menduduki semawang pada tanggal 18 februari 1821 .
+sentence 4: masa perang paderi melawan belanda dapat dibagi menjadi tiga periode .
+sentence 5: a. periode 1821 – 1825 , ditandai dengan meletusnya perlawanan di seluruh daerah minangkabau .
+passage 2 score = 6.0
+sentence 1: sejak tahun 1821 saat kembalinya tiga orang haji dari mekkah , yaitu haji miskin , haji sumanik dan haji piabang , gerakan paderi melawan kaum adat dimulai .
+sentence 2: kaum paderi berkeinginan memperbaiki masyarakat minangkabau dengan mengembalikan kehidupannya yang sesuai dengan ajaran islam yang sebenarnya .
+sentence 3: padahal kaum adat justru ingin melestarikan adat istiadat warisan leluhur mereka .
+sentence 4: adat yang selama itu dianut dan yang menjadi sasaran gerakan paderi adalah kebiasaan-kebiasaan buruk , seperti menyabung ayam , berjudi , madat , dan minum-minuman keras .
+sentence 5: terjadilan perbenturan antara kaum adat dengan kaum paderi .
+passage 4 score = 6.0
+sentence 1: a. periode 1821 – 1825 , ditandai dengan meletusnya perlawanan di seluruh daerah minangkabau .
+sentence 2: di bawah pimpinan tuanku pasaman , kaum paderi menggempur pos-pos belanda yang ada di semawang , sulit air , sipinan , dan tempat-tempat lain .
+sentence 3: pertempuran menimbulkan banyak korban di kedua belah pihak .
+sentence 4: tuanku pasaman kemudian mengundurkan diri ke daerah lintau .
+sentence 5: sebaliknya , belanda yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
+passage 6 score = 6.0
+sentence 1: pemimpin di pihak belanda , antara lain letkol a.f. raaff , kolonel de stuer , mac .
+sentence 2: gillavry dan elout , sedangkan di pihak paderi ialah tuanku imam bonjol , tuanku nan renceh , tuanku nan gapuk , tuanku hitam , tuanku nan cerdik dan tuanku tambusi .
+sentence 3: pada tahun 1833 , belanda mengeluarkan pelakat panjang yang isinya , antara lain sebagai berikut .
+sentence 4: a. penduduk dibebaskan dari pembayaran pajak yang berat dan kerja rodi .
+sentence 5: b. belanda akan bertindak sebagai penengah jika terjadi perselisihan antarpenduduk .
+passage 7 score = 6.0
+sentence 1: b. belanda akan bertindak sebagai penengah jika terjadi perselisihan antarpenduduk .
+sentence 2: c. penduduk boleh mengatur pemerintahan sendiri .
+sentence 3: d. hubungan dagang hanya diperbolehkan dengan belanda .
+sentence 4: belanda menjalankan siasat pengepungan mulai masuk tahun 1837 terhadap benteng bonjol .
+sentence 5: akhirnya , benteng bonjol berhasil dilumpuhkan oleh belanda .
+passage 9 score = 1.0
+sentence 1: setelah imam bonjol tertangkap , akhirnya seluruh sumatra barat jatuh ke tangan belanda .
+sentence 2: itu berarti seluruh perlawanan dari kaum paderi berhasil dipatahkan oleh belanda .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok57.txt
+title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
+passage 5 score = 7.0
+sentence 1: sebaliknya , belanda yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
+sentence 2: b. periode 1825 – 1830 , ditandai dengan meredanya pertempuran .
+sentence 3: kaum paderi perlu menyusun kekuatan , sedangkan pihak belanda baru memusatkan perhatiannya menghadapi perlawanan diponegoro di jawa .
+sentence 4: c. periode 1830 – 1838 , ditandai dengan perlawanan di kedua belah yang makin menghebat .
+sentence 5: pemimpin di pihak belanda , antara lain letkol a.f. raaff , kolonel de stuer , mac .
+passage 8 score = 7.0
+sentence 1: akhirnya , benteng bonjol berhasil dilumpuhkan oleh belanda .
+sentence 2: selanjutnya , belanda mengajak berunding kaum paderi yang berujung pada penangkapan tuanku imam bonjol ( 25 oktober 1837 ) .
+sentence 3: setelah ditahan , tuanku imam bonjol dibuang ke cianjur , dipindahkan ke ambon ( 1839 ) , dan tahun 1841 dipindahkan ke manado hingga wafat tanggal 6 november 1864 .
+sentence 4: perlawanan kaum paderi kemudian dilanjutkan oleh tuanku tambusai .
+sentence 5: setelah imam bonjol tertangkap , akhirnya seluruh sumatra barat jatuh ke tangan belanda .
+passage 1 score = 5.5
+sentence 1: sejarah perlawanan kaum paderi terhadap belanda ( 1821 – 1838 ) - perang paderi melawan belanda berlangsung 1821 – 1838 , tetapi gerakan paderi sendiri sudah ada sejak awal abad ke-19 .
+sentence 2: di lihat dari sasarannya , gerakan paderi dapat dibagi menjadi dua periode .
+sentence 3: a. periode 1803 – 1821 adalah masa perang paderi melawan adat dengan corak keagamaan .
+sentence 4: b. periode 1821 – 1838 adalah masa perang paderi melawan belanda dengan corak keagamaan dan patriotisme .
+sentence 5: sejak tahun 1821 saat kembalinya tiga orang haji dari mekkah , yaitu haji miskin , haji sumanik dan haji piabang , gerakan paderi melawan kaum adat dimulai .
+passage 3 score = 5.5
+sentence 1: terjadilan perbenturan antara kaum adat dengan kaum paderi .
+sentence 2: kaum adat yang merasa terdesak , kemudian minta bantuan kepada pihak ketiga , yang semula inggris kemudian digantikan oleh belanda ( berdasarkan konvensi london ) .
+sentence 3: perang paderi melawan belanda meletus ketika belanda mengerahkan pasukannya menduduki semawang pada tanggal 18 februari 1821 .
+sentence 4: masa perang paderi melawan belanda dapat dibagi menjadi tiga periode .
+sentence 5: a. periode 1821 – 1825 , ditandai dengan meletusnya perlawanan di seluruh daerah minangkabau .
+passage 2 score = 5.0
+sentence 1: sejak tahun 1821 saat kembalinya tiga orang haji dari mekkah , yaitu haji miskin , haji sumanik dan haji piabang , gerakan paderi melawan kaum adat dimulai .
+sentence 2: kaum paderi berkeinginan memperbaiki masyarakat minangkabau dengan mengembalikan kehidupannya yang sesuai dengan ajaran islam yang sebenarnya .
+sentence 3: padahal kaum adat justru ingin melestarikan adat istiadat warisan leluhur mereka .
+sentence 4: adat yang selama itu dianut dan yang menjadi sasaran gerakan paderi adalah kebiasaan-kebiasaan buruk , seperti menyabung ayam , berjudi , madat , dan minum-minuman keras .
+sentence 5: terjadilan perbenturan antara kaum adat dengan kaum paderi .
+passage 4 score = 5.0
+sentence 1: a. periode 1821 – 1825 , ditandai dengan meletusnya perlawanan di seluruh daerah minangkabau .
+sentence 2: di bawah pimpinan tuanku pasaman , kaum paderi menggempur pos-pos belanda yang ada di semawang , sulit air , sipinan , dan tempat-tempat lain .
+sentence 3: pertempuran menimbulkan banyak korban di kedua belah pihak .
+sentence 4: tuanku pasaman kemudian mengundurkan diri ke daerah lintau .
+sentence 5: sebaliknya , belanda yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
+passage 6 score = 5.0
+sentence 1: pemimpin di pihak belanda , antara lain letkol a.f. raaff , kolonel de stuer , mac .
+sentence 2: gillavry dan elout , sedangkan di pihak paderi ialah tuanku imam bonjol , tuanku nan renceh , tuanku nan gapuk , tuanku hitam , tuanku nan cerdik dan tuanku tambusi .
+sentence 3: pada tahun 1833 , belanda mengeluarkan pelakat panjang yang isinya , antara lain sebagai berikut .
+sentence 4: a. penduduk dibebaskan dari pembayaran pajak yang berat dan kerja rodi .
+sentence 5: b. belanda akan bertindak sebagai penengah jika terjadi perselisihan antarpenduduk .
+passage 7 score = 5.0
+sentence 1: b. belanda akan bertindak sebagai penengah jika terjadi perselisihan antarpenduduk .
+sentence 2: c. penduduk boleh mengatur pemerintahan sendiri .
+sentence 3: d. hubungan dagang hanya diperbolehkan dengan belanda .
+sentence 4: belanda menjalankan siasat pengepungan mulai masuk tahun 1837 terhadap benteng bonjol .
+sentence 5: akhirnya , benteng bonjol berhasil dilumpuhkan oleh belanda .
+passage 9 score = 0.0
+sentence 1: setelah imam bonjol tertangkap , akhirnya seluruh sumatra barat jatuh ke tangan belanda .
+sentence 2: itu berarti seluruh perlawanan dari kaum paderi berhasil dipatahkan oleh belanda .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok371.txt
+title : fakta-fakta tentang proses interaksi masyarakat dengan tradisi hindu-budha
+passage 1 score = 5.5
+sentence 1: penyusunan dan identifikasi fakta-fakta tentang interaksi dengan tradisi hindu-budha dapat diperkuat dengan berita-berita asing terutama dari china tentang indonesia .
+sentence 2: a. kalimantan di daerah mura kaman , kutai beberapa prasasti berhuruf pallawa dan berbahasa sansekerta .
+sentence 3: prasasti-prasasti tersebut dipahatkan pada tiang-tiang batu yang dinamakan yupa .
+sentence 4: sekalipun tidak mencantumkan angka tahun , namun berdasarkan huruf dan bahasanya , diduga berasal dari tahun 400 m. prasati tersebut dibuat pada masa pemerintahan raja mulawarman .
+sentence 5: salah satu diantara prasasti itu memuat silsilah mulawaaaarman .
+passage 5 score = 5.5
+sentence 1: melalui peninggalan-peninggalan tersebut , kita dapat mengetahui bahwa pada masa lampau , di jawa pernah berkembang beberapa institusi politik berupa kerajaan , misalnya tarumanegara , kalingga , mataram , medang , kahuripan , kediri , singasari , majapahit , dan sebagainya .
+sentence 2: c. sumatra berdasarkan berita cina , diperoleh keterangan bahwa pada abad ke-7 m di sumatra terdapat kerajaan-kerajaan yang bernama to-lang-p ' o-hwang ( tulangbawang ) molo-yeu ( melayu ) , dan che-lifo-che ( sriwijaya ) .
+sentence 3: berdasarkan keterangan yang dibawa oleh pendeta budha bernama i-tsing yang pada tahun 671 m berangkat dari kanton menuju india.ia singgah di sriwijaya selama enam bulan untuk belajar bahasa sansekerta .
+sentence 4: kemudian singgah di melayu selam dua bulan , baru kemudian menuju ke india dan tinggal disana selama sepuluh tahun.tahun 685 m ia kembali ke sriwijaya , dan tinggal selama empat tahun untuk menerjemahkan berbagai kitab suci budha , dari bahasa sansekerta ke dalam bahasa cina .
+sentence 5: d. bali tidak diketahui secara pasti dari daerah mana tradisi hindu-budha masuk ke bali , tetapi kemungkinan besar berasal dari jawa.kemungkinan ini diperkuat dengan ditemukannya arca budha berlanggam jawa tengah di goa gajah , bedahulu.dalam prasasti kubu-kubu ( 905 m ) disebutkan daerah yang bernama bantan telah ditaklukkan oleh mataram pada masa raja balitung .
+passage 2 score = 5.0
+sentence 1: salah satu diantara prasasti itu memuat silsilah mulawaaaarman .
+sentence 2: tugu batu ini didirikan oleh para brahmana sebagai peringatan selamatan ( kenduri ) .
+sentence 3: uraian sinkat terhadap dua prasasti itu , mengungkap fakta mengenai keberadaan kerajaan kutai di kalimantan pada abad ke-5 m. sekaligus membuktikan bahwa memang telah terjadi interaksi antara budaya lokal dengan tradisi hindu-budha .
+sentence 4: agama yang berkembang didaerah itu adalah syiwaisme .
+sentence 5: hal ini dapat diketahui dari adanya sebutan ansuman yang berarti dewa matahari dalam mitologi hindu , di jawa lebih dikenal dengan sebutan waprakeswara .
+passage 3 score = 0.0
+sentence 1: hal ini dapat diketahui dari adanya sebutan ansuman yang berarti dewa matahari dalam mitologi hindu , di jawa lebih dikenal dengan sebutan waprakeswara .
+sentence 2: salah satu yang menarik adalah dijadikannya aswawarman seagai pendiri dinasti atau wangsakartya , dan bukan kudungga .
+sentence 3: kudungga tidak dianggap sebagai wangsakarta karena belum beragama hindu .
+sentence 4: hal ini tercermin dari namankya yang masih menggunakan nama lokal .
+sentence 5: b. jawa peninggalan kepurbakalaan di jawa ditenukan dalam jumlah yang cukup banyak , sehingga memudahkan untuk memudahkan untuk melakukan identifikasi fakta-fakta tentang proses interaksi masyarakat dengan tradisi hindu-budha .
+passage 4 score = 0.0
+sentence 1: b. jawa peninggalan kepurbakalaan di jawa ditenukan dalam jumlah yang cukup banyak , sehingga memudahkan untuk memudahkan untuk melakukan identifikasi fakta-fakta tentang proses interaksi masyarakat dengan tradisi hindu-budha .
+sentence 2: hubungan antara masyarakat jawa dengan tradisi hindu-budha berlangsung lama dan dengan intensitas yang sangat tinggi .
+sentence 3: diawali dengan perkembangan di jawa barat , berlanjut dan memuncak di jawa timur , untuk selanjutnya ke bali.peninggalan kepurbakalaan ditemukan dalam berbagai bentuk sepserti prasasti , candi , petirtaan ( pemandian ) , arca , perhiasan , dan sebagainya .
+sentence 4: dengan demikian , upaya untuk mencari fakta guna merekontruksi kondisi kehidupan masyarakatnya , khususnya tentang interaksinya dengan tradisi hindu-budha , menjadi lebih lengkap .
+sentence 5: melalui peninggalan-peninggalan tersebut , kita dapat mengetahui bahwa pada masa lampau , di jawa pernah berkembang beberapa institusi politik berupa kerajaan , misalnya tarumanegara , kalingga , mataram , medang , kahuripan , kediri , singasari , majapahit , dan sebagainya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok21.txt
+title : peninggalan sejarah hindu dan buddha di indonesia (pertama)
+passage 13 score = 5.5
+sentence 1: di dataran tinggi dieng terdapat beberapa buah candi antara lain candi bima , candi gatotkaca , candi arjuna , candi semar , candi srikandi , candi puntadewa , dan candi subadra .
+sentence 2: e. candi lainnya adalah candi sukuh terletak di lereng gunung latu , karang anyar , candi sarjiwan terletak di selatan prambanan , candi lumbung di selatan candi sewu , dan candi sari atau candi bendah lokasinya tidak jauh dari candi kalasan 2 .
+sentence 3: candi-candi di jawa timur begitu pula halnya di jawa timur , banyak ditemukan candi , di antaranya sebagai berikut .
+sentence 4: a. candi badut terletak di desa dinoyo , sebelah barat laut malang , merupakan candi bercorak hindu yang didirikan sekitar abad ke-8 m. candi singhasari terletak di desa candinegoro sekitar 10 km dari kota malang .
+sentence 5: candi ini berasal dari abad ke-14 dan dihubungkan dengan raja kertanegara dari kerajaan singhasari .
+passage 14 score = 5.0
+sentence 1: candi ini berasal dari abad ke-14 dan dihubungkan dengan raja kertanegara dari kerajaan singhasari .
+sentence 2: b. candi jago ( candi jajaghu ) terletak 18 kilometer dari kota malang .
+sentence 3: candi ini merupakan candi bercorak siwa-buddha dan bentuknya berundak-undak tiga buah serta di halaman candi terdapat beberapa patung buddha .
+sentence 4: candi ini dibangun pada masa raja kertanegara dari kerajaan singhasari .
+sentence 5: c. candi kidal terletak sekitar 7 kilometer sebelah tenggara dari candi jago .
+passage 16 score = 5.0
+sentence 1: e. candi jajawa ( candi jawi ) terletak di gunung welirang yang merupakan makam raja kertanegara .
+sentence 2: f. candi singhasari yang terletak 10 kilometer dari kota malang .
+sentence 3: candi sebagai tempat pendarmaan raja kertanegara yang digambarkan sebagai bhairawa ( siwa-buddha ) g. candi rimbi terletak di desa pulosari , jombang yang merupakan peninggalan kerajaan majapahit pada abad ke-14 .
+sentence 4: h. candi bajang ratu yang merupakan gapura di daerah trowulan bekas peninggalan kerajaan majapahit .
+sentence 5: i. candi sumber awan bercorak buddha sebagai penghargaan atas kunjungan raja hayam wuruk ke daerah kaki gunung arjuna .
+passage 18 score = 5.0
+sentence 1: jumlah candinya lebih banyak tetapi wujudnya kecil-kecil bila dibandingkan dengan kelompok candi borobudur atau prambanan .
+sentence 2: candi-candi yang terdapat di jawa timur merupakan peninggalan kerajaan singhasari sampai majapahit .
+sentence 3: meskipun berwujud candi siwa atau buddha , tetapi pada hakikatnya adalah candi makam dan bukan untuk pemujaan siwa atau buddha .
+sentence 4: hal ini memperlihatkan bahwa pada aman singhasari sampai majapahit telah terjadi pembauran antara kepercayaan asli yang berupa pemujaan arwah leluhur dengan kepercayaan siwa dan buddha .
+sentence 5: 3 .
+passage 19 score = 5.0
+sentence 1: 3 .
+sentence 2: candi di jawa barat di jawa barat ditemukan candi yang bercorak siwa , yaitu candi cangkuang terletak di daerah leles , garut .
+sentence 3: candi ini bentuknya sangat sederhana dan diperkirakan berasal dari abad ke-8 masehi .
+sentence 4: selain itu , di daerah jawa barat ditemukan beberapa arca dan bangunan suci , baik yang berbentuk bangunan teras berundak , altar maupun percandian seperti batu kalde di pantai pangandaran , batujaya dan cibuaya di karawang , astana gede di kawali dan bojongmenje di daerah cicalengka , kabupaten bandung .
+sentence 5: 4 .
+passage 1 score = 0.0
+sentence 1: peninggalan sejarah hindu dan buddha di indonesia - masuknya kebudayaan india ke indonesia telah membawa pengaruh terhadap perkembangan kebudayaan di indonesia .
+sentence 2: bangsa indonesia yang sebelumnya memiliki kebudayaan asli , banyak mengadopsi dan mengembangkan budaya india dalam kehidupan sehari-hari .
+sentence 3: namun , masyarakat tidak begitu saja menerima budaya-budaya baru tersebut .
+sentence 4: kebudayaan yang datang dari india mengalami proses penyesuaian dengan kebudayaan yang ada di indonesia yang disebut dengan proses akulturasi kebudayaan .
+sentence 5: dalam bidang agama juga lahir sinkretisme , yaitu perpaduan antara agama hindu-buddha dengan kepercayaan yang telah ada dan berkembang di masyarakat indonesia pada saat itu .
+passage 2 score = 0.0
+sentence 1: dalam bidang agama juga lahir sinkretisme , yaitu perpaduan antara agama hindu-buddha dengan kepercayaan yang telah ada dan berkembang di masyarakat indonesia pada saat itu .
+sentence 2: sehingga agama hindu-buddha yang dianut oleh bangsa indonesia pada aman kerajaan-kerajaan sangat berbeda dengan agama hindu-buddha yang ada di india .
+sentence 3: masuknya agama hindu dan buddha tidak serta merta menghilangkan unsur budaya lama yang telah berkembang dalam masyarakat indonesia .
+sentence 4: salah satu contoh yang sangat mencolok dalam kehidupan masyarakat hindu di indonesia misalnya dalam sistem kasta .
+sentence 5: sistem kasta di indonesia yang mengadopsi dari agama hindu tidak sama dengan sistem kasta yang berkembang dari tanah kelahiran agama tersebut yaitu india .
+passage 3 score = 0.0
+sentence 1: sistem kasta di indonesia yang mengadopsi dari agama hindu tidak sama dengan sistem kasta yang berkembang dari tanah kelahiran agama tersebut yaitu india .
+sentence 2: baik dari ciri-ciri maupun keketatannya tidak menggambarkan keadaan seperti sistem kasta di india .
+sentence 3: bangsa indonesia melaksanakan teori tentang kasta , tetapi tidak memindahkan wujudnya seperti yang berkembang di india , melainkan disesuaikan dengan kondisi masyarakat yang sudah berlaku sebelumnya .
+sentence 4: beberapa unsur kebudayaan yang berkembang pada aman kerajaan hindu-buddha antara lain , seni bangunan , seni ukir , seni sastra , dan seni patung .
+sentence 5: salah satu hasil seni bangunan yang paling penting dalam perkembangan seni bangunan di indonesia adalah candi .
+passage 4 score = 0.0
+sentence 1: salah satu hasil seni bangunan yang paling penting dalam perkembangan seni bangunan di indonesia adalah candi .
+sentence 2: demikian juga halnya dalam seni pembuatan candi yang merupakan pengaruh dari india , akan tetapi dalam penerapannya menggunakan unsur-unsur budaya yang telah berkembang sebelumnya di tanah indonesia .
+sentence 3: pembuatan candi yang secara teoritis menggunakan dasar-dasar yang tercantum dalam kitab silpasastra akan tetapi pada tahap pelaksanaan dan hasilnya memperlihatkan corak budaya asli indonesia .
+sentence 4: silpasastra ialah sebuah kitab pegangan yang memuat berbagai petunjuk untuk melaksanakan pembuatan arca dan bangunan .
+sentence 5: pembuatan candi di india selalu menunjukkan fungsinya yang utama yaitu sebagai tempat peribadatan .
+passage 5 score = 0.0
+sentence 1: pembuatan candi di india selalu menunjukkan fungsinya yang utama yaitu sebagai tempat peribadatan .
+sentence 2: sementara candi-candi yang terdapat di indonesia tidak hanya difungsikan sebagai tempat peribadatan tetapi juga tempat pemakaman raja atau orang-orang yang dimuliakan .
+sentence 3: hal ini tampaknya dipahami oleh masyarakat indonesia bahwa kata candi berasal dari nama durga sebagai dewi maut yaitu candika .
+sentence 4: dari kata candika menunjukkan bahwa candi merupakan tempat untuk memuliakan orang yang telah meninggal , khususnya untuk para raja dan orang-orang terkemuka .
+sentence 5: terdapat perbedaan fungsi candi antara agama hindu dan buddha .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok92.txt
+title : peninggalan sejarah hindu dan buddha di indonesia (pertama)
+passage 13 score = 5.5
+sentence 1: di dataran tinggi dieng terdapat beberapa buah candi antara lain candi bima , candi gatotkaca , candi arjuna , candi semar , candi srikandi , candi puntadewa , dan candi subadra .
+sentence 2: e. candi lainnya adalah candi sukuh terletak di lereng gunung latu , karang anyar , candi sarjiwan terletak di selatan prambanan , candi lumbung di selatan candi sewu , dan candi sari atau candi bendah lokasinya tidak jauh dari candi kalasan 2 .
+sentence 3: candi-candi di jawa timur begitu pula halnya di jawa timur , banyak ditemukan candi , di antaranya sebagai berikut .
+sentence 4: a. candi badut terletak di desa dinoyo , sebelah barat laut malang , merupakan candi bercorak hindu yang didirikan sekitar abad ke-8 m. candi singhasari terletak di desa candinegoro sekitar 10 km dari kota malang .
+sentence 5: candi ini berasal dari abad ke-14 dan dihubungkan dengan raja kertanegara dari kerajaan singhasari .
+passage 14 score = 5.0
+sentence 1: candi ini berasal dari abad ke-14 dan dihubungkan dengan raja kertanegara dari kerajaan singhasari .
+sentence 2: b. candi jago ( candi jajaghu ) terletak 18 kilometer dari kota malang .
+sentence 3: candi ini merupakan candi bercorak siwa-buddha dan bentuknya berundak-undak tiga buah serta di halaman candi terdapat beberapa patung buddha .
+sentence 4: candi ini dibangun pada masa raja kertanegara dari kerajaan singhasari .
+sentence 5: c. candi kidal terletak sekitar 7 kilometer sebelah tenggara dari candi jago .
+passage 16 score = 5.0
+sentence 1: e. candi jajawa ( candi jawi ) terletak di gunung welirang yang merupakan makam raja kertanegara .
+sentence 2: f. candi singhasari yang terletak 10 kilometer dari kota malang .
+sentence 3: candi sebagai tempat pendarmaan raja kertanegara yang digambarkan sebagai bhairawa ( siwa-buddha ) g. candi rimbi terletak di desa pulosari , jombang yang merupakan peninggalan kerajaan majapahit pada abad ke-14 .
+sentence 4: h. candi bajang ratu yang merupakan gapura di daerah trowulan bekas peninggalan kerajaan majapahit .
+sentence 5: i. candi sumber awan bercorak buddha sebagai penghargaan atas kunjungan raja hayam wuruk ke daerah kaki gunung arjuna .
+passage 18 score = 5.0
+sentence 1: jumlah candinya lebih banyak tetapi wujudnya kecil-kecil bila dibandingkan dengan kelompok candi borobudur atau prambanan .
+sentence 2: candi-candi yang terdapat di jawa timur merupakan peninggalan kerajaan singhasari sampai majapahit .
+sentence 3: meskipun berwujud candi siwa atau buddha , tetapi pada hakikatnya adalah candi makam dan bukan untuk pemujaan siwa atau buddha .
+sentence 4: hal ini memperlihatkan bahwa pada aman singhasari sampai majapahit telah terjadi pembauran antara kepercayaan asli yang berupa pemujaan arwah leluhur dengan kepercayaan siwa dan buddha .
+sentence 5: 3 .
+passage 19 score = 5.0
+sentence 1: 3 .
+sentence 2: candi di jawa barat di jawa barat ditemukan candi yang bercorak siwa , yaitu candi cangkuang terletak di daerah leles , garut .
+sentence 3: candi ini bentuknya sangat sederhana dan diperkirakan berasal dari abad ke-8 masehi .
+sentence 4: selain itu , di daerah jawa barat ditemukan beberapa arca dan bangunan suci , baik yang berbentuk bangunan teras berundak , altar maupun percandian seperti batu kalde di pantai pangandaran , batujaya dan cibuaya di karawang , astana gede di kawali dan bojongmenje di daerah cicalengka , kabupaten bandung .
+sentence 5: 4 .
+passage 1 score = 0.0
+sentence 1: peninggalan sejarah hindu dan buddha di indonesia - masuknya kebudayaan india ke indonesia telah membawa pengaruh terhadap perkembangan kebudayaan di indonesia .
+sentence 2: bangsa indonesia yang sebelumnya memiliki kebudayaan asli , banyak mengadopsi dan mengembangkan budaya india dalam kehidupan sehari-hari .
+sentence 3: namun , masyarakat tidak begitu saja menerima budaya-budaya baru tersebut .
+sentence 4: kebudayaan yang datang dari india mengalami proses penyesuaian dengan kebudayaan yang ada di indonesia yang disebut dengan proses akulturasi kebudayaan .
+sentence 5: dalam bidang agama juga lahir sinkretisme , yaitu perpaduan antara agama hindu-buddha dengan kepercayaan yang telah ada dan berkembang di masyarakat indonesia pada saat itu .
+passage 2 score = 0.0
+sentence 1: dalam bidang agama juga lahir sinkretisme , yaitu perpaduan antara agama hindu-buddha dengan kepercayaan yang telah ada dan berkembang di masyarakat indonesia pada saat itu .
+sentence 2: sehingga agama hindu-buddha yang dianut oleh bangsa indonesia pada aman kerajaan-kerajaan sangat berbeda dengan agama hindu-buddha yang ada di india .
+sentence 3: masuknya agama hindu dan buddha tidak serta merta menghilangkan unsur budaya lama yang telah berkembang dalam masyarakat indonesia .
+sentence 4: salah satu contoh yang sangat mencolok dalam kehidupan masyarakat hindu di indonesia misalnya dalam sistem kasta .
+sentence 5: sistem kasta di indonesia yang mengadopsi dari agama hindu tidak sama dengan sistem kasta yang berkembang dari tanah kelahiran agama tersebut yaitu india .
+passage 3 score = 0.0
+sentence 1: sistem kasta di indonesia yang mengadopsi dari agama hindu tidak sama dengan sistem kasta yang berkembang dari tanah kelahiran agama tersebut yaitu india .
+sentence 2: baik dari ciri-ciri maupun keketatannya tidak menggambarkan keadaan seperti sistem kasta di india .
+sentence 3: bangsa indonesia melaksanakan teori tentang kasta , tetapi tidak memindahkan wujudnya seperti yang berkembang di india , melainkan disesuaikan dengan kondisi masyarakat yang sudah berlaku sebelumnya .
+sentence 4: beberapa unsur kebudayaan yang berkembang pada aman kerajaan hindu-buddha antara lain , seni bangunan , seni ukir , seni sastra , dan seni patung .
+sentence 5: salah satu hasil seni bangunan yang paling penting dalam perkembangan seni bangunan di indonesia adalah candi .
+passage 4 score = 0.0
+sentence 1: salah satu hasil seni bangunan yang paling penting dalam perkembangan seni bangunan di indonesia adalah candi .
+sentence 2: demikian juga halnya dalam seni pembuatan candi yang merupakan pengaruh dari india , akan tetapi dalam penerapannya menggunakan unsur-unsur budaya yang telah berkembang sebelumnya di tanah indonesia .
+sentence 3: pembuatan candi yang secara teoritis menggunakan dasar-dasar yang tercantum dalam kitab silpasastra akan tetapi pada tahap pelaksanaan dan hasilnya memperlihatkan corak budaya asli indonesia .
+sentence 4: silpasastra ialah sebuah kitab pegangan yang memuat berbagai petunjuk untuk melaksanakan pembuatan arca dan bangunan .
+sentence 5: pembuatan candi di india selalu menunjukkan fungsinya yang utama yaitu sebagai tempat peribadatan .
+passage 5 score = 0.0
+sentence 1: pembuatan candi di india selalu menunjukkan fungsinya yang utama yaitu sebagai tempat peribadatan .
+sentence 2: sementara candi-candi yang terdapat di indonesia tidak hanya difungsikan sebagai tempat peribadatan tetapi juga tempat pemakaman raja atau orang-orang yang dimuliakan .
+sentence 3: hal ini tampaknya dipahami oleh masyarakat indonesia bahwa kata candi berasal dari nama durga sebagai dewi maut yaitu candika .
+sentence 4: dari kata candika menunjukkan bahwa candi merupakan tempat untuk memuliakan orang yang telah meninggal , khususnya untuk para raja dan orang-orang terkemuka .
+sentence 5: terdapat perbedaan fungsi candi antara agama hindu dan buddha .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok328.txt
+title : sejarah kerajaan bali
+passage 5 score = 7.0
+sentence 1: pengganti sri wijaya mahadewi bernama dharma udayana warmadewa .
+sentence 2: ia memerintah bersama permaisurinya , gunapriya dharmapatni atau lebih dikenal dengan nama mahendradatta , putri dari raja makutawangsawardhana dari jawa timur .
+sentence 3: sebelum naik takhta , diperkirakan udayana berada di jawa timur sebab namanya tergores dalam prasasti jalatunda .
+sentence 4: pada tahun 1001 m , gunapriya meninggal dan dicandikan di burwan .
+sentence 5: udayana meneruskan pemerintahannya sendirian hingga wafat pada tahun 1011 m. ia dicandikan di banuwka .
+passage 6 score = 7.0
+sentence 1: udayana meneruskan pemerintahannya sendirian hingga wafat pada tahun 1011 m. ia dicandikan di banuwka .
+sentence 2: hal ini disimpulkan dari prasasti air hwang ( 1011 ) yang hanya menyebutkan nama udayana sendiri .
+sentence 3: adapun dalam prasasti ujung ( hyang ) disebutkan bahwa setelah wafat , udayana dikenal sebagai batara lumah di banuwka .
+sentence 4: raja udayana mempunyai tiga orang putra , yaitu airlangga , marakata , dan anak wungsu .
+sentence 5: airlangga tidak pernah memerintah di bali karena menjadi menantu dharmawangsa di jawa timur .
+passage 10 score = 7.0
+sentence 1: anak wungsu adalah raja bali kuno yang paling banyak meninggalkan prasasti ( lebih dari 28 prasasti ) yang tersebar di bali utara , bali tengah , dan bali selatan .
+sentence 2: anak wungsu memerintah selama 28 tahun , yaitu dari tahun 1049 sampai 1077 .
+sentence 3: ia dianggap sebagai penjelmaan dewa wisnu .
+sentence 4: anak wungsu tidak memiliki keturunan .
+sentence 5: ia wafat pada tahun 1077 dan dimakamkan di gunung kawi , tampaksiring .
+passage 2 score = 6.5
+sentence 1: ia memerintah sejak tahun 915 sampai 942 .
+sentence 2: istananya di singhamandawa .
+sentence 3: masa pemerintahannya sezaman dengan mpu sindok di jawa timur .
+sentence 4: sang ratu sri ugrasena meninggalkan sembilan prasasti , satu di antaranya adalah prasasti bobahan i. setelah wafat , sang ratu sri ugrasena dicandikan di air mandatu dan digantikan oleh raja-raja yang memakai gelar warmadewa ( dinasti warmadewa ) .
+sentence 5: raja pertama dari dinasti warmadewa adalah aji tabanendra warmadewa .
+passage 11 score = 6.5
+sentence 1: ia wafat pada tahun 1077 dan dimakamkan di gunung kawi , tampaksiring .
+sentence 2: berakhirlah dinasti warmadewa .
+sentence 3: setelah berakhirnya pemerintahan dinasti warmadewa , bali diperintah oleh beberapa orang raja silih berganti .
+sentence 4: raja-raja yang perlu diketahui sebagai berikut .
+sentence 5: 1 .
+passage 1 score = 5.5
+sentence 1: sejarah kerajaan bali – update kali ini admin pengertiansejarah.com akan berbagi tentang sejarah kerajaan bali , di sini akan diperlihatkan sejarah raja-jara dinasti warmadewa , pemerintahan setelah dinasti warmadewa dan kehidupan sosial masyarakatnya .
+sentence 2: berdasarkan prasasti blanjong yang berangka tahun 914 , raja bali pertama adalah khesari warmadewa .
+sentence 3: istananya berada di singhadwalawa .
+sentence 4: raja berikutnya adalah sang ratu sri ugrasena .
+sentence 5: ia memerintah sejak tahun 915 sampai 942 .
+passage 4 score = 5.5
+sentence 1: pemandian itu disebut tirta empul , terletak di dekat tampaksiring .
+sentence 2: raja jayasingha warmadewa memerintah sampai tahun 975 m. raja jayasingha digantikan oleh janasadhu warmadewa .
+sentence 3: ia memerintah tahun 975 – 983 m. tidak ada keterangan lain yang dapat diperoleh dari raja ini , kecuali tentang anugerah raja kepada desa jalah .
+sentence 4: pada tahun 983 m , muncul seorang raja wanita , yaitu sri maharaja sri wijaya mahadewi ( 983 – 989 m ) .
+sentence 5: pengganti sri wijaya mahadewi bernama dharma udayana warmadewa .
+passage 12 score = 5.5
+sentence 1: 1 .
+sentence 2: jayasakti jayasakti memerintah dari tahun 1133 sampai tahun 1150 m , sezaman dengan pemerintahan jayabaya di kediri .
+sentence 3: dalam menjalankan pemerintahannya , jayasakti dibantu oleh penasihat pusat yang terdiri atas para senopati dan pendeta , baik dari agama hindu maupun dari agama buddha .
+sentence 4: kitab undang-undang yang digunakan adalah kitab utara widhi balawandan kitab rajawacana .
+sentence 5: kitab undang-undang ini merupakan peninggalan kebudayaan dari masa pemerintahan jayasakti yang cukup tinggi .
+passage 13 score = 5.5
+sentence 1: kitab undang-undang ini merupakan peninggalan kebudayaan dari masa pemerintahan jayasakti yang cukup tinggi .
+sentence 2: kitab ini juga dipakai pada masa pemerintahan ratu sakalendukirana dan penerusnya .
+sentence 3: dari prasasti-prasasti yang ditemukan , diketahui bahwa pada masa pemerintahan jayasakti , agama buddha dan syiwa berkembang dengan baik .
+sentence 4: aliran waisnawa juga berkembang pada waktu itu .
+sentence 5: raja jayasakti sendiri disebut sebagai penjelmaan dewa wisnu .
+passage 14 score = 5.5
+sentence 1: raja jayasakti sendiri disebut sebagai penjelmaan dewa wisnu .
+sentence 2: 2 .
+sentence 3: ragajaya ragajaya mulai memerintah pada tahun 1155 m , namun kapan berakhirnya tidak diketahui sebab tidak ada sumber tertulis yang menjelaskan hal tersebut .
+sentence 4: 3 .
+sentence 5: jayapangus ( 1177 – 1181 ) raja jayapangus dianggap sebagai penyelamat rakyat yang terkena malapetaka akibat lalai menjalankan ibadah .
+
+
+After sorted, chosen passage is : 
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 4 score = 8.0
+sentence 1: pemanahan berhasil membangun hutan mentaok itu menjadi desa yang makmur , bahkan lama-kelamaan menjadi kerajaan kecil yang siap bersaing dengan pajang sebagai atasannya .
+sentence 2: setelah pemanahan meninggal pada tahun 1575 ia digantikan putranya , danang sutawijaya , yang juga sering disebut pangeran ngabehi loring pasar .
+sentence 3: sutawijaya kemudian berhasil memberontak pada pajang .
+sentence 4: setelah sultan hadiwijaya wafat ( 1582 ) sutawijaya mengangkat diri sebagai raja mataram dengan gelar panembahan senapati .
+sentence 5: pajang kemudian dijadikan salah satu wilayah bagian daari mataram yang beribukota di kotagede .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 12 score = 8.0
+sentence 1: pada tahun 1674 pecahlah perang trunajaya yang didukung para ulama dan bangsawan , bahkan termasuk putra mahkota sendiri .
+sentence 2: ibukota kerta jatuh dan amangkurat i ( bersama putra mahkota yang akhirnya berbalik memihak ayahnya ) melarikan diri untuk mencari bantuan voc .
+sentence 3: akan tetapi sampai di tegalarum , ( dekat tegal , jawa tengah ) amangkurat i jatuh sakit dan akhirnya wafat .
+sentence 4: ia digantikan oleh putra mahkota yang bergelar amangkurat ii atau dikenal juga dengan sebutan sunan amral .
+sentence 5: sunan amangkurat ii bertahta pada tahun 1677-1703 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 20 score = 8.0
+sentence 1: mulailah terjadi perang perebutan mahkota iii ( 1747-1755 ) .
+sentence 2: paku buwana ii dan voc tak mampu menghadapi 2 bangsawan yang didukung rakyat tersebut , bahkan akhirnya paku buwana ii jatuh sakit dan wafat ( 1749 ) .
+sentence 3: namun menurut pengakuan hogendorf , wakil voc semarang saat sakratul maut paku buwana ii menyerahkan tahtanya kepada voc .
+sentence 4: sejak saat itulah voc merasa berdaulat atas mataram .
+sentence 5: atas inisiatif voc , putra mahkota dinobatkan menjadi paku buwana iii ( 1749 ) .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+title : sejarah kerajaan mataram islam
+passage 19 score = 8.0
+sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
+sentence 2: pada tahun 1719 sunan paku buwono i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
+sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada kompeni .
+sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
+sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+title : sejarah kerajaan mataram islam
+passage 19 score = 8.0
+sentence 1: sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( 1708 ) .
+sentence 2: pada tahun 1719 sunan paku buwono i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
+sentence 3: makin eratnya hubungan denganvoc membuat para bangsawan benci kepada kompeni .
+sentence 4: mereka mengadakan perlawanan , antara lain pangeran purboyo ( adik sunan ) dan pangeran mangkunegoro ( putra sunan sendiri ) .
+sentence 5: perlawanan terhadap kompeni dapat dipadamkan dan para pemimpinya ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+passage 1 score = 8.0
+sentence 1: pengiriman pasukan garuda pada tanggal 26 juli 1956 presiden mesir gamal abdul nasser menasionalisasi terusan suez , akibatnya inggris dan perancis yang memiliki saham atas terusan suez menjadi marah dan mengirimkan pasukannya untuk menggempur mesir .
+sentence 2: serangan inggris dan perancis yang dibantu israel terhadap mesir sangat membahayakan perdamaian dunia sehingga pbb terpaksa turun tangan dan mengirimkan pasukan perdamaian .
+sentence 3: indonesia mengirimkan pasukan garuda i untuk bergabung dengan pasukan negara-negara lain di bawah pbb .
+sentence 4: pasukan perdamaian pbb yang dikirim ke timur tengah ( mesir ) dinamakan united nations emergency force ( u n e f ) .
+sentence 5: pasukan garuda i di bawah pimpinan mayor sudiyono berkekuatan 550 personil terbagi atas kesatuan teriotium iv diponegoro , teritorium v brawijaya dengan komando letkol infantri suyudi sumodiharjo pasukan garuda i berhasil melaksanakan tugasnya dengan baik dan pada tanggal 12 september 1957 pasukan garuda i ini membuat indonesia terus mendapat kepercayaan dari pbb untuk membantu memelihara perdamaian di berbagai belahan dunia bila terjadi sengketa , diantaranya sebagai berikut : pasukan garuda 11 di bawah pimpinan kolonel priyanto diberangkatkan ke kongo 10 september 1960 untuk bergabung dengan pasukan perdamaian pbb dengan united nations operation for the congo ( unoc ) , bertugas hingga bulan mei 1961 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+passage 2 score = 8.0
+sentence 1: pasukan garuda i di bawah pimpinan mayor sudiyono berkekuatan 550 personil terbagi atas kesatuan teriotium iv diponegoro , teritorium v brawijaya dengan komando letkol infantri suyudi sumodiharjo pasukan garuda i berhasil melaksanakan tugasnya dengan baik dan pada tanggal 12 september 1957 pasukan garuda i ini membuat indonesia terus mendapat kepercayaan dari pbb untuk membantu memelihara perdamaian di berbagai belahan dunia bila terjadi sengketa , diantaranya sebagai berikut : pasukan garuda 11 di bawah pimpinan kolonel priyanto diberangkatkan ke kongo 10 september 1960 untuk bergabung dengan pasukan perdamaian pbb dengan united nations operation for the congo ( unoc ) , bertugas hingga bulan mei 1961 .
+sentence 2: pasukan garuda iii di bawah pimpinan brigjen kemal juga bertugas di kongo dari bulan desember 1962 sampai bulan agustus 1964 .
+sentence 3: pasukan garuda iv di bawah pimpinan brigjen tni wivono , bertugas di vietnam mulai bulan januari 1973 sampai juli 1972 .
+sentence 4: pasukan garuda vii di bawah pimpinan kolonel rudini dan wakilnya mayor basofi sudirman dikirim ke timur tengah pada tanggal 3 desember 1973 .
+sentence 5: pasukan garuda vii di bawah pimpinan brigjen sukemi sumantrio bertugas di vietnam dari bulan af 1974 sampai november 1974 , kemudian digantikan pasukan garuda vlii di bawah pimpinan brigjen t , bambang sumantri dari bulan november 1974 sampai bulan juni 1975 .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
+passage 5 score = 8.0
+sentence 1: sebaliknya , belanda yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
+sentence 2: b. periode 1825 – 1830 , ditandai dengan meredanya pertempuran .
+sentence 3: kaum paderi perlu menyusun kekuatan , sedangkan pihak belanda baru memusatkan perhatiannya menghadapi perlawanan diponegoro di jawa .
+sentence 4: c. periode 1830 – 1838 , ditandai dengan perlawanan di kedua belah yang makin menghebat .
+sentence 5: pemimpin di pihak belanda , antara lain letkol a.f. raaff , kolonel de stuer , mac .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
+passage 8 score = 8.0
+sentence 1: akhirnya , benteng bonjol berhasil dilumpuhkan oleh belanda .
+sentence 2: selanjutnya , belanda mengajak berunding kaum paderi yang berujung pada penangkapan tuanku imam bonjol ( 25 oktober 1837 ) .
+sentence 3: setelah ditahan , tuanku imam bonjol dibuang ke cianjur , dipindahkan ke ambon ( 1839 ) , dan tahun 1841 dipindahkan ke manado hingga wafat tanggal 6 november 1864 .
+sentence 4: perlawanan kaum paderi kemudian dilanjutkan oleh tuanku tambusai .
+sentence 5: setelah imam bonjol tertangkap , akhirnya seluruh sumatra barat jatuh ke tangan belanda .
+
+document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+passage 5 score = 7.5
+sentence 1: pajang kemudian dijadikan salah satu wilayah bagian daari mataram yang beribukota di kotagede .
+sentence 2: senapati bertahta sampai wafatnya pada tahun 1601 .
+sentence 3: selama pemerintahannya boleh dikatakan terus-menerus berperang menundukkan bupati-bupati daerah .
+sentence 4: kasultanan demak menyerah , panaraga , pasuruan , kediri , surabaya , berturut-turut direbut .
+sentence 5: cirebon pun berada di bawah pengaruhnya .
+
+
+Pencarian jawaban
+---------------------
+
+
+pemanahan berhasil membangun hutan mentaok itu menjadi desa yang makmur , bahkan lama-kelamaan menjadi kerajaan kecil yang siap bersaing dengan pajang sebagai atasannya .
+
+
+tidak ada entitas jawaban, skip
+
+
+setelah pemanahan meninggal pada <TIME>tahun 1575</TIME> ia digantikan putranya , danang sutawijaya , yang juga sering disebut pangeran ngabehi loring pasar .
+
+memproses passage 4
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1575 | position = 2
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = manah
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1575
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = danang
+tokenwithtagstemmed = sutawijaya
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = pangeran
+tokenwithtagstemmed = ngabehi
+tokenwithtagstemmed = loring
+tokenwithtagstemmed = pasar
+kata kunci = wafat
+tokenwithtagstemmed = manah
+tokenwithtagstemmed = tinggal
+tokenwithtagstemmed = tahun 1575
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = danang
+tokenwithtagstemmed = sutawijaya
+tokenwithtagstemmed = sebut
+tokenwithtagstemmed = pangeran
+tokenwithtagstemmed = ngabehi
+tokenwithtagstemmed = loring
+tokenwithtagstemmed = pasar
+
+
+sutawijaya kemudian berhasil memberontak pada pajang .
+
+
+tidak ada entitas jawaban, skip
+
+
+setelah sultan hadiwijaya wafat ( <TIME>1582</TIME> ) sutawijaya mengangkat diri sebagai raja mataram dengan gelar panembahan senapati .
+
+memproses passage 4
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1582 | position = 3
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hadiwijaya
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = 1582
+tokenwithtagstemmed = sutawijaya
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = panembahan
+tokenwithtagstemmed = senapati
+kata kunci = wafat
+tokenwithtagstemmed = sultan
+tokenwithtagstemmed = hadiwijaya
+tokenwithtagstemmed = wafat
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+1582 1
+
+tokenwithtagstemmed = 1582
+tokenwithtagstemmed = sutawijaya
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = raja
+tokenwithtagstemmed = mataram
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = panembahan
+tokenwithtagstemmed = senapati
+
+
+pajang kemudian dijadikan salah satu wilayah bagian daari mataram yang beribukota di <LOCATION>kotagede .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>tahun 1674</TIME> pecahlah perang trunajaya yang didukung <PERSON>para ulama</PERSON> dan bangsawan , bahkan termasuk putra mahkota sendiri .
+
+memproses passage 12
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1674 | position = 0
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = tahun 1674
+tokenwithtagstemmed = pecah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = trunajaya
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+kata kunci = wafat
+tokenwithtagstemmed = tahun 1674
+tokenwithtagstemmed = pecah
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = trunajaya
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = ulama
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = masuk
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+
+
+ibukota kerta jatuh dan amangkurat i ( bersama putra mahkota yang akhirnya berbalik memihak ayahnya ) melarikan diri untuk mencari bantuan voc .
+
+
+tidak ada entitas jawaban, skip
+
+
+akan tetapi sampai di <LOCATION>tegalarum ,</LOCATION> ( dekat tegal , jawa tengah ) amangkurat i jatuh sakit dan akhirnya wafat .
+
+
+tidak ada entitas jawaban, skip
+
+
+ia digantikan oleh putra mahkota yang bergelar amangkurat ii atau dikenal juga dengan sebutan sunan amral .
+
+
+tidak ada entitas jawaban, skip
+
+
+sunan amangkurat ii bertahta pada <TIME>tahun 1677-1703 .</TIME>
+
+memproses passage 12
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1677 1703 | position = 4
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = tahun 1677 1703
+kata kunci = wafat
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = tahun 1677 1703
+
+
+mulailah terjadi perang perebutan mahkota iii ( <TIME>1747-1755</TIME> ) .
+
+memproses passage 20
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1747 1755 | position = 6
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = iii
+tokenwithtagstemmed = 1747 1755
+kata kunci = wafat
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = perang
+tokenwithtagstemmed = rebut
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = iii
+tokenwithtagstemmed = 1747 1755
+
+
+paku buwana ii dan voc tak mampu menghadapi 2 bangsawan yang didukung rakyat tersebut , bahkan akhirnya paku buwana ii jatuh sakit dan wafat ( <TIME>1749</TIME> ) .
+
+memproses passage 20
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1749 | position = 15
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = jatuh
+tokenwithtagstemmed = sakit
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = 1749
+kata kunci = wafat
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = hadap
+tokenwithtagstemmed = 2
+tokenwithtagstemmed = bangsawan
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = rakyat
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = ii
+tokenwithtagstemmed = jatuh
+tokenwithtagstemmed = sakit
+tokenwithtagstemmed = wafat
+posisi dalam passage = 14
+jarak dengan tiap kandidat jawaban:
+1749 1
+
+tokenwithtagstemmed = 1749
+
+
+namun menurut pengakuan hogendorf , wakil voc semarang saat sakratul maut paku buwana ii menyerahkan tahtanya kepada <PERSON>voc .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+sejak saat itulah voc merasa berdaulat atas mataram .
+
+
+tidak ada entitas jawaban, skip
+
+
+atas inisiatif voc , putra mahkota dinobatkan menjadi paku buwana iii ( <TIME>1749</TIME> ) .
+
+memproses passage 20
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1749 | position = 10
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = inisiatif
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = iii
+tokenwithtagstemmed = 1749
+kata kunci = wafat
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = inisiatif
+tokenwithtagstemmed = voc
+tokenwithtagstemmed = putra
+tokenwithtagstemmed = mahkota
+tokenwithtagstemmed = nobat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = paku
+tokenwithtagstemmed = buwana
+tokenwithtagstemmed = iii
+tokenwithtagstemmed = 1749
+
+
+sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( <TIME>1708</TIME> ) .
+
+memproses passage 19
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+title : sejarah kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1708 | position = 7
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = mas
+tokenwithtagstemmed = tangkap
+tokenwithtagstemmed = buang
+tokenwithtagstemmed = sailan
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = langka
+tokenwithtagstemmed = 1708
+kata kunci = wafat
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = mas
+tokenwithtagstemmed = tangkap
+tokenwithtagstemmed = buang
+tokenwithtagstemmed = sailan
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = langka
+tokenwithtagstemmed = 1708
+
+
+pada <TIME>tahun 1719</TIME> <PERSON>sunan paku buwono</PERSON> i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
+
+memproses passage 19
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok11.txt
+title : sejarah kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1719 | position = 0
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = tahun 1719
+tokenwithtagstemmed = sunan paku buwono
+tokenwithtagstemmed = i
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = prabu
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = mandat
+tokenwithtagstemmed = voc
+kata kunci = wafat
+tokenwithtagstemmed = tahun 1719
+tokenwithtagstemmed = sunan paku buwono
+tokenwithtagstemmed = i
+tokenwithtagstemmed = wafat
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+tahun 1719 -3
+
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = prabu
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = mandat
+tokenwithtagstemmed = voc
+
+
+makin eratnya hubungan denganvoc membuat <PERSON>para bangsawan</PERSON> benci kepada <PERSON>kompeni .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+mereka mengadakan perlawanan , antara lain <PERSON>pangeran purboyo</PERSON> ( adik sunan ) dan <PERSON>pangeran mangkunegoro</PERSON> ( putra sunan sendiri ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+perlawanan terhadap <PERSON>kompeni</PERSON> dapat dipadamkan dan <PERSON>para pemimpinya</PERSON> ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+
+
+tidak ada entitas jawaban, skip
+
+
+sunan mas bisa tertangkap dan kemudian dibuang ke sailan/sri langka ( <TIME>1708</TIME> ) .
+
+memproses passage 19
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+title : sejarah kerajaan mataram islam
+list jawaban dan posisi dalam passage
+1708 | position = 7
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = mas
+tokenwithtagstemmed = tangkap
+tokenwithtagstemmed = buang
+tokenwithtagstemmed = sailan
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = langka
+tokenwithtagstemmed = 1708
+kata kunci = wafat
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = mas
+tokenwithtagstemmed = tangkap
+tokenwithtagstemmed = buang
+tokenwithtagstemmed = sailan
+tokenwithtagstemmed = sri
+tokenwithtagstemmed = langka
+tokenwithtagstemmed = 1708
+
+
+pada <TIME>tahun 1719</TIME> <PERSON>sunan paku buwono</PERSON> i wafat dan digantikan oleh amangkurat iv ( sunan prabu ) di bawah mandat voc .
+
+memproses passage 19
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok82.txt
+title : sejarah kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1719 | position = 0
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = tahun 1719
+tokenwithtagstemmed = sunan paku buwono
+tokenwithtagstemmed = i
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = prabu
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = mandat
+tokenwithtagstemmed = voc
+kata kunci = wafat
+tokenwithtagstemmed = tahun 1719
+tokenwithtagstemmed = sunan paku buwono
+tokenwithtagstemmed = i
+tokenwithtagstemmed = wafat
+posisi dalam passage = 3
+jarak dengan tiap kandidat jawaban:
+tahun 1719 -3
+
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = amangkurat
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = sunan
+tokenwithtagstemmed = prabu
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = mandat
+tokenwithtagstemmed = voc
+
+
+makin eratnya hubungan denganvoc membuat <PERSON>para bangsawan</PERSON> benci kepada <PERSON>kompeni .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+mereka mengadakan perlawanan , antara lain <PERSON>pangeran purboyo</PERSON> ( adik sunan ) dan <PERSON>pangeran mangkunegoro</PERSON> ( putra sunan sendiri ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+perlawanan terhadap <PERSON>kompeni</PERSON> dapat dipadamkan dan <PERSON>para pemimpinya</PERSON> ditangkap dan dibuang ke sailan dan afrika selatan , kecuali pangeran mangkunegoro yang diampuni ayahnya .
+
+
+tidak ada entitas jawaban, skip
+
+
+pengiriman pasukan garuda pada <TIME>tanggal 26 juli 1956</TIME> <PERSON>presiden</PERSON> mesir gamal abdul nasser menasionalisasi terusan suez , akibatnya inggris dan perancis yang memiliki saham atas terusan suez menjadi marah dan mengirimkan pasukannya untuk menggempur mesir .
+
+memproses passage 1
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+list jawaban dan posisi dalam passage
+tanggal 26 juli 1956 | position = 3
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = tanggal 26 juli 1956
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = mesir
+tokenwithtagstemmed = gamal
+tokenwithtagstemmed = abdul
+tokenwithtagstemmed = nasser
+tokenwithtagstemmed = nasionalisasi
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = suez
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = perancis
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = saham
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = suez
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = marah
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = gempur
+tokenwithtagstemmed = mesir
+kata kunci = wafat
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = tanggal 26 juli 1956
+tokenwithtagstemmed = presiden
+tokenwithtagstemmed = mesir
+tokenwithtagstemmed = gamal
+tokenwithtagstemmed = abdul
+tokenwithtagstemmed = nasser
+tokenwithtagstemmed = nasionalisasi
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = suez
+tokenwithtagstemmed = akibat
+tokenwithtagstemmed = inggris
+tokenwithtagstemmed = perancis
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = saham
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = suez
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = marah
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = gempur
+tokenwithtagstemmed = mesir
+
+
+serangan inggris dan perancis yang dibantu israel terhadap mesir sangat membahayakan perdamaian dunia sehingga pbb terpaksa turun tangan dan mengirimkan pasukan perdamaian .
+
+
+tidak ada entitas jawaban, skip
+
+
+indonesia mengirimkan pasukan garuda i untuk bergabung dengan pasukan negara-negara lain di bawah pbb .
+
+
+tidak ada entitas jawaban, skip
+
+
+pasukan perdamaian pbb yang dikirim ke timur tengah ( mesir ) dinamakan united nations emergency force ( u n e f ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+pasukan garuda i di bawah pimpinan <PERSON>mayor sudiyono</PERSON> berkekuatan 550 personil terbagi atas kesatuan teriotium iv diponegoro , teritorium v brawijaya dengan komando letkol infantri suyudi sumodiharjo pasukan garuda i berhasil melaksanakan tugasnya dengan baik dan pada <TIME>tanggal 12 september 1957</TIME> pasukan garuda i ini membuat indonesia terus mendapat kepercayaan dari pbb untuk membantu memelihara perdamaian di berbagai belahan dunia bila terjadi sengketa , diantaranya sebagai berikut : pasukan garuda 11 di bawah pimpinan <PERSON>kolonel priyanto</PERSON> diberangkatkan ke <LOCATION>kongo</LOCATION> <TIME>10 september 1960</TIME> untuk bergabung dengan pasukan perdamaian pbb dengan united nations operation for the congo ( unoc ) , bertugas hingga bulan mei <TIME>1961</TIME> .
+
+memproses passage 1
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+list jawaban dan posisi dalam passage
+tanggal 12 september 1957 | position = 30
+10 september 1960 | position = 58
+1961 | position = 74
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = mayor sudiyono
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = 550
+tokenwithtagstemmed = personil
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = teriotium
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = diponegoro
+posisi dalam passage = 14
+jarak dengan tiap kandidat jawaban:
+tanggal 12 september 1957 16
+10 september 1960 44
+1961 60
+
+tokenwithtagstemmed = teritorium
+tokenwithtagstemmed = v
+tokenwithtagstemmed = brawijaya
+tokenwithtagstemmed = komando
+tokenwithtagstemmed = letkol
+tokenwithtagstemmed = infantri
+tokenwithtagstemmed = suyudi
+tokenwithtagstemmed = sumodiharjo
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tanggal 12 september 1957
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = pbb
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = pelihara
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = bahan
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = sengketa
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = 11
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = kolonel priyanto
+tokenwithtagstemmed = berangkat
+tokenwithtagstemmed = kongo
+tokenwithtagstemmed = 10 september 1960
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = pbb
+tokenwithtagstemmed = united
+tokenwithtagstemmed = nations
+tokenwithtagstemmed = operation
+tokenwithtagstemmed = for
+tokenwithtagstemmed = the
+tokenwithtagstemmed = congo
+tokenwithtagstemmed = unoc
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bulan
+tokenwithtagstemmed = mei
+tokenwithtagstemmed = 1961
+kata kunci = wafat
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = mayor sudiyono
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = 550
+tokenwithtagstemmed = personil
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = teriotium
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = diponegoro
+tokenwithtagstemmed = teritorium
+tokenwithtagstemmed = v
+tokenwithtagstemmed = brawijaya
+tokenwithtagstemmed = komando
+tokenwithtagstemmed = letkol
+tokenwithtagstemmed = infantri
+tokenwithtagstemmed = suyudi
+tokenwithtagstemmed = sumodiharjo
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tanggal 12 september 1957
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = pbb
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = pelihara
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = bahan
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = sengketa
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = 11
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = kolonel priyanto
+tokenwithtagstemmed = berangkat
+tokenwithtagstemmed = kongo
+tokenwithtagstemmed = 10 september 1960
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = pbb
+tokenwithtagstemmed = united
+tokenwithtagstemmed = nations
+tokenwithtagstemmed = operation
+tokenwithtagstemmed = for
+tokenwithtagstemmed = the
+tokenwithtagstemmed = congo
+tokenwithtagstemmed = unoc
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bulan
+tokenwithtagstemmed = mei
+tokenwithtagstemmed = 1961
+
+
+pasukan garuda i di bawah pimpinan <PERSON>mayor sudiyono</PERSON> berkekuatan 550 personil terbagi atas kesatuan teriotium iv diponegoro , teritorium v brawijaya dengan komando letkol infantri suyudi sumodiharjo pasukan garuda i berhasil melaksanakan tugasnya dengan baik dan pada <TIME>tanggal 12 september 1957</TIME> pasukan garuda i ini membuat indonesia terus mendapat kepercayaan dari pbb untuk membantu memelihara perdamaian di berbagai belahan dunia bila terjadi sengketa , diantaranya sebagai berikut : pasukan garuda 11 di bawah pimpinan <PERSON>kolonel priyanto</PERSON> diberangkatkan ke <LOCATION>kongo</LOCATION> <TIME>10 september 1960</TIME> untuk bergabung dengan pasukan perdamaian pbb dengan united nations operation for the congo ( unoc ) , bertugas hingga bulan mei <TIME>1961</TIME> .
+
+memproses passage 2
+sentence : 1
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+list jawaban dan posisi dalam passage
+tanggal 12 september 1957 | position = 30
+10 september 1960 | position = 58
+1961 | position = 74
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = mayor sudiyono
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = 550
+tokenwithtagstemmed = personil
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = teriotium
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = diponegoro
+posisi dalam passage = 14
+jarak dengan tiap kandidat jawaban:
+tanggal 12 september 1957 16
+10 september 1960 44
+1961 60
+
+tokenwithtagstemmed = teritorium
+tokenwithtagstemmed = v
+tokenwithtagstemmed = brawijaya
+tokenwithtagstemmed = komando
+tokenwithtagstemmed = letkol
+tokenwithtagstemmed = infantri
+tokenwithtagstemmed = suyudi
+tokenwithtagstemmed = sumodiharjo
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tanggal 12 september 1957
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = pbb
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = pelihara
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = bahan
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = sengketa
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = 11
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = kolonel priyanto
+tokenwithtagstemmed = berangkat
+tokenwithtagstemmed = kongo
+tokenwithtagstemmed = 10 september 1960
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = pbb
+tokenwithtagstemmed = united
+tokenwithtagstemmed = nations
+tokenwithtagstemmed = operation
+tokenwithtagstemmed = for
+tokenwithtagstemmed = the
+tokenwithtagstemmed = congo
+tokenwithtagstemmed = unoc
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bulan
+tokenwithtagstemmed = mei
+tokenwithtagstemmed = 1961
+kata kunci = wafat
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = mayor sudiyono
+tokenwithtagstemmed = kuat
+tokenwithtagstemmed = 550
+tokenwithtagstemmed = personil
+tokenwithtagstemmed = bagi
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = teriotium
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = diponegoro
+tokenwithtagstemmed = teritorium
+tokenwithtagstemmed = v
+tokenwithtagstemmed = brawijaya
+tokenwithtagstemmed = komando
+tokenwithtagstemmed = letkol
+tokenwithtagstemmed = infantri
+tokenwithtagstemmed = suyudi
+tokenwithtagstemmed = sumodiharjo
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = hasil
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = baik
+tokenwithtagstemmed = tanggal 12 september 1957
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = i
+tokenwithtagstemmed = buat
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = terus
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = percaya
+tokenwithtagstemmed = pbb
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = bantu
+tokenwithtagstemmed = pelihara
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = bagai
+tokenwithtagstemmed = bahan
+tokenwithtagstemmed = dunia
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = sengketa
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = 11
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = kolonel priyanto
+tokenwithtagstemmed = berangkat
+tokenwithtagstemmed = kongo
+tokenwithtagstemmed = 10 september 1960
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = gabung
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = damai
+tokenwithtagstemmed = pbb
+tokenwithtagstemmed = united
+tokenwithtagstemmed = nations
+tokenwithtagstemmed = operation
+tokenwithtagstemmed = for
+tokenwithtagstemmed = the
+tokenwithtagstemmed = congo
+tokenwithtagstemmed = unoc
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = bulan
+tokenwithtagstemmed = mei
+tokenwithtagstemmed = 1961
+
+
+pasukan garuda iii di bawah pimpinan brigjen kemal juga bertugas di <LOCATION>kongo</LOCATION> dari <TIME>bulan desember 1962</TIME> sampai <TIME>bulan agustus 1964 .</TIME>
+
+memproses passage 2
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+list jawaban dan posisi dalam passage
+bulan desember 1962 | position = 9
+bulan agustus 1964 | position = 10
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = iii
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = brigjen
+tokenwithtagstemmed = kemal
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = kongo
+tokenwithtagstemmed = bulan desember 1962
+tokenwithtagstemmed = bulan agustus 1964
+kata kunci = wafat
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = iii
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = brigjen
+tokenwithtagstemmed = kemal
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = kongo
+tokenwithtagstemmed = bulan desember 1962
+tokenwithtagstemmed = bulan agustus 1964
+
+
+pasukan garuda iv di bawah pimpinan <PERSON>brigjen tni wivono</PERSON> , bertugas di vietnam mulai <TIME>bulan januari 1973</TIME> sampai <TIME>juli 1972</TIME> .
+
+memproses passage 2
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+list jawaban dan posisi dalam passage
+bulan januari 1973 | position = 9
+juli 1972 | position = 10
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = brigjen tni wivono
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = bulan januari 1973
+tokenwithtagstemmed = juli 1972
+kata kunci = wafat
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = iv
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = brigjen tni wivono
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = mulai
+tokenwithtagstemmed = bulan januari 1973
+tokenwithtagstemmed = juli 1972
+
+
+pasukan garuda vii di bawah pimpinan <PERSON>kolonel rudini</PERSON> dan wakilnya mayor basofi sudirman dikirim ke timur tengah pada <TIME>tanggal 3 desember 1973</TIME> .
+
+memproses passage 2
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+list jawaban dan posisi dalam passage
+tanggal 3 desember 1973 | position = 13
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = vii
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = kolonel rudin
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = mayor
+tokenwithtagstemmed = basofi
+tokenwithtagstemmed = sudirman
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = tengah
+tokenwithtagstemmed = tanggal 3 desember 1973
+kata kunci = wafat
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = vii
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = kolonel rudin
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = mayor
+tokenwithtagstemmed = basofi
+tokenwithtagstemmed = sudirman
+tokenwithtagstemmed = kirim
+tokenwithtagstemmed = timur
+tokenwithtagstemmed = tengah
+tokenwithtagstemmed = tanggal 3 desember 1973
+
+
+pasukan garuda vii di bawah pimpinan <PERSON>brigjen sukemi sumantrio</PERSON> bertugas di vietnam dari <TIME>bulan af 1974</TIME> sampai <TIME>november 1974</TIME> , kemudian digantikan pasukan garuda vlii di bawah pimpinan brigjen t , bambang sumantri dari <TIME>bulan november 1974</TIME> sampai <TIME>bulan juni 1975 .</TIME>
+
+memproses passage 2
+sentence : 5
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+title : pengiriman pasukan garuda
+list jawaban dan posisi dalam passage
+bulan af 1974 | position = 8
+november 1974 | position = 9
+bulan november 1974 | position = 20
+bulan juni 1975 | position = 21
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = vii
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = brigjen sukemi sumantrio
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = bulan af 1974
+tokenwithtagstemmed = november 1974
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = vlii
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = brigjen
+tokenwithtagstemmed = t
+tokenwithtagstemmed = bambang
+tokenwithtagstemmed = sumantri
+tokenwithtagstemmed = bulan november 1974
+tokenwithtagstemmed = bulan juni 1975
+kata kunci = wafat
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = vii
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = brigjen sukemi sumantrio
+tokenwithtagstemmed = tugas
+tokenwithtagstemmed = vietnam
+tokenwithtagstemmed = bulan af 1974
+tokenwithtagstemmed = november 1974
+tokenwithtagstemmed = ganti
+tokenwithtagstemmed = pasu
+tokenwithtagstemmed = garuda
+tokenwithtagstemmed = vlii
+tokenwithtagstemmed = bawah
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = brigjen
+tokenwithtagstemmed = t
+tokenwithtagstemmed = bambang
+tokenwithtagstemmed = sumantri
+tokenwithtagstemmed = bulan november 1974
+tokenwithtagstemmed = bulan juni 1975
+
+
+sebaliknya <PERSON>, belanda</PERSON> yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
+
+
+tidak ada entitas jawaban, skip
+
+
+b. <TIME>periode 1825 – 1830</TIME> , ditandai dengan meredanya pertempuran .
+
+memproses passage 5
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
+list jawaban dan posisi dalam passage
+periode 1825 1830 | position = 1
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = b
+tokenwithtagstemmed = periode 1825 1830
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = reda
+tokenwithtagstemmed = tempur
+kata kunci = wafat
+tokenwithtagstemmed = b
+tokenwithtagstemmed = periode 1825 1830
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = reda
+tokenwithtagstemmed = tempur
+
+
+<PERSON>kaum paderi</PERSON> perlu menyusun kekuatan , sedangkan <PERSON>pihak belanda</PERSON> baru memusatkan perhatiannya menghadapi perlawanan diponegoro di <LOCATION>jawa .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+c. <TIME>periode 1830 – 1838</TIME> , ditandai dengan perlawanan di kedua belah yang makin menghebat .
+
+memproses passage 5
+sentence : 4
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
+list jawaban dan posisi dalam passage
+periode 1830 1838 | position = 1
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = c
+tokenwithtagstemmed = periode 1830 1838
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = hebat
+kata kunci = wafat
+tokenwithtagstemmed = c
+tokenwithtagstemmed = periode 1830 1838
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = lawan
+tokenwithtagstemmed = dua
+tokenwithtagstemmed = belah
+tokenwithtagstemmed = hebat
+
+
+pemimpin di <PERSON>pihak belanda</PERSON> , antara lain letkol a.f. raaff , kolonel de stuer , mac .
+
+
+tidak ada entitas jawaban, skip
+
+
+akhirnya , benteng bonjol berhasil dilumpuhkan oleh <PERSON>belanda .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+selanjutnya , belanda mengajak berunding <PERSON>kaum paderi</PERSON> yang berujung pada penangkapan tuanku imam bonjol ( <TIME>25 oktober 1837</TIME> ) .
+
+memproses passage 8
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
+list jawaban dan posisi dalam passage
+25 oktober 1837 | position = 10
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = ajak
+tokenwithtagstemmed = runding
+tokenwithtagstemmed = kaum paderi
+tokenwithtagstemmed = ujung
+tokenwithtagstemmed = tangkap
+tokenwithtagstemmed = tuanku
+tokenwithtagstemmed = imam
+tokenwithtagstemmed = bonjol
+tokenwithtagstemmed = 25 oktober 1837
+kata kunci = wafat
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = belanda
+tokenwithtagstemmed = ajak
+tokenwithtagstemmed = runding
+tokenwithtagstemmed = kaum paderi
+tokenwithtagstemmed = ujung
+tokenwithtagstemmed = tangkap
+tokenwithtagstemmed = tuanku
+tokenwithtagstemmed = imam
+tokenwithtagstemmed = bonjol
+tokenwithtagstemmed = 25 oktober 1837
+
+
+setelah ditahan , tuanku imam bonjol dibuang ke cianjur , dipindahkan ke ambon ( <TIME>1839</TIME> ) , dan <TIME>tahun 1841</TIME> dipindahkan ke manado hingga wafat <TIME>tanggal 6 november 1864</TIME> .
+
+memproses passage 8
+sentence : 3
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
+list jawaban dan posisi dalam passage
+1839 | position = 8
+tahun 1841 | position = 9
+tanggal 6 november 1864 | position = 13
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = tahan
+tokenwithtagstemmed = tuanku
+tokenwithtagstemmed = imam
+tokenwithtagstemmed = bonjol
+tokenwithtagstemmed = buang
+tokenwithtagstemmed = cianjur
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = 1839
+tokenwithtagstemmed = tahun 1841
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = manado
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tanggal 6 november 1864
+kata kunci = wafat
+tokenwithtagstemmed = tahan
+tokenwithtagstemmed = tuanku
+tokenwithtagstemmed = imam
+tokenwithtagstemmed = bonjol
+tokenwithtagstemmed = buang
+tokenwithtagstemmed = cianjur
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = ambon
+tokenwithtagstemmed = 1839
+tokenwithtagstemmed = tahun 1841
+tokenwithtagstemmed = pindah
+tokenwithtagstemmed = manado
+tokenwithtagstemmed = wafat
+posisi dalam passage = 12
+jarak dengan tiap kandidat jawaban:
+1839 -4
+tahun 1841 -3
+tanggal 6 november 1864 1
+
+tokenwithtagstemmed = tanggal 6 november 1864
+
+
+perlawanan <PERSON>kaum paderi</PERSON> kemudian dilanjutkan oleh tuanku tambusai .
+
+
+tidak ada entitas jawaban, skip
+
+
+setelah imam bonjol tertangkap , akhirnya seluruh sumatra barat jatuh ke tangan <PERSON>belanda .</PERSON>
+
+
+tidak ada entitas jawaban, skip
+
+
+pajang kemudian dijadikan salah satu wilayah bagian daari mataram yang beribukota di <LOCATION>kotagede .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+senapati bertahta sampai wafatnya pada <TIME>tahun 1601</TIME> .
+
+memproses passage 5
+sentence : 2
+from document : C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+title : kerajaan mataram islam
+list jawaban dan posisi dalam passage
+tahun 1601 | position = 3
+
+
+melakukan pencarian:
+kata kunci = diponegoro
+tokenwithtagstemmed = senapati
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = wafat
+tokenwithtagstemmed = tahun 1601
+kata kunci = wafat
+tokenwithtagstemmed = senapati
+tokenwithtagstemmed = bertahta
+tokenwithtagstemmed = wafat
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+tahun 1601 1
+
+tokenwithtagstemmed = tahun 1601
+
+
+selama pemerintahannya boleh dikatakan terus-menerus berperang menundukkan bupati-bupati daerah .
+
+
+tidak ada entitas jawaban, skip
+
+
+kasultanan demak menyerah , panaraga , pasuruan , kediri , surabaya , berturut-turut direbut .
+
+
+tidak ada entitas jawaban, skip
+
+
+cirebon pun berada di bawah pengaruhnya .
+
+
+tidak ada entitas jawaban, skip
+
+Pengurutan kandidat jawaban
+this.answer = 1582
+passage rank = 1
+distance = 1
+doc rank = 1
+total Score = 3
+frequency = 1
+order process = 1
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+document Title = kerajaan mataram islam
+
+this.answer = 1749
+passage rank = 3
+distance = 1
+doc rank = 1
+total Score = 5
+frequency = 1
+order process = 2
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+document Title = kerajaan mataram islam
+
+this.answer = tahun 1601
+passage rank = 10
+distance = 1
+doc rank = 1
+total Score = 12
+frequency = 1
+order process = 10
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok386.txt
+document Title = kerajaan mataram islam
+
+this.answer = tanggal 6 november 1864
+passage rank = 9
+distance = 1
+doc rank = 5
+total Score = 15
+frequency = 1
+order process = 9
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok128.txt
+document Title = sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
+
+this.answer = tanggal 12 september 1957
+passage rank = 6
+distance = 16
+doc rank = 4
+total Score = 26
+frequency = 1
+order process = 3
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+document Title = pengiriman pasukan garuda
+
+this.answer = tanggal 12 september 1957
+passage rank = 7
+distance = 16
+doc rank = 4
+total Score = 27
+frequency = 1
+order process = 6
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+document Title = pengiriman pasukan garuda
+
+this.answer = 10 september 1960
+passage rank = 6
+distance = 44
+doc rank = 4
+total Score = 54
+frequency = 1
+order process = 4
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+document Title = pengiriman pasukan garuda
+
+this.answer = 10 september 1960
+passage rank = 7
+distance = 44
+doc rank = 4
+total Score = 55
+frequency = 1
+order process = 7
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+document Title = pengiriman pasukan garuda
+
+this.answer = 1961
+passage rank = 6
+distance = 60
+doc rank = 4
+total Score = 70
+frequency = 1
+order process = 5
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+document Title = pengiriman pasukan garuda
+
+this.answer = 1961
+passage rank = 7
+distance = 60
+doc rank = 4
+total Score = 71
+frequency = 1
+order process = 8
+document file = C:\Users\hobert\workspace\tesLuceneLowerVersion1\dokumenSejarah\dok222.txt
+document Title = pengiriman pasukan garuda
+
+
+
+selesai
